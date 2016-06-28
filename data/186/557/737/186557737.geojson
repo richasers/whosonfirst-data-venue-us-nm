@@ -2,13 +2,14 @@
   "id": 186557737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.749384,32.293506,-106.749384,32.293506",
     "geom:latitude":32.293506,
     "geom:longitude":-106.749384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1930 Myrtle Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186557737,
-    "wof:lastmodified":1449052271,
+    "wof:lastmodified":1466700494,
     "wof:name":"First Medical Supply",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.749384,32.293506,-106.749384,32.293506],
-  "geometry": {"coordinates":[-106.749384,32.293506],"type":"Point"}
+  "bbox": [
+    -106.749384,
+    32.293506,
+    -106.749384,
+    32.293506
+],
+  "geometry": {"coordinates":[-106.74938400000001,32.293506],"type":"Point"}
 }

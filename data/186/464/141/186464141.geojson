@@ -2,13 +2,14 @@
   "id": 186464141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.805052,32.311313,-106.805052,32.311313",
     "geom:latitude":32.311313,
     "geom:longitude":-106.805052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 Quesenberry St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186464141,
-    "wof:lastmodified":1449051106,
+    "wof:lastmodified":1466700227,
     "wof:name":"Pena's Tile Installation",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.805052,32.311313,-106.805052,32.311313],
+  "bbox": [
+    -106.805052,
+    32.311313,
+    -106.805052,
+    32.311313
+],
   "geometry": {"coordinates":[-106.805052,32.311313],"type":"Point"}
 }

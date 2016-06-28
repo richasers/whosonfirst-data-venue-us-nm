@@ -2,13 +2,14 @@
   "id": 202495097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.717802,35.049365,-106.717802,35.049365",
     "geom:latitude":35.049365,
     "geom:longitude":-106.717802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7509 Desert Canyon Pl SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202495097,
-    "wof:lastmodified":1449061240,
+    "wof:lastmodified":1466699086,
     "wof:name":"Richard Eric Onsurez Cnsltng",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-106.717802,35.049365,-106.717802,35.049365],
-  "geometry": {"coordinates":[-106.717802,35.049365],"type":"Point"}
+  "bbox": [
+    -106.717802,
+    35.049365,
+    -106.717802,
+    35.049365
+],
+  "geometry": {"coordinates":[-106.71780200000001,35.049365],"type":"Point"}
 }

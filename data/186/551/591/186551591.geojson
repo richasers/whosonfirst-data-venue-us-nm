@@ -2,13 +2,14 @@
   "id": 186551591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.144367,36.784541,-108.144367,36.784541",
     "geom:latitude":36.784541,
     "geom:longitude":-108.144367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 Hogan Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186551591,
-    "wof:lastmodified":1449050945,
+    "wof:lastmodified":1466700448,
     "wof:name":"Creative Impressions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-108.144367,36.784541,-108.144367,36.784541],
+  "bbox": [
+    -108.144367,
+    36.784541,
+    -108.144367,
+    36.784541
+],
   "geometry": {"coordinates":[-108.144367,36.784541],"type":"Point"}
 }

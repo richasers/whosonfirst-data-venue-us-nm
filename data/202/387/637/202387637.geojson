@@ -2,13 +2,14 @@
   "id": 202387637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.260297,33.127728,-107.260297,33.127728",
     "geom:latitude":33.127728,
     "geom:longitude":-107.260297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 S Broadway St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202387637,
-    "wof:lastmodified":1449062313,
+    "wof:lastmodified":1466697771,
     "wof:name":"CHF Thrift Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consignment"
     ]
 },
-  "bbox": [-107.260297,33.127728,-107.260297,33.127728],
-  "geometry": {"coordinates":[-107.260297,33.127728],"type":"Point"}
+  "bbox": [
+    -107.260297,
+    33.127728,
+    -107.260297,
+    33.127728
+],
+  "geometry": {"coordinates":[-107.26029699999999,33.127728],"type":"Point"}
 }

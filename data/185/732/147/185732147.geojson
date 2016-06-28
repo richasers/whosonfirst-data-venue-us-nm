@@ -2,13 +2,14 @@
   "id": 185732147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.757367,32.267814,-107.757367,32.267814",
     "geom:latitude":32.267814,
     "geom:longitude":-107.757367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 E Spruce St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185732147,
-    "wof:lastmodified":1449008277,
+    "wof:lastmodified":1466698997,
     "wof:name":"Teapot Dome",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-107.757367,32.267814,-107.757367,32.267814],
+  "bbox": [
+    -107.757367,
+    32.267814,
+    -107.757367,
+    32.267814
+],
   "geometry": {"coordinates":[-107.757367,32.267814],"type":"Point"}
 }

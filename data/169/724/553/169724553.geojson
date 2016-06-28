@@ -2,13 +2,14 @@
   "id": 169724553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586415,35.119852,-106.586415,35.119852",
     "geom:latitude":35.119852,
     "geom:longitude":-106.586415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":169724553,
-    "wof:lastmodified":1449035896,
+    "wof:lastmodified":1466697825,
     "wof:name":"HI-Z Computer Supplies",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "copy"
     ]
 },
-  "bbox": [-106.586415,35.119852,-106.586415,35.119852],
+  "bbox": [
+    -106.586415,
+    35.119852,
+    -106.586415,
+    35.119852
+],
   "geometry": {"coordinates":[-106.586415,35.119852],"type":"Point"}
 }

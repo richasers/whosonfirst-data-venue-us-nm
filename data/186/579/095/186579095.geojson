@@ -2,13 +2,14 @@
   "id": 186579095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.913397,35.672312,-105.913397,35.672312",
     "geom:latitude":35.672312,
     "geom:longitude":-105.913397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Cam Cabra",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186579095,
-    "wof:lastmodified":1449051243,
+    "wof:lastmodified":1466700555,
     "wof:name":"Rio Grande School",
     "wof:parent_id":85880821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "care"
     ]
 },
-  "bbox": [-105.913397,35.672312,-105.913397,35.672312],
+  "bbox": [
+    -105.913397,
+    35.672312,
+    -105.913397,
+    35.672312
+],
   "geometry": {"coordinates":[-105.913397,35.672312],"type":"Point"}
 }

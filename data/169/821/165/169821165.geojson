@@ -2,13 +2,14 @@
   "id": 169821165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.627097,35.122438,-106.627097,35.122438",
     "geom:latitude":35.122438,
     "geom:longitude":-106.627097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Rankin Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":169821165,
-    "wof:lastmodified":1449034492,
+    "wof:lastmodified":1466698751,
     "wof:name":"A P S Food Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-106.627097,35.122438,-106.627097,35.122438],
-  "geometry": {"coordinates":[-106.627097,35.122438],"type":"Point"}
+  "bbox": [
+    -106.627097,
+    35.122438,
+    -106.627097,
+    35.122438
+],
+  "geometry": {"coordinates":[-106.62709700000001,35.122438],"type":"Point"}
 }

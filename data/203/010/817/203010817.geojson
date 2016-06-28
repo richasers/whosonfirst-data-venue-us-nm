@@ -2,13 +2,14 @@
   "id": 203010817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.650481,35.220327,-106.650481,35.220327",
     "geom:latitude":35.220327,
     "geom:longitude":-106.650481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Jemez Trl S",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203010817,
-    "wof:lastmodified":1449026132,
+    "wof:lastmodified":1466697708,
     "wof:name":"New Mexico Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.650481,35.220327,-106.650481,35.220327],
+  "bbox": [
+    -106.650481,
+    35.220327,
+    -106.650481,
+    35.220327
+],
   "geometry": {"coordinates":[-106.650481,35.220327],"type":"Point"}
 }

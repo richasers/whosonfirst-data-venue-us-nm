@@ -2,13 +2,14 @@
   "id": 202938231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.508463,33.438803,-104.508463,33.438803",
     "geom:latitude":33.438803,
     "geom:longitude":-104.508463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3402 Mission Arch Dr",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202938231,
-    "wof:lastmodified":1449061995,
+    "wof:lastmodified":1466700511,
     "wof:name":"New Satellites & Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-104.508463,33.438803,-104.508463,33.438803],
-  "geometry": {"coordinates":[-104.508463,33.438803],"type":"Point"}
+  "bbox": [
+    -104.508463,
+    33.438803,
+    -104.508463,
+    33.438803
+],
+  "geometry": {"coordinates":[-104.50846300000001,33.438803],"type":"Point"}
 }

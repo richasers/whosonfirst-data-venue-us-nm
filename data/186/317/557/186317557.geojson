@@ -2,13 +2,14 @@
   "id": 186317557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.403856,36.707249,-105.403856,36.707249",
     "geom:latitude":36.707249,
     "geom:longitude":-105.403856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Gilt Edge Trl",
     "sg:city":"Red River",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186317557,
-    "wof:lastmodified":1449051593,
+    "wof:lastmodified":1466699527,
     "wof:name":"Deer Lodge Red River",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.403856,36.707249,-105.403856,36.707249],
+  "bbox": [
+    -105.403856,
+    36.707249,
+    -105.403856,
+    36.707249
+],
   "geometry": {"coordinates":[-105.403856,36.707249],"type":"Point"}
 }

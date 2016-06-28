@@ -2,13 +2,14 @@
   "id": 185840961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.227427,32.432209,-104.227427,32.432209",
     "geom:latitude":32.432209,
     "geom:longitude":-104.227427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 W Blodgett St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185840961,
-    "wof:lastmodified":1449007873,
+    "wof:lastmodified":1466697909,
     "wof:name":"Portraits By West",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-104.227427,32.432209,-104.227427,32.432209],
-  "geometry": {"coordinates":[-104.227427,32.432209],"type":"Point"}
+  "bbox": [
+    -104.227427,
+    32.432209,
+    -104.227427,
+    32.432209
+],
+  "geometry": {"coordinates":[-104.22742700000001,32.432209],"type":"Point"}
 }

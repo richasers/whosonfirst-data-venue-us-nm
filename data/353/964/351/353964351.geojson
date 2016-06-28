@@ -2,13 +2,14 @@
   "id": 353964351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.725891,35.070599,-106.725891,35.070599",
     "geom:latitude":35.070599,
     "geom:longitude":-106.725891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8100 Greythorn Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353964351,
-    "wof:lastmodified":1449020180,
+    "wof:lastmodified":1466698864,
     "wof:name":"Zivis Special Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "citizen"
     ]
 },
-  "bbox": [-106.725891,35.070599,-106.725891,35.070599],
+  "bbox": [
+    -106.725891,
+    35.070599,
+    -106.725891,
+    35.070599
+],
   "geometry": {"coordinates":[-106.725891,35.070599],"type":"Point"}
 }

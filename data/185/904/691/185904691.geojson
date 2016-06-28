@@ -2,13 +2,14 @@
   "id": 185904691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.221713,32.863194,-108.221713,32.863194",
     "geom:latitude":32.863194,
     "geom:longitude":-108.221713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4774 State Hwy 15",
     "sg:city":"Pinos Altos",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185904691,
-    "wof:lastmodified":1449008253,
+    "wof:lastmodified":1466698590,
     "wof:name":"American Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drapery"
     ]
 },
-  "bbox": [-108.221713,32.863194,-108.221713,32.863194],
-  "geometry": {"coordinates":[-108.221713,32.863194],"type":"Point"}
+  "bbox": [
+    -108.221713,
+    32.863194,
+    -108.221713,
+    32.863194
+],
+  "geometry": {"coordinates":[-108.22171299999999,32.863194],"type":"Point"}
 }

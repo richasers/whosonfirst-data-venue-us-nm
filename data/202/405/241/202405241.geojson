@@ -2,13 +2,14 @@
   "id": 202405241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.139661,36.771283,-108.139661,36.771283",
     "geom:latitude":36.771283,
     "geom:longitude":-108.139661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5220 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202405241,
-    "wof:lastmodified":1449062447,
+    "wof:lastmodified":1466697998,
     "wof:name":"Paul Graffis Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-108.139661,36.771283,-108.139661,36.771283],
+  "bbox": [
+    -108.139661,
+    36.771283,
+    -108.139661,
+    36.771283
+],
   "geometry": {"coordinates":[-108.139661,36.771283],"type":"Point"}
 }

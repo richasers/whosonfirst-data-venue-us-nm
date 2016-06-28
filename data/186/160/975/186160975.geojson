@@ -2,13 +2,14 @@
   "id": 186160975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.7027,35.241473,-106.7027,35.241473",
     "geom:latitude":35.241473,
     "geom:longitude":-106.7027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1706 Southern Blvd SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186160975,
-    "wof:lastmodified":1449052579,
+    "wof:lastmodified":1466699358,
     "wof:name":"Sal-E-Boys Pizzeria Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.7027,35.241473,-106.7027,35.241473],
-  "geometry": {"coordinates":[-106.7027,35.241473],"type":"Point"}
+  "bbox": [
+    -106.7027,
+    35.241473,
+    -106.7027,
+    35.241473
+],
+  "geometry": {"coordinates":[-106.70269999999999,35.241473],"type":"Point"}
 }

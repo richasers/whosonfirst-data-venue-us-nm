@@ -2,13 +2,14 @@
   "id": 202731077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.664812,35.119168,-106.664812,35.119168",
     "geom:latitude":35.119168,
     "geom:longitude":-106.664812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Cam Raso NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202731077,
-    "wof:lastmodified":1449062359,
+    "wof:lastmodified":1466699721,
     "wof:name":"D W Enterprise",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.664812,35.119168,-106.664812,35.119168],
+  "bbox": [
+    -106.664812,
+    35.119168,
+    -106.664812,
+    35.119168
+],
   "geometry": {"coordinates":[-106.664812,35.119168],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353921209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.646057,35.08181,-106.646057,35.08181",
     "geom:latitude":35.08181,
     "geom:longitude":-106.646057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Silver Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353921209,
-    "wof:lastmodified":1449019887,
+    "wof:lastmodified":1466697760,
     "wof:name":"Silver Gardens Apartments",
     "wof:parent_id":85871877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-106.646057,35.08181,-106.646057,35.08181],
+  "bbox": [
+    -106.646057,
+    35.08181,
+    -106.646057,
+    35.08181
+],
   "geometry": {"coordinates":[-106.646057,35.08181],"type":"Point"}
 }

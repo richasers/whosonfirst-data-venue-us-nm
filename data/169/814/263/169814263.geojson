@@ -2,13 +2,14 @@
   "id": 169814263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.733055,35.071595,-106.733055,35.071595",
     "geom:latitude":35.071595,
     "geom:longitude":-106.733055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 San Tomas Ln SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":169814263,
-    "wof:lastmodified":1449033295,
+    "wof:lastmodified":1466698693,
     "wof:name":"Casa Upholstery & Casa Antqs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-106.733055,35.071595,-106.733055,35.071595],
-  "geometry": {"coordinates":[-106.733055,35.071595],"type":"Point"}
+  "bbox": [
+    -106.733055,
+    35.071595,
+    -106.733055,
+    35.071595
+],
+  "geometry": {"coordinates":[-106.73305499999999,35.071595],"type":"Point"}
 }

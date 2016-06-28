@@ -2,13 +2,14 @@
   "id": 202880675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.690623,34.859662,-106.690623,34.859662",
     "geom:latitude":34.859662,
     "geom:longitude":-106.690623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Bosque Farms Blvd",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202880675,
-    "wof:lastmodified":1449062676,
+    "wof:lastmodified":1466700282,
     "wof:name":"Pro-Fab Inc",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "plastic"
     ]
 },
-  "bbox": [-106.690623,34.859662,-106.690623,34.859662],
+  "bbox": [
+    -106.690623,
+    34.859662,
+    -106.690623,
+    34.859662
+],
   "geometry": {"coordinates":[-106.690623,34.859662],"type":"Point"}
 }

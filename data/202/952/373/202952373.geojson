@@ -2,13 +2,14 @@
   "id": 202952373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.751898,35.0588,-106.751898,35.0588",
     "geom:latitude":35.0588,
     "geom:longitude":-106.751898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11012 Andalusian Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202952373,
-    "wof:lastmodified":1449061925,
+    "wof:lastmodified":1466700446,
     "wof:name":"Gymnastics On Wheels",
     "wof:parent_id":85892581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.751898,35.0588,-106.751898,35.0588],
+  "bbox": [
+    -106.751898,
+    35.0588,
+    -106.751898,
+    35.0588
+],
   "geometry": {"coordinates":[-106.751898,35.0588],"type":"Point"}
 }

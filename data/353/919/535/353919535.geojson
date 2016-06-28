@@ -2,13 +2,14 @@
   "id": 353919535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.641532,35.056128,-106.641532,35.056128",
     "geom:latitude":35.056128,
     "geom:longitude":-106.641532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 Karsten Ct SE Ste A",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353919535,
-    "wof:lastmodified":1449020184,
+    "wof:lastmodified":1466697711,
     "wof:name":"Keith's Kreations, Inc.",
     "wof:parent_id":85846885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "mill"
     ]
 },
-  "bbox": [-106.641532,35.056128,-106.641532,35.056128],
+  "bbox": [
+    -106.641532,
+    35.056128,
+    -106.641532,
+    35.056128
+],
   "geometry": {"coordinates":[-106.641532,35.056128],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186467923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.530268,35.148556,-106.530268,35.148556",
     "geom:latitude":35.148556,
     "geom:longitude":-106.530268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9708 Admiral Nimitz Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186467923,
-    "wof:lastmodified":1449052434,
+    "wof:lastmodified":1466700115,
     "wof:name":"Precision Transcription",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-106.530268,35.148556,-106.530268,35.148556],
-  "geometry": {"coordinates":[-106.530268,35.148556],"type":"Point"}
+  "bbox": [
+    -106.530268,
+    35.148556,
+    -106.530268,
+    35.148556
+],
+  "geometry": {"coordinates":[-106.53026800000001,35.148556],"type":"Point"}
 }

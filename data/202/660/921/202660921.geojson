@@ -2,13 +2,14 @@
   "id": 202660921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.636885,35.13735,-106.636885,35.13735",
     "geom:latitude":35.13735,
     "geom:longitude":-106.636885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202660921,
-    "wof:lastmodified":1449062383,
+    "wof:lastmodified":1466699298,
     "wof:name":"Church On The Rock",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.636885,35.13735,-106.636885,35.13735],
-  "geometry": {"coordinates":[-106.636885,35.13735],"type":"Point"}
+  "bbox": [
+    -106.636885,
+    35.13735,
+    -106.636885,
+    35.13735
+],
+  "geometry": {"coordinates":[-106.63688500000001,35.13735],"type":"Point"}
 }

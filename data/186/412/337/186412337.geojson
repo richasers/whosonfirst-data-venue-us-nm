@@ -2,13 +2,14 @@
   "id": 186412337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.679137,33.348069,-105.679137,33.348069",
     "geom:latitude":33.348069,
     "geom:longitude":-105.679137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Dogwood Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186412337,
-    "wof:lastmodified":1449050952,
+    "wof:lastmodified":1466699887,
     "wof:name":"Southwest Carpet Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-105.679137,33.348069,-105.679137,33.348069],
+  "bbox": [
+    -105.679137,
+    33.348069,
+    -105.679137,
+    33.348069
+],
   "geometry": {"coordinates":[-105.679137,33.348069],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186254355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.938029,35.662353,-105.938029,35.662353",
     "geom:latitude":35.662353,
     "geom:longitude":-105.938029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1660 Old Pecos Trl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":186254355,
-    "wof:lastmodified":1449052214,
+    "wof:lastmodified":1466698720,
     "wof:name":"Wolf International Advisors",
     "wof:parent_id":85880837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.938029,35.662353,-105.938029,35.662353],
+  "bbox": [
+    -105.938029,
+    35.662353,
+    -105.938029,
+    35.662353
+],
   "geometry": {"coordinates":[-105.938029,35.662353],"type":"Point"}
 }

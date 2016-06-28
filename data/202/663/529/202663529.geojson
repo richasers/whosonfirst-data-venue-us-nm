@@ -2,13 +2,14 @@
   "id": 202663529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.642073,35.053416,-106.642073,35.053416",
     "geom:latitude":35.053416,
     "geom:longitude":-106.642073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 Karsten Ct SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202663529,
-    "wof:lastmodified":1449061966,
+    "wof:lastmodified":1466699336,
     "wof:name":"Superior Solid Surface",
     "wof:parent_id":85846885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.642073,35.053416,-106.642073,35.053416],
+  "bbox": [
+    -106.642073,
+    35.053416,
+    -106.642073,
+    35.053416
+],
   "geometry": {"coordinates":[-106.642073,35.053416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185710235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.186693,34.399782,-103.186693,34.399782",
     "geom:latitude":34.399782,
     "geom:longitude":-103.186693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 E 2nd St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185710235,
-    "wof:lastmodified":1449006694,
+    "wof:lastmodified":1466698736,
     "wof:name":"Nobles Pilot Car Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-103.186693,34.399782,-103.186693,34.399782],
-  "geometry": {"coordinates":[-103.186693,34.399782],"type":"Point"}
+  "bbox": [
+    -103.186693,
+    34.399782,
+    -103.186693,
+    34.399782
+],
+  "geometry": {"coordinates":[-103.18669300000001,34.399782],"type":"Point"}
 }

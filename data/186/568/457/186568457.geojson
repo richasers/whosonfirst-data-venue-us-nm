@@ -2,13 +2,14 @@
   "id": 186568457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.252213,32.202501,-104.252213,32.202501",
     "geom:latitude":32.202501,
     "geom:longitude":-104.252213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1159 Black River Rd",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186568457,
-    "wof:lastmodified":1449050178,
+    "wof:lastmodified":1466700654,
     "wof:name":"Black River Ctr For Learning",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "retreat"
     ]
 },
-  "bbox": [-104.252213,32.202501,-104.252213,32.202501],
+  "bbox": [
+    -104.252213,
+    32.202501,
+    -104.252213,
+    32.202501
+],
   "geometry": {"coordinates":[-104.252213,32.202501],"type":"Point"}
 }

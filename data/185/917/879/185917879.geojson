@@ -2,13 +2,14 @@
   "id": 185917879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.768667,32.308072,-106.768667,32.308072",
     "geom:latitude":32.308072,
     "geom:longitude":-106.768667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"937 E Lohman Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185917879,
-    "wof:lastmodified":1449008005,
+    "wof:lastmodified":1466698773,
     "wof:name":"Stevers & Associates",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.768667,32.308072,-106.768667,32.308072],
-  "geometry": {"coordinates":[-106.768667,32.308072],"type":"Point"}
+  "bbox": [
+    -106.768667,
+    32.308072,
+    -106.768667,
+    32.308072
+],
+  "geometry": {"coordinates":[-106.76866699999999,32.308072],"type":"Point"}
 }

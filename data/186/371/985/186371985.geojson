@@ -2,13 +2,14 @@
   "id": 186371985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.661913,33.327988,-105.661913,33.327988",
     "geom:latitude":33.327988,
     "geom:longitude":-105.661913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186371985,
-    "wof:lastmodified":1449052404,
+    "wof:lastmodified":1466699742,
     "wof:name":"Keepsakes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-105.661913,33.327988,-105.661913,33.327988],
+  "bbox": [
+    -105.661913,
+    33.327988,
+    -105.661913,
+    33.327988
+],
   "geometry": {"coordinates":[-105.661913,33.327988],"type":"Point"}
 }

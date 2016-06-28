@@ -2,13 +2,14 @@
   "id": 186036427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615773,35.079097,-106.615773,35.079097",
     "geom:latitude":35.079097,
     "geom:longitude":-106.615773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Silver Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186036427,
-    "wof:lastmodified":1449050995,
+    "wof:lastmodified":1466698098,
     "wof:name":"Varsity House Apartments",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-106.615773,35.079097,-106.615773,35.079097],
+  "bbox": [
+    -106.615773,
+    35.079097,
+    -106.615773,
+    35.079097
+],
   "geometry": {"coordinates":[-106.615773,35.079097],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185960489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.194474,32.403876,-104.194474,32.403876",
     "geom:latitude":32.403876,
     "geom:longitude":-104.194474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 E Fiesta Dr",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185960489,
-    "wof:lastmodified":1449007748,
+    "wof:lastmodified":1466699477,
     "wof:name":"Rise N Shine",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-104.194474,32.403876,-104.194474,32.403876],
+  "bbox": [
+    -104.194474,
+    32.403876,
+    -104.194474,
+    32.403876
+],
   "geometry": {"coordinates":[-104.194474,32.403876],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185610845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.168107,35.041204,-106.168107,35.041204",
     "geom:latitude":35.041204,
     "geom:longitude":-106.168107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Richardson Dr",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185610845,
-    "wof:lastmodified":1449008165,
+    "wof:lastmodified":1466697702,
     "wof:name":"Rio Enterprizes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.168107,35.041204,-106.168107,35.041204],
-  "geometry": {"coordinates":[-106.168107,35.041204],"type":"Point"}
+  "bbox": [
+    -106.168107,
+    35.041204,
+    -106.168107,
+    35.041204
+],
+  "geometry": {"coordinates":[-106.16810700000001,35.041204],"type":"Point"}
 }

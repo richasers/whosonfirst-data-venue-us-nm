@@ -2,13 +2,14 @@
   "id": 202517875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.779857,32.306788,-106.779857,32.306788",
     "geom:latitude":32.306788,
     "geom:longitude":-106.779857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 W Amador Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202517875,
-    "wof:lastmodified":1449061549,
+    "wof:lastmodified":1466699253,
     "wof:name":"Farmers Insurance",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.779857,32.306788,-106.779857,32.306788],
-  "geometry": {"coordinates":[-106.779857,32.306788],"type":"Point"}
+  "bbox": [
+    -106.779857,
+    32.306788,
+    -106.779857,
+    32.306788
+],
+  "geometry": {"coordinates":[-106.77985700000001,32.306788],"type":"Point"}
 }

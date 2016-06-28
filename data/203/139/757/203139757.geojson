@@ -2,13 +2,14 @@
   "id": 203139757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.215547,35.413236,-108.215547,35.413236",
     "geom:latitude":35.413236,
     "geom:longitude":-108.215547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Paradise Ln",
     "sg:city":"Thoreau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203139757,
-    "wof:lastmodified":1449025113,
+    "wof:lastmodified":1466699072,
     "wof:name":"Gathering Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.215547,35.413236,-108.215547,35.413236],
+  "bbox": [
+    -108.215547,
+    35.413236,
+    -108.215547,
+    35.413236
+],
   "geometry": {"coordinates":[-108.215547,35.413236],"type":"Point"}
 }

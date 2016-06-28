@@ -2,13 +2,14 @@
   "id": 203141749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.70878,35.00527,-106.70878,35.00527",
     "geom:latitude":35.00527,
     "geom:longitude":-106.70878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2517 Metzgar Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203141749,
-    "wof:lastmodified":1449025587,
+    "wof:lastmodified":1466699100,
     "wof:name":"A Awsome Toy Co",
     "wof:parent_id":85892575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "used"
     ]
 },
-  "bbox": [-106.70878,35.00527,-106.70878,35.00527],
+  "bbox": [
+    -106.70878,
+    35.00527,
+    -106.70878,
+    35.00527
+],
   "geometry": {"coordinates":[-106.70878,35.00527],"type":"Point"}
 }

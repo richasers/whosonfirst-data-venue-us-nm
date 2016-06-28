@@ -2,13 +2,14 @@
   "id": 185661649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.12041,32.701959,-103.12041,32.701959",
     "geom:latitude":32.701959,
     "geom:longitude":-103.12041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N Marland Blvd",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185661649,
-    "wof:lastmodified":1449008048,
+    "wof:lastmodified":1466698249,
     "wof:name":"Lonnies Muffler Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exhaust"
     ]
 },
-  "bbox": [-103.12041,32.701959,-103.12041,32.701959],
-  "geometry": {"coordinates":[-103.12041,32.701959],"type":"Point"}
+  "bbox": [
+    -103.12041,
+    32.701959,
+    -103.12041,
+    32.701959
+],
+  "geometry": {"coordinates":[-103.12041000000001,32.701959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202642891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.933813,35.716177,-105.933813,35.716177",
     "geom:latitude":35.716177,
     "geom:longitude":-105.933813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1070 Cll Largo",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202642891,
-    "wof:lastmodified":1449060256,
+    "wof:lastmodified":1466699029,
     "wof:name":"Erdman Designs",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.933813,35.716177,-105.933813,35.716177],
+  "bbox": [
+    -105.933813,
+    35.716177,
+    -105.933813,
+    35.716177
+],
   "geometry": {"coordinates":[-105.933813,35.716177],"type":"Point"}
 }

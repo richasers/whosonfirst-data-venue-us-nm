@@ -2,13 +2,14 @@
   "id": 202932841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.6795,34.94146,-104.6795,34.94146",
     "geom:latitude":34.94146,
     "geom:longitude":-104.6795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Lake Dr",
     "sg:city":"Santa Rosa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202932841,
-    "wof:lastmodified":1449061052,
+    "wof:lastmodified":1466700490,
     "wof:name":"Bill Montoya Lawn & Maint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-104.6795,34.94146,-104.6795,34.94146],
+  "bbox": [
+    -104.6795,
+    34.94146,
+    -104.6795,
+    34.94146
+],
   "geometry": {"coordinates":[-104.6795,34.94146],"type":"Point"}
 }

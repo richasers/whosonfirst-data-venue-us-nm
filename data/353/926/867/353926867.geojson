@@ -2,13 +2,14 @@
   "id": 353926867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.6175,35.099277,-106.6175,35.099277",
     "geom:latitude":35.099277,
     "geom:longitude":-106.6175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 Stanford Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353926867,
-    "wof:lastmodified":1449019141,
+    "wof:lastmodified":1466697914,
     "wof:name":"William F Green Md",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.6175,35.099277,-106.6175,35.099277],
-  "geometry": {"coordinates":[-106.6175,35.099277],"type":"Point"}
+  "bbox": [
+    -106.6175,
+    35.099277,
+    -106.6175,
+    35.099277
+],
+  "geometry": {"coordinates":[-106.61750000000001,35.099277],"type":"Point"}
 }

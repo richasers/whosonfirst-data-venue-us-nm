@@ -2,13 +2,14 @@
   "id": 202841081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.196611,35.816179,-106.196611,35.816179",
     "geom:latitude":35.816179,
     "geom:longitude":-106.196611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Rover Blvd",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202841081,
-    "wof:lastmodified":1449060649,
+    "wof:lastmodified":1466700147,
     "wof:name":"Coles Construction Svcs LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "for"
     ]
 },
-  "bbox": [-106.196611,35.816179,-106.196611,35.816179],
+  "bbox": [
+    -106.196611,
+    35.816179,
+    -106.196611,
+    35.816179
+],
   "geometry": {"coordinates":[-106.196611,35.816179],"type":"Point"}
 }

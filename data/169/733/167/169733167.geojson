@@ -2,13 +2,14 @@
   "id": 169733167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.67337,35.184232,-106.67337,35.184232",
     "geom:latitude":35.184232,
     "geom:longitude":-106.67337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9461 Eagle Ranch Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169733167,
-    "wof:lastmodified":1449033148,
+    "wof:lastmodified":1466697920,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "adjuster"
     ]
 },
-  "bbox": [-106.67337,35.184232,-106.67337,35.184232],
-  "geometry": {"coordinates":[-106.67337,35.184232],"type":"Point"}
+  "bbox": [
+    -106.67337,
+    35.184232,
+    -106.67337,
+    35.184232
+],
+  "geometry": {"coordinates":[-106.67337000000001,35.184232],"type":"Point"}
 }

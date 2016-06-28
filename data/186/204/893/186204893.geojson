@@ -2,13 +2,14 @@
   "id": 186204893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.965361,36.015897,-106.965361,36.015897",
     "geom:latitude":36.015897,
     "geom:longitude":-106.965361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 W Cordova St",
     "sg:city":"Cuba",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186204893,
-    "wof:lastmodified":1449053098,
+    "wof:lastmodified":1466698090,
     "wof:name":"Cuba Transportation Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-106.965361,36.015897,-106.965361,36.015897],
+  "bbox": [
+    -106.965361,
+    36.015897,
+    -106.965361,
+    36.015897
+],
   "geometry": {"coordinates":[-106.965361,36.015897],"type":"Point"}
 }

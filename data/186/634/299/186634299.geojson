@@ -2,13 +2,14 @@
   "id": 186634299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.660186,31.935304,-106.660186,31.935304",
     "geom:latitude":31.935304,
     "geom:longitude":-106.660186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Alvarez Rd",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186634299,
-    "wof:lastmodified":1449051661,
+    "wof:lastmodified":1466700854,
     "wof:name":"G M Malone Roofing & Constr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.660186,31.935304,-106.660186,31.935304],
+  "bbox": [
+    -106.660186,
+    31.935304,
+    -106.660186,
+    31.935304
+],
   "geometry": {"coordinates":[-106.660186,31.935304],"type":"Point"}
 }

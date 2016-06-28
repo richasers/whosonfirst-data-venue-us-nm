@@ -2,13 +2,14 @@
   "id": 185790507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.939085,35.660219,-105.939085,35.660219",
     "geom:latitude":35.660219,
     "geom:longitude":-105.939085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1751 Old Pecos Trl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185790507,
-    "wof:lastmodified":1449007857,
+    "wof:lastmodified":1466699308,
     "wof:name":"Barranca Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-105.939085,35.660219,-105.939085,35.660219],
-  "geometry": {"coordinates":[-105.939085,35.660219],"type":"Point"}
+  "bbox": [
+    -105.939085,
+    35.660219,
+    -105.939085,
+    35.660219
+],
+  "geometry": {"coordinates":[-105.93908500000001,35.660219],"type":"Point"}
 }

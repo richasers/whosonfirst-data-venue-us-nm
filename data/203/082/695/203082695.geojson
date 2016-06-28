@@ -2,13 +2,14 @@
   "id": 203082695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.62434,33.324895,-105.62434,33.324895",
     "geom:latitude":33.324895,
     "geom:longitude":-105.62434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 US Hwy 70",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203082695,
-    "wof:lastmodified":1449024998,
+    "wof:lastmodified":1466698486,
     "wof:name":"Western Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.62434,33.324895,-105.62434,33.324895],
+  "bbox": [
+    -105.62434,
+    33.324895,
+    -105.62434,
+    33.324895
+],
   "geometry": {"coordinates":[-105.62434,33.324895],"type":"Point"}
 }

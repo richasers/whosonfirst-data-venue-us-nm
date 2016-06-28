@@ -2,13 +2,14 @@
   "id": 169856705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.267121,35.102542,-106.267121,35.102542",
     "geom:latitude":35.102542,
     "geom:longitude":-106.267121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Danice Ln",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169856705,
-    "wof:lastmodified":1449033619,
+    "wof:lastmodified":1466698930,
     "wof:name":"Perfect Reflection Window Clg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.267121,35.102542,-106.267121,35.102542],
+  "bbox": [
+    -106.267121,
+    35.102542,
+    -106.267121,
+    35.102542
+],
   "geometry": {"coordinates":[-106.267121,35.102542],"type":"Point"}
 }

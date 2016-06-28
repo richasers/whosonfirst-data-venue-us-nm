@@ -2,13 +2,14 @@
   "id": 337283585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.581639,35.151716,-106.581639,35.151716",
     "geom:latitude":35.151716,
     "geom:longitude":-106.581639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6309 Barnhart St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337283585,
-    "wof:lastmodified":1449027185,
+    "wof:lastmodified":1466697678,
     "wof:name":"Stork News",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-106.581639,35.151716,-106.581639,35.151716],
+  "bbox": [
+    -106.581639,
+    35.151716,
+    -106.581639,
+    35.151716
+],
   "geometry": {"coordinates":[-106.581639,35.151716],"type":"Point"}
 }

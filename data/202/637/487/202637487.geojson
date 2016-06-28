@@ -2,13 +2,14 @@
   "id": 202637487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.599148,35.089843,-106.599148,35.089843",
     "geom:latitude":35.089843,
     "geom:longitude":-106.599148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 Morningside Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202637487,
-    "wof:lastmodified":1449060114,
+    "wof:lastmodified":1466698950,
     "wof:name":"John Pavildes Computer Cnslnt",
     "wof:parent_id":85871899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-106.599148,35.089843,-106.599148,35.089843],
+  "bbox": [
+    -106.599148,
+    35.089843,
+    -106.599148,
+    35.089843
+],
   "geometry": {"coordinates":[-106.599148,35.089843],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202787995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.591287,35.09919,-106.591287,35.09919",
     "geom:latitude":35.09919,
     "geom:longitude":-106.591287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4625 Robin Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202787995,
-    "wof:lastmodified":1449061278,
+    "wof:lastmodified":1466699949,
     "wof:name":"Kuhn's Construction",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.591287,35.09919,-106.591287,35.09919],
-  "geometry": {"coordinates":[-106.591287,35.09919],"type":"Point"}
+  "bbox": [
+    -106.591287,
+    35.09919,
+    -106.591287,
+    35.09919
+],
+  "geometry": {"coordinates":[-106.59128699999999,35.09919],"type":"Point"}
 }

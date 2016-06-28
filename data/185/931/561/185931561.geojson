@@ -2,13 +2,14 @@
   "id": 185931561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.631917,35.185494,-106.631917,35.185494",
     "geom:latitude":35.185494,
     "geom:longitude":-106.631917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"924 Noval Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185931561,
-    "wof:lastmodified":1449008074,
+    "wof:lastmodified":1466698961,
     "wof:name":"Bradley Wilder Handyman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-106.631917,35.185494,-106.631917,35.185494],
+  "bbox": [
+    -106.631917,
+    35.185494,
+    -106.631917,
+    35.185494
+],
   "geometry": {"coordinates":[-106.631917,35.185494],"type":"Point"}
 }

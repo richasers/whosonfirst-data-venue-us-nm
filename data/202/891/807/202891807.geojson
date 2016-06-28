@@ -2,13 +2,14 @@
   "id": 202891807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.755209,32.269194,-107.755209,32.269194",
     "geom:latitude":32.269194,
     "geom:longitude":-107.755209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 E Pine St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202891807,
-    "wof:lastmodified":1449061653,
+    "wof:lastmodified":1466700311,
     "wof:name":"Deming Wash Land Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-107.755209,32.269194,-107.755209,32.269194],
-  "geometry": {"coordinates":[-107.755209,32.269194],"type":"Point"}
+  "bbox": [
+    -107.755209,
+    32.269194,
+    -107.755209,
+    32.269194
+],
+  "geometry": {"coordinates":[-107.75520899999999,32.269194],"type":"Point"}
 }

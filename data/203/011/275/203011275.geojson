@@ -2,13 +2,14 @@
   "id": 203011275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.228409,36.733696,-108.228409,36.733696",
     "geom:latitude":36.733696,
     "geom:longitude":-108.228409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1251 W Apache St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203011275,
-    "wof:lastmodified":1449026490,
+    "wof:lastmodified":1466697716,
     "wof:name":"Bola Tys & Butterflys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-108.228409,36.733696,-108.228409,36.733696],
+  "bbox": [
+    -108.228409,
+    36.733696,
+    -108.228409,
+    36.733696
+],
   "geometry": {"coordinates":[-108.228409,36.733696],"type":"Point"}
 }

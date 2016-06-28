@@ -2,13 +2,14 @@
   "id": 186154747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.641231,31.948853,-106.641231,31.948853",
     "geom:latitude":31.948853,
     "geom:longitude":-106.641231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2355 Hwy 28",
     "sg:city":"Mesilla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186154747,
-    "wof:lastmodified":1449053056,
+    "wof:lastmodified":1466699351,
     "wof:name":"San Andres Learning Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.641231,31.948853,-106.641231,31.948853],
+  "bbox": [
+    -106.641231,
+    31.948853,
+    -106.641231,
+    31.948853
+],
   "geometry": {"coordinates":[-106.641231,31.948853],"type":"Point"}
 }

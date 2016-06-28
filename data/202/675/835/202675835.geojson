@@ -2,13 +2,14 @@
   "id": 202675835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960356,32.908065,-105.960356,32.908065",
     "geom:latitude":32.908065,
     "geom:longitude":-105.960356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 N White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202675835,
-    "wof:lastmodified":1449061411,
+    "wof:lastmodified":1466699661,
     "wof:name":"King's Treasure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-105.960356,32.908065,-105.960356,32.908065],
+  "bbox": [
+    -105.960356,
+    32.908065,
+    -105.960356,
+    32.908065
+],
   "geometry": {"coordinates":[-105.960356,32.908065],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202598581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.714372,35.152815,-106.714372,35.152815",
     "geom:latitude":35.152815,
     "geom:longitude":-106.714372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6300 Montano Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202598581,
-    "wof:lastmodified":1449060232,
+    "wof:lastmodified":1466698361,
     "wof:name":"Rio West Sprinkler",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "general"
     ]
 },
-  "bbox": [-106.714372,35.152815,-106.714372,35.152815],
+  "bbox": [
+    -106.714372,
+    35.152815,
+    -106.714372,
+    35.152815
+],
   "geometry": {"coordinates":[-106.714372,35.152815],"type":"Point"}
 }

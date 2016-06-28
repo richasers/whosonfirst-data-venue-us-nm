@@ -2,13 +2,14 @@
   "id": 202441827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.607988,35.159423,-106.607988,35.159423",
     "geom:latitude":35.159423,
     "geom:longitude":-106.607988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 Villa Ventosa NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202441827,
-    "wof:lastmodified":1449060305,
+    "wof:lastmodified":1466698452,
     "wof:name":"New Mexico Golf Academy",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-106.607988,35.159423,-106.607988,35.159423],
-  "geometry": {"coordinates":[-106.607988,35.159423],"type":"Point"}
+  "bbox": [
+    -106.607988,
+    35.159423,
+    -106.607988,
+    35.159423
+],
+  "geometry": {"coordinates":[-106.60798800000001,35.159423],"type":"Point"}
 }

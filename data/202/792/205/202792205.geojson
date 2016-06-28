@@ -2,13 +2,14 @@
   "id": 202792205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.698202,35.120399,-106.698202,35.120399",
     "geom:latitude":35.120399,
     "geom:longitude":-106.698202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3421 Nova Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202792205,
-    "wof:lastmodified":1449060666,
+    "wof:lastmodified":1466700046,
     "wof:name":"Wet Paint Inc",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.698202,35.120399,-106.698202,35.120399],
-  "geometry": {"coordinates":[-106.698202,35.120399],"type":"Point"}
+  "bbox": [
+    -106.698202,
+    35.120399,
+    -106.698202,
+    35.120399
+],
+  "geometry": {"coordinates":[-106.69820199999999,35.120399],"type":"Point"}
 }

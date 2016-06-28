@@ -2,13 +2,14 @@
   "id": 203101103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.131513,32.713819,-103.131513,32.713819",
     "geom:latitude":32.713819,
     "geom:longitude":-103.131513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 E Permian Dr",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203101103,
-    "wof:lastmodified":1449025940,
+    "wof:lastmodified":1466698741,
     "wof:name":"Vintage Home Cos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-103.131513,32.713819,-103.131513,32.713819],
+  "bbox": [
+    -103.131513,
+    32.713819,
+    -103.131513,
+    32.713819
+],
   "geometry": {"coordinates":[-103.131513,32.713819],"type":"Point"}
 }

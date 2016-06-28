@@ -2,13 +2,14 @@
   "id": 202922543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.650043,35.099149,-106.650043,35.099149",
     "geom:latitude":35.099149,
     "geom:longitude":-106.650043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 5th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202922543,
-    "wof:lastmodified":1449060341,
+    "wof:lastmodified":1466700452,
     "wof:name":"Patrick McClenon Archtct Planr",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-106.650043,35.099149,-106.650043,35.099149],
+  "bbox": [
+    -106.650043,
+    35.099149,
+    -106.650043,
+    35.099149
+],
   "geometry": {"coordinates":[-106.650043,35.099149],"type":"Point"}
 }

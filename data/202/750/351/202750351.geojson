@@ -2,13 +2,14 @@
   "id": 202750351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.628019,35.137468,-106.628019,35.137468",
     "geom:latitude":35.137468,
     "geom:longitude":-106.628019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202750351,
-    "wof:lastmodified":1449061662,
+    "wof:lastmodified":1466699779,
     "wof:name":"Roadrunner Transmissions",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-106.628019,35.137468,-106.628019,35.137468],
-  "geometry": {"coordinates":[-106.628019,35.137468],"type":"Point"}
+  "bbox": [
+    -106.628019,
+    35.137468,
+    -106.628019,
+    35.137468
+],
+  "geometry": {"coordinates":[-106.62801899999999,35.137468],"type":"Point"}
 }

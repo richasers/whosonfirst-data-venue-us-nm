@@ -2,13 +2,14 @@
   "id": 186332205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781777,32.339017,-106.781777,32.339017",
     "geom:latitude":32.339017,
     "geom:longitude":-106.781777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2708 Winston Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186332205,
-    "wof:lastmodified":1449051874,
+    "wof:lastmodified":1466699592,
     "wof:name":"Bytes N Stitches",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing"
     ]
 },
-  "bbox": [-106.781777,32.339017,-106.781777,32.339017],
-  "geometry": {"coordinates":[-106.781777,32.339017],"type":"Point"}
+  "bbox": [
+    -106.781777,
+    32.339017,
+    -106.781777,
+    32.339017
+],
+  "geometry": {"coordinates":[-106.78177700000001,32.339017],"type":"Point"}
 }

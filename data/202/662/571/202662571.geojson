@@ -2,13 +2,14 @@
   "id": 202662571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.715735,35.078846,-106.715735,35.078846",
     "geom:latitude":35.078846,
     "geom:longitude":-106.715735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7412 Central Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202662571,
-    "wof:lastmodified":1449061806,
+    "wof:lastmodified":1466699323,
     "wof:name":"Adobe Manor Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-106.715735,35.078846,-106.715735,35.078846],
+  "bbox": [
+    -106.715735,
+    35.078846,
+    -106.715735,
+    35.078846
+],
   "geometry": {"coordinates":[-106.715735,35.078846],"type":"Point"}
 }

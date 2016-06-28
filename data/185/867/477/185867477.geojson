@@ -2,13 +2,14 @@
   "id": 185867477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.044503,35.455248,-106.044503,35.455248",
     "geom:latitude":35.455248,
     "geom:longitude":-106.044503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Haozous Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185867477,
-    "wof:lastmodified":1449007305,
+    "wof:lastmodified":1466698189,
     "wof:name":"Ultra Arts Dental Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-106.044503,35.455248,-106.044503,35.455248],
-  "geometry": {"coordinates":[-106.044503,35.455248],"type":"Point"}
+  "bbox": [
+    -106.044503,
+    35.455248,
+    -106.044503,
+    35.455248
+],
+  "geometry": {"coordinates":[-106.04450300000001,35.455248],"type":"Point"}
 }

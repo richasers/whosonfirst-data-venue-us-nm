@@ -2,13 +2,14 @@
   "id": 185852903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781425,32.319249,-106.781425,32.319249",
     "geom:latitude":32.319249,
     "geom:longitude":-106.781425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 N Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":185852903,
-    "wof:lastmodified":1449007961,
+    "wof:lastmodified":1466698044,
     "wof:name":"Victor's Custom Auto Trim",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "upholsterer"
     ]
 },
-  "bbox": [-106.781425,32.319249,-106.781425,32.319249],
+  "bbox": [
+    -106.781425,
+    32.319249,
+    -106.781425,
+    32.319249
+],
   "geometry": {"coordinates":[-106.781425,32.319249],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353946291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.568878,35.109211,-106.568878,35.109211",
     "geom:latitude":35.109211,
     "geom:longitude":-106.568878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Louisiana Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353946291,
-    "wof:lastmodified":1449020498,
+    "wof:lastmodified":1466698461,
     "wof:name":"First American Title Insurance",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-106.568878,35.109211,-106.568878,35.109211],
+  "bbox": [
+    -106.568878,
+    35.109211,
+    -106.568878,
+    35.109211
+],
   "geometry": {"coordinates":[-106.568878,35.109211],"type":"Point"}
 }

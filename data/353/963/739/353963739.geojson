@@ -2,13 +2,14 @@
   "id": 353963739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.696472,35.14024,-106.696472,35.14024",
     "geom:latitude":35.14024,
     "geom:longitude":-106.696472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10000 Loop One NW Ste K",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353963739,
-    "wof:lastmodified":1449018503,
+    "wof:lastmodified":1466698847,
     "wof:name":"Sunglass Icon 07642",
     "wof:parent_id":85865321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sunglass"
     ]
 },
-  "bbox": [-106.696472,35.14024,-106.696472,35.14024],
+  "bbox": [
+    -106.696472,
+    35.14024,
+    -106.696472,
+    35.14024
+],
   "geometry": {"coordinates":[-106.696472,35.14024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202952593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.762917,32.331952,-106.762917,32.331952",
     "geom:latitude":32.331952,
     "geom:longitude":-106.762917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 Anita Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202952593,
-    "wof:lastmodified":1449061926,
+    "wof:lastmodified":1466700449,
     "wof:name":"R&R Racing",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "or"
     ]
 },
-  "bbox": [-106.762917,32.331952,-106.762917,32.331952],
+  "bbox": [
+    -106.762917,
+    32.331952,
+    -106.762917,
+    32.331952
+],
   "geometry": {"coordinates":[-106.762917,32.331952],"type":"Point"}
 }

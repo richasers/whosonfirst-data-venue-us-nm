@@ -2,13 +2,14 @@
   "id": 202530201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.701386,35.066801,-106.701386,35.066801",
     "geom:latitude":35.066801,
     "geom:longitude":-106.701386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Old Coors Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202530201,
-    "wof:lastmodified":1449061462,
+    "wof:lastmodified":1466699280,
     "wof:name":"Living Cross Christian Rstrtn",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.701386,35.066801,-106.701386,35.066801],
+  "bbox": [
+    -106.701386,
+    35.066801,
+    -106.701386,
+    35.066801
+],
   "geometry": {"coordinates":[-106.701386,35.066801],"type":"Point"}
 }

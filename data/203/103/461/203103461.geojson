@@ -2,13 +2,14 @@
   "id": 203103461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.660534,35.197751,-106.660534,35.197751",
     "geom:latitude":35.197751,
     "geom:longitude":-106.660534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10020 Coors Byp NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203103461,
-    "wof:lastmodified":1449026134,
+    "wof:lastmodified":1466698751,
     "wof:name":"Sensation Spas Of Nevada",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tub"
     ]
 },
-  "bbox": [-106.660534,35.197751,-106.660534,35.197751],
+  "bbox": [
+    -106.660534,
+    35.197751,
+    -106.660534,
+    35.197751
+],
   "geometry": {"coordinates":[-106.660534,35.197751],"type":"Point"}
 }

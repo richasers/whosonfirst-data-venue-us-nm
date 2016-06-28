@@ -2,13 +2,14 @@
   "id": 202991755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.728231,32.302001,-106.728231,32.302001",
     "geom:latitude":32.302001,
     "geom:longitude":-106.728231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1843 Regal Ridge St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202991755,
-    "wof:lastmodified":1449060905,
+    "wof:lastmodified":1466700839,
     "wof:name":"Lowell Cain",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.728231,32.302001,-106.728231,32.302001],
-  "geometry": {"coordinates":[-106.728231,32.302001],"type":"Point"}
+  "bbox": [
+    -106.728231,
+    32.302001,
+    -106.728231,
+    32.302001
+],
+  "geometry": {"coordinates":[-106.72823099999999,32.302001],"type":"Point"}
 }

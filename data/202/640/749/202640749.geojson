@@ -2,13 +2,14 @@
   "id": 202640749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.522931,35.134227,-106.522931,35.134227",
     "geom:latitude":35.134227,
     "geom:longitude":-106.522931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4615 Gretta Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202640749,
-    "wof:lastmodified":1449061221,
+    "wof:lastmodified":1466699000,
     "wof:name":"Concorde Cash Solutions",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "banking"
     ]
 },
-  "bbox": [-106.522931,35.134227,-106.522931,35.134227],
+  "bbox": [
+    -106.522931,
+    35.134227,
+    -106.522931,
+    35.134227
+],
   "geometry": {"coordinates":[-106.522931,35.134227],"type":"Point"}
 }

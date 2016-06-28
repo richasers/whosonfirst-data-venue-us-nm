@@ -2,13 +2,14 @@
   "id": 185772151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.913607,32.487599,-106.913607,32.487599",
     "geom:latitude":32.487599,
     "geom:longitude":-106.913607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1132 Fort Selden Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185772151,
-    "wof:lastmodified":1449007336,
+    "wof:lastmodified":1466699232,
     "wof:name":"Cammack Co",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.913607,32.487599,-106.913607,32.487599],
+  "bbox": [
+    -106.913607,
+    32.487599,
+    -106.913607,
+    32.487599
+],
   "geometry": {"coordinates":[-106.913607,32.487599],"type":"Point"}
 }

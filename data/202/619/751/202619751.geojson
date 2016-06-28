@@ -2,13 +2,14 @@
   "id": 202619751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.559946,35.110571,-106.559946,35.110571",
     "geom:latitude":35.110571,
     "geom:longitude":-106.559946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 Pennsylvania St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202619751,
-    "wof:lastmodified":1449060559,
+    "wof:lastmodified":1466698671,
     "wof:name":"Lone Mountain Archaeological",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "archaeologist"
     ]
 },
-  "bbox": [-106.559946,35.110571,-106.559946,35.110571],
+  "bbox": [
+    -106.559946,
+    35.110571,
+    -106.559946,
+    35.110571
+],
   "geometry": {"coordinates":[-106.559946,35.110571],"type":"Point"}
 }

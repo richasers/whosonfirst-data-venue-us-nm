@@ -2,13 +2,14 @@
   "id": 169805857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.517386,33.41596,-104.517386,33.41596",
     "geom:latitude":33.41596,
     "geom:longitude":-104.517386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 E 19th St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169805857,
-    "wof:lastmodified":1449033788,
+    "wof:lastmodified":1466698666,
     "wof:name":"Miss Minnie's School Of Ballet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-104.517386,33.41596,-104.517386,33.41596],
+  "bbox": [
+    -104.517386,
+    33.41596,
+    -104.517386,
+    33.41596
+],
   "geometry": {"coordinates":[-104.517386,33.41596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203102933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.739762,32.313855,-106.739762,32.313855",
     "geom:latitude":32.313855,
     "geom:longitude":-106.739762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3430 Foothills Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203102933,
-    "wof:lastmodified":1449026731,
+    "wof:lastmodified":1466698756,
     "wof:name":"Zianet",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-106.739762,32.313855,-106.739762,32.313855],
+  "bbox": [
+    -106.739762,
+    32.313855,
+    -106.739762,
+    32.313855
+],
   "geometry": {"coordinates":[-106.739762,32.313855],"type":"Point"}
 }

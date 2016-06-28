@@ -2,13 +2,14 @@
   "id": 202909351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.577576,35.109109,-106.577576,35.109109",
     "geom:latitude":35.109109,
     "geom:longitude":-106.577576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 San Pedro Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202909351,
-    "wof:lastmodified":1449062023,
+    "wof:lastmodified":1466700390,
     "wof:name":"Sanderson Employment Svc",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-106.577576,35.109109,-106.577576,35.109109],
-  "geometry": {"coordinates":[-106.577576,35.109109],"type":"Point"}
+  "bbox": [
+    -106.577576,
+    35.109109,
+    -106.577576,
+    35.109109
+],
+  "geometry": {"coordinates":[-106.57757599999999,35.109109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186276939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.80146,32.347929,-106.80146,32.347929",
     "geom:latitude":32.347929,
     "geom:longitude":-106.80146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Armstrong Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186276939,
-    "wof:lastmodified":1449050368,
+    "wof:lastmodified":1466699016,
     "wof:name":"Hh Axle Repair",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-106.80146,32.347929,-106.80146,32.347929],
-  "geometry": {"coordinates":[-106.80146,32.347929],"type":"Point"}
+  "bbox": [
+    -106.80146,
+    32.347929,
+    -106.80146,
+    32.347929
+],
+  "geometry": {"coordinates":[-106.80146000000001,32.347929],"type":"Point"}
 }

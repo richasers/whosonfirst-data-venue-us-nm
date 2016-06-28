@@ -2,13 +2,14 @@
   "id": 185869913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.185104,36.175929,-106.185104,36.175929",
     "geom:latitude":36.175929,
     "geom:longitude":-106.185104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Co Rd 142",
     "sg:city":"Medanales",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185869913,
-    "wof:lastmodified":1449008090,
+    "wof:lastmodified":1466698210,
     "wof:name":"Rio Arriba Cnty Senior Ctzns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "citizen"
     ]
 },
-  "bbox": [-106.185104,36.175929,-106.185104,36.175929],
+  "bbox": [
+    -106.185104,
+    36.175929,
+    -106.185104,
+    36.175929
+],
   "geometry": {"coordinates":[-106.185104,36.175929],"type":"Point"}
 }

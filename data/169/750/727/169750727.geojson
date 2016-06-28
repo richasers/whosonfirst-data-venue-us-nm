@@ -2,13 +2,14 @@
   "id": 169750727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.974342,35.664563,-105.974342,35.664563",
     "geom:latitude":35.664563,
     "geom:longitude":-105.974342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 Rosina St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169750727,
-    "wof:lastmodified":1449034672,
+    "wof:lastmodified":1466698077,
     "wof:name":"Tax Express Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-105.974342,35.664563,-105.974342,35.664563],
-  "geometry": {"coordinates":[-105.974342,35.664563],"type":"Point"}
+  "bbox": [
+    -105.974342,
+    35.664563,
+    -105.974342,
+    35.664563
+],
+  "geometry": {"coordinates":[-105.97434199999999,35.664563],"type":"Point"}
 }

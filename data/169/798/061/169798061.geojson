@@ -2,13 +2,14 @@
   "id": 169798061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.243631,32.42172,-104.243631,32.42172",
     "geom:latitude":32.42172,
     "geom:longitude":-104.243631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1306 W Stevens St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169798061,
-    "wof:lastmodified":1449033302,
+    "wof:lastmodified":1466698573,
     "wof:name":"Health New Mexico Department",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [-104.243631,32.42172,-104.243631,32.42172],
-  "geometry": {"coordinates":[-104.243631,32.42172],"type":"Point"}
+  "bbox": [
+    -104.243631,
+    32.42172,
+    -104.243631,
+    32.42172
+],
+  "geometry": {"coordinates":[-104.24363099999999,32.42172],"type":"Point"}
 }

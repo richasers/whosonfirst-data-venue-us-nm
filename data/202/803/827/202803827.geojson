@@ -2,13 +2,14 @@
   "id": 202803827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.734896,32.319089,-106.734896,32.319089",
     "geom:latitude":32.319089,
     "geom:longitude":-106.734896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3831 E Lohman Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202803827,
-    "wof:lastmodified":1449062684,
+    "wof:lastmodified":1466700088,
     "wof:name":"Pioneer Bank",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.734896,32.319089,-106.734896,32.319089],
-  "geometry": {"coordinates":[-106.734896,32.319089],"type":"Point"}
+  "bbox": [
+    -106.734896,
+    32.319089,
+    -106.734896,
+    32.319089
+],
+  "geometry": {"coordinates":[-106.73489600000001,32.319089],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202816307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.210581,36.728047,-108.210581,36.728047",
     "geom:latitude":36.728047,
     "geom:longitude":-108.210581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 W Broadway",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202816307,
-    "wof:lastmodified":1449061594,
+    "wof:lastmodified":1466700021,
     "wof:name":"Courtesy Loans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-108.210581,36.728047,-108.210581,36.728047],
+  "bbox": [
+    -108.210581,
+    36.728047,
+    -108.210581,
+    36.728047
+],
   "geometry": {"coordinates":[-108.210581,36.728047],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186451531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.643932,33.351459,-105.643932,33.351459",
     "geom:latitude":33.351459,
     "geom:longitude":-105.643932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Gavilan Canyon Rd",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186451531,
-    "wof:lastmodified":1449051541,
+    "wof:lastmodified":1466700040,
     "wof:name":"Buddies Stable",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.643932,33.351459,-105.643932,33.351459],
-  "geometry": {"coordinates":[-105.643932,33.351459],"type":"Point"}
+  "bbox": [
+    -105.643932,
+    33.351459,
+    -105.643932,
+    33.351459
+],
+  "geometry": {"coordinates":[-105.64393200000001,33.351459],"type":"Point"}
 }

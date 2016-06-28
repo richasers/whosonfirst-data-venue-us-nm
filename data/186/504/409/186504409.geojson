@@ -2,13 +2,14 @@
   "id": 186504409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.281466,32.780845,-108.281466,32.780845",
     "geom:latitude":32.780845,
     "geom:longitude":-108.281466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 US Hwy 180 W",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186504409,
-    "wof:lastmodified":1449050887,
+    "wof:lastmodified":1466700239,
     "wof:name":"Time-Out Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-108.281466,32.780845,-108.281466,32.780845],
-  "geometry": {"coordinates":[-108.281466,32.780845],"type":"Point"}
+  "bbox": [
+    -108.281466,
+    32.780845,
+    -108.281466,
+    32.780845
+],
+  "geometry": {"coordinates":[-108.28146599999999,32.780845],"type":"Point"}
 }

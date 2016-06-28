@@ -2,13 +2,14 @@
   "id": 202523215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.941213,35.691121,-105.941213,35.691121",
     "geom:latitude":35.691121,
     "geom:longitude":-105.941213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Catron St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202523215,
-    "wof:lastmodified":1449061566,
+    "wof:lastmodified":1466699259,
     "wof:name":"Santa Fe County Government",
     "wof:parent_id":85880833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-105.941213,35.691121,-105.941213,35.691121],
+  "bbox": [
+    -105.941213,
+    35.691121,
+    -105.941213,
+    35.691121
+],
   "geometry": {"coordinates":[-105.941213,35.691121],"type":"Point"}
 }

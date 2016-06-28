@@ -2,13 +2,14 @@
   "id": 353931559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613777,35.118895,-106.613777,35.118895",
     "geom:latitude":35.118895,
     "geom:longitude":-106.613777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Girard Blvd NE NE,Suite A",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":353931559,
-    "wof:lastmodified":1449020576,
+    "wof:lastmodified":1466698049,
     "wof:name":"Bear Carpet Cleaning, NM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "carpet"
     ]
 },
-  "bbox": [-106.613777,35.118895,-106.613777,35.118895],
+  "bbox": [
+    -106.613777,
+    35.118895,
+    -106.613777,
+    35.118895
+],
   "geometry": {"coordinates":[-106.613777,35.118895],"type":"Point"}
 }

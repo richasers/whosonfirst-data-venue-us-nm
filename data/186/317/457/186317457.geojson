@@ -2,13 +2,14 @@
   "id": 186317457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.73073,35.522898,-108.73073,35.522898",
     "geom:latitude":35.522898,
     "geom:longitude":-108.73073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 S Country Club Dr",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186317457,
-    "wof:lastmodified":1449051594,
+    "wof:lastmodified":1466699527,
     "wof:name":"Hurlbut Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.73073,35.522898,-108.73073,35.522898],
-  "geometry": {"coordinates":[-108.73073,35.522898],"type":"Point"}
+  "bbox": [
+    -108.73073,
+    35.522898,
+    -108.73073,
+    35.522898
+],
+  "geometry": {"coordinates":[-108.73072999999999,35.522898],"type":"Point"}
 }

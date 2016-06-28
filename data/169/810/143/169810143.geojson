@@ -2,13 +2,14 @@
   "id": 169810143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.542872,35.165817,-106.542872,35.165817",
     "geom:latitude":35.165817,
     "geom:longitude":-106.542872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7500 Republic Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169810143,
-    "wof:lastmodified":1449033646,
+    "wof:lastmodified":1466698669,
     "wof:name":"Jim Kunzman Financial Services",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.542872,35.165817,-106.542872,35.165817],
+  "bbox": [
+    -106.542872,
+    35.165817,
+    -106.542872,
+    35.165817
+],
   "geometry": {"coordinates":[-106.542872,35.165817],"type":"Point"}
 }

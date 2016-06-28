@@ -2,13 +2,14 @@
   "id": 202442551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.493113,35.094791,-106.493113,35.094791",
     "geom:latitude":35.094791,
     "geom:longitude":-106.493113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13216 Indian School Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202442551,
-    "wof:lastmodified":1449061235,
+    "wof:lastmodified":1466698450,
     "wof:name":"Paula Borowski LLC",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.493113,35.094791,-106.493113,35.094791],
-  "geometry": {"coordinates":[-106.493113,35.094791],"type":"Point"}
+  "bbox": [
+    -106.493113,
+    35.094791,
+    -106.493113,
+    35.094791
+],
+  "geometry": {"coordinates":[-106.49311299999999,35.094791],"type":"Point"}
 }

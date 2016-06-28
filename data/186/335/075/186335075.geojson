@@ -2,13 +2,14 @@
   "id": 186335075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.707697,35.05048,-106.707697,35.05048",
     "geom:latitude":35.05048,
     "geom:longitude":-106.707697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Coors Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186335075,
-    "wof:lastmodified":1449052136,
+    "wof:lastmodified":1466699591,
     "wof:name":"Coors Auto Recycling",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-106.707697,35.05048,-106.707697,35.05048],
+  "bbox": [
+    -106.707697,
+    35.05048,
+    -106.707697,
+    35.05048
+],
   "geometry": {"coordinates":[-106.707697,35.05048],"type":"Point"}
 }

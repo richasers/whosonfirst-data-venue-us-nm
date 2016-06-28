@@ -2,13 +2,14 @@
   "id": 185804977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.689679,35.046612,-106.689679,35.046612",
     "geom:latitude":35.046612,
     "geom:longitude":-106.689679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2081 Tapia Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185804977,
-    "wof:lastmodified":1449007712,
+    "wof:lastmodified":1466699360,
     "wof:name":"Valley Mortgage Group Inc",
     "wof:parent_id":85892585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-106.689679,35.046612,-106.689679,35.046612],
+  "bbox": [
+    -106.689679,
+    35.046612,
+    -106.689679,
+    35.046612
+],
   "geometry": {"coordinates":[-106.689679,35.046612],"type":"Point"}
 }

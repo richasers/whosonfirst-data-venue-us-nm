@@ -2,13 +2,14 @@
   "id": 202603151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.276207,32.77245,-108.276207,32.77245",
     "geom:latitude":32.77245,
     "geom:longitude":-108.276207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 N Bullard St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202603151,
-    "wof:lastmodified":1449062264,
+    "wof:lastmodified":1466698421,
     "wof:name":"Luchini & Assoc Conflict Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arbitration"
     ]
 },
-  "bbox": [-108.276207,32.77245,-108.276207,32.77245],
+  "bbox": [
+    -108.276207,
+    32.77245,
+    -108.276207,
+    32.77245
+],
   "geometry": {"coordinates":[-108.276207,32.77245],"type":"Point"}
 }

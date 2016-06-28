@@ -2,13 +2,14 @@
   "id": 202946713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.532414,35.069322,-106.532414,35.069322",
     "geom:latitude":35.069322,
     "geom:longitude":-106.532414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Eubank Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202946713,
-    "wof:lastmodified":1449062345,
+    "wof:lastmodified":1466700540,
     "wof:name":"Gamestop 1638",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "software"
     ]
 },
-  "bbox": [-106.532414,35.069322,-106.532414,35.069322],
+  "bbox": [
+    -106.532414,
+    35.069322,
+    -106.532414,
+    35.069322
+],
   "geometry": {"coordinates":[-106.532414,35.069322],"type":"Point"}
 }

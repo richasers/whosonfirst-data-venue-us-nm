@@ -2,13 +2,14 @@
   "id": 186069767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.579246,36.395559,-105.579246,36.395559",
     "geom:latitude":36.395559,
     "geom:longitude":-105.579246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186069767,
-    "wof:lastmodified":1449052065,
+    "wof:lastmodified":1466698532,
     "wof:name":"Peak Card Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "card"
     ]
 },
-  "bbox": [-105.579246,36.395559,-105.579246,36.395559],
+  "bbox": [
+    -105.579246,
+    36.395559,
+    -105.579246,
+    36.395559
+],
   "geometry": {"coordinates":[-105.579246,36.395559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186518973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.970814,35.66251,-105.970814,35.66251",
     "geom:latitude":35.66251,
     "geom:longitude":-105.970814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 5th St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186518973,
-    "wof:lastmodified":1449051896,
+    "wof:lastmodified":1466700201,
     "wof:name":"Aragon & Rascon Lath & Plaster",
     "wof:parent_id":85880811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.970814,35.66251,-105.970814,35.66251],
+  "bbox": [
+    -105.970814,
+    35.66251,
+    -105.970814,
+    35.66251
+],
   "geometry": {"coordinates":[-105.970814,35.66251],"type":"Point"}
 }

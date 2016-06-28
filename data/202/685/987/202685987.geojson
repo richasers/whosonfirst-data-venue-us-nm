@@ -2,13 +2,14 @@
   "id": 202685987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.959553,35.674152,-105.959553,35.674152",
     "geom:latitude":35.674152,
     "geom:longitude":-105.959553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202685987,
-    "wof:lastmodified":1449062567,
+    "wof:lastmodified":1466699554,
     "wof:name":"Sachs Body Modification",
     "wof:parent_id":85880841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-105.959553,35.674152,-105.959553,35.674152],
+  "bbox": [
+    -105.959553,
+    35.674152,
+    -105.959553,
+    35.674152
+],
   "geometry": {"coordinates":[-105.959553,35.674152],"type":"Point"}
 }

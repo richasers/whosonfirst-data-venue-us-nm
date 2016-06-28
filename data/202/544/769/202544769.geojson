@@ -2,13 +2,14 @@
   "id": 202544769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.249856,32.428739,-104.249856,32.428739",
     "geom:latitude":32.428739,
     "geom:longitude":-104.249856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 W Church St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":202544769,
-    "wof:lastmodified":1449062643,
+    "wof:lastmodified":1466699335,
     "wof:name":"Tia Maria Apartments Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-104.249856,32.428739,-104.249856,32.428739],
-  "geometry": {"coordinates":[-104.249856,32.428739],"type":"Point"}
+  "bbox": [
+    -104.249856,
+    32.428739,
+    -104.249856,
+    32.428739
+],
+  "geometry": {"coordinates":[-104.24985599999999,32.428739],"type":"Point"}
 }

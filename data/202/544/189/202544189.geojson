@@ -2,13 +2,14 @@
   "id": 202544189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.724774,35.611449,-106.724774,35.611449",
     "geom:latitude":35.611449,
     "geom:longitude":-106.724774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5121 Hwy 4",
     "sg:city":"Jemez Pueblo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202544189,
-    "wof:lastmodified":1449062646,
+    "wof:lastmodified":1466699325,
     "wof:name":"Domestic Violence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-106.724774,35.611449,-106.724774,35.611449],
+  "bbox": [
+    -106.724774,
+    35.611449,
+    -106.724774,
+    35.611449
+],
   "geometry": {"coordinates":[-106.724774,35.611449],"type":"Point"}
 }

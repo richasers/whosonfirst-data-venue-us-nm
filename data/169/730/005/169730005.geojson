@@ -2,13 +2,14 @@
   "id": 169730005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.55328,35.145262,-106.55328,35.145262",
     "geom:latitude":35.145262,
     "geom:longitude":-106.55328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5620 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169730005,
-    "wof:lastmodified":1449035431,
+    "wof:lastmodified":1466699398,
     "wof:name":"First Community Bank",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.55328,35.145262,-106.55328,35.145262],
+  "bbox": [
+    -106.55328,
+    35.145262,
+    -106.55328,
+    35.145262
+],
   "geometry": {"coordinates":[-106.55328,35.145262],"type":"Point"}
 }

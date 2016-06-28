@@ -2,13 +2,14 @@
   "id": 203094887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.590419,35.065815,-106.590419,35.065815",
     "geom:latitude":35.065815,
     "geom:longitude":-106.590419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4913 Kathryn Cir SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203094887,
-    "wof:lastmodified":1449026146,
+    "wof:lastmodified":1466698673,
     "wof:name":"Diane Mc Clellan Child Care",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.590419,35.065815,-106.590419,35.065815],
+  "bbox": [
+    -106.590419,
+    35.065815,
+    -106.590419,
+    35.065815
+],
   "geometry": {"coordinates":[-106.590419,35.065815],"type":"Point"}
 }

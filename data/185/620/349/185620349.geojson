@@ -2,13 +2,14 @@
   "id": 185620349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.272479,32.778951,-108.272479,32.778951",
     "geom:latitude":32.778951,
     "geom:longitude":-108.272479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 N Bennett St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185620349,
-    "wof:lastmodified":1449008080,
+    "wof:lastmodified":1466697822,
     "wof:name":"Peter A Keys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-108.272479,32.778951,-108.272479,32.778951],
+  "bbox": [
+    -108.272479,
+    32.778951,
+    -108.272479,
+    32.778951
+],
   "geometry": {"coordinates":[-108.272479,32.778951],"type":"Point"}
 }

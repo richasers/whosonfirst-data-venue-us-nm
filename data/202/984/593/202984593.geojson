@@ -2,13 +2,14 @@
   "id": 202984593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.603846,32.424403,-106.603846,32.424403",
     "geom:latitude":32.424403,
     "geom:longitude":-106.603846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15755 A St",
     "sg:city":"Organ",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202984593,
-    "wof:lastmodified":1449061539,
+    "wof:lastmodified":1466700619,
     "wof:name":"Indian Rock Trading Post",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "indian"
     ]
 },
-  "bbox": [-106.603846,32.424403,-106.603846,32.424403],
+  "bbox": [
+    -106.603846,
+    32.424403,
+    -106.603846,
+    32.424403
+],
   "geometry": {"coordinates":[-106.603846,32.424403],"type":"Point"}
 }

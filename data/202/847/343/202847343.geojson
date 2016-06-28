@@ -2,13 +2,14 @@
   "id": 202847343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.787902,32.306943,-106.787902,32.306943",
     "geom:latitude":32.306943,
     "geom:longitude":-106.787902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 S Compress Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202847343,
-    "wof:lastmodified":1449061032,
+    "wof:lastmodified":1466700280,
     "wof:name":"Fire Safety Assn",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-106.787902,32.306943,-106.787902,32.306943],
+  "bbox": [
+    -106.787902,
+    32.306943,
+    -106.787902,
+    32.306943
+],
   "geometry": {"coordinates":[-106.787902,32.306943],"type":"Point"}
 }

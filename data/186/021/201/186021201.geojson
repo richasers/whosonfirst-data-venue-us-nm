@@ -2,13 +2,14 @@
   "id": 186021201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.95909,32.89015,-105.95909,32.89015",
     "geom:latitude":32.89015,
     "geom:longitude":-105.95909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 1st St",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186021201,
-    "wof:lastmodified":1449052064,
+    "wof:lastmodified":1466697922,
     "wof:name":"Quality Control Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "engineer"
     ]
 },
-  "bbox": [-105.95909,32.89015,-105.95909,32.89015],
+  "bbox": [
+    -105.95909,
+    32.89015,
+    -105.95909,
+    32.89015
+],
   "geometry": {"coordinates":[-105.95909,32.89015],"type":"Point"}
 }

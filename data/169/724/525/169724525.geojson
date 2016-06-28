@@ -2,13 +2,14 @@
   "id": 169724525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.923406,35.680993,-105.923406,35.680993",
     "geom:latitude":35.680993,
     "geom:longitude":-105.923406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 E Palace Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169724525,
-    "wof:lastmodified":1449035901,
+    "wof:lastmodified":1466697823,
     "wof:name":"Twisters Vintage",
     "wof:parent_id":85880769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-105.923406,35.680993,-105.923406,35.680993],
+  "bbox": [
+    -105.923406,
+    35.680993,
+    -105.923406,
+    35.680993
+],
   "geometry": {"coordinates":[-105.923406,35.680993],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202687985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.742787,32.297869,-106.742787,32.297869",
     "geom:latitude":32.297869,
     "geom:longitude":-106.742787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1744 S Triviz Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202687985,
-    "wof:lastmodified":1449060830,
+    "wof:lastmodified":1466699692,
     "wof:name":"William Certified Public Acctg",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-106.742787,32.297869,-106.742787,32.297869],
-  "geometry": {"coordinates":[-106.742787,32.297869],"type":"Point"}
+  "bbox": [
+    -106.742787,
+    32.297869,
+    -106.742787,
+    32.297869
+],
+  "geometry": {"coordinates":[-106.74278700000001,32.297869],"type":"Point"}
 }

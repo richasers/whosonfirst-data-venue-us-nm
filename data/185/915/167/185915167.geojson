@@ -2,13 +2,14 @@
   "id": 185915167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.771804,32.297741,-106.771804,32.297741",
     "geom:latitude":32.297741,
     "geom:longitude":-106.771804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 el Paseo Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185915167,
-    "wof:lastmodified":1449008174,
+    "wof:lastmodified":1466698736,
     "wof:name":"Vita-Man Nutrition Ctr",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "diet"
     ]
 },
-  "bbox": [-106.771804,32.297741,-106.771804,32.297741],
+  "bbox": [
+    -106.771804,
+    32.297741,
+    -106.771804,
+    32.297741
+],
   "geometry": {"coordinates":[-106.771804,32.297741],"type":"Point"}
 }

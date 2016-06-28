@@ -2,13 +2,14 @@
   "id": 186317257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.216485,34.434085,-103.216485,34.434085",
     "geom:latitude":34.434085,
     "geom:longitude":-103.216485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1074 State Rte 245",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186317257,
-    "wof:lastmodified":1449051593,
+    "wof:lastmodified":1466699422,
     "wof:name":"Frazier Back Hoe Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.216485,34.434085,-103.216485,34.434085],
-  "geometry": {"coordinates":[-103.216485,34.434085],"type":"Point"}
+  "bbox": [
+    -103.216485,
+    34.434085,
+    -103.216485,
+    34.434085
+],
+  "geometry": {"coordinates":[-103.21648500000001,34.434085],"type":"Point"}
 }

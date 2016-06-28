@@ -2,13 +2,14 @@
   "id": 202814293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.224941,35.090593,-106.224941,35.090593",
     "geom:latitude":35.090593,
     "geom:longitude":-106.224941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Sunset Blvd",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202814293,
-    "wof:lastmodified":1449060569,
+    "wof:lastmodified":1466699884,
     "wof:name":"Bill Utrup Drilling & Blasting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.224941,35.090593,-106.224941,35.090593],
+  "bbox": [
+    -106.224941,
+    35.090593,
+    -106.224941,
+    35.090593
+],
   "geometry": {"coordinates":[-106.224941,35.090593],"type":"Point"}
 }

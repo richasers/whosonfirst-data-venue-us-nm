@@ -2,13 +2,14 @@
   "id": 202860507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.609256,35.08257,-106.609256,35.08257",
     "geom:latitude":35.08257,
     "geom:longitude":-106.609256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3211 Monte Vista Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202860507,
-    "wof:lastmodified":1449061251,
+    "wof:lastmodified":1466700316,
     "wof:name":"Monte Vista Elementary School",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-106.609256,35.08257,-106.609256,35.08257],
+  "bbox": [
+    -106.609256,
+    35.08257,
+    -106.609256,
+    35.08257
+],
   "geometry": {"coordinates":[-106.609256,35.08257],"type":"Point"}
 }

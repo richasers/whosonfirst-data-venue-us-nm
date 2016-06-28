@@ -2,13 +2,14 @@
   "id": 202717371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.924605,35.680176,-105.924605,35.680176",
     "geom:latitude":35.680176,
     "geom:longitude":-105.924605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"822 Canyon Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202717371,
-    "wof:lastmodified":1449060166,
+    "wof:lastmodified":1466699526,
     "wof:name":"Gallery At 822 Canyon",
     "wof:parent_id":85880769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.924605,35.680176,-105.924605,35.680176],
+  "bbox": [
+    -105.924605,
+    35.680176,
+    -105.924605,
+    35.680176
+],
   "geometry": {"coordinates":[-105.924605,35.680176],"type":"Point"}
 }

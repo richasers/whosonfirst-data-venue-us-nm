@@ -2,13 +2,14 @@
   "id": 186314993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.643133,35.072852,-106.643133,35.072852",
     "geom:latitude":35.072852,
     "geom:longitude":-106.643133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Edith Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186314993,
-    "wof:lastmodified":1449052922,
+    "wof:lastmodified":1466699420,
     "wof:name":"Amigos Y Amigas Inc",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-106.643133,35.072852,-106.643133,35.072852],
-  "geometry": {"coordinates":[-106.643133,35.072852],"type":"Point"}
+  "bbox": [
+    -106.643133,
+    35.072852,
+    -106.643133,
+    35.072852
+],
+  "geometry": {"coordinates":[-106.64313300000001,35.072852],"type":"Point"}
 }

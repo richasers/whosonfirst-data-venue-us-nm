@@ -2,13 +2,14 @@
   "id": 186538291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.565484,35.134021,-106.565484,35.134021",
     "geom:latitude":35.134021,
     "geom:longitude":-106.565484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7221 Prairie Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186538291,
-    "wof:lastmodified":1449050631,
+    "wof:lastmodified":1466700349,
     "wof:name":"Ceres Communications",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.565484,35.134021,-106.565484,35.134021],
+  "bbox": [
+    -106.565484,
+    35.134021,
+    -106.565484,
+    35.134021
+],
   "geometry": {"coordinates":[-106.565484,35.134021],"type":"Point"}
 }

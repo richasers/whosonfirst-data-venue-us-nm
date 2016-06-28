@@ -2,13 +2,14 @@
   "id": 186603803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.282173,33.120828,-107.282173,33.120828",
     "geom:latitude":33.120828,
     "geom:longitude":-107.282173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2596 S Broadway St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186603803,
-    "wof:lastmodified":1449052593,
+    "wof:lastmodified":1466700743,
     "wof:name":"Sierra Feed & Mercantile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-107.282173,33.120828,-107.282173,33.120828],
+  "bbox": [
+    -107.282173,
+    33.120828,
+    -107.282173,
+    33.120828
+],
   "geometry": {"coordinates":[-107.282173,33.120828],"type":"Point"}
 }

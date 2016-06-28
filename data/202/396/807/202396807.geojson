@@ -2,13 +2,14 @@
   "id": 202396807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.368956,35.142272,-106.368956,35.142272",
     "geom:latitude":35.142272,
     "geom:longitude":-106.368956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Snowline Ests",
     "sg:city":"Cedar Crest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202396807,
-    "wof:lastmodified":1449061748,
+    "wof:lastmodified":1466697893,
     "wof:name":"Rocky Mountain Testing",
     "wof:parent_id":85892611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-106.368956,35.142272,-106.368956,35.142272],
+  "bbox": [
+    -106.368956,
+    35.142272,
+    -106.368956,
+    35.142272
+],
   "geometry": {"coordinates":[-106.368956,35.142272],"type":"Point"}
 }

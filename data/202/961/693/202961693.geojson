@@ -2,13 +2,14 @@
   "id": 202961693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.993695,35.659487,-105.993695,35.659487",
     "geom:latitude":35.659487,
     "geom:longitude":-105.993695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Siler Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202961693,
-    "wof:lastmodified":1449062578,
+    "wof:lastmodified":1466700608,
     "wof:name":"Wilson Transfer & Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-105.993695,35.659487,-105.993695,35.659487],
+  "bbox": [
+    -105.993695,
+    35.659487,
+    -105.993695,
+    35.659487
+],
   "geometry": {"coordinates":[-105.993695,35.659487],"type":"Point"}
 }

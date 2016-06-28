@@ -2,13 +2,14 @@
   "id": 202704195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.6283,35.083613,-106.6283,35.083613",
     "geom:latitude":35.083613,
     "geom:longitude":-106.6283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Tijeras Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202704195,
-    "wof:lastmodified":1449060777,
+    "wof:lastmodified":1466699618,
     "wof:name":"Albuquerque Grand Rtrmnt Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-106.6283,35.083613,-106.6283,35.083613],
+  "bbox": [
+    -106.6283,
+    35.083613,
+    -106.6283,
+    35.083613
+],
   "geometry": {"coordinates":[-106.6283,35.083613],"type":"Point"}
 }

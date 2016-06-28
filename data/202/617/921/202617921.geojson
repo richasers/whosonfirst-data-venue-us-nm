@@ -2,13 +2,14 @@
   "id": 202617921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.656628,35.1078,-106.656628,35.1078",
     "geom:latitude":35.1078,
     "geom:longitude":-106.656628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Indian School Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202617921,
-    "wof:lastmodified":1449060183,
+    "wof:lastmodified":1466698641,
     "wof:name":"Southern Pueblos Sandia Base",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.656628,35.1078,-106.656628,35.1078],
+  "bbox": [
+    -106.656628,
+    35.1078,
+    -106.656628,
+    35.1078
+],
   "geometry": {"coordinates":[-106.656628,35.1078],"type":"Point"}
 }

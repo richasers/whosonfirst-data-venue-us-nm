@@ -2,13 +2,14 @@
   "id": 186247573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.560107,35.164641,-106.560107,35.164641",
     "geom:latitude":35.164641,
     "geom:longitude":-106.560107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7908 Loma del Norte Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186247573,
-    "wof:lastmodified":1449051943,
+    "wof:lastmodified":1466698632,
     "wof:name":"Satco",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.560107,35.164641,-106.560107,35.164641],
+  "bbox": [
+    -106.560107,
+    35.164641,
+    -106.560107,
+    35.164641
+],
   "geometry": {"coordinates":[-106.560107,35.164641],"type":"Point"}
 }

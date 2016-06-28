@@ -2,13 +2,14 @@
   "id": 202936421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.65213,35.120253,-106.65213,35.120253",
     "geom:latitude":35.120253,
     "geom:longitude":-106.65213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Fitzgerald Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202936421,
-    "wof:lastmodified":1449060957,
+    "wof:lastmodified":1466700361,
     "wof:name":"Dent & Nordhaus Architects",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.65213,35.120253,-106.65213,35.120253],
+  "bbox": [
+    -106.65213,
+    35.120253,
+    -106.65213,
+    35.120253
+],
   "geometry": {"coordinates":[-106.65213,35.120253],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186016637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.295052,35.879779,-106.295052,35.879779",
     "geom:latitude":35.879779,
     "geom:longitude":-106.295052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Trinity Dr",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186016637,
-    "wof:lastmodified":1449050878,
+    "wof:lastmodified":1466697868,
     "wof:name":"Los Alamos County Customer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.295052,35.879779,-106.295052,35.879779],
+  "bbox": [
+    -106.295052,
+    35.879779,
+    -106.295052,
+    35.879779
+],
   "geometry": {"coordinates":[-106.295052,35.879779],"type":"Point"}
 }

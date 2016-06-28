@@ -2,13 +2,14 @@
   "id": 186566547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.180057,34.448115,-103.180057,34.448115",
     "geom:latitude":34.448115,
     "geom:longitude":-103.180057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3864 Benjamin Davis Ct",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186566547,
-    "wof:lastmodified":1449050314,
+    "wof:lastmodified":1466700424,
     "wof:name":"Don Farmer Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-103.180057,34.448115,-103.180057,34.448115],
-  "geometry": {"coordinates":[-103.180057,34.448115],"type":"Point"}
+  "bbox": [
+    -103.180057,
+    34.448115,
+    -103.180057,
+    34.448115
+],
+  "geometry": {"coordinates":[-103.18005700000001,34.448115],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186032669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.585673,35.167277,-106.585673,35.167277",
     "geom:latitude":35.167277,
     "geom:longitude":-106.585673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7471 Pan American Fwy",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186032669,
-    "wof:lastmodified":1449051688,
+    "wof:lastmodified":1466698051,
     "wof:name":"University Of Phoenix Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "school"
     ]
 },
-  "bbox": [-106.585673,35.167277,-106.585673,35.167277],
+  "bbox": [
+    -106.585673,
+    35.167277,
+    -106.585673,
+    35.167277
+],
   "geometry": {"coordinates":[-106.585673,35.167277],"type":"Point"}
 }

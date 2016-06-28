@@ -2,13 +2,14 @@
   "id": 202620389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.373244,36.746268,-108.373244,36.746268",
     "geom:latitude":36.746268,
     "geom:longitude":-108.373244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Rd 6575",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202620389,
-    "wof:lastmodified":1449062436,
+    "wof:lastmodified":1466698681,
     "wof:name":"Kirtland Headstart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-108.373244,36.746268,-108.373244,36.746268],
+  "bbox": [
+    -108.373244,
+    36.746268,
+    -108.373244,
+    36.746268
+],
   "geometry": {"coordinates":[-108.373244,36.746268],"type":"Point"}
 }

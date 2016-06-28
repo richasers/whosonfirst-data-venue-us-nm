@@ -2,13 +2,14 @@
   "id": 185752795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.77405,32.307998,-106.77405,32.307998",
     "geom:latitude":32.307998,
     "geom:longitude":-106.77405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"443 E Amador Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185752795,
-    "wof:lastmodified":1449006881,
+    "wof:lastmodified":1466699162,
     "wof:name":"Maria's",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-106.77405,32.307998,-106.77405,32.307998],
+  "bbox": [
+    -106.77405,
+    32.307998,
+    -106.77405,
+    32.307998
+],
   "geometry": {"coordinates":[-106.77405,32.307998],"type":"Point"}
 }

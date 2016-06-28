@@ -2,13 +2,14 @@
   "id": 202522577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.680008,35.065227,-106.680008,35.065227",
     "geom:latitude":35.065227,
     "geom:longitude":-106.680008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1656 Bridge Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202522577,
-    "wof:lastmodified":1449061336,
+    "wof:lastmodified":1466699266,
     "wof:name":"Baca Distributing LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "trucking"
     ]
 },
-  "bbox": [-106.680008,35.065227,-106.680008,35.065227],
+  "bbox": [
+    -106.680008,
+    35.065227,
+    -106.680008,
+    35.065227
+],
   "geometry": {"coordinates":[-106.680008,35.065227],"type":"Point"}
 }

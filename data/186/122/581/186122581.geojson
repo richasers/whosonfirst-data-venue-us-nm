@@ -2,13 +2,14 @@
   "id": 186122581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.630058,35.110877,-106.630058,35.110877",
     "geom:latitude":35.110877,
     "geom:longitude":-106.630058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Broadbent Pkwy NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186122581,
-    "wof:lastmodified":1449051901,
+    "wof:lastmodified":1466699119,
     "wof:name":"Armstrong Mc Call Beauty Supl",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "beauty"
     ]
 },
-  "bbox": [-106.630058,35.110877,-106.630058,35.110877],
-  "geometry": {"coordinates":[-106.630058,35.110877],"type":"Point"}
+  "bbox": [
+    -106.630058,
+    35.110877,
+    -106.630058,
+    35.110877
+],
+  "geometry": {"coordinates":[-106.63005800000001,35.110877],"type":"Point"}
 }

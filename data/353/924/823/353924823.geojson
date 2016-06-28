@@ -2,13 +2,14 @@
   "id": 353924823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.698013,35.068041,-106.698013,35.068041",
     "geom:latitude":35.068041,
     "geom:longitude":-106.698013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 Foothill Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353924823,
-    "wof:lastmodified":1449018979,
+    "wof:lastmodified":1466697861,
     "wof:name":"Montoya's Painting LLC",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "removing"
     ]
 },
-  "bbox": [-106.698013,35.068041,-106.698013,35.068041],
+  "bbox": [
+    -106.698013,
+    35.068041,
+    -106.698013,
+    35.068041
+],
   "geometry": {"coordinates":[-106.698013,35.068041],"type":"Point"}
 }

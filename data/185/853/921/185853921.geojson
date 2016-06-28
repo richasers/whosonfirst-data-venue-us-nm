@@ -2,13 +2,14 @@
   "id": 185853921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.102176,35.604835,-103.102176,35.604835",
     "geom:latitude":35.604835,
     "geom:longitude":-103.102176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Berry St",
     "sg:city":"Logan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185853921,
-    "wof:lastmodified":1449007261,
+    "wof:lastmodified":1466698053,
     "wof:name":"F & F Cattle Co Spur Camp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "livestock"
     ]
 },
-  "bbox": [-103.102176,35.604835,-103.102176,35.604835],
+  "bbox": [
+    -103.102176,
+    35.604835,
+    -103.102176,
+    35.604835
+],
   "geometry": {"coordinates":[-103.102176,35.604835],"type":"Point"}
 }

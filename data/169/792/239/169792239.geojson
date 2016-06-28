@@ -2,13 +2,14 @@
   "id": 169792239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.553836,35.130663,-106.553836,35.130663",
     "geom:latitude":35.130663,
     "geom:longitude":-106.553836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8200 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169792239,
-    "wof:lastmodified":1449033391,
+    "wof:lastmodified":1466698510,
     "wof:name":"Kayeman Custom Homes",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.553836,35.130663,-106.553836,35.130663],
+  "bbox": [
+    -106.553836,
+    35.130663,
+    -106.553836,
+    35.130663
+],
   "geometry": {"coordinates":[-106.553836,35.130663],"type":"Point"}
 }

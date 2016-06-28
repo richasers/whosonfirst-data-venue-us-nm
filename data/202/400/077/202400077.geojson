@@ -2,13 +2,14 @@
   "id": 202400077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.680473,34.843471,-106.680473,34.843471",
     "geom:latitude":34.843471,
     "geom:longitude":-106.680473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Peralta Blvd",
     "sg:city":"Peralta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202400077,
-    "wof:lastmodified":1449060359,
+    "wof:lastmodified":1466697936,
     "wof:name":"Ss General Contracting",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-106.680473,34.843471,-106.680473,34.843471],
-  "geometry": {"coordinates":[-106.680473,34.843471],"type":"Point"}
+  "bbox": [
+    -106.680473,
+    34.843471,
+    -106.680473,
+    34.843471
+],
+  "geometry": {"coordinates":[-106.68047300000001,34.843471],"type":"Point"}
 }

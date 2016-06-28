@@ -2,13 +2,14 @@
   "id": 186473543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.66917,32.094749,-106.66917,32.094749",
     "geom:latitude":32.094749,
     "geom:longitude":-106.66917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13000 Montes Rd",
     "sg:city":"La Mesa",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186473543,
-    "wof:lastmodified":1449050965,
+    "wof:lastmodified":1466700024,
     "wof:name":"Dona Ana County Water Utlts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.66917,32.094749,-106.66917,32.094749],
-  "geometry": {"coordinates":[-106.66917,32.094749],"type":"Point"}
+  "bbox": [
+    -106.66917,
+    32.094749,
+    -106.66917,
+    32.094749
+],
+  "geometry": {"coordinates":[-106.66916999999999,32.094749],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202646261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.517428,35.11992,-106.517428,35.11992",
     "geom:latitude":35.11992,
     "geom:longitude":-106.517428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11101 Briarwood Ter NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202646261,
-    "wof:lastmodified":1449060040,
+    "wof:lastmodified":1466699084,
     "wof:name":"Repo/Acquistin Brokers",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.517428,35.11992,-106.517428,35.11992],
+  "bbox": [
+    -106.517428,
+    35.11992,
+    -106.517428,
+    35.11992
+],
   "geometry": {"coordinates":[-106.517428,35.11992],"type":"Point"}
 }

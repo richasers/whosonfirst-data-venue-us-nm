@@ -2,13 +2,14 @@
   "id": 185778547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.196383,34.392819,-103.196383,34.392819",
     "geom:latitude":34.392819,
     "geom:longitude":-103.196383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 S Prince St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185778547,
-    "wof:lastmodified":1449006615,
+    "wof:lastmodified":1466699254,
     "wof:name":"Clovis Recycling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "metal"
     ]
 },
-  "bbox": [-103.196383,34.392819,-103.196383,34.392819],
+  "bbox": [
+    -103.196383,
+    34.392819,
+    -103.196383,
+    34.392819
+],
   "geometry": {"coordinates":[-103.196383,34.392819],"type":"Point"}
 }

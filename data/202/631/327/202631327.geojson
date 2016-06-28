@@ -2,13 +2,14 @@
   "id": 202631327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.205285,34.404601,-103.205285,34.404601",
     "geom:latitude":34.404601,
     "geom:longitude":-103.205285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 N Main St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202631327,
-    "wof:lastmodified":1449060897,
+    "wof:lastmodified":1466698855,
     "wof:name":"Dorothy's Express Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.205285,34.404601,-103.205285,34.404601],
+  "bbox": [
+    -103.205285,
+    34.404601,
+    -103.205285,
+    34.404601
+],
   "geometry": {"coordinates":[-103.205285,34.404601],"type":"Point"}
 }

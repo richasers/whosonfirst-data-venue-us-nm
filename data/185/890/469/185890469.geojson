@@ -2,13 +2,14 @@
   "id": 185890469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.644622,35.077141,-106.644622,35.077141",
     "geom:latitude":35.077141,
     "geom:longitude":-106.644622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Hazeldine Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185890469,
-    "wof:lastmodified":1449006977,
+    "wof:lastmodified":1466698423,
     "wof:name":"Associated Foreign Exchange",
     "wof:parent_id":85871877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.644622,35.077141,-106.644622,35.077141],
+  "bbox": [
+    -106.644622,
+    35.077141,
+    -106.644622,
+    35.077141
+],
   "geometry": {"coordinates":[-106.644622,35.077141],"type":"Point"}
 }

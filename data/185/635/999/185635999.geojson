@@ -2,13 +2,14 @@
   "id": 185635999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.27631,32.771681,-108.27631,32.771681",
     "geom:latitude":32.771681,
     "geom:longitude":-108.27631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 N Bullard St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185635999,
-    "wof:lastmodified":1449007313,
+    "wof:lastmodified":1466697991,
     "wof:name":"Silver Clipper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-108.27631,32.771681,-108.27631,32.771681],
+  "bbox": [
+    -108.27631,
+    32.771681,
+    -108.27631,
+    32.771681
+],
   "geometry": {"coordinates":[-108.27631,32.771681],"type":"Point"}
 }

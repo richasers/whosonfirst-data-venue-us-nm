@@ -2,13 +2,14 @@
   "id": 185879209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.684702,35.040476,-106.684702,35.040476",
     "geom:latitude":35.040476,
     "geom:longitude":-106.684702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 Valley Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185879209,
-    "wof:lastmodified":1449006614,
+    "wof:lastmodified":1466698304,
     "wof:name":"Dean Swofford",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.684702,35.040476,-106.684702,35.040476],
+  "bbox": [
+    -106.684702,
+    35.040476,
+    -106.684702,
+    35.040476
+],
   "geometry": {"coordinates":[-106.684702,35.040476],"type":"Point"}
 }

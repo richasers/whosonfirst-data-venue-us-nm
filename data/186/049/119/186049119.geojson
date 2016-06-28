@@ -2,13 +2,14 @@
   "id": 186049119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.793945,32.274862,-106.793945,32.274862",
     "geom:latitude":32.274862,
     "geom:longitude":-106.793945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Cll de Parian",
     "sg:city":"Mesilla",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186049119,
-    "wof:lastmodified":1449051708,
+    "wof:lastmodified":1466698241,
     "wof:name":"Wild & Beautiful De Mesilla",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.793945,32.274862,-106.793945,32.274862],
-  "geometry": {"coordinates":[-106.793945,32.274862],"type":"Point"}
+  "bbox": [
+    -106.793945,
+    32.274862,
+    -106.793945,
+    32.274862
+],
+  "geometry": {"coordinates":[-106.79394499999999,32.274862],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185982191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.541268,33.356807,-104.541268,33.356807",
     "geom:latitude":33.356807,
     "geom:longitude":-104.541268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 S Sunset Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185982191,
-    "wof:lastmodified":1449006891,
+    "wof:lastmodified":1466699658,
     "wof:name":"Fraternl Ordr The Eagles 3187",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.541268,33.356807,-104.541268,33.356807],
+  "bbox": [
+    -104.541268,
+    33.356807,
+    -104.541268,
+    33.356807
+],
   "geometry": {"coordinates":[-104.541268,33.356807],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203013965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.985688,35.637306,-105.985688,35.637306",
     "geom:latitude":35.637306,
     "geom:longitude":-105.985688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2855 Plz Rojo",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203013965,
-    "wof:lastmodified":1449026260,
+    "wof:lastmodified":1466697752,
     "wof:name":"Hertz Jeanne Lmt Lic 2078",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.985688,35.637306,-105.985688,35.637306],
+  "bbox": [
+    -105.985688,
+    35.637306,
+    -105.985688,
+    35.637306
+],
   "geometry": {"coordinates":[-105.985688,35.637306],"type":"Point"}
 }

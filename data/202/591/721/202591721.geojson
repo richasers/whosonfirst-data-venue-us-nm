@@ -2,13 +2,14 @@
   "id": 202591721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.292121,36.395902,-105.292121,36.395902",
     "geom:latitude":36.395902,
     "geom:longitude":-105.292121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Sage Ln",
     "sg:city":"Angel Fire",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202591721,
-    "wof:lastmodified":1449061472,
+    "wof:lastmodified":1466698266,
     "wof:name":"Sage Skin & Body Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skin"
     ]
 },
-  "bbox": [-105.292121,36.395902,-105.292121,36.395902],
-  "geometry": {"coordinates":[-105.292121,36.395902],"type":"Point"}
+  "bbox": [
+    -105.292121,
+    36.395902,
+    -105.292121,
+    36.395902
+],
+  "geometry": {"coordinates":[-105.29212099999999,36.395902],"type":"Point"}
 }

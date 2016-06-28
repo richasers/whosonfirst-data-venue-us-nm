@@ -2,13 +2,14 @@
   "id": 202657983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.839177,32.306948,-106.839177,32.306948",
     "geom:latitude":32.306948,
     "geom:longitude":-106.839177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3995 W Picacho Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202657983,
-    "wof:lastmodified":1449060394,
+    "wof:lastmodified":1466699256,
     "wof:name":"Guacamole's Bar & Grille",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.839177,32.306948,-106.839177,32.306948],
-  "geometry": {"coordinates":[-106.839177,32.306948],"type":"Point"}
+  "bbox": [
+    -106.839177,
+    32.306948,
+    -106.839177,
+    32.306948
+],
+  "geometry": {"coordinates":[-106.83917700000001,32.306948],"type":"Point"}
 }

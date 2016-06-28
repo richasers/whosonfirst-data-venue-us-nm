@@ -2,13 +2,14 @@
   "id": 169727969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.011378,33.003621,-106.011378,33.003621",
     "geom:latitude":33.003621,
     "geom:longitude":-106.011378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"274 Riata Rd",
     "sg:city":"Tularosa",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169727969,
-    "wof:lastmodified":1449033189,
+    "wof:lastmodified":1466697869,
     "wof:name":"CJ Ent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.011378,33.003621,-106.011378,33.003621],
-  "geometry": {"coordinates":[-106.011378,33.003621],"type":"Point"}
+  "bbox": [
+    -106.011378,
+    33.003621,
+    -106.011378,
+    33.003621
+],
+  "geometry": {"coordinates":[-106.01137799999999,33.003621],"type":"Point"}
 }

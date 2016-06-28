@@ -2,13 +2,14 @@
   "id": 353926109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.610652,35.080545,-106.610652,35.080545",
     "geom:latitude":35.080545,
     "geom:longitude":-106.610652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3108 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353926109,
-    "wof:lastmodified":1449019141,
+    "wof:lastmodified":1466697891,
     "wof:name":"Astro-Zombies",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.610652,35.080545,-106.610652,35.080545],
+  "bbox": [
+    -106.610652,
+    35.080545,
+    -106.610652,
+    35.080545
+],
   "geometry": {"coordinates":[-106.610652,35.080545],"type":"Point"}
 }

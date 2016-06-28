@@ -2,13 +2,14 @@
   "id": 185682889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.539556,35.163944,-106.539556,35.163944",
     "geom:latitude":35.163944,
     "geom:longitude":-106.539556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7324 Lew Wallace Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185682889,
-    "wof:lastmodified":1449006890,
+    "wof:lastmodified":1466698465,
     "wof:name":"Mission Outdoor Advertising",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.539556,35.163944,-106.539556,35.163944],
+  "bbox": [
+    -106.539556,
+    35.163944,
+    -106.539556,
+    35.163944
+],
   "geometry": {"coordinates":[-106.539556,35.163944],"type":"Point"}
 }

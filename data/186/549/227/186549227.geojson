@@ -2,13 +2,14 @@
   "id": 186549227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.674682,35.18005,-106.674682,35.18005",
     "geom:latitude":35.18005,
     "geom:longitude":-106.674682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9251 Eagle Ranch Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186549227,
-    "wof:lastmodified":1449051121,
+    "wof:lastmodified":1466700308,
     "wof:name":"Ali Abdul-Mehdi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.674682,35.18005,-106.674682,35.18005],
+  "bbox": [
+    -106.674682,
+    35.18005,
+    -106.674682,
+    35.18005
+],
   "geometry": {"coordinates":[-106.674682,35.18005],"type":"Point"}
 }

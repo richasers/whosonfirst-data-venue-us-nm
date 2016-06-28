@@ -2,13 +2,14 @@
   "id": 186381343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.554047,35.104263,-106.554047,35.104263",
     "geom:latitude":35.104263,
     "geom:longitude":-106.554047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 Vermont St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186381343,
-    "wof:lastmodified":1449050467,
+    "wof:lastmodified":1466699786,
     "wof:name":"Figueroa McInteer Architecture",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architecture"
     ]
 },
-  "bbox": [-106.554047,35.104263,-106.554047,35.104263],
+  "bbox": [
+    -106.554047,
+    35.104263,
+    -106.554047,
+    35.104263
+],
   "geometry": {"coordinates":[-106.554047,35.104263],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186507971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.640409,35.06338,-106.640409,35.06338",
     "geom:latitude":35.06338,
     "geom:longitude":-106.640409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1922 High St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186507971,
-    "wof:lastmodified":1449051746,
+    "wof:lastmodified":1466700331,
     "wof:name":"Gonzalez Mechanical",
     "wof:parent_id":85846885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.640409,35.06338,-106.640409,35.06338],
-  "geometry": {"coordinates":[-106.640409,35.06338],"type":"Point"}
+  "bbox": [
+    -106.640409,
+    35.06338,
+    -106.640409,
+    35.06338
+],
+  "geometry": {"coordinates":[-106.64040900000001,35.06338],"type":"Point"}
 }

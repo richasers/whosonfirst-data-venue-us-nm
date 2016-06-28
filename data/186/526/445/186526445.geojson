@@ -2,13 +2,14 @@
   "id": 186526445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.575362,35.183069,-106.575362,35.183069",
     "geom:latitude":35.183069,
     "geom:longitude":-106.575362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6101 Signal Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186526445,
-    "wof:lastmodified":1449051196,
+    "wof:lastmodified":1466700315,
     "wof:name":"Armor Thane Spray-On Liners",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-106.575362,35.183069,-106.575362,35.183069],
+  "bbox": [
+    -106.575362,
+    35.183069,
+    -106.575362,
+    35.183069
+],
   "geometry": {"coordinates":[-106.575362,35.183069],"type":"Point"}
 }

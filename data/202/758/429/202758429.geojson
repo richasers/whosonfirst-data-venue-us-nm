@@ -2,13 +2,14 @@
   "id": 202758429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.538283,35.160275,-106.538283,35.160275",
     "geom:latitude":35.160275,
     "geom:longitude":-106.538283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7102 Whitewood Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202758429,
-    "wof:lastmodified":1449060883,
+    "wof:lastmodified":1466699826,
     "wof:name":"Northeast Albuquerque Church",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.538283,35.160275,-106.538283,35.160275],
-  "geometry": {"coordinates":[-106.538283,35.160275],"type":"Point"}
+  "bbox": [
+    -106.538283,
+    35.160275,
+    -106.538283,
+    35.160275
+],
+  "geometry": {"coordinates":[-106.53828300000001,35.160275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186314955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.764098,32.271417,-106.764098,32.271417",
     "geom:latitude":32.271417,
     "geom:longitude":-106.764098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3701 S Main St",
     "sg:city":"Mesilla Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186314955,
-    "wof:lastmodified":1449052924,
+    "wof:lastmodified":1466699518,
     "wof:name":"Balderas Used Appliances",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-106.764098,32.271417,-106.764098,32.271417],
+  "bbox": [
+    -106.764098,
+    32.271417,
+    -106.764098,
+    32.271417
+],
   "geometry": {"coordinates":[-106.764098,32.271417],"type":"Point"}
 }

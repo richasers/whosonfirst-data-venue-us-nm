@@ -2,13 +2,14 @@
   "id": 169774423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.580271,35.144335,-106.580271,35.144335",
     "geom:latitude":35.144335,
     "geom:longitude":-106.580271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5801 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169774423,
-    "wof:lastmodified":1449033961,
+    "wof:lastmodified":1466698298,
     "wof:name":"Health & Wealth Info Ctr",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.580271,35.144335,-106.580271,35.144335],
+  "bbox": [
+    -106.580271,
+    35.144335,
+    -106.580271,
+    35.144335
+],
   "geometry": {"coordinates":[-106.580271,35.144335],"type":"Point"}
 }

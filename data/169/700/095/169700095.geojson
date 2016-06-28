@@ -2,13 +2,14 @@
   "id": 169700095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.155748,36.760991,-108.155748,36.760991",
     "geom:latitude":36.760991,
     "geom:longitude":-108.155748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4370 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169700095,
-    "wof:lastmodified":1449035670,
+    "wof:lastmodified":1466697603,
     "wof:name":"Cottonwood Cycles Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-108.155748,36.760991,-108.155748,36.760991],
+  "bbox": [
+    -108.155748,
+    36.760991,
+    -108.155748,
+    36.760991
+],
   "geometry": {"coordinates":[-108.155748,36.760991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202779651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615927,32.024712,-106.615927,32.024712",
     "geom:latitude":32.024712,
     "geom:longitude":-106.615927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 W Ohara Rd",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202779651,
-    "wof:lastmodified":1449060491,
+    "wof:lastmodified":1466699876,
     "wof:name":"J Antunez Machine Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.615927,32.024712,-106.615927,32.024712],
+  "bbox": [
+    -106.615927,
+    32.024712,
+    -106.615927,
+    32.024712
+],
   "geometry": {"coordinates":[-106.615927,32.024712],"type":"Point"}
 }

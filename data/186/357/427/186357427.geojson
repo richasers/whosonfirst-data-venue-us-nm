@@ -2,13 +2,14 @@
   "id": 186357427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.347488,32.946919,-103.347488,32.946919",
     "geom:latitude":32.946919,
     "geom:longitude":-103.347488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 S Love St",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186357427,
-    "wof:lastmodified":1449052685,
+    "wof:lastmodified":1466699804,
     "wof:name":"Option Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-103.347488,32.946919,-103.347488,32.946919],
+  "bbox": [
+    -103.347488,
+    32.946919,
+    -103.347488,
+    32.946919
+],
   "geometry": {"coordinates":[-103.347488,32.946919],"type":"Point"}
 }

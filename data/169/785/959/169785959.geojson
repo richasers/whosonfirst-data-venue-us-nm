@@ -2,13 +2,14 @@
   "id": 169785959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.534601,33.391004,-104.534601,33.391004",
     "geom:latitude":33.391004,
     "geom:longitude":-104.534601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 W Alameda St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169785959,
-    "wof:lastmodified":1449035399,
+    "wof:lastmodified":1466698409,
     "wof:name":"Cathey & Cathey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-104.534601,33.391004,-104.534601,33.391004],
-  "geometry": {"coordinates":[-104.534601,33.391004],"type":"Point"}
+  "bbox": [
+    -104.534601,
+    33.391004,
+    -104.534601,
+    33.391004
+],
+  "geometry": {"coordinates":[-104.53460099999999,33.391004],"type":"Point"}
 }

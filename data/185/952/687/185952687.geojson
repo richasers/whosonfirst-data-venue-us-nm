@@ -2,13 +2,14 @@
   "id": 185952687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.925469,35.753328,-105.925469,35.753328",
     "geom:latitude":35.753328,
     "geom:longitude":-105.925469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1438 Bishops Lodge Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185952687,
-    "wof:lastmodified":1449007754,
+    "wof:lastmodified":1466699261,
     "wof:name":"Madeline Coit Studio",
     "wof:parent_id":85880787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-105.925469,35.753328,-105.925469,35.753328],
-  "geometry": {"coordinates":[-105.925469,35.753328],"type":"Point"}
+  "bbox": [
+    -105.925469,
+    35.753328,
+    -105.925469,
+    35.753328
+],
+  "geometry": {"coordinates":[-105.92546900000001,35.753328],"type":"Point"}
 }

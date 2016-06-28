@@ -2,13 +2,14 @@
   "id": 185705137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.584261,35.058319,-106.584261,35.058319",
     "geom:latitude":35.058319,
     "geom:longitude":-106.584261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5101 Gibson Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185705137,
-    "wof:lastmodified":1449008219,
+    "wof:lastmodified":1466698681,
     "wof:name":"Double Gear Inc",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-106.584261,35.058319,-106.584261,35.058319],
+  "bbox": [
+    -106.584261,
+    35.058319,
+    -106.584261,
+    35.058319
+],
   "geometry": {"coordinates":[-106.584261,35.058319],"type":"Point"}
 }

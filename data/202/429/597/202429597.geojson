@@ -2,13 +2,14 @@
   "id": 202429597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.611495,35.196569,-106.611495,35.196569",
     "geom:latitude":35.196569,
     "geom:longitude":-106.611495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10143 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202429597,
-    "wof:lastmodified":1449062512,
+    "wof:lastmodified":1466698305,
     "wof:name":"Gpys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.611495,35.196569,-106.611495,35.196569],
-  "geometry": {"coordinates":[-106.611495,35.196569],"type":"Point"}
+  "bbox": [
+    -106.611495,
+    35.196569,
+    -106.611495,
+    35.196569
+],
+  "geometry": {"coordinates":[-106.61149500000001,35.196569],"type":"Point"}
 }

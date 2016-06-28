@@ -2,13 +2,14 @@
   "id": 169699917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.304652,35.879645,-106.304652,35.879645",
     "geom:latitude":35.879645,
     "geom:longitude":-106.304652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Loma Vista St",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169699917,
-    "wof:lastmodified":1449033140,
+    "wof:lastmodified":1466699020,
     "wof:name":"Los Alamos Community Food Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "banks"
     ]
 },
-  "bbox": [-106.304652,35.879645,-106.304652,35.879645],
+  "bbox": [
+    -106.304652,
+    35.879645,
+    -106.304652,
+    35.879645
+],
   "geometry": {"coordinates":[-106.304652,35.879645],"type":"Point"}
 }

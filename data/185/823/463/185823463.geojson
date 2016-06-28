@@ -2,13 +2,14 @@
   "id": 185823463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.54971,35.303326,-106.54971,35.303326",
     "geom:latitude":35.303326,
     "geom:longitude":-106.54971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"878 Cam del Pueblo",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185823463,
-    "wof:lastmodified":1449008180,
+    "wof:lastmodified":1466697719,
     "wof:name":"Atmabodh Yoga Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "yoga"
     ]
 },
-  "bbox": [-106.54971,35.303326,-106.54971,35.303326],
+  "bbox": [
+    -106.54971,
+    35.303326,
+    -106.54971,
+    35.303326
+],
   "geometry": {"coordinates":[-106.54971,35.303326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202973281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.75147,32.27268,-106.75147,32.27268",
     "geom:latitude":32.27268,
     "geom:longitude":-106.75147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Ave de Mesilla",
     "sg:city":"Mesilla",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202973281,
-    "wof:lastmodified":1449061642,
+    "wof:lastmodified":1466700671,
     "wof:name":"Palacio Bar",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.75147,32.27268,-106.75147,32.27268],
+  "bbox": [
+    -106.75147,
+    32.27268,
+    -106.75147,
+    32.27268
+],
   "geometry": {"coordinates":[-106.75147,32.27268],"type":"Point"}
 }

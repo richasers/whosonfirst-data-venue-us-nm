@@ -2,13 +2,14 @@
   "id": 169774375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.600189,35.154842,-106.600189,35.154842",
     "geom:latitude":35.154842,
     "geom:longitude":-106.600189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169774375,
-    "wof:lastmodified":1449033962,
+    "wof:lastmodified":1466698297,
     "wof:name":"Home New Mexico",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "disability"
     ]
 },
-  "bbox": [-106.600189,35.154842,-106.600189,35.154842],
+  "bbox": [
+    -106.600189,
+    35.154842,
+    -106.600189,
+    35.154842
+],
   "geometry": {"coordinates":[-106.600189,35.154842],"type":"Point"}
 }

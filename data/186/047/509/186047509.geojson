@@ -2,13 +2,14 @@
   "id": 186047509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.892289,35.536857,-105.892289,35.536857",
     "geom:latitude":35.536857,
     "geom:longitude":-105.892289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Floresta Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186047509,
-    "wof:lastmodified":1449052102,
+    "wof:lastmodified":1466698220,
     "wof:name":"Spabox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-105.892289,35.536857,-105.892289,35.536857],
-  "geometry": {"coordinates":[-105.892289,35.536857],"type":"Point"}
+  "bbox": [
+    -105.892289,
+    35.536857,
+    -105.892289,
+    35.536857
+],
+  "geometry": {"coordinates":[-105.89228900000001,35.536857],"type":"Point"}
 }

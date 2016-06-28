@@ -2,13 +2,14 @@
   "id": 203083771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.707463,34.799899,-106.707463,34.799899",
     "geom:latitude":34.799899,
     "geom:longitude":-106.707463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 el Cerro Rd",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203083771,
-    "wof:lastmodified":1449025816,
+    "wof:lastmodified":1466698493,
     "wof:name":"Lucero's Custom Truck Stuff",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-106.707463,34.799899,-106.707463,34.799899],
+  "bbox": [
+    -106.707463,
+    34.799899,
+    -106.707463,
+    34.799899
+],
   "geometry": {"coordinates":[-106.707463,34.799899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186403915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.140107,32.689439,-103.140107,32.689439",
     "geom:latitude":32.689439,
     "geom:longitude":-103.140107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 W Texas St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186403915,
-    "wof:lastmodified":1449052645,
+    "wof:lastmodified":1466699983,
     "wof:name":"Vals Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-103.140107,32.689439,-103.140107,32.689439],
+  "bbox": [
+    -103.140107,
+    32.689439,
+    -103.140107,
+    32.689439
+],
   "geometry": {"coordinates":[-103.140107,32.689439],"type":"Point"}
 }

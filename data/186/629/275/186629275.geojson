@@ -2,13 +2,14 @@
   "id": 186629275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.607407,35.249341,-106.607407,35.249341",
     "geom:latitude":35.249341,
     "geom:longitude":-106.607407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6608 Loma Larga Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186629275,
-    "wof:lastmodified":1449052379,
+    "wof:lastmodified":1466700647,
     "wof:name":"Tobacco Caye Diving",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.607407,35.249341,-106.607407,35.249341],
-  "geometry": {"coordinates":[-106.607407,35.249341],"type":"Point"}
+  "bbox": [
+    -106.607407,
+    35.249341,
+    -106.607407,
+    35.249341
+],
+  "geometry": {"coordinates":[-106.60740699999999,35.249341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202396173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.485289,35.170003,-106.485289,35.170003",
     "geom:latitude":35.170003,
     "geom:longitude":-106.485289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1059 Red Oaks Loop NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202396173,
-    "wof:lastmodified":1449061749,
+    "wof:lastmodified":1466697883,
     "wof:name":"Jeuhl Consulting",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.485289,35.170003,-106.485289,35.170003],
-  "geometry": {"coordinates":[-106.485289,35.170003],"type":"Point"}
+  "bbox": [
+    -106.485289,
+    35.170003,
+    -106.485289,
+    35.170003
+],
+  "geometry": {"coordinates":[-106.48528899999999,35.170003],"type":"Point"}
 }

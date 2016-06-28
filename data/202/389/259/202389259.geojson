@@ -2,13 +2,14 @@
   "id": 202389259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.645697,35.085608,-106.645697,35.085608",
     "geom:latitude":35.085608,
     "geom:longitude":-106.645697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Commercial St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202389259,
-    "wof:lastmodified":1449062148,
+    "wof:lastmodified":1466697792,
     "wof:name":"Mrcog",
     "wof:parent_id":85871877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-106.645697,35.085608,-106.645697,35.085608],
+  "bbox": [
+    -106.645697,
+    35.085608,
+    -106.645697,
+    35.085608
+],
   "geometry": {"coordinates":[-106.645697,35.085608],"type":"Point"}
 }

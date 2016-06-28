@@ -2,13 +2,14 @@
   "id": 186634221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.559301,35.165127,-106.559301,35.165127",
     "geom:latitude":35.165127,
     "geom:longitude":-106.559301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8009 Deming Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186634221,
-    "wof:lastmodified":1449051661,
+    "wof:lastmodified":1466700853,
     "wof:name":"Rio Construction LLC",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.559301,35.165127,-106.559301,35.165127],
+  "bbox": [
+    -106.559301,
+    35.165127,
+    -106.559301,
+    35.165127
+],
   "geometry": {"coordinates":[-106.559301,35.165127],"type":"Point"}
 }

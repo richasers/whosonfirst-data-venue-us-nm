@@ -2,13 +2,14 @@
   "id": 186542449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.203221,36.727105,-108.203221,36.727105",
     "geom:latitude":36.727105,
     "geom:longitude":-108.203221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 S Miller Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186542449,
-    "wof:lastmodified":1449052401,
+    "wof:lastmodified":1466700275,
     "wof:name":"Two Square",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-108.203221,36.727105,-108.203221,36.727105],
+  "bbox": [
+    -108.203221,
+    36.727105,
+    -108.203221,
+    36.727105
+],
   "geometry": {"coordinates":[-108.203221,36.727105],"type":"Point"}
 }

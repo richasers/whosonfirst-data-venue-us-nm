@@ -2,13 +2,14 @@
   "id": 185814715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.716779,35.238581,-106.716779,35.238581",
     "geom:latitude":35.238581,
     "geom:longitude":-106.716779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 10th St SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185814715,
-    "wof:lastmodified":1449006913,
+    "wof:lastmodified":1466697619,
     "wof:name":"P C Lecompte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auditing"
     ]
 },
-  "bbox": [-106.716779,35.238581,-106.716779,35.238581],
+  "bbox": [
+    -106.716779,
+    35.238581,
+    -106.716779,
+    35.238581
+],
   "geometry": {"coordinates":[-106.716779,35.238581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185785251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.178857,36.449799,-103.178857,36.449799",
     "geom:latitude":36.449799,
     "geom:longitude":-103.178857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Pine St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185785251,
-    "wof:lastmodified":1449007955,
+    "wof:lastmodified":1466699285,
     "wof:name":"Sandy's Clayton Wrecker Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-103.178857,36.449799,-103.178857,36.449799],
-  "geometry": {"coordinates":[-103.178857,36.449799],"type":"Point"}
+  "bbox": [
+    -103.178857,
+    36.449799,
+    -103.178857,
+    36.449799
+],
+  "geometry": {"coordinates":[-103.17885699999999,36.449799],"type":"Point"}
 }

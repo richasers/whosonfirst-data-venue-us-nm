@@ -2,13 +2,14 @@
   "id": 203088165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.930664,35.682471,-105.930664,35.682471",
     "geom:latitude":35.682471,
     "geom:longitude":-105.930664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 Canyon Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203088165,
-    "wof:lastmodified":1449026414,
+    "wof:lastmodified":1466698549,
     "wof:name":"Historic Santa Fe Foundation",
     "wof:parent_id":85880803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "philanthropic"
     ]
 },
-  "bbox": [-105.930664,35.682471,-105.930664,35.682471],
-  "geometry": {"coordinates":[-105.930664,35.682471],"type":"Point"}
+  "bbox": [
+    -105.930664,
+    35.682471,
+    -105.930664,
+    35.682471
+],
+  "geometry": {"coordinates":[-105.93066399999999,35.682471],"type":"Point"}
 }

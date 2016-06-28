@@ -2,13 +2,14 @@
   "id": 185925953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.228736,32.375923,-104.228736,32.375923",
     "geom:latitude":32.375923,
     "geom:longitude":-104.228736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3804 National Parks Hwy",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185925953,
-    "wof:lastmodified":1449006610,
+    "wof:lastmodified":1466698892,
     "wof:name":"Great Western Inn & Suites",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hotel"
     ]
 },
-  "bbox": [-104.228736,32.375923,-104.228736,32.375923],
+  "bbox": [
+    -104.228736,
+    32.375923,
+    -104.228736,
+    32.375923
+],
   "geometry": {"coordinates":[-104.228736,32.375923],"type":"Point"}
 }

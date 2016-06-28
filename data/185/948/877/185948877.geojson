@@ -2,13 +2,14 @@
   "id": 185948877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.535957,35.136556,-106.535957,35.136556",
     "geom:latitude":35.136556,
     "geom:longitude":-106.535957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9500 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185948877,
-    "wof:lastmodified":1449007891,
+    "wof:lastmodified":1466699198,
     "wof:name":"Enclave Apartments",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-106.535957,35.136556,-106.535957,35.136556],
+  "bbox": [
+    -106.535957,
+    35.136556,
+    -106.535957,
+    35.136556
+],
   "geometry": {"coordinates":[-106.535957,35.136556],"type":"Point"}
 }

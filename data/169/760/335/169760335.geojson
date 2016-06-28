@@ -2,13 +2,14 @@
   "id": 169760335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.696347,34.972684,-106.696347,34.972684",
     "geom:latitude":34.972684,
     "geom:longitude":-106.696347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6651 Isleta Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169760335,
-    "wof:lastmodified":1449035839,
+    "wof:lastmodified":1466698162,
     "wof:name":"Twin Bears Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "home"
     ]
 },
-  "bbox": [-106.696347,34.972684,-106.696347,34.972684],
+  "bbox": [
+    -106.696347,
+    34.972684,
+    -106.696347,
+    34.972684
+],
   "geometry": {"coordinates":[-106.696347,34.972684],"type":"Point"}
 }

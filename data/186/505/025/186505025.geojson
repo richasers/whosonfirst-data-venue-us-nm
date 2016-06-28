@@ -2,13 +2,14 @@
   "id": 186505025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.608469,35.070632,-106.608469,35.070632",
     "geom:latitude":35.070632,
     "geom:longitude":-106.608469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3112 Monterey Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186505025,
-    "wof:lastmodified":1449052570,
+    "wof:lastmodified":1466700325,
     "wof:name":"All American Ldscp Design LLC",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-106.608469,35.070632,-106.608469,35.070632],
+  "bbox": [
+    -106.608469,
+    35.070632,
+    -106.608469,
+    35.070632
+],
   "geometry": {"coordinates":[-106.608469,35.070632],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186406225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.812744,32.332395,-106.812744,32.332395",
     "geom:latitude":32.332395,
     "geom:longitude":-106.812744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 San Andres Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186406225,
-    "wof:lastmodified":1449051812,
+    "wof:lastmodified":1466699866,
     "wof:name":"Sunshine Generation",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-106.812744,32.332395,-106.812744,32.332395],
+  "bbox": [
+    -106.812744,
+    32.332395,
+    -106.812744,
+    32.332395
+],
   "geometry": {"coordinates":[-106.812744,32.332395],"type":"Point"}
 }

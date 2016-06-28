@@ -2,13 +2,14 @@
   "id": 169858259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.748876,32.268914,-107.748876,32.268914",
     "geom:latitude":32.268914,
     "geom:longitude":-107.748876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 E Pine St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169858259,
-    "wof:lastmodified":1449032995,
+    "wof:lastmodified":1466698928,
     "wof:name":"Subway At Walmart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.748876,32.268914,-107.748876,32.268914],
+  "bbox": [
+    -107.748876,
+    32.268914,
+    -107.748876,
+    32.268914
+],
   "geometry": {"coordinates":[-107.748876,32.268914],"type":"Point"}
 }

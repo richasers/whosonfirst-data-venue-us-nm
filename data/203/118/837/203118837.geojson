@@ -2,13 +2,14 @@
   "id": 203118837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.933557,35.687799,-105.933557,35.687799",
     "geom:latitude":35.687799,
     "geom:longitude":-105.933557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Pso de Peralta",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203118837,
-    "wof:lastmodified":1449026476,
+    "wof:lastmodified":1466698919,
     "wof:name":"Dancing Ground-Sun Bed & Brkst",
     "wof:parent_id":85880807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "bed"
     ]
 },
-  "bbox": [-105.933557,35.687799,-105.933557,35.687799],
-  "geometry": {"coordinates":[-105.933557,35.687799],"type":"Point"}
+  "bbox": [
+    -105.933557,
+    35.687799,
+    -105.933557,
+    35.687799
+],
+  "geometry": {"coordinates":[-105.93355699999999,35.687799],"type":"Point"}
 }

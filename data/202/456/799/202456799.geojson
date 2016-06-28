@@ -2,13 +2,14 @@
   "id": 202456799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.22625,32.426097,-104.22625,32.426097",
     "geom:latitude":32.426097,
     "geom:longitude":-104.22625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 N Main St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202456799,
-    "wof:lastmodified":1449060869,
+    "wof:lastmodified":1466698601,
     "wof:name":"Carlsbad Transit",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-104.22625,32.426097,-104.22625,32.426097],
-  "geometry": {"coordinates":[-104.22625,32.426097],"type":"Point"}
+  "bbox": [
+    -104.22625,
+    32.426097,
+    -104.22625,
+    32.426097
+],
+  "geometry": {"coordinates":[-104.22624999999999,32.426097],"type":"Point"}
 }

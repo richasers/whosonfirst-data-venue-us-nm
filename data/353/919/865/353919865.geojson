@@ -2,13 +2,14 @@
   "id": 353919865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649628,35.082241,-106.649628,35.082241",
     "geom:latitude":35.082241,
     "geom:longitude":-106.649628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 2nd St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":353919865,
-    "wof:lastmodified":1449020185,
+    "wof:lastmodified":1466697719,
     "wof:name":"Greyhound Lines, Inc.",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "public"
     ]
 },
-  "bbox": [-106.649628,35.082241,-106.649628,35.082241],
-  "geometry": {"coordinates":[-106.649628,35.082241],"type":"Point"}
+  "bbox": [
+    -106.649628,
+    35.082241,
+    -106.649628,
+    35.082241
+],
+  "geometry": {"coordinates":[-106.64962800000001,35.082241],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353936729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.580238,35.144321,-106.580238,35.144321",
     "geom:latitude":35.144321,
     "geom:longitude":-106.580238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6101 Osuna Rd NE Apt 12",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353936729,
-    "wof:lastmodified":1449019113,
+    "wof:lastmodified":1466698184,
     "wof:name":"Dc Impact",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-106.580238,35.144321,-106.580238,35.144321],
-  "geometry": {"coordinates":[-106.580238,35.144321],"type":"Point"}
+  "bbox": [
+    -106.580238,
+    35.144321,
+    -106.580238,
+    35.144321
+],
+  "geometry": {"coordinates":[-106.58023799999999,35.144321],"type":"Point"}
 }

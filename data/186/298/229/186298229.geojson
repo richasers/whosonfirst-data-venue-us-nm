@@ -2,13 +2,14 @@
   "id": 186298229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.995395,36.821369,-107.995395,36.821369",
     "geom:latitude":36.821369,
     "geom:longitude":-107.995395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 S Main Ave",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186298229,
-    "wof:lastmodified":1449051111,
+    "wof:lastmodified":1466699308,
     "wof:name":"Foss Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.995395,36.821369,-107.995395,36.821369],
+  "bbox": [
+    -107.995395,
+    36.821369,
+    -107.995395,
+    36.821369
+],
   "geometry": {"coordinates":[-107.995395,36.821369],"type":"Point"}
 }

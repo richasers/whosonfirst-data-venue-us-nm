@@ -2,13 +2,14 @@
   "id": 186304993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.22865,32.453677,-104.22865,32.453677",
     "geom:latitude":32.453677,
     "geom:longitude":-104.22865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819 N Canal St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186304993,
-    "wof:lastmodified":1449052346,
+    "wof:lastmodified":1466699638,
     "wof:name":"Ballard Bus Co",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-104.22865,32.453677,-104.22865,32.453677],
+  "bbox": [
+    -104.22865,
+    32.453677,
+    -104.22865,
+    32.453677
+],
   "geometry": {"coordinates":[-104.22865,32.453677],"type":"Point"}
 }

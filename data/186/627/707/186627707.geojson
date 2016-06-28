@@ -2,13 +2,14 @@
   "id": 186627707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.763012,32.302062,-106.763012,32.302062",
     "geom:latitude":32.302062,
     "geom:longitude":-106.763012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 S Solano Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186627707,
-    "wof:lastmodified":1449053080,
+    "wof:lastmodified":1466700640,
     "wof:name":"RGM Communications",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-106.763012,32.302062,-106.763012,32.302062],
+  "bbox": [
+    -106.763012,
+    32.302062,
+    -106.763012,
+    32.302062
+],
   "geometry": {"coordinates":[-106.763012,32.302062],"type":"Point"}
 }

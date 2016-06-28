@@ -2,13 +2,14 @@
   "id": 186271577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.895117,34.112244,-106.895117,34.112244",
     "geom:latitude":34.112244,
     "geom:longitude":-106.895117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 State Rte 408",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186271577,
-    "wof:lastmodified":1449051781,
+    "wof:lastmodified":1466698936,
     "wof:name":"Home & Country Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.895117,34.112244,-106.895117,34.112244],
+  "bbox": [
+    -106.895117,
+    34.112244,
+    -106.895117,
+    34.112244
+],
   "geometry": {"coordinates":[-106.895117,34.112244],"type":"Point"}
 }

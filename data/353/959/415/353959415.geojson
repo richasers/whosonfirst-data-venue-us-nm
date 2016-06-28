@@ -2,13 +2,14 @@
   "id": 353959415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.657498,35.190917,-106.657498,35.190917",
     "geom:latitude":35.190917,
     "geom:longitude":-106.657498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9784 Coors Blvd NW Ste B",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":353959415,
-    "wof:lastmodified":1449020552,
+    "wof:lastmodified":1466698762,
     "wof:name":"Apple Blossoms At Taylor Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "flowers"
     ]
 },
-  "bbox": [-106.657498,35.190917,-106.657498,35.190917],
+  "bbox": [
+    -106.657498,
+    35.190917,
+    -106.657498,
+    35.190917
+],
   "geometry": {"coordinates":[-106.657498,35.190917],"type":"Point"}
 }

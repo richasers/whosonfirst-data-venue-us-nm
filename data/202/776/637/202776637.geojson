@@ -2,13 +2,14 @@
   "id": 202776637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.257349,35.074256,-106.257349,35.074256",
     "geom:latitude":35.074256,
     "geom:longitude":-106.257349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Autumnwood Ct",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202776637,
-    "wof:lastmodified":1449060677,
+    "wof:lastmodified":1466699753,
     "wof:name":"Andrew & Lisa Kwas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-106.257349,35.074256,-106.257349,35.074256],
+  "bbox": [
+    -106.257349,
+    35.074256,
+    -106.257349,
+    35.074256
+],
   "geometry": {"coordinates":[-106.257349,35.074256],"type":"Point"}
 }

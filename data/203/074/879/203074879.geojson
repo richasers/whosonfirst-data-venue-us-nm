@@ -2,13 +2,14 @@
   "id": 203074879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.958054,32.894897,-105.958054,32.894897",
     "geom:latitude":32.894897,
     "geom:longitude":-105.958054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Delaware Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203074879,
-    "wof:lastmodified":1449025963,
+    "wof:lastmodified":1466698408,
     "wof:name":"Corinth Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-105.958054,32.894897,-105.958054,32.894897],
+  "bbox": [
+    -105.958054,
+    32.894897,
+    -105.958054,
+    32.894897
+],
   "geometry": {"coordinates":[-105.958054,32.894897],"type":"Point"}
 }

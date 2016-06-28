@@ -2,13 +2,14 @@
   "id": 186539153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.621706,35.128133,-106.621706,35.128133",
     "geom:latitude":35.128133,
     "geom:longitude":-106.621706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4330 Yale Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186539153,
-    "wof:lastmodified":1449053074,
+    "wof:lastmodified":1466700350,
     "wof:name":"Christopher Group Ltd Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "commercial"
     ]
 },
-  "bbox": [-106.621706,35.128133,-106.621706,35.128133],
+  "bbox": [
+    -106.621706,
+    35.128133,
+    -106.621706,
+    35.128133
+],
   "geometry": {"coordinates":[-106.621706,35.128133],"type":"Point"}
 }

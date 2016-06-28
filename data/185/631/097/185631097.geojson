@@ -2,13 +2,14 @@
   "id": 185631097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.76942,35.518128,-108.76942,35.518128",
     "geom:latitude":35.518128,
     "geom:longitude":-108.76942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 Barbara Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185631097,
-    "wof:lastmodified":1449007103,
+    "wof:lastmodified":1466697945,
     "wof:name":"Clifton Electric Co",
     "wof:parent_id":85802855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.76942,35.518128,-108.76942,35.518128],
+  "bbox": [
+    -108.76942,
+    35.518128,
+    -108.76942,
+    35.518128
+],
   "geometry": {"coordinates":[-108.76942,35.518128],"type":"Point"}
 }

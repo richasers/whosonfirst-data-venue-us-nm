@@ -2,13 +2,14 @@
   "id": 202562803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.729578,32.294068,-106.729578,32.294068",
     "geom:latitude":32.294068,
     "geom:longitude":-106.729578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2444 el Dorado Ct",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202562803,
-    "wof:lastmodified":1449061455,
+    "wof:lastmodified":1466697836,
     "wof:name":"Ken Kroeger & Co",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-106.729578,32.294068,-106.729578,32.294068],
+  "bbox": [
+    -106.729578,
+    32.294068,
+    -106.729578,
+    32.294068
+],
   "geometry": {"coordinates":[-106.729578,32.294068],"type":"Point"}
 }

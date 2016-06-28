@@ -2,13 +2,14 @@
   "id": 169828183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.446402,33.292388,-104.446402,33.292388",
     "geom:latitude":33.292388,
     "geom:longitude":-104.446402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 E Lupton Rd",
     "sg:city":"Dexter",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169828183,
-    "wof:lastmodified":1449034354,
+    "wof:lastmodified":1466698790,
     "wof:name":"Midway Trading Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-104.446402,33.292388,-104.446402,33.292388],
-  "geometry": {"coordinates":[-104.446402,33.292388],"type":"Point"}
+  "bbox": [
+    -104.446402,
+    33.292388,
+    -104.446402,
+    33.292388
+],
+  "geometry": {"coordinates":[-104.44640200000001,33.292388],"type":"Point"}
 }

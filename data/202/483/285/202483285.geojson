@@ -2,13 +2,14 @@
   "id": 202483285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.144718,32.727702,-103.144718,32.727702",
     "geom:latitude":32.727702,
     "geom:longitude":-103.144718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2404 N Grimes St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202483285,
-    "wof:lastmodified":1449062116,
+    "wof:lastmodified":1466699004,
     "wof:name":"Travel Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-103.144718,32.727702,-103.144718,32.727702],
+  "bbox": [
+    -103.144718,
+    32.727702,
+    -103.144718,
+    32.727702
+],
   "geometry": {"coordinates":[-103.144718,32.727702],"type":"Point"}
 }

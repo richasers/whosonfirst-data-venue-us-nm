@@ -2,13 +2,14 @@
   "id": 186592735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.985033,35.752697,-105.985033,35.752697",
     "geom:latitude":35.752697,
     "geom:longitude":-105.985033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1882 Vis del Sur",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186592735,
-    "wof:lastmodified":1449051927,
+    "wof:lastmodified":1466700728,
     "wof:name":"Esteban Armendariz Dvm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.985033,35.752697,-105.985033,35.752697],
+  "bbox": [
+    -105.985033,
+    35.752697,
+    -105.985033,
+    35.752697
+],
   "geometry": {"coordinates":[-105.985033,35.752697],"type":"Point"}
 }

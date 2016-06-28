@@ -2,13 +2,14 @@
   "id": 203050419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.504211,35.055277,-106.504211,35.055277",
     "geom:latitude":35.055277,
     "geom:longitude":-106.504211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Suzanne Ln SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203050419,
-    "wof:lastmodified":1449025991,
+    "wof:lastmodified":1466698140,
     "wof:name":"Uncommon Approach Inc",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-106.504211,35.055277,-106.504211,35.055277],
+  "bbox": [
+    -106.504211,
+    35.055277,
+    -106.504211,
+    35.055277
+],
   "geometry": {"coordinates":[-106.504211,35.055277],"type":"Point"}
 }

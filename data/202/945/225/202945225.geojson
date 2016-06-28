@@ -2,13 +2,14 @@
   "id": 202945225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.931363,35.683704,-105.931363,35.683704",
     "geom:latitude":35.683704,
     "geom:longitude":-105.931363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Delgado St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202945225,
-    "wof:lastmodified":1449060330,
+    "wof:lastmodified":1466700420,
     "wof:name":"Alterman Galleries",
     "wof:parent_id":85880807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.931363,35.683704,-105.931363,35.683704],
+  "bbox": [
+    -105.931363,
+    35.683704,
+    -105.931363,
+    35.683704
+],
   "geometry": {"coordinates":[-105.931363,35.683704],"type":"Point"}
 }

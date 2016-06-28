@@ -2,13 +2,14 @@
   "id": 185668013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.837644,35.145454,-107.837644,35.145454",
     "geom:latitude":35.145454,
     "geom:longitude":-107.837644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 E High Ave",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185668013,
-    "wof:lastmodified":1449007715,
+    "wof:lastmodified":1466699418,
     "wof:name":"High Street Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-107.837644,35.145454,-107.837644,35.145454],
+  "bbox": [
+    -107.837644,
+    35.145454,
+    -107.837644,
+    35.145454
+],
   "geometry": {"coordinates":[-107.837644,35.145454],"type":"Point"}
 }

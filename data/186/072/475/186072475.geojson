@@ -2,13 +2,14 @@
   "id": 186072475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.954873,35.654785,-105.954873,35.654785",
     "geom:latitude":35.654785,
     "geom:longitude":-105.954873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2025 Galisteo St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186072475,
-    "wof:lastmodified":1449051789,
+    "wof:lastmodified":1466698549,
     "wof:name":"Arroyo Chamiso Pediatric Ctr",
     "wof:parent_id":85880859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-105.954873,35.654785,-105.954873,35.654785],
-  "geometry": {"coordinates":[-105.954873,35.654785],"type":"Point"}
+  "bbox": [
+    -105.954873,
+    35.654785,
+    -105.954873,
+    35.654785
+],
+  "geometry": {"coordinates":[-105.95487300000001,35.654785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169698815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.302347,35.148768,-106.302347,35.148768",
     "geom:latitude":35.148768,
     "geom:longitude":-106.302347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Ruebens Rd",
     "sg:city":"Sandia Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169698815,
-    "wof:lastmodified":1449035756,
+    "wof:lastmodified":1466697655,
     "wof:name":"R & J Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.302347,35.148768,-106.302347,35.148768],
+  "bbox": [
+    -106.302347,
+    35.148768,
+    -106.302347,
+    35.148768
+],
   "geometry": {"coordinates":[-106.302347,35.148768],"type":"Point"}
 }

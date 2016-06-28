@@ -2,13 +2,14 @@
   "id": 186645409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.738592,35.510057,-108.738592,35.510057",
     "geom:latitude":35.510057,
     "geom:longitude":-108.738592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1724 S 2nd St",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186645409,
-    "wof:lastmodified":1449050511,
+    "wof:lastmodified":1466700702,
     "wof:name":"Gallup Lumber & Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "center"
     ]
 },
-  "bbox": [-108.738592,35.510057,-108.738592,35.510057],
+  "bbox": [
+    -108.738592,
+    35.510057,
+    -108.738592,
+    35.510057
+],
   "geometry": {"coordinates":[-108.738592,35.510057],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202599101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.538569,35.309366,-106.538569,35.309366",
     "geom:latitude":35.309366,
     "geom:longitude":-106.538569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 S Hill Rd",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202599101,
-    "wof:lastmodified":1449061302,
+    "wof:lastmodified":1466698367,
     "wof:name":"Albuquerque North KOA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.538569,35.309366,-106.538569,35.309366],
+  "bbox": [
+    -106.538569,
+    35.309366,
+    -106.538569,
+    35.309366
+],
   "geometry": {"coordinates":[-106.538569,35.309366],"type":"Point"}
 }

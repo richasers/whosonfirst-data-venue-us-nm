@@ -2,13 +2,14 @@
   "id": 202965577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.963466,35.689829,-105.963466,35.689829",
     "geom:latitude":35.689829,
     "geom:longitude":-105.963466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Pine St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202965577,
-    "wof:lastmodified":1449061871,
+    "wof:lastmodified":1466700621,
     "wof:name":"Amara Classical Acupuncture",
     "wof:parent_id":85880785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-105.963466,35.689829,-105.963466,35.689829],
+  "bbox": [
+    -105.963466,
+    35.689829,
+    -105.963466,
+    35.689829
+],
   "geometry": {"coordinates":[-105.963466,35.689829],"type":"Point"}
 }

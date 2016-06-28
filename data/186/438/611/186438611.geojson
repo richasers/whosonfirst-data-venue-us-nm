@@ -2,13 +2,14 @@
   "id": 186438611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.706244,35.126047,-106.706244,35.126047",
     "geom:latitude":35.126047,
     "geom:longitude":-106.706244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 Atrisco Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186438611,
-    "wof:lastmodified":1449051295,
+    "wof:lastmodified":1466699999,
     "wof:name":"Tri Core Reference Labs",
     "wof:parent_id":85865321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-106.706244,35.126047,-106.706244,35.126047],
+  "bbox": [
+    -106.706244,
+    35.126047,
+    -106.706244,
+    35.126047
+],
   "geometry": {"coordinates":[-106.706244,35.126047],"type":"Point"}
 }

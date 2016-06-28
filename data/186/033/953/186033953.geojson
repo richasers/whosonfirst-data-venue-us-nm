@@ -2,13 +2,14 @@
   "id": 186033953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.731329,35.116163,-106.731329,35.116163",
     "geom:latitude":35.116163,
     "geom:longitude":-106.731329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8015 Cliffview Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186033953,
-    "wof:lastmodified":1449050955,
+    "wof:lastmodified":1466698065,
     "wof:name":"G and J Lawn Care",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.731329,35.116163,-106.731329,35.116163],
+  "bbox": [
+    -106.731329,
+    35.116163,
+    -106.731329,
+    35.116163
+],
   "geometry": {"coordinates":[-106.731329,35.116163],"type":"Point"}
 }

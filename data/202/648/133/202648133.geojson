@@ -2,13 +2,14 @@
   "id": 202648133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.50943,35.154768,-106.50943,35.154768",
     "geom:latitude":35.154768,
     "geom:longitude":-106.50943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11604 Penfield Ln NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202648133,
-    "wof:lastmodified":1449060815,
+    "wof:lastmodified":1466699110,
     "wof:name":"K & A Wireless",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.50943,35.154768,-106.50943,35.154768],
-  "geometry": {"coordinates":[-106.50943,35.154768],"type":"Point"}
+  "bbox": [
+    -106.50943,
+    35.154768,
+    -106.50943,
+    35.154768
+],
+  "geometry": {"coordinates":[-106.50942999999999,35.154768],"type":"Point"}
 }

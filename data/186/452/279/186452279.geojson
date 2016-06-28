@@ -2,13 +2,14 @@
   "id": 186452279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.063756,36.023182,-106.063756,36.023182",
     "geom:latitude":36.023182,
     "geom:longitude":-106.063756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2116 N Riverside Dr",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186452279,
-    "wof:lastmodified":1449051032,
+    "wof:lastmodified":1466700045,
     "wof:name":"A B & D Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-106.063756,36.023182,-106.063756,36.023182],
+  "bbox": [
+    -106.063756,
+    36.023182,
+    -106.063756,
+    36.023182
+],
   "geometry": {"coordinates":[-106.063756,36.023182],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186179181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.528374,35.0871,-106.528374,35.0871",
     "geom:latitude":35.0871,
     "geom:longitude":-106.528374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10601 Lomas Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186179181,
-    "wof:lastmodified":1449052745,
+    "wof:lastmodified":1466697756,
     "wof:name":"Professional Computer Services",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-106.528374,35.0871,-106.528374,35.0871],
+  "bbox": [
+    -106.528374,
+    35.0871,
+    -106.528374,
+    35.0871
+],
   "geometry": {"coordinates":[-106.528374,35.0871],"type":"Point"}
 }

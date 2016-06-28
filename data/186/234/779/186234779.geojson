@@ -2,13 +2,14 @@
   "id": 186234779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.623665,35.25166,-106.623665,35.25166",
     "geom:latitude":35.25166,
     "geom:longitude":-106.623665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1960 Angel Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186234779,
-    "wof:lastmodified":1449052887,
+    "wof:lastmodified":1466698460,
     "wof:name":"I D S K Inc",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "risk"
     ]
 },
-  "bbox": [-106.623665,35.25166,-106.623665,35.25166],
+  "bbox": [
+    -106.623665,
+    35.25166,
+    -106.623665,
+    35.25166
+],
   "geometry": {"coordinates":[-106.623665,35.25166],"type":"Point"}
 }

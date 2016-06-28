@@ -2,13 +2,14 @@
   "id": 185958937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.575009,36.402372,-105.575009,36.402372",
     "geom:latitude":36.402372,
     "geom:longitude":-105.575009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185958937,
-    "wof:lastmodified":1449007878,
+    "wof:lastmodified":1466699363,
     "wof:name":"Toasound Tape & Cd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.575009,36.402372,-105.575009,36.402372],
-  "geometry": {"coordinates":[-105.575009,36.402372],"type":"Point"}
+  "bbox": [
+    -105.575009,
+    36.402372,
+    -105.575009,
+    36.402372
+],
+  "geometry": {"coordinates":[-105.57500899999999,36.402372],"type":"Point"}
 }

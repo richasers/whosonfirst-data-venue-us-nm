@@ -2,13 +2,14 @@
   "id": 185634535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.724681,35.171816,-103.724681,35.171816",
     "geom:latitude":35.171816,
     "geom:longitude":-103.724681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 E Tucumcari Blvd",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185634535,
-    "wof:lastmodified":1449007388,
+    "wof:lastmodified":1466697973,
     "wof:name":"Tucumcari Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-103.724681,35.171816,-103.724681,35.171816],
+  "bbox": [
+    -103.724681,
+    35.171816,
+    -103.724681,
+    35.171816
+],
   "geometry": {"coordinates":[-103.724681,35.171816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202626245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.74241,35.197053,-106.74241,35.197053",
     "geom:latitude":35.197053,
     "geom:longitude":-106.74241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10228 Shawna St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202626245,
-    "wof:lastmodified":1449062652,
+    "wof:lastmodified":1466698776,
     "wof:name":"Nenas Flowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.74241,35.197053,-106.74241,35.197053],
-  "geometry": {"coordinates":[-106.74241,35.197053],"type":"Point"}
+  "bbox": [
+    -106.74241,
+    35.197053,
+    -106.74241,
+    35.197053
+],
+  "geometry": {"coordinates":[-106.74241000000001,35.197053],"type":"Point"}
 }

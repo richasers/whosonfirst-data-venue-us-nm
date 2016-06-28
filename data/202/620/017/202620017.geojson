@@ -2,13 +2,14 @@
   "id": 202620017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613354,35.235029,-106.613354,35.235029",
     "geom:latitude":35.235029,
     "geom:longitude":-106.613354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 Tenorio Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202620017,
-    "wof:lastmodified":1449062436,
+    "wof:lastmodified":1466698676,
     "wof:name":"Theco",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.613354,35.235029,-106.613354,35.235029],
+  "bbox": [
+    -106.613354,
+    35.235029,
+    -106.613354,
+    35.235029
+],
   "geometry": {"coordinates":[-106.613354,35.235029],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186201381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613167,35.09239,-106.613167,35.09239",
     "geom:latitude":35.09239,
     "geom:longitude":-106.613167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1029 Girard Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186201381,
-    "wof:lastmodified":1449052656,
+    "wof:lastmodified":1466698047,
     "wof:name":"Magical Avenue",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "group"
     ]
 },
-  "bbox": [-106.613167,35.09239,-106.613167,35.09239],
+  "bbox": [
+    -106.613167,
+    35.09239,
+    -106.613167,
+    35.09239
+],
   "geometry": {"coordinates":[-106.613167,35.09239],"type":"Point"}
 }

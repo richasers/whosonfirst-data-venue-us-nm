@@ -2,13 +2,14 @@
   "id": 202636139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.258226,35.074168,-106.258226,35.074168",
     "geom:latitude":35.074168,
     "geom:longitude":-106.258226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Autumnwood Ct",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202636139,
-    "wof:lastmodified":1449061121,
+    "wof:lastmodified":1466698927,
     "wof:name":"Demolay International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.258226,35.074168,-106.258226,35.074168],
-  "geometry": {"coordinates":[-106.258226,35.074168],"type":"Point"}
+  "bbox": [
+    -106.258226,
+    35.074168,
+    -106.258226,
+    35.074168
+],
+  "geometry": {"coordinates":[-106.25822599999999,35.074168],"type":"Point"}
 }

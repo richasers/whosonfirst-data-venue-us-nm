@@ -2,13 +2,14 @@
   "id": 185955585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.36173,32.944014,-103.36173,32.944014",
     "geom:latitude":32.944014,
     "geom:longitude":-103.36173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 W Ave D",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185955585,
-    "wof:lastmodified":1449007707,
+    "wof:lastmodified":1466699308,
     "wof:name":"K W M W - F M 1051",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "representative"
     ]
 },
-  "bbox": [-103.36173,32.944014,-103.36173,32.944014],
-  "geometry": {"coordinates":[-103.36173,32.944014],"type":"Point"}
+  "bbox": [
+    -103.36173,
+    32.944014,
+    -103.36173,
+    32.944014
+],
+  "geometry": {"coordinates":[-103.36172999999999,32.944014],"type":"Point"}
 }

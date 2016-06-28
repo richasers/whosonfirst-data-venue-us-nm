@@ -2,13 +2,14 @@
   "id": 186621927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.594716,35.105652,-106.594716,35.105652",
     "geom:latitude":35.105652,
     "geom:longitude":-106.594716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4401 Cutler Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":186621927,
-    "wof:lastmodified":1449052698,
+    "wof:lastmodified":1466700713,
     "wof:name":"Pilates Albuquerque",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-106.594716,35.105652,-106.594716,35.105652],
-  "geometry": {"coordinates":[-106.594716,35.105652],"type":"Point"}
+  "bbox": [
+    -106.594716,
+    35.105652,
+    -106.594716,
+    35.105652
+],
+  "geometry": {"coordinates":[-106.59471600000001,35.105652],"type":"Point"}
 }

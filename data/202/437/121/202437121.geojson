@@ -2,13 +2,14 @@
   "id": 202437121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.019924,35.65584,-106.019924,35.65584",
     "geom:latitude":35.65584,
     "geom:longitude":-106.019924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3960 Agua Fria St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202437121,
-    "wof:lastmodified":1449061936,
+    "wof:lastmodified":1466698389,
     "wof:name":"Agua Fria Plumbing",
     "wof:parent_id":85880815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.019924,35.65584,-106.019924,35.65584],
+  "bbox": [
+    -106.019924,
+    35.65584,
+    -106.019924,
+    35.65584
+],
   "geometry": {"coordinates":[-106.019924,35.65584],"type":"Point"}
 }

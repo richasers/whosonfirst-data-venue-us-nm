@@ -2,13 +2,14 @@
   "id": 186181501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.395359,32.821768,-104.395359,32.821768",
     "geom:latitude":32.821768,
     "geom:longitude":-104.395359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1911 S 1st St",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186181501,
-    "wof:lastmodified":1449052006,
+    "wof:lastmodified":1466697783,
     "wof:name":"R J's Pawn Shop",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-104.395359,32.821768,-104.395359,32.821768],
+  "bbox": [
+    -104.395359,
+    32.821768,
+    -104.395359,
+    32.821768
+],
   "geometry": {"coordinates":[-104.395359,32.821768],"type":"Point"}
 }

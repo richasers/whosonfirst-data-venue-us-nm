@@ -2,13 +2,14 @@
   "id": 185889723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.434177,36.903929,-104.434177,36.903929",
     "geom:latitude":36.903929,
     "geom:longitude":-104.434177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Garcia St",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185889723,
-    "wof:lastmodified":1449006574,
+    "wof:lastmodified":1466698417,
     "wof:name":"Bisconti Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.434177,36.903929,-104.434177,36.903929],
-  "geometry": {"coordinates":[-104.434177,36.903929],"type":"Point"}
+  "bbox": [
+    -104.434177,
+    36.903929,
+    -104.434177,
+    36.903929
+],
+  "geometry": {"coordinates":[-104.43417700000001,36.903929],"type":"Point"}
 }

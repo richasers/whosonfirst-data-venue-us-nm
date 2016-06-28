@@ -2,13 +2,14 @@
   "id": 203057153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.964271,35.646969,-105.964271,35.646969",
     "geom:latitude":35.646969,
     "geom:longitude":-105.964271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2196 Candelero St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203057153,
-    "wof:lastmodified":1449025861,
+    "wof:lastmodified":1466698201,
     "wof:name":"Darlene McElroy Design",
     "wof:parent_id":85880859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "illustration"
     ]
 },
-  "bbox": [-105.964271,35.646969,-105.964271,35.646969],
+  "bbox": [
+    -105.964271,
+    35.646969,
+    -105.964271,
+    35.646969
+],
   "geometry": {"coordinates":[-105.964271,35.646969],"type":"Point"}
 }

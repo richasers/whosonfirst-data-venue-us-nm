@@ -2,13 +2,14 @@
   "id": 169704557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.778215,34.657114,-106.778215,34.657114",
     "geom:latitude":34.657114,
     "geom:longitude":-106.778215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 S Main St",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169704557,
-    "wof:lastmodified":1449033554,
+    "wof:lastmodified":1466697638,
     "wof:name":"Belen Nails",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-106.778215,34.657114,-106.778215,34.657114],
+  "bbox": [
+    -106.778215,
+    34.657114,
+    -106.778215,
+    34.657114
+],
   "geometry": {"coordinates":[-106.778215,34.657114],"type":"Point"}
 }

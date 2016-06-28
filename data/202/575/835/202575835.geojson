@@ -2,13 +2,14 @@
   "id": 202575835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.532411,35.079619,-106.532411,35.079619",
     "geom:latitude":35.079619,
     "geom:longitude":-106.532411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202575835,
-    "wof:lastmodified":1449060852,
+    "wof:lastmodified":1466698023,
     "wof:name":"Books & Coffee",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.532411,35.079619,-106.532411,35.079619],
+  "bbox": [
+    -106.532411,
+    35.079619,
+    -106.532411,
+    35.079619
+],
   "geometry": {"coordinates":[-106.532411,35.079619],"type":"Point"}
 }

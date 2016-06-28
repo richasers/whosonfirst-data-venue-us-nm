@@ -2,13 +2,14 @@
   "id": 185639025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.209358,35.827112,-106.209358,35.827112",
     "geom:latitude":35.827112,
     "geom:longitude":-106.209358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Bonnie View Dr",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185639025,
-    "wof:lastmodified":1449008198,
+    "wof:lastmodified":1466699405,
     "wof:name":"Otowi Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-106.209358,35.827112,-106.209358,35.827112],
-  "geometry": {"coordinates":[-106.209358,35.827112],"type":"Point"}
+  "bbox": [
+    -106.209358,
+    35.827112,
+    -106.209358,
+    35.827112
+],
+  "geometry": {"coordinates":[-106.20935799999999,35.827112],"type":"Point"}
 }

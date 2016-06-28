@@ -2,13 +2,14 @@
   "id": 353924353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.673193,35.054869,-106.673193,35.054869",
     "geom:latitude":35.054869,
     "geom:longitude":-106.673193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1245 Isleta Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353924353,
-    "wof:lastmodified":1449018975,
+    "wof:lastmodified":1466697848,
     "wof:name":"K Vigil Slp",
     "wof:parent_id":85892585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "speech-language"
     ]
 },
-  "bbox": [-106.673193,35.054869,-106.673193,35.054869],
+  "bbox": [
+    -106.673193,
+    35.054869,
+    -106.673193,
+    35.054869
+],
   "geometry": {"coordinates":[-106.673193,35.054869],"type":"Point"}
 }

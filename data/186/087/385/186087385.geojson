@@ -2,13 +2,14 @@
   "id": 186087385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.483391,33.44247,-104.483391,33.44247",
     "geom:latitude":33.44247,
     "geom:longitude":-104.483391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Columbia Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186087385,
-    "wof:lastmodified":1449051615,
+    "wof:lastmodified":1466698737,
     "wof:name":"Lucero's Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.483391,33.44247,-104.483391,33.44247],
+  "bbox": [
+    -104.483391,
+    33.44247,
+    -104.483391,
+    33.44247
+],
   "geometry": {"coordinates":[-104.483391,33.44247],"type":"Point"}
 }

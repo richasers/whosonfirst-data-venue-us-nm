@@ -2,13 +2,14 @@
   "id": 202853119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.718301,35.183401,-103.718301,35.183401",
     "geom:latitude":35.183401,
     "geom:longitude":-103.718301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 N College St",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202853119,
-    "wof:lastmodified":1449061136,
+    "wof:lastmodified":1466700068,
     "wof:name":"Michael's Auto Repair & Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-103.718301,35.183401,-103.718301,35.183401],
+  "bbox": [
+    -103.718301,
+    35.183401,
+    -103.718301,
+    35.183401
+],
   "geometry": {"coordinates":[-103.718301,35.183401],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186178805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.750498,32.313265,-106.750498,32.313265",
     "geom:latitude":32.313265,
     "geom:longitude":-106.750498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2305 E Lohman Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186178805,
-    "wof:lastmodified":1449052285,
+    "wof:lastmodified":1466697750,
     "wof:name":"Colonial Storage Ctr",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-106.750498,32.313265,-106.750498,32.313265],
-  "geometry": {"coordinates":[-106.750498,32.313265],"type":"Point"}
+  "bbox": [
+    -106.750498,
+    32.313265,
+    -106.750498,
+    32.313265
+],
+  "geometry": {"coordinates":[-106.75049799999999,32.313265],"type":"Point"}
 }

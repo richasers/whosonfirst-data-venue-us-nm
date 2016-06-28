@@ -2,13 +2,14 @@
   "id": 202993629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.690964,34.866869,-106.690964,34.866869",
     "geom:latitude":34.866869,
     "geom:longitude":-106.690964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 Bosque Farms Blvd",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202993629,
-    "wof:lastmodified":1449061250,
+    "wof:lastmodified":1466700753,
     "wof:name":"Livie's Glass",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "custom"
     ]
 },
-  "bbox": [-106.690964,34.866869,-106.690964,34.866869],
-  "geometry": {"coordinates":[-106.690964,34.866869],"type":"Point"}
+  "bbox": [
+    -106.690964,
+    34.866869,
+    -106.690964,
+    34.866869
+],
+  "geometry": {"coordinates":[-106.69096399999999,34.866869],"type":"Point"}
 }

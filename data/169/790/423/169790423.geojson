@@ -2,13 +2,14 @@
   "id": 169790423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.77565,32.33735,-106.77565,32.33735",
     "geom:latitude":32.33735,
     "geom:longitude":-106.77565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 Cam del Rex",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169790423,
-    "wof:lastmodified":1449035188,
+    "wof:lastmodified":1466698490,
     "wof:name":"Jim's Fiberglass LTD Co",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-106.77565,32.33735,-106.77565,32.33735],
+  "bbox": [
+    -106.77565,
+    32.33735,
+    -106.77565,
+    32.33735
+],
   "geometry": {"coordinates":[-106.77565,32.33735],"type":"Point"}
 }

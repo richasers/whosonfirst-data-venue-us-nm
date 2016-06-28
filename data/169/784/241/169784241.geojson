@@ -2,13 +2,14 @@
   "id": 169784241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.007698,36.710168,-108.007698,36.710168",
     "geom:latitude":36.710168,
     "geom:longitude":-108.007698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2531 Circle Dr",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169784241,
-    "wof:lastmodified":1449034896,
+    "wof:lastmodified":1466698386,
     "wof:name":"Mobergs Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-108.007698,36.710168,-108.007698,36.710168],
+  "bbox": [
+    -108.007698,
+    36.710168,
+    -108.007698,
+    36.710168
+],
   "geometry": {"coordinates":[-108.007698,36.710168],"type":"Point"}
 }

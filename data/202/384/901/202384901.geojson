@@ -2,13 +2,14 @@
   "id": 202384901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.500375,35.148605,-106.500375,35.148605",
     "geom:latitude":35.148605,
     "geom:longitude":-106.500375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12404 Royal Oak Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202384901,
-    "wof:lastmodified":1449060416,
+    "wof:lastmodified":1466697742,
     "wof:name":"Belk Corporation",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "liquor"
     ]
 },
-  "bbox": [-106.500375,35.148605,-106.500375,35.148605],
-  "geometry": {"coordinates":[-106.500375,35.148605],"type":"Point"}
+  "bbox": [
+    -106.500375,
+    35.148605,
+    -106.500375,
+    35.148605
+],
+  "geometry": {"coordinates":[-106.50037500000001,35.148605],"type":"Point"}
 }

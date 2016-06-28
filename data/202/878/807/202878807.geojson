@@ -2,13 +2,14 @@
   "id": 202878807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.206276,35.825443,-106.206276,35.825443",
     "geom:latitude":35.825443,
     "geom:longitude":-106.206276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Aztec Ave",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202878807,
-    "wof:lastmodified":1449061434,
+    "wof:lastmodified":1466700370,
     "wof:name":"Marcon Excavating Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.206276,35.825443,-106.206276,35.825443],
+  "bbox": [
+    -106.206276,
+    35.825443,
+    -106.206276,
+    35.825443
+],
   "geometry": {"coordinates":[-106.206276,35.825443],"type":"Point"}
 }

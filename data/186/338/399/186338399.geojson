@@ -2,13 +2,14 @@
   "id": 186338399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.337253,34.186531,-103.337253,34.186531",
     "geom:latitude":34.186531,
     "geom:longitude":-103.337253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 W 1st St",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186338399,
-    "wof:lastmodified":1449051319,
+    "wof:lastmodified":1466699744,
     "wof:name":"9th Judicial District Attorney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "counsel"
     ]
 },
-  "bbox": [-103.337253,34.186531,-103.337253,34.186531],
+  "bbox": [
+    -103.337253,
+    34.186531,
+    -103.337253,
+    34.186531
+],
   "geometry": {"coordinates":[-103.337253,34.186531],"type":"Point"}
 }

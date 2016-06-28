@@ -2,13 +2,14 @@
   "id": 202535167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615204,35.115946,-106.615204,35.115946",
     "geom:latitude":35.115946,
     "geom:longitude":-106.615204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Vassar Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202535167,
-    "wof:lastmodified":1449060562,
+    "wof:lastmodified":1466699292,
     "wof:name":"B & D Mfg Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "structural"
     ]
 },
-  "bbox": [-106.615204,35.115946,-106.615204,35.115946],
-  "geometry": {"coordinates":[-106.615204,35.115946],"type":"Point"}
+  "bbox": [
+    -106.615204,
+    35.115946,
+    -106.615204,
+    35.115946
+],
+  "geometry": {"coordinates":[-106.61520400000001,35.115946],"type":"Point"}
 }

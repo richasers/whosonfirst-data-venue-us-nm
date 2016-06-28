@@ -2,13 +2,14 @@
   "id": 186212163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.175097,36.748065,-108.175097,36.748065",
     "geom:latitude":36.748065,
     "geom:longitude":-108.175097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2417 E 20th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186212163,
-    "wof:lastmodified":1449052111,
+    "wof:lastmodified":1466698176,
     "wof:name":"Mane Master Studios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.175097,36.748065,-108.175097,36.748065],
-  "geometry": {"coordinates":[-108.175097,36.748065],"type":"Point"}
+  "bbox": [
+    -108.175097,
+    36.748065,
+    -108.175097,
+    36.748065
+],
+  "geometry": {"coordinates":[-108.17509699999999,36.748065],"type":"Point"}
 }

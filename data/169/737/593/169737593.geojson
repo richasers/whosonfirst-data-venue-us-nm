@@ -2,13 +2,14 @@
   "id": 169737593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.767324,32.266583,-107.767324,32.266583",
     "geom:latitude":32.266583,
     "geom:longitude":-107.767324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 W Spruce St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169737593,
-    "wof:lastmodified":1449033422,
+    "wof:lastmodified":1466697961,
     "wof:name":"Swiftys Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "liquor"
     ]
 },
-  "bbox": [-107.767324,32.266583,-107.767324,32.266583],
+  "bbox": [
+    -107.767324,
+    32.266583,
+    -107.767324,
+    32.266583
+],
   "geometry": {"coordinates":[-107.767324,32.266583],"type":"Point"}
 }

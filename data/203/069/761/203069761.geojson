@@ -2,13 +2,14 @@
   "id": 203069761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.735818,35.500387,-108.735818,35.500387",
     "geom:latitude":35.500387,
     "geom:longitude":-108.735818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 Lance St",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203069761,
-    "wof:lastmodified":1449026163,
+    "wof:lastmodified":1466698338,
     "wof:name":"Yellow Transportation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-108.735818,35.500387,-108.735818,35.500387],
-  "geometry": {"coordinates":[-108.735818,35.500387],"type":"Point"}
+  "bbox": [
+    -108.735818,
+    35.500387,
+    -108.735818,
+    35.500387
+],
+  "geometry": {"coordinates":[-108.73581799999999,35.500387],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185666479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.087872,36.008144,-106.087872,36.008144",
     "geom:latitude":36.008144,
     "geom:longitude":-106.087872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 N Pso de Onate",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185666479,
-    "wof:lastmodified":1449007189,
+    "wof:lastmodified":1466698304,
     "wof:name":"Henry Valencia Inc",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.087872,36.008144,-106.087872,36.008144],
+  "bbox": [
+    -106.087872,
+    36.008144,
+    -106.087872,
+    36.008144
+],
   "geometry": {"coordinates":[-106.087872,36.008144],"type":"Point"}
 }

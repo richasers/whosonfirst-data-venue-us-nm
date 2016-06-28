@@ -2,13 +2,14 @@
   "id": 186169129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.673649,33.331929,-105.673649,33.331929",
     "geom:latitude":33.331929,
     "geom:longitude":-105.673649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186169129,
-    "wof:lastmodified":1449052019,
+    "wof:lastmodified":1466697626,
     "wof:name":"Trent's Gifts",
     "wof:parent_id":85842645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-105.673649,33.331929,-105.673649,33.331929],
+  "bbox": [
+    -105.673649,
+    33.331929,
+    -105.673649,
+    33.331929
+],
   "geometry": {"coordinates":[-105.673649,33.331929],"type":"Point"}
 }

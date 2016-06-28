@@ -2,13 +2,14 @@
   "id": 186387855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.641084,35.060354,-106.641084,35.060354",
     "geom:latitude":35.060354,
     "geom:longitude":-106.641084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"826 Gibson Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186387855,
-    "wof:lastmodified":1449052655,
+    "wof:lastmodified":1466699802,
     "wof:name":"David's Wrought Iron Mfg",
     "wof:parent_id":85846885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "work"
     ]
 },
-  "bbox": [-106.641084,35.060354,-106.641084,35.060354],
-  "geometry": {"coordinates":[-106.641084,35.060354],"type":"Point"}
+  "bbox": [
+    -106.641084,
+    35.060354,
+    -106.641084,
+    35.060354
+],
+  "geometry": {"coordinates":[-106.64108400000001,35.060354],"type":"Point"}
 }

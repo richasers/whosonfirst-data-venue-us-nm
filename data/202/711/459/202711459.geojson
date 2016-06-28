@@ -2,13 +2,14 @@
   "id": 202711459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.772139,32.320715,-106.772139,32.320715",
     "geom:latitude":32.320715,
     "geom:longitude":-106.772139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Spruce Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202711459,
-    "wof:lastmodified":1449062200,
+    "wof:lastmodified":1466699488,
     "wof:name":"Harvey's Electronics",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "video"
     ]
 },
-  "bbox": [-106.772139,32.320715,-106.772139,32.320715],
+  "bbox": [
+    -106.772139,
+    32.320715,
+    -106.772139,
+    32.320715
+],
   "geometry": {"coordinates":[-106.772139,32.320715],"type":"Point"}
 }

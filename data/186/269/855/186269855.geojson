@@ -2,13 +2,14 @@
   "id": 186269855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.609841,35.096121,-106.609841,35.096121",
     "geom:latitude":35.096121,
     "geom:longitude":-106.609841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1323 Bryn Mawr Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186269855,
-    "wof:lastmodified":1449052055,
+    "wof:lastmodified":1466698915,
     "wof:name":"Lieuwen For Marian",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-106.609841,35.096121,-106.609841,35.096121],
+  "bbox": [
+    -106.609841,
+    35.096121,
+    -106.609841,
+    35.096121
+],
   "geometry": {"coordinates":[-106.609841,35.096121],"type":"Point"}
 }

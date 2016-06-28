@@ -2,13 +2,14 @@
   "id": 186240515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.679303,35.180273,-106.679303,35.180273",
     "geom:latitude":35.180273,
     "geom:longitude":-106.679303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8416 Rancho Colina NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186240515,
-    "wof:lastmodified":1449050524,
+    "wof:lastmodified":1466698535,
     "wof:name":"Tierra Resources Intl Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.679303,35.180273,-106.679303,35.180273],
+  "bbox": [
+    -106.679303,
+    35.180273,
+    -106.679303,
+    35.180273
+],
   "geometry": {"coordinates":[-106.679303,35.180273],"type":"Point"}
 }

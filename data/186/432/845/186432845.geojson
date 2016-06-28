@@ -2,13 +2,14 @@
   "id": 186432845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.038859,36.676436,-108.038859,36.676436",
     "geom:latitude":36.676436,
     "geom:longitude":-108.038859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rd 5198",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186432845,
-    "wof:lastmodified":1449050187,
+    "wof:lastmodified":1466699982,
     "wof:name":"Southwest Footprints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.038859,36.676436,-108.038859,36.676436],
+  "bbox": [
+    -108.038859,
+    36.676436,
+    -108.038859,
+    36.676436
+],
   "geometry": {"coordinates":[-108.038859,36.676436],"type":"Point"}
 }

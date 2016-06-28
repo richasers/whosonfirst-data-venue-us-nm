@@ -2,13 +2,14 @@
   "id": 202937079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.55107,35.130647,-106.55107,35.130647",
     "geom:latitude":35.130647,
     "geom:longitude":-106.55107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4311 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202937079,
-    "wof:lastmodified":1449060590,
+    "wof:lastmodified":1466700366,
     "wof:name":"Carlson Travel Network",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-106.55107,35.130647,-106.55107,35.130647],
+  "bbox": [
+    -106.55107,
+    35.130647,
+    -106.55107,
+    35.130647
+],
   "geometry": {"coordinates":[-106.55107,35.130647],"type":"Point"}
 }

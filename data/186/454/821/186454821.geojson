@@ -2,13 +2,14 @@
   "id": 186454821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781565,32.330461,-106.781565,32.330461",
     "geom:latitude":32.330461,
     "geom:longitude":-106.781565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2393 N Mesquite St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186454821,
-    "wof:lastmodified":1449052767,
+    "wof:lastmodified":1466700188,
     "wof:name":"Art Glass Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-106.781565,32.330461,-106.781565,32.330461],
+  "bbox": [
+    -106.781565,
+    32.330461,
+    -106.781565,
+    32.330461
+],
   "geometry": {"coordinates":[-106.781565,32.330461],"type":"Point"}
 }

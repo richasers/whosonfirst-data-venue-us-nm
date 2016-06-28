@@ -2,13 +2,14 @@
   "id": 186413653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.700855,34.842669,-106.700855,34.842669",
     "geom:latitude":34.842669,
     "geom:longitude":-106.700855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 S Bosque Loop",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186413653,
-    "wof:lastmodified":1449050812,
+    "wof:lastmodified":1466699896,
     "wof:name":"Belen Area Radio Controll",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.700855,34.842669,-106.700855,34.842669],
+  "bbox": [
+    -106.700855,
+    34.842669,
+    -106.700855,
+    34.842669
+],
   "geometry": {"coordinates":[-106.700855,34.842669],"type":"Point"}
 }

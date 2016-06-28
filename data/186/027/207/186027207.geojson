@@ -2,13 +2,14 @@
   "id": 186027207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.708981,32.354292,-108.708981,32.354292",
     "geom:latitude":32.354292,
     "geom:longitude":-108.708981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Duncan Hwy",
     "sg:city":"Lordsburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186027207,
-    "wof:lastmodified":1449050908,
+    "wof:lastmodified":1466697990,
     "wof:name":"Circle H Drive In Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-108.708981,32.354292,-108.708981,32.354292],
-  "geometry": {"coordinates":[-108.708981,32.354292],"type":"Point"}
+  "bbox": [
+    -108.708981,
+    32.354292,
+    -108.708981,
+    32.354292
+],
+  "geometry": {"coordinates":[-108.70898099999999,32.354292],"type":"Point"}
 }

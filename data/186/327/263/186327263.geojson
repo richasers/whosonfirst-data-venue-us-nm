@@ -2,13 +2,14 @@
   "id": 186327263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.621758,35.184526,-106.621758,35.184526",
     "geom:latitude":35.184526,
     "geom:longitude":-106.621758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9121 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186327263,
-    "wof:lastmodified":1449050450,
+    "wof:lastmodified":1466699578,
     "wof:name":"Helen's Native Plants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-106.621758,35.184526,-106.621758,35.184526],
+  "bbox": [
+    -106.621758,
+    35.184526,
+    -106.621758,
+    35.184526
+],
   "geometry": {"coordinates":[-106.621758,35.184526],"type":"Point"}
 }

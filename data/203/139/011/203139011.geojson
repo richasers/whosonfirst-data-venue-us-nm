@@ -2,13 +2,14 @@
   "id": 203139011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.565217,35.277174,-106.565217,35.277174",
     "geom:latitude":35.277174,
     "geom:longitude":-106.565217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Bosque Rd",
     "sg:city":"Algodones",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203139011,
-    "wof:lastmodified":1449025113,
+    "wof:lastmodified":1466699456,
     "wof:name":"Stairway Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.565217,35.277174,-106.565217,35.277174],
+  "bbox": [
+    -106.565217,
+    35.277174,
+    -106.565217,
+    35.277174
+],
   "geometry": {"coordinates":[-106.565217,35.277174],"type":"Point"}
 }

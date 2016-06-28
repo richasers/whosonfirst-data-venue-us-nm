@@ -2,13 +2,14 @@
   "id": 186263609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.055377,36.693107,-108.055377,36.693107",
     "geom:latitude":36.693107,
     "geom:longitude":-108.055377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Rd 5295",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186263609,
-    "wof:lastmodified":1449052956,
+    "wof:lastmodified":1466698835,
     "wof:name":"Hurrican Air & Swabbing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-108.055377,36.693107,-108.055377,36.693107],
-  "geometry": {"coordinates":[-108.055377,36.693107],"type":"Point"}
+  "bbox": [
+    -108.055377,
+    36.693107,
+    -108.055377,
+    36.693107
+],
+  "geometry": {"coordinates":[-108.05537699999999,36.693107],"type":"Point"}
 }

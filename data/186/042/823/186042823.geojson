@@ -2,13 +2,14 @@
   "id": 186042823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.370934,33.194089,-104.370934,33.194089",
     "geom:latitude":33.194089,
     "geom:longitude":-104.370934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 S Lincoln Rd",
     "sg:city":"Dexter",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186042823,
-    "wof:lastmodified":1449052365,
+    "wof:lastmodified":1466698170,
     "wof:name":"Jehovas Witness Spanish Con",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-104.370934,33.194089,-104.370934,33.194089],
-  "geometry": {"coordinates":[-104.370934,33.194089],"type":"Point"}
+  "bbox": [
+    -104.370934,
+    33.194089,
+    -104.370934,
+    33.194089
+],
+  "geometry": {"coordinates":[-104.37093400000001,33.194089],"type":"Point"}
 }

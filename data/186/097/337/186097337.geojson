@@ -2,13 +2,14 @@
   "id": 186097337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.225059,35.5932,-105.225059,35.5932",
     "geom:latitude":35.5932,
     "geom:longitude":-105.225059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Bridge St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186097337,
-    "wof:lastmodified":1449051423,
+    "wof:lastmodified":1466698882,
     "wof:name":"Mariposa Herbs & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "herb"
     ]
 },
-  "bbox": [-105.225059,35.5932,-105.225059,35.5932],
+  "bbox": [
+    -105.225059,
+    35.5932,
+    -105.225059,
+    35.5932
+],
   "geometry": {"coordinates":[-105.225059,35.5932],"type":"Point"}
 }

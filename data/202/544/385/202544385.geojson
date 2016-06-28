@@ -2,13 +2,14 @@
   "id": 202544385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.626793,35.245906,-106.626793,35.245906",
     "geom:latitude":35.245906,
     "geom:longitude":-106.626793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"922 Sagebrush Dr",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202544385,
-    "wof:lastmodified":1449062644,
+    "wof:lastmodified":1466699329,
     "wof:name":"Sagebrush Neighborhood Assn",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.626793,35.245906,-106.626793,35.245906],
-  "geometry": {"coordinates":[-106.626793,35.245906],"type":"Point"}
+  "bbox": [
+    -106.626793,
+    35.245906,
+    -106.626793,
+    35.245906
+],
+  "geometry": {"coordinates":[-106.62679300000001,35.245906],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186583449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.639521,35.08509,-106.639521,35.08509",
     "geom:latitude":35.08509,
     "geom:longitude":-106.639521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 High St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186583449,
-    "wof:lastmodified":1449052446,
+    "wof:lastmodified":1466700570,
     "wof:name":"Uptown Acupuncture",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-106.639521,35.08509,-106.639521,35.08509],
+  "bbox": [
+    -106.639521,
+    35.08509,
+    -106.639521,
+    35.08509
+],
   "geometry": {"coordinates":[-106.639521,35.08509],"type":"Point"}
 }

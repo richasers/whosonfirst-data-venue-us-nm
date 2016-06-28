@@ -2,13 +2,14 @@
   "id": 186465777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.725553,34.638979,-106.725553,34.638979",
     "geom:latitude":34.638979,
     "geom:longitude":-106.725553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Golf Course Rd",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186465777,
-    "wof:lastmodified":1449052174,
+    "wof:lastmodified":1466699997,
     "wof:name":"Tierra Del Sol Country Club",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-106.725553,34.638979,-106.725553,34.638979],
+  "bbox": [
+    -106.725553,
+    34.638979,
+    -106.725553,
+    34.638979
+],
   "geometry": {"coordinates":[-106.725553,34.638979],"type":"Point"}
 }

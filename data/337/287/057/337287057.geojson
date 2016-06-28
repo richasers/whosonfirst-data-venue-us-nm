@@ -2,13 +2,14 @@
   "id": 337287057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.610707,35.079452,-106.610707,35.079452",
     "geom:latitude":35.079452,
     "geom:longitude":-106.610707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Richmond Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337287057,
-    "wof:lastmodified":1449026988,
+    "wof:lastmodified":1466697772,
     "wof:name":"Serendipity Day School 1",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "day"
     ]
 },
-  "bbox": [-106.610707,35.079452,-106.610707,35.079452],
+  "bbox": [
+    -106.610707,
+    35.079452,
+    -106.610707,
+    35.079452
+],
   "geometry": {"coordinates":[-106.610707,35.079452],"type":"Point"}
 }

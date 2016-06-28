@@ -2,13 +2,14 @@
   "id": 203108897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.687492,34.819342,-106.687492,34.819342",
     "geom:latitude":34.819342,
     "geom:longitude":-106.687492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Tomato Farm Rd",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203108897,
-    "wof:lastmodified":1449024980,
+    "wof:lastmodified":1466698823,
     "wof:name":"A & D Cabinetry Inc",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.687492,34.819342,-106.687492,34.819342],
-  "geometry": {"coordinates":[-106.687492,34.819342],"type":"Point"}
+  "bbox": [
+    -106.687492,
+    34.819342,
+    -106.687492,
+    34.819342
+],
+  "geometry": {"coordinates":[-106.68749200000001,34.819342],"type":"Point"}
 }

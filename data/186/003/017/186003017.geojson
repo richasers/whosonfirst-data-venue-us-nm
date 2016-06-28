@@ -2,13 +2,14 @@
   "id": 186003017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.5864,35.303224,-106.5864,35.303224",
     "geom:latitude":35.303224,
     "geom:longitude":-106.5864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 Withington Peak Dr NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186003017,
-    "wof:lastmodified":1449052817,
+    "wof:lastmodified":1466697718,
     "wof:name":"Aylads Consulting & Web",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-106.5864,35.303224,-106.5864,35.303224],
+  "bbox": [
+    -106.5864,
+    35.303224,
+    -106.5864,
+    35.303224
+],
   "geometry": {"coordinates":[-106.5864,35.303224],"type":"Point"}
 }

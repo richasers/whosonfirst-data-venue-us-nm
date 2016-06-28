@@ -2,13 +2,14 @@
   "id": 185644915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.715036,32.318904,-106.715036,32.318904",
     "geom:latitude":32.318904,
     "geom:longitude":-106.715036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 Stone Canyon Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185644915,
-    "wof:lastmodified":1449007524,
+    "wof:lastmodified":1466698077,
     "wof:name":"Expressions Custom Furniture",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.715036,32.318904,-106.715036,32.318904],
+  "bbox": [
+    -106.715036,
+    32.318904,
+    -106.715036,
+    32.318904
+],
   "geometry": {"coordinates":[-106.715036,32.318904],"type":"Point"}
 }

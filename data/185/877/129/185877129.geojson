@@ -2,13 +2,14 @@
   "id": 185877129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.955755,32.926536,-105.955755,32.926536",
     "geom:latitude":32.926536,
     "geom:longitude":-105.955755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Fairgrounds Rd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185877129,
-    "wof:lastmodified":1449007733,
+    "wof:lastmodified":1466698282,
     "wof:name":"Texas New Mexico Power Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-105.955755,32.926536,-105.955755,32.926536],
+  "bbox": [
+    -105.955755,
+    32.926536,
+    -105.955755,
+    32.926536
+],
   "geometry": {"coordinates":[-105.955755,32.926536],"type":"Point"}
 }

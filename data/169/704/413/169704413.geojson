@@ -2,13 +2,14 @@
   "id": 169704413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.559795,35.110423,-106.559795,35.110423",
     "geom:latitude":35.110423,
     "geom:longitude":-106.559795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2632 Pennsylvania St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169704413,
-    "wof:lastmodified":1449033552,
+    "wof:lastmodified":1466697636,
     "wof:name":"Crossroads Chiropractic",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.559795,35.110423,-106.559795,35.110423],
-  "geometry": {"coordinates":[-106.559795,35.110423],"type":"Point"}
+  "bbox": [
+    -106.559795,
+    35.110423,
+    -106.559795,
+    35.110423
+],
+  "geometry": {"coordinates":[-106.55979499999999,35.110423],"type":"Point"}
 }

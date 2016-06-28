@@ -2,13 +2,14 @@
   "id": 185650973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.394753,36.700617,-105.394753,36.700617",
     "geom:latitude":36.700617,
     "geom:longitude":-105.394753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1371 E Main St",
     "sg:city":"Red River",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185650973,
-    "wof:lastmodified":1449007596,
+    "wof:lastmodified":1466698140,
     "wof:name":"Roadrunner Rv Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.394753,36.700617,-105.394753,36.700617],
-  "geometry": {"coordinates":[-105.394753,36.700617],"type":"Point"}
+  "bbox": [
+    -105.394753,
+    36.700617,
+    -105.394753,
+    36.700617
+],
+  "geometry": {"coordinates":[-105.39475299999999,36.700617],"type":"Point"}
 }

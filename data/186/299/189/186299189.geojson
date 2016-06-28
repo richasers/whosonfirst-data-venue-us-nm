@@ -2,13 +2,14 @@
   "id": 186299189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.683141,35.253427,-106.683141,35.253427",
     "geom:latitude":35.253427,
     "geom:longitude":-106.683141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2680 Parr Rd SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186299189,
-    "wof:lastmodified":1449051078,
+    "wof:lastmodified":1466699322,
     "wof:name":"Professional Paperhanging Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.683141,35.253427,-106.683141,35.253427],
-  "geometry": {"coordinates":[-106.683141,35.253427],"type":"Point"}
+  "bbox": [
+    -106.683141,
+    35.253427,
+    -106.683141,
+    35.253427
+],
+  "geometry": {"coordinates":[-106.68314100000001,35.253427],"type":"Point"}
 }

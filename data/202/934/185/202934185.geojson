@@ -2,13 +2,14 @@
   "id": 202934185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.740951,35.193608,-106.740951,35.193608",
     "geom:latitude":35.193608,
     "geom:longitude":-106.740951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10023 Silverton Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202934185,
-    "wof:lastmodified":1449060228,
+    "wof:lastmodified":1466700498,
     "wof:name":"J & K Judgement Recovery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.740951,35.193608,-106.740951,35.193608],
+  "bbox": [
+    -106.740951,
+    35.193608,
+    -106.740951,
+    35.193608
+],
   "geometry": {"coordinates":[-106.740951,35.193608],"type":"Point"}
 }

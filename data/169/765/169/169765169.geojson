@@ -2,13 +2,14 @@
   "id": 169765169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.20134,36.712377,-108.20134,36.712377",
     "geom:latitude":36.712377,
     "geom:longitude":-108.20134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Ouray Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169765169,
-    "wof:lastmodified":1449034596,
+    "wof:lastmodified":1466698216,
     "wof:name":"Goldstar Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.20134,36.712377,-108.20134,36.712377],
+  "bbox": [
+    -108.20134,
+    36.712377,
+    -108.20134,
+    36.712377
+],
   "geometry": {"coordinates":[-108.20134,36.712377],"type":"Point"}
 }

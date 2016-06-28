@@ -2,13 +2,14 @@
   "id": 203051293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.545056,35.130677,-106.545056,35.130677",
     "geom:latitude":35.130677,
     "geom:longitude":-106.545056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8800 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203051293,
-    "wof:lastmodified":1449026114,
+    "wof:lastmodified":1466698152,
     "wof:name":"Presbyterian Medical Group",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clinic"
     ]
 },
-  "bbox": [-106.545056,35.130677,-106.545056,35.130677],
+  "bbox": [
+    -106.545056,
+    35.130677,
+    -106.545056,
+    35.130677
+],
   "geometry": {"coordinates":[-106.545056,35.130677],"type":"Point"}
 }

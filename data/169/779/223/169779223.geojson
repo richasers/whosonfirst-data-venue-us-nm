@@ -2,13 +2,14 @@
   "id": 169779223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.255477,32.421612,-104.255477,32.421612",
     "geom:latitude":32.421612,
     "geom:longitude":-104.255477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2413 W Texas St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":169779223,
-    "wof:lastmodified":1449033195,
+    "wof:lastmodified":1466698346,
     "wof:name":"Kevil Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.255477,32.421612,-104.255477,32.421612],
+  "bbox": [
+    -104.255477,
+    32.421612,
+    -104.255477,
+    32.421612
+],
   "geometry": {"coordinates":[-104.255477,32.421612],"type":"Point"}
 }

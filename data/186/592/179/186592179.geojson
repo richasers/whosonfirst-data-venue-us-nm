@@ -2,13 +2,14 @@
   "id": 186592179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.338507,34.175072,-103.338507,34.175072",
     "geom:latitude":34.175072,
     "geom:longitude":-103.338507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 W 15th Ln",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186592179,
-    "wof:lastmodified":1449051927,
+    "wof:lastmodified":1466700609,
     "wof:name":"Southwestern Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.338507,34.175072,-103.338507,34.175072],
-  "geometry": {"coordinates":[-103.338507,34.175072],"type":"Point"}
+  "bbox": [
+    -103.338507,
+    34.175072,
+    -103.338507,
+    34.175072
+],
+  "geometry": {"coordinates":[-103.33850700000001,34.175072],"type":"Point"}
 }

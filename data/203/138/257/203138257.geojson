@@ -2,13 +2,14 @@
   "id": 203138257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.574862,35.133065,-106.574862,35.133065",
     "geom:latitude":35.133065,
     "geom:longitude":-106.574862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4104 Constance Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203138257,
-    "wof:lastmodified":1449025449,
+    "wof:lastmodified":1466699064,
     "wof:name":"Seraf Therapeutics Inc",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "research"
     ]
 },
-  "bbox": [-106.574862,35.133065,-106.574862,35.133065],
+  "bbox": [
+    -106.574862,
+    35.133065,
+    -106.574862,
+    35.133065
+],
   "geometry": {"coordinates":[-106.574862,35.133065],"type":"Point"}
 }

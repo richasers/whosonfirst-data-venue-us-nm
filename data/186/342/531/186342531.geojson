@@ -2,13 +2,14 @@
   "id": 186342531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.787371,32.330566,-106.787371,32.330566",
     "geom:latitude":32.330566,
     "geom:longitude":-106.787371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Three Crosses Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186342531,
-    "wof:lastmodified":1449052837,
+    "wof:lastmodified":1466699650,
     "wof:name":"Mazza Electric",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.787371,32.330566,-106.787371,32.330566],
-  "geometry": {"coordinates":[-106.787371,32.330566],"type":"Point"}
+  "bbox": [
+    -106.787371,
+    32.330566,
+    -106.787371,
+    32.330566
+],
+  "geometry": {"coordinates":[-106.78737099999999,32.330566],"type":"Point"}
 }

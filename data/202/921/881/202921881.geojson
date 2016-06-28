@@ -2,13 +2,14 @@
   "id": 202921881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.548095,35.306447,-106.548095,35.306447",
     "geom:latitude":35.306447,
     "geom:longitude":-106.548095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Cam del Pueblo",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202921881,
-    "wof:lastmodified":1449061720,
+    "wof:lastmodified":1466700315,
     "wof:name":"Larry's Service Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-106.548095,35.306447,-106.548095,35.306447],
+  "bbox": [
+    -106.548095,
+    35.306447,
+    -106.548095,
+    35.306447
+],
   "geometry": {"coordinates":[-106.548095,35.306447],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202842605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.442975,35.331126,-106.442975,35.331126",
     "geom:latitude":35.331126,
     "geom:longitude":-106.442975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Folsom Pt",
     "sg:city":"Placitas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202842605,
-    "wof:lastmodified":1449060298,
+    "wof:lastmodified":1466700156,
     "wof:name":"Desert Chef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "uniform"
     ]
 },
-  "bbox": [-106.442975,35.331126,-106.442975,35.331126],
+  "bbox": [
+    -106.442975,
+    35.331126,
+    -106.442975,
+    35.331126
+],
   "geometry": {"coordinates":[-106.442975,35.331126],"type":"Point"}
 }

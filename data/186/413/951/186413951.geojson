@@ -2,13 +2,14 @@
   "id": 186413951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.714475,35.106071,-106.714475,35.106071",
     "geom:latitude":35.106071,
     "geom:longitude":-106.714475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6609 Tierra Luna Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186413951,
-    "wof:lastmodified":1449050810,
+    "wof:lastmodified":1466700017,
     "wof:name":"Christis Day Care",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.714475,35.106071,-106.714475,35.106071],
-  "geometry": {"coordinates":[-106.714475,35.106071],"type":"Point"}
+  "bbox": [
+    -106.714475,
+    35.106071,
+    -106.714475,
+    35.106071
+],
+  "geometry": {"coordinates":[-106.71447499999999,35.106071],"type":"Point"}
 }

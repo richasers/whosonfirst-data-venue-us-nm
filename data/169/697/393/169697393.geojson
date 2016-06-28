@@ -2,13 +2,14 @@
   "id": 169697393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.651627,35.084572,-106.651627,35.084572",
     "geom:latitude":35.084572,
     "geom:longitude":-106.651627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Central Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169697393,
-    "wof:lastmodified":1449034768,
+    "wof:lastmodified":1466697602,
     "wof:name":"Sutten Law Firm",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.651627,35.084572,-106.651627,35.084572],
+  "bbox": [
+    -106.651627,
+    35.084572,
+    -106.651627,
+    35.084572
+],
   "geometry": {"coordinates":[-106.651627,35.084572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203046299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.527412,35.073444,-106.527412,35.073444",
     "geom:latitude":35.073444,
     "geom:longitude":-106.527412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10820 Griffith Park Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203046299,
-    "wof:lastmodified":1449025997,
+    "wof:lastmodified":1466698095,
     "wof:name":"Duchati Home Inspections",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.527412,35.073444,-106.527412,35.073444],
+  "bbox": [
+    -106.527412,
+    35.073444,
+    -106.527412,
+    35.073444
+],
   "geometry": {"coordinates":[-106.527412,35.073444],"type":"Point"}
 }

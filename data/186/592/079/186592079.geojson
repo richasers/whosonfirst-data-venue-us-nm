@@ -2,13 +2,14 @@
   "id": 186592079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.304796,35.900977,-106.304796,35.900977",
     "geom:latitude":35.900977,
     "geom:longitude":-106.304796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4290 Diamond Dr",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186592079,
-    "wof:lastmodified":1449051927,
+    "wof:lastmodified":1466700726,
     "wof:name":"Golf Course Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-106.304796,35.900977,-106.304796,35.900977],
+  "bbox": [
+    -106.304796,
+    35.900977,
+    -106.304796,
+    35.900977
+],
   "geometry": {"coordinates":[-106.304796,35.900977],"type":"Point"}
 }

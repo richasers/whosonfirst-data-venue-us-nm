@@ -2,13 +2,14 @@
   "id": 186213931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.963472,35.64704,-105.963472,35.64704",
     "geom:latitude":35.64704,
     "geom:longitude":-105.963472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1866 Candela St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186213931,
-    "wof:lastmodified":1449050288,
+    "wof:lastmodified":1466698197,
     "wof:name":"St Juliana of Lazarevo",
     "wof:parent_id":85880775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.963472,35.64704,-105.963472,35.64704],
+  "bbox": [
+    -105.963472,
+    35.64704,
+    -105.963472,
+    35.64704
+],
   "geometry": {"coordinates":[-105.963472,35.64704],"type":"Point"}
 }

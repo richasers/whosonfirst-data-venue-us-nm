@@ -2,13 +2,14 @@
   "id": 203028059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.747432,35.060399,-106.747432,35.060399",
     "geom:latitude":35.060399,
     "geom:longitude":-106.747432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10332 Hackamore Pl SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203028059,
-    "wof:lastmodified":1449025968,
+    "wof:lastmodified":1466697897,
     "wof:name":"R V Camper The",
     "wof:parent_id":85892581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-106.747432,35.060399,-106.747432,35.060399],
+  "bbox": [
+    -106.747432,
+    35.060399,
+    -106.747432,
+    35.060399
+],
   "geometry": {"coordinates":[-106.747432,35.060399],"type":"Point"}
 }

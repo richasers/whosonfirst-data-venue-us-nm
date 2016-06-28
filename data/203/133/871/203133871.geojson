@@ -2,13 +2,14 @@
   "id": 203133871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.826826,32.397658,-106.826826,32.397658",
     "geom:latitude":32.397658,
     "geom:longitude":-106.826826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5902 Barela Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203133871,
-    "wof:lastmodified":1449026512,
+    "wof:lastmodified":1466699046,
     "wof:name":"Bail Bonds By Mike Gamboa",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-106.826826,32.397658,-106.826826,32.397658],
+  "bbox": [
+    -106.826826,
+    32.397658,
+    -106.826826,
+    32.397658
+],
   "geometry": {"coordinates":[-106.826826,32.397658],"type":"Point"}
 }

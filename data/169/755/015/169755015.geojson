@@ -2,13 +2,14 @@
   "id": 169755015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.512534,33.38669,-104.512534,33.38669",
     "geom:latitude":33.38669,
     "geom:longitude":-104.512534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 E Bland St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169755015,
-    "wof:lastmodified":1449033613,
+    "wof:lastmodified":1466699409,
     "wof:name":"Ortega Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.512534,33.38669,-104.512534,33.38669],
+  "bbox": [
+    -104.512534,
+    33.38669,
+    -104.512534,
+    33.38669
+],
   "geometry": {"coordinates":[-104.512534,33.38669],"type":"Point"}
 }

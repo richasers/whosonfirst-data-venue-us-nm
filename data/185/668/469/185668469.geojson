@@ -2,13 +2,14 @@
   "id": 185668469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.599577,35.178697,-106.599577,35.178697",
     "geom:latitude":35.178697,
     "geom:longitude":-106.599577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8333 Washington Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185668469,
-    "wof:lastmodified":1449007716,
+    "wof:lastmodified":1466698327,
     "wof:name":"Mohawk Southwest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-106.599577,35.178697,-106.599577,35.178697],
+  "bbox": [
+    -106.599577,
+    35.178697,
+    -106.599577,
+    35.178697
+],
   "geometry": {"coordinates":[-106.599577,35.178697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169811015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.53348,35.07981,-106.53348,35.07981",
     "geom:latitude":35.07981,
     "geom:longitude":-106.53348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Buena Ventura Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169811015,
-    "wof:lastmodified":1449034270,
+    "wof:lastmodified":1466699431,
     "wof:name":"Max Auto Trim",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-106.53348,35.07981,-106.53348,35.07981],
+  "bbox": [
+    -106.53348,
+    35.07981,
+    -106.53348,
+    35.07981
+],
   "geometry": {"coordinates":[-106.53348,35.07981],"type":"Point"}
 }

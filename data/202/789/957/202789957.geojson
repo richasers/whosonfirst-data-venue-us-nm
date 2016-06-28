@@ -2,13 +2,14 @@
   "id": 202789957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.27786,32.769953,-108.27786,32.769953",
     "geom:latitude":32.769953,
     "geom:longitude":-108.27786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 W Broadway St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202789957,
-    "wof:lastmodified":1449061274,
+    "wof:lastmodified":1466699951,
     "wof:name":"Marley's Frame Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "frame"
     ]
 },
-  "bbox": [-108.27786,32.769953,-108.27786,32.769953],
+  "bbox": [
+    -108.27786,
+    32.769953,
+    -108.27786,
+    32.769953
+],
   "geometry": {"coordinates":[-108.27786,32.769953],"type":"Point"}
 }

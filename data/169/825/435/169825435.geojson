@@ -2,13 +2,14 @@
   "id": 169825435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.717379,35.078515,-106.717379,35.078515",
     "geom:latitude":35.078515,
     "geom:longitude":-106.717379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 Central Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":169825435,
-    "wof:lastmodified":1449032819,
+    "wof:lastmodified":1466698767,
     "wof:name":"Victory Love Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.717379,35.078515,-106.717379,35.078515],
-  "geometry": {"coordinates":[-106.717379,35.078515],"type":"Point"}
+  "bbox": [
+    -106.717379,
+    35.078515,
+    -106.717379,
+    35.078515
+],
+  "geometry": {"coordinates":[-106.71737899999999,35.078515],"type":"Point"}
 }

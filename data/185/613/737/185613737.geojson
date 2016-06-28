@@ -2,13 +2,14 @@
   "id": 185613737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.706911,32.344873,-108.706911,32.344873",
     "geom:latitude":32.344873,
     "geom:longitude":-108.706911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Animas St",
     "sg:city":"Lordsburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185613737,
-    "wof:lastmodified":1449007362,
+    "wof:lastmodified":1466697741,
     "wof:name":"Cash & Carry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.706911,32.344873,-108.706911,32.344873],
-  "geometry": {"coordinates":[-108.706911,32.344873],"type":"Point"}
+  "bbox": [
+    -108.706911,
+    32.344873,
+    -108.706911,
+    32.344873
+],
+  "geometry": {"coordinates":[-108.70691100000001,32.344873],"type":"Point"}
 }

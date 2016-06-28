@@ -2,13 +2,14 @@
   "id": 186376165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.75783,32.310499,-106.75783,32.310499",
     "geom:latitude":32.310499,
     "geom:longitude":-106.75783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1990 E Lohman Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":186376165,
-    "wof:lastmodified":1449051310,
+    "wof:lastmodified":1466699753,
     "wof:name":"Karen Sagal PHD",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-106.75783,32.310499,-106.75783,32.310499],
+  "bbox": [
+    -106.75783,
+    32.310499,
+    -106.75783,
+    32.310499
+],
   "geometry": {"coordinates":[-106.75783,32.310499],"type":"Point"}
 }

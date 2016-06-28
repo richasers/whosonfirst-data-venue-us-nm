@@ -2,13 +2,14 @@
   "id": 186575131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.943668,35.689375,-105.943668,35.689375",
     "geom:latitude":35.689375,
     "geom:longitude":-105.943668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 N Guadalupe St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186575131,
-    "wof:lastmodified":1449051151,
+    "wof:lastmodified":1466700550,
     "wof:name":"Youth Shelters & Family Svc",
     "wof:parent_id":85880833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-105.943668,35.689375,-105.943668,35.689375],
+  "bbox": [
+    -105.943668,
+    35.689375,
+    -105.943668,
+    35.689375
+],
   "geometry": {"coordinates":[-105.943668,35.689375],"type":"Point"}
 }

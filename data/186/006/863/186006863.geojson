@@ -2,13 +2,14 @@
   "id": 186006863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.762141,32.299403,-106.762141,32.299403",
     "geom:latitude":32.299403,
     "geom:longitude":-106.762141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 S Solano Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186006863,
-    "wof:lastmodified":1449052487,
+    "wof:lastmodified":1466697772,
     "wof:name":"Solano Medical Assoc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.762141,32.299403,-106.762141,32.299403],
+  "bbox": [
+    -106.762141,
+    32.299403,
+    -106.762141,
+    32.299403
+],
   "geometry": {"coordinates":[-106.762141,32.299403],"type":"Point"}
 }

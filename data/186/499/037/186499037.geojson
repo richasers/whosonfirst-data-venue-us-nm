@@ -2,13 +2,14 @@
   "id": 186499037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.947912,35.529666,-105.947912,35.529666",
     "geom:latitude":35.529666,
     "geom:longitude":-105.947912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Estambre Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186499037,
-    "wof:lastmodified":1449050916,
+    "wof:lastmodified":1466700304,
     "wof:name":"Beyond The Horizons Consulting",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-105.947912,35.529666,-105.947912,35.529666],
+  "bbox": [
+    -105.947912,
+    35.529666,
+    -105.947912,
+    35.529666
+],
   "geometry": {"coordinates":[-105.947912,35.529666],"type":"Point"}
 }

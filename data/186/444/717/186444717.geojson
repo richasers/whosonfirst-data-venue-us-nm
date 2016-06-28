@@ -2,13 +2,14 @@
   "id": 186444717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.642212,35.095781,-106.642212,35.095781",
     "geom:latitude":35.095781,
     "geom:longitude":-106.642212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 Broadway Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186444717,
-    "wof:lastmodified":1449052649,
+    "wof:lastmodified":1466699900,
     "wof:name":"Dimestore Cowboys",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.642212,35.095781,-106.642212,35.095781],
+  "bbox": [
+    -106.642212,
+    35.095781,
+    -106.642212,
+    35.095781
+],
   "geometry": {"coordinates":[-106.642212,35.095781],"type":"Point"}
 }

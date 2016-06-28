@@ -2,13 +2,14 @@
   "id": 186015507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.959273,35.681223,-105.959273,35.681223",
     "geom:latitude":35.681223,
     "geom:longitude":-105.959273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Salazar St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186015507,
-    "wof:lastmodified":1449051010,
+    "wof:lastmodified":1466697854,
     "wof:name":"Curious Designs",
     "wof:parent_id":85880841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-105.959273,35.681223,-105.959273,35.681223],
+  "bbox": [
+    -105.959273,
+    35.681223,
+    -105.959273,
+    35.681223
+],
   "geometry": {"coordinates":[-105.959273,35.681223],"type":"Point"}
 }

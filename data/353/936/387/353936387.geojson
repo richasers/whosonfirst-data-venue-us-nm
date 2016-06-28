@@ -2,13 +2,14 @@
   "id": 353936387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.581176,35.168507,-106.581176,35.168507",
     "geom:latitude":35.168507,
     "geom:longitude":-106.581176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5501 Pino Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353936387,
-    "wof:lastmodified":1449019111,
+    "wof:lastmodified":1466698175,
     "wof:name":"Albuquerque Clean Cities",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "village"
     ]
 },
-  "bbox": [-106.581176,35.168507,-106.581176,35.168507],
+  "bbox": [
+    -106.581176,
+    35.168507,
+    -106.581176,
+    35.168507
+],
   "geometry": {"coordinates":[-106.581176,35.168507],"type":"Point"}
 }

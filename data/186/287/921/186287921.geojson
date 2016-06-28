@@ -2,13 +2,14 @@
   "id": 186287921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.582669,35.196145,-106.582669,35.196145",
     "geom:latitude":35.196145,
     "geom:longitude":-106.582669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 Venice Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186287921,
-    "wof:lastmodified":1449050424,
+    "wof:lastmodified":1466699168,
     "wof:name":"Dal-Tile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tile"
     ]
 },
-  "bbox": [-106.582669,35.196145,-106.582669,35.196145],
+  "bbox": [
+    -106.582669,
+    35.196145,
+    -106.582669,
+    35.196145
+],
   "geometry": {"coordinates":[-106.582669,35.196145],"type":"Point"}
 }

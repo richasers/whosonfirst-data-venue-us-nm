@@ -2,13 +2,14 @@
   "id": 185670563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.962697,35.666447,-105.962697,35.666447",
     "geom:latitude":35.666447,
     "geom:longitude":-105.962697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1432 Santa Cruz Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185670563,
-    "wof:lastmodified":1449006847,
+    "wof:lastmodified":1466698358,
     "wof:name":"Kathleen Gygi",
     "wof:parent_id":85880783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "grant"
     ]
 },
-  "bbox": [-105.962697,35.666447,-105.962697,35.666447],
-  "geometry": {"coordinates":[-105.962697,35.666447],"type":"Point"}
+  "bbox": [
+    -105.962697,
+    35.666447,
+    -105.962697,
+    35.666447
+],
+  "geometry": {"coordinates":[-105.96269700000001,35.666447],"type":"Point"}
 }

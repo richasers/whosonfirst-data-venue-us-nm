@@ -2,13 +2,14 @@
   "id": 202913571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.642222,32.421024,-106.642222,32.421024",
     "geom:latitude":32.421024,
     "geom:longitude":-106.642222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6640 Gopher Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202913571,
-    "wof:lastmodified":1449061094,
+    "wof:lastmodified":1466700419,
     "wof:name":"Alto Mesa Judgement Recovery",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-106.642222,32.421024,-106.642222,32.421024],
+  "bbox": [
+    -106.642222,
+    32.421024,
+    -106.642222,
+    32.421024
+],
   "geometry": {"coordinates":[-106.642222,32.421024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202661785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.93878,35.687114,-105.93878,35.687114",
     "geom:latitude":35.687114,
     "geom:longitude":-105.93878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 E San Francisco St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202661785,
-    "wof:lastmodified":1449062377,
+    "wof:lastmodified":1466699312,
     "wof:name":"Jerry Greenlee Watchmaker",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "watch"
     ]
 },
-  "bbox": [-105.93878,35.687114,-105.93878,35.687114],
-  "geometry": {"coordinates":[-105.93878,35.687114],"type":"Point"}
+  "bbox": [
+    -105.93878,
+    35.687114,
+    -105.93878,
+    35.687114
+],
+  "geometry": {"coordinates":[-105.93877999999999,35.687114],"type":"Point"}
 }

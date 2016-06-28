@@ -2,13 +2,14 @@
   "id": 169732063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.852206,32.301102,-106.852206,32.301102",
     "geom:latitude":32.301102,
     "geom:longitude":-106.852206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4895 W Picacho Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169732063,
-    "wof:lastmodified":1449036070,
+    "wof:lastmodified":1466697905,
     "wof:name":"Lights of Las Cruces",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.852206,32.301102,-106.852206,32.301102],
+  "bbox": [
+    -106.852206,
+    32.301102,
+    -106.852206,
+    32.301102
+],
   "geometry": {"coordinates":[-106.852206,32.301102],"type":"Point"}
 }

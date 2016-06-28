@@ -2,13 +2,14 @@
   "id": 185873107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.200034,36.75476,-108.200034,36.75476",
     "geom:latitude":36.75476,
     "geom:longitude":-108.200034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 E 28th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185873107,
-    "wof:lastmodified":1449006945,
+    "wof:lastmodified":1466698241,
     "wof:name":"Dreamcatcher Talent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "casting"
     ]
 },
-  "bbox": [-108.200034,36.75476,-108.200034,36.75476],
+  "bbox": [
+    -108.200034,
+    36.75476,
+    -108.200034,
+    36.75476
+],
   "geometry": {"coordinates":[-108.200034,36.75476],"type":"Point"}
 }

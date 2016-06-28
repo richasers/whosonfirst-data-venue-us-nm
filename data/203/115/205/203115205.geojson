@@ -2,13 +2,14 @@
   "id": 203115205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.551048,35.156217,-106.551048,35.156217",
     "geom:latitude":35.156217,
     "geom:longitude":-106.551048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6800 Brandywine Loop NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203115205,
-    "wof:lastmodified":1449024928,
+    "wof:lastmodified":1466698900,
     "wof:name":"Mario Rivera Consulting",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-106.551048,35.156217,-106.551048,35.156217],
-  "geometry": {"coordinates":[-106.551048,35.156217],"type":"Point"}
+  "bbox": [
+    -106.551048,
+    35.156217,
+    -106.551048,
+    35.156217
+],
+  "geometry": {"coordinates":[-106.55104799999999,35.156217],"type":"Point"}
 }

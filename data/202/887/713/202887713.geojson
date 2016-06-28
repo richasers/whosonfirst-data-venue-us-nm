@@ -2,13 +2,14 @@
   "id": 202887713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.999449,35.657176,-105.999449,35.657176",
     "geom:latitude":35.657176,
     "geom:longitude":-105.999449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3209 Richards Ln",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202887713,
-    "wof:lastmodified":1449062163,
+    "wof:lastmodified":1466700432,
     "wof:name":"Seeds Of Change Inc",
     "wof:parent_id":85880845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "seed"
     ]
 },
-  "bbox": [-105.999449,35.657176,-105.999449,35.657176],
+  "bbox": [
+    -105.999449,
+    35.657176,
+    -105.999449,
+    35.657176
+],
   "geometry": {"coordinates":[-105.999449,35.657176],"type":"Point"}
 }

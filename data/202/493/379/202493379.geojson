@@ -2,13 +2,14 @@
   "id": 202493379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.757411,32.267808,-107.757411,32.267808",
     "geom:latitude":32.267808,
     "geom:longitude":-107.757411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Spruce St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202493379,
-    "wof:lastmodified":1449060913,
+    "wof:lastmodified":1466699081,
     "wof:name":"Franks Hair Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beauty"
     ]
 },
-  "bbox": [-107.757411,32.267808,-107.757411,32.267808],
+  "bbox": [
+    -107.757411,
+    32.267808,
+    -107.757411,
+    32.267808
+],
   "geometry": {"coordinates":[-107.757411,32.267808],"type":"Point"}
 }

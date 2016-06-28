@@ -2,13 +2,14 @@
   "id": 202958367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.273479,32.780422,-108.273479,32.780422",
     "geom:latitude":32.780422,
     "geom:longitude":-108.273479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 N Hudson St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":202958367,
-    "wof:lastmodified":1449062099,
+    "wof:lastmodified":1466700596,
     "wof:name":"Maxwell House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "family"
     ]
 },
-  "bbox": [-108.273479,32.780422,-108.273479,32.780422],
-  "geometry": {"coordinates":[-108.273479,32.780422],"type":"Point"}
+  "bbox": [
+    -108.273479,
+    32.780422,
+    -108.273479,
+    32.780422
+],
+  "geometry": {"coordinates":[-108.27347899999999,32.780422],"type":"Point"}
 }

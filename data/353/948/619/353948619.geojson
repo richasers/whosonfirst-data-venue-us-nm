@@ -2,13 +2,14 @@
   "id": 353948619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.528587,35.146568,-106.528587,35.146568",
     "geom:latitude":35.146568,
     "geom:longitude":-106.528587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5800 Eubank Blvd NE Ofc",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353948619,
-    "wof:lastmodified":1449020294,
+    "wof:lastmodified":1466698530,
     "wof:name":"Mountain Run Apartments",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-106.528587,35.146568,-106.528587,35.146568],
+  "bbox": [
+    -106.528587,
+    35.146568,
+    -106.528587,
+    35.146568
+],
   "geometry": {"coordinates":[-106.528587,35.146568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169790885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.299264,36.358597,-105.299264,36.358597",
     "geom:latitude":36.358597,
     "geom:longitude":-105.299264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Alpine Lake Way",
     "sg:city":"Angel Fire",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169790885,
-    "wof:lastmodified":1449035188,
+    "wof:lastmodified":1466698496,
     "wof:name":"Pablo's Mechanical Htg & Plbg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.299264,36.358597,-105.299264,36.358597],
-  "geometry": {"coordinates":[-105.299264,36.358597],"type":"Point"}
+  "bbox": [
+    -105.299264,
+    36.358597,
+    -105.299264,
+    36.358597
+],
+  "geometry": {"coordinates":[-105.29926399999999,36.358597],"type":"Point"}
 }

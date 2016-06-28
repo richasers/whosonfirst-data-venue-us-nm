@@ -2,13 +2,14 @@
   "id": 202738949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.483192,35.046645,-106.483192,35.046645",
     "geom:latitude":35.046645,
     "geom:longitude":-106.483192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1882 Stagecoach Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202738949,
-    "wof:lastmodified":1449061954,
+    "wof:lastmodified":1466699620,
     "wof:name":"Trail Town Chevron",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-106.483192,35.046645,-106.483192,35.046645],
+  "bbox": [
+    -106.483192,
+    35.046645,
+    -106.483192,
+    35.046645
+],
   "geometry": {"coordinates":[-106.483192,35.046645],"type":"Point"}
 }

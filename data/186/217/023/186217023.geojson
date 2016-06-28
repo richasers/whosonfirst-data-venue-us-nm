@@ -2,13 +2,14 @@
   "id": 186217023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.372883,32.756033,-108.372883,32.756033",
     "geom:latitude":32.756033,
     "geom:longitude":-108.372883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10672 US Hwy 180 W",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186217023,
-    "wof:lastmodified":1449052873,
+    "wof:lastmodified":1466698234,
     "wof:name":"Rafter 2s Cattle Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-108.372883,32.756033,-108.372883,32.756033],
+  "bbox": [
+    -108.372883,
+    32.756033,
+    -108.372883,
+    32.756033
+],
   "geometry": {"coordinates":[-108.372883,32.756033],"type":"Point"}
 }

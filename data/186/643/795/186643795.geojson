@@ -2,13 +2,14 @@
   "id": 186643795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.597095,35.114005,-106.597095,35.114005",
     "geom:latitude":35.114005,
     "geom:longitude":-106.597095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2839 Graceland Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":186643795,
-    "wof:lastmodified":1449052663,
+    "wof:lastmodified":1466700789,
     "wof:name":"Gates G Patrick & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-106.597095,35.114005,-106.597095,35.114005],
+  "bbox": [
+    -106.597095,
+    35.114005,
+    -106.597095,
+    35.114005
+],
   "geometry": {"coordinates":[-106.597095,35.114005],"type":"Point"}
 }

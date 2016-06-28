@@ -2,13 +2,14 @@
   "id": 185967025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.761513,32.327573,-106.761513,32.327573",
     "geom:latitude":32.327573,
     "geom:longitude":-106.761513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Poplar Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185967025,
-    "wof:lastmodified":1449008100,
+    "wof:lastmodified":1466699686,
     "wof:name":"All Steem Air Duct Cleaning",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-106.761513,32.327573,-106.761513,32.327573],
-  "geometry": {"coordinates":[-106.761513,32.327573],"type":"Point"}
+  "bbox": [
+    -106.761513,
+    32.327573,
+    -106.761513,
+    32.327573
+],
+  "geometry": {"coordinates":[-106.76151299999999,32.327573],"type":"Point"}
 }

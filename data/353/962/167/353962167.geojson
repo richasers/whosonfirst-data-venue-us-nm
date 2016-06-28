@@ -2,13 +2,14 @@
   "id": 353962167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.701733,35.119829,-106.701733,35.119829",
     "geom:latitude":35.119829,
     "geom:longitude":-106.701733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Coors Blvd NW Ste R",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353962167,
-    "wof:lastmodified":1449019769,
+    "wof:lastmodified":1466698804,
     "wof:name":"Blair & Assoc Investigative Svc",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "assistant"
     ]
 },
-  "bbox": [-106.701733,35.119829,-106.701733,35.119829],
+  "bbox": [
+    -106.701733,
+    35.119829,
+    -106.701733,
+    35.119829
+],
   "geometry": {"coordinates":[-106.701733,35.119829],"type":"Point"}
 }

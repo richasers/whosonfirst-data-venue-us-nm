@@ -2,13 +2,14 @@
   "id": 202449985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.554966,35.07585,-106.554966,35.07585",
     "geom:latitude":35.07585,
     "geom:longitude":-106.554966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Utah St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202449985,
-    "wof:lastmodified":1449062464,
+    "wof:lastmodified":1466698529,
     "wof:name":"DPM Motor Cars Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-106.554966,35.07585,-106.554966,35.07585],
-  "geometry": {"coordinates":[-106.554966,35.07585],"type":"Point"}
+  "bbox": [
+    -106.554966,
+    35.07585,
+    -106.554966,
+    35.07585
+],
+  "geometry": {"coordinates":[-106.55496599999999,35.07585],"type":"Point"}
 }

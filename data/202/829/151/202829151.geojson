@@ -2,13 +2,14 @@
   "id": 202829151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.598494,35.179689,-106.598494,35.179689",
     "geom:latitude":35.179689,
     "geom:longitude":-106.598494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8316 Corona Loop NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202829151,
-    "wof:lastmodified":1449062476,
+    "wof:lastmodified":1466700105,
     "wof:name":"Gebco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "machine"
     ]
 },
-  "bbox": [-106.598494,35.179689,-106.598494,35.179689],
+  "bbox": [
+    -106.598494,
+    35.179689,
+    -106.598494,
+    35.179689
+],
   "geometry": {"coordinates":[-106.598494,35.179689],"type":"Point"}
 }

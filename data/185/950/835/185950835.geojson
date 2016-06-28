@@ -2,13 +2,14 @@
   "id": 185950835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.934701,32.897304,-105.934701,32.897304",
     "geom:latitude":32.897304,
     "geom:longitude":-105.934701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Boyce Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185950835,
-    "wof:lastmodified":1449007246,
+    "wof:lastmodified":1466699232,
     "wof:name":"Insurance Exam Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.934701,32.897304,-105.934701,32.897304],
+  "bbox": [
+    -105.934701,
+    32.897304,
+    -105.934701,
+    32.897304
+],
   "geometry": {"coordinates":[-105.934701,32.897304],"type":"Point"}
 }

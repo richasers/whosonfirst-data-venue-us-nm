@@ -2,13 +2,14 @@
   "id": 203070729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.519863,35.114018,-106.519863,35.114018",
     "geom:latitude":35.114018,
     "geom:longitude":-106.519863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2912 Jane St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203070729,
-    "wof:lastmodified":1449025836,
+    "wof:lastmodified":1466698350,
     "wof:name":"J & B Maintenance",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.519863,35.114018,-106.519863,35.114018],
+  "bbox": [
+    -106.519863,
+    35.114018,
+    -106.519863,
+    35.114018
+],
   "geometry": {"coordinates":[-106.519863,35.114018],"type":"Point"}
 }

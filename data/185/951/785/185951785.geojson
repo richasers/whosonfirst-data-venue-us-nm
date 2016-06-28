@@ -2,13 +2,14 @@
   "id": 185951785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.997524,32.884126,-105.997524,32.884126",
     "geom:latitude":32.884126,
     "geom:longitude":-105.997524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Lonesome Dove Ln",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185951785,
-    "wof:lastmodified":1449006645,
+    "wof:lastmodified":1466699248,
     "wof:name":"T-N-T Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-105.997524,32.884126,-105.997524,32.884126],
+  "bbox": [
+    -105.997524,
+    32.884126,
+    -105.997524,
+    32.884126
+],
   "geometry": {"coordinates":[-105.997524,32.884126],"type":"Point"}
 }

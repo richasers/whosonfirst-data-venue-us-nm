@@ -2,13 +2,14 @@
   "id": 202419701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.752895,32.284976,-106.752895,32.284976",
     "geom:latitude":32.284976,
     "geom:longitude":-106.752895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 S Solano Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202419701,
-    "wof:lastmodified":1449062586,
+    "wof:lastmodified":1466698191,
     "wof:name":"Foster Grandparent Program",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "citizen"
     ]
 },
-  "bbox": [-106.752895,32.284976,-106.752895,32.284976],
+  "bbox": [
+    -106.752895,
+    32.284976,
+    -106.752895,
+    32.284976
+],
   "geometry": {"coordinates":[-106.752895,32.284976],"type":"Point"}
 }

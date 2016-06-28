@@ -2,13 +2,14 @@
   "id": 202514587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.031401,35.605785,-106.031401,35.605785",
     "geom:latitude":35.605785,
     "geom:longitude":-106.031401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 E Frontage Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202514587,
-    "wof:lastmodified":1449061396,
+    "wof:lastmodified":1466699234,
     "wof:name":"Scott Marcus Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.031401,35.605785,-106.031401,35.605785],
+  "bbox": [
+    -106.031401,
+    35.605785,
+    -106.031401,
+    35.605785
+],
   "geometry": {"coordinates":[-106.031401,35.605785],"type":"Point"}
 }

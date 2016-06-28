@@ -2,13 +2,14 @@
   "id": 353933355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.627472,35.114822,-106.627472,35.114822",
     "geom:latitude":35.114822,
     "geom:longitude":-106.627472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Candelaria Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":353933355,
-    "wof:lastmodified":1449018780,
+    "wof:lastmodified":1466698099,
     "wof:name":"Dahl",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-106.627472,35.114822,-106.627472,35.114822],
+  "bbox": [
+    -106.627472,
+    35.114822,
+    -106.627472,
+    35.114822
+],
   "geometry": {"coordinates":[-106.627472,35.114822],"type":"Point"}
 }

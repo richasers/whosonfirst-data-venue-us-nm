@@ -2,13 +2,14 @@
   "id": 169799425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.677451,35.060244,-106.677451,35.060244",
     "geom:latitude":35.060244,
     "geom:longitude":-106.677451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1629 Bowe Ln SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169799425,
-    "wof:lastmodified":1449035986,
+    "wof:lastmodified":1466698587,
     "wof:name":"El Centro Villa Nursing Center",
     "wof:parent_id":85892585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-106.677451,35.060244,-106.677451,35.060244],
+  "bbox": [
+    -106.677451,
+    35.060244,
+    -106.677451,
+    35.060244
+],
   "geometry": {"coordinates":[-106.677451,35.060244],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337280991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.608599,35.081392,-106.608599,35.081392",
     "geom:latitude":35.081392,
     "geom:longitude":-106.608599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3214 Purdue Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337280991,
-    "wof:lastmodified":1449027351,
+    "wof:lastmodified":1466697636,
     "wof:name":"Kerri Wormwood Counselor",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-106.608599,35.081392,-106.608599,35.081392],
+  "bbox": [
+    -106.608599,
+    35.081392,
+    -106.608599,
+    35.081392
+],
   "geometry": {"coordinates":[-106.608599,35.081392],"type":"Point"}
 }

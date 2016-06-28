@@ -2,13 +2,14 @@
   "id": 186327669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.013374,35.882804,-106.013374,35.882804",
     "geom:latitude":35.882804,
     "geom:longitude":-106.013374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Cities of Gold Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186327669,
-    "wof:lastmodified":1449050447,
+    "wof:lastmodified":1466699453,
     "wof:name":"Pojoaque Pueblo Police",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-106.013374,35.882804,-106.013374,35.882804],
+  "bbox": [
+    -106.013374,
+    35.882804,
+    -106.013374,
+    35.882804
+],
   "geometry": {"coordinates":[-106.013374,35.882804],"type":"Point"}
 }

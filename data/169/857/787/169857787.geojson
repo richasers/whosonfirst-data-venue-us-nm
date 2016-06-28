@@ -2,13 +2,14 @@
   "id": 169857787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.52218,35.090933,-106.52218,35.090933",
     "geom:latitude":35.090933,
     "geom:longitude":-106.52218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 Tomasita St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169857787,
-    "wof:lastmodified":1449034825,
+    "wof:lastmodified":1466698932,
     "wof:name":"Skyewebb Corp",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.52218,35.090933,-106.52218,35.090933],
-  "geometry": {"coordinates":[-106.52218,35.090933],"type":"Point"}
+  "bbox": [
+    -106.52218,
+    35.090933,
+    -106.52218,
+    35.090933
+],
+  "geometry": {"coordinates":[-106.52218000000001,35.090933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185947601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.541558,35.179431,-106.541558,35.179431",
     "geom:latitude":35.179431,
     "geom:longitude":-106.541558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8416 Estates Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185947601,
-    "wof:lastmodified":1449007757,
+    "wof:lastmodified":1466699179,
     "wof:name":"It's A Wrap",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "crating"
     ]
 },
-  "bbox": [-106.541558,35.179431,-106.541558,35.179431],
-  "geometry": {"coordinates":[-106.541558,35.179431],"type":"Point"}
+  "bbox": [
+    -106.541558,
+    35.179431,
+    -106.541558,
+    35.179431
+],
+  "geometry": {"coordinates":[-106.54155799999999,35.179431],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353944127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.577492,35.111441,-106.577492,35.111441",
     "geom:latitude":35.111441,
     "geom:longitude":-106.577492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2730 San Pedro Dr NE H",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353944127,
-    "wof:lastmodified":1449019539,
+    "wof:lastmodified":1466698397,
     "wof:name":"Troxell Communications, Inc.",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "audio-visual"
     ]
 },
-  "bbox": [-106.577492,35.111441,-106.577492,35.111441],
-  "geometry": {"coordinates":[-106.577492,35.111441],"type":"Point"}
+  "bbox": [
+    -106.577492,
+    35.111441,
+    -106.577492,
+    35.111441
+],
+  "geometry": {"coordinates":[-106.57749200000001,35.111441],"type":"Point"}
 }

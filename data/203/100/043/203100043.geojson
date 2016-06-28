@@ -2,13 +2,14 @@
   "id": 203100043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.523757,35.158483,-106.523757,35.158483",
     "geom:latitude":35.158483,
     "geom:longitude":-106.523757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7018 Starshine St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203100043,
-    "wof:lastmodified":1449026366,
+    "wof:lastmodified":1466698737,
     "wof:name":"Wild Things For The Home",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.523757,35.158483,-106.523757,35.158483],
+  "bbox": [
+    -106.523757,
+    35.158483,
+    -106.523757,
+    35.158483
+],
   "geometry": {"coordinates":[-106.523757,35.158483],"type":"Point"}
 }

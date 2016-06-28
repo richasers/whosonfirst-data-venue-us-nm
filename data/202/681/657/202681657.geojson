@@ -2,13 +2,14 @@
   "id": 202681657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.738202,34.580402,-106.738202,34.580402",
     "geom:latitude":34.580402,
     "geom:longitude":-106.738202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Sonnenberg Loop",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202681657,
-    "wof:lastmodified":1449061671,
+    "wof:lastmodified":1466699539,
     "wof:name":"Rio Grande Enterprises",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.738202,34.580402,-106.738202,34.580402],
+  "bbox": [
+    -106.738202,
+    34.580402,
+    -106.738202,
+    34.580402
+],
   "geometry": {"coordinates":[-106.738202,34.580402],"type":"Point"}
 }

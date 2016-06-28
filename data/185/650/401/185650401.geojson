@@ -2,13 +2,14 @@
   "id": 185650401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.951034,35.69126,-105.951034,35.69126",
     "geom:latitude":35.69126,
     "geom:longitude":-105.951034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Pso de Peralta",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185650401,
-    "wof:lastmodified":1449007597,
+    "wof:lastmodified":1466698135,
     "wof:name":"Elegant Nails",
     "wof:parent_id":85880797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-105.951034,35.69126,-105.951034,35.69126],
-  "geometry": {"coordinates":[-105.951034,35.69126],"type":"Point"}
+  "bbox": [
+    -105.951034,
+    35.69126,
+    -105.951034,
+    35.69126
+],
+  "geometry": {"coordinates":[-105.95103400000001,35.69126],"type":"Point"}
 }

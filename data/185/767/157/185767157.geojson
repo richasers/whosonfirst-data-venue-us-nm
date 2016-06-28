@@ -2,13 +2,14 @@
   "id": 185767157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.166237,36.750956,-108.166237,36.750956",
     "geom:latitude":36.750956,
     "geom:longitude":-108.166237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 N Clayton Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185767157,
-    "wof:lastmodified":1449007079,
+    "wof:lastmodified":1466699215,
     "wof:name":"Tutoring With Zane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.166237,36.750956,-108.166237,36.750956],
+  "bbox": [
+    -108.166237,
+    36.750956,
+    -108.166237,
+    36.750956
+],
   "geometry": {"coordinates":[-108.166237,36.750956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186462935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.664796,35.209115,-106.664796,35.209115",
     "geom:latitude":35.209115,
     "geom:longitude":-106.664796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10600 Cibola Loop NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186462935,
-    "wof:lastmodified":1449052939,
+    "wof:lastmodified":1466700220,
     "wof:name":"Desert Green Sprinklers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-106.664796,35.209115,-106.664796,35.209115],
+  "bbox": [
+    -106.664796,
+    35.209115,
+    -106.664796,
+    35.209115
+],
   "geometry": {"coordinates":[-106.664796,35.209115],"type":"Point"}
 }

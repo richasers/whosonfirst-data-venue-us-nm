@@ -2,13 +2,14 @@
   "id": 202581217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614005,35.226677,-106.614005,35.226677",
     "geom:latitude":35.226677,
     "geom:longitude":-106.614005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4590 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202581217,
-    "wof:lastmodified":1449060656,
+    "wof:lastmodified":1466698108,
     "wof:name":"Perea's Restaurant",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.614005,35.226677,-106.614005,35.226677],
-  "geometry": {"coordinates":[-106.614005,35.226677],"type":"Point"}
+  "bbox": [
+    -106.614005,
+    35.226677,
+    -106.614005,
+    35.226677
+],
+  "geometry": {"coordinates":[-106.61400500000001,35.226677],"type":"Point"}
 }

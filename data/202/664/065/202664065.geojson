@@ -2,13 +2,14 @@
   "id": 202664065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.971984,35.685916,-105.971984,35.685916",
     "geom:latitude":35.685916,
     "geom:longitude":-105.971984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 Salvador Pl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202664065,
-    "wof:lastmodified":1449061050,
+    "wof:lastmodified":1466699344,
     "wof:name":"Kai Nason-Smith Jewelry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-105.971984,35.685916,-105.971984,35.685916],
-  "geometry": {"coordinates":[-105.971984,35.685916],"type":"Point"}
+  "bbox": [
+    -105.971984,
+    35.685916,
+    -105.971984,
+    35.685916
+],
+  "geometry": {"coordinates":[-105.97198400000001,35.685916],"type":"Point"}
 }

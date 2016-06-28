@@ -2,13 +2,14 @@
   "id": 202786323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.955402,35.675545,-105.955402,35.675545",
     "geom:latitude":35.675545,
     "geom:longitude":-105.955402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1075 Pen Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202786323,
-    "wof:lastmodified":1449060434,
+    "wof:lastmodified":1466699811,
     "wof:name":"Coates Tree Svc",
     "wof:parent_id":85880841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-105.955402,35.675545,-105.955402,35.675545],
-  "geometry": {"coordinates":[-105.955402,35.675545],"type":"Point"}
+  "bbox": [
+    -105.955402,
+    35.675545,
+    -105.955402,
+    35.675545
+],
+  "geometry": {"coordinates":[-105.95540200000001,35.675545],"type":"Point"}
 }

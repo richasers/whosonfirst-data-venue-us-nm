@@ -2,13 +2,14 @@
   "id": 185975353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.763903,32.309828,-106.763903,32.309828",
     "geom:latitude":32.309828,
     "geom:longitude":-106.763903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1473 E Amador Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185975353,
-    "wof:lastmodified":1449007996,
+    "wof:lastmodified":1466699450,
     "wof:name":"Alameda Auto Supply",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.763903,32.309828,-106.763903,32.309828],
+  "bbox": [
+    -106.763903,
+    32.309828,
+    -106.763903,
+    32.309828
+],
   "geometry": {"coordinates":[-106.763903,32.309828],"type":"Point"}
 }

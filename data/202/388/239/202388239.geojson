@@ -2,13 +2,14 @@
   "id": 202388239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.94829,35.529679,-105.94829,35.529679",
     "geom:latitude":35.529679,
     "geom:longitude":-105.94829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Estambre Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202388239,
-    "wof:lastmodified":1449060189,
+    "wof:lastmodified":1466697782,
     "wof:name":"Mc Gehee Construction",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.94829,35.529679,-105.94829,35.529679],
+  "bbox": [
+    -105.94829,
+    35.529679,
+    -105.94829,
+    35.529679
+],
   "geometry": {"coordinates":[-105.94829,35.529679],"type":"Point"}
 }

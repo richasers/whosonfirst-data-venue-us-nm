@@ -2,13 +2,14 @@
   "id": 202644737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.391455,34.186005,-103.391455,34.186005",
     "geom:latitude":34.186005,
     "geom:longitude":-103.391455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"496 S Roosevelt Rd U Pl",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202644737,
-    "wof:lastmodified":1449061550,
+    "wof:lastmodified":1466699058,
     "wof:name":"Levacy Sprinkler Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.391455,34.186005,-103.391455,34.186005],
-  "geometry": {"coordinates":[-103.391455,34.186005],"type":"Point"}
+  "bbox": [
+    -103.391455,
+    34.186005,
+    -103.391455,
+    34.186005
+],
+  "geometry": {"coordinates":[-103.39145499999999,34.186005],"type":"Point"}
 }

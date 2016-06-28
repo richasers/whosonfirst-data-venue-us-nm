@@ -2,13 +2,14 @@
   "id": 202388227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.664116,33.368032,-105.664116,33.368032",
     "geom:latitude":33.368032,
     "geom:longitude":-105.664116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 White Mountain Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202388227,
-    "wof:lastmodified":1449060189,
+    "wof:lastmodified":1466697782,
     "wof:name":"Armendariz Dry Wall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-105.664116,33.368032,-105.664116,33.368032],
-  "geometry": {"coordinates":[-105.664116,33.368032],"type":"Point"}
+  "bbox": [
+    -105.664116,
+    33.368032,
+    -105.664116,
+    33.368032
+],
+  "geometry": {"coordinates":[-105.66411600000001,33.368032],"type":"Point"}
 }

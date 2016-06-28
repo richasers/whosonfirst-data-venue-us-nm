@@ -2,13 +2,14 @@
   "id": 186273647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.267144,32.795128,-108.267144,32.795128",
     "geom:latitude":32.795128,
     "geom:longitude":-108.267144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2610 N Silver St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186273647,
-    "wof:lastmodified":1449051762,
+    "wof:lastmodified":1466698966,
     "wof:name":"Silver City Field Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "conservation"
     ]
 },
-  "bbox": [-108.267144,32.795128,-108.267144,32.795128],
+  "bbox": [
+    -108.267144,
+    32.795128,
+    -108.267144,
+    32.795128
+],
   "geometry": {"coordinates":[-108.267144,32.795128],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186170011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.365714,32.960772,-103.365714,32.960772",
     "geom:latitude":32.960772,
     "geom:longitude":-103.365714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1413 W Cottonwood Ave",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186170011,
-    "wof:lastmodified":1449050489,
+    "wof:lastmodified":1466697638,
     "wof:name":"Larrys Pumping Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "field"
     ]
 },
-  "bbox": [-103.365714,32.960772,-103.365714,32.960772],
+  "bbox": [
+    -103.365714,
+    32.960772,
+    -103.365714,
+    32.960772
+],
   "geometry": {"coordinates":[-103.365714,32.960772],"type":"Point"}
 }

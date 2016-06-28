@@ -2,13 +2,14 @@
   "id": 186186137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.072961,35.628712,-106.072961,35.628712",
     "geom:latitude":35.628712,
     "geom:longitude":-106.072961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Aviation Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186186137,
-    "wof:lastmodified":1449052420,
+    "wof:lastmodified":1466697842,
     "wof:name":"Santa Fe Concrete Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gravel"
     ]
 },
-  "bbox": [-106.072961,35.628712,-106.072961,35.628712],
-  "geometry": {"coordinates":[-106.072961,35.628712],"type":"Point"}
+  "bbox": [
+    -106.072961,
+    35.628712,
+    -106.072961,
+    35.628712
+],
+  "geometry": {"coordinates":[-106.07296100000001,35.628712],"type":"Point"}
 }

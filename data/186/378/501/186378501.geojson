@@ -2,13 +2,14 @@
   "id": 186378501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.191343,36.722467,-108.191343,36.722467",
     "geom:latitude":36.722467,
     "geom:longitude":-108.191343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 Acacia St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186378501,
-    "wof:lastmodified":1449052184,
+    "wof:lastmodified":1466699667,
     "wof:name":"Blakley Oilfield Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-108.191343,36.722467,-108.191343,36.722467],
+  "bbox": [
+    -108.191343,
+    36.722467,
+    -108.191343,
+    36.722467
+],
   "geometry": {"coordinates":[-108.191343,36.722467],"type":"Point"}
 }

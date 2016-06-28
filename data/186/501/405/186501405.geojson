@@ -2,13 +2,14 @@
   "id": 186501405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.612008,35.102068,-106.612008,35.102068",
     "geom:latitude":35.102068,
     "geom:longitude":-106.612008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2811 Indian School Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":186501405,
-    "wof:lastmodified":1449053052,
+    "wof:lastmodified":1466700230,
     "wof:name":"Phyllis M Skoy Msw Lisw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.612008,35.102068,-106.612008,35.102068],
+  "bbox": [
+    -106.612008,
+    35.102068,
+    -106.612008,
+    35.102068
+],
   "geometry": {"coordinates":[-106.612008,35.102068],"type":"Point"}
 }

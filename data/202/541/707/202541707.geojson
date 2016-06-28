@@ -2,13 +2,14 @@
   "id": 202541707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.997002,35.652066,-105.997002,35.652066",
     "geom:latitude":35.652066,
     "geom:longitude":-105.997002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3140 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202541707,
-    "wof:lastmodified":1449060389,
+    "wof:lastmodified":1466699317,
     "wof:name":"Gil's Conoco",
     "wof:parent_id":85880845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-105.997002,35.652066,-105.997002,35.652066],
-  "geometry": {"coordinates":[-105.997002,35.652066],"type":"Point"}
+  "bbox": [
+    -105.997002,
+    35.652066,
+    -105.997002,
+    35.652066
+],
+  "geometry": {"coordinates":[-105.99700199999999,35.652066],"type":"Point"}
 }

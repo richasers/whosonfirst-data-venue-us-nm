@@ -2,13 +2,14 @@
   "id": 186288457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.610724,35.077355,-106.610724,35.077355",
     "geom:latitude":35.077355,
     "geom:longitude":-106.610724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Richmond Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186288457,
-    "wof:lastmodified":1449050529,
+    "wof:lastmodified":1466699178,
     "wof:name":"Inocente PC",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.610724,35.077355,-106.610724,35.077355],
+  "bbox": [
+    -106.610724,
+    35.077355,
+    -106.610724,
+    35.077355
+],
   "geometry": {"coordinates":[-106.610724,35.077355],"type":"Point"}
 }

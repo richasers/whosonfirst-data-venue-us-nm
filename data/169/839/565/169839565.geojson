@@ -2,13 +2,14 @@
   "id": 169839565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.233387,32.428714,-104.233387,32.428714",
     "geom:latitude":32.428714,
     "geom:longitude":-104.233387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 W Church St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169839565,
-    "wof:lastmodified":1449034669,
+    "wof:lastmodified":1466698853,
     "wof:name":"Carlsbad Laundry",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-104.233387,32.428714,-104.233387,32.428714],
-  "geometry": {"coordinates":[-104.233387,32.428714],"type":"Point"}
+  "bbox": [
+    -104.233387,
+    32.428714,
+    -104.233387,
+    32.428714
+],
+  "geometry": {"coordinates":[-104.23338699999999,32.428714],"type":"Point"}
 }

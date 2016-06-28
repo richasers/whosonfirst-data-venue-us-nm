@@ -2,13 +2,14 @@
   "id": 202971865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.618593,35.215853,-106.618593,35.215853",
     "geom:latitude":35.215853,
     "geom:longitude":-106.618593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Andrews Ln",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202971865,
-    "wof:lastmodified":1449061405,
+    "wof:lastmodified":1466700547,
     "wof:name":"Mesa Turf Products LLC",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-106.618593,35.215853,-106.618593,35.215853],
+  "bbox": [
+    -106.618593,
+    35.215853,
+    -106.618593,
+    35.215853
+],
   "geometry": {"coordinates":[-106.618593,35.215853],"type":"Point"}
 }

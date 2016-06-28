@@ -2,13 +2,14 @@
   "id": 186377843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.116804,36.782441,-108.116804,36.782441",
     "geom:latitude":36.782441,
     "geom:longitude":-108.116804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186377843,
-    "wof:lastmodified":1449051387,
+    "wof:lastmodified":1466699659,
     "wof:name":"New Mexico School Of Diving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.116804,36.782441,-108.116804,36.782441],
+  "bbox": [
+    -108.116804,
+    36.782441,
+    -108.116804,
+    36.782441
+],
   "geometry": {"coordinates":[-108.116804,36.782441],"type":"Point"}
 }

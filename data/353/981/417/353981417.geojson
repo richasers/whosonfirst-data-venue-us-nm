@@ -2,13 +2,14 @@
   "id": 353981417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.187664,34.39802,-103.187664,34.39802",
     "geom:latitude":34.39802,
     "geom:longitude":-103.187664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Sycamore St Apt 302",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353981417,
-    "wof:lastmodified":1449020848,
+    "wof:lastmodified":1466699107,
     "wof:name":"Frances J Rhoden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-103.187664,34.39802,-103.187664,34.39802],
+  "bbox": [
+    -103.187664,
+    34.39802,
+    -103.187664,
+    34.39802
+],
   "geometry": {"coordinates":[-103.187664,34.39802],"type":"Point"}
 }

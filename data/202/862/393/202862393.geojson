@@ -2,13 +2,14 @@
   "id": 202862393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.700735,34.808699,-106.700735,34.808699",
     "geom:latitude":34.808699,
     "geom:longitude":-106.700735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3468 State Hwy 47",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202862393,
-    "wof:lastmodified":1449062732,
+    "wof:lastmodified":1466700237,
     "wof:name":"Xtreme Cycle Gear",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-106.700735,34.808699,-106.700735,34.808699],
-  "geometry": {"coordinates":[-106.700735,34.808699],"type":"Point"}
+  "bbox": [
+    -106.700735,
+    34.808699,
+    -106.700735,
+    34.808699
+],
+  "geometry": {"coordinates":[-106.70073499999999,34.808699],"type":"Point"}
 }

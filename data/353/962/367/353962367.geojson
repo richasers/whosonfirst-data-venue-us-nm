@@ -2,13 +2,14 @@
   "id": 353962367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.717171,35.149029,-106.717171,35.149029",
     "geom:latitude":35.149029,
     "geom:longitude":-106.717171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 Bogart St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353962367,
-    "wof:lastmodified":1449019770,
+    "wof:lastmodified":1466698809,
     "wof:name":"Taylor Ranch Branch Library",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "village"
     ]
 },
-  "bbox": [-106.717171,35.149029,-106.717171,35.149029],
-  "geometry": {"coordinates":[-106.717171,35.149029],"type":"Point"}
+  "bbox": [
+    -106.717171,
+    35.149029,
+    -106.717171,
+    35.149029
+],
+  "geometry": {"coordinates":[-106.71717099999999,35.149029],"type":"Point"}
 }

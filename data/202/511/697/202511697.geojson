@@ -2,13 +2,14 @@
   "id": 202511697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.653053,35.082647,-106.653053,35.082647",
     "geom:latitude":35.082647,
     "geom:longitude":-106.653053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Silver Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202511697,
-    "wof:lastmodified":1449061292,
+    "wof:lastmodified":1466699204,
     "wof:name":"Clyde F Worthen",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.653053,35.082647,-106.653053,35.082647],
+  "bbox": [
+    -106.653053,
+    35.082647,
+    -106.653053,
+    35.082647
+],
   "geometry": {"coordinates":[-106.653053,35.082647],"type":"Point"}
 }

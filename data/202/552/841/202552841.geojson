@@ -2,13 +2,14 @@
   "id": 202552841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.580657,35.14448,-106.580657,35.14448",
     "geom:latitude":35.14448,
     "geom:longitude":-106.580657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5850 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202552841,
-    "wof:lastmodified":1449061174,
+    "wof:lastmodified":1466697682,
     "wof:name":"Koury's Deli",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-106.580657,35.14448,-106.580657,35.14448],
+  "bbox": [
+    -106.580657,
+    35.14448,
+    -106.580657,
+    35.14448
+],
   "geometry": {"coordinates":[-106.580657,35.14448],"type":"Point"}
 }

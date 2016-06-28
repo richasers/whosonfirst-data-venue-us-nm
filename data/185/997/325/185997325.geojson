@@ -2,13 +2,14 @@
   "id": 185997325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.594916,34.25457,-105.594916,34.25457",
     "geom:latitude":34.25457,
     "geom:longitude":-105.594916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"990 Franklin St",
     "sg:city":"Corona",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185997325,
-    "wof:lastmodified":1449007948,
+    "wof:lastmodified":1466699761,
     "wof:name":"Bechtel's Cycle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-105.594916,34.25457,-105.594916,34.25457],
+  "bbox": [
+    -105.594916,
+    34.25457,
+    -105.594916,
+    34.25457
+],
   "geometry": {"coordinates":[-105.594916,34.25457],"type":"Point"}
 }

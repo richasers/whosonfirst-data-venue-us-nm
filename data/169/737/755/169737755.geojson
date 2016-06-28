@@ -2,13 +2,14 @@
   "id": 169737755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.619533,35.077303,-106.619533,35.077303",
     "geom:latitude":35.077303,
     "geom:longitude":-106.619533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Cornell Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169737755,
-    "wof:lastmodified":1449033419,
+    "wof:lastmodified":1466697964,
     "wof:name":"Johnsons Center",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-106.619533,35.077303,-106.619533,35.077303],
+  "bbox": [
+    -106.619533,
+    35.077303,
+    -106.619533,
+    35.077303
+],
   "geometry": {"coordinates":[-106.619533,35.077303],"type":"Point"}
 }

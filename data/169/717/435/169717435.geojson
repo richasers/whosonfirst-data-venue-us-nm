@@ -2,13 +2,14 @@
   "id": 169717435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.149179,32.777943,-108.149179,32.777943",
     "geom:latitude":32.777943,
     "geom:longitude":-108.149179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N East St",
     "sg:city":"Central",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169717435,
-    "wof:lastmodified":1449032776,
+    "wof:lastmodified":1466697742,
     "wof:name":"Senior Citizens Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "citizen"
     ]
 },
-  "bbox": [-108.149179,32.777943,-108.149179,32.777943],
+  "bbox": [
+    -108.149179,
+    32.777943,
+    -108.149179,
+    32.777943
+],
   "geometry": {"coordinates":[-108.149179,32.777943],"type":"Point"}
 }

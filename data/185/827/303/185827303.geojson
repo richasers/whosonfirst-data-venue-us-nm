@@ -2,13 +2,14 @@
   "id": 185827303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.395752,32.827841,-104.395752,32.827841",
     "geom:latitude":32.827841,
     "geom:longitude":-104.395752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 S 1st St",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185827303,
-    "wof:lastmodified":1449007165,
+    "wof:lastmodified":1466697761,
     "wof:name":"Weiler Welding Svc",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-104.395752,32.827841,-104.395752,32.827841],
+  "bbox": [
+    -104.395752,
+    32.827841,
+    -104.395752,
+    32.827841
+],
   "geometry": {"coordinates":[-104.395752,32.827841],"type":"Point"}
 }

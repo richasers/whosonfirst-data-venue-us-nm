@@ -2,13 +2,14 @@
   "id": 185769103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.773724,32.307045,-106.773724,32.307045",
     "geom:latitude":32.307045,
     "geom:longitude":-106.773724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"439 E Lohman Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185769103,
-    "wof:lastmodified":1449007130,
+    "wof:lastmodified":1466699217,
     "wof:name":"Lohman Radiator Shop",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-106.773724,32.307045,-106.773724,32.307045],
+  "bbox": [
+    -106.773724,
+    32.307045,
+    -106.773724,
+    32.307045
+],
   "geometry": {"coordinates":[-106.773724,32.307045],"type":"Point"}
 }

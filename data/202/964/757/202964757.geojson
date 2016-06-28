@@ -2,13 +2,14 @@
   "id": 202964757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.263188,36.741603,-108.263188,36.741603",
     "geom:latitude":36.741603,
     "geom:longitude":-108.263188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 Lomas St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202964757,
-    "wof:lastmodified":1449062025,
+    "wof:lastmodified":1466700622,
     "wof:name":"Hanover",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "compressor"
     ]
 },
-  "bbox": [-108.263188,36.741603,-108.263188,36.741603],
+  "bbox": [
+    -108.263188,
+    36.741603,
+    -108.263188,
+    36.741603
+],
   "geometry": {"coordinates":[-108.263188,36.741603],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337282655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.624642,35.181779,-106.624642,35.181779",
     "geom:latitude":35.181779,
     "geom:longitude":-106.624642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Ortega Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337282655,
-    "wof:lastmodified":1449027463,
+    "wof:lastmodified":1466697662,
     "wof:name":"Elite Concrete Pumping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.624642,35.181779,-106.624642,35.181779],
-  "geometry": {"coordinates":[-106.624642,35.181779],"type":"Point"}
+  "bbox": [
+    -106.624642,
+    35.181779,
+    -106.624642,
+    35.181779
+],
+  "geometry": {"coordinates":[-106.62464199999999,35.181779],"type":"Point"}
 }

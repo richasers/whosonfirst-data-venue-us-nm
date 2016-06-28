@@ -2,13 +2,14 @@
   "id": 169848339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.136068,32.699653,-103.136068,32.699653",
     "geom:latitude":32.699653,
     "geom:longitude":-103.136068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E Dunnam St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169848339,
-    "wof:lastmodified":1449033153,
+    "wof:lastmodified":1466698884,
     "wof:name":"Lea County Literacy Alliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "improvement"
     ]
 },
-  "bbox": [-103.136068,32.699653,-103.136068,32.699653],
-  "geometry": {"coordinates":[-103.136068,32.699653],"type":"Point"}
+  "bbox": [
+    -103.136068,
+    32.699653,
+    -103.136068,
+    32.699653
+],
+  "geometry": {"coordinates":[-103.13606799999999,32.699653],"type":"Point"}
 }

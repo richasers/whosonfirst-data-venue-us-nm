@@ -2,13 +2,14 @@
   "id": 202898811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.539031,33.427082,-104.539031,33.427082",
     "geom:latitude":33.427082,
     "geom:longitude":-104.539031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2704 Gaye Dr",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202898811,
-    "wof:lastmodified":1449060057,
+    "wof:lastmodified":1466700349,
     "wof:name":"South West Decals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.539031,33.427082,-104.539031,33.427082],
-  "geometry": {"coordinates":[-104.539031,33.427082],"type":"Point"}
+  "bbox": [
+    -104.539031,
+    33.427082,
+    -104.539031,
+    33.427082
+],
+  "geometry": {"coordinates":[-104.53903099999999,33.427082],"type":"Point"}
 }

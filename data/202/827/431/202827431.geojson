@@ -2,13 +2,14 @@
   "id": 202827431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550948,35.114202,-106.550948,35.114202",
     "geom:latitude":35.114202,
     "geom:longitude":-106.550948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202827431,
-    "wof:lastmodified":1449061017,
+    "wof:lastmodified":1466700232,
     "wof:name":"Marketing Masters Real Estate",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.550948,35.114202,-106.550948,35.114202],
-  "geometry": {"coordinates":[-106.550948,35.114202],"type":"Point"}
+  "bbox": [
+    -106.550948,
+    35.114202,
+    -106.550948,
+    35.114202
+],
+  "geometry": {"coordinates":[-106.55094800000001,35.114202],"type":"Point"}
 }

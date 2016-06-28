@@ -2,13 +2,14 @@
   "id": 186369719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.624131,35.251728,-106.624131,35.251728",
     "geom:latitude":35.251728,
     "geom:longitude":-106.624131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1155 Angel Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186369719,
-    "wof:lastmodified":1449052902,
+    "wof:lastmodified":1466699613,
     "wof:name":"All Carrie Trucking",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-106.624131,35.251728,-106.624131,35.251728],
-  "geometry": {"coordinates":[-106.624131,35.251728],"type":"Point"}
+  "bbox": [
+    -106.624131,
+    35.251728,
+    -106.624131,
+    35.251728
+],
+  "geometry": {"coordinates":[-106.62413100000001,35.251728],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185660139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.229884,36.832089,-108.229884,36.832089",
     "geom:latitude":36.832089,
     "geom:longitude":-108.229884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Rd 1764",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185660139,
-    "wof:lastmodified":1449008054,
+    "wof:lastmodified":1466698235,
     "wof:name":"Driftwood Custom Cabinetry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.229884,36.832089,-108.229884,36.832089],
+  "bbox": [
+    -108.229884,
+    36.832089,
+    -108.229884,
+    36.832089
+],
   "geometry": {"coordinates":[-108.229884,36.832089],"type":"Point"}
 }

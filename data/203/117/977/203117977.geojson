@@ -2,13 +2,14 @@
   "id": 203117977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.739734,35.171649,-103.739734,35.171649",
     "geom:latitude":35.171649,
     "geom:longitude":-103.739734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 W Tucumcari Blvd",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203117977,
-    "wof:lastmodified":1449026272,
+    "wof:lastmodified":1466698921,
     "wof:name":"Bamninos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.739734,35.171649,-103.739734,35.171649],
+  "bbox": [
+    -103.739734,
+    35.171649,
+    -103.739734,
+    35.171649
+],
   "geometry": {"coordinates":[-103.739734,35.171649],"type":"Point"}
 }

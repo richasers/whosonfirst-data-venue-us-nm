@@ -2,13 +2,14 @@
   "id": 203011987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.990637,36.823178,-107.990637,36.823178",
     "geom:latitude":36.823178,
     "geom:longitude":-107.990637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Lovers Ln",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203011987,
-    "wof:lastmodified":1449026489,
+    "wof:lastmodified":1466697727,
     "wof:name":"Rocky Mountain Vinyl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "customizing"
     ]
 },
-  "bbox": [-107.990637,36.823178,-107.990637,36.823178],
-  "geometry": {"coordinates":[-107.990637,36.823178],"type":"Point"}
+  "bbox": [
+    -107.990637,
+    36.823178,
+    -107.990637,
+    36.823178
+],
+  "geometry": {"coordinates":[-107.99063700000001,36.823178],"type":"Point"}
 }

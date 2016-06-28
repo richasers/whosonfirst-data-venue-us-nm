@@ -2,13 +2,14 @@
   "id": 203012143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781295,35.063878,-106.781295,35.063878",
     "geom:latitude":35.063878,
     "geom:longitude":-106.781295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14500 Central Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203012143,
-    "wof:lastmodified":1449026681,
+    "wof:lastmodified":1466697726,
     "wof:name":"Cabaret Dell Rhea-Rt 66 Casino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.781295,35.063878,-106.781295,35.063878],
+  "bbox": [
+    -106.781295,
+    35.063878,
+    -106.781295,
+    35.063878
+],
   "geometry": {"coordinates":[-106.781295,35.063878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185614863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.608273,35.079149,-106.608273,35.079149",
     "geom:latitude":35.079149,
     "geom:longitude":-106.608273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3203 Silver Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185614863,
-    "wof:lastmodified":1449008271,
+    "wof:lastmodified":1466697756,
     "wof:name":"Vetterman Debra MA Lpat Lpcc",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.608273,35.079149,-106.608273,35.079149],
+  "bbox": [
+    -106.608273,
+    35.079149,
+    -106.608273,
+    35.079149
+],
   "geometry": {"coordinates":[-106.608273,35.079149],"type":"Point"}
 }

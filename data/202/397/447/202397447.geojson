@@ -2,13 +2,14 @@
   "id": 202397447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.217038,35.595254,-105.217038,35.595254",
     "geom:latitude":35.595254,
     "geom:longitude":-105.217038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 University Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202397447,
-    "wof:lastmodified":1449061127,
+    "wof:lastmodified":1466697908,
     "wof:name":"D & D Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-105.217038,35.595254,-105.217038,35.595254],
+  "bbox": [
+    -105.217038,
+    35.595254,
+    -105.217038,
+    35.595254
+],
   "geometry": {"coordinates":[-105.217038,35.595254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202661943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.20892,35.613351,-105.20892,35.613351",
     "geom:latitude":35.613351,
     "geom:longitude":-105.20892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1890 N Grand Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202661943,
-    "wof:lastmodified":1449062373,
+    "wof:lastmodified":1466699314,
     "wof:name":"Las Vegas Mobile Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.20892,35.613351,-105.20892,35.613351],
-  "geometry": {"coordinates":[-105.20892,35.613351],"type":"Point"}
+  "bbox": [
+    -105.20892,
+    35.613351,
+    -105.20892,
+    35.613351
+],
+  "geometry": {"coordinates":[-105.20892000000001,35.613351],"type":"Point"}
 }

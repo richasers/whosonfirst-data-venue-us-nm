@@ -2,13 +2,14 @@
   "id": 202459027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.520413,35.145208,-106.520413,35.145208",
     "geom:latitude":35.145208,
     "geom:longitude":-106.520413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10408 Delicado Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202459027,
-    "wof:lastmodified":1449061142,
+    "wof:lastmodified":1466698607,
     "wof:name":"Indoff Inc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.520413,35.145208,-106.520413,35.145208],
+  "bbox": [
+    -106.520413,
+    35.145208,
+    -106.520413,
+    35.145208
+],
   "geometry": {"coordinates":[-106.520413,35.145208],"type":"Point"}
 }

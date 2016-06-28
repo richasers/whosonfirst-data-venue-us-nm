@@ -2,13 +2,14 @@
   "id": 202777447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.573384,35.182554,-106.573384,35.182554",
     "geom:latitude":35.182554,
     "geom:longitude":-106.573384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8612 Simi Ln NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202777447,
-    "wof:lastmodified":1449061444,
+    "wof:lastmodified":1466699759,
     "wof:name":"Mountainside Realty",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.573384,35.182554,-106.573384,35.182554],
+  "bbox": [
+    -106.573384,
+    35.182554,
+    -106.573384,
+    35.182554
+],
   "geometry": {"coordinates":[-106.573384,35.182554],"type":"Point"}
 }

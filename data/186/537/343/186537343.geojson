@@ -2,13 +2,14 @@
   "id": 186537343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.561602,35.072836,-106.561602,35.072836",
     "geom:latitude":35.072836,
     "geom:longitude":-106.561602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7711 Zuni Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186537343,
-    "wof:lastmodified":1449051047,
+    "wof:lastmodified":1466700351,
     "wof:name":"Studio Group LLC",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.561602,35.072836,-106.561602,35.072836],
-  "geometry": {"coordinates":[-106.561602,35.072836],"type":"Point"}
+  "bbox": [
+    -106.561602,
+    35.072836,
+    -106.561602,
+    35.072836
+],
+  "geometry": {"coordinates":[-106.56160199999999,35.072836],"type":"Point"}
 }

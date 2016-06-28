@@ -2,13 +2,14 @@
   "id": 186451615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.688183,35.212272,-106.688183,35.212272",
     "geom:latitude":35.212272,
     "geom:longitude":-106.688183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 Pebble Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186451615,
-    "wof:lastmodified":1449051542,
+    "wof:lastmodified":1466699946,
     "wof:name":"Dancing Bear Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "advertising"
     ]
 },
-  "bbox": [-106.688183,35.212272,-106.688183,35.212272],
+  "bbox": [
+    -106.688183,
+    35.212272,
+    -106.688183,
+    35.212272
+],
   "geometry": {"coordinates":[-106.688183,35.212272],"type":"Point"}
 }

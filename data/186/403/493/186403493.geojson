@@ -2,13 +2,14 @@
   "id": 186403493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.199059,36.748467,-108.199059,36.748467",
     "geom:latitude":36.748467,
     "geom:longitude":-108.199059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 E 20th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186403493,
-    "wof:lastmodified":1449052642,
+    "wof:lastmodified":1466699861,
     "wof:name":"Smiths Food & Drug Center 409",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.199059,36.748467,-108.199059,36.748467],
-  "geometry": {"coordinates":[-108.199059,36.748467],"type":"Point"}
+  "bbox": [
+    -108.199059,
+    36.748467,
+    -108.199059,
+    36.748467
+],
+  "geometry": {"coordinates":[-108.19905900000001,36.748467],"type":"Point"}
 }

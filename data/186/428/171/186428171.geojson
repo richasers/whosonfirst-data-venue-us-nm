@@ -2,13 +2,14 @@
   "id": 186428171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.762178,32.196154,-107.762178,32.196154",
     "geom:latitude":32.196154,
     "geom:longitude":-107.762178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Rockhound Rd SW",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186428171,
-    "wof:lastmodified":1449052854,
+    "wof:lastmodified":1466699957,
     "wof:name":"Morales Gustavo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-107.762178,32.196154,-107.762178,32.196154],
-  "geometry": {"coordinates":[-107.762178,32.196154],"type":"Point"}
+  "bbox": [
+    -107.762178,
+    32.196154,
+    -107.762178,
+    32.196154
+],
+  "geometry": {"coordinates":[-107.76217800000001,32.196154],"type":"Point"}
 }

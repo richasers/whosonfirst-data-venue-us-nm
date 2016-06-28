@@ -2,13 +2,14 @@
   "id": 202471751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.956647,35.683697,-105.956647,35.683697",
     "geom:latitude":35.683697,
     "geom:longitude":-105.956647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"985 Agua Fria St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202471751,
-    "wof:lastmodified":1449061132,
+    "wof:lastmodified":1466698824,
     "wof:name":"Samantha Dunning Esquire",
     "wof:parent_id":85880841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printing"
     ]
 },
-  "bbox": [-105.956647,35.683697,-105.956647,35.683697],
+  "bbox": [
+    -105.956647,
+    35.683697,
+    -105.956647,
+    35.683697
+],
   "geometry": {"coordinates":[-105.956647,35.683697],"type":"Point"}
 }

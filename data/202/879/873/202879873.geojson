@@ -2,13 +2,14 @@
   "id": 202879873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.951118,35.704524,-105.951118,35.704524",
     "geom:latitude":35.704524,
     "geom:longitude":-105.951118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"941 Cll Mejia",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202879873,
-    "wof:lastmodified":1449060134,
+    "wof:lastmodified":1466700279,
     "wof:name":"Ross C & M LLC",
     "wof:parent_id":85880857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-105.951118,35.704524,-105.951118,35.704524],
-  "geometry": {"coordinates":[-105.951118,35.704524],"type":"Point"}
+  "bbox": [
+    -105.951118,
+    35.704524,
+    -105.951118,
+    35.704524
+],
+  "geometry": {"coordinates":[-105.95111799999999,35.704524],"type":"Point"}
 }

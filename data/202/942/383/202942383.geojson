@@ -2,13 +2,14 @@
   "id": 202942383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.536966,35.067463,-106.536966,35.067463",
     "geom:latitude":35.067463,
     "geom:longitude":-106.536966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10001 Southern Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202942383,
-    "wof:lastmodified":1449061284,
+    "wof:lastmodified":1466700528,
     "wof:name":"Ramblin Wood Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mill"
     ]
 },
-  "bbox": [-106.536966,35.067463,-106.536966,35.067463],
-  "geometry": {"coordinates":[-106.536966,35.067463],"type":"Point"}
+  "bbox": [
+    -106.536966,
+    35.067463,
+    -106.536966,
+    35.067463
+],
+  "geometry": {"coordinates":[-106.53696600000001,35.067463],"type":"Point"}
 }

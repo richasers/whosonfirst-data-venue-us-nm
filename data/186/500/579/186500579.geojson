@@ -2,13 +2,14 @@
   "id": 186500579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.036756,35.599603,-106.036756,35.599603",
     "geom:latitude":35.599603,
     "geom:longitude":-106.036756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 E Frontage Rd",
     "sg:city":"Rowe",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186500579,
-    "wof:lastmodified":1449051060,
+    "wof:lastmodified":1466700088,
     "wof:name":"Clearwater Pool & Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-106.036756,35.599603,-106.036756,35.599603],
+  "bbox": [
+    -106.036756,
+    35.599603,
+    -106.036756,
+    35.599603
+],
   "geometry": {"coordinates":[-106.036756,35.599603],"type":"Point"}
 }

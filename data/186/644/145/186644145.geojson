@@ -2,13 +2,14 @@
   "id": 186644145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.869872,32.313691,-106.869872,32.313691",
     "geom:latitude":32.313691,
     "geom:longitude":-106.869872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 Vis del Cerro",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186644145,
-    "wof:lastmodified":1449051917,
+    "wof:lastmodified":1466700784,
     "wof:name":"Preceptions Ltd",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.869872,32.313691,-106.869872,32.313691],
+  "bbox": [
+    -106.869872,
+    32.313691,
+    -106.869872,
+    32.313691
+],
   "geometry": {"coordinates":[-106.869872,32.313691],"type":"Point"}
 }

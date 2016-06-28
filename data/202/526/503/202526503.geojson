@@ -2,13 +2,14 @@
   "id": 202526503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.648997,35.084996,-106.648997,35.084996",
     "geom:latitude":35.084996,
     "geom:longitude":-106.648997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202526503,
-    "wof:lastmodified":1449060896,
+    "wof:lastmodified":1466699277,
     "wof:name":"LA Posada De Albuquerque",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.648997,35.084996,-106.648997,35.084996],
-  "geometry": {"coordinates":[-106.648997,35.084996],"type":"Point"}
+  "bbox": [
+    -106.648997,
+    35.084996,
+    -106.648997,
+    35.084996
+],
+  "geometry": {"coordinates":[-106.64899699999999,35.084996],"type":"Point"}
 }

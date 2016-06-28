@@ -2,13 +2,14 @@
   "id": 169815139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.22216,35.61664,-105.22216,35.61664",
     "geom:latitude":35.61664,
     "geom:longitude":-105.22216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 Collins Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169815139,
-    "wof:lastmodified":1449034279,
+    "wof:lastmodified":1466698703,
     "wof:name":"Vida Encantada",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-105.22216,35.61664,-105.22216,35.61664],
+  "bbox": [
+    -105.22216,
+    35.61664,
+    -105.22216,
+    35.61664
+],
   "geometry": {"coordinates":[-105.22216,35.61664],"type":"Point"}
 }

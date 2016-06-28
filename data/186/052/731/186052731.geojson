@@ -2,13 +2,14 @@
   "id": 186052731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.186555,34.400647,-103.186555,34.400647",
     "geom:latitude":34.400647,
     "geom:longitude":-103.186555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Georgia St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186052731,
-    "wof:lastmodified":1449051587,
+    "wof:lastmodified":1466698277,
     "wof:name":"Hankins Ent Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "air"
     ]
 },
-  "bbox": [-103.186555,34.400647,-103.186555,34.400647],
+  "bbox": [
+    -103.186555,
+    34.400647,
+    -103.186555,
+    34.400647
+],
   "geometry": {"coordinates":[-103.186555,34.400647],"type":"Point"}
 }

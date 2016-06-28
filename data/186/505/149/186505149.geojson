@@ -2,13 +2,14 @@
   "id": 186505149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.127624,32.776683,-103.127624,32.776683",
     "geom:latitude":32.776683,
     "geom:longitude":-103.127624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6800 N Dal Paso St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186505149,
-    "wof:lastmodified":1449052567,
+    "wof:lastmodified":1466700242,
     "wof:name":"Johnny's Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-103.127624,32.776683,-103.127624,32.776683],
+  "bbox": [
+    -103.127624,
+    32.776683,
+    -103.127624,
+    32.776683
+],
   "geometry": {"coordinates":[-103.127624,32.776683],"type":"Point"}
 }

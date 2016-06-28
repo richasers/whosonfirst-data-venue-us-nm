@@ -2,13 +2,14 @@
   "id": 186618569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.280763,32.421838,-104.280763,32.421838",
     "geom:latitude":32.421838,
     "geom:longitude":-104.280763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4130 W Texas St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186618569,
-    "wof:lastmodified":1449052037,
+    "wof:lastmodified":1466700784,
     "wof:name":"Happy Valley Fire/Rescue Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "protection"
     ]
 },
-  "bbox": [-104.280763,32.421838,-104.280763,32.421838],
-  "geometry": {"coordinates":[-104.280763,32.421838],"type":"Point"}
+  "bbox": [
+    -104.280763,
+    32.421838,
+    -104.280763,
+    32.421838
+],
+  "geometry": {"coordinates":[-104.28076299999999,32.421838],"type":"Point"}
 }

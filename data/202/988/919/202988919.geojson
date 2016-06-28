@@ -2,13 +2,14 @@
   "id": 202988919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.194008,34.398643,-103.194008,34.398643",
     "geom:latitude":34.398643,
     "geom:longitude":-103.194008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 E 1st St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202988919,
-    "wof:lastmodified":1449060985,
+    "wof:lastmodified":1466700823,
     "wof:name":"Guthals Nursery & Lawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-103.194008,34.398643,-103.194008,34.398643],
+  "bbox": [
+    -103.194008,
+    34.398643,
+    -103.194008,
+    34.398643
+],
   "geometry": {"coordinates":[-103.194008,34.398643],"type":"Point"}
 }

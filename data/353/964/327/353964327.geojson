@@ -2,13 +2,14 @@
   "id": 353964327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.707762,35.049874,-106.707762,35.049874",
     "geom:latitude":35.049874,
     "geom:longitude":-106.707762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1932 Coors Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":353964327,
-    "wof:lastmodified":1449020174,
+    "wof:lastmodified":1466698862,
     "wof:name":"Valley Fence",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "fence-sales"
     ]
 },
-  "bbox": [-106.707762,35.049874,-106.707762,35.049874],
+  "bbox": [
+    -106.707762,
+    35.049874,
+    -106.707762,
+    35.049874
+],
   "geometry": {"coordinates":[-106.707762,35.049874],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202384913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.93911,35.68732,-105.93911,35.68732",
     "geom:latitude":35.68732,
     "geom:longitude":-105.93911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Lincoln Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202384913,
-    "wof:lastmodified":1449060417,
+    "wof:lastmodified":1466697744,
     "wof:name":"Dressman's Gift Shop",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "indian"
     ]
 },
-  "bbox": [-105.93911,35.68732,-105.93911,35.68732],
+  "bbox": [
+    -105.93911,
+    35.68732,
+    -105.93911,
+    35.68732
+],
   "geometry": {"coordinates":[-105.93911,35.68732],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169820209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.616462,35.091066,-106.616462,35.091066",
     "geom:latitude":35.091066,
     "geom:longitude":-106.616462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Marble Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169820209,
-    "wof:lastmodified":1449034389,
+    "wof:lastmodified":1466698733,
     "wof:name":"Unm Health Sciences Ctr",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.616462,35.091066,-106.616462,35.091066],
+  "bbox": [
+    -106.616462,
+    35.091066,
+    -106.616462,
+    35.091066
+],
   "geometry": {"coordinates":[-106.616462,35.091066],"type":"Point"}
 }

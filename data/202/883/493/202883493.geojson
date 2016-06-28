@@ -2,13 +2,14 @@
   "id": 202883493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.705622,35.117647,-106.705622,35.117647",
     "geom:latitude":35.117647,
     "geom:longitude":-106.705622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3015 Estrella Brillante St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202883493,
-    "wof:lastmodified":1449062062,
+    "wof:lastmodified":1466700190,
     "wof:name":"Taylord Designs Inc",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.705622,35.117647,-106.705622,35.117647],
-  "geometry": {"coordinates":[-106.705622,35.117647],"type":"Point"}
+  "bbox": [
+    -106.705622,
+    35.117647,
+    -106.705622,
+    35.117647
+],
+  "geometry": {"coordinates":[-106.70562200000001,35.117647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202542223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.563694,35.301728,-106.563694,35.301728",
     "geom:latitude":35.301728,
     "geom:longitude":-106.563694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Cuerno Ln",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202542223,
-    "wof:lastmodified":1449062093,
+    "wof:lastmodified":1466699312,
     "wof:name":"Star Window Treatments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "shades"
     ]
 },
-  "bbox": [-106.563694,35.301728,-106.563694,35.301728],
+  "bbox": [
+    -106.563694,
+    35.301728,
+    -106.563694,
+    35.301728
+],
   "geometry": {"coordinates":[-106.563694,35.301728],"type":"Point"}
 }

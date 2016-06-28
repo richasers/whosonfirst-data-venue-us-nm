@@ -2,13 +2,14 @@
   "id": 202971265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.984169,35.659224,-105.984169,35.659224",
     "geom:latitude":35.659224,
     "geom:longitude":-105.984169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2641 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202971265,
-    "wof:lastmodified":1449061404,
+    "wof:lastmodified":1466700542,
     "wof:name":"Enterprise Rent A Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-105.984169,35.659224,-105.984169,35.659224],
-  "geometry": {"coordinates":[-105.984169,35.659224],"type":"Point"}
+  "bbox": [
+    -105.984169,
+    35.659224,
+    -105.984169,
+    35.659224
+],
+  "geometry": {"coordinates":[-105.98416899999999,35.659224],"type":"Point"}
 }

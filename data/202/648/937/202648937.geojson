@@ -2,13 +2,14 @@
   "id": 202648937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.968634,35.664838,-105.968634,35.664838",
     "geom:latitude":35.664838,
     "geom:longitude":-105.968634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 3rd St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202648937,
-    "wof:lastmodified":1449060813,
+    "wof:lastmodified":1466699121,
     "wof:name":"Otero Contracting",
     "wof:parent_id":85880811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.968634,35.664838,-105.968634,35.664838],
-  "geometry": {"coordinates":[-105.968634,35.664838],"type":"Point"}
+  "bbox": [
+    -105.968634,
+    35.664838,
+    -105.968634,
+    35.664838
+],
+  "geometry": {"coordinates":[-105.96863399999999,35.664838],"type":"Point"}
 }

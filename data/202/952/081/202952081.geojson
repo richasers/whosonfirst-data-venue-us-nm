@@ -2,13 +2,14 @@
   "id": 202952081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.171743,35.091624,-106.171743,35.091624",
     "geom:latitude":35.091624,
     "geom:longitude":-106.171743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Rainbow Rd",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202952081,
-    "wof:lastmodified":1449061924,
+    "wof:lastmodified":1466700561,
     "wof:name":"Winn Buggy Work",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "works"
     ]
 },
-  "bbox": [-106.171743,35.091624,-106.171743,35.091624],
-  "geometry": {"coordinates":[-106.171743,35.091624],"type":"Point"}
+  "bbox": [
+    -106.171743,
+    35.091624,
+    -106.171743,
+    35.091624
+],
+  "geometry": {"coordinates":[-106.17174300000001,35.091624],"type":"Point"}
 }

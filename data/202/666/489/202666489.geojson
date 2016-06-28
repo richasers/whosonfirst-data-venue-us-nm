@@ -2,13 +2,14 @@
   "id": 202666489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.670358,33.363558,-105.670358,33.363558",
     "geom:latitude":33.363558,
     "geom:longitude":-105.670358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Travel Aire Rd",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202666489,
-    "wof:lastmodified":1449061036,
+    "wof:lastmodified":1466699380,
     "wof:name":"Ruidoso Ice Machines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "equipment"
     ]
 },
-  "bbox": [-105.670358,33.363558,-105.670358,33.363558],
-  "geometry": {"coordinates":[-105.670358,33.363558],"type":"Point"}
+  "bbox": [
+    -105.670358,
+    33.363558,
+    -105.670358,
+    33.363558
+],
+  "geometry": {"coordinates":[-105.67035799999999,33.363558],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202446201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.319454,32.488583,-104.319454,32.488583",
     "geom:latitude":32.488583,
     "geom:longitude":-104.319454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Comanche Dr",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202446201,
-    "wof:lastmodified":1449062439,
+    "wof:lastmodified":1466698499,
     "wof:name":"R D Wilson Construction Inc",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-104.319454,32.488583,-104.319454,32.488583],
-  "geometry": {"coordinates":[-104.319454,32.488583],"type":"Point"}
+  "bbox": [
+    -104.319454,
+    32.488583,
+    -104.319454,
+    32.488583
+],
+  "geometry": {"coordinates":[-104.31945399999999,32.488583],"type":"Point"}
 }

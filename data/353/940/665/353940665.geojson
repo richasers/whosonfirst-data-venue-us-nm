@@ -2,13 +2,14 @@
   "id": 353940665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.598378,35.160959,-106.598378,35.160959",
     "geom:latitude":35.160959,
     "geom:longitude":-106.598378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4121 Ellison St NE Ste B",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353940665,
-    "wof:lastmodified":1449018884,
+    "wof:lastmodified":1466698294,
     "wof:name":"Applied Thermal Systems Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "device"
     ]
 },
-  "bbox": [-106.598378,35.160959,-106.598378,35.160959],
+  "bbox": [
+    -106.598378,
+    35.160959,
+    -106.598378,
+    35.160959
+],
   "geometry": {"coordinates":[-106.598378,35.160959],"type":"Point"}
 }

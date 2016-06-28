@@ -2,13 +2,14 @@
   "id": 202759671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615084,35.15943,-106.615084,35.15943",
     "geom:latitude":35.15943,
     "geom:longitude":-106.615084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Bosque Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202759671,
-    "wof:lastmodified":1449062692,
+    "wof:lastmodified":1466699833,
     "wof:name":"Hix Appraisal Svc Inc",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-106.615084,35.15943,-106.615084,35.15943],
+  "bbox": [
+    -106.615084,
+    35.15943,
+    -106.615084,
+    35.15943
+],
   "geometry": {"coordinates":[-106.615084,35.15943],"type":"Point"}
 }

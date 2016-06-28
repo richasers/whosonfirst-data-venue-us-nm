@@ -2,13 +2,14 @@
   "id": 202640327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.213876,34.500823,-103.213876,34.500823",
     "geom:latitude":34.500823,
     "geom:longitude":-103.213876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1687 C R K",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202640327,
-    "wof:lastmodified":1449061222,
+    "wof:lastmodified":1466698995,
     "wof:name":"Mc Alister Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.213876,34.500823,-103.213876,34.500823],
+  "bbox": [
+    -103.213876,
+    34.500823,
+    -103.213876,
+    34.500823
+],
   "geometry": {"coordinates":[-103.213876,34.500823],"type":"Point"}
 }

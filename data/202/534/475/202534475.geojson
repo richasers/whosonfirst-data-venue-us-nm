@@ -2,13 +2,14 @@
   "id": 202534475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.635398,35.156869,-106.635398,35.156869",
     "geom:latitude":35.156869,
     "geom:longitude":-106.635398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"344 Enchanted Valley Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202534475,
-    "wof:lastmodified":1449060772,
+    "wof:lastmodified":1466699293,
     "wof:name":"Suncity Auto Sales",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-106.635398,35.156869,-106.635398,35.156869],
+  "bbox": [
+    -106.635398,
+    35.156869,
+    -106.635398,
+    35.156869
+],
   "geometry": {"coordinates":[-106.635398,35.156869],"type":"Point"}
 }

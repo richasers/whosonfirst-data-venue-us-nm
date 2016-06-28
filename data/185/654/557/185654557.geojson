@@ -2,13 +2,14 @@
   "id": 185654557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.675876,35.193787,-103.675876,35.193787",
     "geom:latitude":35.193787,
     "geom:longitude":-103.675876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3761 Quay Road 64.5",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185654557,
-    "wof:lastmodified":1449007143,
+    "wof:lastmodified":1466698178,
     "wof:name":"Desert Gem Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "community"
     ]
 },
-  "bbox": [-103.675876,35.193787,-103.675876,35.193787],
+  "bbox": [
+    -103.675876,
+    35.193787,
+    -103.675876,
+    35.193787
+],
   "geometry": {"coordinates":[-103.675876,35.193787],"type":"Point"}
 }

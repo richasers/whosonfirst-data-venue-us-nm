@@ -2,13 +2,14 @@
   "id": 202524305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.167682,32.736256,-103.167682,32.736256",
     "geom:latitude":32.736256,
     "geom:longitude":-103.167682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3221 NW County Rd",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202524305,
-    "wof:lastmodified":1449060086,
+    "wof:lastmodified":1466699261,
     "wof:name":"Pool Well Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-103.167682,32.736256,-103.167682,32.736256],
+  "bbox": [
+    -103.167682,
+    32.736256,
+    -103.167682,
+    32.736256
+],
   "geometry": {"coordinates":[-103.167682,32.736256],"type":"Point"}
 }

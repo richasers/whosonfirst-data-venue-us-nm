@@ -2,13 +2,14 @@
   "id": 202834051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.942572,35.684391,-105.942572,35.684391",
     "geom:latitude":35.684391,
     "geom:longitude":-105.942572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Montezuma Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202834051,
-    "wof:lastmodified":1449060353,
+    "wof:lastmodified":1466700121,
     "wof:name":"Santa Fe County Administrative",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.942572,35.684391,-105.942572,35.684391],
+  "bbox": [
+    -105.942572,
+    35.684391,
+    -105.942572,
+    35.684391
+],
   "geometry": {"coordinates":[-105.942572,35.684391],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186487815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.630791,35.157471,-106.630791,35.157471",
     "geom:latitude":35.157471,
     "geom:longitude":-106.630791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6910 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186487815,
-    "wof:lastmodified":1449051270,
+    "wof:lastmodified":1466700184,
     "wof:name":"Gumbys Cycle WERX",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "motor"
     ]
 },
-  "bbox": [-106.630791,35.157471,-106.630791,35.157471],
+  "bbox": [
+    -106.630791,
+    35.157471,
+    -106.630791,
+    35.157471
+],
   "geometry": {"coordinates":[-106.630791,35.157471],"type":"Point"}
 }

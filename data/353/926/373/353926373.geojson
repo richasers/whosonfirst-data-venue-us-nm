@@ -2,13 +2,14 @@
   "id": 353926373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.6296,35.03224,-106.6296,35.03224",
     "geom:latitude":35.03224,
     "geom:longitude":-106.6296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 University Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353926373,
-    "wof:lastmodified":1449019146,
+    "wof:lastmodified":1466697900,
     "wof:name":"University Of New Mexico",
     "wof:parent_id":85846885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "booking"
     ]
 },
-  "bbox": [-106.6296,35.03224,-106.6296,35.03224],
+  "bbox": [
+    -106.6296,
+    35.03224,
+    -106.6296,
+    35.03224
+],
   "geometry": {"coordinates":[-106.6296,35.03224],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202498727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.494925,35.097713,-106.494925,35.097713",
     "geom:latitude":35.097713,
     "geom:longitude":-106.494925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 Pablo Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202498727,
-    "wof:lastmodified":1449062042,
+    "wof:lastmodified":1466699107,
     "wof:name":"Mister Cool Inc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.494925,35.097713,-106.494925,35.097713],
-  "geometry": {"coordinates":[-106.494925,35.097713],"type":"Point"}
+  "bbox": [
+    -106.494925,
+    35.097713,
+    -106.494925,
+    35.097713
+],
+  "geometry": {"coordinates":[-106.49492499999999,35.097713],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185657147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.055583,34.519766,-103.055583,34.519766",
     "geom:latitude":34.519766,
     "geom:longitude":-103.055583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1790 State Rte 108",
     "sg:city":"Texico",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185657147,
-    "wof:lastmodified":1449006786,
+    "wof:lastmodified":1466698211,
     "wof:name":"Aero Farm Chemicals Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "applicator"
     ]
 },
-  "bbox": [-103.055583,34.519766,-103.055583,34.519766],
+  "bbox": [
+    -103.055583,
+    34.519766,
+    -103.055583,
+    34.519766
+],
   "geometry": {"coordinates":[-103.055583,34.519766],"type":"Point"}
 }

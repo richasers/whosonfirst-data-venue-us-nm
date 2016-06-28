@@ -2,13 +2,14 @@
   "id": 202720903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.716728,35.155034,-106.716728,35.155034",
     "geom:latitude":35.155034,
     "geom:longitude":-106.716728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6223 Whisper Ridge Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202720903,
-    "wof:lastmodified":1449060713,
+    "wof:lastmodified":1466699694,
     "wof:name":"Pamir Afghan Import Inc",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "durable"
     ]
 },
-  "bbox": [-106.716728,35.155034,-106.716728,35.155034],
+  "bbox": [
+    -106.716728,
+    35.155034,
+    -106.716728,
+    35.155034
+],
   "geometry": {"coordinates":[-106.716728,35.155034],"type":"Point"}
 }

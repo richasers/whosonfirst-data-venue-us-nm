@@ -2,13 +2,14 @@
   "id": 202845587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.243444,34.117029,-107.243444,34.117029",
     "geom:latitude":34.117029,
     "geom:longitude":-107.243444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 1st St",
     "sg:city":"Magdalena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202845587,
-    "wof:lastmodified":1449060514,
+    "wof:lastmodified":1466700155,
     "wof:name":"NDM Mercantile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-107.243444,34.117029,-107.243444,34.117029],
+  "bbox": [
+    -107.243444,
+    34.117029,
+    -107.243444,
+    34.117029
+],
   "geometry": {"coordinates":[-107.243444,34.117029],"type":"Point"}
 }

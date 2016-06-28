@@ -2,13 +2,14 @@
   "id": 202651671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.529953,35.096861,-106.529953,35.096861",
     "geom:latitude":35.096861,
     "geom:longitude":-106.529953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10428 Princess Jeanne Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202651671,
-    "wof:lastmodified":1449060610,
+    "wof:lastmodified":1466699160,
     "wof:name":"Incrowd Productions",
     "wof:parent_id":85871891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-106.529953,35.096861,-106.529953,35.096861],
-  "geometry": {"coordinates":[-106.529953,35.096861],"type":"Point"}
+  "bbox": [
+    -106.529953,
+    35.096861,
+    -106.529953,
+    35.096861
+],
+  "geometry": {"coordinates":[-106.52995300000001,35.096861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203067383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.623371,35.120837,-106.623371,35.120837",
     "geom:latitude":35.120837,
     "geom:longitude":-106.623371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Pan American Fwy",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":203067383,
-    "wof:lastmodified":1449025060,
+    "wof:lastmodified":1466698310,
     "wof:name":"Custom-Air Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.623371,35.120837,-106.623371,35.120837],
-  "geometry": {"coordinates":[-106.623371,35.120837],"type":"Point"}
+  "bbox": [
+    -106.623371,
+    35.120837,
+    -106.623371,
+    35.120837
+],
+  "geometry": {"coordinates":[-106.62337100000001,35.120837],"type":"Point"}
 }

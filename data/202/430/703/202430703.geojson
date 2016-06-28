@@ -2,13 +2,14 @@
   "id": 202430703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.628504,35.136746,-106.628504,35.136746",
     "geom:latitude":35.136746,
     "geom:longitude":-106.628504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Montano Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202430703,
-    "wof:lastmodified":1449061702,
+    "wof:lastmodified":1466698319,
     "wof:name":"Rainbo Bakery Store",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-106.628504,35.136746,-106.628504,35.136746],
-  "geometry": {"coordinates":[-106.628504,35.136746],"type":"Point"}
+  "bbox": [
+    -106.628504,
+    35.136746,
+    -106.628504,
+    35.136746
+],
+  "geometry": {"coordinates":[-106.62850400000001,35.136746],"type":"Point"}
 }

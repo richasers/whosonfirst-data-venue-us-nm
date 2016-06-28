@@ -2,13 +2,14 @@
   "id": 202959483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.041085,36.823761,-108.041085,36.823761",
     "geom:latitude":36.823761,
     "geom:longitude":-108.041085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rd 3133",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":202959483,
-    "wof:lastmodified":1449062395,
+    "wof:lastmodified":1466700603,
     "wof:name":"Aspen Cabinet Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-108.041085,36.823761,-108.041085,36.823761],
+  "bbox": [
+    -108.041085,
+    36.823761,
+    -108.041085,
+    36.823761
+],
   "geometry": {"coordinates":[-108.041085,36.823761],"type":"Point"}
 }

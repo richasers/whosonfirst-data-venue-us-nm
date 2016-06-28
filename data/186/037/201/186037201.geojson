@@ -2,13 +2,14 @@
   "id": 186037201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.518511,35.162521,-106.518511,35.162521",
     "geom:latitude":35.162521,
     "geom:longitude":-106.518511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10700 del Rey Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186037201,
-    "wof:lastmodified":1449053073,
+    "wof:lastmodified":1466698102,
     "wof:name":"Enchanted Vista Bed Breakfast",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-106.518511,35.162521,-106.518511,35.162521],
+  "bbox": [
+    -106.518511,
+    35.162521,
+    -106.518511,
+    35.162521
+],
   "geometry": {"coordinates":[-106.518511,35.162521],"type":"Point"}
 }

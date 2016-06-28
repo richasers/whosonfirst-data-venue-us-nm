@@ -2,13 +2,14 @@
   "id": 202792777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.492889,35.315037,-106.492889,35.315037",
     "geom:latitude":35.315037,
     "geom:longitude":-106.492889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Agua Sarca Rd",
     "sg:city":"Placitas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202792777,
-    "wof:lastmodified":1449060664,
+    "wof:lastmodified":1466700049,
     "wof:name":"Paradigm Health Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "medical"
     ]
 },
-  "bbox": [-106.492889,35.315037,-106.492889,35.315037],
-  "geometry": {"coordinates":[-106.492889,35.315037],"type":"Point"}
+  "bbox": [
+    -106.492889,
+    35.315037,
+    -106.492889,
+    35.315037
+],
+  "geometry": {"coordinates":[-106.49288900000001,35.315037],"type":"Point"}
 }

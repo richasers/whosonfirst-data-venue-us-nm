@@ -2,13 +2,14 @@
   "id": 186271027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.599063,35.116088,-106.599063,35.116088",
     "geom:latitude":35.116088,
     "geom:longitude":-106.599063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2924 Morningside Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":186271027,
-    "wof:lastmodified":1449051775,
+    "wof:lastmodified":1466698930,
     "wof:name":"Leesa Walters Lmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.599063,35.116088,-106.599063,35.116088],
+  "bbox": [
+    -106.599063,
+    35.116088,
+    -106.599063,
+    35.116088
+],
   "geometry": {"coordinates":[-106.599063,35.116088],"type":"Point"}
 }

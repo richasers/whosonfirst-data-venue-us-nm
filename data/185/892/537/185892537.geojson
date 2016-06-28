@@ -2,13 +2,14 @@
   "id": 185892537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.571694,35.103729,-106.571694,35.103729",
     "geom:latitude":35.103729,
     "geom:longitude":-106.571694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6400 Uptown Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185892537,
-    "wof:lastmodified":1449006844,
+    "wof:lastmodified":1466698439,
     "wof:name":"Paul A Bleicher",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.571694,35.103729,-106.571694,35.103729],
-  "geometry": {"coordinates":[-106.571694,35.103729],"type":"Point"}
+  "bbox": [
+    -106.571694,
+    35.103729,
+    -106.571694,
+    35.103729
+],
+  "geometry": {"coordinates":[-106.57169399999999,35.103729],"type":"Point"}
 }

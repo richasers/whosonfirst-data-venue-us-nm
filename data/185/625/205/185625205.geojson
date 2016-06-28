@@ -2,13 +2,14 @@
   "id": 185625205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.078136,35.938215,-106.078136,35.938215",
     "geom:latitude":35.938215,
     "geom:longitude":-106.078136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Co Rd 127",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185625205,
-    "wof:lastmodified":1449008239,
+    "wof:lastmodified":1466697870,
     "wof:name":"Mesilla Self Storage",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-106.078136,35.938215,-106.078136,35.938215],
+  "bbox": [
+    -106.078136,
+    35.938215,
+    -106.078136,
+    35.938215
+],
   "geometry": {"coordinates":[-106.078136,35.938215],"type":"Point"}
 }

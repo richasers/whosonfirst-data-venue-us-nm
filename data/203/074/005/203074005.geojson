@@ -2,13 +2,14 @@
   "id": 203074005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.946663,32.919343,-105.946663,32.919343",
     "geom:latitude":32.919343,
     "geom:longitude":-105.946663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 24th St",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203074005,
-    "wof:lastmodified":1449025968,
+    "wof:lastmodified":1466699421,
     "wof:name":"Kaleidoscope Cove",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "store"
     ]
 },
-  "bbox": [-105.946663,32.919343,-105.946663,32.919343],
+  "bbox": [
+    -105.946663,
+    32.919343,
+    -105.946663,
+    32.919343
+],
   "geometry": {"coordinates":[-105.946663,32.919343],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169708173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.354458,36.732554,-108.354458,36.732554",
     "geom:latitude":36.732554,
     "geom:longitude":-108.354458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Co Rd 6330",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":169708173,
-    "wof:lastmodified":1449033208,
+    "wof:lastmodified":1466697660,
     "wof:name":"Four Corners Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "equipment"
     ]
 },
-  "bbox": [-108.354458,36.732554,-108.354458,36.732554],
-  "geometry": {"coordinates":[-108.354458,36.732554],"type":"Point"}
+  "bbox": [
+    -108.354458,
+    36.732554,
+    -108.354458,
+    36.732554
+],
+  "geometry": {"coordinates":[-108.35445799999999,36.732554],"type":"Point"}
 }

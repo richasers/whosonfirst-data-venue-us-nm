@@ -2,13 +2,14 @@
   "id": 185931807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.13628,32.702729,-103.13628,32.702729",
     "geom:latitude":32.702729,
     "geom:longitude":-103.13628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 N Turner St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185931807,
-    "wof:lastmodified":1449008071,
+    "wof:lastmodified":1466698966,
     "wof:name":"Tidwell Motor Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-103.13628,32.702729,-103.13628,32.702729],
+  "bbox": [
+    -103.13628,
+    32.702729,
+    -103.13628,
+    32.702729
+],
   "geometry": {"coordinates":[-103.13628,32.702729],"type":"Point"}
 }

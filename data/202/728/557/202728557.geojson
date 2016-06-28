@@ -2,13 +2,14 @@
   "id": 202728557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.136348,36.774916,-108.136348,36.774916",
     "geom:latitude":36.774916,
     "geom:longitude":-108.136348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5602 Plaza Dr",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202728557,
-    "wof:lastmodified":1449060698,
+    "wof:lastmodified":1466699719,
     "wof:name":"Daylight Donuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-108.136348,36.774916,-108.136348,36.774916],
+  "bbox": [
+    -108.136348,
+    36.774916,
+    -108.136348,
+    36.774916
+],
   "geometry": {"coordinates":[-108.136348,36.774916],"type":"Point"}
 }

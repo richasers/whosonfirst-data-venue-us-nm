@@ -2,13 +2,14 @@
   "id": 186020539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.532996,35.145018,-106.532996,35.145018",
     "geom:latitude":35.145018,
     "geom:longitude":-106.532996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5510 Amigo Way NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186020539,
-    "wof:lastmodified":1449051634,
+    "wof:lastmodified":1466697915,
     "wof:name":"L&D Assciates Consulting Group",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-106.532996,35.145018,-106.532996,35.145018],
+  "bbox": [
+    -106.532996,
+    35.145018,
+    -106.532996,
+    35.145018
+],
   "geometry": {"coordinates":[-106.532996,35.145018],"type":"Point"}
 }

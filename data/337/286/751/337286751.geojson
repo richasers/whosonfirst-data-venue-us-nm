@@ -2,13 +2,14 @@
   "id": 337286751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.53319,35.090833,-106.53319,35.090833",
     "geom:latitude":35.090833,
     "geom:longitude":-106.53319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1138 Walker Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337286751,
-    "wof:lastmodified":1449027146,
+    "wof:lastmodified":1466697763,
     "wof:name":"SNM Entertainment",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-106.53319,35.090833,-106.53319,35.090833],
+  "bbox": [
+    -106.53319,
+    35.090833,
+    -106.53319,
+    35.090833
+],
   "geometry": {"coordinates":[-106.53319,35.090833],"type":"Point"}
 }

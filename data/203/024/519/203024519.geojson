@@ -2,13 +2,14 @@
   "id": 203024519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.582077,34.805525,-106.582077,34.805525",
     "geom:latitude":34.805525,
     "geom:longitude":-106.582077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Osage Dr",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203024519,
-    "wof:lastmodified":1449025828,
+    "wof:lastmodified":1466697864,
     "wof:name":"Hi Mesa Estates",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-106.582077,34.805525,-106.582077,34.805525],
+  "bbox": [
+    -106.582077,
+    34.805525,
+    -106.582077,
+    34.805525
+],
   "geometry": {"coordinates":[-106.582077,34.805525],"type":"Point"}
 }

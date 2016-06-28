@@ -2,13 +2,14 @@
   "id": 186435235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.221934,35.601065,-105.221934,35.601065",
     "geom:latitude":35.601065,
     "geom:longitude":-105.221934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 8th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186435235,
-    "wof:lastmodified":1449052771,
+    "wof:lastmodified":1466699985,
     "wof:name":"Rio Vista Ob/Gyn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-105.221934,35.601065,-105.221934,35.601065],
+  "bbox": [
+    -105.221934,
+    35.601065,
+    -105.221934,
+    35.601065
+],
   "geometry": {"coordinates":[-105.221934,35.601065],"type":"Point"}
 }

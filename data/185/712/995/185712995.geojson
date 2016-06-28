@@ -2,13 +2,14 @@
   "id": 185712995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.144972,32.745072,-103.144972,32.745072",
     "geom:latitude":32.745072,
     "geom:longitude":-103.144972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4128 N Grimes St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185712995,
-    "wof:lastmodified":1449007301,
+    "wof:lastmodified":1466698779,
     "wof:name":"Zia Storall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-103.144972,32.745072,-103.144972,32.745072],
+  "bbox": [
+    -103.144972,
+    32.745072,
+    -103.144972,
+    32.745072
+],
   "geometry": {"coordinates":[-103.144972,32.745072],"type":"Point"}
 }

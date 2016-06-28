@@ -2,13 +2,14 @@
   "id": 186150539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.563397,33.421294,-104.563397,33.421294",
     "geom:latitude":33.421294,
     "geom:longitude":-104.563397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2709 W 25th St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186150539,
-    "wof:lastmodified":1449050291,
+    "wof:lastmodified":1466699329,
     "wof:name":"G O Design & Ernest Ortega Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.563397,33.421294,-104.563397,33.421294],
-  "geometry": {"coordinates":[-104.563397,33.421294],"type":"Point"}
+  "bbox": [
+    -104.563397,
+    33.421294,
+    -104.563397,
+    33.421294
+],
+  "geometry": {"coordinates":[-104.56339699999999,33.421294],"type":"Point"}
 }

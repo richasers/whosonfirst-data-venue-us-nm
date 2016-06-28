@@ -2,13 +2,14 @@
   "id": 169783937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.701685,35.124925,-106.701685,35.124925",
     "geom:latitude":35.124925,
     "geom:longitude":-106.701685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Coors Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169783937,
-    "wof:lastmodified":1449032791,
+    "wof:lastmodified":1466698386,
     "wof:name":"Garcia Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.701685,35.124925,-106.701685,35.124925],
+  "bbox": [
+    -106.701685,
+    35.124925,
+    -106.701685,
+    35.124925
+],
   "geometry": {"coordinates":[-106.701685,35.124925],"type":"Point"}
 }

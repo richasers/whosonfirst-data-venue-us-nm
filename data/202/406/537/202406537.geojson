@@ -2,13 +2,14 @@
   "id": 202406537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649991,35.14018,-106.649991,35.14018",
     "geom:latitude":35.14018,
     "geom:longitude":-106.649991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 Guadalupe del Prado St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202406537,
-    "wof:lastmodified":1449061472,
+    "wof:lastmodified":1466698016,
     "wof:name":"Mainline West",
     "wof:parent_id":85892593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.649991,35.14018,-106.649991,35.14018],
+  "bbox": [
+    -106.649991,
+    35.14018,
+    -106.649991,
+    35.14018
+],
   "geometry": {"coordinates":[-106.649991,35.14018],"type":"Point"}
 }

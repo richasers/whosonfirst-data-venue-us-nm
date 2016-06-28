@@ -2,13 +2,14 @@
   "id": 202899219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.783376,32.30282,-106.783376,32.30282",
     "geom:latitude":32.30282,
     "geom:longitude":-106.783376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 el Molino Blvd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202899219,
-    "wof:lastmodified":1449062517,
+    "wof:lastmodified":1466700355,
     "wof:name":"Garland Loman Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "general"
     ]
 },
-  "bbox": [-106.783376,32.30282,-106.783376,32.30282],
+  "bbox": [
+    -106.783376,
+    32.30282,
+    -106.783376,
+    32.30282
+],
   "geometry": {"coordinates":[-106.783376,32.30282],"type":"Point"}
 }

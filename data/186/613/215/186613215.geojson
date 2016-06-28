@@ -2,13 +2,14 @@
   "id": 186613215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.507263,35.069413,-106.507263,35.069413",
     "geom:latitude":35.069413,
     "geom:longitude":-106.507263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12925 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186613215,
-    "wof:lastmodified":1449051627,
+    "wof:lastmodified":1466700672,
     "wof:name":"Style Hair & Nail",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-106.507263,35.069413,-106.507263,35.069413],
-  "geometry": {"coordinates":[-106.507263,35.069413],"type":"Point"}
+  "bbox": [
+    -106.507263,
+    35.069413,
+    -106.507263,
+    35.069413
+],
+  "geometry": {"coordinates":[-106.50726299999999,35.069413],"type":"Point"}
 }

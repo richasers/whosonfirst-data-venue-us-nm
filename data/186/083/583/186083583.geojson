@@ -2,13 +2,14 @@
   "id": 186083583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.490585,35.077493,-106.490585,35.077493",
     "geom:latitude":35.077493,
     "geom:longitude":-106.490585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14201 Sedrev Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186083583,
-    "wof:lastmodified":1449051653,
+    "wof:lastmodified":1466698685,
     "wof:name":"Alan B Magers",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-106.490585,35.077493,-106.490585,35.077493],
+  "bbox": [
+    -106.490585,
+    35.077493,
+    -106.490585,
+    35.077493
+],
   "geometry": {"coordinates":[-106.490585,35.077493],"type":"Point"}
 }

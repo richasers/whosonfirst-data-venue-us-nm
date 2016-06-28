@@ -2,13 +2,14 @@
   "id": 202622847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.228218,32.420248,-104.228218,32.420248",
     "geom:latitude":32.420248,
     "geom:longitude":-104.228218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 W Mermod St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202622847,
-    "wof:lastmodified":1449062207,
+    "wof:lastmodified":1466698721,
     "wof:name":"Stephen E Boatwright",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-104.228218,32.420248,-104.228218,32.420248],
+  "bbox": [
+    -104.228218,
+    32.420248,
+    -104.228218,
+    32.420248
+],
   "geometry": {"coordinates":[-104.228218,32.420248],"type":"Point"}
 }

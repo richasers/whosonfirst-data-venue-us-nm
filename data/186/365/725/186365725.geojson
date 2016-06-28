@@ -2,13 +2,14 @@
   "id": 186365725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.250318,34.949576,-106.250318,34.949576",
     "geom:latitude":34.949576,
     "geom:longitude":-106.250318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Brandy Ct",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186365725,
-    "wof:lastmodified":1449050842,
+    "wof:lastmodified":1466699725,
     "wof:name":"Falcon Industries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "replacement"
     ]
 },
-  "bbox": [-106.250318,34.949576,-106.250318,34.949576],
-  "geometry": {"coordinates":[-106.250318,34.949576],"type":"Point"}
+  "bbox": [
+    -106.250318,
+    34.949576,
+    -106.250318,
+    34.949576
+],
+  "geometry": {"coordinates":[-106.25031799999999,34.949576],"type":"Point"}
 }

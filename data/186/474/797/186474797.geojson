@@ -2,13 +2,14 @@
   "id": 186474797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.986814,36.828275,-107.986814,36.828275",
     "geom:latitude":36.828275,
     "geom:longitude":-107.986814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Aztec Blvd",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186474797,
-    "wof:lastmodified":1449050388,
+    "wof:lastmodified":1466700141,
     "wof:name":"Hiway Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "eating"
     ]
 },
-  "bbox": [-107.986814,36.828275,-107.986814,36.828275],
+  "bbox": [
+    -107.986814,
+    36.828275,
+    -107.986814,
+    36.828275
+],
   "geometry": {"coordinates":[-107.986814,36.828275],"type":"Point"}
 }

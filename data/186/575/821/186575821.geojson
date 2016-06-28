@@ -2,13 +2,14 @@
   "id": 186575821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.635559,35.123419,-106.635559,35.123419",
     "geom:latitude":35.123419,
     "geom:longitude":-106.635559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Industrial Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186575821,
-    "wof:lastmodified":1449051151,
+    "wof:lastmodified":1466700439,
     "wof:name":"Bluewater Pools Inc",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.635559,35.123419,-106.635559,35.123419],
+  "bbox": [
+    -106.635559,
+    35.123419,
+    -106.635559,
+    35.123419
+],
   "geometry": {"coordinates":[-106.635559,35.123419],"type":"Point"}
 }

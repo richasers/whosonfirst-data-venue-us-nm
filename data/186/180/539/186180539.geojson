@@ -2,13 +2,14 @@
   "id": 186180539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.688213,35.16437,-106.688213,35.16437",
     "geom:latitude":35.16437,
     "geom:longitude":-106.688213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7005 Portulaca Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186180539,
-    "wof:lastmodified":1449050382,
+    "wof:lastmodified":1466697773,
     "wof:name":"Beckman Robert Ghene",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.688213,35.16437,-106.688213,35.16437],
+  "bbox": [
+    -106.688213,
+    35.16437,
+    -106.688213,
+    35.16437
+],
   "geometry": {"coordinates":[-106.688213,35.16437],"type":"Point"}
 }

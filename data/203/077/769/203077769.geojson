@@ -2,13 +2,14 @@
   "id": 203077769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.541475,35.067754,-106.541475,35.067754",
     "geom:latitude":35.067754,
     "geom:longitude":-106.541475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Moon St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203077769,
-    "wof:lastmodified":1449025236,
+    "wof:lastmodified":1466698455,
     "wof:name":"Golden Sun",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.541475,35.067754,-106.541475,35.067754],
-  "geometry": {"coordinates":[-106.541475,35.067754],"type":"Point"}
+  "bbox": [
+    -106.541475,
+    35.067754,
+    -106.541475,
+    35.067754
+],
+  "geometry": {"coordinates":[-106.54147500000001,35.067754],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202706655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.92082,35.663099,-105.92082,35.663099",
     "geom:latitude":35.663099,
     "geom:longitude":-105.92082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3869 Old Santa Fe Trl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202706655,
-    "wof:lastmodified":1449060293,
+    "wof:lastmodified":1466699743,
     "wof:name":"Artemis Productions",
     "wof:parent_id":85880821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-105.92082,35.663099,-105.92082,35.663099],
-  "geometry": {"coordinates":[-105.92082,35.663099],"type":"Point"}
+  "bbox": [
+    -105.92082,
+    35.663099,
+    -105.92082,
+    35.663099
+],
+  "geometry": {"coordinates":[-105.92082000000001,35.663099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202939701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.153301,32.667463,-107.153301,32.667463",
     "geom:latitude":32.667463,
     "geom:longitude":-107.153301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 Franklin St",
     "sg:city":"Hatch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202939701,
-    "wof:lastmodified":1449060866,
+    "wof:lastmodified":1466700391,
     "wof:name":"Del Valle Bookkeeping",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-107.153301,32.667463,-107.153301,32.667463],
+  "bbox": [
+    -107.153301,
+    32.667463,
+    -107.153301,
+    32.667463
+],
   "geometry": {"coordinates":[-107.153301,32.667463],"type":"Point"}
 }

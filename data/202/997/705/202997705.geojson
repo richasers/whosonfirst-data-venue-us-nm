@@ -2,13 +2,14 @@
   "id": 202997705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.026202,35.724881,-106.026202,35.724881",
     "geom:latitude":35.724881,
     "geom:longitude":-106.026202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Pso de la Tierra",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202997705,
-    "wof:lastmodified":1449062221,
+    "wof:lastmodified":1466700763,
     "wof:name":"Niman Fine Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.026202,35.724881,-106.026202,35.724881],
+  "bbox": [
+    -106.026202,
+    35.724881,
+    -106.026202,
+    35.724881
+],
   "geometry": {"coordinates":[-106.026202,35.724881],"type":"Point"}
 }

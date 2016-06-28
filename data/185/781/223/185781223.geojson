@@ -2,13 +2,14 @@
   "id": 185781223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.528996,35.087192,-106.528996,35.087192",
     "geom:latitude":35.087192,
     "geom:longitude":-106.528996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10701 Lomas Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185781223,
-    "wof:lastmodified":1449006922,
+    "wof:lastmodified":1466699264,
     "wof:name":"High Desert Title Inc",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "title"
     ]
 },
-  "bbox": [-106.528996,35.087192,-106.528996,35.087192],
-  "geometry": {"coordinates":[-106.528996,35.087192],"type":"Point"}
+  "bbox": [
+    -106.528996,
+    35.087192,
+    -106.528996,
+    35.087192
+],
+  "geometry": {"coordinates":[-106.52899600000001,35.087192],"type":"Point"}
 }

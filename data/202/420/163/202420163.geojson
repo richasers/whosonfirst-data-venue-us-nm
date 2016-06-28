@@ -2,13 +2,14 @@
   "id": 202420163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.665224,35.146114,-106.665224,35.146114",
     "geom:latitude":35.146114,
     "geom:longitude":-106.665224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4920 Rio Grande Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202420163,
-    "wof:lastmodified":1449061345,
+    "wof:lastmodified":1466698196,
     "wof:name":"Anderson Valley Vineyards Inc",
     "wof:parent_id":85892593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.665224,35.146114,-106.665224,35.146114],
-  "geometry": {"coordinates":[-106.665224,35.146114],"type":"Point"}
+  "bbox": [
+    -106.665224,
+    35.146114,
+    -106.665224,
+    35.146114
+],
+  "geometry": {"coordinates":[-106.66522399999999,35.146114],"type":"Point"}
 }

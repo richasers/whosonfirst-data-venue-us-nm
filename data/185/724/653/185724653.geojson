@@ -2,13 +2,14 @@
   "id": 185724653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.533245,33.384581,-104.533245,33.384581",
     "geom:latitude":33.384581,
     "geom:longitude":-104.533245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"908 S Michigan Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185724653,
-    "wof:lastmodified":1449008152,
+    "wof:lastmodified":1466698897,
     "wof:name":"Professional Business Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-104.533245,33.384581,-104.533245,33.384581],
-  "geometry": {"coordinates":[-104.533245,33.384581],"type":"Point"}
+  "bbox": [
+    -104.533245,
+    33.384581,
+    -104.533245,
+    33.384581
+],
+  "geometry": {"coordinates":[-104.53324499999999,33.384581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169785615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.115205,32.718271,-103.115205,32.718271",
     "geom:latitude":32.718271,
     "geom:longitude":-103.115205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 N Grayson St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169785615,
-    "wof:lastmodified":1449035397,
+    "wof:lastmodified":1466698404,
     "wof:name":"Superior Building Mntnc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-103.115205,32.718271,-103.115205,32.718271],
+  "bbox": [
+    -103.115205,
+    32.718271,
+    -103.115205,
+    32.718271
+],
   "geometry": {"coordinates":[-103.115205,32.718271],"type":"Point"}
 }

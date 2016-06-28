@@ -2,13 +2,14 @@
   "id": 185973411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586329,35.106672,-106.586329,35.106672",
     "geom:latitude":35.106672,
     "geom:longitude":-106.586329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2414 San Mateo Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":185973411,
-    "wof:lastmodified":1449007576,
+    "wof:lastmodified":1466699576,
     "wof:name":"Renaissance Day Spa & Salon",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "day"
     ]
 },
-  "bbox": [-106.586329,35.106672,-106.586329,35.106672],
-  "geometry": {"coordinates":[-106.586329,35.106672],"type":"Point"}
+  "bbox": [
+    -106.586329,
+    35.106672,
+    -106.586329,
+    35.106672
+],
+  "geometry": {"coordinates":[-106.58632900000001,35.106672],"type":"Point"}
 }

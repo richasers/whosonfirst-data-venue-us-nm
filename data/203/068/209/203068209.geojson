@@ -2,13 +2,14 @@
   "id": 203068209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.509743,35.104957,-106.509743,35.104957",
     "geom:latitude":35.104957,
     "geom:longitude":-106.509743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12101 Brentwood Hills Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203068209,
-    "wof:lastmodified":1449025905,
+    "wof:lastmodified":1466698314,
     "wof:name":"Seams & Sew On",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "sewing"
     ]
 },
-  "bbox": [-106.509743,35.104957,-106.509743,35.104957],
+  "bbox": [
+    -106.509743,
+    35.104957,
+    -106.509743,
+    35.104957
+],
   "geometry": {"coordinates":[-106.509743,35.104957],"type":"Point"}
 }

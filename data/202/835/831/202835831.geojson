@@ -2,13 +2,14 @@
   "id": 202835831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.155955,36.759783,-108.155955,36.759783",
     "geom:latitude":36.759783,
     "geom:longitude":-108.155955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4250 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202835831,
-    "wof:lastmodified":1449060471,
+    "wof:lastmodified":1466700131,
     "wof:name":"Flower Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.155955,36.759783,-108.155955,36.759783],
-  "geometry": {"coordinates":[-108.155955,36.759783],"type":"Point"}
+  "bbox": [
+    -108.155955,
+    36.759783,
+    -108.155955,
+    36.759783
+],
+  "geometry": {"coordinates":[-108.15595500000001,36.759783],"type":"Point"}
 }

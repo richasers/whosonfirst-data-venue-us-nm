@@ -2,13 +2,14 @@
   "id": 185937215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.297136,35.896468,-106.297136,35.896468",
     "geom:latitude":35.896468,
     "geom:longitude":-106.297136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Loma Linda Dr",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185937215,
-    "wof:lastmodified":1449006929,
+    "wof:lastmodified":1466699039,
     "wof:name":"Adobe Pines Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-106.297136,35.896468,-106.297136,35.896468],
-  "geometry": {"coordinates":[-106.297136,35.896468],"type":"Point"}
+  "bbox": [
+    -106.297136,
+    35.896468,
+    -106.297136,
+    35.896468
+],
+  "geometry": {"coordinates":[-106.29713599999999,35.896468],"type":"Point"}
 }

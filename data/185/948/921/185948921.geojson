@@ -2,13 +2,14 @@
   "id": 185948921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.79792,32.315739,-106.79792,32.315739",
     "geom:latitude":32.315739,
     "geom:longitude":-106.79792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1062 N Valley Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185948921,
-    "wof:lastmodified":1449007892,
+    "wof:lastmodified":1466699199,
     "wof:name":"Consolidated Music & Vending",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "phonograph"
     ]
 },
-  "bbox": [-106.79792,32.315739,-106.79792,32.315739],
+  "bbox": [
+    -106.79792,
+    32.315739,
+    -106.79792,
+    32.315739
+],
   "geometry": {"coordinates":[-106.79792,32.315739],"type":"Point"}
 }

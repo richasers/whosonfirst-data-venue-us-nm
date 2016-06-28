@@ -2,13 +2,14 @@
   "id": 203084337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.967466,35.661092,-105.967466,35.661092",
     "geom:latitude":35.661092,
     "geom:longitude":-105.967466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 Espinacitas St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203084337,
-    "wof:lastmodified":1449025148,
+    "wof:lastmodified":1466698489,
     "wof:name":"Sangre De Cristo Family Church",
     "wof:parent_id":85880809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-105.967466,35.661092,-105.967466,35.661092],
+  "bbox": [
+    -105.967466,
+    35.661092,
+    -105.967466,
+    35.661092
+],
   "geometry": {"coordinates":[-105.967466,35.661092],"type":"Point"}
 }

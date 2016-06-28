@@ -2,13 +2,14 @@
   "id": 202926811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.782786,32.306182,-106.782786,32.306182",
     "geom:latitude":32.306182,
     "geom:longitude":-106.782786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 S Miranda St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202926811,
-    "wof:lastmodified":1449060989,
+    "wof:lastmodified":1466700453,
     "wof:name":"Jane L Grider",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hypnotherapy"
     ]
 },
-  "bbox": [-106.782786,32.306182,-106.782786,32.306182],
+  "bbox": [
+    -106.782786,
+    32.306182,
+    -106.782786,
+    32.306182
+],
   "geometry": {"coordinates":[-106.782786,32.306182],"type":"Point"}
 }

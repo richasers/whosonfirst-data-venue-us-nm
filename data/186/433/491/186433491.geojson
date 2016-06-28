@@ -2,13 +2,14 @@
   "id": 186433491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.1989,34.407799,-103.1989,34.407799",
     "geom:latitude":34.407799,
     "geom:longitude":-103.1989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Sheldon St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186433491,
-    "wof:lastmodified":1449050555,
+    "wof:lastmodified":1466699986,
     "wof:name":"Hans General Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-103.1989,34.407799,-103.1989,34.407799],
-  "geometry": {"coordinates":[-103.1989,34.407799],"type":"Point"}
+  "bbox": [
+    -103.1989,
+    34.407799,
+    -103.1989,
+    34.407799
+],
+  "geometry": {"coordinates":[-103.19889999999999,34.407799],"type":"Point"}
 }

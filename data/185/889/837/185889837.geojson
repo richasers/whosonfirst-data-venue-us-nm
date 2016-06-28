@@ -2,13 +2,14 @@
   "id": 185889837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.963047,32.943298,-105.963047,32.943298",
     "geom:latitude":32.943298,
     "geom:longitude":-105.963047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Goodyear Dr",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185889837,
-    "wof:lastmodified":1449006572,
+    "wof:lastmodified":1466698419,
     "wof:name":"Jeanette Hobbins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "church"
     ]
 },
-  "bbox": [-105.963047,32.943298,-105.963047,32.943298],
+  "bbox": [
+    -105.963047,
+    32.943298,
+    -105.963047,
+    32.943298
+],
   "geometry": {"coordinates":[-105.963047,32.943298],"type":"Point"}
 }

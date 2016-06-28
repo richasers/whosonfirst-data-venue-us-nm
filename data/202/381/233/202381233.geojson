@@ -2,13 +2,14 @@
   "id": 202381233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.785244,32.252047,-106.785244,32.252047",
     "geom:latitude":32.252047,
     "geom:longitude":-106.785244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 Valdes Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202381233,
-    "wof:lastmodified":1449060327,
+    "wof:lastmodified":1466697690,
     "wof:name":"Gale Insulation",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.785244,32.252047,-106.785244,32.252047],
-  "geometry": {"coordinates":[-106.785244,32.252047],"type":"Point"}
+  "bbox": [
+    -106.785244,
+    32.252047,
+    -106.785244,
+    32.252047
+],
+  "geometry": {"coordinates":[-106.78524400000001,32.252047],"type":"Point"}
 }

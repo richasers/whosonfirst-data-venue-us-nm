@@ -2,13 +2,14 @@
   "id": 186548399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.75898,32.274418,-106.75898,32.274418",
     "geom:latitude":32.274418,
     "geom:longitude":-106.75898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Ruby Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186548399,
-    "wof:lastmodified":1449052221,
+    "wof:lastmodified":1466700300,
     "wof:name":"Paradise Tours",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-106.75898,32.274418,-106.75898,32.274418],
-  "geometry": {"coordinates":[-106.75898,32.274418],"type":"Point"}
+  "bbox": [
+    -106.75898,
+    32.274418,
+    -106.75898,
+    32.274418
+],
+  "geometry": {"coordinates":[-106.75897999999999,32.274418],"type":"Point"}
 }

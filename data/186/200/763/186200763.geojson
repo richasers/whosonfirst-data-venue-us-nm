@@ -2,13 +2,14 @@
   "id": 186200763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.092836,35.58499,-106.092836,35.58499",
     "geom:latitude":35.58499,
     "geom:longitude":-106.092836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Lucerito Ct",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186200763,
-    "wof:lastmodified":1449051446,
+    "wof:lastmodified":1466698038,
     "wof:name":"Isles Plumbinbg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.092836,35.58499,-106.092836,35.58499],
-  "geometry": {"coordinates":[-106.092836,35.58499],"type":"Point"}
+  "bbox": [
+    -106.092836,
+    35.58499,
+    -106.092836,
+    35.58499
+],
+  "geometry": {"coordinates":[-106.09283600000001,35.58499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202419309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.508281,33.372856,-104.508281,33.372856",
     "geom:latitude":33.372856,
     "geom:longitude":-104.508281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 S Holland Dr",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202419309,
-    "wof:lastmodified":1449062585,
+    "wof:lastmodified":1466698186,
     "wof:name":"Barajas Lawn & Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-104.508281,33.372856,-104.508281,33.372856],
+  "bbox": [
+    -104.508281,
+    33.372856,
+    -104.508281,
+    33.372856
+],
   "geometry": {"coordinates":[-104.508281,33.372856],"type":"Point"}
 }

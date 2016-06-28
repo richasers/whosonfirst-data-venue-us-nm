@@ -2,13 +2,14 @@
   "id": 185802373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.994979,35.609485,-105.994979,35.609485",
     "geom:latitude":35.609485,
     "geom:longitude":-105.994979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Meador Ln",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185802373,
-    "wof:lastmodified":1449007926,
+    "wof:lastmodified":1466699351,
     "wof:name":"Del Corazon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sitting"
     ]
 },
-  "bbox": [-105.994979,35.609485,-105.994979,35.609485],
+  "bbox": [
+    -105.994979,
+    35.609485,
+    -105.994979,
+    35.609485
+],
   "geometry": {"coordinates":[-105.994979,35.609485],"type":"Point"}
 }

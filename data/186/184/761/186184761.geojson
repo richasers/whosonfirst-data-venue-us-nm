@@ -2,13 +2,14 @@
   "id": 186184761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.53254,35.067341,-106.53254,35.067341",
     "geom:latitude":35.067341,
     "geom:longitude":-106.53254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Eubank Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186184761,
-    "wof:lastmodified":1449050868,
+    "wof:lastmodified":1466697826,
     "wof:name":"Z Coil Footwear",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.53254,35.067341,-106.53254,35.067341],
+  "bbox": [
+    -106.53254,
+    35.067341,
+    -106.53254,
+    35.067341
+],
   "geometry": {"coordinates":[-106.53254,35.067341],"type":"Point"}
 }

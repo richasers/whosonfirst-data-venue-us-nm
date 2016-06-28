@@ -2,13 +2,14 @@
   "id": 203095235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.590922,35.166513,-106.590922,35.166513",
     "geom:latitude":35.166513,
     "geom:longitude":-106.590922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7600 Jefferson St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203095235,
-    "wof:lastmodified":1449025889,
+    "wof:lastmodified":1466698683,
     "wof:name":"Twisters Grill",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.590922,35.166513,-106.590922,35.166513],
-  "geometry": {"coordinates":[-106.590922,35.166513],"type":"Point"}
+  "bbox": [
+    -106.590922,
+    35.166513,
+    -106.590922,
+    35.166513
+],
+  "geometry": {"coordinates":[-106.59092200000001,35.166513],"type":"Point"}
 }

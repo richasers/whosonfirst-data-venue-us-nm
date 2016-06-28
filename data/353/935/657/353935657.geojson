@@ -2,13 +2,14 @@
   "id": 353935657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.60199,35.07944,-106.60199,35.07944",
     "geom:latitude":35.07944,
     "geom:longitude":-106.60199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3810A Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353935657,
-    "wof:lastmodified":1449020371,
+    "wof:lastmodified":1466698156,
     "wof:name":"Frame City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "consultant"
     ]
 },
-  "bbox": [-106.60199,35.07944,-106.60199,35.07944],
+  "bbox": [
+    -106.60199,
+    35.07944,
+    -106.60199,
+    35.07944
+],
   "geometry": {"coordinates":[-106.60199,35.07944],"type":"Point"}
 }

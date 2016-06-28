@@ -2,13 +2,14 @@
   "id": 202552575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.735889,34.800484,-106.735889,34.800484",
     "geom:latitude":34.800484,
     "geom:longitude":-106.735889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 Courthouse Rd SW",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202552575,
-    "wof:lastmodified":1449061174,
+    "wof:lastmodified":1466697678,
     "wof:name":"Hydrodynamics",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-106.735889,34.800484,-106.735889,34.800484],
+  "bbox": [
+    -106.735889,
+    34.800484,
+    -106.735889,
+    34.800484
+],
   "geometry": {"coordinates":[-106.735889,34.800484],"type":"Point"}
 }

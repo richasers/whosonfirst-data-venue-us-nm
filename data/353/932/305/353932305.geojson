@@ -2,13 +2,14 @@
   "id": 353932305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.644945,35.121312,-106.644945,35.121312",
     "geom:latitude":35.121312,
     "geom:longitude":-106.644945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 Veranda Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353932305,
-    "wof:lastmodified":1449019204,
+    "wof:lastmodified":1466698070,
     "wof:name":"USPS - United States Post Office - North Valley Finance",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-106.644945,35.121312,-106.644945,35.121312],
-  "geometry": {"coordinates":[-106.644945,35.121312],"type":"Point"}
+  "bbox": [
+    -106.644945,
+    35.121312,
+    -106.644945,
+    35.121312
+],
+  "geometry": {"coordinates":[-106.64494500000001,35.121312],"type":"Point"}
 }

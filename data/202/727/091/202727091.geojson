@@ -2,13 +2,14 @@
   "id": 202727091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.560759,31.810588,-106.560759,31.810588",
     "geom:latitude":31.810588,
     "geom:longitude":-106.560759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Sunland Park Dr",
     "sg:city":"Sunland Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202727091,
-    "wof:lastmodified":1449060485,
+    "wof:lastmodified":1466699580,
     "wof:name":"Mustang Fire Protection Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-106.560759,31.810588,-106.560759,31.810588],
+  "bbox": [
+    -106.560759,
+    31.810588,
+    -106.560759,
+    31.810588
+],
   "geometry": {"coordinates":[-106.560759,31.810588],"type":"Point"}
 }

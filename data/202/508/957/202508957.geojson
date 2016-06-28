@@ -2,13 +2,14 @@
   "id": 202508957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.11046,36.786183,-108.11046,36.786183",
     "geom:latitude":36.786183,
     "geom:longitude":-108.11046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7401 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202508957,
-    "wof:lastmodified":1449061530,
+    "wof:lastmodified":1466699202,
     "wof:name":"Evergreen Nurseries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-108.11046,36.786183,-108.11046,36.786183],
+  "bbox": [
+    -108.11046,
+    36.786183,
+    -108.11046,
+    36.786183
+],
   "geometry": {"coordinates":[-108.11046,36.786183],"type":"Point"}
 }

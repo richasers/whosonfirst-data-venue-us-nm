@@ -2,13 +2,14 @@
   "id": 186263429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.522939,35.132102,-106.522939,35.132102",
     "geom:latitude":35.132102,
     "geom:longitude":-106.522939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10501 Lagrima de Oro Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186263429,
-    "wof:lastmodified":1449052958,
+    "wof:lastmodified":1466698833,
     "wof:name":"Tricor Reference Laboratory",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-106.522939,35.132102,-106.522939,35.132102],
-  "geometry": {"coordinates":[-106.522939,35.132102],"type":"Point"}
+  "bbox": [
+    -106.522939,
+    35.132102,
+    -106.522939,
+    35.132102
+],
+  "geometry": {"coordinates":[-106.52293899999999,35.132102],"type":"Point"}
 }

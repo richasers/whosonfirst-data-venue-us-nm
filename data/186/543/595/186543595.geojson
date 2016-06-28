@@ -2,13 +2,14 @@
   "id": 186543595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.723378,32.31657,-106.723378,32.31657",
     "geom:latitude":32.31657,
     "geom:longitude":-106.723378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3705 Canyon Ridge Arc",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186543595,
-    "wof:lastmodified":1449050934,
+    "wof:lastmodified":1466700282,
     "wof:name":"Kistler Aerospace Corporation",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "reusable"
     ]
 },
-  "bbox": [-106.723378,32.31657,-106.723378,32.31657],
+  "bbox": [
+    -106.723378,
+    32.31657,
+    -106.723378,
+    32.31657
+],
   "geometry": {"coordinates":[-106.723378,32.31657],"type":"Point"}
 }

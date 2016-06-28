@@ -2,13 +2,14 @@
   "id": 202657947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.1864,36.733817,-108.1864,36.733817",
     "geom:latitude":36.733817,
     "geom:longitude":-108.1864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1785 San Juan Blvd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202657947,
-    "wof:lastmodified":1449060391,
+    "wof:lastmodified":1466699256,
     "wof:name":"Dr Tune Auto Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-108.1864,36.733817,-108.1864,36.733817],
-  "geometry": {"coordinates":[-108.1864,36.733817],"type":"Point"}
+  "bbox": [
+    -108.1864,
+    36.733817,
+    -108.1864,
+    36.733817
+],
+  "geometry": {"coordinates":[-108.18640000000001,36.733817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202527589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.509961,33.444845,-104.509961,33.444845",
     "geom:latitude":33.444845,
     "geom:longitude":-104.509961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Three Cross Dr",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202527589,
-    "wof:lastmodified":1449062144,
+    "wof:lastmodified":1466699280,
     "wof:name":"Robinson Cattle Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-104.509961,33.444845,-104.509961,33.444845],
+  "bbox": [
+    -104.509961,
+    33.444845,
+    -104.509961,
+    33.444845
+],
   "geometry": {"coordinates":[-104.509961,33.444845],"type":"Point"}
 }

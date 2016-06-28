@@ -2,13 +2,14 @@
   "id": 169790095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.537932,35.071336,-106.537932,35.071336",
     "geom:latitude":35.071336,
     "geom:longitude":-106.537932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10000 Cochiti Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169790095,
-    "wof:lastmodified":1449035187,
+    "wof:lastmodified":1466698486,
     "wof:name":"Trademasters Construction",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-106.537932,35.071336,-106.537932,35.071336],
+  "bbox": [
+    -106.537932,
+    35.071336,
+    -106.537932,
+    35.071336
+],
   "geometry": {"coordinates":[-106.537932,35.071336],"type":"Point"}
 }

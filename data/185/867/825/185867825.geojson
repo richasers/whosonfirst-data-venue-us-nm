@@ -2,13 +2,14 @@
   "id": 185867825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.664333,35.006276,-106.664333,35.006276",
     "geom:latitude":35.006276,
     "geom:longitude":-106.664333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Eastview Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185867825,
-    "wof:lastmodified":1449007306,
+    "wof:lastmodified":1466698191,
     "wof:name":"Mooney Inc",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.664333,35.006276,-106.664333,35.006276],
+  "bbox": [
+    -106.664333,
+    35.006276,
+    -106.664333,
+    35.006276
+],
   "geometry": {"coordinates":[-106.664333,35.006276],"type":"Point"}
 }

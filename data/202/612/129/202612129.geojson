@@ -2,13 +2,14 @@
   "id": 202612129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.15345,32.666789,-107.15345,32.666789",
     "geom:latitude":32.666789,
     "geom:longitude":-107.15345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Franklin St",
     "sg:city":"Hatch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202612129,
-    "wof:lastmodified":1449061243,
+    "wof:lastmodified":1466698548,
     "wof:name":"Pic Quik Stores Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.15345,32.666789,-107.15345,32.666789],
-  "geometry": {"coordinates":[-107.15345,32.666789],"type":"Point"}
+  "bbox": [
+    -107.15345,
+    32.666789,
+    -107.15345,
+    32.666789
+],
+  "geometry": {"coordinates":[-107.15345000000001,32.666789],"type":"Point"}
 }

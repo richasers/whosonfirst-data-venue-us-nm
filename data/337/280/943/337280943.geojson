@@ -2,13 +2,14 @@
   "id": 337280943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.138033,32.725319,-103.138033,32.725319",
     "geom:latitude":32.725319,
     "geom:longitude":-103.138033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2109 N Rojo Dr",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337280943,
-    "wof:lastmodified":1449027351,
+    "wof:lastmodified":1466697635,
     "wof:name":"Middleton Dental Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dental"
     ]
 },
-  "bbox": [-103.138033,32.725319,-103.138033,32.725319],
-  "geometry": {"coordinates":[-103.138033,32.725319],"type":"Point"}
+  "bbox": [
+    -103.138033,
+    32.725319,
+    -103.138033,
+    32.725319
+],
+  "geometry": {"coordinates":[-103.13803299999999,32.725319],"type":"Point"}
 }

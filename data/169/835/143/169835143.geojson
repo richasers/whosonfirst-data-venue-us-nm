@@ -2,13 +2,14 @@
   "id": 169835143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.032014,35.750826,-106.032014,35.750826",
     "geom:latitude":35.750826,
     "geom:longitude":-106.032014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Vuelta Susana",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169835143,
-    "wof:lastmodified":1449033162,
+    "wof:lastmodified":1466698831,
     "wof:name":"Hydroshield Of New Mexico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "tinting"
     ]
 },
-  "bbox": [-106.032014,35.750826,-106.032014,35.750826],
+  "bbox": [
+    -106.032014,
+    35.750826,
+    -106.032014,
+    35.750826
+],
   "geometry": {"coordinates":[-106.032014,35.750826],"type":"Point"}
 }

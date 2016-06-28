@@ -2,13 +2,14 @@
   "id": 186632839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.61243,35.170296,-106.61243,35.170296",
     "geom:latitude":35.170296,
     "geom:longitude":-106.61243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7901 Ranchitos Loop NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186632839,
-    "wof:lastmodified":1449052092,
+    "wof:lastmodified":1466700764,
     "wof:name":"All Seasons Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.61243,35.170296,-106.61243,35.170296],
+  "bbox": [
+    -106.61243,
+    35.170296,
+    -106.61243,
+    35.170296
+],
   "geometry": {"coordinates":[-106.61243,35.170296],"type":"Point"}
 }

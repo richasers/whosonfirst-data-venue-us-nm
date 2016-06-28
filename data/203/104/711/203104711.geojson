@@ -2,13 +2,14 @@
   "id": 203104711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.318545,35.883803,-106.318545,35.883803",
     "geom:latitude":35.883803,
     "geom:longitude":-106.318545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Diamond Dr",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203104711,
-    "wof:lastmodified":1449025708,
+    "wof:lastmodified":1466698785,
     "wof:name":"Ark Child Development Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.318545,35.883803,-106.318545,35.883803],
+  "bbox": [
+    -106.318545,
+    35.883803,
+    -106.318545,
+    35.883803
+],
   "geometry": {"coordinates":[-106.318545,35.883803],"type":"Point"}
 }

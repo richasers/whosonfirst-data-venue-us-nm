@@ -2,13 +2,14 @@
   "id": 186044819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550946,35.114153,-106.550946,35.114153",
     "geom:latitude":35.114153,
     "geom:longitude":-106.550946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2605 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186044819,
-    "wof:lastmodified":1449051767,
+    "wof:lastmodified":1466698184,
     "wof:name":"Asap Mortgage Inc",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-106.550946,35.114153,-106.550946,35.114153],
+  "bbox": [
+    -106.550946,
+    35.114153,
+    -106.550946,
+    35.114153
+],
   "geometry": {"coordinates":[-106.550946,35.114153],"type":"Point"}
 }

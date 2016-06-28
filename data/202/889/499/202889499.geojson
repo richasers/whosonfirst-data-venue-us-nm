@@ -2,13 +2,14 @@
   "id": 202889499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.706948,35.232733,-106.706948,35.232733",
     "geom:latitude":35.232733,
     "geom:longitude":-106.706948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1497 15th St SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202889499,
-    "wof:lastmodified":1449060062,
+    "wof:lastmodified":1466700298,
     "wof:name":"Earth To You",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.706948,35.232733,-106.706948,35.232733],
+  "bbox": [
+    -106.706948,
+    35.232733,
+    -106.706948,
+    35.232733
+],
   "geometry": {"coordinates":[-106.706948,35.232733],"type":"Point"}
 }

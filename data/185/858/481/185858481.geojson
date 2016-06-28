@@ -2,13 +2,14 @@
   "id": 185858481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.954687,35.684346,-105.954687,35.684346",
     "geom:latitude":35.684346,
     "geom:longitude":-105.954687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"838 Agua Fria St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185858481,
-    "wof:lastmodified":1449006773,
+    "wof:lastmodified":1466698099,
     "wof:name":"Andy's Liquorette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.954687,35.684346,-105.954687,35.684346],
-  "geometry": {"coordinates":[-105.954687,35.684346],"type":"Point"}
+  "bbox": [
+    -105.954687,
+    35.684346,
+    -105.954687,
+    35.684346
+],
+  "geometry": {"coordinates":[-105.95468700000001,35.684346],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202819661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.773697,32.295542,-106.773697,32.295542",
     "geom:latitude":32.295542,
     "geom:longitude":-106.773697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E Foster Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202819661,
-    "wof:lastmodified":1449060713,
+    "wof:lastmodified":1466699942,
     "wof:name":"Fort Bliss Federal CU",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.773697,32.295542,-106.773697,32.295542],
+  "bbox": [
+    -106.773697,
+    32.295542,
+    -106.773697,
+    32.295542
+],
   "geometry": {"coordinates":[-106.773697,32.295542],"type":"Point"}
 }

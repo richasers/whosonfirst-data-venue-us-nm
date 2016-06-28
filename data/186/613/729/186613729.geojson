@@ -2,13 +2,14 @@
   "id": 186613729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.214457,36.727899,-108.214457,36.727899",
     "geom:latitude":36.727899,
     "geom:longitude":-108.214457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 W Broadway",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186613729,
-    "wof:lastmodified":1449051626,
+    "wof:lastmodified":1466700674,
     "wof:name":"Farmington Heating & Metal Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.214457,36.727899,-108.214457,36.727899],
+  "bbox": [
+    -108.214457,
+    36.727899,
+    -108.214457,
+    36.727899
+],
   "geometry": {"coordinates":[-108.214457,36.727899],"type":"Point"}
 }

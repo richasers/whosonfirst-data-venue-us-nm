@@ -2,13 +2,14 @@
   "id": 353966259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.496715,35.186336,-106.496715,35.186336",
     "geom:latitude":35.186336,
     "geom:longitude":-106.496715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2873 Brushwood St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353966259,
-    "wof:lastmodified":1449018274,
+    "wof:lastmodified":1466698914,
     "wof:name":"Richards, James Dmv",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hospital"
     ]
 },
-  "bbox": [-106.496715,35.186336,-106.496715,35.186336],
-  "geometry": {"coordinates":[-106.496715,35.186336],"type":"Point"}
+  "bbox": [
+    -106.496715,
+    35.186336,
+    -106.496715,
+    35.186336
+],
+  "geometry": {"coordinates":[-106.49671499999999,35.186336],"type":"Point"}
 }

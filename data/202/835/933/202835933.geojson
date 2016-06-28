@@ -2,13 +2,14 @@
   "id": 202835933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.184256,32.800482,-108.184256,32.800482",
     "geom:latitude":32.800482,
     "geom:longitude":-108.184256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Elias Rd",
     "sg:city":"Arenas Valley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202835933,
-    "wof:lastmodified":1449060468,
+    "wof:lastmodified":1466700133,
     "wof:name":"Evatt Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.184256,32.800482,-108.184256,32.800482],
+  "bbox": [
+    -108.184256,
+    32.800482,
+    -108.184256,
+    32.800482
+],
   "geometry": {"coordinates":[-108.184256,32.800482],"type":"Point"}
 }

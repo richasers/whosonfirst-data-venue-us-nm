@@ -2,13 +2,14 @@
   "id": 186277029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.543794,35.113062,-106.543794,35.113062",
     "geom:latitude":35.113062,
     "geom:longitude":-106.543794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9010 Claremont Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186277029,
-    "wof:lastmodified":1449050553,
+    "wof:lastmodified":1466699018,
     "wof:name":"Dinelli Real Estate Services",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.543794,35.113062,-106.543794,35.113062],
-  "geometry": {"coordinates":[-106.543794,35.113062],"type":"Point"}
+  "bbox": [
+    -106.543794,
+    35.113062,
+    -106.543794,
+    35.113062
+],
+  "geometry": {"coordinates":[-106.54379400000001,35.113062],"type":"Point"}
 }

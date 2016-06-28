@@ -2,13 +2,14 @@
   "id": 185945557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.942552,32.924132,-105.942552,32.924132",
     "geom:latitude":32.924132,
     "geom:longitude":-105.942552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1503 Walnut Dr",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185945557,
-    "wof:lastmodified":1449006741,
+    "wof:lastmodified":1466699152,
     "wof:name":"Lone Wolf Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-105.942552,32.924132,-105.942552,32.924132],
-  "geometry": {"coordinates":[-105.942552,32.924132],"type":"Point"}
+  "bbox": [
+    -105.942552,
+    32.924132,
+    -105.942552,
+    32.924132
+],
+  "geometry": {"coordinates":[-105.94255200000001,32.924132],"type":"Point"}
 }

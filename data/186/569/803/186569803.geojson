@@ -2,13 +2,14 @@
   "id": 186569803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.631217,35.15227,-106.631217,35.15227",
     "geom:latitude":35.15227,
     "geom:longitude":-106.631217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Osuna Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186569803,
-    "wof:lastmodified":1449052935,
+    "wof:lastmodified":1466700543,
     "wof:name":"Quality Fountains-Donna Duran",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "display"
     ]
 },
-  "bbox": [-106.631217,35.15227,-106.631217,35.15227],
-  "geometry": {"coordinates":[-106.631217,35.15227],"type":"Point"}
+  "bbox": [
+    -106.631217,
+    35.15227,
+    -106.631217,
+    35.15227
+],
+  "geometry": {"coordinates":[-106.63121700000001,35.15227],"type":"Point"}
 }

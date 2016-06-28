@@ -2,13 +2,14 @@
   "id": 202915659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.525764,35.153832,-106.525764,35.153832",
     "geom:latitude":35.153832,
     "geom:longitude":-106.525764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10285 Las Casitas Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202915659,
-    "wof:lastmodified":1449062607,
+    "wof:lastmodified":1466700417,
     "wof:name":"Studio Cheetah",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-106.525764,35.153832,-106.525764,35.153832],
+  "bbox": [
+    -106.525764,
+    35.153832,
+    -106.525764,
+    35.153832
+],
   "geometry": {"coordinates":[-106.525764,35.153832],"type":"Point"}
 }

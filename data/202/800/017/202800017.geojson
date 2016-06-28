@@ -2,13 +2,14 @@
   "id": 202800017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.395747,32.782938,-104.395747,32.782938",
     "geom:latitude":32.782938,
     "geom:longitude":-104.395747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6487 Seven Rivers Hwy",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202800017,
-    "wof:lastmodified":1449060313,
+    "wof:lastmodified":1466699853,
     "wof:name":"Robbs Trailers",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "utility"
     ]
 },
-  "bbox": [-104.395747,32.782938,-104.395747,32.782938],
+  "bbox": [
+    -104.395747,
+    32.782938,
+    -104.395747,
+    32.782938
+],
   "geometry": {"coordinates":[-104.395747,32.782938],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169800931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.55082,35.108912,-106.55082,35.108912",
     "geom:latitude":35.108912,
     "geom:longitude":-106.55082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2240 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169800931,
-    "wof:lastmodified":1449032941,
+    "wof:lastmodified":1466698599,
     "wof:name":"Sewing Studio",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewing"
     ]
 },
-  "bbox": [-106.55082,35.108912,-106.55082,35.108912],
+  "bbox": [
+    -106.55082,
+    35.108912,
+    -106.55082,
+    35.108912
+],
   "geometry": {"coordinates":[-106.55082,35.108912],"type":"Point"}
 }

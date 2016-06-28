@@ -2,13 +2,14 @@
   "id": 203142875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.557675,35.298081,-106.557675,35.298081",
     "geom:latitude":35.298081,
     "geom:longitude":-106.557675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Cll Industrial",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203142875,
-    "wof:lastmodified":1449026455,
+    "wof:lastmodified":1466699112,
     "wof:name":"Valley Proteins Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "company"
     ]
 },
-  "bbox": [-106.557675,35.298081,-106.557675,35.298081],
+  "bbox": [
+    -106.557675,
+    35.298081,
+    -106.557675,
+    35.298081
+],
   "geometry": {"coordinates":[-106.557675,35.298081],"type":"Point"}
 }

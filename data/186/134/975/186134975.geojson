@@ -2,13 +2,14 @@
   "id": 186134975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.731346,35.242565,-106.731346,35.242565",
     "geom:latitude":35.242565,
     "geom:longitude":-106.731346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"967 el Morro Dr SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186134975,
-    "wof:lastmodified":1449052887,
+    "wof:lastmodified":1466699189,
     "wof:name":"First Response Emergency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "program"
     ]
 },
-  "bbox": [-106.731346,35.242565,-106.731346,35.242565],
+  "bbox": [
+    -106.731346,
+    35.242565,
+    -106.731346,
+    35.242565
+],
   "geometry": {"coordinates":[-106.731346,35.242565],"type":"Point"}
 }

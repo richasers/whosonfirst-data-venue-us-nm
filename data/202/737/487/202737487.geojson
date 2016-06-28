@@ -2,13 +2,14 @@
   "id": 202737487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.592339,35.041837,-103.592339,35.041837",
     "geom:latitude":35.041837,
     "geom:longitude":-103.592339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2348 State Hwy 278",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202737487,
-    "wof:lastmodified":1449060684,
+    "wof:lastmodified":1466699735,
     "wof:name":"Ayler Land Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "conservation"
     ]
 },
-  "bbox": [-103.592339,35.041837,-103.592339,35.041837],
+  "bbox": [
+    -103.592339,
+    35.041837,
+    -103.592339,
+    35.041837
+],
   "geometry": {"coordinates":[-103.592339,35.041837],"type":"Point"}
 }

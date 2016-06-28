@@ -2,13 +2,14 @@
   "id": 186431683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.651454,35.084468,-106.651454,35.084468",
     "geom:latitude":35.084468,
     "geom:longitude":-106.651454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Central Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186431683,
-    "wof:lastmodified":1449050693,
+    "wof:lastmodified":1466699857,
     "wof:name":"Bates Lumber Co",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sawmill"
     ]
 },
-  "bbox": [-106.651454,35.084468,-106.651454,35.084468],
+  "bbox": [
+    -106.651454,
+    35.084468,
+    -106.651454,
+    35.084468
+],
   "geometry": {"coordinates":[-106.651454,35.084468],"type":"Point"}
 }

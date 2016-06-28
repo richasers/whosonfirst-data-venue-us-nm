@@ -2,13 +2,14 @@
   "id": 186457029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.144717,32.727743,-103.144717,32.727743",
     "geom:latitude":32.727743,
     "geom:longitude":-103.144717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 N Grimes St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":186457029,
-    "wof:lastmodified":1449052168,
+    "wof:lastmodified":1466699968,
     "wof:name":"George Gandy Insurance Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-103.144717,32.727743,-103.144717,32.727743],
+  "bbox": [
+    -103.144717,
+    32.727743,
+    -103.144717,
+    32.727743
+],
   "geometry": {"coordinates":[-103.144717,32.727743],"type":"Point"}
 }

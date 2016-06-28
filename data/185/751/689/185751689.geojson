@@ -2,13 +2,14 @@
   "id": 185751689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.927332,35.757445,-105.927332,35.757445",
     "geom:latitude":35.757445,
     "geom:longitude":-105.927332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1508 Bishops Lodge Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185751689,
-    "wof:lastmodified":1449006679,
+    "wof:lastmodified":1466699160,
     "wof:name":"Shidoni Arts",
     "wof:parent_id":85880787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.927332,35.757445,-105.927332,35.757445],
-  "geometry": {"coordinates":[-105.927332,35.757445],"type":"Point"}
+  "bbox": [
+    -105.927332,
+    35.757445,
+    -105.927332,
+    35.757445
+],
+  "geometry": {"coordinates":[-105.92733200000001,35.757445],"type":"Point"}
 }

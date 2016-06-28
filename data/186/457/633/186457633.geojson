@@ -2,13 +2,14 @@
   "id": 186457633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.317671,34.204086,-103.317671,34.204086",
     "geom:latitude":34.204086,
     "geom:longitude":-103.317671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 New Mexico 467",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186457633,
-    "wof:lastmodified":1449052173,
+    "wof:lastmodified":1466700068,
     "wof:name":"Better Living Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.317671,34.204086,-103.317671,34.204086],
+  "bbox": [
+    -103.317671,
+    34.204086,
+    -103.317671,
+    34.204086
+],
   "geometry": {"coordinates":[-103.317671,34.204086],"type":"Point"}
 }

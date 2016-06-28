@@ -2,13 +2,14 @@
   "id": 186324631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.633688,35.118724,-106.633688,35.118724",
     "geom:latitude":35.118724,
     "geom:longitude":-106.633688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Pope Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186324631,
-    "wof:lastmodified":1449051938,
+    "wof:lastmodified":1466699701,
     "wof:name":"Mesa Landscape & Design",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.633688,35.118724,-106.633688,35.118724],
-  "geometry": {"coordinates":[-106.633688,35.118724],"type":"Point"}
+  "bbox": [
+    -106.633688,
+    35.118724,
+    -106.633688,
+    35.118724
+],
+  "geometry": {"coordinates":[-106.63368800000001,35.118724],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186419127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.671837,35.274257,-106.671837,35.274257",
     "geom:latitude":35.274257,
     "geom:longitude":-106.671837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3196 Northern Blvd NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186419127,
-    "wof:lastmodified":1449052985,
+    "wof:lastmodified":1466699912,
     "wof:name":"Affordable Flooring LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rug"
     ]
 },
-  "bbox": [-106.671837,35.274257,-106.671837,35.274257],
+  "bbox": [
+    -106.671837,
+    35.274257,
+    -106.671837,
+    35.274257
+],
   "geometry": {"coordinates":[-106.671837,35.274257],"type":"Point"}
 }

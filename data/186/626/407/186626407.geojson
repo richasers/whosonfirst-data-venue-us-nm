@@ -2,13 +2,14 @@
   "id": 186626407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.139401,32.681419,-103.139401,32.681419",
     "geom:latitude":32.681419,
     "geom:longitude":-103.139401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Sally Ln",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186626407,
-    "wof:lastmodified":1449053032,
+    "wof:lastmodified":1466700740,
     "wof:name":"V & W Village Mobile Home Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "site"
     ]
 },
-  "bbox": [-103.139401,32.681419,-103.139401,32.681419],
-  "geometry": {"coordinates":[-103.139401,32.681419],"type":"Point"}
+  "bbox": [
+    -103.139401,
+    32.681419,
+    -103.139401,
+    32.681419
+],
+  "geometry": {"coordinates":[-103.13940100000001,32.681419],"type":"Point"}
 }

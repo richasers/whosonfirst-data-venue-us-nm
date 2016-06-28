@@ -2,13 +2,14 @@
   "id": 202492093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649595,32.098818,-106.649595,32.098818",
     "geom:latitude":32.098818,
     "geom:longitude":-106.649595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"685 Polamino Rd",
     "sg:city":"Vado",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202492093,
-    "wof:lastmodified":1449060108,
+    "wof:lastmodified":1466699075,
     "wof:name":"Tibbs Saddle & Tack Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "saddle"
     ]
 },
-  "bbox": [-106.649595,32.098818,-106.649595,32.098818],
-  "geometry": {"coordinates":[-106.649595,32.098818],"type":"Point"}
+  "bbox": [
+    -106.649595,
+    32.098818,
+    -106.649595,
+    32.098818
+],
+  "geometry": {"coordinates":[-106.64959500000001,32.098818],"type":"Point"}
 }

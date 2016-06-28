@@ -2,13 +2,14 @@
   "id": 186048037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.51893,33.379729,-104.51893,33.379729",
     "geom:latitude":33.379729,
     "geom:longitude":-104.51893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 E McGaffey St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186048037,
-    "wof:lastmodified":1449051332,
+    "wof:lastmodified":1466699414,
     "wof:name":"Popo's Mexican Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.51893,33.379729,-104.51893,33.379729],
+  "bbox": [
+    -104.51893,
+    33.379729,
+    -104.51893,
+    33.379729
+],
   "geometry": {"coordinates":[-104.51893,33.379729],"type":"Point"}
 }

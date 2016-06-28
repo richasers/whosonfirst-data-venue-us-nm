@@ -2,13 +2,14 @@
   "id": 202601479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.537347,35.13112,-106.537347,35.13112",
     "geom:latitude":35.13112,
     "geom:longitude":-106.537347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9416 Las Calabazillas Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202601479,
-    "wof:lastmodified":1449061257,
+    "wof:lastmodified":1466698398,
     "wof:name":"Ev & S Productions",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bureau"
     ]
 },
-  "bbox": [-106.537347,35.13112,-106.537347,35.13112],
+  "bbox": [
+    -106.537347,
+    35.13112,
+    -106.537347,
+    35.13112
+],
   "geometry": {"coordinates":[-106.537347,35.13112],"type":"Point"}
 }

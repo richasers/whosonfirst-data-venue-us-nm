@@ -2,13 +2,14 @@
   "id": 202918123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.134835,32.700723,-103.134835,32.700723",
     "geom:latitude":32.700723,
     "geom:longitude":-103.134835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 E Broadway St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202918123,
-    "wof:lastmodified":1449061808,
+    "wof:lastmodified":1466700294,
     "wof:name":"R & R Trophy Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "award"
     ]
 },
-  "bbox": [-103.134835,32.700723,-103.134835,32.700723],
+  "bbox": [
+    -103.134835,
+    32.700723,
+    -103.134835,
+    32.700723
+],
   "geometry": {"coordinates":[-103.134835,32.700723],"type":"Point"}
 }

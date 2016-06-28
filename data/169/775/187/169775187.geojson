@@ -2,13 +2,14 @@
   "id": 169775187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.07639,35.019429,-106.07639,35.019429",
     "geom:latitude":35.019429,
     "geom:longitude":-106.07639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 McCall Ln",
     "sg:city":"Moriarty",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169775187,
-    "wof:lastmodified":1449035117,
+    "wof:lastmodified":1466698307,
     "wof:name":"Mc Call Pumpkin Patch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.07639,35.019429,-106.07639,35.019429],
+  "bbox": [
+    -106.07639,
+    35.019429,
+    -106.07639,
+    35.019429
+],
   "geometry": {"coordinates":[-106.07639,35.019429],"type":"Point"}
 }

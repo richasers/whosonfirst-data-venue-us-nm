@@ -2,13 +2,14 @@
   "id": 169836229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.985921,36.703443,-107.985921,36.703443",
     "geom:latitude":36.703443,
     "geom:longitude":-107.985921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"924 S Bloomfield Blvd",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169836229,
-    "wof:lastmodified":1449034871,
+    "wof:lastmodified":1466698842,
     "wof:name":"Charlie Y Brown Secondary Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.985921,36.703443,-107.985921,36.703443],
+  "bbox": [
+    -107.985921,
+    36.703443,
+    -107.985921,
+    36.703443
+],
   "geometry": {"coordinates":[-107.985921,36.703443],"type":"Point"}
 }

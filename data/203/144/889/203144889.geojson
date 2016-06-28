@@ -2,13 +2,14 @@
   "id": 203144889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.349907,32.951152,-103.349907,32.951152",
     "geom:latitude":32.951152,
     "geom:longitude":-103.349907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 N 1st St",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203144889,
-    "wof:lastmodified":1449026359,
+    "wof:lastmodified":1466699126,
     "wof:name":"Heidel Samberson Newell & Cox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-103.349907,32.951152,-103.349907,32.951152],
+  "bbox": [
+    -103.349907,
+    32.951152,
+    -103.349907,
+    32.951152
+],
   "geometry": {"coordinates":[-103.349907,32.951152],"type":"Point"}
 }

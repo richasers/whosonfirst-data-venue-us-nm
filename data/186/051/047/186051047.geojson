@@ -2,13 +2,14 @@
   "id": 186051047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.722153,35.177929,-103.722153,35.177929",
     "geom:latitude":35.177929,
     "geom:longitude":-103.722153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 E Center St",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186051047,
-    "wof:lastmodified":1449052024,
+    "wof:lastmodified":1466698259,
     "wof:name":"Center Street United Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-103.722153,35.177929,-103.722153,35.177929],
-  "geometry": {"coordinates":[-103.722153,35.177929],"type":"Point"}
+  "bbox": [
+    -103.722153,
+    35.177929,
+    -103.722153,
+    35.177929
+],
+  "geometry": {"coordinates":[-103.72215300000001,35.177929],"type":"Point"}
 }

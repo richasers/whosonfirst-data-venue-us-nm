@@ -2,13 +2,14 @@
   "id": 186091327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.573893,36.407324,-105.573893,36.407324",
     "geom:latitude":36.407324,
     "geom:longitude":-105.573893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Juan Largo Ln",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186091327,
-    "wof:lastmodified":1449050505,
+    "wof:lastmodified":1466698780,
     "wof:name":"Taos Fleece Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "made"
     ]
 },
-  "bbox": [-105.573893,36.407324,-105.573893,36.407324],
+  "bbox": [
+    -105.573893,
+    36.407324,
+    -105.573893,
+    36.407324
+],
   "geometry": {"coordinates":[-105.573893,36.407324],"type":"Point"}
 }

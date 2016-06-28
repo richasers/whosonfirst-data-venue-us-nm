@@ -2,13 +2,14 @@
   "id": 186043231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.020814,36.825959,-108.020814,36.825959",
     "geom:latitude":36.825959,
     "geom:longitude":-108.020814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 S Oliver Dr",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186043231,
-    "wof:lastmodified":1449052350,
+    "wof:lastmodified":1466698166,
     "wof:name":"Building Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.020814,36.825959,-108.020814,36.825959],
+  "bbox": [
+    -108.020814,
+    36.825959,
+    -108.020814,
+    36.825959
+],
   "geometry": {"coordinates":[-108.020814,36.825959],"type":"Point"}
 }

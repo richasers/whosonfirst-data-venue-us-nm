@@ -2,13 +2,14 @@
   "id": 202459319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.603063,35.240288,-106.603063,35.240288",
     "geom:latitude":35.240288,
     "geom:longitude":-106.603063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5768 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202459319,
-    "wof:lastmodified":1449061143,
+    "wof:lastmodified":1466698610,
     "wof:name":"William S Perkins Asla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "landscape"
     ]
 },
-  "bbox": [-106.603063,35.240288,-106.603063,35.240288],
-  "geometry": {"coordinates":[-106.603063,35.240288],"type":"Point"}
+  "bbox": [
+    -106.603063,
+    35.240288,
+    -106.603063,
+    35.240288
+],
+  "geometry": {"coordinates":[-106.60306300000001,35.240288],"type":"Point"}
 }

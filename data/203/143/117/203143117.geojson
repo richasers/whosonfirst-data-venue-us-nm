@@ -2,13 +2,14 @@
   "id": 203143117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.754444,35.04608,-106.754444,35.04608",
     "geom:latitude":35.04608,
     "geom:longitude":-106.754444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11101 Pecos Pl SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203143117,
-    "wof:lastmodified":1449026524,
+    "wof:lastmodified":1466699102,
     "wof:name":"Rosa Vila",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.754444,35.04608,-106.754444,35.04608],
-  "geometry": {"coordinates":[-106.754444,35.04608],"type":"Point"}
+  "bbox": [
+    -106.754444,
+    35.04608,
+    -106.754444,
+    35.04608
+],
+  "geometry": {"coordinates":[-106.75444400000001,35.04608],"type":"Point"}
 }

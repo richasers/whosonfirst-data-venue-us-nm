@@ -2,13 +2,14 @@
   "id": 186101799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.917365,35.596277,-105.917365,35.596277",
     "geom:latitude":35.596277,
     "geom:longitude":-105.917365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Cam Pacifico",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186101799,
-    "wof:lastmodified":1449051787,
+    "wof:lastmodified":1466698938,
     "wof:name":"Steve Rush Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.917365,35.596277,-105.917365,35.596277],
+  "bbox": [
+    -105.917365,
+    35.596277,
+    -105.917365,
+    35.596277
+],
   "geometry": {"coordinates":[-105.917365,35.596277],"type":"Point"}
 }

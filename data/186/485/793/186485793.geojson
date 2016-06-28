@@ -2,13 +2,14 @@
   "id": 186485793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.280867,32.423494,-104.280867,32.423494",
     "geom:latitude":32.423494,
     "geom:longitude":-104.280867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4103 Harmon Ln",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":186485793,
-    "wof:lastmodified":1449051997,
+    "wof:lastmodified":1466700181,
     "wof:name":"Round 1 Flight Trainers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "facility"
     ]
 },
-  "bbox": [-104.280867,32.423494,-104.280867,32.423494],
+  "bbox": [
+    -104.280867,
+    32.423494,
+    -104.280867,
+    32.423494
+],
   "geometry": {"coordinates":[-104.280867,32.423494],"type":"Point"}
 }

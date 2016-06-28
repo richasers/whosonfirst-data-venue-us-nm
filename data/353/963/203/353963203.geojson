@@ -2,13 +2,14 @@
   "id": 353963203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.687853,35.176859,-106.687853,35.176859",
     "geom:latitude":35.176859,
     "geom:longitude":-106.687853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8201 Golf Course Rd NW # C3",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353963203,
-    "wof:lastmodified":1449018504,
+    "wof:lastmodified":1466698832,
     "wof:name":"Spencer Tasker Pediatric Denistry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "oral"
     ]
 },
-  "bbox": [-106.687853,35.176859,-106.687853,35.176859],
+  "bbox": [
+    -106.687853,
+    35.176859,
+    -106.687853,
+    35.176859
+],
   "geometry": {"coordinates":[-106.687853,35.176859],"type":"Point"}
 }

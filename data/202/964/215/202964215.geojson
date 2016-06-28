@@ -2,13 +2,14 @@
   "id": 202964215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.803963,32.305493,-106.803963,32.305493",
     "geom:latitude":32.305493,
     "geom:longitude":-106.803963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 N 17th St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202964215,
-    "wof:lastmodified":1449062029,
+    "wof:lastmodified":1466700620,
     "wof:name":"W Kowalski Territorial Cabinet",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-106.803963,32.305493,-106.803963,32.305493],
+  "bbox": [
+    -106.803963,
+    32.305493,
+    -106.803963,
+    32.305493
+],
   "geometry": {"coordinates":[-106.803963,32.305493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353926685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.609294,35.079071,-106.609294,35.079071",
     "geom:latitude":35.079071,
     "geom:longitude":-106.609294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3219 Silver Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353926685,
-    "wof:lastmodified":1449019146,
+    "wof:lastmodified":1466697909,
     "wof:name":"Hair Addiction",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "stylist"
     ]
 },
-  "bbox": [-106.609294,35.079071,-106.609294,35.079071],
-  "geometry": {"coordinates":[-106.609294,35.079071],"type":"Point"}
+  "bbox": [
+    -106.609294,
+    35.079071,
+    -106.609294,
+    35.079071
+],
+  "geometry": {"coordinates":[-106.60929400000001,35.079071],"type":"Point"}
 }

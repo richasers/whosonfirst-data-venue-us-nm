@@ -2,13 +2,14 @@
   "id": 202691383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.944096,35.666648,-105.944096,35.666648",
     "geom:latitude":35.666648,
     "geom:longitude":-105.944096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 Don Gaspar Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202691383,
-    "wof:lastmodified":1449060327,
+    "wof:lastmodified":1466699709,
     "wof:name":"Creative Project Management",
     "wof:parent_id":85880837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-105.944096,35.666648,-105.944096,35.666648],
+  "bbox": [
+    -105.944096,
+    35.666648,
+    -105.944096,
+    35.666648
+],
   "geometry": {"coordinates":[-105.944096,35.666648],"type":"Point"}
 }

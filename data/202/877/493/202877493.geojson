@@ -2,13 +2,14 @@
   "id": 202877493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.159383,36.719213,-108.159383,36.719213",
     "geom:latitude":36.719213,
     "geom:longitude":-108.159383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Bloomfield Hwy",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202877493,
-    "wof:lastmodified":1449061879,
+    "wof:lastmodified":1466700156,
     "wof:name":"Cooper Energy Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-108.159383,36.719213,-108.159383,36.719213],
-  "geometry": {"coordinates":[-108.159383,36.719213],"type":"Point"}
+  "bbox": [
+    -108.159383,
+    36.719213,
+    -108.159383,
+    36.719213
+],
+  "geometry": {"coordinates":[-108.15938300000001,36.719213],"type":"Point"}
 }

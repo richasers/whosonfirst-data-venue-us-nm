@@ -2,13 +2,14 @@
   "id": 185793663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.60093,35.147146,-106.60093,35.147146",
     "geom:latitude":35.147146,
     "geom:longitude":-106.60093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5900 Office Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185793663,
-    "wof:lastmodified":1449007500,
+    "wof:lastmodified":1466699319,
     "wof:name":"PARTS Plus",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-106.60093,35.147146,-106.60093,35.147146],
-  "geometry": {"coordinates":[-106.60093,35.147146],"type":"Point"}
+  "bbox": [
+    -106.60093,
+    35.147146,
+    -106.60093,
+    35.147146
+],
+  "geometry": {"coordinates":[-106.60093000000001,35.147146],"type":"Point"}
 }

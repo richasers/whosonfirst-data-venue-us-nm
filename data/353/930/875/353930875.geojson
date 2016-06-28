@@ -2,13 +2,14 @@
   "id": 353930875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.648514,35.11121,-106.648514,35.11121",
     "geom:latitude":35.11121,
     "geom:longitude":-106.648514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Menaul Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -79,10 +80,11 @@
         }
     ],
     "wof:id":353930875,
-    "wof:lastmodified":1449019079,
+    "wof:lastmodified":1466698029,
     "wof:name":"Kelly Crafts Inc",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -96,6 +98,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-106.648514,35.11121,-106.648514,35.11121],
-  "geometry": {"coordinates":[-106.648514,35.11121],"type":"Point"}
+  "bbox": [
+    -106.648514,
+    35.11121,
+    -106.648514,
+    35.11121
+],
+  "geometry": {"coordinates":[-106.64851400000001,35.11121],"type":"Point"}
 }

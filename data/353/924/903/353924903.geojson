@@ -2,13 +2,14 @@
   "id": 353924903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.673078,35.052673,-106.673078,35.052673",
     "geom:latitude":35.052673,
     "geom:longitude":-106.673078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 Arenal Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353924903,
-    "wof:lastmodified":1449018974,
+    "wof:lastmodified":1466697863,
     "wof:name":"Special Programs",
     "wof:parent_id":85803573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "recreation"
     ]
 },
-  "bbox": [-106.673078,35.052673,-106.673078,35.052673],
+  "bbox": [
+    -106.673078,
+    35.052673,
+    -106.673078,
+    35.052673
+],
   "geometry": {"coordinates":[-106.673078,35.052673],"type":"Point"}
 }

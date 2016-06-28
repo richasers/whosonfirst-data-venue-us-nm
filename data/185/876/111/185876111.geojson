@@ -2,13 +2,14 @@
   "id": 185876111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.759113,34.692705,-106.759113,34.692705",
     "geom:latitude":34.692705,
     "geom:longitude":-106.759113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 Gabaldon Rd",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185876111,
-    "wof:lastmodified":1449006944,
+    "wof:lastmodified":1466698274,
     "wof:name":"Little Creek Saloon",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-106.759113,34.692705,-106.759113,34.692705],
+  "bbox": [
+    -106.759113,
+    34.692705,
+    -106.759113,
+    34.692705
+],
   "geometry": {"coordinates":[-106.759113,34.692705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185986659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.674628,32.046215,-106.674628,32.046215",
     "geom:latitude":32.046215,
     "geom:longitude":-106.674628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9620 S Hwy 28",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185986659,
-    "wof:lastmodified":1449007910,
+    "wof:lastmodified":1466699555,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.674628,32.046215,-106.674628,32.046215],
+  "bbox": [
+    -106.674628,
+    32.046215,
+    -106.674628,
+    32.046215
+],
   "geometry": {"coordinates":[-106.674628,32.046215],"type":"Point"}
 }

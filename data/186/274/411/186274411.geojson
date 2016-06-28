@@ -2,13 +2,14 @@
   "id": 186274411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.593636,35.068988,-106.593636,35.068988",
     "geom:latitude":35.068988,
     "geom:longitude":-106.593636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4619 Inspiration Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186274411,
-    "wof:lastmodified":1449050592,
+    "wof:lastmodified":1466698978,
     "wof:name":"Rockman Howe Builders Inc",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.593636,35.068988,-106.593636,35.068988],
+  "bbox": [
+    -106.593636,
+    35.068988,
+    -106.593636,
+    35.068988
+],
   "geometry": {"coordinates":[-106.593636,35.068988],"type":"Point"}
 }

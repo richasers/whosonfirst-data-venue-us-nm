@@ -2,13 +2,14 @@
   "id": 186511827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.948101,35.654116,-105.948101,35.654116",
     "geom:latitude":35.654116,
     "geom:longitude":-105.948101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 Botulph Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186511827,
-    "wof:lastmodified":1449051613,
+    "wof:lastmodified":1466700138,
     "wof:name":"St Michael's Office Park",
     "wof:parent_id":85880859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parks"
     ]
 },
-  "bbox": [-105.948101,35.654116,-105.948101,35.654116],
-  "geometry": {"coordinates":[-105.948101,35.654116],"type":"Point"}
+  "bbox": [
+    -105.948101,
+    35.654116,
+    -105.948101,
+    35.654116
+],
+  "geometry": {"coordinates":[-105.94810099999999,35.654116],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203115137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.68465,35.129013,-106.68465,35.129013",
     "geom:latitude":35.129013,
     "geom:longitude":-106.68465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2825 Candelaria Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203115137,
-    "wof:lastmodified":1449024929,
+    "wof:lastmodified":1466698898,
     "wof:name":"Jane Marx Attorney At Law PC",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.68465,35.129013,-106.68465,35.129013],
+  "bbox": [
+    -106.68465,
+    35.129013,
+    -106.68465,
+    35.129013
+],
   "geometry": {"coordinates":[-106.68465,35.129013],"type":"Point"}
 }

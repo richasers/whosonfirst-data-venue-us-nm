@@ -2,13 +2,14 @@
   "id": 202452509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.268195,32.722676,-108.268195,32.722676",
     "geom:latitude":32.722676,
     "geom:longitude":-108.268195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Ridge Rd",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202452509,
-    "wof:lastmodified":1449060702,
+    "wof:lastmodified":1466698567,
     "wof:name":"Lynn Geyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-108.268195,32.722676,-108.268195,32.722676],
-  "geometry": {"coordinates":[-108.268195,32.722676],"type":"Point"}
+  "bbox": [
+    -108.268195,
+    32.722676,
+    -108.268195,
+    32.722676
+],
+  "geometry": {"coordinates":[-108.26819500000001,32.722676],"type":"Point"}
 }

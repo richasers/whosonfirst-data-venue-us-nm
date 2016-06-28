@@ -2,13 +2,14 @@
   "id": 202809355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.742905,32.265734,-107.742905,32.265734",
     "geom:latitude":32.265734,
     "geom:longitude":-107.742905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 Honeysuckle St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202809355,
-    "wof:lastmodified":1449062211,
+    "wof:lastmodified":1466699999,
     "wof:name":"Perfect Envmtl Systems LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-107.742905,32.265734,-107.742905,32.265734],
-  "geometry": {"coordinates":[-107.742905,32.265734],"type":"Point"}
+  "bbox": [
+    -107.742905,
+    32.265734,
+    -107.742905,
+    32.265734
+],
+  "geometry": {"coordinates":[-107.74290499999999,32.265734],"type":"Point"}
 }

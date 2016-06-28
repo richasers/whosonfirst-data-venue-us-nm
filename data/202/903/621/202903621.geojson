@@ -2,13 +2,14 @@
   "id": 202903621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.221289,35.592932,-105.221289,35.592932",
     "geom:latitude":35.592932,
     "geom:longitude":-105.221289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 Douglas Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202903621,
-    "wof:lastmodified":1449060262,
+    "wof:lastmodified":1466700382,
     "wof:name":"Blue Pegasus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.221289,35.592932,-105.221289,35.592932],
+  "bbox": [
+    -105.221289,
+    35.592932,
+    -105.221289,
+    35.592932
+],
   "geometry": {"coordinates":[-105.221289,35.592932],"type":"Point"}
 }

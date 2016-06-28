@@ -2,13 +2,14 @@
   "id": 202396089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.031401,35.63765,-106.031401,35.63765",
     "geom:latitude":35.63765,
     "geom:longitude":-106.031401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Airport Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202396089,
-    "wof:lastmodified":1449061748,
+    "wof:lastmodified":1466697882,
     "wof:name":"Casitas De Snta Fe Manufacture",
     "wof:parent_id":85880855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-106.031401,35.63765,-106.031401,35.63765],
+  "bbox": [
+    -106.031401,
+    35.63765,
+    -106.031401,
+    35.63765
+],
   "geometry": {"coordinates":[-106.031401,35.63765],"type":"Point"}
 }

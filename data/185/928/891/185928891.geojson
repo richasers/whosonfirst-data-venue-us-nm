@@ -2,13 +2,14 @@
   "id": 185928891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.491814,35.146541,-106.491814,35.146541",
     "geom:latitude":35.146541,
     "geom:longitude":-106.491814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5811 Valerian Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185928891,
-    "wof:lastmodified":1449007995,
+    "wof:lastmodified":1466698925,
     "wof:name":"Access Financial",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-106.491814,35.146541,-106.491814,35.146541],
-  "geometry": {"coordinates":[-106.491814,35.146541],"type":"Point"}
+  "bbox": [
+    -106.491814,
+    35.146541,
+    -106.491814,
+    35.146541
+],
+  "geometry": {"coordinates":[-106.49181400000001,35.146541],"type":"Point"}
 }

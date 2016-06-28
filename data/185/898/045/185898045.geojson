@@ -2,13 +2,14 @@
   "id": 185898045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.931259,35.684174,-105.931259,35.684174",
     "geom:latitude":35.684174,
     "geom:longitude":-105.931259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 Delgado St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185898045,
-    "wof:lastmodified":1449006571,
+    "wof:lastmodified":1466698476,
     "wof:name":"Jezebel",
     "wof:parent_id":85880807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "shade"
     ]
 },
-  "bbox": [-105.931259,35.684174,-105.931259,35.684174],
+  "bbox": [
+    -105.931259,
+    35.684174,
+    -105.931259,
+    35.684174
+],
   "geometry": {"coordinates":[-105.931259,35.684174],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202766851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.058488,36.817126,-108.058488,36.817126",
     "geom:latitude":36.817126,
     "geom:longitude":-108.058488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"933 Hwy 516",
     "sg:city":"Flora Vista",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202766851,
-    "wof:lastmodified":1449060075,
+    "wof:lastmodified":1466699845,
     "wof:name":"San Juan Marine & Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-108.058488,36.817126,-108.058488,36.817126],
+  "bbox": [
+    -108.058488,
+    36.817126,
+    -108.058488,
+    36.817126
+],
   "geometry": {"coordinates":[-108.058488,36.817126],"type":"Point"}
 }

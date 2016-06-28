@@ -2,13 +2,14 @@
   "id": 185801835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.645563,35.139019,-106.645563,35.139019",
     "geom:latitude":35.139019,
     "geom:longitude":-106.645563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Montano Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185801835,
-    "wof:lastmodified":1449007949,
+    "wof:lastmodified":1466699347,
     "wof:name":"Kennedy Indian Arts",
     "wof:parent_id":85892593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "indian"
     ]
 },
-  "bbox": [-106.645563,35.139019,-106.645563,35.139019],
+  "bbox": [
+    -106.645563,
+    35.139019,
+    -106.645563,
+    35.139019
+],
   "geometry": {"coordinates":[-106.645563,35.139019],"type":"Point"}
 }

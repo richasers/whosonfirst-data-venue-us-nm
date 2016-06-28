@@ -2,13 +2,14 @@
   "id": 203021637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.067741,35.987585,-106.067741,35.987585",
     "geom:latitude":35.987585,
     "geom:longitude":-106.067741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Lower San Pedro Dr",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203021637,
-    "wof:lastmodified":1449026155,
+    "wof:lastmodified":1466697841,
     "wof:name":"Hacienda Home Centers Inc",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hardware"
     ]
 },
-  "bbox": [-106.067741,35.987585,-106.067741,35.987585],
+  "bbox": [
+    -106.067741,
+    35.987585,
+    -106.067741,
+    35.987585
+],
   "geometry": {"coordinates":[-106.067741,35.987585],"type":"Point"}
 }

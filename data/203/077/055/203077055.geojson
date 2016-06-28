@@ -2,13 +2,14 @@
   "id": 203077055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.522872,35.123589,-106.522872,35.123589",
     "geom:latitude":35.123589,
     "geom:longitude":-106.522872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10405 Comanche Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203077055,
-    "wof:lastmodified":1449025233,
+    "wof:lastmodified":1466698440,
     "wof:name":"A & H Mechanical",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.522872,35.123589,-106.522872,35.123589],
-  "geometry": {"coordinates":[-106.522872,35.123589],"type":"Point"}
+  "bbox": [
+    -106.522872,
+    35.123589,
+    -106.522872,
+    35.123589
+],
+  "geometry": {"coordinates":[-106.52287200000001,35.123589],"type":"Point"}
 }

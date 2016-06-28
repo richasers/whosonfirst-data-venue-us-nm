@@ -2,13 +2,14 @@
   "id": 203129735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.627743,35.122761,-106.627743,35.122761",
     "geom:latitude":35.122761,
     "geom:longitude":-106.627743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Rankin Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":203129735,
-    "wof:lastmodified":1449026469,
+    "wof:lastmodified":1466699008,
     "wof:name":"Neumark Irrigation Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-106.627743,35.122761,-106.627743,35.122761],
+  "bbox": [
+    -106.627743,
+    35.122761,
+    -106.627743,
+    35.122761
+],
   "geometry": {"coordinates":[-106.627743,35.122761],"type":"Point"}
 }

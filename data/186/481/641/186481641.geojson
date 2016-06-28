@@ -2,13 +2,14 @@
   "id": 186481641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.730135,35.20013,-106.730135,35.20013",
     "geom:latitude":35.20013,
     "geom:longitude":-106.730135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6723 Deerbourne Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186481641,
-    "wof:lastmodified":1449052672,
+    "wof:lastmodified":1466700170,
     "wof:name":"Stampin' Up Dem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plastic"
     ]
 },
-  "bbox": [-106.730135,35.20013,-106.730135,35.20013],
+  "bbox": [
+    -106.730135,
+    35.20013,
+    -106.730135,
+    35.20013
+],
   "geometry": {"coordinates":[-106.730135,35.20013],"type":"Point"}
 }

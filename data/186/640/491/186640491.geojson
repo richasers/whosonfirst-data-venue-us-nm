@@ -2,13 +2,14 @@
   "id": 186640491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.746292,35.531707,-108.746292,35.531707",
     "geom:latitude":35.531707,
     "geom:longitude":-108.746292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 W Wilson Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186640491,
-    "wof:lastmodified":1449051530,
+    "wof:lastmodified":1466700867,
     "wof:name":"Elsie's Flower Shop & Candy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.746292,35.531707,-108.746292,35.531707],
+  "bbox": [
+    -108.746292,
+    35.531707,
+    -108.746292,
+    35.531707
+],
   "geometry": {"coordinates":[-108.746292,35.531707],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202755153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.64173,35.13581,-106.64173,35.13581",
     "geom:latitude":35.13581,
     "geom:longitude":-106.64173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5208 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202755153,
-    "wof:lastmodified":1449060840,
+    "wof:lastmodified":1466699937,
     "wof:name":"A Auto Insurance America",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.64173,35.13581,-106.64173,35.13581],
+  "bbox": [
+    -106.64173,
+    35.13581,
+    -106.64173,
+    35.13581
+],
   "geometry": {"coordinates":[-106.64173,35.13581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169775953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.577715,35.165698,-106.577715,35.165698",
     "geom:latitude":35.165698,
     "geom:longitude":-106.577715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6105 Coronado Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169775953,
-    "wof:lastmodified":1449035118,
+    "wof:lastmodified":1466698320,
     "wof:name":"Computer Maintenance",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-106.577715,35.165698,-106.577715,35.165698],
+  "bbox": [
+    -106.577715,
+    35.165698,
+    -106.577715,
+    35.165698
+],
   "geometry": {"coordinates":[-106.577715,35.165698],"type":"Point"}
 }

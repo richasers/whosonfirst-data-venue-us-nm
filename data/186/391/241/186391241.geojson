@@ -2,13 +2,14 @@
   "id": 186391241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.57266,35.171346,-106.57266,35.171346",
     "geom:latitude":35.171346,
     "geom:longitude":-106.57266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6636 San Bernardino Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186391241,
-    "wof:lastmodified":1449052096,
+    "wof:lastmodified":1466699806,
     "wof:name":"Big Bike Transport",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.57266,35.171346,-106.57266,35.171346],
+  "bbox": [
+    -106.57266,
+    35.171346,
+    -106.57266,
+    35.171346
+],
   "geometry": {"coordinates":[-106.57266,35.171346],"type":"Point"}
 }

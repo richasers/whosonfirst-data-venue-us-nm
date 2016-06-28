@@ -2,13 +2,14 @@
   "id": 202699571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.730712,35.056187,-106.730712,35.056187",
     "geom:latitude":35.056187,
     "geom:longitude":-106.730712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 Sapphire St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202699571,
-    "wof:lastmodified":1449060454,
+    "wof:lastmodified":1466699611,
     "wof:name":"Dennell Construction",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.730712,35.056187,-106.730712,35.056187],
+  "bbox": [
+    -106.730712,
+    35.056187,
+    -106.730712,
+    35.056187
+],
   "geometry": {"coordinates":[-106.730712,35.056187],"type":"Point"}
 }

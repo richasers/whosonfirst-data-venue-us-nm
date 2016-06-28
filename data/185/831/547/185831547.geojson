@@ -2,13 +2,14 @@
   "id": 185831547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.842463,35.15365,-107.842463,35.15365",
     "geom:latitude":35.15365,
     "geom:longitude":-107.842463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"551 Washington Ave",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185831547,
-    "wof:lastmodified":1449007556,
+    "wof:lastmodified":1466697809,
     "wof:name":"US Cooperative Extension Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.842463,35.15365,-107.842463,35.15365],
+  "bbox": [
+    -107.842463,
+    35.15365,
+    -107.842463,
+    35.15365
+],
   "geometry": {"coordinates":[-107.842463,35.15365],"type":"Point"}
 }

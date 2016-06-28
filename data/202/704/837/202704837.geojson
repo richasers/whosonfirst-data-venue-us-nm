@@ -2,13 +2,14 @@
   "id": 202704837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.69408,35.094222,-106.69408,35.094222",
     "geom:latitude":35.094222,
     "geom:longitude":-106.69408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4937 Regina Cir NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202704837,
-    "wof:lastmodified":1449060775,
+    "wof:lastmodified":1466699625,
     "wof:name":"Caldwell Enterprises",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.69408,35.094222,-106.69408,35.094222],
+  "bbox": [
+    -106.69408,
+    35.094222,
+    -106.69408,
+    35.094222
+],
   "geometry": {"coordinates":[-106.69408,35.094222],"type":"Point"}
 }

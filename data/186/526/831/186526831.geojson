@@ -2,13 +2,14 @@
   "id": 186526831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.958959,32.903271,-105.958959,32.903271",
     "geom:latitude":32.903271,
     "geom:longitude":-105.958959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 New York Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186526831,
-    "wof:lastmodified":1449051197,
+    "wof:lastmodified":1466700317,
     "wof:name":"High Desert Dental Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dental"
     ]
 },
-  "bbox": [-105.958959,32.903271,-105.958959,32.903271],
-  "geometry": {"coordinates":[-105.958959,32.903271],"type":"Point"}
+  "bbox": [
+    -105.958959,
+    32.903271,
+    -105.958959,
+    32.903271
+],
+  "geometry": {"coordinates":[-105.95895899999999,32.903271],"type":"Point"}
 }

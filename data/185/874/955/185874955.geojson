@@ -2,13 +2,14 @@
   "id": 185874955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.196837,34.419234,-103.196837,34.419234",
     "geom:latitude":34.419234,
     "geom:longitude":-103.196837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"779 State Hwy 523",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185874955,
-    "wof:lastmodified":1449008107,
+    "wof:lastmodified":1466698260,
     "wof:name":"Fairway Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-103.196837,34.419234,-103.196837,34.419234],
+  "bbox": [
+    -103.196837,
+    34.419234,
+    -103.196837,
+    34.419234
+],
   "geometry": {"coordinates":[-103.196837,34.419234],"type":"Point"}
 }

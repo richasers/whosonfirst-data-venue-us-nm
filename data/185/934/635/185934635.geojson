@@ -2,13 +2,14 @@
   "id": 185934635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.970689,35.655309,-105.970689,35.655309",
     "geom:latitude":35.655309,
     "geom:longitude":-105.970689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 Aspen Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185934635,
-    "wof:lastmodified":1449006661,
+    "wof:lastmodified":1466699005,
     "wof:name":"Paramount Surveys Inc",
     "wof:parent_id":85880809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-105.970689,35.655309,-105.970689,35.655309],
-  "geometry": {"coordinates":[-105.970689,35.655309],"type":"Point"}
+  "bbox": [
+    -105.970689,
+    35.655309,
+    -105.970689,
+    35.655309
+],
+  "geometry": {"coordinates":[-105.97068899999999,35.655309],"type":"Point"}
 }

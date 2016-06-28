@@ -2,13 +2,14 @@
   "id": 185688789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.68554,34.886154,-106.68554,34.886154",
     "geom:latitude":34.886154,
     "geom:longitude":-106.68554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3609 State Hwy 47",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185688789,
-    "wof:lastmodified":1449007210,
+    "wof:lastmodified":1466698527,
     "wof:name":"Misty's Hair & Tanning Salon",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.68554,34.886154,-106.68554,34.886154],
+  "bbox": [
+    -106.68554,
+    34.886154,
+    -106.68554,
+    34.886154
+],
   "geometry": {"coordinates":[-106.68554,34.886154],"type":"Point"}
 }

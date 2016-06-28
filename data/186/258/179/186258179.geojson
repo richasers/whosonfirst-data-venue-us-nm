@@ -2,13 +2,14 @@
   "id": 186258179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.645105,35.178091,-106.645105,35.178091",
     "geom:latitude":35.178091,
     "geom:longitude":-106.645105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8310 Rio Grande Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186258179,
-    "wof:lastmodified":1449052458,
+    "wof:lastmodified":1466698764,
     "wof:name":"Net Channel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-106.645105,35.178091,-106.645105,35.178091],
+  "bbox": [
+    -106.645105,
+    35.178091,
+    -106.645105,
+    35.178091
+],
   "geometry": {"coordinates":[-106.645105,35.178091],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202855925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.557851,33.893437,-103.557851,33.893437",
     "geom:latitude":33.893437,
     "geom:longitude":-103.557851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3073 S Roosevelt Road 25",
     "sg:city":"Elida",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202855925,
-    "wof:lastmodified":1449061967,
+    "wof:lastmodified":1466700083,
     "wof:name":"Cr Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fencing"
     ]
 },
-  "bbox": [-103.557851,33.893437,-103.557851,33.893437],
+  "bbox": [
+    -103.557851,
+    33.893437,
+    -103.557851,
+    33.893437
+],
   "geometry": {"coordinates":[-103.557851,33.893437],"type":"Point"}
 }

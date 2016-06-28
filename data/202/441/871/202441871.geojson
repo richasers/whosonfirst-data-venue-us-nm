@@ -2,13 +2,14 @@
   "id": 202441871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.713673,34.865774,-106.713673,34.865774",
     "geom:latitude":34.865774,
     "geom:longitude":-106.713673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"590 Braught Rd",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202441871,
-    "wof:lastmodified":1449060304,
+    "wof:lastmodified":1466698453,
     "wof:name":"Expert Carpet Care",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-106.713673,34.865774,-106.713673,34.865774],
+  "bbox": [
+    -106.713673,
+    34.865774,
+    -106.713673,
+    34.865774
+],
   "geometry": {"coordinates":[-106.713673,34.865774],"type":"Point"}
 }

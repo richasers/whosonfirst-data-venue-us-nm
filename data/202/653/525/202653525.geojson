@@ -2,13 +2,14 @@
   "id": 202653525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.950076,35.683634,-105.950076,35.683634",
     "geom:latitude":35.683634,
     "geom:longitude":-105.950076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 W Manhattan Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202653525,
-    "wof:lastmodified":1449060295,
+    "wof:lastmodified":1466699186,
     "wof:name":"Hays Associates Inc",
     "wof:parent_id":85880805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.950076,35.683634,-105.950076,35.683634],
+  "bbox": [
+    -105.950076,
+    35.683634,
+    -105.950076,
+    35.683634
+],
   "geometry": {"coordinates":[-105.950076,35.683634],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185773387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.768346,32.278244,-106.768346,32.278244",
     "geom:latitude":32.278244,
     "geom:longitude":-106.768346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3035 S Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185773387,
-    "wof:lastmodified":1449006802,
+    "wof:lastmodified":1466699238,
     "wof:name":"Institute Of Historical Survey",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.768346,32.278244,-106.768346,32.278244],
-  "geometry": {"coordinates":[-106.768346,32.278244],"type":"Point"}
+  "bbox": [
+    -106.768346,
+    32.278244,
+    -106.768346,
+    32.278244
+],
+  "geometry": {"coordinates":[-106.76834599999999,32.278244],"type":"Point"}
 }

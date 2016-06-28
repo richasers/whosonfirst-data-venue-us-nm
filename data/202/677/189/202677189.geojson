@@ -2,13 +2,14 @@
   "id": 202677189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.268638,33.130488,-107.268638,33.130488",
     "geom:latitude":33.130488,
     "geom:longitude":-107.268638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"395 Morgan St",
     "sg:city":"Truth Or Consequences",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202677189,
-    "wof:lastmodified":1449061021,
+    "wof:lastmodified":1466699505,
     "wof:name":"Natural Rsrces Cnservation Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "conservation"
     ]
 },
-  "bbox": [-107.268638,33.130488,-107.268638,33.130488],
+  "bbox": [
+    -107.268638,
+    33.130488,
+    -107.268638,
+    33.130488
+],
   "geometry": {"coordinates":[-107.268638,33.130488],"type":"Point"}
 }

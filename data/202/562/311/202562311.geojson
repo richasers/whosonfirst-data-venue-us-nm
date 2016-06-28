@@ -2,13 +2,14 @@
   "id": 202562311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.515501,35.110213,-106.515501,35.110213",
     "geom:latitude":35.110213,
     "geom:longitude":-106.515501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2444 Juan Tabo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202562311,
-    "wof:lastmodified":1449061450,
+    "wof:lastmodified":1466697827,
     "wof:name":"Blue Dolphin Hair Studio",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.515501,35.110213,-106.515501,35.110213],
+  "bbox": [
+    -106.515501,
+    35.110213,
+    -106.515501,
+    35.110213
+],
   "geometry": {"coordinates":[-106.515501,35.110213],"type":"Point"}
 }

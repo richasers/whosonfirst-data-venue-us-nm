@@ -2,13 +2,14 @@
   "id": 202823827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.631545,31.88591,-106.631545,31.88591",
     "geom:latitude":31.88591,
     "geom:longitude":-106.631545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1790 Borderland Rd",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202823827,
-    "wof:lastmodified":1449062615,
+    "wof:lastmodified":1466699975,
     "wof:name":"Contech Panel System Of Nm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "block"
     ]
 },
-  "bbox": [-106.631545,31.88591,-106.631545,31.88591],
+  "bbox": [
+    -106.631545,
+    31.88591,
+    -106.631545,
+    31.88591
+],
   "geometry": {"coordinates":[-106.631545,31.88591],"type":"Point"}
 }

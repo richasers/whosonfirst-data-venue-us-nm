@@ -2,13 +2,14 @@
   "id": 203060927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.638081,33.323521,-105.638081,33.323521",
     "geom:latitude":33.323521,
     "geom:longitude":-105.638081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Reese Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203060927,
-    "wof:lastmodified":1449026690,
+    "wof:lastmodified":1466698242,
     "wof:name":"Natural Health Care Complex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-105.638081,33.323521,-105.638081,33.323521],
+  "bbox": [
+    -105.638081,
+    33.323521,
+    -105.638081,
+    33.323521
+],
   "geometry": {"coordinates":[-105.638081,33.323521],"type":"Point"}
 }

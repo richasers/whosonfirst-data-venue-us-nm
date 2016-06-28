@@ -2,13 +2,14 @@
   "id": 186125045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.731189,32.311675,-106.731189,32.311675",
     "geom:latitude":32.311675,
     "geom:longitude":-106.731189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3230 Arrowhead Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186125045,
-    "wof:lastmodified":1449052947,
+    "wof:lastmodified":1466699460,
     "wof:name":"Osteoporosis Clinic",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-106.731189,32.311675,-106.731189,32.311675],
+  "bbox": [
+    -106.731189,
+    32.311675,
+    -106.731189,
+    32.311675
+],
   "geometry": {"coordinates":[-106.731189,32.311675],"type":"Point"}
 }

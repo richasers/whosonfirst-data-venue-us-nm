@@ -2,13 +2,14 @@
   "id": 169773019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.642174,35.133437,-106.642174,35.133437",
     "geom:latitude":35.133437,
     "geom:longitude":-106.642174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5024 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169773019,
-    "wof:lastmodified":1449033103,
+    "wof:lastmodified":1466698290,
     "wof:name":"Cantrell Jennifer CPA PC",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.642174,35.133437,-106.642174,35.133437],
+  "bbox": [
+    -106.642174,
+    35.133437,
+    -106.642174,
+    35.133437
+],
   "geometry": {"coordinates":[-106.642174,35.133437],"type":"Point"}
 }

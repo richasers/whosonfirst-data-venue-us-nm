@@ -2,13 +2,14 @@
   "id": 353963729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.701075,35.145873,-106.701075,35.145873",
     "geom:latitude":35.145873,
     "geom:longitude":-106.701075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5516 Calle Quieta NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353963729,
-    "wof:lastmodified":1449018503,
+    "wof:lastmodified":1466698847,
     "wof:name":"Charles Guess",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "promoter"
     ]
 },
-  "bbox": [-106.701075,35.145873,-106.701075,35.145873],
+  "bbox": [
+    -106.701075,
+    35.145873,
+    -106.701075,
+    35.145873
+],
   "geometry": {"coordinates":[-106.701075,35.145873],"type":"Point"}
 }

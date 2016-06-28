@@ -2,13 +2,14 @@
   "id": 203097729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.583301,35.166987,-106.583301,35.166987",
     "geom:latitude":35.166987,
     "geom:longitude":-106.583301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5610 San Francisco Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203097729,
-    "wof:lastmodified":1449025657,
+    "wof:lastmodified":1466698726,
     "wof:name":"Naylor Realty",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-106.583301,35.166987,-106.583301,35.166987],
-  "geometry": {"coordinates":[-106.583301,35.166987],"type":"Point"}
+  "bbox": [
+    -106.583301,
+    35.166987,
+    -106.583301,
+    35.166987
+],
+  "geometry": {"coordinates":[-106.58330100000001,35.166987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169805041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.77858,32.268476,-106.77858,32.268476",
     "geom:latitude":32.268476,
     "geom:longitude":-106.77858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 W Union Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169805041,
-    "wof:lastmodified":1449033788,
+    "wof:lastmodified":1466698655,
     "wof:name":"Duran Construction Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.77858,32.268476,-106.77858,32.268476],
-  "geometry": {"coordinates":[-106.77858,32.268476],"type":"Point"}
+  "bbox": [
+    -106.77858,
+    32.268476,
+    -106.77858,
+    32.268476
+],
+  "geometry": {"coordinates":[-106.77858000000001,32.268476],"type":"Point"}
 }

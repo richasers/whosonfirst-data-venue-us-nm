@@ -2,13 +2,14 @@
   "id": 169814413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.655684,35.231287,-106.655684,35.231287",
     "geom:latitude":35.231287,
     "geom:longitude":-106.655684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4051 Sara Rd SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169814413,
-    "wof:lastmodified":1449033294,
+    "wof:lastmodified":1466698695,
     "wof:name":"TLC Driving School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "driving"
     ]
 },
-  "bbox": [-106.655684,35.231287,-106.655684,35.231287],
-  "geometry": {"coordinates":[-106.655684,35.231287],"type":"Point"}
+  "bbox": [
+    -106.655684,
+    35.231287,
+    -106.655684,
+    35.231287
+],
+  "geometry": {"coordinates":[-106.65568399999999,35.231287],"type":"Point"}
 }

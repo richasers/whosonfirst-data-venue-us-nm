@@ -2,13 +2,14 @@
   "id": 186015439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.053165,35.999694,-106.053165,35.999694",
     "geom:latitude":35.999694,
     "geom:longitude":-106.053165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1033 Megill St",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186015439,
-    "wof:lastmodified":1449051010,
+    "wof:lastmodified":1466697853,
     "wof:name":"Servicios Ltd",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-106.053165,35.999694,-106.053165,35.999694],
-  "geometry": {"coordinates":[-106.053165,35.999694],"type":"Point"}
+  "bbox": [
+    -106.053165,
+    35.999694,
+    -106.053165,
+    35.999694
+],
+  "geometry": {"coordinates":[-106.05316500000001,35.999694],"type":"Point"}
 }

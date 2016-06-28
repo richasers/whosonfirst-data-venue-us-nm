@@ -2,13 +2,14 @@
   "id": 353952569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.4997,35.110007,-106.4997,35.110007",
     "geom:latitude":35.110007,
     "geom:longitude":-106.4997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12400 Woodland Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353952569,
-    "wof:lastmodified":1449020083,
+    "wof:lastmodified":1466698649,
     "wof:name":"Townsend Technical Services",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-106.4997,35.110007,-106.4997,35.110007],
+  "bbox": [
+    -106.4997,
+    35.110007,
+    -106.4997,
+    35.110007
+],
   "geometry": {"coordinates":[-106.4997,35.110007],"type":"Point"}
 }

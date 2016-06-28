@@ -2,13 +2,14 @@
   "id": 202494615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.565514,35.136293,-106.565514,35.136293",
     "geom:latitude":35.136293,
     "geom:longitude":-106.565514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7116 Arroyo del Oso Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202494615,
-    "wof:lastmodified":1449062370,
+    "wof:lastmodified":1466699093,
     "wof:name":"Dar Publishing",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-106.565514,35.136293,-106.565514,35.136293],
-  "geometry": {"coordinates":[-106.565514,35.136293],"type":"Point"}
+  "bbox": [
+    -106.565514,
+    35.136293,
+    -106.565514,
+    35.136293
+],
+  "geometry": {"coordinates":[-106.56551399999999,35.136293],"type":"Point"}
 }

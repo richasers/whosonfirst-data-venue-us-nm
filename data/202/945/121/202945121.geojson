@@ -2,13 +2,14 @@
   "id": 202945121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.501715,33.374816,-104.501715,33.374816",
     "geom:latitude":33.374816,
     "geom:longitude":-104.501715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Old Dexter Hwy",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202945121,
-    "wof:lastmodified":1449060333,
+    "wof:lastmodified":1466700418,
     "wof:name":"Southwest Engine Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-104.501715,33.374816,-104.501715,33.374816],
+  "bbox": [
+    -104.501715,
+    33.374816,
+    -104.501715,
+    33.374816
+],
   "geometry": {"coordinates":[-104.501715,33.374816],"type":"Point"}
 }

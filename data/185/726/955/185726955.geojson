@@ -2,13 +2,14 @@
   "id": 185726955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.767929,32.294279,-106.767929,32.294279",
     "geom:latitude":32.294279,
     "geom:longitude":-106.767929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 el Paseo Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":185726955,
-    "wof:lastmodified":1449007689,
+    "wof:lastmodified":1466698937,
     "wof:name":"Tommy's Cake Shop & Cafe",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-106.767929,32.294279,-106.767929,32.294279],
+  "bbox": [
+    -106.767929,
+    32.294279,
+    -106.767929,
+    32.294279
+],
   "geometry": {"coordinates":[-106.767929,32.294279],"type":"Point"}
 }

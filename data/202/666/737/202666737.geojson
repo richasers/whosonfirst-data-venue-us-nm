@@ -2,13 +2,14 @@
   "id": 202666737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.965435,35.664027,-105.965435,35.664027",
     "geom:latitude":35.664027,
     "geom:longitude":-105.965435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 C de Baca Ln",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202666737,
-    "wof:lastmodified":1449061036,
+    "wof:lastmodified":1466699475,
     "wof:name":"Pompei's Home Remodeling Inc",
     "wof:parent_id":85880811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.965435,35.664027,-105.965435,35.664027],
+  "bbox": [
+    -105.965435,
+    35.664027,
+    -105.965435,
+    35.664027
+],
   "geometry": {"coordinates":[-105.965435,35.664027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203045559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.13961,32.811156,-103.13961,32.811156",
     "geom:latitude":32.811156,
     "geom:longitude":-103.13961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 W Marr St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203045559,
-    "wof:lastmodified":1449026646,
+    "wof:lastmodified":1466698089,
     "wof:name":"Seat Yourself",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.13961,32.811156,-103.13961,32.811156],
+  "bbox": [
+    -103.13961,
+    32.811156,
+    -103.13961,
+    32.811156
+],
   "geometry": {"coordinates":[-103.13961,32.811156],"type":"Point"}
 }

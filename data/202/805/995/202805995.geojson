@@ -2,13 +2,14 @@
   "id": 202805995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.996721,35.653728,-105.996721,35.653728",
     "geom:latitude":35.653728,
     "geom:longitude":-105.996721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1340 Rufina Cir",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202805995,
-    "wof:lastmodified":1449060960,
+    "wof:lastmodified":1466700090,
     "wof:name":"Herbs Etc Of Santa Fe",
     "wof:parent_id":85880845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "herb"
     ]
 },
-  "bbox": [-105.996721,35.653728,-105.996721,35.653728],
-  "geometry": {"coordinates":[-105.996721,35.653728],"type":"Point"}
+  "bbox": [
+    -105.996721,
+    35.653728,
+    -105.996721,
+    35.653728
+],
+  "geometry": {"coordinates":[-105.99672099999999,35.653728],"type":"Point"}
 }

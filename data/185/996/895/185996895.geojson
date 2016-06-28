@@ -2,13 +2,14 @@
   "id": 185996895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.438829,36.905088,-104.438829,36.905088",
     "geom:latitude":36.905088,
     "geom:longitude":-104.438829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 N 2nd St",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185996895,
-    "wof:lastmodified":1449007042,
+    "wof:lastmodified":1466699650,
     "wof:name":"Pheiffer's Alternator & Strtr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-104.438829,36.905088,-104.438829,36.905088],
+  "bbox": [
+    -104.438829,
+    36.905088,
+    -104.438829,
+    36.905088
+],
   "geometry": {"coordinates":[-104.438829,36.905088],"type":"Point"}
 }

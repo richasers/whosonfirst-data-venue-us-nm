@@ -2,13 +2,14 @@
   "id": 186062623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.584376,35.079667,-106.584376,35.079667",
     "geom:latitude":35.079667,
     "geom:longitude":-106.584376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Madeira Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186062623,
-    "wof:lastmodified":1449052836,
+    "wof:lastmodified":1466698406,
     "wof:name":"Thrifty Rooter & Drain Svc",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sewer"
     ]
 },
-  "bbox": [-106.584376,35.079667,-106.584376,35.079667],
-  "geometry": {"coordinates":[-106.584376,35.079667],"type":"Point"}
+  "bbox": [
+    -106.584376,
+    35.079667,
+    -106.584376,
+    35.079667
+],
+  "geometry": {"coordinates":[-106.58437600000001,35.079667],"type":"Point"}
 }

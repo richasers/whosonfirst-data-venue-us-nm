@@ -2,13 +2,14 @@
   "id": 202389907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.710996,35.178989,-103.710996,35.178989",
     "geom:latitude":35.178989,
     "geom:longitude":-103.710996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 E Main St",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202389907,
-    "wof:lastmodified":1449062152,
+    "wof:lastmodified":1466697801,
     "wof:name":"Quay County Road Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.710996,35.178989,-103.710996,35.178989],
-  "geometry": {"coordinates":[-103.710996,35.178989],"type":"Point"}
+  "bbox": [
+    -103.710996,
+    35.178989,
+    -103.710996,
+    35.178989
+],
+  "geometry": {"coordinates":[-103.71099599999999,35.178989],"type":"Point"}
 }

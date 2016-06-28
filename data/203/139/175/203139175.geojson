@@ -2,13 +2,14 @@
   "id": 203139175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.054256,34.991608,-106.054256,34.991608",
     "geom:latitude":34.991608,
     "geom:longitude":-106.054256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Linden Ave",
     "sg:city":"Moriarty",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203139175,
-    "wof:lastmodified":1449025113,
+    "wof:lastmodified":1466699064,
     "wof:name":"Moriarty Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-106.054256,34.991608,-106.054256,34.991608],
+  "bbox": [
+    -106.054256,
+    34.991608,
+    -106.054256,
+    34.991608
+],
   "geometry": {"coordinates":[-106.054256,34.991608],"type":"Point"}
 }

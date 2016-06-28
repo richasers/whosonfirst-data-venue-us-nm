@@ -2,13 +2,14 @@
   "id": 203000131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.267005,32.406985,-104.267005,32.406985",
     "geom:latitude":32.406985,
     "geom:longitude":-104.267005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 Jewel St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203000131,
-    "wof:lastmodified":1449025237,
+    "wof:lastmodified":1466699380,
     "wof:name":"H R Heath Paint Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.267005,32.406985,-104.267005,32.406985],
+  "bbox": [
+    -104.267005,
+    32.406985,
+    -104.267005,
+    32.406985
+],
   "geometry": {"coordinates":[-104.267005,32.406985],"type":"Point"}
 }

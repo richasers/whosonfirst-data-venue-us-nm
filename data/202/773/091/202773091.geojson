@@ -2,13 +2,14 @@
   "id": 202773091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.669355,35.221811,-106.669355,35.221811",
     "geom:latitude":35.221811,
     "geom:longitude":-106.669355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3108 21st Ave SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202773091,
-    "wof:lastmodified":1449060423,
+    "wof:lastmodified":1466699849,
     "wof:name":"Ortega Electric LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.669355,35.221811,-106.669355,35.221811],
+  "bbox": [
+    -106.669355,
+    35.221811,
+    -106.669355,
+    35.221811
+],
   "geometry": {"coordinates":[-106.669355,35.221811],"type":"Point"}
 }

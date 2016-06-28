@@ -2,13 +2,14 @@
   "id": 202841287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.148385,32.663563,-107.148385,32.663563",
     "geom:latitude":32.663563,
     "geom:longitude":-107.148385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 E Hall St",
     "sg:city":"Hatch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202841287,
-    "wof:lastmodified":1449060649,
+    "wof:lastmodified":1466700151,
     "wof:name":"Allen's Tire Svc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-107.148385,32.663563,-107.148385,32.663563],
+  "bbox": [
+    -107.148385,
+    32.663563,
+    -107.148385,
+    32.663563
+],
   "geometry": {"coordinates":[-107.148385,32.663563],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202517417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.729028,35.082749,-106.729028,35.082749",
     "geom:latitude":35.082749,
     "geom:longitude":-106.729028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"539 Oliver Ross Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":202517417,
-    "wof:lastmodified":1449061547,
+    "wof:lastmodified":1466699247,
     "wof:name":"Science Medicus  Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "medical"
     ]
 },
-  "bbox": [-106.729028,35.082749,-106.729028,35.082749],
+  "bbox": [
+    -106.729028,
+    35.082749,
+    -106.729028,
+    35.082749
+],
   "geometry": {"coordinates":[-106.729028,35.082749],"type":"Point"}
 }

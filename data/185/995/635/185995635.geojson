@@ -2,13 +2,14 @@
   "id": 185995635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.409813,32.841172,-104.409813,32.841172",
     "geom:latitude":32.841172,
     "geom:longitude":-104.409813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 W Quay Ave",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185995635,
-    "wof:lastmodified":1449008045,
+    "wof:lastmodified":1466699637,
     "wof:name":"Yellow Jacket Towing",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-104.409813,32.841172,-104.409813,32.841172],
+  "bbox": [
+    -104.409813,
+    32.841172,
+    -104.409813,
+    32.841172
+],
   "geometry": {"coordinates":[-104.409813,32.841172],"type":"Point"}
 }

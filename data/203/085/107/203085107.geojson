@@ -2,13 +2,14 @@
   "id": 203085107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.422979,33.25936,-104.422979,33.25936",
     "geom:latitude":33.25936,
     "geom:longitude":-104.422979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6667 Old Chisum Trl",
     "sg:city":"Dexter",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203085107,
-    "wof:lastmodified":1449025385,
+    "wof:lastmodified":1466698487,
     "wof:name":"Make An Offer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-104.422979,33.25936,-104.422979,33.25936],
+  "bbox": [
+    -104.422979,
+    33.25936,
+    -104.422979,
+    33.25936
+],
   "geometry": {"coordinates":[-104.422979,33.25936],"type":"Point"}
 }

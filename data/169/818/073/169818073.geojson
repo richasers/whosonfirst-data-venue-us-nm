@@ -2,13 +2,14 @@
   "id": 169818073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.109151,34.053016,-103.109151,34.053016",
     "geom:latitude":34.053016,
     "geom:longitude":-103.109151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1419 S Roosevelt Rd E",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169818073,
-    "wof:lastmodified":1449034284,
+    "wof:lastmodified":1466698722,
     "wof:name":"Vp Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-103.109151,34.053016,-103.109151,34.053016],
+  "bbox": [
+    -103.109151,
+    34.053016,
+    -103.109151,
+    34.053016
+],
   "geometry": {"coordinates":[-103.109151,34.053016],"type":"Point"}
 }

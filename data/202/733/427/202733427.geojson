@@ -2,13 +2,14 @@
   "id": 202733427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.095749,36.694804,-108.095749,36.694804",
     "geom:latitude":36.694804,
     "geom:longitude":-108.095749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Rd 5478",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202733427,
-    "wof:lastmodified":1449060455,
+    "wof:lastmodified":1466699826,
     "wof:name":"Lucia's Country Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-108.095749,36.694804,-108.095749,36.694804],
+  "bbox": [
+    -108.095749,
+    36.694804,
+    -108.095749,
+    36.694804
+],
   "geometry": {"coordinates":[-108.095749,36.694804],"type":"Point"}
 }

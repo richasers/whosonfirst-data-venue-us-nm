@@ -2,13 +2,14 @@
   "id": 202727029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.715099,35.247931,-106.715099,35.247931",
     "geom:latitude":35.247931,
     "geom:longitude":-106.715099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Arkansas St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202727029,
-    "wof:lastmodified":1449060489,
+    "wof:lastmodified":1466699579,
     "wof:name":"Baja Winter Blues",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fishing"
     ]
 },
-  "bbox": [-106.715099,35.247931,-106.715099,35.247931],
+  "bbox": [
+    -106.715099,
+    35.247931,
+    -106.715099,
+    35.247931
+],
   "geometry": {"coordinates":[-106.715099,35.247931],"type":"Point"}
 }

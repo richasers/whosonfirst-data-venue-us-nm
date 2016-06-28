@@ -2,13 +2,14 @@
   "id": 186643585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614119,35.227157,-106.614119,35.227157",
     "geom:latitude":35.227157,
     "geom:longitude":-106.614119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4627 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186643585,
-    "wof:lastmodified":1449052663,
+    "wof:lastmodified":1466700877,
     "wof:name":"Bodywise Massage & Day Spa",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-106.614119,35.227157,-106.614119,35.227157],
+  "bbox": [
+    -106.614119,
+    35.227157,
+    -106.614119,
+    35.227157
+],
   "geometry": {"coordinates":[-106.614119,35.227157],"type":"Point"}
 }

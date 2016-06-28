@@ -2,13 +2,14 @@
   "id": 185735123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.662912,33.328352,-105.662912,33.328352",
     "geom:latitude":33.328352,
     "geom:longitude":-105.662912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Park Ave",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185735123,
-    "wof:lastmodified":1449008147,
+    "wof:lastmodified":1466699454,
     "wof:name":"Ruidoso News",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-105.662912,33.328352,-105.662912,33.328352],
-  "geometry": {"coordinates":[-105.662912,33.328352],"type":"Point"}
+  "bbox": [
+    -105.662912,
+    33.328352,
+    -105.662912,
+    33.328352
+],
+  "geometry": {"coordinates":[-105.66291200000001,33.328352],"type":"Point"}
 }

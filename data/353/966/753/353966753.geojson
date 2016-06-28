@@ -2,13 +2,14 @@
   "id": 353966753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.545216,35.073405,-106.545216,35.073405",
     "geom:latitude":35.073405,
     "geom:longitude":-106.545216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9223 Central Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353966753,
-    "wof:lastmodified":1449018274,
+    "wof:lastmodified":1466698928,
     "wof:name":"Desert RV Sales",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "camper"
     ]
 },
-  "bbox": [-106.545216,35.073405,-106.545216,35.073405],
+  "bbox": [
+    -106.545216,
+    35.073405,
+    -106.545216,
+    35.073405
+],
   "geometry": {"coordinates":[-106.545216,35.073405],"type":"Point"}
 }

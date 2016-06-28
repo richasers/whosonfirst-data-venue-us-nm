@@ -2,13 +2,14 @@
   "id": 186324775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.059095,35.00458,-106.059095,35.00458",
     "geom:latitude":35.00458,
     "geom:longitude":-106.059095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Columbia Ave",
     "sg:city":"Moriarty",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186324775,
-    "wof:lastmodified":1449051938,
+    "wof:lastmodified":1466699702,
     "wof:name":"Cut Above",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.059095,35.00458,-106.059095,35.00458],
+  "bbox": [
+    -106.059095,
+    35.00458,
+    -106.059095,
+    35.00458
+],
   "geometry": {"coordinates":[-106.059095,35.00458],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202784413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.331271,34.188652,-103.331271,34.188652",
     "geom:latitude":34.188652,
     "geom:longitude":-103.331271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Chicago Ave",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202784413,
-    "wof:lastmodified":1449061779,
+    "wof:lastmodified":1466699919,
     "wof:name":"Rad Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rental"
     ]
 },
-  "bbox": [-103.331271,34.188652,-103.331271,34.188652],
+  "bbox": [
+    -103.331271,
+    34.188652,
+    -103.331271,
+    34.188652
+],
   "geometry": {"coordinates":[-103.331271,34.188652],"type":"Point"}
 }

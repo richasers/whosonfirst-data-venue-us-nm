@@ -2,13 +2,14 @@
   "id": 202574487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.522251,33.416204,-104.522251,33.416204",
     "geom:latitude":33.416204,
     "geom:longitude":-104.522251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Grand Avenue Plz",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202574487,
-    "wof:lastmodified":1449060093,
+    "wof:lastmodified":1466698005,
     "wof:name":"Preventive Service-Child Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resource"
     ]
 },
-  "bbox": [-104.522251,33.416204,-104.522251,33.416204],
+  "bbox": [
+    -104.522251,
+    33.416204,
+    -104.522251,
+    33.416204
+],
   "geometry": {"coordinates":[-104.522251,33.416204],"type":"Point"}
 }

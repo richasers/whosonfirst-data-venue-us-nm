@@ -2,13 +2,14 @@
   "id": 186572887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.50893,35.066472,-106.50893,35.066472",
     "geom:latitude":35.066472,
     "geom:longitude":-106.50893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Western Skies Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186572887,
-    "wof:lastmodified":1449052001,
+    "wof:lastmodified":1466700661,
     "wof:name":"Canyon Point Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "apartment"
     ]
 },
-  "bbox": [-106.50893,35.066472,-106.50893,35.066472],
-  "geometry": {"coordinates":[-106.50893,35.066472],"type":"Point"}
+  "bbox": [
+    -106.50893,
+    35.066472,
+    -106.50893,
+    35.066472
+],
+  "geometry": {"coordinates":[-106.50893000000001,35.066472],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186492957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.355345,36.761871,-108.355345,36.761871",
     "geom:latitude":36.761871,
     "geom:longitude":-108.355345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Rd 6480",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186492957,
-    "wof:lastmodified":1449050250,
+    "wof:lastmodified":1466700205,
     "wof:name":"Sunset Hills Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.355345,36.761871,-108.355345,36.761871],
+  "bbox": [
+    -108.355345,
+    36.761871,
+    -108.355345,
+    36.761871
+],
   "geometry": {"coordinates":[-108.355345,36.761871],"type":"Point"}
 }

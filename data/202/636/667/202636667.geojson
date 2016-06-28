@@ -2,13 +2,14 @@
   "id": 202636667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.924251,35.800869,-105.924251,35.800869",
     "geom:latitude":35.800869,
     "geom:longitude":-105.924251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 State Rd 592",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202636667,
-    "wof:lastmodified":1449061125,
+    "wof:lastmodified":1466698935,
     "wof:name":"Rancho Encantado",
     "wof:parent_id":85880787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gift"
     ]
 },
-  "bbox": [-105.924251,35.800869,-105.924251,35.800869],
+  "bbox": [
+    -105.924251,
+    35.800869,
+    -105.924251,
+    35.800869
+],
   "geometry": {"coordinates":[-105.924251,35.800869],"type":"Point"}
 }

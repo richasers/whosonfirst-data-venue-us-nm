@@ -2,13 +2,14 @@
   "id": 202495849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.605412,35.135295,-106.605412,35.135295",
     "geom:latitude":35.135295,
     "geom:longitude":-106.605412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4730 Pan American Fwy",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":202495849,
-    "wof:lastmodified":1449061239,
+    "wof:lastmodified":1466699096,
     "wof:name":"Accent Windows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "installation"
     ]
 },
-  "bbox": [-106.605412,35.135295,-106.605412,35.135295],
+  "bbox": [
+    -106.605412,
+    35.135295,
+    -106.605412,
+    35.135295
+],
   "geometry": {"coordinates":[-106.605412,35.135295],"type":"Point"}
 }

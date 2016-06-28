@@ -2,13 +2,14 @@
   "id": 186150509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.740538,32.309912,-106.740538,32.309912",
     "geom:latitude":32.309912,
     "geom:longitude":-106.740538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"755 S Telshor Blvd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186150509,
-    "wof:lastmodified":1449050290,
+    "wof:lastmodified":1466699328,
     "wof:name":"Las Crces Clnic Thraputic Arts",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-106.740538,32.309912,-106.740538,32.309912],
+  "bbox": [
+    -106.740538,
+    32.309912,
+    -106.740538,
+    32.309912
+],
   "geometry": {"coordinates":[-106.740538,32.309912],"type":"Point"}
 }

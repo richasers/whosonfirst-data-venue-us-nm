@@ -2,13 +2,14 @@
   "id": 169769879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.953672,35.674127,-105.953672,35.674127",
     "geom:latitude":35.674127,
     "geom:longitude":-105.953672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 W Cordova Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169769879,
-    "wof:lastmodified":1449033784,
+    "wof:lastmodified":1466698254,
     "wof:name":"Cordova Power Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-105.953672,35.674127,-105.953672,35.674127],
+  "bbox": [
+    -105.953672,
+    35.674127,
+    -105.953672,
+    35.674127
+],
   "geometry": {"coordinates":[-105.953672,35.674127],"type":"Point"}
 }

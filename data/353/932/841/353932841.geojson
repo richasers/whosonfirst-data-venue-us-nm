@@ -2,13 +2,14 @@
   "id": 353932841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.646012,35.113728,-106.646012,35.113728",
     "geom:latitude":35.113728,
     "geom:longitude":-106.646012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2910 4th St NW Ste B",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353932841,
-    "wof:lastmodified":1449019204,
+    "wof:lastmodified":1466698086,
     "wof:name":"Untitled Fine Arts Service",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "household"
     ]
 },
-  "bbox": [-106.646012,35.113728,-106.646012,35.113728],
+  "bbox": [
+    -106.646012,
+    35.113728,
+    -106.646012,
+    35.113728
+],
   "geometry": {"coordinates":[-106.646012,35.113728],"type":"Point"}
 }

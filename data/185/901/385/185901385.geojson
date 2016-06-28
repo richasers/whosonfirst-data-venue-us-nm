@@ -2,13 +2,14 @@
   "id": 185901385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.680754,35.526541,-108.680754,35.526541",
     "geom:latitude":35.526541,
     "geom:longitude":-108.680754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3408 Zia Dr",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185901385,
-    "wof:lastmodified":1449007277,
+    "wof:lastmodified":1466698541,
     "wof:name":"St John Vianney Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.680754,35.526541,-108.680754,35.526541],
-  "geometry": {"coordinates":[-108.680754,35.526541],"type":"Point"}
+  "bbox": [
+    -108.680754,
+    35.526541,
+    -108.680754,
+    35.526541
+],
+  "geometry": {"coordinates":[-108.68075399999999,35.526541],"type":"Point"}
 }

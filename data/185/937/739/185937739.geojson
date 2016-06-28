@@ -2,13 +2,14 @@
   "id": 185937739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.617333,35.113925,-106.617333,35.113925",
     "geom:latitude":35.113925,
     "geom:longitude":-106.617333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 Stanford Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":185937739,
-    "wof:lastmodified":1449006925,
+    "wof:lastmodified":1466699048,
     "wof:name":"Sonshine Ent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "lightning"
     ]
 },
-  "bbox": [-106.617333,35.113925,-106.617333,35.113925],
+  "bbox": [
+    -106.617333,
+    35.113925,
+    -106.617333,
+    35.113925
+],
   "geometry": {"coordinates":[-106.617333,35.113925],"type":"Point"}
 }

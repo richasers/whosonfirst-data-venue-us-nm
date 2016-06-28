@@ -2,13 +2,14 @@
   "id": 185927045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.080145,35.994318,-106.080145,35.994318",
     "geom:latitude":35.994318,
     "geom:longitude":-106.080145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 N Railroad Ave",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185927045,
-    "wof:lastmodified":1449008053,
+    "wof:lastmodified":1466698905,
     "wof:name":"My Groomer",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-106.080145,35.994318,-106.080145,35.994318],
+  "bbox": [
+    -106.080145,
+    35.994318,
+    -106.080145,
+    35.994318
+],
   "geometry": {"coordinates":[-106.080145,35.994318],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337287937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.540394,35.301812,-106.540394,35.301812",
     "geom:latitude":35.301812,
     "geom:longitude":-106.540394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"845 S Hill Rd",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337287937,
-    "wof:lastmodified":1449026988,
+    "wof:lastmodified":1466697787,
     "wof:name":"A 1 Inspection Team",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-106.540394,35.301812,-106.540394,35.301812],
-  "geometry": {"coordinates":[-106.540394,35.301812],"type":"Point"}
+  "bbox": [
+    -106.540394,
+    35.301812,
+    -106.540394,
+    35.301812
+],
+  "geometry": {"coordinates":[-106.54039400000001,35.301812],"type":"Point"}
 }

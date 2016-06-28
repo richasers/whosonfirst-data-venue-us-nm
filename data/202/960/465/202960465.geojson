@@ -2,13 +2,14 @@
   "id": 202960465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.5896,35.107078,-106.5896,35.107078",
     "geom:latitude":35.107078,
     "geom:longitude":-106.5896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4919 Prospect Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202960465,
-    "wof:lastmodified":1449061921,
+    "wof:lastmodified":1466700603,
     "wof:name":"Dynamic Growth Strategies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "business"
     ]
 },
-  "bbox": [-106.5896,35.107078,-106.5896,35.107078],
+  "bbox": [
+    -106.5896,
+    35.107078,
+    -106.5896,
+    35.107078
+],
   "geometry": {"coordinates":[-106.5896,35.107078],"type":"Point"}
 }

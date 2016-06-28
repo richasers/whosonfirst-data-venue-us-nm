@@ -2,13 +2,14 @@
   "id": 203051339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.618756,35.187101,-106.618756,35.187101",
     "geom:latitude":35.187101,
     "geom:longitude":-106.618756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9418 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203051339,
-    "wof:lastmodified":1449026115,
+    "wof:lastmodified":1466698153,
     "wof:name":"Barbee's Floral Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.618756,35.187101,-106.618756,35.187101],
+  "bbox": [
+    -106.618756,
+    35.187101,
+    -106.618756,
+    35.187101
+],
   "geometry": {"coordinates":[-106.618756,35.187101],"type":"Point"}
 }

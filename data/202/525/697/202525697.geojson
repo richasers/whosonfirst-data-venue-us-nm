@@ -2,13 +2,14 @@
   "id": 202525697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.512649,35.116207,-106.512649,35.116207",
     "geom:latitude":35.116207,
     "geom:longitude":-106.512649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 Tahiti St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202525697,
-    "wof:lastmodified":1449062138,
+    "wof:lastmodified":1466699280,
     "wof:name":"Mark Iuzzolino",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-106.512649,35.116207,-106.512649,35.116207],
+  "bbox": [
+    -106.512649,
+    35.116207,
+    -106.512649,
+    35.116207
+],
   "geometry": {"coordinates":[-106.512649,35.116207],"type":"Point"}
 }

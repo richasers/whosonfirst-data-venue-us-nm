@@ -2,13 +2,14 @@
   "id": 186155841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960538,32.900776,-105.960538,32.900776",
     "geom:latitude":32.900776,
     "geom:longitude":-105.960538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 US Hwy 70",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186155841,
-    "wof:lastmodified":1449052534,
+    "wof:lastmodified":1466699347,
     "wof:name":"Gressman Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-105.960538,32.900776,-105.960538,32.900776],
+  "bbox": [
+    -105.960538,
+    32.900776,
+    -105.960538,
+    32.900776
+],
   "geometry": {"coordinates":[-105.960538,32.900776],"type":"Point"}
 }

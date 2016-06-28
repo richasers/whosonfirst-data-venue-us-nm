@@ -2,13 +2,14 @@
   "id": 203086007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.895602,34.056433,-106.895602,34.056433",
     "geom:latitude":34.056433,
     "geom:longitude":-106.895602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Garfield Ave",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203086007,
-    "wof:lastmodified":1449026252,
+    "wof:lastmodified":1466699425,
     "wof:name":"ENMU-R Socorro County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-106.895602,34.056433,-106.895602,34.056433],
+  "bbox": [
+    -106.895602,
+    34.056433,
+    -106.895602,
+    34.056433
+],
   "geometry": {"coordinates":[-106.895602,34.056433],"type":"Point"}
 }

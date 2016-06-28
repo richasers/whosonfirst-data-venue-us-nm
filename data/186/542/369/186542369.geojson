@@ -2,13 +2,14 @@
   "id": 186542369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.603993,35.130906,-106.603993,35.130906",
     "geom:latitude":35.130906,
     "geom:longitude":-106.603993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4308 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186542369,
-    "wof:lastmodified":1449052401,
+    "wof:lastmodified":1466700274,
     "wof:name":"Wackenhut Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "patrol"
     ]
 },
-  "bbox": [-106.603993,35.130906,-106.603993,35.130906],
+  "bbox": [
+    -106.603993,
+    35.130906,
+    -106.603993,
+    35.130906
+],
   "geometry": {"coordinates":[-106.603993,35.130906],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203147859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.899009,35.686826,-105.899009,35.686826",
     "geom:latitude":35.686826,
     "geom:longitude":-105.899009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 Cerro Gordo Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203147859,
-    "wof:lastmodified":1449026661,
+    "wof:lastmodified":1466699136,
     "wof:name":"M G M Roofing Company",
     "wof:parent_id":85880789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-105.899009,35.686826,-105.899009,35.686826],
-  "geometry": {"coordinates":[-105.899009,35.686826],"type":"Point"}
+  "bbox": [
+    -105.899009,
+    35.686826,
+    -105.899009,
+    35.686826
+],
+  "geometry": {"coordinates":[-105.89900900000001,35.686826],"type":"Point"}
 }

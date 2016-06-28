@@ -2,13 +2,14 @@
   "id": 202925041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.224984,35.605505,-105.224984,35.605505",
     "geom:latitude":35.605505,
     "geom:longitude":-105.224984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1623 8th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202925041,
-    "wof:lastmodified":1449060132,
+    "wof:lastmodified":1466700562,
     "wof:name":"Pack Charitable Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.224984,35.605505,-105.224984,35.605505],
-  "geometry": {"coordinates":[-105.224984,35.605505],"type":"Point"}
+  "bbox": [
+    -105.224984,
+    35.605505,
+    -105.224984,
+    35.605505
+],
+  "geometry": {"coordinates":[-105.22498400000001,35.605505],"type":"Point"}
 }

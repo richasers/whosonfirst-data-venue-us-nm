@@ -2,13 +2,14 @@
   "id": 202429001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.153151,36.722518,-108.153151,36.722518",
     "geom:latitude":36.722518,
     "geom:longitude":-108.153151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Valentine Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202429001,
-    "wof:lastmodified":1449062510,
+    "wof:lastmodified":1466699417,
     "wof:name":"Southwest Artistic Endovers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "artist"
     ]
 },
-  "bbox": [-108.153151,36.722518,-108.153151,36.722518],
-  "geometry": {"coordinates":[-108.153151,36.722518],"type":"Point"}
+  "bbox": [
+    -108.153151,
+    36.722518,
+    -108.153151,
+    36.722518
+],
+  "geometry": {"coordinates":[-108.15315099999999,36.722518],"type":"Point"}
 }

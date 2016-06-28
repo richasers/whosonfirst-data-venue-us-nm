@@ -2,13 +2,14 @@
   "id": 185683399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.886384,35.098845,-105.886384,35.098845",
     "geom:latitude":35.098845,
     "geom:longitude":-105.886384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 B Anaya Rd",
     "sg:city":"Stanley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185683399,
-    "wof:lastmodified":1449007192,
+    "wof:lastmodified":1466698462,
     "wof:name":"Davis Hats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "millinery"
     ]
 },
-  "bbox": [-105.886384,35.098845,-105.886384,35.098845],
-  "geometry": {"coordinates":[-105.886384,35.098845],"type":"Point"}
+  "bbox": [
+    -105.886384,
+    35.098845,
+    -105.886384,
+    35.098845
+],
+  "geometry": {"coordinates":[-105.88638400000001,35.098845],"type":"Point"}
 }

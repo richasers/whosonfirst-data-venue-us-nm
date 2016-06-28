@@ -2,13 +2,14 @@
   "id": 169784419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.537028,35.092999,-106.537028,35.092999",
     "geom:latitude":35.092999,
     "geom:longitude":-106.537028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Parsifal St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169784419,
-    "wof:lastmodified":1449034896,
+    "wof:lastmodified":1466698390,
     "wof:name":"Sortz Fun",
     "wof:parent_id":85871891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "amusement"
     ]
 },
-  "bbox": [-106.537028,35.092999,-106.537028,35.092999],
-  "geometry": {"coordinates":[-106.537028,35.092999],"type":"Point"}
+  "bbox": [
+    -106.537028,
+    35.092999,
+    -106.537028,
+    35.092999
+],
+  "geometry": {"coordinates":[-106.53702800000001,35.092999],"type":"Point"}
 }

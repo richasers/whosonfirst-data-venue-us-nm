@@ -2,13 +2,14 @@
   "id": 186599499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.516575,35.071228,-106.516575,35.071228",
     "geom:latitude":35.071228,
     "geom:longitude":-106.516575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11728 Linn Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186599499,
-    "wof:lastmodified":1449051623,
+    "wof:lastmodified":1466700629,
     "wof:name":"Mac Aulay Brown Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "aerospace"
     ]
 },
-  "bbox": [-106.516575,35.071228,-106.516575,35.071228],
+  "bbox": [
+    -106.516575,
+    35.071228,
+    -106.516575,
+    35.071228
+],
   "geometry": {"coordinates":[-106.516575,35.071228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169845529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.6807,35.52651,-108.6807,35.52651",
     "geom:latitude":35.52651,
     "geom:longitude":-108.6807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3402 Zia Dr",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169845529,
-    "wof:lastmodified":1449033235,
+    "wof:lastmodified":1466698864,
     "wof:name":"Home Birth Svc Of Gallup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.6807,35.52651,-108.6807,35.52651],
+  "bbox": [
+    -108.6807,
+    35.52651,
+    -108.6807,
+    35.52651
+],
   "geometry": {"coordinates":[-108.6807,35.52651],"type":"Point"}
 }

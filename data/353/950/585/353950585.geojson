@@ -2,13 +2,14 @@
   "id": 353950585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.534279,35.130723,-106.534279,35.130723",
     "geom:latitude":35.130723,
     "geom:longitude":-106.534279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9625 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353950585,
-    "wof:lastmodified":1449019265,
+    "wof:lastmodified":1466698588,
     "wof:name":"Peoples Flower Shops, Inc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.534279,35.130723,-106.534279,35.130723],
+  "bbox": [
+    -106.534279,
+    35.130723,
+    -106.534279,
+    35.130723
+],
   "geometry": {"coordinates":[-106.534279,35.130723],"type":"Point"}
 }

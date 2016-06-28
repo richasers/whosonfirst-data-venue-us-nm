@@ -2,13 +2,14 @@
   "id": 202530513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.597375,35.124049,-106.597375,35.124049",
     "geom:latitude":35.124049,
     "geom:longitude":-106.597375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4208 Palo Duro Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":202530513,
-    "wof:lastmodified":1449061463,
+    "wof:lastmodified":1466699283,
     "wof:name":"All-Comm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.597375,35.124049,-106.597375,35.124049],
+  "bbox": [
+    -106.597375,
+    35.124049,
+    -106.597375,
+    35.124049
+],
   "geometry": {"coordinates":[-106.597375,35.124049],"type":"Point"}
 }

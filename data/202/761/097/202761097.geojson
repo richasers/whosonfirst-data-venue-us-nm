@@ -2,13 +2,14 @@
   "id": 202761097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781003,34.667054,-106.781003,34.667054",
     "geom:latitude":34.667054,
     "geom:longitude":-106.781003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Esperanza Dr",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202761097,
-    "wof:lastmodified":1449062053,
+    "wof:lastmodified":1466699831,
     "wof:name":"Pat's Electrical Work",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.781003,34.667054,-106.781003,34.667054],
+  "bbox": [
+    -106.781003,
+    34.667054,
+    -106.781003,
+    34.667054
+],
   "geometry": {"coordinates":[-106.781003,34.667054],"type":"Point"}
 }

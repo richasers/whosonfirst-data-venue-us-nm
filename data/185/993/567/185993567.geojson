@@ -2,13 +2,14 @@
   "id": 185993567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.68316,32.484879,-106.68316,32.484879",
     "geom:latitude":32.484879,
     "geom:longitude":-106.68316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11985 Holman Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185993567,
-    "wof:lastmodified":1449007327,
+    "wof:lastmodified":1466699616,
     "wof:name":"Joel Montalvo & Assoc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "driving"
     ]
 },
-  "bbox": [-106.68316,32.484879,-106.68316,32.484879],
+  "bbox": [
+    -106.68316,
+    32.484879,
+    -106.68316,
+    32.484879
+],
   "geometry": {"coordinates":[-106.68316,32.484879],"type":"Point"}
 }

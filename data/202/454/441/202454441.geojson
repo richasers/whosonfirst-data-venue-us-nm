@@ -2,13 +2,14 @@
   "id": 202454441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.062309,35.63058,-106.062309,35.63058",
     "geom:latitude":35.63058,
     "geom:longitude":-106.062309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4170 Cheyenne Cir",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202454441,
-    "wof:lastmodified":1449062409,
+    "wof:lastmodified":1466698575,
     "wof:name":"National Prprty Inspections NM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.062309,35.63058,-106.062309,35.63058],
+  "bbox": [
+    -106.062309,
+    35.63058,
+    -106.062309,
+    35.63058
+],
   "geometry": {"coordinates":[-106.062309,35.63058],"type":"Point"}
 }

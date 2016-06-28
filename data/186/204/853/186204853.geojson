@@ -2,13 +2,14 @@
   "id": 186204853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.98046,32.76757,-105.98046,32.76757",
     "geom:latitude":32.76757,
     "geom:longitude":-105.98046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Desert Air Rd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186204853,
-    "wof:lastmodified":1449053098,
+    "wof:lastmodified":1466698088,
     "wof:name":"Loys Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.98046,32.76757,-105.98046,32.76757],
-  "geometry": {"coordinates":[-105.98046,32.76757],"type":"Point"}
+  "bbox": [
+    -105.98046,
+    32.76757,
+    -105.98046,
+    32.76757
+],
+  "geometry": {"coordinates":[-105.98045999999999,32.76757],"type":"Point"}
 }

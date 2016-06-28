@@ -2,13 +2,14 @@
   "id": 186150575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.889146,34.051021,-106.889146,34.051021",
     "geom:latitude":34.051021,
     "geom:longitude":-106.889146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 S California St",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186150575,
-    "wof:lastmodified":1449050289,
+    "wof:lastmodified":1466699330,
     "wof:name":"Ranchers Steakhouse & Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.889146,34.051021,-106.889146,34.051021],
+  "bbox": [
+    -106.889146,
+    34.051021,
+    -106.889146,
+    34.051021
+],
   "geometry": {"coordinates":[-106.889146,34.051021],"type":"Point"}
 }

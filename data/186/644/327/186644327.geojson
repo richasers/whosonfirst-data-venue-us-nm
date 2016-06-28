@@ -2,13 +2,14 @@
   "id": 186644327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.696847,35.210448,-106.696847,35.210448",
     "geom:latitude":35.210448,
     "geom:longitude":-106.696847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10609 Rio del Sole Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186644327,
-    "wof:lastmodified":1449051915,
+    "wof:lastmodified":1466700876,
     "wof:name":"Ultimate Closet Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accessory"
     ]
 },
-  "bbox": [-106.696847,35.210448,-106.696847,35.210448],
-  "geometry": {"coordinates":[-106.696847,35.210448],"type":"Point"}
+  "bbox": [
+    -106.696847,
+    35.210448,
+    -106.696847,
+    35.210448
+],
+  "geometry": {"coordinates":[-106.69684700000001,35.210448],"type":"Point"}
 }

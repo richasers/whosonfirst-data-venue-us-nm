@@ -2,13 +2,14 @@
   "id": 202925101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.689254,35.258597,-106.689254,35.258597",
     "geom:latitude":35.258597,
     "geom:longitude":-106.689254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 California Pine Rd NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202925101,
-    "wof:lastmodified":1449060132,
+    "wof:lastmodified":1466700444,
     "wof:name":"Eventful Svc & Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "event"
     ]
 },
-  "bbox": [-106.689254,35.258597,-106.689254,35.258597],
-  "geometry": {"coordinates":[-106.689254,35.258597],"type":"Point"}
+  "bbox": [
+    -106.689254,
+    35.258597,
+    -106.689254,
+    35.258597
+],
+  "geometry": {"coordinates":[-106.68925400000001,35.258597],"type":"Point"}
 }

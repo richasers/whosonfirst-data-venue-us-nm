@@ -2,13 +2,14 @@
   "id": 169795131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.743974,34.81234,-106.743974,34.81234",
     "geom:latitude":34.81234,
     "geom:longitude":-106.743974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 Main St SW",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169795131,
-    "wof:lastmodified":1449034641,
+    "wof:lastmodified":1466698539,
     "wof:name":"Discount Wireless",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-106.743974,34.81234,-106.743974,34.81234],
-  "geometry": {"coordinates":[-106.743974,34.81234],"type":"Point"}
+  "bbox": [
+    -106.743974,
+    34.81234,
+    -106.743974,
+    34.81234
+],
+  "geometry": {"coordinates":[-106.74397399999999,34.81234],"type":"Point"}
 }

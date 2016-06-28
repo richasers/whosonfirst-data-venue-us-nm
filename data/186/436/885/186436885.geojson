@@ -2,13 +2,14 @@
   "id": 186436885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.318841,34.492575,-103.318841,34.492575",
     "geom:latitude":34.492575,
     "geom:longitude":-103.318841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8400 la Linda Ln",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186436885,
-    "wof:lastmodified":1449052767,
+    "wof:lastmodified":1466700099,
     "wof:name":"Bilberry Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "parking"
     ]
 },
-  "bbox": [-103.318841,34.492575,-103.318841,34.492575],
-  "geometry": {"coordinates":[-103.318841,34.492575],"type":"Point"}
+  "bbox": [
+    -103.318841,
+    34.492575,
+    -103.318841,
+    34.492575
+],
+  "geometry": {"coordinates":[-103.31884100000001,34.492575],"type":"Point"}
 }

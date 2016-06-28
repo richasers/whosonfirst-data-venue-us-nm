@@ -2,13 +2,14 @@
   "id": 353929587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.616707,35.115582,-106.616707,35.115582",
     "geom:latitude":35.115582,
     "geom:longitude":-106.616707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Candelaria Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":353929587,
-    "wof:lastmodified":1449019239,
+    "wof:lastmodified":1466697992,
     "wof:name":"Moderno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-106.616707,35.115582,-106.616707,35.115582],
-  "geometry": {"coordinates":[-106.616707,35.115582],"type":"Point"}
+  "bbox": [
+    -106.616707,
+    35.115582,
+    -106.616707,
+    35.115582
+],
+  "geometry": {"coordinates":[-106.61670700000001,35.115582],"type":"Point"}
 }

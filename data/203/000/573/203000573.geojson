@@ -2,13 +2,14 @@
   "id": 203000573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781279,34.722392,-106.781279,34.722392",
     "geom:latitude":34.722392,
     "geom:longitude":-106.781279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Mustang Way",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203000573,
-    "wof:lastmodified":1449025241,
+    "wof:lastmodified":1466697608,
     "wof:name":"M Add",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.781279,34.722392,-106.781279,34.722392],
+  "bbox": [
+    -106.781279,
+    34.722392,
+    -106.781279,
+    34.722392
+],
   "geometry": {"coordinates":[-106.781279,34.722392],"type":"Point"}
 }

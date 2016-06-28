@@ -2,13 +2,14 @@
   "id": 186299493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.901826,35.538256,-105.901826,35.538256",
     "geom:latitude":35.538256,
     "geom:longitude":-105.901826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Melado Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186299493,
-    "wof:lastmodified":1449051076,
+    "wof:lastmodified":1466699326,
     "wof:name":"New Mexico Lions Band Fou",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.901826,35.538256,-105.901826,35.538256],
+  "bbox": [
+    -105.901826,
+    35.538256,
+    -105.901826,
+    35.538256
+],
   "geometry": {"coordinates":[-105.901826,35.538256],"type":"Point"}
 }

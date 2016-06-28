@@ -2,13 +2,14 @@
   "id": 186018713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.311338,34.950649,-106.311338,34.950649",
     "geom:latitude":34.950649,
     "geom:longitude":-106.311338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Apple Valley Dr",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186018713,
-    "wof:lastmodified":1449051715,
+    "wof:lastmodified":1466697890,
     "wof:name":"Barton Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "studio"
     ]
 },
-  "bbox": [-106.311338,34.950649,-106.311338,34.950649],
-  "geometry": {"coordinates":[-106.311338,34.950649],"type":"Point"}
+  "bbox": [
+    -106.311338,
+    34.950649,
+    -106.311338,
+    34.950649
+],
+  "geometry": {"coordinates":[-106.31133800000001,34.950649],"type":"Point"}
 }

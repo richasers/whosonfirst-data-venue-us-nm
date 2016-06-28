@@ -2,13 +2,14 @@
   "id": 203112185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.250512,33.139426,-107.250512,33.139426",
     "geom:latitude":33.139426,
     "geom:longitude":-107.250512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 N Date St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203112185,
-    "wof:lastmodified":1449025783,
+    "wof:lastmodified":1466698892,
     "wof:name":"Paw Spa & Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pet"
     ]
 },
-  "bbox": [-107.250512,33.139426,-107.250512,33.139426],
+  "bbox": [
+    -107.250512,
+    33.139426,
+    -107.250512,
+    33.139426
+],
   "geometry": {"coordinates":[-107.250512,33.139426],"type":"Point"}
 }

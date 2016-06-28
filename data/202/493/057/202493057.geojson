@@ -2,13 +2,14 @@
   "id": 202493057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.199503,35.81951,-106.199503,35.81951",
     "geom:latitude":35.81951,
     "geom:longitude":-106.199503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"361 Aragon Ave",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202493057,
-    "wof:lastmodified":1449060913,
+    "wof:lastmodified":1466699457,
     "wof:name":"Canyon Vista Pool Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "swimming"
     ]
 },
-  "bbox": [-106.199503,35.81951,-106.199503,35.81951],
-  "geometry": {"coordinates":[-106.199503,35.81951],"type":"Point"}
+  "bbox": [
+    -106.199503,
+    35.81951,
+    -106.199503,
+    35.81951
+],
+  "geometry": {"coordinates":[-106.19950300000001,35.81951],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202701529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.603977,35.141798,-106.603977,35.141798",
     "geom:latitude":35.141798,
     "geom:longitude":-106.603977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5550 Midway Park Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202701529,
-    "wof:lastmodified":1449062131,
+    "wof:lastmodified":1466699612,
     "wof:name":"Quasar International Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-106.603977,35.141798,-106.603977,35.141798],
+  "bbox": [
+    -106.603977,
+    35.141798,
+    -106.603977,
+    35.141798
+],
   "geometry": {"coordinates":[-106.603977,35.141798],"type":"Point"}
 }

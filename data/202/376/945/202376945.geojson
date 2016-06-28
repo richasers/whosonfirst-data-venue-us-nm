@@ -2,13 +2,14 @@
   "id": 202376945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.723199,35.180154,-103.723199,35.180154",
     "geom:latitude":35.180154,
     "geom:longitude":-103.723199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 E Smith Ave",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202376945,
-    "wof:lastmodified":1449060975,
+    "wof:lastmodified":1466697633,
     "wof:name":"Tucumcari Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "housing"
     ]
 },
-  "bbox": [-103.723199,35.180154,-103.723199,35.180154],
-  "geometry": {"coordinates":[-103.723199,35.180154],"type":"Point"}
+  "bbox": [
+    -103.723199,
+    35.180154,
+    -103.723199,
+    35.180154
+],
+  "geometry": {"coordinates":[-103.72319899999999,35.180154],"type":"Point"}
 }

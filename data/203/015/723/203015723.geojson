@@ -2,13 +2,14 @@
   "id": 203015723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.025082,35.637376,-106.025082,35.637376",
     "geom:latitude":35.637376,
     "geom:longitude":-106.025082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4375 Center Pl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203015723,
-    "wof:lastmodified":1449025364,
+    "wof:lastmodified":1466697776,
     "wof:name":"One Hour Heating & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furnace"
     ]
 },
-  "bbox": [-106.025082,35.637376,-106.025082,35.637376],
+  "bbox": [
+    -106.025082,
+    35.637376,
+    -106.025082,
+    35.637376
+],
   "geometry": {"coordinates":[-106.025082,35.637376],"type":"Point"}
 }

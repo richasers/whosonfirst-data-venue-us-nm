@@ -2,13 +2,14 @@
   "id": 185947683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.230499,32.410753,-104.230499,32.410753",
     "geom:latitude":32.410753,
     "geom:longitude":-104.230499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 de Baca St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185947683,
-    "wof:lastmodified":1449007757,
+    "wof:lastmodified":1466699180,
     "wof:name":"Children Youth & Family Dept",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "resource"
     ]
 },
-  "bbox": [-104.230499,32.410753,-104.230499,32.410753],
-  "geometry": {"coordinates":[-104.230499,32.410753],"type":"Point"}
+  "bbox": [
+    -104.230499,
+    32.410753,
+    -104.230499,
+    32.410753
+],
+  "geometry": {"coordinates":[-104.23049899999999,32.410753],"type":"Point"}
 }

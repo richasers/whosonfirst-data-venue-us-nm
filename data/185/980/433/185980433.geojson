@@ -2,13 +2,14 @@
   "id": 185980433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.559635,35.13627,-106.559635,35.13627",
     "geom:latitude":35.13627,
     "geom:longitude":-106.559635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4832 Pennsylvania Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185980433,
-    "wof:lastmodified":1449006711,
+    "wof:lastmodified":1466699478,
     "wof:name":"Creative Creations",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "craft"
     ]
 },
-  "bbox": [-106.559635,35.13627,-106.559635,35.13627],
+  "bbox": [
+    -106.559635,
+    35.13627,
+    -106.559635,
+    35.13627
+],
   "geometry": {"coordinates":[-106.559635,35.13627],"type":"Point"}
 }

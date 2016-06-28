@@ -2,13 +2,14 @@
   "id": 353947885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586411,35.09827,-106.586411,35.09827",
     "geom:latitude":35.09827,
     "geom:longitude":-106.586411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":353947885,
-    "wof:lastmodified":1449020090,
+    "wof:lastmodified":1466698507,
     "wof:name":"Allstate Insurance Company - Krista Sanchez",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "renter"
     ]
 },
-  "bbox": [-106.586411,35.09827,-106.586411,35.09827],
+  "bbox": [
+    -106.586411,
+    35.09827,
+    -106.586411,
+    35.09827
+],
   "geometry": {"coordinates":[-106.586411,35.09827],"type":"Point"}
 }

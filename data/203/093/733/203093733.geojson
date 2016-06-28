@@ -2,13 +2,14 @@
   "id": 203093733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.934254,32.913037,-105.934254,32.913037",
     "geom:latitude":32.913037,
     "geom:longitude":-105.934254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 19th St",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203093733,
-    "wof:lastmodified":1449024935,
+    "wof:lastmodified":1466698641,
     "wof:name":"Profile Aspect The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.934254,32.913037,-105.934254,32.913037],
+  "bbox": [
+    -105.934254,
+    32.913037,
+    -105.934254,
+    32.913037
+],
   "geometry": {"coordinates":[-105.934254,32.913037],"type":"Point"}
 }

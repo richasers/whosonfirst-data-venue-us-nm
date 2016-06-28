@@ -2,13 +2,14 @@
   "id": 186245261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.91401,35.677916,-105.91401,35.677916",
     "geom:latitude":35.677916,
     "geom:longitude":-105.91401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 Apodaca Hill St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186245261,
-    "wof:lastmodified":1449052947,
+    "wof:lastmodified":1466698597,
     "wof:name":"Southwest Trees & Landscapes",
     "wof:parent_id":85880777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-105.91401,35.677916,-105.91401,35.677916],
+  "bbox": [
+    -105.91401,
+    35.677916,
+    -105.91401,
+    35.677916
+],
   "geometry": {"coordinates":[-105.91401,35.677916],"type":"Point"}
 }

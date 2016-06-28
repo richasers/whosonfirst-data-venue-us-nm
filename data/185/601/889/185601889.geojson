@@ -2,13 +2,14 @@
   "id": 185601889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.530419,33.393038,-104.530419,33.393038",
     "geom:latitude":33.393038,
     "geom:longitude":-104.530419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Missouri Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185601889,
-    "wof:lastmodified":1449007330,
+    "wof:lastmodified":1466697622,
     "wof:name":"Harless Tree Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.530419,33.393038,-104.530419,33.393038],
-  "geometry": {"coordinates":[-104.530419,33.393038],"type":"Point"}
+  "bbox": [
+    -104.530419,
+    33.393038,
+    -104.530419,
+    33.393038
+],
+  "geometry": {"coordinates":[-104.53041899999999,33.393038],"type":"Point"}
 }

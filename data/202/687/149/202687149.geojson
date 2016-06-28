@@ -2,13 +2,14 @@
   "id": 202687149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.549212,35.067703,-106.549212,35.067703",
     "geom:latitude":35.067703,
     "geom:longitude":-106.549212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9104 Susan Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202687149,
-    "wof:lastmodified":1449060827,
+    "wof:lastmodified":1466699546,
     "wof:name":"Manzano Mobile Home Service",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-106.549212,35.067703,-106.549212,35.067703],
+  "bbox": [
+    -106.549212,
+    35.067703,
+    -106.549212,
+    35.067703
+],
   "geometry": {"coordinates":[-106.549212,35.067703],"type":"Point"}
 }

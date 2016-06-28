@@ -2,13 +2,14 @@
   "id": 202866913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.786713,32.297468,-106.786713,32.297468",
     "geom:latitude":32.297468,
     "geom:longitude":-106.786713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"935 Cll del Sol",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202866913,
-    "wof:lastmodified":1449061331,
+    "wof:lastmodified":1466700114,
     "wof:name":"JG Consultants",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.786713,32.297468,-106.786713,32.297468],
-  "geometry": {"coordinates":[-106.786713,32.297468],"type":"Point"}
+  "bbox": [
+    -106.786713,
+    32.297468,
+    -106.786713,
+    32.297468
+],
+  "geometry": {"coordinates":[-106.78671300000001,32.297468],"type":"Point"}
 }

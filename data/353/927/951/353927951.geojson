@@ -2,13 +2,14 @@
   "id": 353927951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614433,35.05751,-106.614433,35.05751",
     "geom:latitude":35.05751,
     "geom:longitude":-106.614433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Airpark Rd SE Ste 201",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353927951,
-    "wof:lastmodified":1449020534,
+    "wof:lastmodified":1466697945,
     "wof:name":"Honeywell Federal Manufacting & Technology",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "systems-maintenance"
     ]
 },
-  "bbox": [-106.614433,35.05751,-106.614433,35.05751],
-  "geometry": {"coordinates":[-106.614433,35.05751],"type":"Point"}
+  "bbox": [
+    -106.614433,
+    35.05751,
+    -106.614433,
+    35.05751
+],
+  "geometry": {"coordinates":[-106.61443300000001,35.05751],"type":"Point"}
 }

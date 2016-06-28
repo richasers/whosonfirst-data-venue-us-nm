@@ -2,13 +2,14 @@
   "id": 169724687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.529694,35.130578,-106.529694,35.130578",
     "geom:latitude":35.130578,
     "geom:longitude":-106.529694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9904 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169724687,
-    "wof:lastmodified":1449035898,
+    "wof:lastmodified":1466697828,
     "wof:name":"Sslc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "secondary"
     ]
 },
-  "bbox": [-106.529694,35.130578,-106.529694,35.130578],
-  "geometry": {"coordinates":[-106.529694,35.130578],"type":"Point"}
+  "bbox": [
+    -106.529694,
+    35.130578,
+    -106.529694,
+    35.130578
+],
+  "geometry": {"coordinates":[-106.52969400000001,35.130578],"type":"Point"}
 }

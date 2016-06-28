@@ -2,13 +2,14 @@
   "id": 353916199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614021,35.226219,-106.614021,35.226219",
     "geom:latitude":35.226219,
     "geom:longitude":-106.614021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4583 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353916199,
-    "wof:lastmodified":1449019659,
+    "wof:lastmodified":1466699386,
     "wof:name":"Lakota Consulting",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "academic"
     ]
 },
-  "bbox": [-106.614021,35.226219,-106.614021,35.226219],
-  "geometry": {"coordinates":[-106.614021,35.226219],"type":"Point"}
+  "bbox": [
+    -106.614021,
+    35.226219,
+    -106.614021,
+    35.226219
+],
+  "geometry": {"coordinates":[-106.61402099999999,35.226219],"type":"Point"}
 }

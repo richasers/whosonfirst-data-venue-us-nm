@@ -2,13 +2,14 @@
   "id": 202544309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.553732,35.184527,-106.553732,35.184527",
     "geom:latitude":35.184527,
     "geom:longitude":-106.553732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8201 Alameda Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202544309,
-    "wof:lastmodified":1449062643,
+    "wof:lastmodified":1466699328,
     "wof:name":"LA Cueva High School Seminary",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "theological"
     ]
 },
-  "bbox": [-106.553732,35.184527,-106.553732,35.184527],
+  "bbox": [
+    -106.553732,
+    35.184527,
+    -106.553732,
+    35.184527
+],
   "geometry": {"coordinates":[-106.553732,35.184527],"type":"Point"}
 }

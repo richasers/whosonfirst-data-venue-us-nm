@@ -2,13 +2,14 @@
   "id": 186540079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960401,32.879123,-105.960401,32.879123",
     "geom:latitude":32.879123,
     "geom:longitude":-105.960401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 S White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186540079,
-    "wof:lastmodified":1449051421,
+    "wof:lastmodified":1466700362,
     "wof:name":"China Inn Buffet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.960401,32.879123,-105.960401,32.879123],
+  "bbox": [
+    -105.960401,
+    32.879123,
+    -105.960401,
+    32.879123
+],
   "geometry": {"coordinates":[-105.960401,32.879123],"type":"Point"}
 }

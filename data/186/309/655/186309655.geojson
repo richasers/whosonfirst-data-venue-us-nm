@@ -2,13 +2,14 @@
   "id": 186309655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.170638,32.727447,-103.170638,32.727447",
     "geom:latitude":32.727447,
     "geom:longitude":-103.170638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2325 NW County Rd",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186309655,
-    "wof:lastmodified":1449050991,
+    "wof:lastmodified":1466699500,
     "wof:name":"Southwest Safety Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "safety"
     ]
 },
-  "bbox": [-103.170638,32.727447,-103.170638,32.727447],
+  "bbox": [
+    -103.170638,
+    32.727447,
+    -103.170638,
+    32.727447
+],
   "geometry": {"coordinates":[-103.170638,32.727447],"type":"Point"}
 }

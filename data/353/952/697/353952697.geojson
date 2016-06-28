@@ -2,13 +2,14 @@
   "id": 353952697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.51287,35.086615,-106.51287,35.086615",
     "geom:latitude":35.086615,
     "geom:longitude":-106.51287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12200 Lomas Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353952697,
-    "wof:lastmodified":1449020081,
+    "wof:lastmodified":1466698654,
     "wof:name":"Manzano High School",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "private"
     ]
 },
-  "bbox": [-106.51287,35.086615,-106.51287,35.086615],
-  "geometry": {"coordinates":[-106.51287,35.086615],"type":"Point"}
+  "bbox": [
+    -106.51287,
+    35.086615,
+    -106.51287,
+    35.086615
+],
+  "geometry": {"coordinates":[-106.51287000000001,35.086615],"type":"Point"}
 }

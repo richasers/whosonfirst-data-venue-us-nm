@@ -2,13 +2,14 @@
   "id": 353965999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.500759,35.168261,-106.500759,35.168261",
     "geom:latitude":35.168261,
     "geom:longitude":-106.500759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12201 Pino Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353965999,
-    "wof:lastmodified":1449020030,
+    "wof:lastmodified":1466698906,
     "wof:name":"Combustion Systems",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "radiators-heating"
     ]
 },
-  "bbox": [-106.500759,35.168261,-106.500759,35.168261],
+  "bbox": [
+    -106.500759,
+    35.168261,
+    -106.500759,
+    35.168261
+],
   "geometry": {"coordinates":[-106.500759,35.168261],"type":"Point"}
 }

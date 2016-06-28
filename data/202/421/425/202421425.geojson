@@ -2,13 +2,14 @@
   "id": 202421425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.669257,35.179717,-106.669257,35.179717",
     "geom:latitude":35.179717,
     "geom:longitude":-106.669257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9180 Coors Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202421425,
-    "wof:lastmodified":1449061697,
+    "wof:lastmodified":1466698211,
     "wof:name":"21st Century Collectibles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-106.669257,35.179717,-106.669257,35.179717],
+  "bbox": [
+    -106.669257,
+    35.179717,
+    -106.669257,
+    35.179717
+],
   "geometry": {"coordinates":[-106.669257,35.179717],"type":"Point"}
 }

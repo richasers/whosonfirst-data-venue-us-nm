@@ -2,13 +2,14 @@
   "id": 186506683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.596268,35.075387,-106.596268,35.075387",
     "geom:latitude":35.075387,
     "geom:longitude":-106.596268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4302 Lead Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186506683,
-    "wof:lastmodified":1449050322,
+    "wof:lastmodified":1466700330,
     "wof:name":"AAA Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.596268,35.075387,-106.596268,35.075387],
-  "geometry": {"coordinates":[-106.596268,35.075387],"type":"Point"}
+  "bbox": [
+    -106.596268,
+    35.075387,
+    -106.596268,
+    35.075387
+],
+  "geometry": {"coordinates":[-106.59626799999999,35.075387],"type":"Point"}
 }

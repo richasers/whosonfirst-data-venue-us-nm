@@ -2,13 +2,14 @@
   "id": 202631051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.619699,35.154329,-106.619699,35.154329",
     "geom:latitude":35.154329,
     "geom:longitude":-106.619699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Arroyo Seco St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202631051,
-    "wof:lastmodified":1449060897,
+    "wof:lastmodified":1466698850,
     "wof:name":"Pats Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "motor"
     ]
 },
-  "bbox": [-106.619699,35.154329,-106.619699,35.154329],
+  "bbox": [
+    -106.619699,
+    35.154329,
+    -106.619699,
+    35.154329
+],
   "geometry": {"coordinates":[-106.619699,35.154329],"type":"Point"}
 }

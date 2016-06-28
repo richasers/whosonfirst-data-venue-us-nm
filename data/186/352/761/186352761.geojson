@@ -2,13 +2,14 @@
   "id": 186352761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.207991,34.400655,-103.207991,34.400655",
     "geom:latitude":34.400655,
     "geom:longitude":-103.207991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 N Connelly St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186352761,
-    "wof:lastmodified":1449052011,
+    "wof:lastmodified":1466699531,
     "wof:name":"Complete Flooring Installation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "floor"
     ]
 },
-  "bbox": [-103.207991,34.400655,-103.207991,34.400655],
-  "geometry": {"coordinates":[-103.207991,34.400655],"type":"Point"}
+  "bbox": [
+    -103.207991,
+    34.400655,
+    -103.207991,
+    34.400655
+],
+  "geometry": {"coordinates":[-103.20799100000001,34.400655],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186120067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.196346,34.433842,-103.196346,34.433842",
     "geom:latitude":34.433842,
     "geom:longitude":-103.196346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 E Llano Estacado Blvd",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186120067,
-    "wof:lastmodified":1449052627,
+    "wof:lastmodified":1466699097,
     "wof:name":"Inet Of New Mexico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "provider"
     ]
 },
-  "bbox": [-103.196346,34.433842,-103.196346,34.433842],
-  "geometry": {"coordinates":[-103.196346,34.433842],"type":"Point"}
+  "bbox": [
+    -103.196346,
+    34.433842,
+    -103.196346,
+    34.433842
+],
+  "geometry": {"coordinates":[-103.19634600000001,34.433842],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202675013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.999524,36.812099,-107.999524,36.812099",
     "geom:latitude":36.812099,
     "geom:longitude":-107.999524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 S Main Ave",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202675013,
-    "wof:lastmodified":1449061413,
+    "wof:lastmodified":1466699497,
     "wof:name":"Sterns Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-107.999524,36.812099,-107.999524,36.812099],
-  "geometry": {"coordinates":[-107.999524,36.812099],"type":"Point"}
+  "bbox": [
+    -107.999524,
+    36.812099,
+    -107.999524,
+    36.812099
+],
+  "geometry": {"coordinates":[-107.99952399999999,36.812099],"type":"Point"}
 }

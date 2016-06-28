@@ -2,13 +2,14 @@
   "id": 186626425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.55349,33.394135,-104.55349,33.394135",
     "geom:latitude":33.394135,
     "geom:longitude":-104.55349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 W 2nd St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186626425,
-    "wof:lastmodified":1449053028,
+    "wof:lastmodified":1466700810,
     "wof:name":"Roswell Mitsubishi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "used"
     ]
 },
-  "bbox": [-104.55349,33.394135,-104.55349,33.394135],
+  "bbox": [
+    -104.55349,
+    33.394135,
+    -104.55349,
+    33.394135
+],
   "geometry": {"coordinates":[-104.55349,33.394135],"type":"Point"}
 }

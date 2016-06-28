@@ -2,13 +2,14 @@
   "id": 186392919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.509507,35.165368,-106.509507,35.165368",
     "geom:latitude":35.165368,
     "geom:longitude":-106.509507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11810 Coronado Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186392919,
-    "wof:lastmodified":1449052478,
+    "wof:lastmodified":1466699704,
     "wof:name":"Sandia Shadows Estates Ho",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.509507,35.165368,-106.509507,35.165368],
+  "bbox": [
+    -106.509507,
+    35.165368,
+    -106.509507,
+    35.165368
+],
   "geometry": {"coordinates":[-106.509507,35.165368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202897385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.595453,36.70594,-105.595453,36.70594",
     "geom:latitude":36.70594,
     "geom:longitude":-105.595453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2457 Hwy 522",
     "sg:city":"Questa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202897385,
-    "wof:lastmodified":1449062249,
+    "wof:lastmodified":1466700492,
     "wof:name":"Wildcat's Den",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.595453,36.70594,-105.595453,36.70594],
-  "geometry": {"coordinates":[-105.595453,36.70594],"type":"Point"}
+  "bbox": [
+    -105.595453,
+    36.70594,
+    -105.595453,
+    36.70594
+],
+  "geometry": {"coordinates":[-105.59545300000001,36.70594],"type":"Point"}
 }

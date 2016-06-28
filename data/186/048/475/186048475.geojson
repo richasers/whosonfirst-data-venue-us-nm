@@ -2,13 +2,14 @@
   "id": 186048475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.554157,35.124176,-106.554157,35.124176",
     "geom:latitude":35.124176,
     "geom:longitude":-106.554157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7612 Palo Duro Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186048475,
-    "wof:lastmodified":1449051329,
+    "wof:lastmodified":1466698235,
     "wof:name":"Rozier E Sanchez",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "conciliation"
     ]
 },
-  "bbox": [-106.554157,35.124176,-106.554157,35.124176],
+  "bbox": [
+    -106.554157,
+    35.124176,
+    -106.554157,
+    35.124176
+],
   "geometry": {"coordinates":[-106.554157,35.124176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186142127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.496373,35.054632,-106.496373,35.054632",
     "geom:latitude":35.054632,
     "geom:longitude":-106.496373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 Lamp Post Cir SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186142127,
-    "wof:lastmodified":1449052477,
+    "wof:lastmodified":1466699210,
     "wof:name":"Downs-Mc Larty Sales Engineers",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "product"
     ]
 },
-  "bbox": [-106.496373,35.054632,-106.496373,35.054632],
-  "geometry": {"coordinates":[-106.496373,35.054632],"type":"Point"}
+  "bbox": [
+    -106.496373,
+    35.054632,
+    -106.496373,
+    35.054632
+],
+  "geometry": {"coordinates":[-106.49637300000001,35.054632],"type":"Point"}
 }

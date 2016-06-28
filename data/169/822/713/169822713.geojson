@@ -2,13 +2,14 @@
   "id": 169822713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.177585,36.740108,-108.177585,36.740108",
     "geom:latitude":36.740108,
     "geom:longitude":-108.177585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 N Tucker Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169822713,
-    "wof:lastmodified":1449035866,
+    "wof:lastmodified":1466698763,
     "wof:name":"Frontier Insurance Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.177585,36.740108,-108.177585,36.740108],
-  "geometry": {"coordinates":[-108.177585,36.740108],"type":"Point"}
+  "bbox": [
+    -108.177585,
+    36.740108,
+    -108.177585,
+    36.740108
+],
+  "geometry": {"coordinates":[-108.17758499999999,36.740108],"type":"Point"}
 }

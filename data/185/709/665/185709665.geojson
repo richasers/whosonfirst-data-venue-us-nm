@@ -2,13 +2,14 @@
   "id": 185709665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.506155,35.080051,-106.506155,35.080051",
     "geom:latitude":35.080051,
     "geom:longitude":-106.506155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 Chelwood Park Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185709665,
-    "wof:lastmodified":1449006936,
+    "wof:lastmodified":1466698743,
     "wof:name":"Chelwood Learning Center",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "center"
     ]
 },
-  "bbox": [-106.506155,35.080051,-106.506155,35.080051],
-  "geometry": {"coordinates":[-106.506155,35.080051],"type":"Point"}
+  "bbox": [
+    -106.506155,
+    35.080051,
+    -106.506155,
+    35.080051
+],
+  "geometry": {"coordinates":[-106.50615500000001,35.080051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185717231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.218103,32.779385,-108.218103,32.779385",
     "geom:latitude":32.779385,
     "geom:longitude":-108.218103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Flury Ln",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185717231,
-    "wof:lastmodified":1449006622,
+    "wof:lastmodified":1466698803,
     "wof:name":"Manzano's Rv Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.218103,32.779385,-108.218103,32.779385],
+  "bbox": [
+    -108.218103,
+    32.779385,
+    -108.218103,
+    32.779385
+],
   "geometry": {"coordinates":[-108.218103,32.779385],"type":"Point"}
 }

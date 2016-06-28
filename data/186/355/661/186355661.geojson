@@ -2,13 +2,14 @@
   "id": 186355661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.1376,32.841904,-103.1376,32.841904",
     "geom:latitude":32.841904,
     "geom:longitude":-103.1376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 W Pinson St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186355661,
-    "wof:lastmodified":1449051138,
+    "wof:lastmodified":1466699558,
     "wof:name":"Knowles Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "protection"
     ]
 },
-  "bbox": [-103.1376,32.841904,-103.1376,32.841904],
-  "geometry": {"coordinates":[-103.1376,32.841904],"type":"Point"}
+  "bbox": [
+    -103.1376,
+    32.841904,
+    -103.1376,
+    32.841904
+],
+  "geometry": {"coordinates":[-103.13760000000001,32.841904],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203041117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.630277,35.877482,-106.630277,35.877482",
     "geom:latitude":35.877482,
     "geom:longitude":-106.630277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Winter Rd",
     "sg:city":"Jemez Springs",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":203041117,
-    "wof:lastmodified":1449025598,
+    "wof:lastmodified":1466698045,
     "wof:name":"Ron Brown Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.630277,35.877482,-106.630277,35.877482],
-  "geometry": {"coordinates":[-106.630277,35.877482],"type":"Point"}
+  "bbox": [
+    -106.630277,
+    35.877482,
+    -106.630277,
+    35.877482
+],
+  "geometry": {"coordinates":[-106.63027700000001,35.877482],"type":"Point"}
 }

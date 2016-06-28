@@ -2,13 +2,14 @@
   "id": 186274301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.177312,36.735497,-108.177312,36.735497",
     "geom:latitude":36.735497,
     "geom:longitude":-108.177312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 S Tucker Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186274301,
-    "wof:lastmodified":1449050594,
+    "wof:lastmodified":1466698976,
     "wof:name":"Key Pressure Pumping Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "oil"
     ]
 },
-  "bbox": [-108.177312,36.735497,-108.177312,36.735497],
+  "bbox": [
+    -108.177312,
+    36.735497,
+    -108.177312,
+    36.735497
+],
   "geometry": {"coordinates":[-108.177312,36.735497],"type":"Point"}
 }

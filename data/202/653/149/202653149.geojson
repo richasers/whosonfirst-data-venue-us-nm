@@ -2,13 +2,14 @@
   "id": 202653149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.937788,35.683801,-105.937788,35.683801",
     "geom:latitude":35.683801,
     "geom:longitude":-105.937788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Old Santa Fe Trl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202653149,
-    "wof:lastmodified":1449060292,
+    "wof:lastmodified":1466699181,
     "wof:name":"Avoya Day Spa",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-105.937788,35.683801,-105.937788,35.683801],
+  "bbox": [
+    -105.937788,
+    35.683801,
+    -105.937788,
+    35.683801
+],
   "geometry": {"coordinates":[-105.937788,35.683801],"type":"Point"}
 }

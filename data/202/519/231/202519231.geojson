@@ -2,13 +2,14 @@
   "id": 202519231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.522774,35.068956,-106.522774,35.068956",
     "geom:latitude":35.068956,
     "geom:longitude":-106.522774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11101 Acoma Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202519231,
-    "wof:lastmodified":1449062474,
+    "wof:lastmodified":1466699247,
     "wof:name":"Bens A1 Auto Glass",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "replacement"
     ]
 },
-  "bbox": [-106.522774,35.068956,-106.522774,35.068956],
+  "bbox": [
+    -106.522774,
+    35.068956,
+    -106.522774,
+    35.068956
+],
   "geometry": {"coordinates":[-106.522774,35.068956],"type":"Point"}
 }

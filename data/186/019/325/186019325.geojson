@@ -2,13 +2,14 @@
   "id": 186019325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.995589,35.855462,-105.995589,35.855462",
     "geom:latitude":35.855462,
     "geom:longitude":-105.995589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Mystic Ln",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186019325,
-    "wof:lastmodified":1449051922,
+    "wof:lastmodified":1466697898,
     "wof:name":"Thompson Water Wells",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drilling"
     ]
 },
-  "bbox": [-105.995589,35.855462,-105.995589,35.855462],
+  "bbox": [
+    -105.995589,
+    35.855462,
+    -105.995589,
+    35.855462
+],
   "geometry": {"coordinates":[-105.995589,35.855462],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186406999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.501232,33.365032,-104.501232,33.365032",
     "geom:latitude":33.365032,
     "geom:longitude":-104.501232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 E Poe St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186406999,
-    "wof:lastmodified":1449051814,
+    "wof:lastmodified":1466699869,
     "wof:name":"Ponderosa Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.501232,33.365032,-104.501232,33.365032],
+  "bbox": [
+    -104.501232,
+    33.365032,
+    -104.501232,
+    33.365032
+],
   "geometry": {"coordinates":[-104.501232,33.365032],"type":"Point"}
 }

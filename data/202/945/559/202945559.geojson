@@ -2,13 +2,14 @@
   "id": 202945559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.061309,36.009393,-106.061309,36.009393",
     "geom:latitude":36.009393,
     "geom:longitude":-106.061309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 E Sandy Ln",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202945559,
-    "wof:lastmodified":1449060333,
+    "wof:lastmodified":1466700424,
     "wof:name":"Tarin Lath & Plastering",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.061309,36.009393,-106.061309,36.009393],
-  "geometry": {"coordinates":[-106.061309,36.009393],"type":"Point"}
+  "bbox": [
+    -106.061309,
+    36.009393,
+    -106.061309,
+    36.009393
+],
+  "geometry": {"coordinates":[-106.06130899999999,36.009393],"type":"Point"}
 }

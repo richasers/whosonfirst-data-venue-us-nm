@@ -2,13 +2,14 @@
   "id": 185860087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.266165,35.077903,-106.266165,35.077903",
     "geom:latitude":35.077903,
     "geom:longitude":-106.266165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Western Saddle Dr",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185860087,
-    "wof:lastmodified":1449007328,
+    "wof:lastmodified":1466698115,
     "wof:name":"Tijeras Dental Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dental"
     ]
 },
-  "bbox": [-106.266165,35.077903,-106.266165,35.077903],
+  "bbox": [
+    -106.266165,
+    35.077903,
+    -106.266165,
+    35.077903
+],
   "geometry": {"coordinates":[-106.266165,35.077903],"type":"Point"}
 }

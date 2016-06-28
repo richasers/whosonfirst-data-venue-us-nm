@@ -2,13 +2,14 @@
   "id": 186013095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.583008,35.099434,-106.583008,35.099434",
     "geom:latitude":35.099434,
     "geom:longitude":-106.583008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2036 Palomas Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186013095,
-    "wof:lastmodified":1449052185,
+    "wof:lastmodified":1466697840,
     "wof:name":"Beatrice Bevell Research",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.583008,35.099434,-106.583008,35.099434],
-  "geometry": {"coordinates":[-106.583008,35.099434],"type":"Point"}
+  "bbox": [
+    -106.583008,
+    35.099434,
+    -106.583008,
+    35.099434
+],
+  "geometry": {"coordinates":[-106.58300800000001,35.099434],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186097263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.456707,35.302275,-106.456707,35.302275",
     "geom:latitude":35.302275,
     "geom:longitude":-106.456707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Sunset Blvd",
     "sg:city":"Placitas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186097263,
-    "wof:lastmodified":1449051425,
+    "wof:lastmodified":1466698880,
     "wof:name":"Southwest Technical Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.456707,35.302275,-106.456707,35.302275],
-  "geometry": {"coordinates":[-106.456707,35.302275],"type":"Point"}
+  "bbox": [
+    -106.456707,
+    35.302275,
+    -106.456707,
+    35.302275
+],
+  "geometry": {"coordinates":[-106.45670699999999,35.302275],"type":"Point"}
 }

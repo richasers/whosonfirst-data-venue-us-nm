@@ -2,13 +2,14 @@
   "id": 169805713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.94361,35.683482,-105.94361,35.683482",
     "geom:latitude":35.683482,
     "geom:longitude":-105.94361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"453 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169805713,
-    "wof:lastmodified":1449033790,
+    "wof:lastmodified":1466698664,
     "wof:name":"Sew Natural Creative Textiles",
     "wof:parent_id":85880805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-105.94361,35.683482,-105.94361,35.683482],
-  "geometry": {"coordinates":[-105.94361,35.683482],"type":"Point"}
+  "bbox": [
+    -105.94361,
+    35.683482,
+    -105.94361,
+    35.683482
+],
+  "geometry": {"coordinates":[-105.94361000000001,35.683482],"type":"Point"}
 }

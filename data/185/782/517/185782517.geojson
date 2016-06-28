@@ -2,13 +2,14 @@
   "id": 185782517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.215629,35.806782,-106.215629,35.806782",
     "geom:latitude":35.806782,
     "geom:longitude":-106.215629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Maya Ln",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185782517,
-    "wof:lastmodified":1449006586,
+    "wof:lastmodified":1466699271,
     "wof:name":"El Vado Lake Subdivision Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.215629,35.806782,-106.215629,35.806782],
-  "geometry": {"coordinates":[-106.215629,35.806782],"type":"Point"}
+  "bbox": [
+    -106.215629,
+    35.806782,
+    -106.215629,
+    35.806782
+],
+  "geometry": {"coordinates":[-106.21562900000001,35.806782],"type":"Point"}
 }

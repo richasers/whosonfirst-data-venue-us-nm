@@ -2,13 +2,14 @@
   "id": 186064559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.542272,35.128265,-106.542272,35.128265",
     "geom:latitude":35.128265,
     "geom:longitude":-106.542272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9012 Hilton Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186064559,
-    "wof:lastmodified":1449051337,
+    "wof:lastmodified":1466698451,
     "wof:name":"KMS",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.542272,35.128265,-106.542272,35.128265],
+  "bbox": [
+    -106.542272,
+    35.128265,
+    -106.542272,
+    35.128265
+],
   "geometry": {"coordinates":[-106.542272,35.128265],"type":"Point"}
 }

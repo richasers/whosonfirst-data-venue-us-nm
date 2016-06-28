@@ -2,13 +2,14 @@
   "id": 186111943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.226323,33.148006,-107.226323,33.148006",
     "geom:latitude":33.148006,
     "geom:longitude":-107.226323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Glenn St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186111943,
-    "wof:lastmodified":1449053104,
+    "wof:lastmodified":1466699035,
     "wof:name":"Truth Or Consequences",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.226323,33.148006,-107.226323,33.148006],
-  "geometry": {"coordinates":[-107.226323,33.148006],"type":"Point"}
+  "bbox": [
+    -107.226323,
+    33.148006,
+    -107.226323,
+    33.148006
+],
+  "geometry": {"coordinates":[-107.22632299999999,33.148006],"type":"Point"}
 }

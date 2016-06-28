@@ -2,13 +2,14 @@
   "id": 186643033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.837277,32.355257,-106.837277,32.355257",
     "geom:latitude":32.355257,
     "geom:longitude":-106.837277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4640 Riverwood Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186643033,
-    "wof:lastmodified":1449052660,
+    "wof:lastmodified":1466700872,
     "wof:name":"Alexis Quality Home",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.837277,32.355257,-106.837277,32.355257],
+  "bbox": [
+    -106.837277,
+    32.355257,
+    -106.837277,
+    32.355257
+],
   "geometry": {"coordinates":[-106.837277,32.355257],"type":"Point"}
 }

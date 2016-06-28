@@ -2,13 +2,14 @@
   "id": 186247263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.565597,33.394122,-104.565597,33.394122",
     "geom:latitude":33.394122,
     "geom:longitude":-104.565597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 W 2nd St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186247263,
-    "wof:lastmodified":1449051944,
+    "wof:lastmodified":1466698626,
     "wof:name":"Main Trailer Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trailer"
     ]
 },
-  "bbox": [-104.565597,33.394122,-104.565597,33.394122],
+  "bbox": [
+    -104.565597,
+    33.394122,
+    -104.565597,
+    33.394122
+],
   "geometry": {"coordinates":[-104.565597,33.394122],"type":"Point"}
 }

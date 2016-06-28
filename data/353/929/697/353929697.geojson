@@ -2,13 +2,14 @@
   "id": 353929697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.645447,35.110804,-106.645447,35.110804",
     "geom:latitude":35.110804,
     "geom:longitude":-106.645447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Menaul Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353929697,
-    "wof:lastmodified":1449019239,
+    "wof:lastmodified":1466697995,
     "wof:name":"Affordable Tires & Svc",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "tire"
     ]
 },
-  "bbox": [-106.645447,35.110804,-106.645447,35.110804],
+  "bbox": [
+    -106.645447,
+    35.110804,
+    -106.645447,
+    35.110804
+],
   "geometry": {"coordinates":[-106.645447,35.110804],"type":"Point"}
 }

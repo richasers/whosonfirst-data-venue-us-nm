@@ -2,13 +2,14 @@
   "id": 203057525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.22776,32.420268,-104.22776,32.420268",
     "geom:latitude":32.420268,
     "geom:longitude":-104.22776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Canyon St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203057525,
-    "wof:lastmodified":1449025862,
+    "wof:lastmodified":1466698205,
     "wof:name":"Gard'n Gate Antique Mall",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "collectible"
     ]
 },
-  "bbox": [-104.22776,32.420268,-104.22776,32.420268],
+  "bbox": [
+    -104.22776,
+    32.420268,
+    -104.22776,
+    32.420268
+],
   "geometry": {"coordinates":[-104.22776,32.420268],"type":"Point"}
 }

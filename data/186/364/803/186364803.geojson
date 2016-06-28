@@ -2,13 +2,14 @@
   "id": 186364803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.952606,32.840798,-105.952606,32.840798",
     "geom:latitude":32.840798,
     "geom:longitude":-105.952606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Cielo Montana Dr",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186364803,
-    "wof:lastmodified":1449051893,
+    "wof:lastmodified":1466699826,
     "wof:name":"Larry Josselyn Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-105.952606,32.840798,-105.952606,32.840798],
+  "bbox": [
+    -105.952606,
+    32.840798,
+    -105.952606,
+    32.840798
+],
   "geometry": {"coordinates":[-105.952606,32.840798],"type":"Point"}
 }

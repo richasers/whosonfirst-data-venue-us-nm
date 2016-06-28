@@ -2,13 +2,14 @@
   "id": 203115971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.510255,35.154575,-106.510255,35.154575",
     "geom:latitude":35.154575,
     "geom:longitude":-106.510255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11432 Pine Top Ln NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203115971,
-    "wof:lastmodified":1449024926,
+    "wof:lastmodified":1466698909,
     "wof:name":"Greg Ell Media",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-106.510255,35.154575,-106.510255,35.154575],
+  "bbox": [
+    -106.510255,
+    35.154575,
+    -106.510255,
+    35.154575
+],
   "geometry": {"coordinates":[-106.510255,35.154575],"type":"Point"}
 }

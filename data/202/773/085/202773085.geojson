@@ -2,13 +2,14 @@
   "id": 202773085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.544491,35.069199,-106.544491,35.069199",
     "geom:latitude":35.069199,
     "geom:longitude":-106.544491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9201 Trumbull Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202773085,
-    "wof:lastmodified":1449060424,
+    "wof:lastmodified":1466699849,
     "wof:name":"Van Cleave Place",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-106.544491,35.069199,-106.544491,35.069199],
-  "geometry": {"coordinates":[-106.544491,35.069199],"type":"Point"}
+  "bbox": [
+    -106.544491,
+    35.069199,
+    -106.544491,
+    35.069199
+],
+  "geometry": {"coordinates":[-106.54449099999999,35.069199],"type":"Point"}
 }

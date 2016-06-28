@@ -2,13 +2,14 @@
   "id": 353926295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614534,35.080778,-106.614534,35.080778",
     "geom:latitude":35.080778,
     "geom:longitude":-106.614534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Vassar Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353926295,
-    "wof:lastmodified":1449019141,
+    "wof:lastmodified":1466697897,
     "wof:name":"Carraro's Pizza & Italian Restaurant",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "italian"
     ]
 },
-  "bbox": [-106.614534,35.080778,-106.614534,35.080778],
-  "geometry": {"coordinates":[-106.614534,35.080778],"type":"Point"}
+  "bbox": [
+    -106.614534,
+    35.080778,
+    -106.614534,
+    35.080778
+],
+  "geometry": {"coordinates":[-106.61453400000001,35.080778],"type":"Point"}
 }

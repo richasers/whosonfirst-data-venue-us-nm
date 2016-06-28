@@ -2,13 +2,14 @@
   "id": 186533629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.701761,35.11497,-106.701761,35.11497",
     "geom:latitude":35.11497,
     "geom:longitude":-106.701761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2555 Coors Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186533629,
-    "wof:lastmodified":1449050213,
+    "wof:lastmodified":1466700254,
     "wof:name":"On Stage Children's Performing",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-106.701761,35.11497,-106.701761,35.11497],
+  "bbox": [
+    -106.701761,
+    35.11497,
+    -106.701761,
+    35.11497
+],
   "geometry": {"coordinates":[-106.701761,35.11497],"type":"Point"}
 }

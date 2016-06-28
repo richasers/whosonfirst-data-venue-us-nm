@@ -2,13 +2,14 @@
   "id": 186259699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.603468,35.075513,-106.603468,35.075513",
     "geom:latitude":35.075513,
     "geom:longitude":-106.603468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Hermosa Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186259699,
-    "wof:lastmodified":1449051013,
+    "wof:lastmodified":1466698784,
     "wof:name":"Marianne Berwick",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "professor"
     ]
 },
-  "bbox": [-106.603468,35.075513,-106.603468,35.075513],
-  "geometry": {"coordinates":[-106.603468,35.075513],"type":"Point"}
+  "bbox": [
+    -106.603468,
+    35.075513,
+    -106.603468,
+    35.075513
+],
+  "geometry": {"coordinates":[-106.60346800000001,35.075513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202412117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.364042,32.939749,-103.364042,32.939749",
     "geom:latitude":32.939749,
     "geom:longitude":-103.364042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 W Ave H",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202412117,
-    "wof:lastmodified":1449060629,
+    "wof:lastmodified":1466698099,
     "wof:name":"3c Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-103.364042,32.939749,-103.364042,32.939749],
+  "bbox": [
+    -103.364042,
+    32.939749,
+    -103.364042,
+    32.939749
+],
   "geometry": {"coordinates":[-103.364042,32.939749],"type":"Point"}
 }

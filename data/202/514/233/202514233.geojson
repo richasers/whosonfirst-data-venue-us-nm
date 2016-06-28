@@ -2,13 +2,14 @@
   "id": 202514233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.228794,32.430185,-104.228794,32.430185",
     "geom:latitude":32.430185,
     "geom:longitude":-104.228794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 N Canal St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202514233,
-    "wof:lastmodified":1449061399,
+    "wof:lastmodified":1466699228,
     "wof:name":"Albertson's",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-104.228794,32.430185,-104.228794,32.430185],
-  "geometry": {"coordinates":[-104.228794,32.430185],"type":"Point"}
+  "bbox": [
+    -104.228794,
+    32.430185,
+    -104.228794,
+    32.430185
+],
+  "geometry": {"coordinates":[-104.22879399999999,32.430185],"type":"Point"}
 }

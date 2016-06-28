@@ -2,13 +2,14 @@
   "id": 186294043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.142406,32.707107,-103.142406,32.707107",
     "geom:latitude":32.707107,
     "geom:longitude":-103.142406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 N Leech St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186294043,
-    "wof:lastmodified":1449052269,
+    "wof:lastmodified":1466699252,
     "wof:name":"Young's Investment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.142406,32.707107,-103.142406,32.707107],
-  "geometry": {"coordinates":[-103.142406,32.707107],"type":"Point"}
+  "bbox": [
+    -103.142406,
+    32.707107,
+    -103.142406,
+    32.707107
+],
+  "geometry": {"coordinates":[-103.14240599999999,32.707107],"type":"Point"}
 }

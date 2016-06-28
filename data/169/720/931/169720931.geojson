@@ -2,13 +2,14 @@
   "id": 169720931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.684328,35.155601,-106.684328,35.155601",
     "geom:latitude":35.155601,
     "geom:longitude":-106.684328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 Hillspire Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169720931,
-    "wof:lastmodified":1449033483,
+    "wof:lastmodified":1466697801,
     "wof:name":"Assembly Required",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fabricating"
     ]
 },
-  "bbox": [-106.684328,35.155601,-106.684328,35.155601],
-  "geometry": {"coordinates":[-106.684328,35.155601],"type":"Point"}
+  "bbox": [
+    -106.684328,
+    35.155601,
+    -106.684328,
+    35.155601
+],
+  "geometry": {"coordinates":[-106.68432799999999,35.155601],"type":"Point"}
 }

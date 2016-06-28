@@ -2,13 +2,14 @@
   "id": 202869715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.949979,35.674542,-105.949979,35.674542",
     "geom:latitude":35.674542,
     "geom:longitude":-105.949979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Marquez Pl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202869715,
-    "wof:lastmodified":1449062454,
+    "wof:lastmodified":1466700258,
     "wof:name":"Regional Development Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.949979,35.674542,-105.949979,35.674542],
+  "bbox": [
+    -105.949979,
+    35.674542,
+    -105.949979,
+    35.674542
+],
   "geometry": {"coordinates":[-105.949979,35.674542],"type":"Point"}
 }

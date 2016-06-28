@@ -2,13 +2,14 @@
   "id": 186400523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.570779,34.214445,-103.570779,34.214445",
     "geom:latitude":34.214445,
     "geom:longitude":-103.570779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1564 State Hwy 267",
     "sg:city":"Floyd",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186400523,
-    "wof:lastmodified":1449050502,
+    "wof:lastmodified":1466699974,
     "wof:name":"Floyd Municipal School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.570779,34.214445,-103.570779,34.214445],
+  "bbox": [
+    -103.570779,
+    34.214445,
+    -103.570779,
+    34.214445
+],
   "geometry": {"coordinates":[-103.570779,34.214445],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185968345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.063648,35.962774,-106.063648,35.962774",
     "geom:latitude":35.962774,
     "geom:longitude":-106.063648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"263 State Hwy 399",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185968345,
-    "wof:lastmodified":1449006702,
+    "wof:lastmodified":1466699432,
     "wof:name":"Jaquez Drywall Co",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.063648,35.962774,-106.063648,35.962774],
+  "bbox": [
+    -106.063648,
+    35.962774,
+    -106.063648,
+    35.962774
+],
   "geometry": {"coordinates":[-106.063648,35.962774],"type":"Point"}
 }

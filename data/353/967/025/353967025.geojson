@@ -2,13 +2,14 @@
   "id": 353967025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.529909,35.084858,-106.529909,35.084858",
     "geom:latitude":35.084858,
     "geom:longitude":-106.529909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 1/2 Hotel Cir NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353967025,
-    "wof:lastmodified":1449020614,
+    "wof:lastmodified":1466698936,
     "wof:name":"Econo Lodge Albuquerque",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.529909,35.084858,-106.529909,35.084858],
+  "bbox": [
+    -106.529909,
+    35.084858,
+    -106.529909,
+    35.084858
+],
   "geometry": {"coordinates":[-106.529909,35.084858],"type":"Point"}
 }

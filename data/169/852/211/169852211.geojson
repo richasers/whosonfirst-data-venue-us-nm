@@ -2,13 +2,14 @@
   "id": 169852211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.205458,34.420892,-103.205458,34.420892",
     "geom:latitude":34.420892,
     "geom:longitude":-103.205458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 N Main St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169852211,
-    "wof:lastmodified":1449035400,
+    "wof:lastmodified":1466698889,
     "wof:name":"S & S Supermarket Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-103.205458,34.420892,-103.205458,34.420892],
-  "geometry": {"coordinates":[-103.205458,34.420892],"type":"Point"}
+  "bbox": [
+    -103.205458,
+    34.420892,
+    -103.205458,
+    34.420892
+],
+  "geometry": {"coordinates":[-103.20545799999999,34.420892],"type":"Point"}
 }

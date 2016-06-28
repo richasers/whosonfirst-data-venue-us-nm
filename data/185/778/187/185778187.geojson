@@ -2,13 +2,14 @@
   "id": 185778187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.669825,33.331472,-105.669825,33.331472",
     "geom:latitude":33.331472,
     "geom:longitude":-105.669825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2312 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":185778187,
-    "wof:lastmodified":1449006615,
+    "wof:lastmodified":1466699249,
     "wof:name":"Great Southwest The",
     "wof:parent_id":85842645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-105.669825,33.331472,-105.669825,33.331472],
+  "bbox": [
+    -105.669825,
+    33.331472,
+    -105.669825,
+    33.331472
+],
   "geometry": {"coordinates":[-105.669825,33.331472],"type":"Point"}
 }

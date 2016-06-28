@@ -2,13 +2,14 @@
   "id": 185814919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.576048,35.130922,-106.576048,35.130922",
     "geom:latitude":35.130922,
     "geom:longitude":-106.576048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6241 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":185814919,
-    "wof:lastmodified":1449006913,
+    "wof:lastmodified":1466697620,
     "wof:name":"Wolfe's Bakery Cafes",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-106.576048,35.130922,-106.576048,35.130922],
+  "bbox": [
+    -106.576048,
+    35.130922,
+    -106.576048,
+    35.130922
+],
   "geometry": {"coordinates":[-106.576048,35.130922],"type":"Point"}
 }

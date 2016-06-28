@@ -2,13 +2,14 @@
   "id": 186055667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.622753,35.218074,-106.622753,35.218074",
     "geom:latitude":35.218074,
     "geom:longitude":-106.622753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3819 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":186055667,
-    "wof:lastmodified":1449051001,
+    "wof:lastmodified":1466698324,
     "wof:name":"Corrales Concepts",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.622753,35.218074,-106.622753,35.218074],
+  "bbox": [
+    -106.622753,
+    35.218074,
+    -106.622753,
+    35.218074
+],
   "geometry": {"coordinates":[-106.622753,35.218074],"type":"Point"}
 }

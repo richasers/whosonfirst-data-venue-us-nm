@@ -2,13 +2,14 @@
   "id": 202897947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.567585,35.109052,-106.567585,35.109052",
     "geom:latitude":35.109052,
     "geom:longitude":-106.567585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6904 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202897947,
-    "wof:lastmodified":1449062250,
+    "wof:lastmodified":1466700347,
     "wof:name":"Cross Country Svc Ctr",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-106.567585,35.109052,-106.567585,35.109052],
-  "geometry": {"coordinates":[-106.567585,35.109052],"type":"Point"}
+  "bbox": [
+    -106.567585,
+    35.109052,
+    -106.567585,
+    35.109052
+],
+  "geometry": {"coordinates":[-106.56758499999999,35.109052],"type":"Point"}
 }

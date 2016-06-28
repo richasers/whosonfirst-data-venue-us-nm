@@ -2,13 +2,14 @@
   "id": 169776995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.050108,35.640741,-106.050108,35.640741",
     "geom:latitude":35.640741,
     "geom:longitude":-106.050108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5686 Agua Fria St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169776995,
-    "wof:lastmodified":1449033407,
+    "wof:lastmodified":1466698331,
     "wof:name":"LA Otra Puerta Emerg Shelter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "homeless"
     ]
 },
-  "bbox": [-106.050108,35.640741,-106.050108,35.640741],
-  "geometry": {"coordinates":[-106.050108,35.640741],"type":"Point"}
+  "bbox": [
+    -106.050108,
+    35.640741,
+    -106.050108,
+    35.640741
+],
+  "geometry": {"coordinates":[-106.05010799999999,35.640741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185838051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.990424,35.910944,-105.990424,35.910944",
     "geom:latitude":35.910944,
     "geom:longitude":-105.990424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Co Rd 113",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185838051,
-    "wof:lastmodified":1449006797,
+    "wof:lastmodified":1466697878,
     "wof:name":"Carol Lynne Velasco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.990424,35.910944,-105.990424,35.910944],
+  "bbox": [
+    -105.990424,
+    35.910944,
+    -105.990424,
+    35.910944
+],
   "geometry": {"coordinates":[-105.990424,35.910944],"type":"Point"}
 }

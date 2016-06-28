@@ -2,13 +2,14 @@
   "id": 186328901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.624741,35.117557,-106.624741,35.117557",
     "geom:latitude":35.117557,
     "geom:longitude":-106.624741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 Pan American Fwy",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186328901,
-    "wof:lastmodified":1449051945,
+    "wof:lastmodified":1466699592,
     "wof:name":"Child Care Bureau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "administrative"
     ]
 },
-  "bbox": [-106.624741,35.117557,-106.624741,35.117557],
+  "bbox": [
+    -106.624741,
+    35.117557,
+    -106.624741,
+    35.117557
+],
   "geometry": {"coordinates":[-106.624741,35.117557],"type":"Point"}
 }

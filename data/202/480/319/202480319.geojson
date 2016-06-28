@@ -2,13 +2,14 @@
   "id": 202480319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.673153,35.198317,-106.673153,35.198317",
     "geom:latitude":35.198317,
     "geom:longitude":-106.673153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10205 Snowflake Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202480319,
-    "wof:lastmodified":1449060930,
+    "wof:lastmodified":1466698964,
     "wof:name":"Advanced Engrg & Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.673153,35.198317,-106.673153,35.198317],
+  "bbox": [
+    -106.673153,
+    35.198317,
+    -106.673153,
+    35.198317
+],
   "geometry": {"coordinates":[-106.673153,35.198317],"type":"Point"}
 }

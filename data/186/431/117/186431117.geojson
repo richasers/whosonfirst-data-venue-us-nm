@@ -2,13 +2,14 @@
   "id": 186431117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613217,35.079295,-106.613217,35.079295",
     "geom:latitude":35.079295,
     "geom:longitude":-106.613217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Girard Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":186431117,
-    "wof:lastmodified":1449050696,
+    "wof:lastmodified":1466699849,
     "wof:name":"Brad Hall Law Office",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.613217,35.079295,-106.613217,35.079295],
-  "geometry": {"coordinates":[-106.613217,35.079295],"type":"Point"}
+  "bbox": [
+    -106.613217,
+    35.079295,
+    -106.613217,
+    35.079295
+],
+  "geometry": {"coordinates":[-106.61321700000001,35.079295],"type":"Point"}
 }

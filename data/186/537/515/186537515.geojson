@@ -2,13 +2,14 @@
   "id": 186537515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.660973,34.791781,-106.660973,34.791781",
     "geom:latitude":34.791781,
     "geom:longitude":-106.660973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Milton Loop",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186537515,
-    "wof:lastmodified":1449051047,
+    "wof:lastmodified":1466700354,
     "wof:name":"Hi Q Plumbing",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.660973,34.791781,-106.660973,34.791781],
+  "bbox": [
+    -106.660973,
+    34.791781,
+    -106.660973,
+    34.791781
+],
   "geometry": {"coordinates":[-106.660973,34.791781],"type":"Point"}
 }

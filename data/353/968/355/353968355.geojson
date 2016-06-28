@@ -2,13 +2,14 @@
   "id": 353968355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.54142,35.073514,-106.54142,35.073514",
     "geom:latitude":35.073514,
     "geom:longitude":-106.54142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Moon St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353968355,
-    "wof:lastmodified":1449018416,
+    "wof:lastmodified":1466698976,
     "wof:name":"Tom's RV Service & Sales",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "camper"
     ]
 },
-  "bbox": [-106.54142,35.073514,-106.54142,35.073514],
+  "bbox": [
+    -106.54142,
+    35.073514,
+    -106.54142,
+    35.073514
+],
   "geometry": {"coordinates":[-106.54142,35.073514],"type":"Point"}
 }

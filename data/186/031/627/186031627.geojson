@@ -2,13 +2,14 @@
   "id": 186031627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.533128,33.425127,-104.533128,33.425127",
     "geom:latitude":33.425127,
     "geom:longitude":-104.533128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2503 N Michigan Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186031627,
-    "wof:lastmodified":1449051377,
+    "wof:lastmodified":1466698038,
     "wof:name":"American Music & Vending Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vending"
     ]
 },
-  "bbox": [-104.533128,33.425127,-104.533128,33.425127],
+  "bbox": [
+    -104.533128,
+    33.425127,
+    -104.533128,
+    33.425127
+],
   "geometry": {"coordinates":[-104.533128,33.425127],"type":"Point"}
 }

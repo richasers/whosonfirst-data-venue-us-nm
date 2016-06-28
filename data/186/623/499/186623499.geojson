@@ -2,13 +2,14 @@
   "id": 186623499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.684685,35.118873,-106.684685,35.118873",
     "geom:latitude":35.118873,
     "geom:longitude":-106.684685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3228 Cll de Estella NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186623499,
-    "wof:lastmodified":1449052240,
+    "wof:lastmodified":1466700606,
     "wof:name":"Vendanges LLC",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "harvesting"
     ]
 },
-  "bbox": [-106.684685,35.118873,-106.684685,35.118873],
+  "bbox": [
+    -106.684685,
+    35.118873,
+    -106.684685,
+    35.118873
+],
   "geometry": {"coordinates":[-106.684685,35.118873],"type":"Point"}
 }

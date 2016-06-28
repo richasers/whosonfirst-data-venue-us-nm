@@ -2,13 +2,14 @@
   "id": 202483339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.567193,35.169886,-106.567193,35.169886",
     "geom:latitude":35.169886,
     "geom:longitude":-106.567193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7116 Remington Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202483339,
-    "wof:lastmodified":1449062116,
+    "wof:lastmodified":1466699005,
     "wof:name":"Roger Brower Advertising",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-106.567193,35.169886,-106.567193,35.169886],
+  "bbox": [
+    -106.567193,
+    35.169886,
+    -106.567193,
+    35.169886
+],
   "geometry": {"coordinates":[-106.567193,35.169886],"type":"Point"}
 }

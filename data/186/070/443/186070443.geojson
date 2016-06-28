@@ -2,13 +2,14 @@
   "id": 186070443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.621651,35.200103,-106.621651,35.200103",
     "geom:latitude":35.200103,
     "geom:longitude":-106.621651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10112 Guadalupe Trl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186070443,
-    "wof:lastmodified":1449051681,
+    "wof:lastmodified":1466698538,
     "wof:name":"Southwest Tree Specialist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-106.621651,35.200103,-106.621651,35.200103],
+  "bbox": [
+    -106.621651,
+    35.200103,
+    -106.621651,
+    35.200103
+],
   "geometry": {"coordinates":[-106.621651,35.200103],"type":"Point"}
 }

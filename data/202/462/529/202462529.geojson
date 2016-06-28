@@ -2,13 +2,14 @@
   "id": 202462529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.210862,35.069355,-106.210862,35.069355",
     "geom:latitude":35.069355,
     "geom:longitude":-106.210862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1841 Hwy 66",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202462529,
-    "wof:lastmodified":1449062542,
+    "wof:lastmodified":1466698652,
     "wof:name":"New Mexico Primary Care & Mdwf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "midwife"
     ]
 },
-  "bbox": [-106.210862,35.069355,-106.210862,35.069355],
-  "geometry": {"coordinates":[-106.210862,35.069355],"type":"Point"}
+  "bbox": [
+    -106.210862,
+    35.069355,
+    -106.210862,
+    35.069355
+],
+  "geometry": {"coordinates":[-106.21086200000001,35.069355],"type":"Point"}
 }

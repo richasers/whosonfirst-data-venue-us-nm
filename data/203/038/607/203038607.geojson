@@ -2,13 +2,14 @@
   "id": 203038607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.300996,34.964337,-106.300996,34.964337",
     "geom:latitude":34.964337,
     "geom:longitude":-106.300996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Fischer Ln",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203038607,
-    "wof:lastmodified":1449026188,
+    "wof:lastmodified":1466698004,
     "wof:name":"Burnett Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.300996,34.964337,-106.300996,34.964337],
+  "bbox": [
+    -106.300996,
+    34.964337,
+    -106.300996,
+    34.964337
+],
   "geometry": {"coordinates":[-106.300996,34.964337],"type":"Point"}
 }

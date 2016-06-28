@@ -2,13 +2,14 @@
   "id": 202729291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.963612,32.874297,-105.963612,32.874297",
     "geom:latitude":32.874297,
     "geom:longitude":-105.963612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1655 US Hwy 70",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202729291,
-    "wof:lastmodified":1449061401,
+    "wof:lastmodified":1466699718,
     "wof:name":"American Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-105.963612,32.874297,-105.963612,32.874297],
+  "bbox": [
+    -105.963612,
+    32.874297,
+    -105.963612,
+    32.874297
+],
   "geometry": {"coordinates":[-105.963612,32.874297],"type":"Point"}
 }

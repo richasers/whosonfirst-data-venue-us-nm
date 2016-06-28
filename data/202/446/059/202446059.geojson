@@ -2,13 +2,14 @@
   "id": 202446059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.56873,35.126736,-106.56873,35.126736",
     "geom:latitude":35.126736,
     "geom:longitude":-106.56873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 Louisiana Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202446059,
-    "wof:lastmodified":1449062438,
+    "wof:lastmodified":1466698498,
     "wof:name":"Congregation Albert Preschool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [-106.56873,35.126736,-106.56873,35.126736],
+  "bbox": [
+    -106.56873,
+    35.126736,
+    -106.56873,
+    35.126736
+],
   "geometry": {"coordinates":[-106.56873,35.126736],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202381719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.587688,31.81797,-106.587688,31.81797",
     "geom:latitude":31.81797,
     "geom:longitude":-106.587688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Willow West Dr",
     "sg:city":"Santa Teresa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202381719,
-    "wof:lastmodified":1449060322,
+    "wof:lastmodified":1466697698,
     "wof:name":"A Z Funding & Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-106.587688,31.81797,-106.587688,31.81797],
+  "bbox": [
+    -106.587688,
+    31.81797,
+    -106.587688,
+    31.81797
+],
   "geometry": {"coordinates":[-106.587688,31.81797],"type":"Point"}
 }

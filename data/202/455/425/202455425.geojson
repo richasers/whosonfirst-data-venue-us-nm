@@ -2,13 +2,14 @@
   "id": 202455425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.111079,36.785735,-108.111079,36.785735",
     "geom:latitude":36.785735,
     "geom:longitude":-108.111079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7425 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202455425,
-    "wof:lastmodified":1449062257,
+    "wof:lastmodified":1466698592,
     "wof:name":"Americas Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-108.111079,36.785735,-108.111079,36.785735],
+  "bbox": [
+    -108.111079,
+    36.785735,
+    -108.111079,
+    36.785735
+],
   "geometry": {"coordinates":[-108.111079,36.785735],"type":"Point"}
 }

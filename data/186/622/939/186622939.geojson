@@ -2,13 +2,14 @@
   "id": 186622939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.667666,35.214101,-106.667666,35.214101",
     "geom:latitude":35.214101,
     "geom:longitude":-106.667666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4010 Killington Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186622939,
-    "wof:lastmodified":1449052529,
+    "wof:lastmodified":1466700600,
     "wof:name":"Natural Harmony",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.667666,35.214101,-106.667666,35.214101],
+  "bbox": [
+    -106.667666,
+    35.214101,
+    -106.667666,
+    35.214101
+],
   "geometry": {"coordinates":[-106.667666,35.214101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186182579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.885865,34.035382,-106.885865,34.035382",
     "geom:latitude":34.035382,
     "geom:longitude":-106.885865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1896 Hope Farms Rd",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186182579,
-    "wof:lastmodified":1449052070,
+    "wof:lastmodified":1466697798,
     "wof:name":"Hope Farms Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.885865,34.035382,-106.885865,34.035382],
+  "bbox": [
+    -106.885865,
+    34.035382,
+    -106.885865,
+    34.035382
+],
   "geometry": {"coordinates":[-106.885865,34.035382],"type":"Point"}
 }

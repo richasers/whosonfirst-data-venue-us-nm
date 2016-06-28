@@ -2,13 +2,14 @@
   "id": 185637035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.215355,35.607092,-105.215355,35.607092",
     "geom:latitude":35.607092,
     "geom:longitude":-105.215355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1306 1st St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185637035,
-    "wof:lastmodified":1449006597,
+    "wof:lastmodified":1466698003,
     "wof:name":"Padilla Building Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.215355,35.607092,-105.215355,35.607092],
+  "bbox": [
+    -105.215355,
+    35.607092,
+    -105.215355,
+    35.607092
+],
   "geometry": {"coordinates":[-105.215355,35.607092],"type":"Point"}
 }

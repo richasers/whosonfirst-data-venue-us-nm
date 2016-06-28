@@ -2,13 +2,14 @@
   "id": 203029231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.001493,35.642277,-106.001493,35.642277",
     "geom:latitude":35.642277,
     "geom:longitude":-106.001493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2323 Cam del Prado",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203029231,
-    "wof:lastmodified":1449025724,
+    "wof:lastmodified":1466697918,
     "wof:name":"Advantage Pumping L L C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.001493,35.642277,-106.001493,35.642277],
+  "bbox": [
+    -106.001493,
+    35.642277,
+    -106.001493,
+    35.642277
+],
   "geometry": {"coordinates":[-106.001493,35.642277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337278641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.916538,35.708782,-105.916538,35.708782",
     "geom:latitude":35.708782,
     "geom:longitude":-105.916538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Barranca Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337278641,
-    "wof:lastmodified":1449027392,
+    "wof:lastmodified":1466699474,
     "wof:name":"Curtis Consulting Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scientist"
     ]
 },
-  "bbox": [-105.916538,35.708782,-105.916538,35.708782],
+  "bbox": [
+    -105.916538,
+    35.708782,
+    -105.916538,
+    35.708782
+],
   "geometry": {"coordinates":[-105.916538,35.708782],"type":"Point"}
 }

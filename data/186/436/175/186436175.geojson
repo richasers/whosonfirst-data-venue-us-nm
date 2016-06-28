@@ -2,13 +2,14 @@
   "id": 186436175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.187999,36.456001,-103.187999,36.456001",
     "geom:latitude":36.456001,
     "geom:longitude":-103.187999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Poplar St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186436175,
-    "wof:lastmodified":1449052766,
+    "wof:lastmodified":1466700093,
     "wof:name":"De Luxe Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-103.187999,36.456001,-103.187999,36.456001],
+  "bbox": [
+    -103.187999,
+    36.456001,
+    -103.187999,
+    36.456001
+],
   "geometry": {"coordinates":[-103.187999,36.456001],"type":"Point"}
 }

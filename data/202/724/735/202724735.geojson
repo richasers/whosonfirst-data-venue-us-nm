@@ -2,13 +2,14 @@
   "id": 202724735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.652843,31.84412,-106.652843,31.84412",
     "geom:latitude":31.84412,
     "geom:longitude":-106.652843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Magic Shadow Dr",
     "sg:city":"Santa Teresa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202724735,
-    "wof:lastmodified":1449062578,
+    "wof:lastmodified":1466699712,
     "wof:name":"Dos Amigos Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.652843,31.84412,-106.652843,31.84412],
+  "bbox": [
+    -106.652843,
+    31.84412,
+    -106.652843,
+    31.84412
+],
   "geometry": {"coordinates":[-106.652843,31.84412],"type":"Point"}
 }

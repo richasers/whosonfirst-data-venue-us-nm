@@ -2,13 +2,14 @@
   "id": 353940855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.590997,35.137477,-106.590997,35.137477",
     "geom:latitude":35.137477,
     "geom:longitude":-106.590997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4701 Mcleod Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353940855,
-    "wof:lastmodified":1449018885,
+    "wof:lastmodified":1466698299,
     "wof:name":"Maaco - Albuquerque",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "painting"
     ]
 },
-  "bbox": [-106.590997,35.137477,-106.590997,35.137477],
+  "bbox": [
+    -106.590997,
+    35.137477,
+    -106.590997,
+    35.137477
+],
   "geometry": {"coordinates":[-106.590997,35.137477],"type":"Point"}
 }

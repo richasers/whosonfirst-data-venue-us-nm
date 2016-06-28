@@ -2,13 +2,14 @@
   "id": 185843969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.772864,34.684322,-106.772864,34.684322",
     "geom:latitude":34.684322,
     "geom:longitude":-106.772864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Lopez Loop",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185843969,
-    "wof:lastmodified":1449006746,
+    "wof:lastmodified":1466697942,
     "wof:name":"Castillo Ready-Mix Concrete",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-106.772864,34.684322,-106.772864,34.684322],
+  "bbox": [
+    -106.772864,
+    34.684322,
+    -106.772864,
+    34.684322
+],
   "geometry": {"coordinates":[-106.772864,34.684322],"type":"Point"}
 }

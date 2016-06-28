@@ -2,13 +2,14 @@
   "id": 202689271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.535437,35.070254,-106.535437,35.070254",
     "geom:latitude":35.070254,
     "geom:longitude":-106.535437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Conchas St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202689271,
-    "wof:lastmodified":1449062235,
+    "wof:lastmodified":1466699563,
     "wof:name":"Specialty Communications",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-106.535437,35.070254,-106.535437,35.070254],
+  "bbox": [
+    -106.535437,
+    35.070254,
+    -106.535437,
+    35.070254
+],
   "geometry": {"coordinates":[-106.535437,35.070254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169706265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.326307,33.112555,-104.326307,33.112555",
     "geom:latitude":33.112555,
     "geom:longitude":-104.326307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 S Cambridge Ave",
     "sg:city":"Hagerman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169706265,
-    "wof:lastmodified":1449032914,
+    "wof:lastmodified":1466697646,
     "wof:name":"United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-104.326307,33.112555,-104.326307,33.112555],
+  "bbox": [
+    -104.326307,
+    33.112555,
+    -104.326307,
+    33.112555
+],
   "geometry": {"coordinates":[-104.326307,33.112555],"type":"Point"}
 }

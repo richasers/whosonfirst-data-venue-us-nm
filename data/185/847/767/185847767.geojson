@@ -2,13 +2,14 @@
   "id": 185847767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.302163,35.886338,-106.302163,35.886338",
     "geom:latitude":35.886338,
     "geom:longitude":-106.302163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 Canyon Rd",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185847767,
-    "wof:lastmodified":1449007178,
+    "wof:lastmodified":1466697987,
     "wof:name":"Los Alamos Jewish Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "synagogue"
     ]
 },
-  "bbox": [-106.302163,35.886338,-106.302163,35.886338],
-  "geometry": {"coordinates":[-106.302163,35.886338],"type":"Point"}
+  "bbox": [
+    -106.302163,
+    35.886338,
+    -106.302163,
+    35.886338
+],
+  "geometry": {"coordinates":[-106.30216299999999,35.886338],"type":"Point"}
 }

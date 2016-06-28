@@ -2,13 +2,14 @@
   "id": 169777277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.083234,35.994666,-106.083234,35.994666",
     "geom:latitude":35.994666,
     "geom:longitude":-106.083234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 N Pso de Onate",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169777277,
-    "wof:lastmodified":1449034428,
+    "wof:lastmodified":1466698333,
     "wof:name":"Max Rockoff",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-106.083234,35.994666,-106.083234,35.994666],
+  "bbox": [
+    -106.083234,
+    35.994666,
+    -106.083234,
+    35.994666
+],
   "geometry": {"coordinates":[-106.083234,35.994666],"type":"Point"}
 }

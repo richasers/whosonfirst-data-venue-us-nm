@@ -2,13 +2,14 @@
   "id": 202879625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.224104,35.404824,-108.224104,35.404824",
     "geom:latitude":35.404824,
     "geom:longitude":-108.224104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 4th Ave",
     "sg:city":"Thoreau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202879625,
-    "wof:lastmodified":1449060137,
+    "wof:lastmodified":1466700168,
     "wof:name":"Thoreau Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.224104,35.404824,-108.224104,35.404824],
+  "bbox": [
+    -108.224104,
+    35.404824,
+    -108.224104,
+    35.404824
+],
   "geometry": {"coordinates":[-108.224104,35.404824],"type":"Point"}
 }

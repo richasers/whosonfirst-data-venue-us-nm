@@ -2,13 +2,14 @@
   "id": 186427707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.184654,36.720492,-108.184654,36.720492",
     "geom:latitude":36.720492,
     "geom:longitude":-108.184654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1921 Bloomfield Hwy",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186427707,
-    "wof:lastmodified":1449051185,
+    "wof:lastmodified":1466699826,
     "wof:name":"Intermountain Refining Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "refiner"
     ]
 },
-  "bbox": [-108.184654,36.720492,-108.184654,36.720492],
-  "geometry": {"coordinates":[-108.184654,36.720492],"type":"Point"}
+  "bbox": [
+    -108.184654,
+    36.720492,
+    -108.184654,
+    36.720492
+],
+  "geometry": {"coordinates":[-108.18465399999999,36.720492],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202687719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.722021,35.099268,-106.722021,35.099268",
     "geom:latitude":35.099268,
     "geom:longitude":-106.722021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1324 Mesawood Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202687719,
-    "wof:lastmodified":1449060828,
+    "wof:lastmodified":1466699690,
     "wof:name":"El Mexicano Auto Sales",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.722021,35.099268,-106.722021,35.099268],
+  "bbox": [
+    -106.722021,
+    35.099268,
+    -106.722021,
+    35.099268
+],
   "geometry": {"coordinates":[-106.722021,35.099268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202862917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.38859,32.842652,-104.38859,32.842652",
     "geom:latitude":32.842652,
     "geom:longitude":-104.38859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 E Main St",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202862917,
-    "wof:lastmodified":1449062736,
+    "wof:lastmodified":1466700324,
     "wof:name":"Toolpushers Supply Co",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [-104.38859,32.842652,-104.38859,32.842652],
-  "geometry": {"coordinates":[-104.38859,32.842652],"type":"Point"}
+  "bbox": [
+    -104.38859,
+    32.842652,
+    -104.38859,
+    32.842652
+],
+  "geometry": {"coordinates":[-104.38858999999999,32.842652],"type":"Point"}
 }

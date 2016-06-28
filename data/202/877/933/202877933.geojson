@@ -2,13 +2,14 @@
   "id": 202877933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.844958,35.156121,-107.844958,35.156121",
     "geom:latitude":35.156121,
     "geom:longitude":-107.844958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 1st St",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202877933,
-    "wof:lastmodified":1449061881,
+    "wof:lastmodified":1466700274,
     "wof:name":"Shirley's Paint & Decorating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wallpaper"
     ]
 },
-  "bbox": [-107.844958,35.156121,-107.844958,35.156121],
-  "geometry": {"coordinates":[-107.844958,35.156121],"type":"Point"}
+  "bbox": [
+    -107.844958,
+    35.156121,
+    -107.844958,
+    35.156121
+],
+  "geometry": {"coordinates":[-107.84495800000001,35.156121],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185827647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.611398,35.232764,-106.611398,35.232764",
     "geom:latitude":35.232764,
     "geom:longitude":-106.611398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5093 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185827647,
-    "wof:lastmodified":1449007166,
+    "wof:lastmodified":1466697766,
     "wof:name":"Rocky Mountain Tractor Works",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.611398,35.232764,-106.611398,35.232764],
-  "geometry": {"coordinates":[-106.611398,35.232764],"type":"Point"}
+  "bbox": [
+    -106.611398,
+    35.232764,
+    -106.611398,
+    35.232764
+],
+  "geometry": {"coordinates":[-106.61139799999999,35.232764],"type":"Point"}
 }

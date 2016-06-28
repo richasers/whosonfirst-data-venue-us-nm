@@ -2,13 +2,14 @@
   "id": 202547239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.147214,32.70667,-103.147214,32.70667",
     "geom:latitude":32.70667,
     "geom:longitude":-103.147214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 N Coleman St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202547239,
-    "wof:lastmodified":1449060370,
+    "wof:lastmodified":1466697605,
     "wof:name":"Lighthouse Church Ministries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.147214,32.70667,-103.147214,32.70667],
-  "geometry": {"coordinates":[-103.147214,32.70667],"type":"Point"}
+  "bbox": [
+    -103.147214,
+    32.70667,
+    -103.147214,
+    32.70667
+],
+  "geometry": {"coordinates":[-103.14721400000001,32.70667],"type":"Point"}
 }

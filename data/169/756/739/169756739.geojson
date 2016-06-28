@@ -2,13 +2,14 @@
   "id": 169756739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.230468,34.422897,-103.230468,34.422897",
     "geom:latitude":34.422897,
     "geom:longitude":-103.230468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 Corrales Rd",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169756739,
-    "wof:lastmodified":1449034663,
+    "wof:lastmodified":1466698135,
     "wof:name":"Tommy's Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-103.230468,34.422897,-103.230468,34.422897],
+  "bbox": [
+    -103.230468,
+    34.422897,
+    -103.230468,
+    34.422897
+],
   "geometry": {"coordinates":[-103.230468,34.422897],"type":"Point"}
 }

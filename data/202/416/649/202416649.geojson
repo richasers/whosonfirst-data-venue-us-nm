@@ -2,13 +2,14 @@
   "id": 202416649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.555899,35.164256,-106.555899,35.164256",
     "geom:latitude":35.164256,
     "geom:longitude":-106.555899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8112 Otero Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202416649,
-    "wof:lastmodified":1449061269,
+    "wof:lastmodified":1466698155,
     "wof:name":"Cyber Nautica Enterprises",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "retrieval"
     ]
 },
-  "bbox": [-106.555899,35.164256,-106.555899,35.164256],
+  "bbox": [
+    -106.555899,
+    35.164256,
+    -106.555899,
+    35.164256
+],
   "geometry": {"coordinates":[-106.555899,35.164256],"type":"Point"}
 }

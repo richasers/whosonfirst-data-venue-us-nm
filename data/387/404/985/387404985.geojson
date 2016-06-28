@@ -2,13 +2,14 @@
   "id": 387404985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.549061,31.807748,-106.549061,31.807748",
     "geom:latitude":31.807748,
     "geom:longitude":-106.549061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3666 Doniphan Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387404985,
-    "wof:lastmodified":1449058638,
+    "wof:lastmodified":1466697631,
     "wof:name":"American Minerals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.549061,31.807748,-106.549061,31.807748],
-  "geometry": {"coordinates":[-106.549061,31.807748],"type":"Point"}
+  "bbox": [
+    -106.549061,
+    31.807748,
+    -106.549061,
+    31.807748
+],
+  "geometry": {"coordinates":[-106.54906099999999,31.807748],"type":"Point"}
 }

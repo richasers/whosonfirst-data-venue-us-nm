@@ -2,13 +2,14 @@
   "id": 203050473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.78024,32.32656,-106.78024,32.32656",
     "geom:latitude":32.32656,
     "geom:longitude":-106.78024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 N Mesquite St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203050473,
-    "wof:lastmodified":1449025986,
+    "wof:lastmodified":1466698141,
     "wof:name":"Green Thumb",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.78024,32.32656,-106.78024,32.32656],
-  "geometry": {"coordinates":[-106.78024,32.32656],"type":"Point"}
+  "bbox": [
+    -106.78024,
+    32.32656,
+    -106.78024,
+    32.32656
+],
+  "geometry": {"coordinates":[-106.78024000000001,32.32656],"type":"Point"}
 }

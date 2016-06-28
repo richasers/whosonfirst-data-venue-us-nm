@@ -2,13 +2,14 @@
   "id": 169768129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.705151,35.118466,-106.705151,35.118466",
     "geom:latitude":35.118466,
     "geom:longitude":-106.705151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Keplar St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169768129,
-    "wof:lastmodified":1449033956,
+    "wof:lastmodified":1466698239,
     "wof:name":"A & A Cervantes Auto Salvage",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-106.705151,35.118466,-106.705151,35.118466],
+  "bbox": [
+    -106.705151,
+    35.118466,
+    -106.705151,
+    35.118466
+],
   "geometry": {"coordinates":[-106.705151,35.118466],"type":"Point"}
 }

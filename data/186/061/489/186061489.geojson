@@ -2,13 +2,14 @@
   "id": 186061489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.474163,35.05381,-106.474163,35.05381",
     "geom:latitude":35.05381,
     "geom:longitude":-106.474163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Caballo de Fuerza Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186061489,
-    "wof:lastmodified":1449052295,
+    "wof:lastmodified":1466698391,
     "wof:name":"McSherman Entertainment LLC",
     "wof:parent_id":85892573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-106.474163,35.05381,-106.474163,35.05381],
+  "bbox": [
+    -106.474163,
+    35.05381,
+    -106.474163,
+    35.05381
+],
   "geometry": {"coordinates":[-106.474163,35.05381],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202931045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.782632,32.289195,-106.782632,32.289195",
     "geom:latitude":32.289195,
     "geom:longitude":-106.782632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 S Valley Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202931045,
-    "wof:lastmodified":1449062423,
+    "wof:lastmodified":1466700332,
     "wof:name":"Sun Loan Co",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-106.782632,32.289195,-106.782632,32.289195],
-  "geometry": {"coordinates":[-106.782632,32.289195],"type":"Point"}
+  "bbox": [
+    -106.782632,
+    32.289195,
+    -106.782632,
+    32.289195
+],
+  "geometry": {"coordinates":[-106.78263200000001,32.289195],"type":"Point"}
 }

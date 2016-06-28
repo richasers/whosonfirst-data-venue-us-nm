@@ -2,13 +2,14 @@
   "id": 186197435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.578245,35.087278,-106.578245,35.087278",
     "geom:latitude":35.087278,
     "geom:longitude":-106.578245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 Cagua Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186197435,
-    "wof:lastmodified":1449052676,
+    "wof:lastmodified":1466697992,
     "wof:name":"Bill's Mobile Pet Grooming",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-106.578245,35.087278,-106.578245,35.087278],
+  "bbox": [
+    -106.578245,
+    35.087278,
+    -106.578245,
+    35.087278
+],
   "geometry": {"coordinates":[-106.578245,35.087278],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185960687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.761762,35.520522,-108.761762,35.520522",
     "geom:latitude":35.520522,
     "geom:longitude":-108.761762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 S Dean St",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185960687,
-    "wof:lastmodified":1449007748,
+    "wof:lastmodified":1466699386,
     "wof:name":"Mexican Springs Food Dstrbtn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "product"
     ]
 },
-  "bbox": [-108.761762,35.520522,-108.761762,35.520522],
+  "bbox": [
+    -108.761762,
+    35.520522,
+    -108.761762,
+    35.520522
+],
   "geometry": {"coordinates":[-108.761762,35.520522],"type":"Point"}
 }

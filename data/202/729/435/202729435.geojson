@@ -2,13 +2,14 @@
   "id": 202729435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.083776,35.582117,-106.083776,35.582117",
     "geom:latitude":35.582117,
     "geom:longitude":-106.083776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Las Estrellas",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202729435,
-    "wof:lastmodified":1449061402,
+    "wof:lastmodified":1466699721,
     "wof:name":"Shari Soap Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.083776,35.582117,-106.083776,35.582117],
+  "bbox": [
+    -106.083776,
+    35.582117,
+    -106.083776,
+    35.582117
+],
   "geometry": {"coordinates":[-106.083776,35.582117],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186052685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.653981,35.089433,-106.653981,35.089433",
     "geom:latitude":35.089433,
     "geom:longitude":-106.653981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Roma Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186052685,
-    "wof:lastmodified":1449051585,
+    "wof:lastmodified":1466698276,
     "wof:name":"Jerry Daniel Herrera",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.653981,35.089433,-106.653981,35.089433],
+  "bbox": [
+    -106.653981,
+    35.089433,
+    -106.653981,
+    35.089433
+],
   "geometry": {"coordinates":[-106.653981,35.089433],"type":"Point"}
 }

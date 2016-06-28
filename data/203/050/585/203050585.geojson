@@ -2,13 +2,14 @@
   "id": 203050585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.494789,35.073848,-106.494789,35.073848",
     "geom:latitude":35.073848,
     "geom:longitude":-106.494789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13700 Huerfano Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203050585,
-    "wof:lastmodified":1449025989,
+    "wof:lastmodified":1466698141,
     "wof:name":"London Est Services",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.494789,35.073848,-106.494789,35.073848],
+  "bbox": [
+    -106.494789,
+    35.073848,
+    -106.494789,
+    35.073848
+],
   "geometry": {"coordinates":[-106.494789,35.073848],"type":"Point"}
 }

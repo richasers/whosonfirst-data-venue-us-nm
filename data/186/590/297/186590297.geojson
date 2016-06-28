@@ -2,13 +2,14 @@
   "id": 186590297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.441337,36.900395,-104.441337,36.900395",
     "geom:latitude":36.900395,
     "geom:longitude":-104.441337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S 3rd St",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186590297,
-    "wof:lastmodified":1449051968,
+    "wof:lastmodified":1466700606,
     "wof:name":"Raton Range",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-104.441337,36.900395,-104.441337,36.900395],
+  "bbox": [
+    -104.441337,
+    36.900395,
+    -104.441337,
+    36.900395
+],
   "geometry": {"coordinates":[-104.441337,36.900395],"type":"Point"}
 }

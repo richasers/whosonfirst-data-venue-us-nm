@@ -2,13 +2,14 @@
   "id": 203000749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.617781,35.087542,-106.617781,35.087542",
     "geom:latitude":35.087542,
     "geom:longitude":-106.617781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 Lomas Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203000749,
-    "wof:lastmodified":1449025237,
+    "wof:lastmodified":1466697608,
     "wof:name":"School Of Medicine",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.617781,35.087542,-106.617781,35.087542],
-  "geometry": {"coordinates":[-106.617781,35.087542],"type":"Point"}
+  "bbox": [
+    -106.617781,
+    35.087542,
+    -106.617781,
+    35.087542
+],
+  "geometry": {"coordinates":[-106.61778099999999,35.087542],"type":"Point"}
 }

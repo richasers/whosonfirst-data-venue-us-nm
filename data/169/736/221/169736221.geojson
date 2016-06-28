@@ -2,13 +2,14 @@
   "id": 169736221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.977813,36.823453,-107.977813,36.823453",
     "geom:latitude":36.823453,
     "geom:longitude":-107.977813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Little Rabbit Dr",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169736221,
-    "wof:lastmodified":1449035930,
+    "wof:lastmodified":1466697951,
     "wof:name":"Neil G Johansen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.977813,36.823453,-107.977813,36.823453],
+  "bbox": [
+    -107.977813,
+    36.823453,
+    -107.977813,
+    36.823453
+],
   "geometry": {"coordinates":[-107.977813,36.823453],"type":"Point"}
 }

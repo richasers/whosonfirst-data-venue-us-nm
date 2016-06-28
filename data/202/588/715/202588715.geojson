@@ -2,13 +2,14 @@
   "id": 202588715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.605626,35.278762,-106.605626,35.278762",
     "geom:latitude":35.278762,
     "geom:longitude":-106.605626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6214 Roadrunner Loop NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202588715,
-    "wof:lastmodified":1449062166,
+    "wof:lastmodified":1466698221,
     "wof:name":"Anything But Carpet",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-106.605626,35.278762,-106.605626,35.278762],
+  "bbox": [
+    -106.605626,
+    35.278762,
+    -106.605626,
+    35.278762
+],
   "geometry": {"coordinates":[-106.605626,35.278762],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186597791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.770915,32.319716,-106.770915,32.319716",
     "geom:latitude":32.319716,
     "geom:longitude":-106.770915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1041 N Solano Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186597791,
-    "wof:lastmodified":1449053003,
+    "wof:lastmodified":1466700738,
     "wof:name":"Continental Credit Corp",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-106.770915,32.319716,-106.770915,32.319716],
+  "bbox": [
+    -106.770915,
+    32.319716,
+    -106.770915,
+    32.319716
+],
   "geometry": {"coordinates":[-106.770915,32.319716],"type":"Point"}
 }

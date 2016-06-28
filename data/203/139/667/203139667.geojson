@@ -2,13 +2,14 @@
   "id": 203139667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.160156,32.734544,-103.160156,32.734544",
     "geom:latitude":32.734544,
     "geom:longitude":-103.160156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3202 N Enterprise Dr",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203139667,
-    "wof:lastmodified":1449025114,
+    "wof:lastmodified":1466699070,
     "wof:name":"Speciality Rental Tools & Sup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "construction"
     ]
 },
-  "bbox": [-103.160156,32.734544,-103.160156,32.734544],
+  "bbox": [
+    -103.160156,
+    32.734544,
+    -103.160156,
+    32.734544
+],
   "geometry": {"coordinates":[-103.160156,32.734544],"type":"Point"}
 }

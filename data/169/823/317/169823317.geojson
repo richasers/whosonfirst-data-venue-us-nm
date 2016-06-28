@@ -2,13 +2,14 @@
   "id": 169823317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.510259,35.116739,-106.510259,35.116739",
     "geom:latitude":35.116739,
     "geom:longitude":-106.510259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11600 Palm Springs Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169823317,
-    "wof:lastmodified":1449035936,
+    "wof:lastmodified":1466698760,
     "wof:name":"Virtual Accountng Sltns Inc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-106.510259,35.116739,-106.510259,35.116739],
+  "bbox": [
+    -106.510259,
+    35.116739,
+    -106.510259,
+    35.116739
+],
   "geometry": {"coordinates":[-106.510259,35.116739],"type":"Point"}
 }

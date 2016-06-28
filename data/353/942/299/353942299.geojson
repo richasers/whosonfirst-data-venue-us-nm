@@ -2,13 +2,14 @@
   "id": 353942299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.559853,35.116482,-106.559853,35.116482",
     "geom:latitude":35.116482,
     "geom:longitude":-106.559853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7701 Candelaria Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -82,10 +83,11 @@
         }
     ],
     "wof:id":353942299,
-    "wof:lastmodified":1449019424,
+    "wof:lastmodified":1466698342,
     "wof:name":"Christ Lutheran Pre-School",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -102,6 +104,11 @@
         "churches-lutheran"
     ]
 },
-  "bbox": [-106.559853,35.116482,-106.559853,35.116482],
+  "bbox": [
+    -106.559853,
+    35.116482,
+    -106.559853,
+    35.116482
+],
   "geometry": {"coordinates":[-106.559853,35.116482],"type":"Point"}
 }

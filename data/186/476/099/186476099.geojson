@@ -2,13 +2,14 @@
   "id": 186476099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.50813,35.049477,-106.50813,35.049477",
     "geom:latitude":35.049477,
     "geom:longitude":-106.50813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 Sagebrush Trl SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186476099,
-    "wof:lastmodified":1449051457,
+    "wof:lastmodified":1466700137,
     "wof:name":"McEnco Engineers Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.50813,35.049477,-106.50813,35.049477],
-  "geometry": {"coordinates":[-106.50813,35.049477],"type":"Point"}
+  "bbox": [
+    -106.50813,
+    35.049477,
+    -106.50813,
+    35.049477
+],
+  "geometry": {"coordinates":[-106.50812999999999,35.049477],"type":"Point"}
 }

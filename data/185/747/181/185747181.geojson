@@ -2,13 +2,14 @@
   "id": 185747181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.556779,33.394124,-104.556779,33.394124",
     "geom:latitude":33.394124,
     "geom:longitude":-104.556779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 W 2nd St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185747181,
-    "wof:lastmodified":1449006907,
+    "wof:lastmodified":1466699123,
     "wof:name":"Budget Inn West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.556779,33.394124,-104.556779,33.394124],
-  "geometry": {"coordinates":[-104.556779,33.394124],"type":"Point"}
+  "bbox": [
+    -104.556779,
+    33.394124,
+    -104.556779,
+    33.394124
+],
+  "geometry": {"coordinates":[-104.55677900000001,33.394124],"type":"Point"}
 }

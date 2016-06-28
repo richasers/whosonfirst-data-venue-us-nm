@@ -2,13 +2,14 @@
   "id": 202751373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.959463,35.552983,-105.959463,35.552983",
     "geom:latitude":35.552983,
     "geom:longitude":-105.959463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Azul Loop",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202751373,
-    "wof:lastmodified":1449060245,
+    "wof:lastmodified":1466699788,
     "wof:name":"Leslie Muth Gallery",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "restoring"
     ]
 },
-  "bbox": [-105.959463,35.552983,-105.959463,35.552983],
+  "bbox": [
+    -105.959463,
+    35.552983,
+    -105.959463,
+    35.552983
+],
   "geometry": {"coordinates":[-105.959463,35.552983],"type":"Point"}
 }

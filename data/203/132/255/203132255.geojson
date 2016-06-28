@@ -2,13 +2,14 @@
   "id": 203132255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.534376,35.12412,-106.534376,35.12412",
     "geom:latitude":35.12412,
     "geom:longitude":-106.534376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3705 Westerfeld Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203132255,
-    "wof:lastmodified":1449025840,
+    "wof:lastmodified":1466699023,
     "wof:name":"Yan Wang Chinese Natural Clnc",
     "wof:parent_id":85825849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-106.534376,35.12412,-106.534376,35.12412],
-  "geometry": {"coordinates":[-106.534376,35.12412],"type":"Point"}
+  "bbox": [
+    -106.534376,
+    35.12412,
+    -106.534376,
+    35.12412
+],
+  "geometry": {"coordinates":[-106.53437599999999,35.12412],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202425565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.730207,35.171838,-103.730207,35.171838",
     "geom:latitude":35.171838,
     "geom:longitude":-103.730207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 W Tucumcari Blvd",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202425565,
-    "wof:lastmodified":1449060999,
+    "wof:lastmodified":1466698259,
     "wof:name":"Income Support Div",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resource"
     ]
 },
-  "bbox": [-103.730207,35.171838,-103.730207,35.171838],
-  "geometry": {"coordinates":[-103.730207,35.171838],"type":"Point"}
+  "bbox": [
+    -103.730207,
+    35.171838,
+    -103.730207,
+    35.171838
+],
+  "geometry": {"coordinates":[-103.73020699999999,35.171838],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203131211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.468674,32.691061,-108.468674,32.691061",
     "geom:latitude":32.691061,
     "geom:longitude":-108.468674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 Red Rock Rd",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203131211,
-    "wof:lastmodified":1449025480,
+    "wof:lastmodified":1466699025,
     "wof:name":"Shining Knight Performing Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.468674,32.691061,-108.468674,32.691061],
-  "geometry": {"coordinates":[-108.468674,32.691061],"type":"Point"}
+  "bbox": [
+    -108.468674,
+    32.691061,
+    -108.468674,
+    32.691061
+],
+  "geometry": {"coordinates":[-108.46867399999999,32.691061],"type":"Point"}
 }

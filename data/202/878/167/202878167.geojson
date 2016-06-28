@@ -2,13 +2,14 @@
   "id": 202878167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.21892,36.736853,-108.21892,36.736853",
     "geom:latitude":36.736853,
     "geom:longitude":-108.21892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Municipal Dr",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202878167,
-    "wof:lastmodified":1449061436,
+    "wof:lastmodified":1466700364,
     "wof:name":"Farmington City Animal Shelter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shelter"
     ]
 },
-  "bbox": [-108.21892,36.736853,-108.21892,36.736853],
+  "bbox": [
+    -108.21892,
+    36.736853,
+    -108.21892,
+    36.736853
+],
   "geometry": {"coordinates":[-108.21892,36.736853],"type":"Point"}
 }

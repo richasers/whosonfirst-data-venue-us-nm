@@ -2,13 +2,14 @@
   "id": 186375765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.187626,34.408857,-103.187626,34.408857",
     "geom:latitude":34.408857,
     "geom:longitude":-103.187626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Sycamore St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186375765,
-    "wof:lastmodified":1449050365,
+    "wof:lastmodified":1466699639,
     "wof:name":"98.3 Rocks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-103.187626,34.408857,-103.187626,34.408857],
-  "geometry": {"coordinates":[-103.187626,34.408857],"type":"Point"}
+  "bbox": [
+    -103.187626,
+    34.408857,
+    -103.187626,
+    34.408857
+],
+  "geometry": {"coordinates":[-103.18762599999999,34.408857],"type":"Point"}
 }

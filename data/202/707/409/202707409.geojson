@@ -2,13 +2,14 @@
   "id": 202707409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.504722,35.15105,-106.504722,35.15105",
     "geom:latitude":35.15105,
     "geom:longitude":-106.504722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6133 Rose Tree Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202707409,
-    "wof:lastmodified":1449062261,
+    "wof:lastmodified":1466699623,
     "wof:name":"H Yamada & Assoc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.504722,35.15105,-106.504722,35.15105],
+  "bbox": [
+    -106.504722,
+    35.15105,
+    -106.504722,
+    35.15105
+],
   "geometry": {"coordinates":[-106.504722,35.15105],"type":"Point"}
 }

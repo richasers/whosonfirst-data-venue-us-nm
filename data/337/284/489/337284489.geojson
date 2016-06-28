@@ -2,13 +2,14 @@
   "id": 337284489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.772465,32.307286,-106.772465,32.307286",
     "geom:latitude":32.307286,
     "geom:longitude":-106.772465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 E Lohman Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337284489,
-    "wof:lastmodified":1449027456,
+    "wof:lastmodified":1466697694,
     "wof:name":"Rescare Of New Mexico",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "disability"
     ]
 },
-  "bbox": [-106.772465,32.307286,-106.772465,32.307286],
+  "bbox": [
+    -106.772465,
+    32.307286,
+    -106.772465,
+    32.307286
+],
   "geometry": {"coordinates":[-106.772465,32.307286],"type":"Point"}
 }

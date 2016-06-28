@@ -2,13 +2,14 @@
   "id": 202442191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.495083,35.091133,-106.495083,35.091133",
     "geom:latitude":35.091133,
     "geom:longitude":-106.495083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Chihuahua Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202442191,
-    "wof:lastmodified":1449061236,
+    "wof:lastmodified":1466698443,
     "wof:name":"Greater Albuquerque Church",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.495083,35.091133,-106.495083,35.091133],
-  "geometry": {"coordinates":[-106.495083,35.091133],"type":"Point"}
+  "bbox": [
+    -106.495083,
+    35.091133,
+    -106.495083,
+    35.091133
+],
+  "geometry": {"coordinates":[-106.49508299999999,35.091133],"type":"Point"}
 }

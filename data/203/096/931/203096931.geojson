@@ -2,13 +2,14 @@
   "id": 203096931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.611158,31.836357,-106.611158,31.836357",
     "geom:latitude":31.836357,
     "geom:longitude":-106.611158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Country Club Rd",
     "sg:city":"Sunland Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203096931,
-    "wof:lastmodified":1449025533,
+    "wof:lastmodified":1466698710,
     "wof:name":"Southwest Animal Care Complex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-106.611158,31.836357,-106.611158,31.836357],
+  "bbox": [
+    -106.611158,
+    31.836357,
+    -106.611158,
+    31.836357
+],
   "geometry": {"coordinates":[-106.611158,31.836357],"type":"Point"}
 }

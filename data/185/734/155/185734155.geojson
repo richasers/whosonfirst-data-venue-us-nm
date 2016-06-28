@@ -2,13 +2,14 @@
   "id": 185734155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615301,32.068064,-106.615301,32.068064",
     "geom:latitude":32.068064,
     "geom:longitude":-106.615301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 Berino Rd",
     "sg:city":"Berino",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185734155,
-    "wof:lastmodified":1449008019,
+    "wof:lastmodified":1466699022,
     "wof:name":"Berino Mutual Domestic Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "company"
     ]
 },
-  "bbox": [-106.615301,32.068064,-106.615301,32.068064],
+  "bbox": [
+    -106.615301,
+    32.068064,
+    -106.615301,
+    32.068064
+],
   "geometry": {"coordinates":[-106.615301,32.068064],"type":"Point"}
 }

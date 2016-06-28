@@ -2,13 +2,14 @@
   "id": 186009731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.583775,36.388518,-105.583775,36.388518",
     "geom:latitude":36.388518,
     "geom:longitude":-105.583775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186009731,
-    "wof:lastmodified":1449052981,
+    "wof:lastmodified":1466697803,
     "wof:name":"Rivera-Hanlon Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-105.583775,36.388518,-105.583775,36.388518],
+  "bbox": [
+    -105.583775,
+    36.388518,
+    -105.583775,
+    36.388518
+],
   "geometry": {"coordinates":[-105.583775,36.388518],"type":"Point"}
 }

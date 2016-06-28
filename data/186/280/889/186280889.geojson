@@ -2,13 +2,14 @@
   "id": 186280889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.097287,35.893224,-106.097287,35.893224",
     "geom:latitude":35.893224,
     "geom:longitude":-106.097287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Gonzales Ln",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186280889,
-    "wof:lastmodified":1449051696,
+    "wof:lastmodified":1466699068,
     "wof:name":"Jafra Cosmetics Intl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-106.097287,35.893224,-106.097287,35.893224],
-  "geometry": {"coordinates":[-106.097287,35.893224],"type":"Point"}
+  "bbox": [
+    -106.097287,
+    35.893224,
+    -106.097287,
+    35.893224
+],
+  "geometry": {"coordinates":[-106.09728699999999,35.893224],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169797757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.611977,35.082925,-106.611977,35.082925",
     "geom:latitude":35.082925,
     "geom:longitude":-106.611977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Dartmouth Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169797757,
-    "wof:lastmodified":1449035627,
+    "wof:lastmodified":1466698567,
     "wof:name":"Zion Hair & Nails Studio",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.611977,35.082925,-106.611977,35.082925],
+  "bbox": [
+    -106.611977,
+    35.082925,
+    -106.611977,
+    35.082925
+],
   "geometry": {"coordinates":[-106.611977,35.082925],"type":"Point"}
 }

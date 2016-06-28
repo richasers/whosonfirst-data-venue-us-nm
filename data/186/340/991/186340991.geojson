@@ -2,13 +2,14 @@
   "id": 186340991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.6563,35.095555,-106.6563,35.095555",
     "geom:latitude":35.095555,
     "geom:longitude":-106.6563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 Forrester Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186340991,
-    "wof:lastmodified":1449052394,
+    "wof:lastmodified":1466699483,
     "wof:name":"Kenneth M Sandoval",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-106.6563,35.095555,-106.6563,35.095555],
+  "bbox": [
+    -106.6563,
+    35.095555,
+    -106.6563,
+    35.095555
+],
   "geometry": {"coordinates":[-106.6563,35.095555],"type":"Point"}
 }

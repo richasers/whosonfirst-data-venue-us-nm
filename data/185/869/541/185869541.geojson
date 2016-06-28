@@ -2,13 +2,14 @@
   "id": 185869541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.660754,34.945729,-104.660754,34.945729",
     "geom:latitude":34.945729,
     "geom:longitude":-104.660754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2826 Will Rogers Dr",
     "sg:city":"Santa Rosa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185869541,
-    "wof:lastmodified":1449008089,
+    "wof:lastmodified":1466698207,
     "wof:name":"Campos Eastside Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-104.660754,34.945729,-104.660754,34.945729],
+  "bbox": [
+    -104.660754,
+    34.945729,
+    -104.660754,
+    34.945729
+],
   "geometry": {"coordinates":[-104.660754,34.945729],"type":"Point"}
 }

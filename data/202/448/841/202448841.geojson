@@ -2,13 +2,14 @@
   "id": 202448841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.16238,36.757198,-108.16238,36.757198",
     "geom:latitude":36.757198,
     "geom:longitude":-108.16238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3311 Colgate Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202448841,
-    "wof:lastmodified":1449062521,
+    "wof:lastmodified":1466698529,
     "wof:name":"Country Club Pet Palace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grooming"
     ]
 },
-  "bbox": [-108.16238,36.757198,-108.16238,36.757198],
+  "bbox": [
+    -108.16238,
+    36.757198,
+    -108.16238,
+    36.757198
+],
   "geometry": {"coordinates":[-108.16238,36.757198],"type":"Point"}
 }

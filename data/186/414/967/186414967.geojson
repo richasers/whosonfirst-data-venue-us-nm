@@ -2,13 +2,14 @@
   "id": 186414967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.622002,33.532942,-105.622002,33.532942",
     "geom:latitude":33.532942,
     "geom:longitude":-105.622002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 S Juniper Rd",
     "sg:city":"Capitan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186414967,
-    "wof:lastmodified":1449051636,
+    "wof:lastmodified":1466699787,
     "wof:name":"Key 3 Leather",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "harness"
     ]
 },
-  "bbox": [-105.622002,33.532942,-105.622002,33.532942],
-  "geometry": {"coordinates":[-105.622002,33.532942],"type":"Point"}
+  "bbox": [
+    -105.622002,
+    33.532942,
+    -105.622002,
+    33.532942
+],
+  "geometry": {"coordinates":[-105.62200199999999,33.532942],"type":"Point"}
 }

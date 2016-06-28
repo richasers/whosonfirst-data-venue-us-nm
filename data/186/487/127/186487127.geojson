@@ -2,13 +2,14 @@
   "id": 186487127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.757339,32.295535,-106.757339,32.295535",
     "geom:latitude":32.295535,
     "geom:longitude":-106.757339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1460 Missouri Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186487127,
-    "wof:lastmodified":1449051272,
+    "wof:lastmodified":1466700047,
     "wof:name":"Olympian University",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [-106.757339,32.295535,-106.757339,32.295535],
+  "bbox": [
+    -106.757339,
+    32.295535,
+    -106.757339,
+    32.295535
+],
   "geometry": {"coordinates":[-106.757339,32.295535],"type":"Point"}
 }

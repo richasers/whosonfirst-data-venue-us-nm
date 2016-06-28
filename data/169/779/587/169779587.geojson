@@ -2,13 +2,14 @@
   "id": 169779587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.680777,33.333824,-105.680777,33.333824",
     "geom:latitude":33.333824,
     "geom:longitude":-105.680777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2810 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169779587,
-    "wof:lastmodified":1449033196,
+    "wof:lastmodified":1466698348,
     "wof:name":"Hispanic Chamber Of Commerce",
     "wof:parent_id":85842645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [-105.680777,33.333824,-105.680777,33.333824],
-  "geometry": {"coordinates":[-105.680777,33.333824],"type":"Point"}
+  "bbox": [
+    -105.680777,
+    33.333824,
+    -105.680777,
+    33.333824
+],
+  "geometry": {"coordinates":[-105.68077700000001,33.333824],"type":"Point"}
 }

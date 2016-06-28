@@ -2,13 +2,14 @@
   "id": 185661521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.721219,35.058187,-106.721219,35.058187",
     "geom:latitude":35.058187,
     "geom:longitude":-106.721219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8130 Sage Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185661521,
-    "wof:lastmodified":1449008051,
+    "wof:lastmodified":1466698248,
     "wof:name":"Joe R Jimenez",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-106.721219,35.058187,-106.721219,35.058187],
+  "bbox": [
+    -106.721219,
+    35.058187,
+    -106.721219,
+    35.058187
+],
   "geometry": {"coordinates":[-106.721219,35.058187],"type":"Point"}
 }

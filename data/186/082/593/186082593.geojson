@@ -2,13 +2,14 @@
   "id": 186082593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.998497,35.656805,-105.998497,35.656805",
     "geom:latitude":35.656805,
     "geom:longitude":-105.998497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 Parkway Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186082593,
-    "wof:lastmodified":1449050338,
+    "wof:lastmodified":1466698684,
     "wof:name":"Never Sold Out Tickets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ticket"
     ]
 },
-  "bbox": [-105.998497,35.656805,-105.998497,35.656805],
+  "bbox": [
+    -105.998497,
+    35.656805,
+    -105.998497,
+    35.656805
+],
   "geometry": {"coordinates":[-105.998497,35.656805],"type":"Point"}
 }

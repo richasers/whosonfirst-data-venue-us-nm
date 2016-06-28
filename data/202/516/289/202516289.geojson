@@ -2,13 +2,14 @@
   "id": 202516289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.629377,35.152031,-106.629377,35.152031",
     "geom:latitude":35.152031,
     "geom:longitude":-106.629377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Osuna Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202516289,
-    "wof:lastmodified":1449060599,
+    "wof:lastmodified":1466699233,
     "wof:name":"Lawnscapers",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.629377,35.152031,-106.629377,35.152031],
-  "geometry": {"coordinates":[-106.629377,35.152031],"type":"Point"}
+  "bbox": [
+    -106.629377,
+    35.152031,
+    -106.629377,
+    35.152031
+],
+  "geometry": {"coordinates":[-106.62937700000001,35.152031],"type":"Point"}
 }

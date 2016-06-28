@@ -2,13 +2,14 @@
   "id": 185848311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.533983,35.140328,-106.533983,35.140328",
     "geom:latitude":35.140328,
     "geom:longitude":-106.533983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9605 Villa del Rey NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185848311,
-    "wof:lastmodified":1449006829,
+    "wof:lastmodified":1466697992,
     "wof:name":"Max & Associates Inc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.533983,35.140328,-106.533983,35.140328],
-  "geometry": {"coordinates":[-106.533983,35.140328],"type":"Point"}
+  "bbox": [
+    -106.533983,
+    35.140328,
+    -106.533983,
+    35.140328
+],
+  "geometry": {"coordinates":[-106.53398300000001,35.140328],"type":"Point"}
 }

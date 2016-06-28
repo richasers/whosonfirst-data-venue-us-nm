@@ -2,13 +2,14 @@
   "id": 186259253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.690981,35.151468,-106.690981,35.151468",
     "geom:latitude":35.151468,
     "geom:longitude":-106.690981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4708 Taylor Ridge Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186259253,
-    "wof:lastmodified":1449051016,
+    "wof:lastmodified":1466698779,
     "wof:name":"2 Suns Construction LLC",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.690981,35.151468,-106.690981,35.151468],
-  "geometry": {"coordinates":[-106.690981,35.151468],"type":"Point"}
+  "bbox": [
+    -106.690981,
+    35.151468,
+    -106.690981,
+    35.151468
+],
+  "geometry": {"coordinates":[-106.69098099999999,35.151468],"type":"Point"}
 }

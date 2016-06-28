@@ -2,13 +2,14 @@
   "id": 203129065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.230116,32.428594,-104.230116,32.428594",
     "geom:latitude":32.428594,
     "geom:longitude":-104.230116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 N Halagueno St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203129065,
-    "wof:lastmodified":1449026470,
+    "wof:lastmodified":1466698999,
     "wof:name":"Dave's Computers",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-104.230116,32.428594,-104.230116,32.428594],
+  "bbox": [
+    -104.230116,
+    32.428594,
+    -104.230116,
+    32.428594
+],
   "geometry": {"coordinates":[-104.230116,32.428594],"type":"Point"}
 }

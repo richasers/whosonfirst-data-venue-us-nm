@@ -2,13 +2,14 @@
   "id": 186467793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.572981,35.120703,-106.572981,35.120703",
     "geom:latitude":35.120703,
     "geom:longitude":-106.572981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6636 Mossman Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186467793,
-    "wof:lastmodified":1449052432,
+    "wof:lastmodified":1466700114,
     "wof:name":"Artists of Indian America Inc",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-106.572981,35.120703,-106.572981,35.120703],
+  "bbox": [
+    -106.572981,
+    35.120703,
+    -106.572981,
+    35.120703
+],
   "geometry": {"coordinates":[-106.572981,35.120703],"type":"Point"}
 }

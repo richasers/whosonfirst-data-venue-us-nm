@@ -2,13 +2,14 @@
   "id": 186113931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.484801,35.127424,-106.484801,35.127424",
     "geom:latitude":35.127424,
     "geom:longitude":-106.484801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13620 Deer Trail Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186113931,
-    "wof:lastmodified":1449052804,
+    "wof:lastmodified":1466699041,
     "wof:name":"Berrenberg & Assoc Inc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "show"
     ]
 },
-  "bbox": [-106.484801,35.127424,-106.484801,35.127424],
+  "bbox": [
+    -106.484801,
+    35.127424,
+    -106.484801,
+    35.127424
+],
   "geometry": {"coordinates":[-106.484801,35.127424],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202738359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.52191,35.146129,-106.52191,35.146129",
     "geom:latitude":35.146129,
     "geom:longitude":-106.52191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 Manzanillo Loop NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202738359,
-    "wof:lastmodified":1449061953,
+    "wof:lastmodified":1466699612,
     "wof:name":"Genistar Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.52191,35.146129,-106.52191,35.146129],
-  "geometry": {"coordinates":[-106.52191,35.146129],"type":"Point"}
+  "bbox": [
+    -106.52191,
+    35.146129,
+    -106.52191,
+    35.146129
+],
+  "geometry": {"coordinates":[-106.52191000000001,35.146129],"type":"Point"}
 }

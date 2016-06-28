@@ -2,13 +2,14 @@
   "id": 353915897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.84177,35.146376,-107.84177,35.146376",
     "geom:latitude":35.146376,
     "geom:longitude":-107.84177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 E Santa Fe Ave",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353915897,
-    "wof:lastmodified":1449020754,
+    "wof:lastmodified":1466697644,
     "wof:name":"Caplan, Michael J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-107.84177,35.146376,-107.84177,35.146376],
+  "bbox": [
+    -107.84177,
+    35.146376,
+    -107.84177,
+    35.146376
+],
   "geometry": {"coordinates":[-107.84177,35.146376],"type":"Point"}
 }

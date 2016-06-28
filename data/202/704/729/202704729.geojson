@@ -2,13 +2,14 @@
   "id": 202704729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.426617,36.88479,-104.426617,36.88479",
     "geom:latitude":36.88479,
     "geom:longitude":-104.426617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"855 Clayton Rd",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202704729,
-    "wof:lastmodified":1449060776,
+    "wof:lastmodified":1466699625,
     "wof:name":"Raton Truck Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stops"
     ]
 },
-  "bbox": [-104.426617,36.88479,-104.426617,36.88479],
-  "geometry": {"coordinates":[-104.426617,36.88479],"type":"Point"}
+  "bbox": [
+    -104.426617,
+    36.88479,
+    -104.426617,
+    36.88479
+],
+  "geometry": {"coordinates":[-104.42661699999999,36.88479],"type":"Point"}
 }

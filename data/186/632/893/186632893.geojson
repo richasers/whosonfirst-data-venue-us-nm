@@ -2,13 +2,14 @@
   "id": 186632893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.55683,35.081664,-106.55683,35.081664",
     "geom:latitude":35.081664,
     "geom:longitude":-106.55683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Tennessee St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186632893,
-    "wof:lastmodified":1449052093,
+    "wof:lastmodified":1466700666,
     "wof:name":"M & K Mobile Svc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-106.55683,35.081664,-106.55683,35.081664],
-  "geometry": {"coordinates":[-106.55683,35.081664],"type":"Point"}
+  "bbox": [
+    -106.55683,
+    35.081664,
+    -106.55683,
+    35.081664
+],
+  "geometry": {"coordinates":[-106.55683000000001,35.081664],"type":"Point"}
 }

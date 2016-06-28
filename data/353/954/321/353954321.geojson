@@ -2,13 +2,14 @@
   "id": 353954321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.582106,35.196061,-106.582106,35.196061",
     "geom:latitude":35.196061,
     "geom:longitude":-106.582106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5620 Venice Ave NE Ste F",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353954321,
-    "wof:lastmodified":1449020477,
+    "wof:lastmodified":1466698695,
     "wof:name":"Fuel Cell Technologies Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.582106,35.196061,-106.582106,35.196061],
+  "bbox": [
+    -106.582106,
+    35.196061,
+    -106.582106,
+    35.196061
+],
   "geometry": {"coordinates":[-106.582106,35.196061],"type":"Point"}
 }

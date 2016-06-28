@@ -2,13 +2,14 @@
   "id": 202429221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.214052,36.750561,-108.214052,36.750561",
     "geom:latitude":36.750561,
     "geom:longitude":-108.214052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2108 Palo Verde St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202429221,
-    "wof:lastmodified":1449062509,
+    "wof:lastmodified":1466698300,
     "wof:name":"Southwest Search Dogs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.214052,36.750561,-108.214052,36.750561],
+  "bbox": [
+    -108.214052,
+    36.750561,
+    -108.214052,
+    36.750561
+],
   "geometry": {"coordinates":[-108.214052,36.750561],"type":"Point"}
 }

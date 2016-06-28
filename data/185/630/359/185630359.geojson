@@ -2,13 +2,14 @@
   "id": 185630359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.603604,35.147734,-106.603604,35.147734",
     "geom:latitude":35.147734,
     "geom:longitude":-106.603604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5821 Midway Park Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185630359,
-    "wof:lastmodified":1449007161,
+    "wof:lastmodified":1466697930,
     "wof:name":"Mac Millan Distributing",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fixture"
     ]
 },
-  "bbox": [-106.603604,35.147734,-106.603604,35.147734],
+  "bbox": [
+    -106.603604,
+    35.147734,
+    -106.603604,
+    35.147734
+],
   "geometry": {"coordinates":[-106.603604,35.147734],"type":"Point"}
 }

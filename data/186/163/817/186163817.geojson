@@ -2,13 +2,14 @@
   "id": 186163817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.678357,35.047881,-106.678357,35.047881",
     "geom:latitude":35.047881,
     "geom:longitude":-106.678357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1926 Isleta Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186163817,
-    "wof:lastmodified":1449052976,
+    "wof:lastmodified":1466699369,
     "wof:name":"Mel's Tortilleria & Chile Prod",
     "wof:parent_id":85892585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-106.678357,35.047881,-106.678357,35.047881],
-  "geometry": {"coordinates":[-106.678357,35.047881],"type":"Point"}
+  "bbox": [
+    -106.678357,
+    35.047881,
+    -106.678357,
+    35.047881
+],
+  "geometry": {"coordinates":[-106.67835700000001,35.047881],"type":"Point"}
 }

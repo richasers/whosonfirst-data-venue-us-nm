@@ -2,13 +2,14 @@
   "id": 186268535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.498409,35.109282,-106.498409,35.109282",
     "geom:latitude":35.109282,
     "geom:longitude":-106.498409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12412 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":186268535,
-    "wof:lastmodified":1449051904,
+    "wof:lastmodified":1466698895,
     "wof:name":"Bruni/KARR Rental & Management",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-106.498409,35.109282,-106.498409,35.109282],
+  "bbox": [
+    -106.498409,
+    35.109282,
+    -106.498409,
+    35.109282
+],
   "geometry": {"coordinates":[-106.498409,35.109282],"type":"Point"}
 }

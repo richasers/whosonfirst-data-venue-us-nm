@@ -2,13 +2,14 @@
   "id": 353956415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.666161,35.192001,-106.666161,35.192001",
     "geom:latitude":35.192001,
     "geom:longitude":-106.666161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 New Vistas Ct NW A",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353956415,
-    "wof:lastmodified":1449018675,
+    "wof:lastmodified":1466698723,
     "wof:name":"La Petite Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "day"
     ]
 },
-  "bbox": [-106.666161,35.192001,-106.666161,35.192001],
+  "bbox": [
+    -106.666161,
+    35.192001,
+    -106.666161,
+    35.192001
+],
   "geometry": {"coordinates":[-106.666161,35.192001],"type":"Point"}
 }

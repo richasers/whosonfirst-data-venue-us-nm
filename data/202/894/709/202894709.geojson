@@ -2,13 +2,14 @@
   "id": 202894709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.170194,34.395829,-103.170194,34.395829",
     "geom:latitude":34.395829,
     "geom:longitude":-103.170194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Mabry Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202894709,
-    "wof:lastmodified":1449061156,
+    "wof:lastmodified":1466700244,
     "wof:name":"Town & Country Food Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-103.170194,34.395829,-103.170194,34.395829],
+  "bbox": [
+    -103.170194,
+    34.395829,
+    -103.170194,
+    34.395829
+],
   "geometry": {"coordinates":[-103.170194,34.395829],"type":"Point"}
 }

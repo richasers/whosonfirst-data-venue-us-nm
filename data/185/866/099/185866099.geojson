@@ -2,13 +2,14 @@
   "id": 185866099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.627545,35.081409,-106.627545,35.081409",
     "geom:latitude":35.081409,
     "geom:longitude":-106.627545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185866099,
-    "wof:lastmodified":1449007385,
+    "wof:lastmodified":1466698175,
     "wof:name":"Albuquerque Florist Wholesale",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "florist"
     ]
 },
-  "bbox": [-106.627545,35.081409,-106.627545,35.081409],
+  "bbox": [
+    -106.627545,
+    35.081409,
+    -106.627545,
+    35.081409
+],
   "geometry": {"coordinates":[-106.627545,35.081409],"type":"Point"}
 }

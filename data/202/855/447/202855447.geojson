@@ -2,13 +2,14 @@
   "id": 202855447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.338711,34.188422,-103.338711,34.188422",
     "geom:latitude":34.188422,
     "geom:longitude":-103.338711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E Railroad St",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202855447,
-    "wof:lastmodified":1449061971,
+    "wof:lastmodified":1466700212,
     "wof:name":"LA Bonte Welding & Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-103.338711,34.188422,-103.338711,34.188422],
+  "bbox": [
+    -103.338711,
+    34.188422,
+    -103.338711,
+    34.188422
+],
   "geometry": {"coordinates":[-103.338711,34.188422],"type":"Point"}
 }

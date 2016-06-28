@@ -2,13 +2,14 @@
   "id": 186053801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.710652,35.089349,-106.710652,35.089349",
     "geom:latitude":35.089349,
     "geom:longitude":-106.710652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Coors Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186053801,
-    "wof:lastmodified":1449050914,
+    "wof:lastmodified":1466698294,
     "wof:name":"Westland Development Co Inc",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.710652,35.089349,-106.710652,35.089349],
+  "bbox": [
+    -106.710652,
+    35.089349,
+    -106.710652,
+    35.089349
+],
   "geometry": {"coordinates":[-106.710652,35.089349],"type":"Point"}
 }

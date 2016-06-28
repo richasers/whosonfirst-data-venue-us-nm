@@ -2,13 +2,14 @@
   "id": 185872139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.96576,32.914304,-105.96576,32.914304",
     "geom:latitude":32.914304,
     "geom:longitude":-105.96576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 W Arnold Ln",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185872139,
-    "wof:lastmodified":1449006750,
+    "wof:lastmodified":1466698232,
     "wof:name":"Arthur Cardiel Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.96576,32.914304,-105.96576,32.914304],
+  "bbox": [
+    -105.96576,
+    32.914304,
+    -105.96576,
+    32.914304
+],
   "geometry": {"coordinates":[-105.96576,32.914304],"type":"Point"}
 }

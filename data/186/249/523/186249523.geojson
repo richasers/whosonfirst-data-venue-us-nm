@@ -2,13 +2,14 @@
   "id": 186249523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.774797,34.666534,-106.774797,34.666534",
     "geom:latitude":34.666534,
     "geom:longitude":-106.774797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 N Main St",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186249523,
-    "wof:lastmodified":1449050406,
+    "wof:lastmodified":1466698654,
     "wof:name":"Bosque Hobbies",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.774797,34.666534,-106.774797,34.666534],
-  "geometry": {"coordinates":[-106.774797,34.666534],"type":"Point"}
+  "bbox": [
+    -106.774797,
+    34.666534,
+    -106.774797,
+    34.666534
+],
+  "geometry": {"coordinates":[-106.77479700000001,34.666534],"type":"Point"}
 }

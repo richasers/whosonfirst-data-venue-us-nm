@@ -2,13 +2,14 @@
   "id": 186382043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.587593,35.101907,-106.587593,35.101907",
     "geom:latitude":35.101907,
     "geom:longitude":-106.587593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5001 Indian School Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186382043,
-    "wof:lastmodified":1449051100,
+    "wof:lastmodified":1466699784,
     "wof:name":"Semi Conductor Design Svc",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-106.587593,35.101907,-106.587593,35.101907],
+  "bbox": [
+    -106.587593,
+    35.101907,
+    -106.587593,
+    35.101907
+],
   "geometry": {"coordinates":[-106.587593,35.101907],"type":"Point"}
 }

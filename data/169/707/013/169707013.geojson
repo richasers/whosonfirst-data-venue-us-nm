@@ -2,13 +2,14 @@
   "id": 169707013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.545771,35.073345,-106.545771,35.073345",
     "geom:latitude":35.073345,
     "geom:longitude":-106.545771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9132 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169707013,
-    "wof:lastmodified":1449035441,
+    "wof:lastmodified":1466699386,
     "wof:name":"Motor Cycle Wild Parts & Accss",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-106.545771,35.073345,-106.545771,35.073345],
+  "bbox": [
+    -106.545771,
+    35.073345,
+    -106.545771,
+    35.073345
+],
   "geometry": {"coordinates":[-106.545771,35.073345],"type":"Point"}
 }

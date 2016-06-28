@@ -2,13 +2,14 @@
   "id": 186121083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.542949,35.180151,-106.542949,35.180151",
     "geom:latitude":35.180151,
     "geom:longitude":-106.542949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8415 Vintage Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186121083,
-    "wof:lastmodified":1449052411,
+    "wof:lastmodified":1466699110,
     "wof:name":"VNS&s",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [-106.542949,35.180151,-106.542949,35.180151],
-  "geometry": {"coordinates":[-106.542949,35.180151],"type":"Point"}
+  "bbox": [
+    -106.542949,
+    35.180151,
+    -106.542949,
+    35.180151
+],
+  "geometry": {"coordinates":[-106.54294899999999,35.180151],"type":"Point"}
 }

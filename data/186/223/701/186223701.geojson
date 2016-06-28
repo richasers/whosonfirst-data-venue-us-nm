@@ -2,13 +2,14 @@
   "id": 186223701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.779041,32.299537,-106.779041,32.299537",
     "geom:latitude":32.299537,
     "geom:longitude":-106.779041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 S Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186223701,
-    "wof:lastmodified":1449050441,
+    "wof:lastmodified":1466698315,
     "wof:name":"Lilley Law Offices",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.779041,32.299537,-106.779041,32.299537],
-  "geometry": {"coordinates":[-106.779041,32.299537],"type":"Point"}
+  "bbox": [
+    -106.779041,
+    32.299537,
+    -106.779041,
+    32.299537
+],
+  "geometry": {"coordinates":[-106.77904100000001,32.299537],"type":"Point"}
 }

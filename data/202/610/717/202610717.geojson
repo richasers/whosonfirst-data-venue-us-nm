@@ -2,13 +2,14 @@
   "id": 202610717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.579829,36.408616,-105.579829,36.408616",
     "geom:latitude":36.408616,
     "geom:longitude":-105.579829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Don Fernando St",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202610717,
-    "wof:lastmodified":1449062591,
+    "wof:lastmodified":1466698526,
     "wof:name":"Enos Garcia Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.579829,36.408616,-105.579829,36.408616],
+  "bbox": [
+    -105.579829,
+    36.408616,
+    -105.579829,
+    36.408616
+],
   "geometry": {"coordinates":[-105.579829,36.408616],"type":"Point"}
 }

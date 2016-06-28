@@ -2,13 +2,14 @@
   "id": 337287043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.043681,36.672432,-108.043681,36.672432",
     "geom:latitude":36.672432,
     "geom:longitude":-108.043681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Rd 5250",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337287043,
-    "wof:lastmodified":1449026990,
+    "wof:lastmodified":1466697771,
     "wof:name":"Ridgeback Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "oil"
     ]
 },
-  "bbox": [-108.043681,36.672432,-108.043681,36.672432],
-  "geometry": {"coordinates":[-108.043681,36.672432],"type":"Point"}
+  "bbox": [
+    -108.043681,
+    36.672432,
+    -108.043681,
+    36.672432
+],
+  "geometry": {"coordinates":[-108.04368100000001,36.672432],"type":"Point"}
 }

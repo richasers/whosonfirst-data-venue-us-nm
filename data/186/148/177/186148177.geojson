@@ -2,13 +2,14 @@
   "id": 186148177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.595596,36.371187,-105.595596,36.371187",
     "geom:latitude":36.371187,
     "geom:longitude":-105.595596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1446 State Rte 68",
     "sg:city":"Velarde",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186148177,
-    "wof:lastmodified":1449052586,
+    "wof:lastmodified":1466699257,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.595596,36.371187,-105.595596,36.371187],
+  "bbox": [
+    -105.595596,
+    36.371187,
+    -105.595596,
+    36.371187
+],
   "geometry": {"coordinates":[-105.595596,36.371187],"type":"Point"}
 }

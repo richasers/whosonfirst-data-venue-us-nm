@@ -2,13 +2,14 @@
   "id": 202705853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.495318,35.130273,-106.495318,35.130273",
     "geom:latitude":35.130273,
     "geom:longitude":-106.495318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4449 Walden Ln NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202705853,
-    "wof:lastmodified":1449062663,
+    "wof:lastmodified":1466699627,
     "wof:name":"On Site Cmpt RPS Albuquerque",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.495318,35.130273,-106.495318,35.130273],
+  "bbox": [
+    -106.495318,
+    35.130273,
+    -106.495318,
+    35.130273
+],
   "geometry": {"coordinates":[-106.495318,35.130273],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185749273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.755145,32.249926,-106.755145,32.249926",
     "geom:latitude":32.249926,
     "geom:longitude":-106.755145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4425 Lamar Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185749273,
-    "wof:lastmodified":1449007074,
+    "wof:lastmodified":1466699151,
     "wof:name":"Comyford Builders",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.755145,32.249926,-106.755145,32.249926],
+  "bbox": [
+    -106.755145,
+    32.249926,
+    -106.755145,
+    32.249926
+],
   "geometry": {"coordinates":[-106.755145,32.249926],"type":"Point"}
 }

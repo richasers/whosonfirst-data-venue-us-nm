@@ -2,13 +2,14 @@
   "id": 186053773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615138,35.120174,-106.615138,35.120174",
     "geom:latitude":35.120174,
     "geom:longitude":-106.615138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Vassar Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186053773,
-    "wof:lastmodified":1449050909,
+    "wof:lastmodified":1466698293,
     "wof:name":"Donner Plumbing & Heating",
     "wof:parent_id":85871893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.615138,35.120174,-106.615138,35.120174],
+  "bbox": [
+    -106.615138,
+    35.120174,
+    -106.615138,
+    35.120174
+],
   "geometry": {"coordinates":[-106.615138,35.120174],"type":"Point"}
 }

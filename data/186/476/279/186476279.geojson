@@ -2,13 +2,14 @@
   "id": 186476279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.691881,34.984981,-106.691881,34.984981",
     "geom:latitude":34.984981,
     "geom:longitude":-106.691881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1911 Louise Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186476279,
-    "wof:lastmodified":1449051457,
+    "wof:lastmodified":1466700029,
     "wof:name":"Carolyn Olsen Educational Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-106.691881,34.984981,-106.691881,34.984981],
+  "bbox": [
+    -106.691881,
+    34.984981,
+    -106.691881,
+    34.984981
+],
   "geometry": {"coordinates":[-106.691881,34.984981],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185703211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.742997,32.253125,-107.742997,32.253125",
     "geom:latitude":32.253125,
     "geom:longitude":-107.742997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 S Saddler St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185703211,
-    "wof:lastmodified":1449007093,
+    "wof:lastmodified":1466698654,
     "wof:name":"Klingler Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-107.742997,32.253125,-107.742997,32.253125],
+  "bbox": [
+    -107.742997,
+    32.253125,
+    -107.742997,
+    32.253125
+],
   "geometry": {"coordinates":[-107.742997,32.253125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202842521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.55036,35.079921,-106.55036,35.079921",
     "geom:latitude":35.079921,
     "geom:longitude":-106.55036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202842521,
-    "wof:lastmodified":1449060300,
+    "wof:lastmodified":1466700155,
     "wof:name":"Rick's Custom Detail Shop Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-106.55036,35.079921,-106.55036,35.079921],
+  "bbox": [
+    -106.55036,
+    35.079921,
+    -106.55036,
+    35.079921
+],
   "geometry": {"coordinates":[-106.55036,35.079921],"type":"Point"}
 }

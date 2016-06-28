@@ -2,13 +2,14 @@
   "id": 186215633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.951756,36.876992,-107.951756,36.876992",
     "geom:latitude":36.876992,
     "geom:longitude":-107.951756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Rd 2800",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186215633,
-    "wof:lastmodified":1449052542,
+    "wof:lastmodified":1466698219,
     "wof:name":"Hearbalife Independent Distr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "diet"
     ]
 },
-  "bbox": [-107.951756,36.876992,-107.951756,36.876992],
+  "bbox": [
+    -107.951756,
+    36.876992,
+    -107.951756,
+    36.876992
+],
   "geometry": {"coordinates":[-107.951756,36.876992],"type":"Point"}
 }

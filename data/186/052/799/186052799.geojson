@@ -2,13 +2,14 @@
   "id": 186052799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.955071,32.901748,-105.955071,32.901748",
     "geom:latitude":32.901748,
     "geom:longitude":-105.955071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 Ohio Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186052799,
-    "wof:lastmodified":1449051586,
+    "wof:lastmodified":1466698278,
     "wof:name":"Shields B J CMA Lmt 3587",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.955071,32.901748,-105.955071,32.901748],
+  "bbox": [
+    -105.955071,
+    32.901748,
+    -105.955071,
+    32.901748
+],
   "geometry": {"coordinates":[-105.955071,32.901748],"type":"Point"}
 }

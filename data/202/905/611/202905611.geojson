@@ -2,13 +2,14 @@
   "id": 202905611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.706101,34.854084,-106.706101,34.854084",
     "geom:latitude":34.854084,
     "geom:longitude":-106.706101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 W Bosque Loop",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202905611,
-    "wof:lastmodified":1449061116,
+    "wof:lastmodified":1466700380,
     "wof:name":"Bosque Auto Glass",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "replacement"
     ]
 },
-  "bbox": [-106.706101,34.854084,-106.706101,34.854084],
+  "bbox": [
+    -106.706101,
+    34.854084,
+    -106.706101,
+    34.854084
+],
   "geometry": {"coordinates":[-106.706101,34.854084],"type":"Point"}
 }

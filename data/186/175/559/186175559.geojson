@@ -2,13 +2,14 @@
   "id": 186175559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.950579,35.659415,-105.950579,35.659415",
     "geom:latitude":35.659415,
     "geom:longitude":-105.950579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"635 Harkle Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186175559,
-    "wof:lastmodified":1449052230,
+    "wof:lastmodified":1466697707,
     "wof:name":"Santa Fe Care Ctr",
     "wof:parent_id":85880837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-105.950579,35.659415,-105.950579,35.659415],
+  "bbox": [
+    -105.950579,
+    35.659415,
+    -105.950579,
+    35.659415
+],
   "geometry": {"coordinates":[-105.950579,35.659415],"type":"Point"}
 }

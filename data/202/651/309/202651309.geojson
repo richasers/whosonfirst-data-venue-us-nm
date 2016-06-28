@@ -2,13 +2,14 @@
   "id": 202651309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.581273,35.144668,-106.581273,35.144668",
     "geom:latitude":35.144668,
     "geom:longitude":-106.581273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5920 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202651309,
-    "wof:lastmodified":1449060609,
+    "wof:lastmodified":1466699151,
     "wof:name":"Osuna Appartments",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "complex"
     ]
 },
-  "bbox": [-106.581273,35.144668,-106.581273,35.144668],
+  "bbox": [
+    -106.581273,
+    35.144668,
+    -106.581273,
+    35.144668
+],
   "geometry": {"coordinates":[-106.581273,35.144668],"type":"Point"}
 }

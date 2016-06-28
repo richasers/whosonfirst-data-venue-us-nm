@@ -2,13 +2,14 @@
   "id": 186100763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.668845,35.137517,-106.668845,35.137517",
     "geom:latitude":35.137517,
     "geom:longitude":-106.668845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4022 Rio Grande Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186100763,
-    "wof:lastmodified":1449052338,
+    "wof:lastmodified":1466698932,
     "wof:name":"Pennysmiths",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "custom"
     ]
 },
-  "bbox": [-106.668845,35.137517,-106.668845,35.137517],
+  "bbox": [
+    -106.668845,
+    35.137517,
+    -106.668845,
+    35.137517
+],
   "geometry": {"coordinates":[-106.668845,35.137517],"type":"Point"}
 }

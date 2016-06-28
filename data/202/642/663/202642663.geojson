@@ -2,13 +2,14 @@
   "id": 202642663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.942519,35.683361,-105.942519,35.683361",
     "geom:latitude":35.683361,
     "geom:longitude":-105.942519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Capitol Pl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202642663,
-    "wof:lastmodified":1449060257,
+    "wof:lastmodified":1466699026,
     "wof:name":"Honorable Martha Vazquez",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.942519,35.683361,-105.942519,35.683361],
+  "bbox": [
+    -105.942519,
+    35.683361,
+    -105.942519,
+    35.683361
+],
   "geometry": {"coordinates":[-105.942519,35.683361],"type":"Point"}
 }

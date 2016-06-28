@@ -2,13 +2,14 @@
   "id": 185740851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.855168,35.153012,-107.855168,35.153012",
     "geom:latitude":35.153012,
     "geom:longitude":-107.855168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 W Santa Fe Ave",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185740851,
-    "wof:lastmodified":1449007353,
+    "wof:lastmodified":1466699082,
     "wof:name":"City Of Grants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-107.855168,35.153012,-107.855168,35.153012],
-  "geometry": {"coordinates":[-107.855168,35.153012],"type":"Point"}
+  "bbox": [
+    -107.855168,
+    35.153012,
+    -107.855168,
+    35.153012
+],
+  "geometry": {"coordinates":[-107.85516800000001,35.153012],"type":"Point"}
 }

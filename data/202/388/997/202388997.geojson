@@ -2,13 +2,14 @@
   "id": 202388997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.136674,32.693422,-103.136674,32.693422",
     "geom:latitude":32.693422,
     "geom:longitude":-103.136674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 W Harden Blvd",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202388997,
-    "wof:lastmodified":1449060192,
+    "wof:lastmodified":1466697792,
     "wof:name":"Dalco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-103.136674,32.693422,-103.136674,32.693422],
+  "bbox": [
+    -103.136674,
+    32.693422,
+    -103.136674,
+    32.693422
+],
   "geometry": {"coordinates":[-103.136674,32.693422],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169745939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.607022,35.077261,-106.607022,35.077261",
     "geom:latitude":35.077261,
     "geom:longitude":-106.607022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Tulane Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169745939,
-    "wof:lastmodified":1449035811,
+    "wof:lastmodified":1466698035,
     "wof:name":"Robert Thomson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychotherapist"
     ]
 },
-  "bbox": [-106.607022,35.077261,-106.607022,35.077261],
+  "bbox": [
+    -106.607022,
+    35.077261,
+    -106.607022,
+    35.077261
+],
   "geometry": {"coordinates":[-106.607022,35.077261],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185708531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.168684,34.451069,-103.168684,34.451069",
     "geom:latitude":34.451069,
     "geom:longitude":-103.168684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Sharps Ave",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185708531,
-    "wof:lastmodified":1449006870,
+    "wof:lastmodified":1466698717,
     "wof:name":"Missildine Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.168684,34.451069,-103.168684,34.451069],
+  "bbox": [
+    -103.168684,
+    34.451069,
+    -103.168684,
+    34.451069
+],
   "geometry": {"coordinates":[-103.168684,34.451069],"type":"Point"}
 }

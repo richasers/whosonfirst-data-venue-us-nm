@@ -2,13 +2,14 @@
   "id": 337285187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.259091,32.407222,-104.259091,32.407222",
     "geom:latitude":32.407222,
     "geom:longitude":-104.259091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2415 Union St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":337285187,
-    "wof:lastmodified":1449026955,
+    "wof:lastmodified":1466697714,
     "wof:name":"Chuck K Berry Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-104.259091,32.407222,-104.259091,32.407222],
+  "bbox": [
+    -104.259091,
+    32.407222,
+    -104.259091,
+    32.407222
+],
   "geometry": {"coordinates":[-104.259091,32.407222],"type":"Point"}
 }

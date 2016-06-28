@@ -2,13 +2,14 @@
   "id": 202702405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.349273,34.189938,-103.349273,34.189938",
     "geom:latitude":34.189938,
     "geom:longitude":-103.349273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 W Ivy St",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202702405,
-    "wof:lastmodified":1449061386,
+    "wof:lastmodified":1466699615,
     "wof:name":"Valle Del Sol Farm Labor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-103.349273,34.189938,-103.349273,34.189938],
+  "bbox": [
+    -103.349273,
+    34.189938,
+    -103.349273,
+    34.189938
+],
   "geometry": {"coordinates":[-103.349273,34.189938],"type":"Point"}
 }

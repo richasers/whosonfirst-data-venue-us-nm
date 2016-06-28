@@ -2,13 +2,14 @@
   "id": 185883035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.609368,35.103442,-106.609368,35.103442",
     "geom:latitude":35.103442,
     "geom:longitude":-106.609368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1817 Lafayette Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":185883035,
-    "wof:lastmodified":1449007851,
+    "wof:lastmodified":1466698347,
     "wof:name":"MAB Entr A Gift From The Hrt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.609368,35.103442,-106.609368,35.103442],
+  "bbox": [
+    -106.609368,
+    35.103442,
+    -106.609368,
+    35.103442
+],
   "geometry": {"coordinates":[-106.609368,35.103442],"type":"Point"}
 }

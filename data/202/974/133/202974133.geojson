@@ -2,13 +2,14 @@
   "id": 202974133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.934585,35.693189,-105.934585,35.693189",
     "geom:latitude":35.693189,
     "geom:longitude":-105.934585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 Washington Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202974133,
-    "wof:lastmodified":1449062325,
+    "wof:lastmodified":1466700678,
     "wof:name":"Santa Fe Parks & Recreation",
     "wof:parent_id":85880801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-105.934585,35.693189,-105.934585,35.693189],
+  "bbox": [
+    -105.934585,
+    35.693189,
+    -105.934585,
+    35.693189
+],
   "geometry": {"coordinates":[-105.934585,35.693189],"type":"Point"}
 }

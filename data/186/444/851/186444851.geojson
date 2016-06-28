@@ -2,13 +2,14 @@
   "id": 186444851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.979014,36.725041,-107.979014,36.725041",
     "geom:latitude":36.725041,
     "geom:longitude":-107.979014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2250 N 1st St",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186444851,
-    "wof:lastmodified":1449052653,
+    "wof:lastmodified":1466699902,
     "wof:name":"C & J Equipment Mfg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-107.979014,36.725041,-107.979014,36.725041],
-  "geometry": {"coordinates":[-107.979014,36.725041],"type":"Point"}
+  "bbox": [
+    -107.979014,
+    36.725041,
+    -107.979014,
+    36.725041
+],
+  "geometry": {"coordinates":[-107.97901400000001,36.725041],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203044825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.630303,35.081831,-106.630303,35.081831",
     "geom:latitude":35.081831,
     "geom:longitude":-106.630303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203044825,
-    "wof:lastmodified":1449025921,
+    "wof:lastmodified":1466698086,
     "wof:name":"Copper Lounge The",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lounge"
     ]
 },
-  "bbox": [-106.630303,35.081831,-106.630303,35.081831],
+  "bbox": [
+    -106.630303,
+    35.081831,
+    -106.630303,
+    35.081831
+],
   "geometry": {"coordinates":[-106.630303,35.081831],"type":"Point"}
 }

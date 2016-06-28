@@ -2,13 +2,14 @@
   "id": 202954737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.523337,35.142492,-106.523337,35.142492",
     "geom:latitude":35.142492,
     "geom:longitude":-106.523337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10409 Nita Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202954737,
-    "wof:lastmodified":1449062328,
+    "wof:lastmodified":1466700467,
     "wof:name":"E-Webiz",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "telephone"
     ]
 },
-  "bbox": [-106.523337,35.142492,-106.523337,35.142492],
+  "bbox": [
+    -106.523337,
+    35.142492,
+    -106.523337,
+    35.142492
+],
   "geometry": {"coordinates":[-106.523337,35.142492],"type":"Point"}
 }

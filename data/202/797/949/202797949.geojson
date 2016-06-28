@@ -2,13 +2,14 @@
   "id": 202797949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.35058,32.947131,-103.35058,32.947131",
     "geom:latitude":32.947131,
     "geom:longitude":-103.35058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W Ave A",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202797949,
-    "wof:lastmodified":1449062398,
+    "wof:lastmodified":1466699977,
     "wof:name":"Family Vision Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.35058,32.947131,-103.35058,32.947131],
-  "geometry": {"coordinates":[-103.35058,32.947131],"type":"Point"}
+  "bbox": [
+    -103.35058,
+    32.947131,
+    -103.35058,
+    32.947131
+],
+  "geometry": {"coordinates":[-103.35057999999999,32.947131],"type":"Point"}
 }

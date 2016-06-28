@@ -2,13 +2,14 @@
   "id": 186060373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781575,32.287995,-106.781575,32.287995",
     "geom:latitude":32.287995,
     "geom:longitude":-106.781575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1690 S Valley Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186060373,
-    "wof:lastmodified":1449052778,
+    "wof:lastmodified":1466698376,
     "wof:name":"World Gym Fitness Ctr",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-106.781575,32.287995,-106.781575,32.287995],
+  "bbox": [
+    -106.781575,
+    32.287995,
+    -106.781575,
+    32.287995
+],
   "geometry": {"coordinates":[-106.781575,32.287995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186352179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.521244,35.093988,-106.521244,35.093988",
     "geom:latitude":35.093988,
     "geom:longitude":-106.521244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11309 Ralph Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186352179,
-    "wof:lastmodified":1449052011,
+    "wof:lastmodified":1466699524,
     "wof:name":"Leo's Electric",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.521244,35.093988,-106.521244,35.093988],
+  "bbox": [
+    -106.521244,
+    35.093988,
+    -106.521244,
+    35.093988
+],
   "geometry": {"coordinates":[-106.521244,35.093988],"type":"Point"}
 }

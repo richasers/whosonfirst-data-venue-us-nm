@@ -2,13 +2,14 @@
   "id": 186175185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.727227,35.178106,-103.727227,35.178106",
     "geom:latitude":35.178106,
     "geom:longitude":-103.727227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W Center St",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186175185,
-    "wof:lastmodified":1449052227,
+    "wof:lastmodified":1466697701,
     "wof:name":"Plainsman Sporting Goods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.727227,35.178106,-103.727227,35.178106],
+  "bbox": [
+    -103.727227,
+    35.178106,
+    -103.727227,
+    35.178106
+],
   "geometry": {"coordinates":[-103.727227,35.178106],"type":"Point"}
 }

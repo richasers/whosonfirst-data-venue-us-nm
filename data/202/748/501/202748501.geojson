@@ -2,13 +2,14 @@
   "id": 202748501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.982297,35.65995,-105.982297,35.65995",
     "geom:latitude":35.65995,
     "geom:longitude":-105.982297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2426 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202748501,
-    "wof:lastmodified":1449062013,
+    "wof:lastmodified":1466699666,
     "wof:name":"Mr Tux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.982297,35.65995,-105.982297,35.65995],
+  "bbox": [
+    -105.982297,
+    35.65995,
+    -105.982297,
+    35.65995
+],
   "geometry": {"coordinates":[-105.982297,35.65995],"type":"Point"}
 }

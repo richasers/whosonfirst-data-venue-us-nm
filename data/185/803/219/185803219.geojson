@@ -2,13 +2,14 @@
   "id": 185803219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.697977,34.80922,-106.697977,34.80922",
     "geom:latitude":34.80922,
     "geom:longitude":-106.697977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 Stover Rd",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185803219,
-    "wof:lastmodified":1449008227,
+    "wof:lastmodified":1466699352,
     "wof:name":"All Motor Parts & Supply Inc",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-106.697977,34.80922,-106.697977,34.80922],
-  "geometry": {"coordinates":[-106.697977,34.80922],"type":"Point"}
+  "bbox": [
+    -106.697977,
+    34.80922,
+    -106.697977,
+    34.80922
+],
+  "geometry": {"coordinates":[-106.69797699999999,34.80922],"type":"Point"}
 }

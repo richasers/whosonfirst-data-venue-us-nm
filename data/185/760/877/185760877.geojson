@@ -2,13 +2,14 @@
   "id": 185760877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.403502,32.845416,-104.403502,32.845416",
     "geom:latitude":32.845416,
     "geom:longitude":-104.403502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 W Mahone Dr",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185760877,
-    "wof:lastmodified":1449008129,
+    "wof:lastmodified":1466699185,
     "wof:name":"Artesia Physical Therapy",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-104.403502,32.845416,-104.403502,32.845416],
+  "bbox": [
+    -104.403502,
+    32.845416,
+    -104.403502,
+    32.845416
+],
   "geometry": {"coordinates":[-104.403502,32.845416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186559579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.611433,31.836969,-106.611433,31.836969",
     "geom:latitude":31.836969,
     "geom:longitude":-106.611433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1074 Country Club Rd",
     "sg:city":"Santa Teresa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186559579,
-    "wof:lastmodified":1449052416,
+    "wof:lastmodified":1466700505,
     "wof:name":"Leo Raschbaum MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.611433,31.836969,-106.611433,31.836969],
-  "geometry": {"coordinates":[-106.611433,31.836969],"type":"Point"}
+  "bbox": [
+    -106.611433,
+    31.836969,
+    -106.611433,
+    31.836969
+],
+  "geometry": {"coordinates":[-106.61143300000001,31.836969],"type":"Point"}
 }

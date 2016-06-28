@@ -2,13 +2,14 @@
   "id": 202593257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.76243,32.26822,-107.76243,32.26822",
     "geom:latitude":32.26822,
     "geom:longitude":-107.76243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Pine St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202593257,
-    "wof:lastmodified":1449061767,
+    "wof:lastmodified":1466698287,
     "wof:name":"Circle S Western Emporium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "western"
     ]
 },
-  "bbox": [-107.76243,32.26822,-107.76243,32.26822],
-  "geometry": {"coordinates":[-107.76243,32.26822],"type":"Point"}
+  "bbox": [
+    -107.76243,
+    32.26822,
+    -107.76243,
+    32.26822
+],
+  "geometry": {"coordinates":[-107.76242999999999,32.26822],"type":"Point"}
 }

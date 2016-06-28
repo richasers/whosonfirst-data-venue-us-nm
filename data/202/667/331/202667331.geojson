@@ -2,13 +2,14 @@
   "id": 202667331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.700248,34.808968,-106.700248,34.808968",
     "geom:latitude":34.808968,
     "geom:longitude":-106.700248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3459 State Hwy 47",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202667331,
-    "wof:lastmodified":1449061742,
+    "wof:lastmodified":1466699477,
     "wof:name":"US Navy Recruiting",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "recruiting"
     ]
 },
-  "bbox": [-106.700248,34.808968,-106.700248,34.808968],
+  "bbox": [
+    -106.700248,
+    34.808968,
+    -106.700248,
+    34.808968
+],
   "geometry": {"coordinates":[-106.700248,34.808968],"type":"Point"}
 }

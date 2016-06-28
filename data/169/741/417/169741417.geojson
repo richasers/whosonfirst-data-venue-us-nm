@@ -2,13 +2,14 @@
   "id": 169741417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.827021,32.353665,-106.827021,32.353665",
     "geom:latitude":32.353665,
     "geom:longitude":-106.827021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4545 Northwind Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169741417,
-    "wof:lastmodified":1449032862,
+    "wof:lastmodified":1466698005,
     "wof:name":"Lund & Lund",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-106.827021,32.353665,-106.827021,32.353665],
+  "bbox": [
+    -106.827021,
+    32.353665,
+    -106.827021,
+    32.353665
+],
   "geometry": {"coordinates":[-106.827021,32.353665],"type":"Point"}
 }

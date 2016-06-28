@@ -2,13 +2,14 @@
   "id": 186465899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.488337,35.096779,-106.488337,35.096779",
     "geom:latitude":35.096779,
     "geom:longitude":-106.488337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13400 Summit Hills Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186465899,
-    "wof:lastmodified":1449052176,
+    "wof:lastmodified":1466700099,
     "wof:name":"Time For A Change",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-106.488337,35.096779,-106.488337,35.096779],
+  "bbox": [
+    -106.488337,
+    35.096779,
+    -106.488337,
+    35.096779
+],
   "geometry": {"coordinates":[-106.488337,35.096779],"type":"Point"}
 }

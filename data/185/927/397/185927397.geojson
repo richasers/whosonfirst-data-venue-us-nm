@@ -2,13 +2,14 @@
   "id": 185927397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.502534,35.188683,-106.502534,35.188683",
     "geom:latitude":35.188683,
     "geom:longitude":-106.502534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12325 Modesto Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185927397,
-    "wof:lastmodified":1449008052,
+    "wof:lastmodified":1466698911,
     "wof:name":"Forbare Construction DBA Desig",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drafting"
     ]
 },
-  "bbox": [-106.502534,35.188683,-106.502534,35.188683],
+  "bbox": [
+    -106.502534,
+    35.188683,
+    -106.502534,
+    35.188683
+],
   "geometry": {"coordinates":[-106.502534,35.188683],"type":"Point"}
 }

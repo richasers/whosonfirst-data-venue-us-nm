@@ -2,13 +2,14 @@
   "id": 186484751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.783786,32.291032,-106.783786,32.291032",
     "geom:latitude":32.291032,
     "geom:longitude":-106.783786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1451 S Valley Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186484751,
-    "wof:lastmodified":1449052876,
+    "wof:lastmodified":1466700183,
     "wof:name":"High Mesa Home Services Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.783786,32.291032,-106.783786,32.291032],
-  "geometry": {"coordinates":[-106.783786,32.291032],"type":"Point"}
+  "bbox": [
+    -106.783786,
+    32.291032,
+    -106.783786,
+    32.291032
+],
+  "geometry": {"coordinates":[-106.78378600000001,32.291032],"type":"Point"}
 }

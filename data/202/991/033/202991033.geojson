@@ -2,13 +2,14 @@
   "id": 202991033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.367732,32.934362,-103.367732,32.934362",
     "geom:latitude":32.934362,
     "geom:longitude":-103.367732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1406 S 16th St",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202991033,
-    "wof:lastmodified":1449060904,
+    "wof:lastmodified":1466700830,
     "wof:name":"Hernandez Drain Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.367732,32.934362,-103.367732,32.934362],
+  "bbox": [
+    -103.367732,
+    32.934362,
+    -103.367732,
+    32.934362
+],
   "geometry": {"coordinates":[-103.367732,32.934362],"type":"Point"}
 }

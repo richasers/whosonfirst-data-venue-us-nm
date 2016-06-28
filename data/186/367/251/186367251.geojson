@@ -2,13 +2,14 @@
   "id": 186367251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.230487,36.732195,-108.230487,36.732195",
     "geom:latitude":36.732195,
     "geom:longitude":-108.230487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Hicks Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186367251,
-    "wof:lastmodified":1449051952,
+    "wof:lastmodified":1466699735,
     "wof:name":"Alpha Omega Supplements LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-108.230487,36.732195,-108.230487,36.732195],
+  "bbox": [
+    -108.230487,
+    36.732195,
+    -108.230487,
+    36.732195
+],
   "geometry": {"coordinates":[-108.230487,36.732195],"type":"Point"}
 }

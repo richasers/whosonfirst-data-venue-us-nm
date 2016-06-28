@@ -2,13 +2,14 @@
   "id": 186184165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.973185,32.869504,-105.973185,32.869504",
     "geom:latitude":32.869504,
     "geom:longitude":-105.973185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"279 US Hwy 70",
     "sg:city":"San Patricio",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186184165,
-    "wof:lastmodified":1449050868,
+    "wof:lastmodified":1466697818,
     "wof:name":"Ogden Farms & Cattle Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "producer"
     ]
 },
-  "bbox": [-105.973185,32.869504,-105.973185,32.869504],
+  "bbox": [
+    -105.973185,
+    32.869504,
+    -105.973185,
+    32.869504
+],
   "geometry": {"coordinates":[-105.973185,32.869504],"type":"Point"}
 }

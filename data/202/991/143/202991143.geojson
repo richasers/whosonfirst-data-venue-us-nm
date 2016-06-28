@@ -2,13 +2,14 @@
   "id": 202991143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.583441,36.388845,-105.583441,36.388845",
     "geom:latitude":36.388845,
     "geom:longitude":-105.583441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202991143,
-    "wof:lastmodified":1449060906,
+    "wof:lastmodified":1466700751,
     "wof:name":"New Mexico Auto Wholesellers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.583441,36.388845,-105.583441,36.388845],
-  "geometry": {"coordinates":[-105.583441,36.388845],"type":"Point"}
+  "bbox": [
+    -105.583441,
+    36.388845,
+    -105.583441,
+    36.388845
+],
+  "geometry": {"coordinates":[-105.58344099999999,36.388845],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169746643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.626866,35.203917,-106.626866,35.203917",
     "geom:latitude":35.203917,
     "geom:longitude":-106.626866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Cam del Bosque NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169746643,
-    "wof:lastmodified":1449032658,
+    "wof:lastmodified":1466698045,
     "wof:name":"Lavida Nueva Condominium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.626866,35.203917,-106.626866,35.203917],
-  "geometry": {"coordinates":[-106.626866,35.203917],"type":"Point"}
+  "bbox": [
+    -106.626866,
+    35.203917,
+    -106.626866,
+    35.203917
+],
+  "geometry": {"coordinates":[-106.62686600000001,35.203917],"type":"Point"}
 }

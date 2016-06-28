@@ -2,13 +2,14 @@
   "id": 202563663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.719044,35.026523,-106.719044,35.026523",
     "geom:latitude":35.026523,
     "geom:longitude":-106.719044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3208 Delforado Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202563663,
-    "wof:lastmodified":1449060145,
+    "wof:lastmodified":1466697849,
     "wof:name":"Tom Higgins",
     "wof:parent_id":85892591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-106.719044,35.026523,-106.719044,35.026523],
+  "bbox": [
+    -106.719044,
+    35.026523,
+    -106.719044,
+    35.026523
+],
   "geometry": {"coordinates":[-106.719044,35.026523],"type":"Point"}
 }

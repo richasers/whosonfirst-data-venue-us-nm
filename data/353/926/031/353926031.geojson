@@ -2,13 +2,14 @@
   "id": 353926031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.635422,35.086159,-106.635422,35.086159",
     "geom:latitude":35.086159,
     "geom:longitude":-106.635422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Oak St NE Suite 216",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":353926031,
-    "wof:lastmodified":1449019141,
+    "wof:lastmodified":1466697888,
     "wof:name":"Jessie Trujillo's Manual Therapy, LLC",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "physical"
     ]
 },
-  "bbox": [-106.635422,35.086159,-106.635422,35.086159],
-  "geometry": {"coordinates":[-106.635422,35.086159],"type":"Point"}
+  "bbox": [
+    -106.635422,
+    35.086159,
+    -106.635422,
+    35.086159
+],
+  "geometry": {"coordinates":[-106.63542200000001,35.086159],"type":"Point"}
 }

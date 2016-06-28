@@ -2,13 +2,14 @@
   "id": 186225271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.668544,35.133326,-106.668544,35.133326",
     "geom:latitude":35.133326,
     "geom:longitude":-106.668544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3708 Tiovivo Cir NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186225271,
-    "wof:lastmodified":1449051215,
+    "wof:lastmodified":1466698334,
     "wof:name":"Nick Jaramillo Plumbing",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.668544,35.133326,-106.668544,35.133326],
+  "bbox": [
+    -106.668544,
+    35.133326,
+    -106.668544,
+    35.133326
+],
   "geometry": {"coordinates":[-106.668544,35.133326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185859123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.758693,35.536571,-108.758693,35.536571",
     "geom:latitude":35.536571,
     "geom:longitude":-108.758693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"828 US Hwy 666",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185859123,
-    "wof:lastmodified":1449007743,
+    "wof:lastmodified":1466698104,
     "wof:name":"King Dragon",
     "wof:parent_id":85802855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-108.758693,35.536571,-108.758693,35.536571],
-  "geometry": {"coordinates":[-108.758693,35.536571],"type":"Point"}
+  "bbox": [
+    -108.758693,
+    35.536571,
+    -108.758693,
+    35.536571
+],
+  "geometry": {"coordinates":[-108.75869299999999,35.536571],"type":"Point"}
 }

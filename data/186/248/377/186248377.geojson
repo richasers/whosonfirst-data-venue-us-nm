@@ -2,13 +2,14 @@
   "id": 186248377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.979013,36.725251,-107.979013,36.725251",
     "geom:latitude":36.725251,
     "geom:longitude":-107.979013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 N 1st St",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186248377,
-    "wof:lastmodified":1449051849,
+    "wof:lastmodified":1466698641,
     "wof:name":"Southwest Recyclers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-107.979013,36.725251,-107.979013,36.725251],
-  "geometry": {"coordinates":[-107.979013,36.725251],"type":"Point"}
+  "bbox": [
+    -107.979013,
+    36.725251,
+    -107.979013,
+    36.725251
+],
+  "geometry": {"coordinates":[-107.97901299999999,36.725251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202761961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.19642,34.431356,-103.19642,34.431356",
     "geom:latitude":34.431356,
     "geom:longitude":-103.19642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 N Prince St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202761961,
-    "wof:lastmodified":1449062056,
+    "wof:lastmodified":1466699840,
     "wof:name":"B & J's Barber & Pro Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.19642,34.431356,-103.19642,34.431356],
+  "bbox": [
+    -103.19642,
+    34.431356,
+    -103.19642,
+    34.431356
+],
   "geometry": {"coordinates":[-103.19642,34.431356],"type":"Point"}
 }

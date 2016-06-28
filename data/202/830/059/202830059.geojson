@@ -2,13 +2,14 @@
   "id": 202830059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.963152,35.531742,-105.963152,35.531742",
     "geom:latitude":35.531742,
     "geom:longitude":-105.963152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Ladera Ln",
     "sg:city":"Glorieta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202830059,
-    "wof:lastmodified":1449060656,
+    "wof:lastmodified":1466700247,
     "wof:name":"Satterwhite Log Homes",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sawmill"
     ]
 },
-  "bbox": [-105.963152,35.531742,-105.963152,35.531742],
-  "geometry": {"coordinates":[-105.963152,35.531742],"type":"Point"}
+  "bbox": [
+    -105.963152,
+    35.531742,
+    -105.963152,
+    35.531742
+],
+  "geometry": {"coordinates":[-105.96315199999999,35.531742],"type":"Point"}
 }

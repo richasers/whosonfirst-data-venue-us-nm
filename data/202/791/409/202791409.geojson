@@ -2,13 +2,14 @@
   "id": 202791409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.038818,35.697708,-106.038818,35.697708",
     "geom:latitude":35.697708,
     "geom:longitude":-106.038818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Dream Catcher",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202791409,
-    "wof:lastmodified":1449062072,
+    "wof:lastmodified":1466699954,
     "wof:name":"Port Of Call Vacations Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cruise"
     ]
 },
-  "bbox": [-106.038818,35.697708,-106.038818,35.697708],
-  "geometry": {"coordinates":[-106.038818,35.697708],"type":"Point"}
+  "bbox": [
+    -106.038818,
+    35.697708,
+    -106.038818,
+    35.697708
+],
+  "geometry": {"coordinates":[-106.03881800000001,35.697708],"type":"Point"}
 }

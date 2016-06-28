@@ -2,13 +2,14 @@
   "id": 186327785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.962902,35.666567,-105.962902,35.666567",
     "geom:latitude":35.666567,
     "geom:longitude":-105.962902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 Santa Cruz Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186327785,
-    "wof:lastmodified":1449050448,
+    "wof:lastmodified":1466699454,
     "wof:name":"Southwest Circulation Inc",
     "wof:parent_id":85880783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.962902,35.666567,-105.962902,35.666567],
+  "bbox": [
+    -105.962902,
+    35.666567,
+    -105.962902,
+    35.666567
+],
   "geometry": {"coordinates":[-105.962902,35.666567],"type":"Point"}
 }

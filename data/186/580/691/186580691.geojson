@@ -2,13 +2,14 @@
   "id": 186580691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.635293,35.115103,-106.635293,35.115103",
     "geom:latitude":35.115103,
     "geom:longitude":-106.635293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186580691,
-    "wof:lastmodified":1449052176,
+    "wof:lastmodified":1466700451,
     "wof:name":"Diamond Press Inc",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-106.635293,35.115103,-106.635293,35.115103],
+  "bbox": [
+    -106.635293,
+    35.115103,
+    -106.635293,
+    35.115103
+],
   "geometry": {"coordinates":[-106.635293,35.115103],"type":"Point"}
 }

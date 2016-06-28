@@ -2,13 +2,14 @@
   "id": 185705537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.652653,35.091408,-106.652653,35.091408",
     "geom:latitude":35.091408,
     "geom:longitude":-106.652653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Lomas Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185705537,
-    "wof:lastmodified":1449008219,
+    "wof:lastmodified":1466698686,
     "wof:name":"Sheriff Dept Traffic Unit",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-106.652653,35.091408,-106.652653,35.091408],
+  "bbox": [
+    -106.652653,
+    35.091408,
+    -106.652653,
+    35.091408
+],
   "geometry": {"coordinates":[-106.652653,35.091408],"type":"Point"}
 }

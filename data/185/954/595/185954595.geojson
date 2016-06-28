@@ -2,13 +2,14 @@
   "id": 185954595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.600323,35.06531,-106.600323,35.06531",
     "geom:latitude":35.06531,
     "geom:longitude":-106.600323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3817 Smith Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185954595,
-    "wof:lastmodified":1449008016,
+    "wof:lastmodified":1466699294,
     "wof:name":"Michelle Carter Design",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-106.600323,35.06531,-106.600323,35.06531],
+  "bbox": [
+    -106.600323,
+    35.06531,
+    -106.600323,
+    35.06531
+],
   "geometry": {"coordinates":[-106.600323,35.06531],"type":"Point"}
 }

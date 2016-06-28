@@ -2,13 +2,14 @@
   "id": 203055907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.945995,35.690921,-105.945995,35.690921",
     "geom:latitude":35.690921,
     "geom:longitude":-105.945995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Daniel St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203055907,
-    "wof:lastmodified":1449025354,
+    "wof:lastmodified":1466698194,
     "wof:name":"Gunstock Hill Books Rare & Usd",
     "wof:parent_id":85880833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-105.945995,35.690921,-105.945995,35.690921],
+  "bbox": [
+    -105.945995,
+    35.690921,
+    -105.945995,
+    35.690921
+],
   "geometry": {"coordinates":[-105.945995,35.690921],"type":"Point"}
 }

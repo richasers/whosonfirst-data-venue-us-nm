@@ -2,13 +2,14 @@
   "id": 186606301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.926906,36.894799,-107.926906,36.894799",
     "geom:latitude":36.894799,
     "geom:longitude":-107.926906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Rd 2620",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186606301,
-    "wof:lastmodified":1449050807,
+    "wof:lastmodified":1466700648,
     "wof:name":"K&D Services LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.926906,36.894799,-107.926906,36.894799],
+  "bbox": [
+    -107.926906,
+    36.894799,
+    -107.926906,
+    36.894799
+],
   "geometry": {"coordinates":[-107.926906,36.894799],"type":"Point"}
 }

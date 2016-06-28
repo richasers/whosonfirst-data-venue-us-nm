@@ -2,13 +2,14 @@
   "id": 202594263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.495577,35.181275,-106.495577,35.181275",
     "geom:latitude":35.181275,
     "geom:longitude":-106.495577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7708 Cedar Canyon Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202594263,
-    "wof:lastmodified":1449060475,
+    "wof:lastmodified":1466698302,
     "wof:name":"SBC Consulting",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-106.495577,35.181275,-106.495577,35.181275],
+  "bbox": [
+    -106.495577,
+    35.181275,
+    -106.495577,
+    35.181275
+],
   "geometry": {"coordinates":[-106.495577,35.181275],"type":"Point"}
 }

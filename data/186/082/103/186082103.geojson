@@ -2,13 +2,14 @@
   "id": 186082103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.196533,34.412017,-103.196533,34.412017",
     "geom:latitude":34.412017,
     "geom:longitude":-103.196533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 State Hwy 209",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186082103,
-    "wof:lastmodified":1449050335,
+    "wof:lastmodified":1466698675,
     "wof:name":"Wilhite Crane Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crane"
     ]
 },
-  "bbox": [-103.196533,34.412017,-103.196533,34.412017],
+  "bbox": [
+    -103.196533,
+    34.412017,
+    -103.196533,
+    34.412017
+],
   "geometry": {"coordinates":[-103.196533,34.412017],"type":"Point"}
 }

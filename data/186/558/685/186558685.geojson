@@ -2,13 +2,14 @@
   "id": 186558685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.681377,35.086376,-106.681377,35.086376",
     "geom:latitude":35.086376,
     "geom:longitude":-106.681377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"193 Sunset Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186558685,
-    "wof:lastmodified":1449051115,
+    "wof:lastmodified":1466700354,
     "wof:name":"J K Arts & Crafts",
     "wof:parent_id":85892605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.681377,35.086376,-106.681377,35.086376],
+  "bbox": [
+    -106.681377,
+    35.086376,
+    -106.681377,
+    35.086376
+],
   "geometry": {"coordinates":[-106.681377,35.086376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186135997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.844962,35.148142,-107.844962,35.148142",
     "geom:latitude":35.148142,
     "geom:longitude":-107.844962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 E Santa Fe Ave",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186135997,
-    "wof:lastmodified":1449051406,
+    "wof:lastmodified":1466699188,
     "wof:name":"Grants City Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-107.844962,35.148142,-107.844962,35.148142],
+  "bbox": [
+    -107.844962,
+    35.148142,
+    -107.844962,
+    35.148142
+],
   "geometry": {"coordinates":[-107.844962,35.148142],"type":"Point"}
 }

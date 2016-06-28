@@ -2,13 +2,14 @@
   "id": 186301895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.717951,35.08524,-106.717951,35.08524",
     "geom:latitude":35.08524,
     "geom:longitude":-106.717951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 Airport Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":186301895,
-    "wof:lastmodified":1449051081,
+    "wof:lastmodified":1466699364,
     "wof:name":"Davis Vision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.717951,35.08524,-106.717951,35.08524],
+  "bbox": [
+    -106.717951,
+    35.08524,
+    -106.717951,
+    35.08524
+],
   "geometry": {"coordinates":[-106.717951,35.08524],"type":"Point"}
 }

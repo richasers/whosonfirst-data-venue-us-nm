@@ -2,13 +2,14 @@
   "id": 202506175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.500283,35.115771,-106.500283,35.115771",
     "geom:latitude":35.115771,
     "geom:longitude":-106.500283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12308 Candelaria Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202506175,
-    "wof:lastmodified":1449060162,
+    "wof:lastmodified":1466699180,
     "wof:name":"Ghahate & Geraci",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-106.500283,35.115771,-106.500283,35.115771],
+  "bbox": [
+    -106.500283,
+    35.115771,
+    -106.500283,
+    35.115771
+],
   "geometry": {"coordinates":[-106.500283,35.115771],"type":"Point"}
 }

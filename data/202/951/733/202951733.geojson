@@ -2,13 +2,14 @@
   "id": 202951733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.317209,34.202995,-103.317209,34.202995",
     "geom:latitude":34.202995,
     "geom:longitude":-103.317209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42479 US Hwy 70",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":202951733,
-    "wof:lastmodified":1449060205,
+    "wof:lastmodified":1466700556,
     "wof:name":"Portales Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufactured"
     ]
 },
-  "bbox": [-103.317209,34.202995,-103.317209,34.202995],
-  "geometry": {"coordinates":[-103.317209,34.202995],"type":"Point"}
+  "bbox": [
+    -103.317209,
+    34.202995,
+    -103.317209,
+    34.202995
+],
+  "geometry": {"coordinates":[-103.31720900000001,34.202995],"type":"Point"}
 }

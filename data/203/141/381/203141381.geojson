@@ -2,13 +2,14 @@
   "id": 203141381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.230873,32.372605,-104.230873,32.372605",
     "geom:latitude":32.372605,
     "geom:longitude":-104.230873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4012 National Parks Hwy",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203141381,
-    "wof:lastmodified":1449025586,
+    "wof:lastmodified":1466699095,
     "wof:name":"Carlsbad Civic Ctr",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-104.230873,32.372605,-104.230873,32.372605],
+  "bbox": [
+    -104.230873,
+    32.372605,
+    -104.230873,
+    32.372605
+],
   "geometry": {"coordinates":[-104.230873,32.372605],"type":"Point"}
 }

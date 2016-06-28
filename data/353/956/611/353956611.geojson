@@ -2,13 +2,14 @@
   "id": 353956611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.625069,35.176881,-106.625069,35.176881",
     "geom:latitude":35.176881,
     "geom:longitude":-106.625069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 El Pueblo Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353956611,
-    "wof:lastmodified":1449018677,
+    "wof:lastmodified":1466698729,
     "wof:name":"Victory Christian School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "middle"
     ]
 },
-  "bbox": [-106.625069,35.176881,-106.625069,35.176881],
+  "bbox": [
+    -106.625069,
+    35.176881,
+    -106.625069,
+    35.176881
+],
   "geometry": {"coordinates":[-106.625069,35.176881],"type":"Point"}
 }

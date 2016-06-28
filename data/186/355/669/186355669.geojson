@@ -2,13 +2,14 @@
   "id": 186355669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.531422,35.067363,-106.531422,35.067363",
     "geom:latitude":35.067363,
     "geom:longitude":-106.531422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10917 Southern Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186355669,
-    "wof:lastmodified":1449051135,
+    "wof:lastmodified":1466699559,
     "wof:name":"Longford Homes Longford Vlg",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-106.531422,35.067363,-106.531422,35.067363],
-  "geometry": {"coordinates":[-106.531422,35.067363],"type":"Point"}
+  "bbox": [
+    -106.531422,
+    35.067363,
+    -106.531422,
+    35.067363
+],
+  "geometry": {"coordinates":[-106.53142200000001,35.067363],"type":"Point"}
 }

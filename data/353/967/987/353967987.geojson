@@ -2,13 +2,14 @@
   "id": 353967987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.508624,35.065519,-106.508624,35.065519",
     "geom:latitude":35.065519,
     "geom:longitude":-106.508624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Western Skies Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353967987,
-    "wof:lastmodified":1449020613,
+    "wof:lastmodified":1466698965,
     "wof:name":"Plaza Dorado Apartments",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "listing"
     ]
 },
-  "bbox": [-106.508624,35.065519,-106.508624,35.065519],
+  "bbox": [
+    -106.508624,
+    35.065519,
+    -106.508624,
+    35.065519
+],
   "geometry": {"coordinates":[-106.508624,35.065519],"type":"Point"}
 }

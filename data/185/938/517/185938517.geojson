@@ -2,13 +2,14 @@
   "id": 185938517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.992247,35.648094,-105.992247,35.648094",
     "geom:latitude":35.648094,
     "geom:longitude":-105.992247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"993 Cll Feliz",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185938517,
-    "wof:lastmodified":1449007801,
+    "wof:lastmodified":1466699060,
     "wof:name":"Mall of The World",
     "wof:parent_id":85880845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-105.992247,35.648094,-105.992247,35.648094],
-  "geometry": {"coordinates":[-105.992247,35.648094],"type":"Point"}
+  "bbox": [
+    -105.992247,
+    35.648094,
+    -105.992247,
+    35.648094
+],
+  "geometry": {"coordinates":[-105.99224700000001,35.648094],"type":"Point"}
 }

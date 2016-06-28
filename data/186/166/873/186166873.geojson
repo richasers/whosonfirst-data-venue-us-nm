@@ -2,13 +2,14 @@
   "id": 186166873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.560124,35.069662,-106.560124,35.069662",
     "geom:latitude":35.069662,
     "geom:longitude":-106.560124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"439 Dallas St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186166873,
-    "wof:lastmodified":1449051880,
+    "wof:lastmodified":1466699381,
     "wof:name":"G & G Maintenance",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-106.560124,35.069662,-106.560124,35.069662],
+  "bbox": [
+    -106.560124,
+    35.069662,
+    -106.560124,
+    35.069662
+],
   "geometry": {"coordinates":[-106.560124,35.069662],"type":"Point"}
 }

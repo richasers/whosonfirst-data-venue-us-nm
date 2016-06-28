@@ -2,13 +2,14 @@
   "id": 202728719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.115269,32.700552,-103.115269,32.700552",
     "geom:latitude":32.700552,
     "geom:longitude":-103.115269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 S Willow St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202728719,
-    "wof:lastmodified":1449060695,
+    "wof:lastmodified":1466699722,
     "wof:name":"KLMA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-103.115269,32.700552,-103.115269,32.700552],
+  "bbox": [
+    -103.115269,
+    32.700552,
+    -103.115269,
+    32.700552
+],
   "geometry": {"coordinates":[-103.115269,32.700552],"type":"Point"}
 }

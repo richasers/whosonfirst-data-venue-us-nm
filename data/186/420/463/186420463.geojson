@@ -2,13 +2,14 @@
   "id": 186420463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.770274,34.666927,-106.770274,34.666927",
     "geom:latitude":34.666927,
     "geom:longitude":-106.770274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 N 4th St",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186420463,
-    "wof:lastmodified":1449051664,
+    "wof:lastmodified":1466699933,
     "wof:name":"Small Equipment Svc",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [-106.770274,34.666927,-106.770274,34.666927],
+  "bbox": [
+    -106.770274,
+    34.666927,
+    -106.770274,
+    34.666927
+],
   "geometry": {"coordinates":[-106.770274,34.666927],"type":"Point"}
 }

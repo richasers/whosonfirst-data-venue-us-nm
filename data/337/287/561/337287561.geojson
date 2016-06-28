@@ -2,13 +2,14 @@
   "id": 337287561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638388,35.153513,-106.638388,35.153513",
     "geom:latitude":35.153513,
     "geom:longitude":-106.638388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6601 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337287561,
-    "wof:lastmodified":1449026989,
+    "wof:lastmodified":1466697783,
     "wof:name":"Comet 1 Hour Cleaners",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [-106.638388,35.153513,-106.638388,35.153513],
-  "geometry": {"coordinates":[-106.638388,35.153513],"type":"Point"}
+  "bbox": [
+    -106.638388,
+    35.153513,
+    -106.638388,
+    35.153513
+],
+  "geometry": {"coordinates":[-106.63838800000001,35.153513],"type":"Point"}
 }

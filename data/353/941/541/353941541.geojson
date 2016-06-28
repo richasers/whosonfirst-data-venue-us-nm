@@ -2,13 +2,14 @@
   "id": 353941541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.551753,35.109291,-106.551753,35.109291",
     "geom:latitude":35.109291,
     "geom:longitude":-106.551753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8305 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":353941541,
-    "wof:lastmodified":1449019795,
+    "wof:lastmodified":1466698319,
     "wof:name":"Northeast Cyclery Inc",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "bicycles-renting"
     ]
 },
-  "bbox": [-106.551753,35.109291,-106.551753,35.109291],
-  "geometry": {"coordinates":[-106.551753,35.109291],"type":"Point"}
+  "bbox": [
+    -106.551753,
+    35.109291,
+    -106.551753,
+    35.109291
+],
+  "geometry": {"coordinates":[-106.55175300000001,35.109291],"type":"Point"}
 }

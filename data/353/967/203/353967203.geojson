@@ -2,13 +2,14 @@
   "id": 353967203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.514994,35.08348,-106.514994,35.08348",
     "geom:latitude":35.08348,
     "geom:longitude":-106.514994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"770 Juan Tabo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353967203,
-    "wof:lastmodified":1449020612,
+    "wof:lastmodified":1466698942,
     "wof:name":"Rio Vista Apt Svc Coordinator",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "finder"
     ]
 },
-  "bbox": [-106.514994,35.08348,-106.514994,35.08348],
+  "bbox": [
+    -106.514994,
+    35.08348,
+    -106.514994,
+    35.08348
+],
   "geometry": {"coordinates":[-106.514994,35.08348],"type":"Point"}
 }

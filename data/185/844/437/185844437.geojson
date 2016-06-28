@@ -2,13 +2,14 @@
   "id": 185844437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.951725,35.668629,-105.951725,35.668629",
     "geom:latitude":35.668629,
     "geom:longitude":-105.951725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 Luisa St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185844437,
-    "wof:lastmodified":1449007292,
+    "wof:lastmodified":1466697949,
     "wof:name":"Comcast Spotlight",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.951725,35.668629,-105.951725,35.668629],
+  "bbox": [
+    -105.951725,
+    35.668629,
+    -105.951725,
+    35.668629
+],
   "geometry": {"coordinates":[-105.951725,35.668629],"type":"Point"}
 }

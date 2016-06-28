@@ -2,13 +2,14 @@
   "id": 186175043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.551669,35.170108,-106.551669,35.170108",
     "geom:latitude":35.170108,
     "geom:longitude":-106.551669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8201 Yeager Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186175043,
-    "wof:lastmodified":1449052229,
+    "wof:lastmodified":1466697699,
     "wof:name":"Janet Letscher",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.551669,35.170108,-106.551669,35.170108],
+  "bbox": [
+    -106.551669,
+    35.170108,
+    -106.551669,
+    35.170108
+],
   "geometry": {"coordinates":[-106.551669,35.170108],"type":"Point"}
 }

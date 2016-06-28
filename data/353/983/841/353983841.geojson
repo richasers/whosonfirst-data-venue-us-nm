@@ -2,13 +2,14 @@
   "id": 353983841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.092684,34.441008,-103.092684,34.441008",
     "geom:latitude":34.441008,
     "geom:longitude":-103.092684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 CR 12.5",
     "sg:city":"Texico",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":353983841,
-    "wof:lastmodified":1449020598,
+    "wof:lastmodified":1466699137,
     "wof:name":"Cropduster Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "crop"
     ]
 },
-  "bbox": [-103.092684,34.441008,-103.092684,34.441008],
-  "geometry": {"coordinates":[-103.092684,34.441008],"type":"Point"}
+  "bbox": [
+    -103.092684,
+    34.441008,
+    -103.092684,
+    34.441008
+],
+  "geometry": {"coordinates":[-103.09268400000001,34.441008],"type":"Point"}
 }

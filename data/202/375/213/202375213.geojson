@@ -2,13 +2,14 @@
   "id": 202375213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.823261,35.154101,-107.823261,35.154101",
     "geom:latitude":35.154101,
     "geom:longitude":-107.823261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"833 Santa Marina St",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202375213,
-    "wof:lastmodified":1449060185,
+    "wof:lastmodified":1466697619,
     "wof:name":"DSTV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-107.823261,35.154101,-107.823261,35.154101],
+  "bbox": [
+    -107.823261,
+    35.154101,
+    -107.823261,
+    35.154101
+],
   "geometry": {"coordinates":[-107.823261,35.154101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186536639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.253074,33.128464,-107.253074,33.128464",
     "geom:latitude":33.128464,
     "geom:longitude":-107.253074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 N Broadway St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186536639,
-    "wof:lastmodified":1449051973,
+    "wof:lastmodified":1466700352,
     "wof:name":"Picture Perfect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "frame"
     ]
 },
-  "bbox": [-107.253074,33.128464,-107.253074,33.128464],
+  "bbox": [
+    -107.253074,
+    33.128464,
+    -107.253074,
+    33.128464
+],
   "geometry": {"coordinates":[-107.253074,33.128464],"type":"Point"}
 }

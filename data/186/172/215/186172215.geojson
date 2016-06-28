@@ -2,13 +2,14 @@
   "id": 186172215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.524548,35.132034,-106.524548,35.132034",
     "geom:latitude":35.132034,
     "geom:longitude":-106.524548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4401 Morris St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186172215,
-    "wof:lastmodified":1449051453,
+    "wof:lastmodified":1466697665,
     "wof:name":"Eagle Point Apartments",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-106.524548,35.132034,-106.524548,35.132034],
+  "bbox": [
+    -106.524548,
+    35.132034,
+    -106.524548,
+    35.132034
+],
   "geometry": {"coordinates":[-106.524548,35.132034],"type":"Point"}
 }

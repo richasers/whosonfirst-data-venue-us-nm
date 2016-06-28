@@ -2,13 +2,14 @@
   "id": 202578623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.942828,35.688204,-105.942828,35.688204",
     "geom:latitude":35.688204,
     "geom:longitude":-105.942828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 W San Francisco St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202578623,
-    "wof:lastmodified":1449060760,
+    "wof:lastmodified":1466698068,
     "wof:name":"Vi Vi Of Santa Fe",
     "wof:parent_id":85880833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.942828,35.688204,-105.942828,35.688204],
-  "geometry": {"coordinates":[-105.942828,35.688204],"type":"Point"}
+  "bbox": [
+    -105.942828,
+    35.688204,
+    -105.942828,
+    35.688204
+],
+  "geometry": {"coordinates":[-105.94282800000001,35.688204],"type":"Point"}
 }

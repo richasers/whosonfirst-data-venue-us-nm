@@ -2,13 +2,14 @@
   "id": 169819905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.619781,32.29512,-106.619781,32.29512",
     "geom:latitude":32.29512,
     "geom:longitude":-106.619781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4973 Black Quartz Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169819905,
-    "wof:lastmodified":1449033478,
+    "wof:lastmodified":1466698735,
     "wof:name":"Melody Munson-Mcgee",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "editing"
     ]
 },
-  "bbox": [-106.619781,32.29512,-106.619781,32.29512],
+  "bbox": [
+    -106.619781,
+    32.29512,
+    -106.619781,
+    32.29512
+],
   "geometry": {"coordinates":[-106.619781,32.29512],"type":"Point"}
 }

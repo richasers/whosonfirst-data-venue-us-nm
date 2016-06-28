@@ -2,13 +2,14 @@
   "id": 202786791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.939373,35.690908,-105.939373,35.690908",
     "geom:latitude":35.690908,
     "geom:longitude":-105.939373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Federal Pl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202786791,
-    "wof:lastmodified":1449060437,
+    "wof:lastmodified":1466699818,
     "wof:name":"Santa Fe City Public Works",
     "wof:parent_id":85880833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-105.939373,35.690908,-105.939373,35.690908],
+  "bbox": [
+    -105.939373,
+    35.690908,
+    -105.939373,
+    35.690908
+],
   "geometry": {"coordinates":[-105.939373,35.690908],"type":"Point"}
 }

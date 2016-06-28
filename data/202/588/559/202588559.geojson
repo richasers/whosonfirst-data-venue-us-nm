@@ -2,13 +2,14 @@
   "id": 202588559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.92748,35.684653,-105.92748,35.684653",
     "geom:latitude":35.684653,
     "geom:longitude":-105.92748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 E Palace Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202588559,
-    "wof:lastmodified":1449062166,
+    "wof:lastmodified":1466698218,
     "wof:name":"Historic Walks Of Santa Fe",
     "wof:parent_id":85880807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "promoter"
     ]
 },
-  "bbox": [-105.92748,35.684653,-105.92748,35.684653],
+  "bbox": [
+    -105.92748,
+    35.684653,
+    -105.92748,
+    35.684653
+],
   "geometry": {"coordinates":[-105.92748,35.684653],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185728951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.595423,36.371468,-105.595423,36.371468",
     "geom:latitude":36.371468,
     "geom:longitude":-105.595423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185728951,
-    "wof:lastmodified":1449006987,
+    "wof:lastmodified":1466698971,
     "wof:name":"Hacienda Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.595423,36.371468,-105.595423,36.371468],
+  "bbox": [
+    -105.595423,
+    36.371468,
+    -105.595423,
+    36.371468
+],
   "geometry": {"coordinates":[-105.595423,36.371468],"type":"Point"}
 }

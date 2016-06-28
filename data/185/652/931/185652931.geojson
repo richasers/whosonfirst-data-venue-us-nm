@@ -2,13 +2,14 @@
   "id": 185652931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.280869,32.420823,-104.280869,32.420823",
     "geom:latitude":32.420823,
     "geom:longitude":-104.280869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Lytle St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":185652931,
-    "wof:lastmodified":1449007641,
+    "wof:lastmodified":1466698162,
     "wof:name":"Mannys Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.280869,32.420823,-104.280869,32.420823],
+  "bbox": [
+    -104.280869,
+    32.420823,
+    -104.280869,
+    32.420823
+],
   "geometry": {"coordinates":[-104.280869,32.420823],"type":"Point"}
 }

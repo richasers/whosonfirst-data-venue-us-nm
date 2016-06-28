@@ -2,13 +2,14 @@
   "id": 203115409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.644006,35.110438,-106.644006,35.110438",
     "geom:latitude":35.110438,
     "geom:longitude":-106.644006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Menaul Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203115409,
-    "wof:lastmodified":1449024927,
+    "wof:lastmodified":1466698902,
     "wof:name":"Southwest Motors",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.644006,35.110438,-106.644006,35.110438],
+  "bbox": [
+    -106.644006,
+    35.110438,
+    -106.644006,
+    35.110438
+],
   "geometry": {"coordinates":[-106.644006,35.110438],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202952741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604036,35.117319,-106.604036,35.117319",
     "geom:latitude":35.117319,
     "geom:longitude":-106.604036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3208 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202952741,
-    "wof:lastmodified":1449061924,
+    "wof:lastmodified":1466700563,
     "wof:name":"Charles H Walker DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-106.604036,35.117319,-106.604036,35.117319],
-  "geometry": {"coordinates":[-106.604036,35.117319],"type":"Point"}
+  "bbox": [
+    -106.604036,
+    35.117319,
+    -106.604036,
+    35.117319
+],
+  "geometry": {"coordinates":[-106.60403599999999,35.117319],"type":"Point"}
 }

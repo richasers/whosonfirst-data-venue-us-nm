@@ -2,13 +2,14 @@
   "id": 186381653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.653741,35.233844,-106.653741,35.233844",
     "geom:latitude":35.233844,
     "geom:longitude":-106.653741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Barbara Loop SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186381653,
-    "wof:lastmodified":1449050467,
+    "wof:lastmodified":1466699792,
     "wof:name":"Golden Opportunitites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vocational"
     ]
 },
-  "bbox": [-106.653741,35.233844,-106.653741,35.233844],
+  "bbox": [
+    -106.653741,
+    35.233844,
+    -106.653741,
+    35.233844
+],
   "geometry": {"coordinates":[-106.653741,35.233844],"type":"Point"}
 }

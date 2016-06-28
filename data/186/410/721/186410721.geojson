@@ -2,13 +2,14 @@
   "id": 186410721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.170637,32.729084,-103.170637,32.729084",
     "geom:latitude":32.729084,
     "geom:longitude":-103.170637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2805 NW County Rd",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186410721,
-    "wof:lastmodified":1449050297,
+    "wof:lastmodified":1466699778,
     "wof:name":"Knight Fishing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-103.170637,32.729084,-103.170637,32.729084],
+  "bbox": [
+    -103.170637,
+    32.729084,
+    -103.170637,
+    32.729084
+],
   "geometry": {"coordinates":[-103.170637,32.729084],"type":"Point"}
 }

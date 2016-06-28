@@ -2,13 +2,14 @@
   "id": 202955119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.198768,36.719603,-108.198768,36.719603",
     "geom:latitude":36.719603,
     "geom:longitude":-108.198768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 E Murray Dr",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202955119,
-    "wof:lastmodified":1449061850,
+    "wof:lastmodified":1466700471,
     "wof:name":"Curtis Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-108.198768,36.719603,-108.198768,36.719603],
+  "bbox": [
+    -108.198768,
+    36.719603,
+    -108.198768,
+    36.719603
+],
   "geometry": {"coordinates":[-108.198768,36.719603],"type":"Point"}
 }

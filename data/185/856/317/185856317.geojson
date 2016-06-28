@@ -2,13 +2,14 @@
   "id": 185856317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.330857,34.17142,-103.330857,34.17142",
     "geom:latitude":34.17142,
     "geom:longitude":-103.330857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W 18th St",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185856317,
-    "wof:lastmodified":1449007068,
+    "wof:lastmodified":1466698076,
     "wof:name":"Church Of Christ Southside",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-103.330857,34.17142,-103.330857,34.17142],
-  "geometry": {"coordinates":[-103.330857,34.17142],"type":"Point"}
+  "bbox": [
+    -103.330857,
+    34.17142,
+    -103.330857,
+    34.17142
+],
+  "geometry": {"coordinates":[-103.33085699999999,34.17142],"type":"Point"}
 }

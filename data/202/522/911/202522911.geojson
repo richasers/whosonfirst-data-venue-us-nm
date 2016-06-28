@@ -2,13 +2,14 @@
   "id": 202522911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.639886,35.110033,-106.639886,35.110033",
     "geom:latitude":35.110033,
     "geom:longitude":-106.639886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202522911,
-    "wof:lastmodified":1449061337,
+    "wof:lastmodified":1466699273,
     "wof:name":"Source One Office Furnishings",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-106.639886,35.110033,-106.639886,35.110033],
+  "bbox": [
+    -106.639886,
+    35.110033,
+    -106.639886,
+    35.110033
+],
   "geometry": {"coordinates":[-106.639886,35.110033],"type":"Point"}
 }

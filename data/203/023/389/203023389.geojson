@@ -2,13 +2,14 @@
   "id": 203023389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.250449,33.13912,-107.250449,33.13912",
     "geom:latitude":33.13912,
     "geom:longitude":-107.250449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 N Date St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203023389,
-    "wof:lastmodified":1449026686,
+    "wof:lastmodified":1466697858,
     "wof:name":"Grindell & Romero Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.250449,33.13912,-107.250449,33.13912],
+  "bbox": [
+    -107.250449,
+    33.13912,
+    -107.250449,
+    33.13912
+],
   "geometry": {"coordinates":[-107.250449,33.13912],"type":"Point"}
 }

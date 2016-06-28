@@ -2,13 +2,14 @@
   "id": 185920207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.518668,35.070504,-106.518668,35.070504",
     "geom:latitude":35.070504,
     "geom:longitude":-106.518668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11321 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185920207,
-    "wof:lastmodified":1449007867,
+    "wof:lastmodified":1466698806,
     "wof:name":"Mascarenas Insurance Agency",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.518668,35.070504,-106.518668,35.070504],
-  "geometry": {"coordinates":[-106.518668,35.070504],"type":"Point"}
+  "bbox": [
+    -106.518668,
+    35.070504,
+    -106.518668,
+    35.070504
+],
+  "geometry": {"coordinates":[-106.51866800000001,35.070504],"type":"Point"}
 }

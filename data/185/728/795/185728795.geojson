@@ -2,13 +2,14 @@
   "id": 185728795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.357784,33.139441,-104.357784,33.139441",
     "geom:latitude":33.139441,
     "geom:longitude":-104.357784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"578 E Chickasaw Rd",
     "sg:city":"Hagerman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185728795,
-    "wof:lastmodified":1449006986,
+    "wof:lastmodified":1466698970,
     "wof:name":"Criminal Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.357784,33.139441,-104.357784,33.139441],
+  "bbox": [
+    -104.357784,
+    33.139441,
+    -104.357784,
+    33.139441
+],
   "geometry": {"coordinates":[-104.357784,33.139441],"type":"Point"}
 }

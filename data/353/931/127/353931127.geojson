@@ -2,13 +2,14 @@
   "id": 353931127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.605882,35.125914,-106.605882,35.125914",
     "geom:latitude":35.125914,
     "geom:longitude":-106.605882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 San Andres Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":353931127,
-    "wof:lastmodified":1449020577,
+    "wof:lastmodified":1466698036,
     "wof:name":"D Sats & Cabeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "equipment"
     ]
 },
-  "bbox": [-106.605882,35.125914,-106.605882,35.125914],
-  "geometry": {"coordinates":[-106.605882,35.125914],"type":"Point"}
+  "bbox": [
+    -106.605882,
+    35.125914,
+    -106.605882,
+    35.125914
+],
+  "geometry": {"coordinates":[-106.60588199999999,35.125914],"type":"Point"}
 }

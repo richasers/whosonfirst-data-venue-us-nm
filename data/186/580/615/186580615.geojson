@@ -2,13 +2,14 @@
   "id": 186580615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.946699,35.671813,-105.946699,35.671813",
     "geom:latitude":35.671813,
     "geom:longitude":-105.946699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 W Cordova Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186580615,
-    "wof:lastmodified":1449052176,
+    "wof:lastmodified":1466700450,
     "wof:name":"Leslie Pearlman PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-105.946699,35.671813,-105.946699,35.671813],
+  "bbox": [
+    -105.946699,
+    35.671813,
+    -105.946699,
+    35.671813
+],
   "geometry": {"coordinates":[-105.946699,35.671813],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185901583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.534963,35.155967,-106.534963,35.155967",
     "geom:latitude":35.155967,
     "geom:longitude":-106.534963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9522 Pebble Beach Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185901583,
-    "wof:lastmodified":1449007279,
+    "wof:lastmodified":1466698542,
     "wof:name":"Devcorp",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "developer"
     ]
 },
-  "bbox": [-106.534963,35.155967,-106.534963,35.155967],
+  "bbox": [
+    -106.534963,
+    35.155967,
+    -106.534963,
+    35.155967
+],
   "geometry": {"coordinates":[-106.534963,35.155967],"type":"Point"}
 }

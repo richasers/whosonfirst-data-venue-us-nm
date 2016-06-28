@@ -2,13 +2,14 @@
   "id": 185999143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.240776,32.420352,-104.240776,32.420352",
     "geom:latitude":32.420352,
     "geom:longitude":-104.240776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 W Mermod St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185999143,
-    "wof:lastmodified":1449008024,
+    "wof:lastmodified":1466699770,
     "wof:name":"Eddy County Beauty College",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "school"
     ]
 },
-  "bbox": [-104.240776,32.420352,-104.240776,32.420352],
+  "bbox": [
+    -104.240776,
+    32.420352,
+    -104.240776,
+    32.420352
+],
   "geometry": {"coordinates":[-104.240776,32.420352],"type":"Point"}
 }

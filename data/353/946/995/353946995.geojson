@@ -2,13 +2,14 @@
   "id": 353946995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.592706,35.113645,-106.592706,35.113645",
     "geom:latitude":35.113645,
     "geom:longitude":-106.592706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2845 Jefferson St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":353946995,
-    "wof:lastmodified":1449020500,
+    "wof:lastmodified":1466698480,
     "wof:name":"Your Guiding Light Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-106.592706,35.113645,-106.592706,35.113645],
-  "geometry": {"coordinates":[-106.592706,35.113645],"type":"Point"}
+  "bbox": [
+    -106.592706,
+    35.113645,
+    -106.592706,
+    35.113645
+],
+  "geometry": {"coordinates":[-106.59270600000001,35.113645],"type":"Point"}
 }

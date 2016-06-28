@@ -2,13 +2,14 @@
   "id": 353966581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.491373,35.16377,-106.491373,35.16377",
     "geom:latitude":35.16377,
     "geom:longitude":-106.491373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1157 Laurel Loop NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353966581,
-    "wof:lastmodified":1449018275,
+    "wof:lastmodified":1466698923,
     "wof:name":"Southwest Travel Agency",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-106.491373,35.16377,-106.491373,35.16377],
+  "bbox": [
+    -106.491373,
+    35.16377,
+    -106.491373,
+    35.16377
+],
   "geometry": {"coordinates":[-106.491373,35.16377],"type":"Point"}
 }

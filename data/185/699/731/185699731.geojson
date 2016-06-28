@@ -2,13 +2,14 @@
   "id": 185699731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.56827,35.16499,-106.56827,35.16499",
     "geom:latitude":35.16499,
     "geom:longitude":-106.56827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7108 Coulson Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185699731,
-    "wof:lastmodified":1449006823,
+    "wof:lastmodified":1466698651,
     "wof:name":"New Mexicos Handyman",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.56827,35.16499,-106.56827,35.16499],
+  "bbox": [
+    -106.56827,
+    35.16499,
+    -106.56827,
+    35.16499
+],
   "geometry": {"coordinates":[-106.56827,35.16499],"type":"Point"}
 }

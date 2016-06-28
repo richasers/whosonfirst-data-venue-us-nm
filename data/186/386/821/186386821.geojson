@@ -2,13 +2,14 @@
   "id": 186386821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.648108,35.879448,-106.648108,35.879448",
     "geom:latitude":35.879448,
     "geom:longitude":-106.648108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 T Bone Rd",
     "sg:city":"Jemez Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186386821,
-    "wof:lastmodified":1449051781,
+    "wof:lastmodified":1466699797,
     "wof:name":"Gore Technical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.648108,35.879448,-106.648108,35.879448],
-  "geometry": {"coordinates":[-106.648108,35.879448],"type":"Point"}
+  "bbox": [
+    -106.648108,
+    35.879448,
+    -106.648108,
+    35.879448
+],
+  "geometry": {"coordinates":[-106.64810799999999,35.879448],"type":"Point"}
 }

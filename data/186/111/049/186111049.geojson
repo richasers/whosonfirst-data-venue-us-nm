@@ -2,13 +2,14 @@
   "id": 186111049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.646658,35.206536,-106.646658,35.206536",
     "geom:latitude":35.206536,
     "geom:longitude":-106.646658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Cll Cuervo NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186111049,
-    "wof:lastmodified":1449053108,
+    "wof:lastmodified":1466699022,
     "wof:name":"American Toyota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.646658,35.206536,-106.646658,35.206536],
+  "bbox": [
+    -106.646658,
+    35.206536,
+    -106.646658,
+    35.206536
+],
   "geometry": {"coordinates":[-106.646658,35.206536],"type":"Point"}
 }

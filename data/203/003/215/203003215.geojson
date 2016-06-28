@@ -2,13 +2,14 @@
   "id": 203003215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.541453,35.070896,-106.541453,35.070896",
     "geom:latitude":35.070896,
     "geom:longitude":-106.541453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Moon St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203003215,
-    "wof:lastmodified":1449026723,
+    "wof:lastmodified":1466697619,
     "wof:name":"Savoies Truck Service",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "truck"
     ]
 },
-  "bbox": [-106.541453,35.070896,-106.541453,35.070896],
+  "bbox": [
+    -106.541453,
+    35.070896,
+    -106.541453,
+    35.070896
+],
   "geometry": {"coordinates":[-106.541453,35.070896],"type":"Point"}
 }

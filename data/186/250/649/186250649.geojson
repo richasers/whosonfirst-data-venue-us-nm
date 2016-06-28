@@ -2,13 +2,14 @@
   "id": 186250649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.685493,35.155243,-106.685493,35.155243",
     "geom:latitude":35.155243,
     "geom:longitude":-106.685493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4209 Spanish Broom Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186250649,
-    "wof:lastmodified":1449051912,
+    "wof:lastmodified":1466698672,
     "wof:name":"Employment Training Svc Inc",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "program"
     ]
 },
-  "bbox": [-106.685493,35.155243,-106.685493,35.155243],
-  "geometry": {"coordinates":[-106.685493,35.155243],"type":"Point"}
+  "bbox": [
+    -106.685493,
+    35.155243,
+    -106.685493,
+    35.155243
+],
+  "geometry": {"coordinates":[-106.68549299999999,35.155243],"type":"Point"}
 }

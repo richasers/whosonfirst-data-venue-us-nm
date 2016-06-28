@@ -2,13 +2,14 @@
   "id": 186439987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.55612,35.100141,-106.55612,35.100141",
     "geom:latitude":35.100141,
     "geom:longitude":-106.55612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 Hendola Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":186439987,
-    "wof:lastmodified":1449051129,
+    "wof:lastmodified":1466700000,
     "wof:name":"Alto Vista Media Design Group",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "print"
     ]
 },
-  "bbox": [-106.55612,35.100141,-106.55612,35.100141],
-  "geometry": {"coordinates":[-106.55612,35.100141],"type":"Point"}
+  "bbox": [
+    -106.55612,
+    35.100141,
+    -106.55612,
+    35.100141
+],
+  "geometry": {"coordinates":[-106.55612000000001,35.100141],"type":"Point"}
 }

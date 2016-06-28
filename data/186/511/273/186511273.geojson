@@ -2,13 +2,14 @@
   "id": 186511273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.663134,35.031194,-106.663134,35.031194",
     "geom:latitude":35.031194,
     "geom:longitude":-106.663134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Hale Cir SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186511273,
-    "wof:lastmodified":1449051612,
+    "wof:lastmodified":1466700135,
     "wof:name":"Albuquerque Slipsafe Service",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitorial"
     ]
 },
-  "bbox": [-106.663134,35.031194,-106.663134,35.031194],
+  "bbox": [
+    -106.663134,
+    35.031194,
+    -106.663134,
+    35.031194
+],
   "geometry": {"coordinates":[-106.663134,35.031194],"type":"Point"}
 }

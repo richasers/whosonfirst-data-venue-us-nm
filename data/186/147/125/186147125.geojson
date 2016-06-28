@@ -2,13 +2,14 @@
   "id": 186147125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.94637,32.2397,-107.94637,32.2397",
     "geom:latitude":32.2397,
     "geom:longitude":-107.94637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11490 Hwy 418 SW",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186147125,
-    "wof:lastmodified":1449052732,
+    "wof:lastmodified":1466699242,
     "wof:name":"Tommy Laney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forestry"
     ]
 },
-  "bbox": [-107.94637,32.2397,-107.94637,32.2397],
+  "bbox": [
+    -107.94637,
+    32.2397,
+    -107.94637,
+    32.2397
+],
   "geometry": {"coordinates":[-107.94637,32.2397],"type":"Point"}
 }

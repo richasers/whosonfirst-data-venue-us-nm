@@ -2,13 +2,14 @@
   "id": 202983737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.452456,36.887657,-104.452456,36.887657",
     "geom:latitude":36.887657,
     "geom:longitude":-104.452456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Letton Dr",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202983737,
-    "wof:lastmodified":1449062441,
+    "wof:lastmodified":1466700610,
     "wof:name":"Service Organization For Youth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.452456,36.887657,-104.452456,36.887657],
+  "bbox": [
+    -104.452456,
+    36.887657,
+    -104.452456,
+    36.887657
+],
   "geometry": {"coordinates":[-104.452456,36.887657],"type":"Point"}
 }

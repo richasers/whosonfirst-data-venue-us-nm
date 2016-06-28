@@ -2,13 +2,14 @@
   "id": 185990843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.206757,34.410984,-103.206757,34.410984",
     "geom:latitude":34.410984,
     "geom:longitude":-103.206757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Mitchell St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185990843,
-    "wof:lastmodified":1449007669,
+    "wof:lastmodified":1466699719,
     "wof:name":"Aldridge Aycock Atkinson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-103.206757,34.410984,-103.206757,34.410984],
+  "bbox": [
+    -103.206757,
+    34.410984,
+    -103.206757,
+    34.410984
+],
   "geometry": {"coordinates":[-103.206757,34.410984],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186014183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.68522,35.117899,-106.68522,35.117899",
     "geom:latitude":35.117899,
     "geom:longitude":-106.68522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 el Toboso Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186014183,
-    "wof:lastmodified":1449051692,
+    "wof:lastmodified":1466697848,
     "wof:name":"Lee Brown Consultant",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-106.68522,35.117899,-106.68522,35.117899],
+  "bbox": [
+    -106.68522,
+    35.117899,
+    -106.68522,
+    35.117899
+],
   "geometry": {"coordinates":[-106.68522,35.117899],"type":"Point"}
 }

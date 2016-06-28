@@ -2,13 +2,14 @@
   "id": 186240313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.616717,35.222163,-106.616717,35.222163",
     "geom:latitude":35.222163,
     "geom:longitude":-106.616717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4247 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186240313,
-    "wof:lastmodified":1449050521,
+    "wof:lastmodified":1466698534,
     "wof:name":"Assurance Home Care",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-106.616717,35.222163,-106.616717,35.222163],
-  "geometry": {"coordinates":[-106.616717,35.222163],"type":"Point"}
+  "bbox": [
+    -106.616717,
+    35.222163,
+    -106.616717,
+    35.222163
+],
+  "geometry": {"coordinates":[-106.61671699999999,35.222163],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202700207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.554776,35.086279,-106.554776,35.086279",
     "geom:latitude":35.086279,
     "geom:longitude":-106.554776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8114 Fruit Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202700207,
-    "wof:lastmodified":1449062430,
+    "wof:lastmodified":1466699606,
     "wof:name":"Gloria Valladares",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.554776,35.086279,-106.554776,35.086279],
+  "bbox": [
+    -106.554776,
+    35.086279,
+    -106.554776,
+    35.086279
+],
   "geometry": {"coordinates":[-106.554776,35.086279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202515931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.57235,36.409133,-105.57235,36.409133",
     "geom:latitude":36.409133,
     "geom:longitude":-105.57235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Civic Plaza Dr",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202515931,
-    "wof:lastmodified":1449060696,
+    "wof:lastmodified":1466699238,
     "wof:name":"Taos Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "swimming"
     ]
 },
-  "bbox": [-105.57235,36.409133,-105.57235,36.409133],
+  "bbox": [
+    -105.57235,
+    36.409133,
+    -105.57235,
+    36.409133
+],
   "geometry": {"coordinates":[-105.57235,36.409133],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169804167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615613,35.110917,-106.615613,35.110917",
     "geom:latitude":35.110917,
     "geom:longitude":-106.615613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2240 Phoenix Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":169804167,
-    "wof:lastmodified":1449034986,
+    "wof:lastmodified":1466698655,
     "wof:name":"Accu-Aire Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.615613,35.110917,-106.615613,35.110917],
+  "bbox": [
+    -106.615613,
+    35.110917,
+    -106.615613,
+    35.110917
+],
   "geometry": {"coordinates":[-106.615613,35.110917],"type":"Point"}
 }

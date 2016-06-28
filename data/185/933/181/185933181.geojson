@@ -2,13 +2,14 @@
   "id": 185933181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.602909,35.130967,-106.602909,35.130967",
     "geom:latitude":35.130967,
     "geom:longitude":-106.602909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4055 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185933181,
-    "wof:lastmodified":1449006945,
+    "wof:lastmodified":1466698985,
     "wof:name":"Zia Mortgage Lending Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-106.602909,35.130967,-106.602909,35.130967],
+  "bbox": [
+    -106.602909,
+    35.130967,
+    -106.602909,
+    35.130967
+],
   "geometry": {"coordinates":[-106.602909,35.130967],"type":"Point"}
 }

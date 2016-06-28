@@ -2,13 +2,14 @@
   "id": 186187947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.666444,35.216475,-106.666444,35.216475",
     "geom:latitude":35.216475,
     "geom:longitude":-106.666444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4104 Willowbrook Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186187947,
-    "wof:lastmodified":1449050789,
+    "wof:lastmodified":1466697864,
     "wof:name":"New Mex FX",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-106.666444,35.216475,-106.666444,35.216475],
+  "bbox": [
+    -106.666444,
+    35.216475,
+    -106.666444,
+    35.216475
+],
   "geometry": {"coordinates":[-106.666444,35.216475],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203131993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.100398,35.607365,-103.100398,35.607365",
     "geom:latitude":35.607365,
     "geom:longitude":-103.100398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 US Hwy 54",
     "sg:city":"Logan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203131993,
-    "wof:lastmodified":1449025480,
+    "wof:lastmodified":1466699033,
     "wof:name":"Enmr Plateau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-103.100398,35.607365,-103.100398,35.607365],
+  "bbox": [
+    -103.100398,
+    35.607365,
+    -103.100398,
+    35.607365
+],
   "geometry": {"coordinates":[-103.100398,35.607365],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202911675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.257977,32.4264,-104.257977,32.4264",
     "geom:latitude":32.4264,
     "geom:longitude":-104.257977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 N 8th St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202911675,
-    "wof:lastmodified":1449062246,
+    "wof:lastmodified":1466700401,
     "wof:name":"A V A Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-104.257977,32.4264,-104.257977,32.4264],
+  "bbox": [
+    -104.257977,
+    32.4264,
+    -104.257977,
+    32.4264
+],
   "geometry": {"coordinates":[-104.257977,32.4264],"type":"Point"}
 }

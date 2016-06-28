@@ -2,13 +2,14 @@
   "id": 185769483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.76504,32.312394,-106.76504,32.312394",
     "geom:latitude":32.312394,
     "geom:longitude":-106.76504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 S Solano Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185769483,
-    "wof:lastmodified":1449007130,
+    "wof:lastmodified":1466699219,
     "wof:name":"Estrella Del Mar",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.76504,32.312394,-106.76504,32.312394],
+  "bbox": [
+    -106.76504,
+    32.312394,
+    -106.76504,
+    32.312394
+],
   "geometry": {"coordinates":[-106.76504,32.312394],"type":"Point"}
 }

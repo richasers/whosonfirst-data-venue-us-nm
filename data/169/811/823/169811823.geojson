@@ -2,13 +2,14 @@
   "id": 169811823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.492677,35.121755,-106.492677,35.121755",
     "geom:latitude":35.121755,
     "geom:longitude":-106.492677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3504 Embudito Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169811823,
-    "wof:lastmodified":1449034274,
+    "wof:lastmodified":1466698680,
     "wof:name":"Werkema Jane Lynn Artist",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "artist"
     ]
 },
-  "bbox": [-106.492677,35.121755,-106.492677,35.121755],
+  "bbox": [
+    -106.492677,
+    35.121755,
+    -106.492677,
+    35.121755
+],
   "geometry": {"coordinates":[-106.492677,35.121755],"type":"Point"}
 }

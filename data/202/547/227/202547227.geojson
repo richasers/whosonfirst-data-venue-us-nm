@@ -2,13 +2,14 @@
   "id": 202547227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.599983,35.17379,-106.599983,35.17379",
     "geom:latitude":35.17379,
     "geom:longitude":-106.599983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7900 Lorraine Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202547227,
-    "wof:lastmodified":1449060376,
+    "wof:lastmodified":1466697604,
     "wof:name":"Dan Care Carpet Tile Inc",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "carpet"
     ]
 },
-  "bbox": [-106.599983,35.17379,-106.599983,35.17379],
-  "geometry": {"coordinates":[-106.599983,35.17379],"type":"Point"}
+  "bbox": [
+    -106.599983,
+    35.17379,
+    -106.599983,
+    35.17379
+],
+  "geometry": {"coordinates":[-106.59998299999999,35.17379],"type":"Point"}
 }

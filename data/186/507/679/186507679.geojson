@@ -2,13 +2,14 @@
   "id": 186507679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.568977,35.115793,-106.568977,35.115793",
     "geom:latitude":35.115793,
     "geom:longitude":-106.568977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2935 Louisiana Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186507679,
-    "wof:lastmodified":1449051747,
+    "wof:lastmodified":1466700245,
     "wof:name":"Weyrich Gallery",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.568977,35.115793,-106.568977,35.115793],
+  "bbox": [
+    -106.568977,
+    35.115793,
+    -106.568977,
+    35.115793
+],
   "geometry": {"coordinates":[-106.568977,35.115793],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202920871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.669832,35.095966,-106.669832,35.095966",
     "geom:latitude":35.095966,
     "geom:longitude":-106.669832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2034 S Plaza St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202920871,
-    "wof:lastmodified":1449062082,
+    "wof:lastmodified":1466700438,
     "wof:name":"Coverd Wagon",
     "wof:parent_id":85839415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "indian"
     ]
 },
-  "bbox": [-106.669832,35.095966,-106.669832,35.095966],
+  "bbox": [
+    -106.669832,
+    35.095966,
+    -106.669832,
+    35.095966
+],
   "geometry": {"coordinates":[-106.669832,35.095966],"type":"Point"}
 }

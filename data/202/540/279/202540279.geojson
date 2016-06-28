@@ -2,13 +2,14 @@
   "id": 202540279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.128089,32.722165,-103.128089,32.722165",
     "geom:latitude":32.722165,
     "geom:longitude":-103.128089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"726 E Michigan Dr",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202540279,
-    "wof:lastmodified":1449061117,
+    "wof:lastmodified":1466699306,
     "wof:name":"Area 4 Vocational Rehab Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vocational"
     ]
 },
-  "bbox": [-103.128089,32.722165,-103.128089,32.722165],
+  "bbox": [
+    -103.128089,
+    32.722165,
+    -103.128089,
+    32.722165
+],
   "geometry": {"coordinates":[-103.128089,32.722165],"type":"Point"}
 }

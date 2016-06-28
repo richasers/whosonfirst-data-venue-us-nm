@@ -2,13 +2,14 @@
   "id": 169740493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.626282,35.136418,-106.626282,35.136418",
     "geom:latitude":35.136418,
     "geom:longitude":-106.626282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Montano Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":169740493,
-    "wof:lastmodified":1449034167,
+    "wof:lastmodified":1466697996,
     "wof:name":"David Nufer Photography",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "photo"
     ]
 },
-  "bbox": [-106.626282,35.136418,-106.626282,35.136418],
+  "bbox": [
+    -106.626282,
+    35.136418,
+    -106.626282,
+    35.136418
+],
   "geometry": {"coordinates":[-106.626282,35.136418],"type":"Point"}
 }

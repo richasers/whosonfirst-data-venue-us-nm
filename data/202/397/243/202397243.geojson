@@ -2,13 +2,14 @@
   "id": 202397243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.620377,35.111017,-106.620377,35.111017",
     "geom:latitude":35.111017,
     "geom:longitude":-106.620377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Princeton Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202397243,
-    "wof:lastmodified":1449061127,
+    "wof:lastmodified":1466697903,
     "wof:name":"Barnhill Bolt Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "bolt"
     ]
 },
-  "bbox": [-106.620377,35.111017,-106.620377,35.111017],
+  "bbox": [
+    -106.620377,
+    35.111017,
+    -106.620377,
+    35.111017
+],
   "geometry": {"coordinates":[-106.620377,35.111017],"type":"Point"}
 }

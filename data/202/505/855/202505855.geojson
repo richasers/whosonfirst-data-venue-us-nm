@@ -2,13 +2,14 @@
   "id": 202505855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.685201,35.070684,-106.685201,35.070684",
     "geom:latitude":35.070684,
     "geom:longitude":-106.685201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1928 Lake Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202505855,
-    "wof:lastmodified":1449062240,
+    "wof:lastmodified":1466699190,
     "wof:name":"Apple Tree Construction",
     "wof:parent_id":85892605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.685201,35.070684,-106.685201,35.070684],
-  "geometry": {"coordinates":[-106.685201,35.070684],"type":"Point"}
+  "bbox": [
+    -106.685201,
+    35.070684,
+    -106.685201,
+    35.070684
+],
+  "geometry": {"coordinates":[-106.68520100000001,35.070684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353979165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.186627,34.386372,-103.186627,34.386372",
     "geom:latitude":34.386372,
     "geom:longitude":-103.186627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 E Howard St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353979165,
-    "wof:lastmodified":1449020051,
+    "wof:lastmodified":1466699081,
     "wof:name":"Ricks Quality Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.186627,34.386372,-103.186627,34.386372],
+  "bbox": [
+    -103.186627,
+    34.386372,
+    -103.186627,
+    34.386372
+],
   "geometry": {"coordinates":[-103.186627,34.386372],"type":"Point"}
 }

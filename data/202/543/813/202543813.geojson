@@ -2,13 +2,14 @@
   "id": 202543813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.70716,35.121559,-106.70716,35.121559",
     "geom:latitude":35.121559,
     "geom:longitude":-106.70716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6041 Sequoia Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202543813,
-    "wof:lastmodified":1449060607,
+    "wof:lastmodified":1466699333,
     "wof:name":"ES Foster Inc",
     "wof:parent_id":85865321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "educational"
     ]
 },
-  "bbox": [-106.70716,35.121559,-106.70716,35.121559],
+  "bbox": [
+    -106.70716,
+    35.121559,
+    -106.70716,
+    35.121559
+],
   "geometry": {"coordinates":[-106.70716,35.121559],"type":"Point"}
 }

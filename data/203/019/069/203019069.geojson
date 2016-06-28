@@ -2,13 +2,14 @@
   "id": 203019069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.964841,35.662196,-105.964841,35.662196",
     "geom:latitude":35.662196,
     "geom:longitude":-105.964841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1802 2nd St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203019069,
-    "wof:lastmodified":1449026041,
+    "wof:lastmodified":1466697810,
     "wof:name":"Dunbar Dunbar Antiques",
     "wof:parent_id":85880811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-105.964841,35.662196,-105.964841,35.662196],
-  "geometry": {"coordinates":[-105.964841,35.662196],"type":"Point"}
+  "bbox": [
+    -105.964841,
+    35.662196,
+    -105.964841,
+    35.662196
+],
+  "geometry": {"coordinates":[-105.96484100000001,35.662196],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202979621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.00159,36.713806,-108.00159,36.713806",
     "geom:latitude":36.713806,
     "geom:longitude":-108.00159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 N Bergin Ln",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202979621,
-    "wof:lastmodified":1449061893,
+    "wof:lastmodified":1466700701,
     "wof:name":"Bloomfield Machine & Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-108.00159,36.713806,-108.00159,36.713806],
-  "geometry": {"coordinates":[-108.00159,36.713806],"type":"Point"}
+  "bbox": [
+    -108.00159,
+    36.713806,
+    -108.00159,
+    36.713806
+],
+  "geometry": {"coordinates":[-108.00158999999999,36.713806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186487565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.541168,33.389743,-104.541168,33.389743",
     "geom:latitude":33.389743,
     "geom:longitude":-104.541168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 S Sunset Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186487565,
-    "wof:lastmodified":1449051274,
+    "wof:lastmodified":1466700050,
     "wof:name":"C & J Nursery & Ldscpg Sups",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.541168,33.389743,-104.541168,33.389743],
+  "bbox": [
+    -104.541168,
+    33.389743,
+    -104.541168,
+    33.389743
+],
   "geometry": {"coordinates":[-104.541168,33.389743],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185694761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.43847,32.625755,-108.43847,32.625755",
     "geom:latitude":32.625755,
     "geom:longitude":-108.43847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"665 Tyrone Rd",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185694761,
-    "wof:lastmodified":1449007061,
+    "wof:lastmodified":1466698606,
     "wof:name":"Southwestern Camper Ranches",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-108.43847,32.625755,-108.43847,32.625755],
+  "bbox": [
+    -108.43847,
+    32.625755,
+    -108.43847,
+    32.625755
+],
   "geometry": {"coordinates":[-108.43847,32.625755],"type":"Point"}
 }

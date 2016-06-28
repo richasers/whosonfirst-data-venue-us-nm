@@ -2,13 +2,14 @@
   "id": 353972539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.64389,31.914005,-106.64389,31.914005",
     "geom:latitude":31.914005,
     "geom:longitude":-106.64389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6992 Mcnutt Rd",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353972539,
-    "wof:lastmodified":1449019545,
+    "wof:lastmodified":1466699454,
     "wof:name":"Epson Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.64389,31.914005,-106.64389,31.914005],
+  "bbox": [
+    -106.64389,
+    31.914005,
+    -106.64389,
+    31.914005
+],
   "geometry": {"coordinates":[-106.64389,31.914005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186509703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.161925,32.69435,-103.161925,32.69435",
     "geom:latitude":32.69435,
     "geom:longitude":-103.161925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 S Texaco Rd",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186509703,
-    "wof:lastmodified":1449050385,
+    "wof:lastmodified":1466700117,
     "wof:name":"Cobra Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-103.161925,32.69435,-103.161925,32.69435],
+  "bbox": [
+    -103.161925,
+    32.69435,
+    -103.161925,
+    32.69435
+],
   "geometry": {"coordinates":[-103.161925,32.69435],"type":"Point"}
 }

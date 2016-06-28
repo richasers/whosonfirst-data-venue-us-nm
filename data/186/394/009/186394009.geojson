@@ -2,13 +2,14 @@
   "id": 186394009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.60588,36.361583,-105.60588,36.361583",
     "geom:latitude":36.361583,
     "geom:longitude":-105.60588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4167 State Rte 68",
     "sg:city":"Ranchos De Taos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186394009,
-    "wof:lastmodified":1449050928,
+    "wof:lastmodified":1466699944,
     "wof:name":"Antonio's A Taste Of Mexico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.60588,36.361583,-105.60588,36.361583],
+  "bbox": [
+    -105.60588,
+    36.361583,
+    -105.60588,
+    36.361583
+],
   "geometry": {"coordinates":[-105.60588,36.361583],"type":"Point"}
 }

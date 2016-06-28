@@ -2,13 +2,14 @@
   "id": 202973975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.377186,32.004863,-106.377186,32.004863",
     "geom:latitude":32.004863,
     "geom:longitude":-106.377186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Amador Dr",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202973975,
-    "wof:lastmodified":1449061643,
+    "wof:lastmodified":1466700566,
     "wof:name":"Chaparral Church of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.377186,32.004863,-106.377186,32.004863],
-  "geometry": {"coordinates":[-106.377186,32.004863],"type":"Point"}
+  "bbox": [
+    -106.377186,
+    32.004863,
+    -106.377186,
+    32.004863
+],
+  "geometry": {"coordinates":[-106.37718599999999,32.004863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186123067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.650648,35.103153,-106.650648,35.103153",
     "geom:latitude":35.103153,
     "geom:longitude":-106.650648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Haines Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186123067,
-    "wof:lastmodified":1449051179,
+    "wof:lastmodified":1466699128,
     "wof:name":"Haines Co",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.650648,35.103153,-106.650648,35.103153],
+  "bbox": [
+    -106.650648,
+    35.103153,
+    -106.650648,
+    35.103153
+],
   "geometry": {"coordinates":[-106.650648,35.103153],"type":"Point"}
 }

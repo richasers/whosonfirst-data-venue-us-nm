@@ -2,13 +2,14 @@
   "id": 202670687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.623038,35.193453,-106.623038,35.193453",
     "geom:latitude":35.193453,
     "geom:longitude":-106.623038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"544 Golden Meadow Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202670687,
-    "wof:lastmodified":1449060484,
+    "wof:lastmodified":1466699646,
     "wof:name":"Riley Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-106.623038,35.193453,-106.623038,35.193453],
-  "geometry": {"coordinates":[-106.623038,35.193453],"type":"Point"}
+  "bbox": [
+    -106.623038,
+    35.193453,
+    -106.623038,
+    35.193453
+],
+  "geometry": {"coordinates":[-106.62303799999999,35.193453],"type":"Point"}
 }

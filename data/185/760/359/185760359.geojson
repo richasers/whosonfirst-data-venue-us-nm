@@ -2,13 +2,14 @@
   "id": 185760359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.704842,35.154413,-106.704842,35.154413",
     "geom:latitude":35.154413,
     "geom:longitude":-106.704842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6120 Lamy St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185760359,
-    "wof:lastmodified":1449008128,
+    "wof:lastmodified":1466699180,
     "wof:name":"Tao Jin Unlimited",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-106.704842,35.154413,-106.704842,35.154413],
+  "bbox": [
+    -106.704842,
+    35.154413,
+    -106.704842,
+    35.154413
+],
   "geometry": {"coordinates":[-106.704842,35.154413],"type":"Point"}
 }

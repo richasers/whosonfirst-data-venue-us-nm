@@ -2,13 +2,14 @@
   "id": 185752597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.930228,35.682212,-105.930228,35.682212",
     "geom:latitude":35.682212,
     "geom:longitude":-105.930228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 Canyon Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185752597,
-    "wof:lastmodified":1449006882,
+    "wof:lastmodified":1466699160,
     "wof:name":"Michael Leroy Smith Indian Art",
     "wof:parent_id":85880803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.930228,35.682212,-105.930228,35.682212],
+  "bbox": [
+    -105.930228,
+    35.682212,
+    -105.930228,
+    35.682212
+],
   "geometry": {"coordinates":[-105.930228,35.682212],"type":"Point"}
 }

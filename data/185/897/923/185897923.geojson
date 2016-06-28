@@ -2,13 +2,14 @@
   "id": 185897923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.528928,33.394231,-104.528928,33.394231",
     "geom:latitude":33.394231,
     "geom:longitude":-104.528928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Lea Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185897923,
-    "wof:lastmodified":1449007977,
+    "wof:lastmodified":1466698474,
     "wof:name":"Help New Mexico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-104.528928,33.394231,-104.528928,33.394231],
-  "geometry": {"coordinates":[-104.528928,33.394231],"type":"Point"}
+  "bbox": [
+    -104.528928,
+    33.394231,
+    -104.528928,
+    33.394231
+],
+  "geometry": {"coordinates":[-104.52892799999999,33.394231],"type":"Point"}
 }

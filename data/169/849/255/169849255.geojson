@@ -2,13 +2,14 @@
   "id": 169849255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960889,35.687817,-105.960889,35.687817",
     "geom:latitude":35.687817,
     "geom:longitude":-105.960889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 W Alameda St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169849255,
-    "wof:lastmodified":1449033298,
+    "wof:lastmodified":1466698882,
     "wof:name":"Home Run Pizza",
     "wof:parent_id":85880785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-105.960889,35.687817,-105.960889,35.687817],
-  "geometry": {"coordinates":[-105.960889,35.687817],"type":"Point"}
+  "bbox": [
+    -105.960889,
+    35.687817,
+    -105.960889,
+    35.687817
+],
+  "geometry": {"coordinates":[-105.96088899999999,35.687817],"type":"Point"}
 }

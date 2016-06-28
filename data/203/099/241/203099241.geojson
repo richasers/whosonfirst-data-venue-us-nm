@@ -2,13 +2,14 @@
   "id": 203099241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.751368,32.245448,-107.751368,32.245448",
     "geom:latitude":32.245448,
     "geom:longitude":-107.751368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2355 Columbus Rd",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203099241,
-    "wof:lastmodified":1449026216,
+    "wof:lastmodified":1466698723,
     "wof:name":"Systems Bookkeeping Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-107.751368,32.245448,-107.751368,32.245448],
+  "bbox": [
+    -107.751368,
+    32.245448,
+    -107.751368,
+    32.245448
+],
   "geometry": {"coordinates":[-107.751368,32.245448],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203011887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.611037,35.081852,-106.611037,35.081852",
     "geom:latitude":35.081852,
     "geom:longitude":-106.611037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 Monte Vista Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203011887,
-    "wof:lastmodified":1449026490,
+    "wof:lastmodified":1466697725,
     "wof:name":"Engage Pilates",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pilate"
     ]
 },
-  "bbox": [-106.611037,35.081852,-106.611037,35.081852],
+  "bbox": [
+    -106.611037,
+    35.081852,
+    -106.611037,
+    35.081852
+],
   "geometry": {"coordinates":[-106.611037,35.081852],"type":"Point"}
 }

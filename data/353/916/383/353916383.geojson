@@ -2,13 +2,14 @@
   "id": 353916383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.633395,35.220926,-106.633395,35.220926",
     "geom:latitude":35.220926,
     "geom:longitude":-106.633395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"443 W Meadowlark Ln",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":353916383,
-    "wof:lastmodified":1449019662,
+    "wof:lastmodified":1466697652,
     "wof:name":"Signal Binding Systems",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-106.633395,35.220926,-106.633395,35.220926],
-  "geometry": {"coordinates":[-106.633395,35.220926],"type":"Point"}
+  "bbox": [
+    -106.633395,
+    35.220926,
+    -106.633395,
+    35.220926
+],
+  "geometry": {"coordinates":[-106.63339499999999,35.220926],"type":"Point"}
 }

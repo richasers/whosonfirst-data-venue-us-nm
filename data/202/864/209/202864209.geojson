@@ -2,13 +2,14 @@
   "id": 202864209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.679936,35.126953,-106.679936,35.126953",
     "geom:latitude":35.126953,
     "geom:longitude":-106.679936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2708 Candelaria Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202864209,
-    "wof:lastmodified":1449062692,
+    "wof:lastmodified":1466700236,
     "wof:name":"Marsell Enterprises",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pottery"
     ]
 },
-  "bbox": [-106.679936,35.126953,-106.679936,35.126953],
+  "bbox": [
+    -106.679936,
+    35.126953,
+    -106.679936,
+    35.126953
+],
   "geometry": {"coordinates":[-106.679936,35.126953],"type":"Point"}
 }

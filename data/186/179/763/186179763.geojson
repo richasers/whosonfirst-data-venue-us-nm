@@ -2,13 +2,14 @@
   "id": 186179763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.712479,35.105524,-106.712479,35.105524",
     "geom:latitude":35.105524,
     "geom:longitude":-106.712479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1742 Vasilion Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186179763,
-    "wof:lastmodified":1449052747,
+    "wof:lastmodified":1466697762,
     "wof:name":"Antelope Errand Services",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.712479,35.105524,-106.712479,35.105524],
+  "bbox": [
+    -106.712479,
+    35.105524,
+    -106.712479,
+    35.105524
+],
   "geometry": {"coordinates":[-106.712479,35.105524],"type":"Point"}
 }

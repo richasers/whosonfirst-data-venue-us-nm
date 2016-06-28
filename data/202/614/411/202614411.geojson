@@ -2,13 +2,14 @@
   "id": 202614411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.920926,32.282813,-106.920926,32.282813",
     "geom:latitude":32.282813,
     "geom:longitude":-106.920926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8960 Zia Blvd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202614411,
-    "wof:lastmodified":1449062740,
+    "wof:lastmodified":1466698586,
     "wof:name":"Las Cruces Intl Airport",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.920926,32.282813,-106.920926,32.282813],
-  "geometry": {"coordinates":[-106.920926,32.282813],"type":"Point"}
+  "bbox": [
+    -106.920926,
+    32.282813,
+    -106.920926,
+    32.282813
+],
+  "geometry": {"coordinates":[-106.92092599999999,32.282813],"type":"Point"}
 }

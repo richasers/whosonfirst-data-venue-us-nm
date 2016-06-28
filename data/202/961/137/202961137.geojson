@@ -2,13 +2,14 @@
   "id": 202961137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.482763,35.092654,-106.482763,35.092654",
     "geom:latitude":35.092654,
     "geom:longitude":-106.482763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 Pinnacle View Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202961137,
-    "wof:lastmodified":1449062581,
+    "wof:lastmodified":1466700599,
     "wof:name":"Bar Ja Ranch",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-106.482763,35.092654,-106.482763,35.092654],
-  "geometry": {"coordinates":[-106.482763,35.092654],"type":"Point"}
+  "bbox": [
+    -106.482763,
+    35.092654,
+    -106.482763,
+    35.092654
+],
+  "geometry": {"coordinates":[-106.48276300000001,35.092654],"type":"Point"}
 }

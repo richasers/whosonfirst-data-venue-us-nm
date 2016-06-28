@@ -2,13 +2,14 @@
   "id": 202514689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.60116,32.010259,-106.60116,32.010259",
     "geom:latitude":32.010259,
     "geom:longitude":-106.60116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 Acosta Rd",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202514689,
-    "wof:lastmodified":1449061397,
+    "wof:lastmodified":1466699235,
     "wof:name":"Villa Sereno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.60116,32.010259,-106.60116,32.010259],
-  "geometry": {"coordinates":[-106.60116,32.010259],"type":"Point"}
+  "bbox": [
+    -106.60116,
+    32.010259,
+    -106.60116,
+    32.010259
+],
+  "geometry": {"coordinates":[-106.60115999999999,32.010259],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202679845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.178002,36.748279,-108.178002,36.748279",
     "geom:latitude":36.748279,
     "geom:longitude":-108.178002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 E 20th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202679845,
-    "wof:lastmodified":1449061721,
+    "wof:lastmodified":1466699423,
     "wof:name":"Tcm Digital Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-108.178002,36.748279,-108.178002,36.748279],
-  "geometry": {"coordinates":[-108.178002,36.748279],"type":"Point"}
+  "bbox": [
+    -108.178002,
+    36.748279,
+    -108.178002,
+    36.748279
+],
+  "geometry": {"coordinates":[-108.17800200000001,36.748279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186202059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.559857,35.078151,-106.559857,35.078151",
     "geom:latitude":35.078151,
     "geom:longitude":-106.559857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Dallas St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186202059,
-    "wof:lastmodified":1449052665,
+    "wof:lastmodified":1466698057,
     "wof:name":"Philadelphia Ministries",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chapel"
     ]
 },
-  "bbox": [-106.559857,35.078151,-106.559857,35.078151],
-  "geometry": {"coordinates":[-106.559857,35.078151],"type":"Point"}
+  "bbox": [
+    -106.559857,
+    35.078151,
+    -106.559857,
+    35.078151
+],
+  "geometry": {"coordinates":[-106.55985699999999,35.078151],"type":"Point"}
 }

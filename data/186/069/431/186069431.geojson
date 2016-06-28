@@ -2,13 +2,14 @@
   "id": 186069431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.596122,35.075632,-106.596122,35.075632",
     "geom:latitude":35.075632,
     "geom:longitude":-106.596122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Valverde Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186069431,
-    "wof:lastmodified":1449052063,
+    "wof:lastmodified":1466698527,
     "wof:name":"Alderete & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-106.596122,35.075632,-106.596122,35.075632],
-  "geometry": {"coordinates":[-106.596122,35.075632],"type":"Point"}
+  "bbox": [
+    -106.596122,
+    35.075632,
+    -106.596122,
+    35.075632
+],
+  "geometry": {"coordinates":[-106.59612199999999,35.075632],"type":"Point"}
 }

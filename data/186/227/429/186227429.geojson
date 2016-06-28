@@ -2,13 +2,14 @@
   "id": 186227429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.568862,35.099838,-106.568862,35.099838",
     "geom:latitude":35.099838,
     "geom:longitude":-106.568862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6565 Americas Pkwy NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186227429,
-    "wof:lastmodified":1449050983,
+    "wof:lastmodified":1466698364,
     "wof:name":"Daimlrchrysler Svcs N Amer LLC",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "finance"
     ]
 },
-  "bbox": [-106.568862,35.099838,-106.568862,35.099838],
+  "bbox": [
+    -106.568862,
+    35.099838,
+    -106.568862,
+    35.099838
+],
   "geometry": {"coordinates":[-106.568862,35.099838],"type":"Point"}
 }

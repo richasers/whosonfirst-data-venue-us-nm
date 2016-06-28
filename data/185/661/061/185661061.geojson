@@ -2,13 +2,14 @@
   "id": 185661061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.735837,34.807792,-106.735837,34.807792",
     "geom:latitude":34.807792,
     "geom:longitude":-106.735837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 State Hwy 314 NW",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185661061,
-    "wof:lastmodified":1449008049,
+    "wof:lastmodified":1466698243,
     "wof:name":"Lighting By Light Art",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-106.735837,34.807792,-106.735837,34.807792],
+  "bbox": [
+    -106.735837,
+    34.807792,
+    -106.735837,
+    34.807792
+],
   "geometry": {"coordinates":[-106.735837,34.807792],"type":"Point"}
 }

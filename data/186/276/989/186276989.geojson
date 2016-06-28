@@ -2,13 +2,14 @@
   "id": 186276989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.231555,32.42272,-104.231555,32.42272",
     "geom:latitude":32.42272,
     "geom:longitude":-104.231555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Alameda St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186276989,
-    "wof:lastmodified":1449050372,
+    "wof:lastmodified":1466699017,
     "wof:name":"Benchmark Real Estate",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-104.231555,32.42272,-104.231555,32.42272],
+  "bbox": [
+    -104.231555,
+    32.42272,
+    -104.231555,
+    32.42272
+],
   "geometry": {"coordinates":[-104.231555,32.42272],"type":"Point"}
 }

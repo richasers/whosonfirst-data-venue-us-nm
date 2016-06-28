@@ -2,13 +2,14 @@
   "id": 202435349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.794496,32.309692,-106.794496,32.309692",
     "geom:latitude":32.309692,
     "geom:longitude":-106.794496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1226 W Hadley Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202435349,
-    "wof:lastmodified":1449062417,
+    "wof:lastmodified":1466698377,
     "wof:name":"Nellie's Cafe",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.794496,32.309692,-106.794496,32.309692],
+  "bbox": [
+    -106.794496,
+    32.309692,
+    -106.794496,
+    32.309692
+],
   "geometry": {"coordinates":[-106.794496,32.309692],"type":"Point"}
 }

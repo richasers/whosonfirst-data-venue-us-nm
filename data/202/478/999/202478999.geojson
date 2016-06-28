@@ -2,13 +2,14 @@
   "id": 202478999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.516717,35.0907,-106.516717,35.0907",
     "geom:latitude":35.0907,
     "geom:longitude":-106.516717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11620 Rosemont Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202478999,
-    "wof:lastmodified":1449060179,
+    "wof:lastmodified":1466698959,
     "wof:name":"Bartlett's Baubles",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-106.516717,35.0907,-106.516717,35.0907],
+  "bbox": [
+    -106.516717,
+    35.0907,
+    -106.516717,
+    35.0907
+],
   "geometry": {"coordinates":[-106.516717,35.0907],"type":"Point"}
 }

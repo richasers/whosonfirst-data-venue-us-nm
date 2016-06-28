@@ -2,13 +2,14 @@
   "id": 203119689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.722666,35.101142,-106.722666,35.101142",
     "geom:latitude":35.101142,
     "geom:longitude":-106.722666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7605 Redwood Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203119689,
-    "wof:lastmodified":1449026323,
+    "wof:lastmodified":1466698945,
     "wof:name":"Isham Child Care Center",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.722666,35.101142,-106.722666,35.101142],
+  "bbox": [
+    -106.722666,
+    35.101142,
+    -106.722666,
+    35.101142
+],
   "geometry": {"coordinates":[-106.722666,35.101142],"type":"Point"}
 }

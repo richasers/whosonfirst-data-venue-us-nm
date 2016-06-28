@@ -2,13 +2,14 @@
   "id": 186410053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.605726,35.071983,-106.605726,35.071983",
     "geom:latitude":35.071983,
     "geom:longitude":-106.605726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Amherst Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186410053,
-    "wof:lastmodified":1449050293,
+    "wof:lastmodified":1466699775,
     "wof:name":"Elliott & Guillermo Designers",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "designer"
     ]
 },
-  "bbox": [-106.605726,35.071983,-106.605726,35.071983],
+  "bbox": [
+    -106.605726,
+    35.071983,
+    -106.605726,
+    35.071983
+],
   "geometry": {"coordinates":[-106.605726,35.071983],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202909749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.930813,35.685977,-105.930813,35.685977",
     "geom:latitude":35.685977,
     "geom:longitude":-105.930813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 E Palace Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202909749,
-    "wof:lastmodified":1449062020,
+    "wof:lastmodified":1466700394,
     "wof:name":"Trust For Public Land",
     "wof:parent_id":85880807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "org"
     ]
 },
-  "bbox": [-105.930813,35.685977,-105.930813,35.685977],
+  "bbox": [
+    -105.930813,
+    35.685977,
+    -105.930813,
+    35.685977
+],
   "geometry": {"coordinates":[-105.930813,35.685977],"type":"Point"}
 }

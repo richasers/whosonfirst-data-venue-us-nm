@@ -2,13 +2,14 @@
   "id": 353938993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.601013,35.164452,-106.601013,35.164452",
     "geom:latitude":35.164452,
     "geom:longitude":-106.601013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 Rutledge Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -79,10 +80,11 @@
         }
     ],
     "wof:id":353938993,
-    "wof:lastmodified":1449020149,
+    "wof:lastmodified":1466698248,
     "wof:name":"Sci Security Control Intgrtn",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -101,6 +103,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-106.601013,35.164452,-106.601013,35.164452],
-  "geometry": {"coordinates":[-106.601013,35.164452],"type":"Point"}
+  "bbox": [
+    -106.601013,
+    35.164452,
+    -106.601013,
+    35.164452
+],
+  "geometry": {"coordinates":[-106.60101299999999,35.164452],"type":"Point"}
 }

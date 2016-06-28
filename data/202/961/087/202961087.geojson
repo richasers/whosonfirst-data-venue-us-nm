@@ -2,13 +2,14 @@
   "id": 202961087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.942795,35.682711,-105.942795,35.682711",
     "geom:latitude":35.682711,
     "geom:longitude":-105.942795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 Galisteo St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202961087,
-    "wof:lastmodified":1449062580,
+    "wof:lastmodified":1466700599,
     "wof:name":"Paramount Surveys Inc",
     "wof:parent_id":85880805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.942795,35.682711,-105.942795,35.682711],
+  "bbox": [
+    -105.942795,
+    35.682711,
+    -105.942795,
+    35.682711
+],
   "geometry": {"coordinates":[-105.942795,35.682711],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186159943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.783914,32.30862,-106.783914,32.30862",
     "geom:latitude":32.30862,
     "geom:longitude":-106.783914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 W Griggs Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186159943,
-    "wof:lastmodified":1449050573,
+    "wof:lastmodified":1466699364,
     "wof:name":"Vintage Living",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-106.783914,32.30862,-106.783914,32.30862],
+  "bbox": [
+    -106.783914,
+    32.30862,
+    -106.783914,
+    32.30862
+],
   "geometry": {"coordinates":[-106.783914,32.30862],"type":"Point"}
 }

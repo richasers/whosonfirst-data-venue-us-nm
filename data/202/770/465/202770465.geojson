@@ -2,13 +2,14 @@
   "id": 202770465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.439209,35.307206,-106.439209,35.307206",
     "geom:latitude":35.307206,
     "geom:longitude":-106.439209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"566 Hwy 165",
     "sg:city":"Placitas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202770465,
-    "wof:lastmodified":1449062705,
+    "wof:lastmodified":1466699967,
     "wof:name":"Water Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "drilling"
     ]
 },
-  "bbox": [-106.439209,35.307206,-106.439209,35.307206],
-  "geometry": {"coordinates":[-106.439209,35.307206],"type":"Point"}
+  "bbox": [
+    -106.439209,
+    35.307206,
+    -106.439209,
+    35.307206
+],
+  "geometry": {"coordinates":[-106.43920900000001,35.307206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202865089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.223718,32.77741,-108.223718,32.77741",
     "geom:latitude":32.77741,
     "geom:longitude":-108.223718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Hood St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202865089,
-    "wof:lastmodified":1449062029,
+    "wof:lastmodified":1466700105,
     "wof:name":"Horned Toad Pottery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.223718,32.77741,-108.223718,32.77741],
-  "geometry": {"coordinates":[-108.223718,32.77741],"type":"Point"}
+  "bbox": [
+    -108.223718,
+    32.77741,
+    -108.223718,
+    32.77741
+],
+  "geometry": {"coordinates":[-108.22371800000001,32.77741],"type":"Point"}
 }

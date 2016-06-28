@@ -2,13 +2,14 @@
   "id": 185599753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.2089,35.407962,-108.2089,35.407962",
     "geom:latitude":35.407962,
     "geom:longitude":-108.2089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 State Hwy 371",
     "sg:city":"Thoreau",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185599753,
-    "wof:lastmodified":1449007357,
+    "wof:lastmodified":1466697608,
     "wof:name":"Thoreau Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-108.2089,35.407962,-108.2089,35.407962],
+  "bbox": [
+    -108.2089,
+    35.407962,
+    -108.2089,
+    35.407962
+],
   "geometry": {"coordinates":[-108.2089,35.407962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186445217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.360156,35.154104,-106.360156,35.154104",
     "geom:latitude":35.154104,
     "geom:longitude":-106.360156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Ranch Rd",
     "sg:city":"Lindrith",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186445217,
-    "wof:lastmodified":1449050694,
+    "wof:lastmodified":1466699906,
     "wof:name":"Canyon Ridge Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.360156,35.154104,-106.360156,35.154104],
+  "bbox": [
+    -106.360156,
+    35.154104,
+    -106.360156,
+    35.154104
+],
   "geometry": {"coordinates":[-106.360156,35.154104],"type":"Point"}
 }

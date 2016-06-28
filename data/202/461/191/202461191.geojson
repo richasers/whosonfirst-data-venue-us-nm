@@ -2,13 +2,14 @@
   "id": 202461191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.720511,35.07275,-106.720511,35.07275",
     "geom:latitude":35.07275,
     "geom:longitude":-106.720511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7509 Forsythe Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202461191,
-    "wof:lastmodified":1449061070,
+    "wof:lastmodified":1466698620,
     "wof:name":"E M Lath & Plaster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.720511,35.07275,-106.720511,35.07275],
+  "bbox": [
+    -106.720511,
+    35.07275,
+    -106.720511,
+    35.07275
+],
   "geometry": {"coordinates":[-106.720511,35.07275],"type":"Point"}
 }

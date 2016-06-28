@@ -2,13 +2,14 @@
   "id": 203094967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.582051,36.893306,-106.582051,36.893306",
     "geom:latitude":36.893306,
     "geom:longitude":-106.582051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2362 State Hwy 17",
     "sg:city":"Chama",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203094967,
-    "wof:lastmodified":1449026144,
+    "wof:lastmodified":1466698675,
     "wof:name":"Chama Trails Inn",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.582051,36.893306,-106.582051,36.893306],
-  "geometry": {"coordinates":[-106.582051,36.893306],"type":"Point"}
+  "bbox": [
+    -106.582051,
+    36.893306,
+    -106.582051,
+    36.893306
+],
+  "geometry": {"coordinates":[-106.58205100000001,36.893306],"type":"Point"}
 }

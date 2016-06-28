@@ -2,13 +2,14 @@
   "id": 353967941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.505249,35.08328,-106.505249,35.08328",
     "geom:latitude":35.08328,
     "geom:longitude":-106.505249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Georgene Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353967941,
-    "wof:lastmodified":1449020612,
+    "wof:lastmodified":1466698963,
     "wof:name":"The Margarita Man",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rental"
     ]
 },
-  "bbox": [-106.505249,35.08328,-106.505249,35.08328],
-  "geometry": {"coordinates":[-106.505249,35.08328],"type":"Point"}
+  "bbox": [
+    -106.505249,
+    35.08328,
+    -106.505249,
+    35.08328
+],
+  "geometry": {"coordinates":[-106.50524900000001,35.08328],"type":"Point"}
 }

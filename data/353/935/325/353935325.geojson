@@ -2,13 +2,14 @@
   "id": 353935325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.580939,35.085133,-106.580939,35.085133",
     "geom:latitude":35.085133,
     "geom:longitude":-106.580939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 Valencia Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353935325,
-    "wof:lastmodified":1449020372,
+    "wof:lastmodified":1466698149,
     "wof:name":"Systems Furniture Installation",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "store"
     ]
 },
-  "bbox": [-106.580939,35.085133,-106.580939,35.085133],
+  "bbox": [
+    -106.580939,
+    35.085133,
+    -106.580939,
+    35.085133
+],
   "geometry": {"coordinates":[-106.580939,35.085133],"type":"Point"}
 }

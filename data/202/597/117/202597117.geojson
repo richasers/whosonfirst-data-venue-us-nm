@@ -2,13 +2,14 @@
   "id": 202597117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.77795,32.31143,-106.77795,32.31143",
     "geom:latitude":32.31143,
     "geom:longitude":-106.77795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Church St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202597117,
-    "wof:lastmodified":1449062604,
+    "wof:lastmodified":1466698343,
     "wof:name":"City-Las Cruces-Utilities Div",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-106.77795,32.31143,-106.77795,32.31143],
+  "bbox": [
+    -106.77795,
+    32.31143,
+    -106.77795,
+    32.31143
+],
   "geometry": {"coordinates":[-106.77795,32.31143],"type":"Point"}
 }

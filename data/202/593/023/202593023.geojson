@@ -2,13 +2,14 @@
   "id": 202593023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960193,32.900765,-105.960193,32.900765",
     "geom:latitude":32.900765,
     "geom:longitude":-105.960193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 N White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202593023,
-    "wof:lastmodified":1449061769,
+    "wof:lastmodified":1466698285,
     "wof:name":"Plaza Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.960193,32.900765,-105.960193,32.900765],
+  "bbox": [
+    -105.960193,
+    32.900765,
+    -105.960193,
+    32.900765
+],
   "geometry": {"coordinates":[-105.960193,32.900765],"type":"Point"}
 }

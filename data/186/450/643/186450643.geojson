@@ -2,13 +2,14 @@
   "id": 186450643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.591932,35.164743,-106.591932,35.164743",
     "geom:latitude":35.164743,
     "geom:longitude":-106.591932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5121 Masthead St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186450643,
-    "wof:lastmodified":1449052597,
+    "wof:lastmodified":1466700035,
     "wof:name":"State Bar Of New Mexico",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.591932,35.164743,-106.591932,35.164743],
+  "bbox": [
+    -106.591932,
+    35.164743,
+    -106.591932,
+    35.164743
+],
   "geometry": {"coordinates":[-106.591932,35.164743],"type":"Point"}
 }

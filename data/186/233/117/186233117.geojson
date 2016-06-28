@@ -2,13 +2,14 @@
   "id": 186233117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.962325,32.826387,-105.962325,32.826387",
     "geom:latitude":32.826387,
     "geom:longitude":-105.962325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Solana Dr",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186233117,
-    "wof:lastmodified":1449053069,
+    "wof:lastmodified":1466698438,
     "wof:name":"Spebsqsa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.962325,32.826387,-105.962325,32.826387],
-  "geometry": {"coordinates":[-105.962325,32.826387],"type":"Point"}
+  "bbox": [
+    -105.962325,
+    32.826387,
+    -105.962325,
+    32.826387
+],
+  "geometry": {"coordinates":[-105.96232500000001,32.826387],"type":"Point"}
 }

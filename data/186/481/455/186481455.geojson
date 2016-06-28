@@ -2,13 +2,14 @@
   "id": 186481455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.941005,35.655748,-105.941005,35.655748",
     "geom:latitude":35.655748,
     "geom:longitude":-105.941005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Saint Michaels Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186481455,
-    "wof:lastmodified":1449052672,
+    "wof:lastmodified":1466700168,
     "wof:name":"All Pro Mortgage LLC",
     "wof:parent_id":85880837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "real estate"
     ]
 },
-  "bbox": [-105.941005,35.655748,-105.941005,35.655748],
+  "bbox": [
+    -105.941005,
+    35.655748,
+    -105.941005,
+    35.655748
+],
   "geometry": {"coordinates":[-105.941005,35.655748],"type":"Point"}
 }

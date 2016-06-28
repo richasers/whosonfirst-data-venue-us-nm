@@ -2,13 +2,14 @@
   "id": 186577391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.52198,35.086747,-106.52198,35.086747",
     "geom:latitude":35.086747,
     "geom:longitude":-106.52198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Marcella St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186577391,
-    "wof:lastmodified":1449053102,
+    "wof:lastmodified":1466700559,
     "wof:name":"Carver Construction Co Inc",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.52198,35.086747,-106.52198,35.086747],
+  "bbox": [
+    -106.52198,
+    35.086747,
+    -106.52198,
+    35.086747
+],
   "geometry": {"coordinates":[-106.52198,35.086747],"type":"Point"}
 }

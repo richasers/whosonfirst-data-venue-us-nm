@@ -2,13 +2,14 @@
   "id": 186555973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.556015,35.090869,-106.556015,35.090869",
     "geom:latitude":35.090869,
     "geom:longitude":-106.556015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8200 Mountain Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186555973,
-    "wof:lastmodified":1449052635,
+    "wof:lastmodified":1466700329,
     "wof:name":"Skillstorm Security Svc Div",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "system"
     ]
 },
-  "bbox": [-106.556015,35.090869,-106.556015,35.090869],
+  "bbox": [
+    -106.556015,
+    35.090869,
+    -106.556015,
+    35.090869
+],
   "geometry": {"coordinates":[-106.556015,35.090869],"type":"Point"}
 }

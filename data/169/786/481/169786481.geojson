@@ -2,13 +2,14 @@
   "id": 169786481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.921385,35.679328,-105.921385,35.679328",
     "geom:latitude":35.679328,
     "geom:longitude":-105.921385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"924 Canyon Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169786481,
-    "wof:lastmodified":1449033116,
+    "wof:lastmodified":1466698407,
     "wof:name":"Oz Art School",
     "wof:parent_id":85880769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-105.921385,35.679328,-105.921385,35.679328],
+  "bbox": [
+    -105.921385,
+    35.679328,
+    -105.921385,
+    35.679328
+],
   "geometry": {"coordinates":[-105.921385,35.679328],"type":"Point"}
 }

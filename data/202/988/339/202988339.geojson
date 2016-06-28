@@ -2,13 +2,14 @@
   "id": 202988339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.51517,35.071148,-106.51517,35.071148",
     "geom:latitude":35.071148,
     "geom:longitude":-106.51517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11801 Linn Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202988339,
-    "wof:lastmodified":1449060986,
+    "wof:lastmodified":1466700821,
     "wof:name":"Frank's Electric & Alarms",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.51517,35.071148,-106.51517,35.071148],
+  "bbox": [
+    -106.51517,
+    35.071148,
+    -106.51517,
+    35.071148
+],
   "geometry": {"coordinates":[-106.51517,35.071148],"type":"Point"}
 }

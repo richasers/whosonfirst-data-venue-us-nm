@@ -2,13 +2,14 @@
   "id": 202958997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.904114,34.068752,-106.904114,34.068752",
     "geom:latitude":34.068752,
     "geom:longitude":-106.904114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Bullock Blvd",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202958997,
-    "wof:lastmodified":1449062100,
+    "wof:lastmodified":1466700598,
     "wof:name":"Catherine T Aimone-Martin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-106.904114,34.068752,-106.904114,34.068752],
-  "geometry": {"coordinates":[-106.904114,34.068752],"type":"Point"}
+  "bbox": [
+    -106.904114,
+    34.068752,
+    -106.904114,
+    34.068752
+],
+  "geometry": {"coordinates":[-106.90411400000001,34.068752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202700067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.740034,35.191627,-106.740034,35.191627",
     "geom:latitude":35.191627,
     "geom:longitude":-106.740034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9719 Triana Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202700067,
-    "wof:lastmodified":1449062429,
+    "wof:lastmodified":1466699604,
     "wof:name":"Ortiz Engraving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-106.740034,35.191627,-106.740034,35.191627],
-  "geometry": {"coordinates":[-106.740034,35.191627],"type":"Point"}
+  "bbox": [
+    -106.740034,
+    35.191627,
+    -106.740034,
+    35.191627
+],
+  "geometry": {"coordinates":[-106.74003399999999,35.191627],"type":"Point"}
 }

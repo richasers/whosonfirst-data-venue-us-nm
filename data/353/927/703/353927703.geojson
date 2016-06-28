@@ -2,13 +2,14 @@
   "id": 353927703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.618555,35.102683,-106.618555,35.102683",
     "geom:latitude":35.102683,
     "geom:longitude":-106.618555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2521 Schell Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353927703,
-    "wof:lastmodified":1449020536,
+    "wof:lastmodified":1466697939,
     "wof:name":"Rode To Fine Furniture",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-106.618555,35.102683,-106.618555,35.102683],
+  "bbox": [
+    -106.618555,
+    35.102683,
+    -106.618555,
+    35.102683
+],
   "geometry": {"coordinates":[-106.618555,35.102683],"type":"Point"}
 }

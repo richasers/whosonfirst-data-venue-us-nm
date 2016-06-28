@@ -2,13 +2,14 @@
   "id": 202848109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.791779,32.302193,-106.791779,32.302193",
     "geom:latitude":32.302193,
     "geom:longitude":-106.791779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 S Valley Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202848109,
-    "wof:lastmodified":1449060460,
+    "wof:lastmodified":1466700169,
     "wof:name":"Palm Harbor Homes",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.791779,32.302193,-106.791779,32.302193],
-  "geometry": {"coordinates":[-106.791779,32.302193],"type":"Point"}
+  "bbox": [
+    -106.791779,
+    32.302193,
+    -106.791779,
+    32.302193
+],
+  "geometry": {"coordinates":[-106.79177900000001,32.302193],"type":"Point"}
 }

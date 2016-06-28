@@ -2,13 +2,14 @@
   "id": 186143163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.710635,32.348315,-108.710635,32.348315",
     "geom:latitude":32.348315,
     "geom:longitude":-108.710635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W 4th St",
     "sg:city":"Lordsburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186143163,
-    "wof:lastmodified":1449052555,
+    "wof:lastmodified":1466699218,
     "wof:name":"D A W G Gone Plumbing/Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.710635,32.348315,-108.710635,32.348315],
+  "bbox": [
+    -108.710635,
+    32.348315,
+    -108.710635,
+    32.348315
+],
   "geometry": {"coordinates":[-108.710635,32.348315],"type":"Point"}
 }

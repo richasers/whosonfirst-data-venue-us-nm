@@ -2,13 +2,14 @@
   "id": 186108289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.731711,32.310882,-106.731711,32.310882",
     "geom:latitude":32.310882,
     "geom:longitude":-106.731711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3265 Arrowhead Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186108289,
-    "wof:lastmodified":1449050310,
+    "wof:lastmodified":1466699006,
     "wof:name":"Opening Doors",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.731711,32.310882,-106.731711,32.310882],
+  "bbox": [
+    -106.731711,
+    32.310882,
+    -106.731711,
+    32.310882
+],
   "geometry": {"coordinates":[-106.731711,32.310882],"type":"Point"}
 }

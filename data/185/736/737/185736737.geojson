@@ -2,13 +2,14 @@
   "id": 185736737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.578617,35.118233,-106.578617,35.118233",
     "geom:latitude":35.118233,
     "geom:longitude":-106.578617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3217 Cagua Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185736737,
-    "wof:lastmodified":1449008169,
+    "wof:lastmodified":1466699039,
     "wof:name":"Bill Mohr",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-106.578617,35.118233,-106.578617,35.118233],
-  "geometry": {"coordinates":[-106.578617,35.118233],"type":"Point"}
+  "bbox": [
+    -106.578617,
+    35.118233,
+    -106.578617,
+    35.118233
+],
+  "geometry": {"coordinates":[-106.57861699999999,35.118233],"type":"Point"}
 }

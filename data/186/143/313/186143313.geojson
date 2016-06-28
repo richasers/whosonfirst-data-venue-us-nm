@@ -2,13 +2,14 @@
   "id": 186143313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.686495,35.170007,-106.686495,35.170007",
     "geom:latitude":35.170007,
     "geom:longitude":-106.686495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4432 Rio Trumperos Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186143313,
-    "wof:lastmodified":1449052550,
+    "wof:lastmodified":1466699220,
     "wof:name":"Frontline Crisis Intervention",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "intervention"
     ]
 },
-  "bbox": [-106.686495,35.170007,-106.686495,35.170007],
-  "geometry": {"coordinates":[-106.686495,35.170007],"type":"Point"}
+  "bbox": [
+    -106.686495,
+    35.170007,
+    -106.686495,
+    35.170007
+],
+  "geometry": {"coordinates":[-106.68649499999999,35.170007],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186211759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.779929,32.350217,-106.779929,32.350217",
     "geom:latitude":32.350217,
     "geom:longitude":-106.779929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1151 Heather Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186211759,
-    "wof:lastmodified":1449051055,
+    "wof:lastmodified":1466698172,
     "wof:name":"AAA Rentals",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-106.779929,32.350217,-106.779929,32.350217],
+  "bbox": [
+    -106.779929,
+    32.350217,
+    -106.779929,
+    32.350217
+],
   "geometry": {"coordinates":[-106.779929,32.350217],"type":"Point"}
 }

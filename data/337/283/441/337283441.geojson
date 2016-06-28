@@ -2,13 +2,14 @@
   "id": 337283441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.395703,32.868993,-104.395703,32.868993",
     "geom:latitude":32.868993,
     "geom:longitude":-104.395703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2411 N Freeman Ave",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337283441,
-    "wof:lastmodified":1449027181,
+    "wof:lastmodified":1466697674,
     "wof:name":"Coke Asphalt Solutions",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-104.395703,32.868993,-104.395703,32.868993],
+  "bbox": [
+    -104.395703,
+    32.868993,
+    -104.395703,
+    32.868993
+],
   "geometry": {"coordinates":[-104.395703,32.868993],"type":"Point"}
 }

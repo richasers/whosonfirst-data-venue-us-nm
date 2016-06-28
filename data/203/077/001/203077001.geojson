@@ -2,13 +2,14 @@
   "id": 203077001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.782702,32.342442,-106.782702,32.342442",
     "geom:latitude":32.342442,
     "geom:longitude":-106.782702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"828 Rouault Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203077001,
-    "wof:lastmodified":1449025233,
+    "wof:lastmodified":1466699423,
     "wof:name":"Goserco Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "equipment"
     ]
 },
-  "bbox": [-106.782702,32.342442,-106.782702,32.342442],
+  "bbox": [
+    -106.782702,
+    32.342442,
+    -106.782702,
+    32.342442
+],
   "geometry": {"coordinates":[-106.782702,32.342442],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353949305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.53325,35.137685,-106.53325,35.137685",
     "geom:latitude":35.137685,
     "geom:longitude":-106.53325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5210 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353949305,
-    "wof:lastmodified":1449019850,
+    "wof:lastmodified":1466698551,
     "wof:name":"Charter One Bank",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "saving"
     ]
 },
-  "bbox": [-106.53325,35.137685,-106.53325,35.137685],
+  "bbox": [
+    -106.53325,
+    35.137685,
+    -106.53325,
+    35.137685
+],
   "geometry": {"coordinates":[-106.53325,35.137685],"type":"Point"}
 }

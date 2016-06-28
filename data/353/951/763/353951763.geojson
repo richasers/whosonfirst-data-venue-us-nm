@@ -2,13 +2,14 @@
   "id": 353951763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.532834,35.094686,-106.532834,35.094686",
     "geom:latitude":35.094686,
     "geom:longitude":-106.532834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1413 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353951763,
-    "wof:lastmodified":1449018352,
+    "wof:lastmodified":1466698625,
     "wof:name":"Event Palace",
     "wof:parent_id":85871891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "banquet"
     ]
 },
-  "bbox": [-106.532834,35.094686,-106.532834,35.094686],
-  "geometry": {"coordinates":[-106.532834,35.094686],"type":"Point"}
+  "bbox": [
+    -106.532834,
+    35.094686,
+    -106.532834,
+    35.094686
+],
+  "geometry": {"coordinates":[-106.53283399999999,35.094686],"type":"Point"}
 }

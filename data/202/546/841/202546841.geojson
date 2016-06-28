@@ -2,13 +2,14 @@
   "id": 202546841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.693017,34.820814,-106.693017,34.820814",
     "geom:latitude":34.820814,
     "geom:longitude":-106.693017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3552 State Hwy 47",
     "sg:city":"Peralta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202546841,
-    "wof:lastmodified":1449060105,
+    "wof:lastmodified":1466699384,
     "wof:name":"Hair Styles By Kenneth",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.693017,34.820814,-106.693017,34.820814],
+  "bbox": [
+    -106.693017,
+    34.820814,
+    -106.693017,
+    34.820814
+],
   "geometry": {"coordinates":[-106.693017,34.820814],"type":"Point"}
 }

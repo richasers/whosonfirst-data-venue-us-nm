@@ -2,13 +2,14 @@
   "id": 185993963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.758313,32.265521,-107.758313,32.265521",
     "geom:latitude":32.265521,
     "geom:longitude":-107.758313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 W Maple St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185993963,
-    "wof:lastmodified":1449007323,
+    "wof:lastmodified":1466699740,
     "wof:name":"Cooper Agency Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-107.758313,32.265521,-107.758313,32.265521],
+  "bbox": [
+    -107.758313,
+    32.265521,
+    -107.758313,
+    32.265521
+],
   "geometry": {"coordinates":[-107.758313,32.265521],"type":"Point"}
 }

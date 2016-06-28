@@ -2,13 +2,14 @@
   "id": 186596529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.751072,32.194862,-107.751072,32.194862",
     "geom:latitude":32.194862,
     "geom:longitude":-107.751072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6095 Columbus Rd",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186596529,
-    "wof:lastmodified":1449051743,
+    "wof:lastmodified":1466700631,
     "wof:name":"Ray's Auto Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-107.751072,32.194862,-107.751072,32.194862],
-  "geometry": {"coordinates":[-107.751072,32.194862],"type":"Point"}
+  "bbox": [
+    -107.751072,
+    32.194862,
+    -107.751072,
+    32.194862
+],
+  "geometry": {"coordinates":[-107.75107199999999,32.194862],"type":"Point"}
 }

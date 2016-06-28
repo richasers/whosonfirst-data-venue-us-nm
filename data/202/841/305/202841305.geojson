@@ -2,13 +2,14 @@
   "id": 202841305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.137327,32.696527,-103.137327,32.696527",
     "geom:latitude":32.696527,
     "geom:longitude":-103.137327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W Marland St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202841305,
-    "wof:lastmodified":1449060648,
+    "wof:lastmodified":1466700151,
     "wof:name":"G & G Roofing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.137327,32.696527,-103.137327,32.696527],
+  "bbox": [
+    -103.137327,
+    32.696527,
+    -103.137327,
+    32.696527
+],
   "geometry": {"coordinates":[-103.137327,32.696527],"type":"Point"}
 }

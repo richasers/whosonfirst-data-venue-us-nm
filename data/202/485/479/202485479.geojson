@@ -2,13 +2,14 @@
   "id": 202485479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.627537,35.076728,-106.627537,35.076728",
     "geom:latitude":35.076728,
     "geom:longitude":-106.627537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1719 Hazeldine Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202485479,
-    "wof:lastmodified":1449061664,
+    "wof:lastmodified":1466699026,
     "wof:name":"Marchetti Investingation",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-106.627537,35.076728,-106.627537,35.076728],
+  "bbox": [
+    -106.627537,
+    35.076728,
+    -106.627537,
+    35.076728
+],
   "geometry": {"coordinates":[-106.627537,35.076728],"type":"Point"}
 }

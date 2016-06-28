@@ -2,13 +2,14 @@
   "id": 186537241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.674854,33.332146,-105.674854,33.332146",
     "geom:latitude":33.332146,
     "geom:longitude":-105.674854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186537241,
-    "wof:lastmodified":1449051050,
+    "wof:lastmodified":1466700350,
     "wof:name":"Gold Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gold"
     ]
 },
-  "bbox": [-105.674854,33.332146,-105.674854,33.332146],
+  "bbox": [
+    -105.674854,
+    33.332146,
+    -105.674854,
+    33.332146
+],
   "geometry": {"coordinates":[-105.674854,33.332146],"type":"Point"}
 }

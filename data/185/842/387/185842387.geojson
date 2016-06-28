@@ -2,13 +2,14 @@
   "id": 185842387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.522316,33.306917,-104.522316,33.306917",
     "geom:latitude":33.306917,
     "geom:longitude":-104.522316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 E Challenger St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185842387,
-    "wof:lastmodified":1449006725,
+    "wof:lastmodified":1466697926,
     "wof:name":"Sidney Gutierrez Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.522316,33.306917,-104.522316,33.306917],
+  "bbox": [
+    -104.522316,
+    33.306917,
+    -104.522316,
+    33.306917
+],
   "geometry": {"coordinates":[-104.522316,33.306917],"type":"Point"}
 }

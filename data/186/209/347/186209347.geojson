@@ -2,13 +2,14 @@
   "id": 186209347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.413263,36.710336,-105.413263,36.710336",
     "geom:latitude":36.710336,
     "geom:longitude":-105.413263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Claim Jumper St",
     "sg:city":"Red River",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186209347,
-    "wof:lastmodified":1449052733,
+    "wof:lastmodified":1466698142,
     "wof:name":"Caribel Condominiums",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-105.413263,36.710336,-105.413263,36.710336],
+  "bbox": [
+    -105.413263,
+    36.710336,
+    -105.413263,
+    36.710336
+],
   "geometry": {"coordinates":[-105.413263,36.710336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186339273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.678732,35.065553,-106.678732,35.065553",
     "geom:latitude":35.065553,
     "geom:longitude":-106.678732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Bridge Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186339273,
-    "wof:lastmodified":1449051572,
+    "wof:lastmodified":1466699745,
     "wof:name":"Vanity Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plant"
     ]
 },
-  "bbox": [-106.678732,35.065553,-106.678732,35.065553],
+  "bbox": [
+    -106.678732,
+    35.065553,
+    -106.678732,
+    35.065553
+],
   "geometry": {"coordinates":[-106.678732,35.065553],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186568163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.514317,33.412699,-104.514317,33.412699",
     "geom:latitude":33.412699,
     "geom:longitude":-104.514317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1703 N Garden Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186568163,
-    "wof:lastmodified":1449050176,
+    "wof:lastmodified":1466700651,
     "wof:name":"Roswell Dragway LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-104.514317,33.412699,-104.514317,33.412699],
-  "geometry": {"coordinates":[-104.514317,33.412699],"type":"Point"}
+  "bbox": [
+    -104.514317,
+    33.412699,
+    -104.514317,
+    33.412699
+],
+  "geometry": {"coordinates":[-104.51431700000001,33.412699],"type":"Point"}
 }

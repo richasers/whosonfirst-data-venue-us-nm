@@ -2,13 +2,14 @@
   "id": 186372039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.983986,36.70785,-107.983986,36.70785",
     "geom:latitude":36.70785,
     "geom:longitude":-107.983986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 W Ash Ave",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186372039,
-    "wof:lastmodified":1449051990,
+    "wof:lastmodified":1466699627,
     "wof:name":"El Paso Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-107.983986,36.70785,-107.983986,36.70785],
+  "bbox": [
+    -107.983986,
+    36.70785,
+    -107.983986,
+    36.70785
+],
   "geometry": {"coordinates":[-107.983986,36.70785],"type":"Point"}
 }

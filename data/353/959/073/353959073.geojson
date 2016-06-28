@@ -2,13 +2,14 @@
   "id": 353959073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.693616,35.212687,-106.693616,35.212687",
     "geom:latitude":35.212687,
     "geom:longitude":-106.693616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10732 Monterey Bay Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353959073,
-    "wof:lastmodified":1449020547,
+    "wof:lastmodified":1466698761,
     "wof:name":"Sunset Foods Carne Seca D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "store"
     ]
 },
-  "bbox": [-106.693616,35.212687,-106.693616,35.212687],
-  "geometry": {"coordinates":[-106.693616,35.212687],"type":"Point"}
+  "bbox": [
+    -106.693616,
+    35.212687,
+    -106.693616,
+    35.212687
+],
+  "geometry": {"coordinates":[-106.69361600000001,35.212687],"type":"Point"}
 }

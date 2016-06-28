@@ -2,13 +2,14 @@
   "id": 186281421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.240712,35.073863,-106.240712,35.073863",
     "geom:latitude":35.073863,
     "geom:longitude":-106.240712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Chavez Ln",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186281421,
-    "wof:lastmodified":1449052600,
+    "wof:lastmodified":1466699076,
     "wof:name":"East Mountains Equin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.240712,35.073863,-106.240712,35.073863],
+  "bbox": [
+    -106.240712,
+    35.073863,
+    -106.240712,
+    35.073863
+],
   "geometry": {"coordinates":[-106.240712,35.073863],"type":"Point"}
 }

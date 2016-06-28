@@ -2,13 +2,14 @@
   "id": 202754531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.763158,34.702679,-106.763158,34.702679",
     "geom:latitude":34.702679,
     "geom:longitude":-106.763158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19502 State Hwy 314",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202754531,
-    "wof:lastmodified":1449061744,
+    "wof:lastmodified":1466699801,
     "wof:name":"Cruzn Auto Sales",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-106.763158,34.702679,-106.763158,34.702679],
+  "bbox": [
+    -106.763158,
+    34.702679,
+    -106.763158,
+    34.702679
+],
   "geometry": {"coordinates":[-106.763158,34.702679],"type":"Point"}
 }

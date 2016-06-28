@@ -2,13 +2,14 @@
   "id": 186323803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.202235,36.742191,-108.202235,36.742191",
     "geom:latitude":36.742191,
     "geom:longitude":-108.202235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 N Dustin Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186323803,
-    "wof:lastmodified":1449050478,
+    "wof:lastmodified":1466699702,
     "wof:name":"Zion Evangelical Lutheran Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-108.202235,36.742191,-108.202235,36.742191],
+  "bbox": [
+    -108.202235,
+    36.742191,
+    -108.202235,
+    36.742191
+],
   "geometry": {"coordinates":[-108.202235,36.742191],"type":"Point"}
 }

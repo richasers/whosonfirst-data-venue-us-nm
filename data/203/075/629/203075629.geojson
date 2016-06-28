@@ -2,13 +2,14 @@
   "id": 203075629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.601186,34.756454,-103.601186,34.756454",
     "geom:latitude":34.756454,
     "geom:longitude":-103.601186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3413 Qr Ah",
     "sg:city":"Melrose",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203075629,
-    "wof:lastmodified":1449025976,
+    "wof:lastmodified":1466698421,
     "wof:name":"K L General Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.601186,34.756454,-103.601186,34.756454],
+  "bbox": [
+    -103.601186,
+    34.756454,
+    -103.601186,
+    34.756454
+],
   "geometry": {"coordinates":[-103.601186,34.756454],"type":"Point"}
 }

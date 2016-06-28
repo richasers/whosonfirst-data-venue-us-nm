@@ -2,13 +2,14 @@
   "id": 186449849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.987817,35.637405,-105.987817,35.637405",
     "geom:latitude":35.637405,
     "geom:longitude":-105.987817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2951 Plz Azul",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186449849,
-    "wof:lastmodified":1449052828,
+    "wof:lastmodified":1466700038,
     "wof:name":"Art Carton Custom Boxes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.987817,35.637405,-105.987817,35.637405],
-  "geometry": {"coordinates":[-105.987817,35.637405],"type":"Point"}
+  "bbox": [
+    -105.987817,
+    35.637405,
+    -105.987817,
+    35.637405
+],
+  "geometry": {"coordinates":[-105.98781700000001,35.637405],"type":"Point"}
 }

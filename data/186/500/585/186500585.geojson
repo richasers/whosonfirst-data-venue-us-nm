@@ -2,13 +2,14 @@
   "id": 186500585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.653325,35.088504,-106.653325,35.088504",
     "geom:latitude":35.088504,
     "geom:longitude":-106.653325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Marquette Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186500585,
-    "wof:lastmodified":1449051062,
+    "wof:lastmodified":1466700088,
     "wof:name":"US Passport Information",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "affairs"
     ]
 },
-  "bbox": [-106.653325,35.088504,-106.653325,35.088504],
+  "bbox": [
+    -106.653325,
+    35.088504,
+    -106.653325,
+    35.088504
+],
   "geometry": {"coordinates":[-106.653325,35.088504],"type":"Point"}
 }

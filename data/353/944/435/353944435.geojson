@@ -2,13 +2,14 @@
   "id": 353944435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.594276,35.10194,-106.594276,35.10194",
     "geom:latitude":35.10194,
     "geom:longitude":-106.594276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4401 Indian School Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":353944435,
-    "wof:lastmodified":1449019540,
+    "wof:lastmodified":1466698405,
     "wof:name":"Congregation B'nai Israel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "church"
     ]
 },
-  "bbox": [-106.594276,35.10194,-106.594276,35.10194],
-  "geometry": {"coordinates":[-106.594276,35.10194],"type":"Point"}
+  "bbox": [
+    -106.594276,
+    35.10194,
+    -106.594276,
+    35.10194
+],
+  "geometry": {"coordinates":[-106.59427599999999,35.10194],"type":"Point"}
 }

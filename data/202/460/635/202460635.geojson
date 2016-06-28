@@ -2,13 +2,14 @@
   "id": 202460635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.191459,36.725295,-108.191459,36.725295",
     "geom:latitude":36.725295,
     "geom:longitude":-108.191459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Mc Cormick School Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202460635,
-    "wof:lastmodified":1449062505,
+    "wof:lastmodified":1466698622,
     "wof:name":"Farmington Elc Utility Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "municipal"
     ]
 },
-  "bbox": [-108.191459,36.725295,-108.191459,36.725295],
-  "geometry": {"coordinates":[-108.191459,36.725295],"type":"Point"}
+  "bbox": [
+    -108.191459,
+    36.725295,
+    -108.191459,
+    36.725295
+],
+  "geometry": {"coordinates":[-108.19145899999999,36.725295],"type":"Point"}
 }

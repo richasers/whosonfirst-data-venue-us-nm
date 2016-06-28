@@ -2,13 +2,14 @@
   "id": 202520939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.70261,35.263669,-106.70261,35.263669",
     "geom:latitude":35.263669,
     "geom:longitude":-106.70261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Tulip Rd SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202520939,
-    "wof:lastmodified":1449060941,
+    "wof:lastmodified":1466699266,
     "wof:name":"Our Lady Queen Of Angels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.70261,35.263669,-106.70261,35.263669],
-  "geometry": {"coordinates":[-106.70261,35.263669],"type":"Point"}
+  "bbox": [
+    -106.70261,
+    35.263669,
+    -106.70261,
+    35.263669
+],
+  "geometry": {"coordinates":[-106.70261000000001,35.263669],"type":"Point"}
 }

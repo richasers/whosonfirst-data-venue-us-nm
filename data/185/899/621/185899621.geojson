@@ -2,13 +2,14 @@
   "id": 185899621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.350955,35.25091,-106.350955,35.25091",
     "geom:latitude":35.25091,
     "geom:longitude":-106.350955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 Faith Dr",
     "sg:city":"Sandia Park",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185899621,
-    "wof:lastmodified":1449008118,
+    "wof:lastmodified":1466698511,
     "wof:name":"East Mountain Embroidery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.350955,35.25091,-106.350955,35.25091],
+  "bbox": [
+    -106.350955,
+    35.25091,
+    -106.350955,
+    35.25091
+],
   "geometry": {"coordinates":[-106.350955,35.25091],"type":"Point"}
 }

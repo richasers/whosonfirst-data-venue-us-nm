@@ -2,13 +2,14 @@
   "id": 185773481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.558188,35.16656,-106.558188,35.16656",
     "geom:latitude":35.16656,
     "geom:longitude":-106.558188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7576 Keystone Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185773481,
-    "wof:lastmodified":1449006800,
+    "wof:lastmodified":1466699240,
     "wof:name":"Crystal Fountains US Sales",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-106.558188,35.16656,-106.558188,35.16656],
+  "bbox": [
+    -106.558188,
+    35.16656,
+    -106.558188,
+    35.16656
+],
   "geometry": {"coordinates":[-106.558188,35.16656],"type":"Point"}
 }

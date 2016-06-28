@@ -2,13 +2,14 @@
   "id": 353916255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.644995,35.231512,-106.644995,35.231512",
     "geom:latitude":35.231512,
     "geom:longitude":-106.644995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 Alamos Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353916255,
-    "wof:lastmodified":1449019662,
+    "wof:lastmodified":1466699386,
     "wof:name":"Homebuilt Pools",
     "wof:parent_id":85840445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.644995,35.231512,-106.644995,35.231512],
-  "geometry": {"coordinates":[-106.644995,35.231512],"type":"Point"}
+  "bbox": [
+    -106.644995,
+    35.231512,
+    -106.644995,
+    35.231512
+],
+  "geometry": {"coordinates":[-106.64499499999999,35.231512],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186323863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.927743,36.50525,-104.927743,36.50525",
     "geom:latitude":36.50525,
     "geom:longitude":-104.927743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 18th St",
     "sg:city":"Cimarron",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186323863,
-    "wof:lastmodified":1449050476,
+    "wof:lastmodified":1466699572,
     "wof:name":"Cimarron Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "day"
     ]
 },
-  "bbox": [-104.927743,36.50525,-104.927743,36.50525],
-  "geometry": {"coordinates":[-104.927743,36.50525],"type":"Point"}
+  "bbox": [
+    -104.927743,
+    36.50525,
+    -104.927743,
+    36.50525
+],
+  "geometry": {"coordinates":[-104.92774300000001,36.50525],"type":"Point"}
 }

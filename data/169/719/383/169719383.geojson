@@ -2,13 +2,14 @@
   "id": 169719383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.592811,35.177911,-106.592811,35.177911",
     "geom:latitude":35.177911,
     "geom:longitude":-106.592811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8401 Jefferson St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169719383,
-    "wof:lastmodified":1449033110,
+    "wof:lastmodified":1466697780,
     "wof:name":"Darrell Julian Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-106.592811,35.177911,-106.592811,35.177911],
+  "bbox": [
+    -106.592811,
+    35.177911,
+    -106.592811,
+    35.177911
+],
   "geometry": {"coordinates":[-106.592811,35.177911],"type":"Point"}
 }

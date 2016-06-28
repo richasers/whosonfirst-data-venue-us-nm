@@ -2,13 +2,14 @@
   "id": 353982089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.198926,34.398579,-103.198926,34.398579",
     "geom:latitude":34.398579,
     "geom:longitude":-103.198926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 E 1st St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":353982089,
-    "wof:lastmodified":1449018677,
+    "wof:lastmodified":1466699115,
     "wof:name":"Clovis Tire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-103.198926,34.398579,-103.198926,34.398579],
+  "bbox": [
+    -103.198926,
+    34.398579,
+    -103.198926,
+    34.398579
+],
   "geometry": {"coordinates":[-103.198926,34.398579],"type":"Point"}
 }

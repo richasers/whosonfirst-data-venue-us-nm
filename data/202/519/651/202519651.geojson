@@ -2,13 +2,14 @@
   "id": 202519651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.608376,35.077295,-106.608376,35.077295",
     "geom:latitude":35.077295,
     "geom:longitude":-106.608376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Wellesley Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202519651,
-    "wof:lastmodified":1449062474,
+    "wof:lastmodified":1466699253,
     "wof:name":"Sam Mellon Agency",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.608376,35.077295,-106.608376,35.077295],
-  "geometry": {"coordinates":[-106.608376,35.077295],"type":"Point"}
+  "bbox": [
+    -106.608376,
+    35.077295,
+    -106.608376,
+    35.077295
+],
+  "geometry": {"coordinates":[-106.60837600000001,35.077295],"type":"Point"}
 }

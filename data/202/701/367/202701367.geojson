@@ -2,13 +2,14 @@
   "id": 202701367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.717484,32.151446,-106.717484,32.151446",
     "geom:latitude":32.151446,
     "geom:longitude":-106.717484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18425 Castillo Rd",
     "sg:city":"La Mesa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202701367,
-    "wof:lastmodified":1449062132,
+    "wof:lastmodified":1466699610,
     "wof:name":"Rocket Steam Cleaning Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-106.717484,32.151446,-106.717484,32.151446],
+  "bbox": [
+    -106.717484,
+    32.151446,
+    -106.717484,
+    32.151446
+],
   "geometry": {"coordinates":[-106.717484,32.151446],"type":"Point"}
 }

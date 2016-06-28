@@ -2,13 +2,14 @@
   "id": 203061605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.292862,34.953487,-106.292862,34.953487",
     "geom:latitude":34.953487,
     "geom:longitude":-106.292862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Abbey Rd",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203061605,
-    "wof:lastmodified":1449026338,
+    "wof:lastmodified":1466698253,
     "wof:name":"Ad Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.292862,34.953487,-106.292862,34.953487],
+  "bbox": [
+    -106.292862,
+    34.953487,
+    -106.292862,
+    34.953487
+],
   "geometry": {"coordinates":[-106.292862,34.953487],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185723155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.714455,35.528369,-108.714455,35.528369",
     "geom:latitude":35.528369,
     "geom:longitude":-108.714455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 E Aztec Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185723155,
-    "wof:lastmodified":1449007552,
+    "wof:lastmodified":1466698872,
     "wof:name":"Western Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.714455,35.528369,-108.714455,35.528369],
+  "bbox": [
+    -108.714455,
+    35.528369,
+    -108.714455,
+    35.528369
+],
   "geometry": {"coordinates":[-108.714455,35.528369],"type":"Point"}
 }

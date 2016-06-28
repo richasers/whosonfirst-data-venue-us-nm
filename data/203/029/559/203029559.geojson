@@ -2,13 +2,14 @@
   "id": 203029559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.51086,35.152068,-106.51086,35.152068",
     "geom:latitude":35.152068,
     "geom:longitude":-106.51086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11616 Woodmar Ln NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203029559,
-    "wof:lastmodified":1449025724,
+    "wof:lastmodified":1466697920,
     "wof:name":"Bernstein Davis & Associates",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "certified"
     ]
 },
-  "bbox": [-106.51086,35.152068,-106.51086,35.152068],
-  "geometry": {"coordinates":[-106.51086,35.152068],"type":"Point"}
+  "bbox": [
+    -106.51086,
+    35.152068,
+    -106.51086,
+    35.152068
+],
+  "geometry": {"coordinates":[-106.51085999999999,35.152068],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202861715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.346851,34.189965,-103.346851,34.189965",
     "geom:latitude":34.189965,
     "geom:longitude":-103.346851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 W Ivy St",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202861715,
-    "wof:lastmodified":1449062625,
+    "wof:lastmodified":1466700100,
     "wof:name":"Lindsey Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.346851,34.189965,-103.346851,34.189965],
+  "bbox": [
+    -103.346851,
+    34.189965,
+    -103.346851,
+    34.189965
+],
   "geometry": {"coordinates":[-103.346851,34.189965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186018601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.168112,33.032864,-108.168112,33.032864",
     "geom:latitude":33.032864,
     "geom:longitude":-108.168112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Chestnut St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186018601,
-    "wof:lastmodified":1449051714,
+    "wof:lastmodified":1466697889,
     "wof:name":"Lake Roberts General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cabin"
     ]
 },
-  "bbox": [-108.168112,33.032864,-108.168112,33.032864],
-  "geometry": {"coordinates":[-108.168112,33.032864],"type":"Point"}
+  "bbox": [
+    -108.168112,
+    33.032864,
+    -108.168112,
+    33.032864
+],
+  "geometry": {"coordinates":[-108.16811199999999,33.032864],"type":"Point"}
 }

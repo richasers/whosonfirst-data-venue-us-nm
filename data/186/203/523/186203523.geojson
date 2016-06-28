@@ -2,13 +2,14 @@
   "id": 186203523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.538245,35.15851,-106.538245,35.15851",
     "geom:latitude":35.15851,
     "geom:longitude":-106.538245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9309 Tanoan Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186203523,
-    "wof:lastmodified":1449051566,
+    "wof:lastmodified":1466698073,
     "wof:name":"A Perfect Setting Inc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furnishing"
     ]
 },
-  "bbox": [-106.538245,35.15851,-106.538245,35.15851],
+  "bbox": [
+    -106.538245,
+    35.15851,
+    -106.538245,
+    35.15851
+],
   "geometry": {"coordinates":[-106.538245,35.15851],"type":"Point"}
 }

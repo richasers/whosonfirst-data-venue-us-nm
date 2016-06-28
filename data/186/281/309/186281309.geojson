@@ -2,13 +2,14 @@
   "id": 186281309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.660764,35.198576,-106.660764,35.198576",
     "geom:latitude":35.198576,
     "geom:longitude":-106.660764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10040 Coors Byp NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186281309,
-    "wof:lastmodified":1449052600,
+    "wof:lastmodified":1466699075,
     "wof:name":"Bank Of Albuquerque",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.660764,35.198576,-106.660764,35.198576],
+  "bbox": [
+    -106.660764,
+    35.198576,
+    -106.660764,
+    35.198576
+],
   "geometry": {"coordinates":[-106.660764,35.198576],"type":"Point"}
 }

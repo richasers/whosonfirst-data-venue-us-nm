@@ -2,13 +2,14 @@
   "id": 185968943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.704486,35.164882,-106.704486,35.164882",
     "geom:latitude":35.164882,
     "geom:longitude":-106.704486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7100 Dodge Trl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185968943,
-    "wof:lastmodified":1449006699,
+    "wof:lastmodified":1466699560,
     "wof:name":"Superior Acoustics Systems",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.704486,35.164882,-106.704486,35.164882],
+  "bbox": [
+    -106.704486,
+    35.164882,
+    -106.704486,
+    35.164882
+],
   "geometry": {"coordinates":[-106.704486,35.164882],"type":"Point"}
 }

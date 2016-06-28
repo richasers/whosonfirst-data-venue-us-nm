@@ -2,13 +2,14 @@
   "id": 185802501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.192569,35.823622,-106.192569,35.823622",
     "geom:latitude":35.823622,
     "geom:longitude":-106.192569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Paige Ct",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185802501,
-    "wof:lastmodified":1449007930,
+    "wof:lastmodified":1466699354,
     "wof:name":"Pajarito Ballet Theatre I",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.192569,35.823622,-106.192569,35.823622],
-  "geometry": {"coordinates":[-106.192569,35.823622],"type":"Point"}
+  "bbox": [
+    -106.192569,
+    35.823622,
+    -106.192569,
+    35.823622
+],
+  "geometry": {"coordinates":[-106.19256900000001,35.823622],"type":"Point"}
 }

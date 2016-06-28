@@ -2,13 +2,14 @@
   "id": 186112087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.57594,36.436036,-105.57594,36.436036",
     "geom:latitude":36.436036,
     "geom:longitude":-105.57594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 Pso del Pueblo Norte",
     "sg:city":"El Prado",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186112087,
-    "wof:lastmodified":1449051607,
+    "wof:lastmodified":1466699026,
     "wof:name":"Taos Techsonics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "instrument"
     ]
 },
-  "bbox": [-105.57594,36.436036,-105.57594,36.436036],
+  "bbox": [
+    -105.57594,
+    36.436036,
+    -105.57594,
+    36.436036
+],
   "geometry": {"coordinates":[-105.57594,36.436036],"type":"Point"}
 }

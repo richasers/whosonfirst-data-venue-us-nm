@@ -2,13 +2,14 @@
   "id": 186048561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.2252,32.400106,-104.2252,32.400106",
     "geom:latitude":32.400106,
     "geom:longitude":-104.2252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 W Wood Ave",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186048561,
-    "wof:lastmodified":1449051330,
+    "wof:lastmodified":1466698238,
     "wof:name":"Enchanted Mesa Mobile Home Pk",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-104.2252,32.400106,-104.2252,32.400106],
+  "bbox": [
+    -104.2252,
+    32.400106,
+    -104.2252,
+    32.400106
+],
   "geometry": {"coordinates":[-104.2252,32.400106],"type":"Point"}
 }

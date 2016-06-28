@@ -2,13 +2,14 @@
   "id": 186346209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.216774,34.410979,-103.216774,34.410979",
     "geom:latitude":34.410979,
     "geom:longitude":-103.216774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W 13th St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186346209,
-    "wof:lastmodified":1449050242,
+    "wof:lastmodified":1466699664,
     "wof:name":"Eastern New Mexico Area Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.216774,34.410979,-103.216774,34.410979],
+  "bbox": [
+    -103.216774,
+    34.410979,
+    -103.216774,
+    34.410979
+],
   "geometry": {"coordinates":[-103.216774,34.410979],"type":"Point"}
 }

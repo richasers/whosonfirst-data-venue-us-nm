@@ -2,13 +2,14 @@
   "id": 185871229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.698752,35.118502,-106.698752,35.118502",
     "geom:latitude":35.118502,
     "geom:longitude":-106.698752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5112 Orion Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185871229,
-    "wof:lastmodified":1449007122,
+    "wof:lastmodified":1466698222,
     "wof:name":"Dells Hair Studio",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.698752,35.118502,-106.698752,35.118502],
+  "bbox": [
+    -106.698752,
+    35.118502,
+    -106.698752,
+    35.118502
+],
   "geometry": {"coordinates":[-106.698752,35.118502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203057085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.217426,35.62229,-105.217426,35.62229",
     "geom:latitude":35.62229,
     "geom:longitude":-105.217426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Peggy Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203057085,
-    "wof:lastmodified":1449025862,
+    "wof:lastmodified":1466699413,
     "wof:name":"Cornerstone Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.217426,35.62229,-105.217426,35.62229],
+  "bbox": [
+    -105.217426,
+    35.62229,
+    -105.217426,
+    35.62229
+],
   "geometry": {"coordinates":[-105.217426,35.62229],"type":"Point"}
 }

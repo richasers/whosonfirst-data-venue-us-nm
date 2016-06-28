@@ -2,13 +2,14 @@
   "id": 202588891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.991768,35.66143,-105.991768,35.66143",
     "geom:latitude":35.66143,
     "geom:longitude":-105.991768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2882 Trades West Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202588891,
-    "wof:lastmodified":1449062167,
+    "wof:lastmodified":1466698225,
     "wof:name":"Gallegos Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.991768,35.66143,-105.991768,35.66143],
-  "geometry": {"coordinates":[-105.991768,35.66143],"type":"Point"}
+  "bbox": [
+    -105.991768,
+    35.66143,
+    -105.991768,
+    35.66143
+],
+  "geometry": {"coordinates":[-105.99176799999999,35.66143],"type":"Point"}
 }

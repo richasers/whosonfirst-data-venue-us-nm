@@ -2,13 +2,14 @@
   "id": 203124549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.215228,32.696711,-103.215228,32.696711",
     "geom:latitude":32.696711,
     "geom:longitude":-103.215228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5514 W Carlsbad Hwy",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203124549,
-    "wof:lastmodified":1449026724,
+    "wof:lastmodified":1466698965,
     "wof:name":"B J Svc Permian Tools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "oil"
     ]
 },
-  "bbox": [-103.215228,32.696711,-103.215228,32.696711],
+  "bbox": [
+    -103.215228,
+    32.696711,
+    -103.215228,
+    32.696711
+],
   "geometry": {"coordinates":[-103.215228,32.696711],"type":"Point"}
 }

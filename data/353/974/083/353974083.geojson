@@ -2,13 +2,14 @@
   "id": 353974083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.410953,32.02274,-106.410953,32.02274",
     "geom:latitude":32.02274,
     "geom:longitude":-106.410953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Red Sun Dr",
     "sg:city":"Chaparral",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353974083,
-    "wof:lastmodified":1449020474,
+    "wof:lastmodified":1466699451,
     "wof:name":"Chaparral Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "family"
     ]
 },
-  "bbox": [-106.410953,32.02274,-106.410953,32.02274],
-  "geometry": {"coordinates":[-106.410953,32.02274],"type":"Point"}
+  "bbox": [
+    -106.410953,
+    32.02274,
+    -106.410953,
+    32.02274
+],
+  "geometry": {"coordinates":[-106.41095300000001,32.02274],"type":"Point"}
 }

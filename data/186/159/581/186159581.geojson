@@ -2,13 +2,14 @@
   "id": 186159581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.994089,35.659876,-105.994089,35.659876",
     "geom:latitude":35.659876,
     "geom:longitude":-105.994089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1219 Siler Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186159581,
-    "wof:lastmodified":1449050575,
+    "wof:lastmodified":1466699358,
     "wof:name":"Auto Right Collision Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-105.994089,35.659876,-105.994089,35.659876],
+  "bbox": [
+    -105.994089,
+    35.659876,
+    -105.994089,
+    35.659876
+],
   "geometry": {"coordinates":[-105.994089,35.659876],"type":"Point"}
 }

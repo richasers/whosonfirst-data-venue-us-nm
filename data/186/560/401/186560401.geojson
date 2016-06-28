@@ -2,13 +2,14 @@
   "id": 186560401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.215219,35.595008,-105.215219,35.595008",
     "geom:latitude":35.595008,
     "geom:longitude":-105.215219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Douglas Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186560401,
-    "wof:lastmodified":1449052376,
+    "wof:lastmodified":1466700359,
     "wof:name":"The Anointed One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.215219,35.595008,-105.215219,35.595008],
+  "bbox": [
+    -105.215219,
+    35.595008,
+    -105.215219,
+    35.595008
+],
   "geometry": {"coordinates":[-105.215219,35.595008],"type":"Point"}
 }

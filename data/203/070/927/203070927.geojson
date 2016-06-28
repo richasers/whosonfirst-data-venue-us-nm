@@ -2,13 +2,14 @@
   "id": 203070927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.758656,34.651476,-106.758656,34.651476",
     "geom:latitude":34.651476,
     "geom:longitude":-106.758656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Eastside School Rd",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203070927,
-    "wof:lastmodified":1449025838,
+    "wof:lastmodified":1466698354,
     "wof:name":"Ray's Fire Extinguisher Svc",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "protection"
     ]
 },
-  "bbox": [-106.758656,34.651476,-106.758656,34.651476],
+  "bbox": [
+    -106.758656,
+    34.651476,
+    -106.758656,
+    34.651476
+],
   "geometry": {"coordinates":[-106.758656,34.651476],"type":"Point"}
 }

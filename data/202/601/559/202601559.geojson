@@ -2,13 +2,14 @@
   "id": 202601559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.698183,35.075411,-106.698183,35.075411",
     "geom:latitude":35.075411,
     "geom:longitude":-106.698183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"656 Old Coors Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202601559,
-    "wof:lastmodified":1449061258,
+    "wof:lastmodified":1466698401,
     "wof:name":"Bernie's Counter Tops",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "counter"
     ]
 },
-  "bbox": [-106.698183,35.075411,-106.698183,35.075411],
+  "bbox": [
+    -106.698183,
+    35.075411,
+    -106.698183,
+    35.075411
+],
   "geometry": {"coordinates":[-106.698183,35.075411],"type":"Point"}
 }

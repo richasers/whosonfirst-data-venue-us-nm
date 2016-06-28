@@ -2,13 +2,14 @@
   "id": 185629809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.62991,35.081799,-106.62991,35.081799",
     "geom:latitude":35.081799,
     "geom:longitude":-106.62991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":185629809,
-    "wof:lastmodified":1449007855,
+    "wof:lastmodified":1466697931,
     "wof:name":"DCI Quality Management",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "center"
     ]
 },
-  "bbox": [-106.62991,35.081799,-106.62991,35.081799],
+  "bbox": [
+    -106.62991,
+    35.081799,
+    -106.62991,
+    35.081799
+],
   "geometry": {"coordinates":[-106.62991,35.081799],"type":"Point"}
 }

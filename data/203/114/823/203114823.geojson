@@ -2,13 +2,14 @@
   "id": 203114823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.625097,35.078034,-106.625097,35.078034",
     "geom:latitude":35.078034,
     "geom:longitude":-106.625097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 Lead Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203114823,
-    "wof:lastmodified":1449025719,
+    "wof:lastmodified":1466698905,
     "wof:name":"Al Moye Physical Therapist",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-106.625097,35.078034,-106.625097,35.078034],
+  "bbox": [
+    -106.625097,
+    35.078034,
+    -106.625097,
+    35.078034
+],
   "geometry": {"coordinates":[-106.625097,35.078034],"type":"Point"}
 }

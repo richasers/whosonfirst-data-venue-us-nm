@@ -2,13 +2,14 @@
   "id": 185890579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.682004,35.125566,-106.682004,35.125566",
     "geom:latitude":35.125566,
     "geom:longitude":-106.682004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2612 Oro Vista Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185890579,
-    "wof:lastmodified":1449006974,
+    "wof:lastmodified":1466698424,
     "wof:name":"Heritage Properties Inc",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.682004,35.125566,-106.682004,35.125566],
-  "geometry": {"coordinates":[-106.682004,35.125566],"type":"Point"}
+  "bbox": [
+    -106.682004,
+    35.125566,
+    -106.682004,
+    35.125566
+],
+  "geometry": {"coordinates":[-106.68200400000001,35.125566],"type":"Point"}
 }

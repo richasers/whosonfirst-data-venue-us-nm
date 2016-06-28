@@ -2,13 +2,14 @@
   "id": 202430299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.966296,32.940488,-105.966296,32.940488",
     "geom:latitude":32.940488,
     "geom:longitude":-105.966296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 US Hwy 82",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202430299,
-    "wof:lastmodified":1449061701,
+    "wof:lastmodified":1466698312,
     "wof:name":"Dan Bearden Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-105.966296,32.940488,-105.966296,32.940488],
+  "bbox": [
+    -105.966296,
+    32.940488,
+    -105.966296,
+    32.940488
+],
   "geometry": {"coordinates":[-105.966296,32.940488],"type":"Point"}
 }

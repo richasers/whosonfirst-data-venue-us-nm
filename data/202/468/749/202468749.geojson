@@ -2,13 +2,14 @@
   "id": 202468749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.66535,35.068774,-106.66535,35.068774",
     "geom:latitude":35.068774,
     "geom:longitude":-106.66535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"844 Bridge Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202468749,
-    "wof:lastmodified":1449061914,
+    "wof:lastmodified":1466698772,
     "wof:name":"Tortolleria Cuauhtemoc",
     "wof:parent_id":85864291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-106.66535,35.068774,-106.66535,35.068774],
+  "bbox": [
+    -106.66535,
+    35.068774,
+    -106.66535,
+    35.068774
+],
   "geometry": {"coordinates":[-106.66535,35.068774],"type":"Point"}
 }

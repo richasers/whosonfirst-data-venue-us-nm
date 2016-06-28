@@ -2,13 +2,14 @@
   "id": 185674663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.504336,35.146513,-106.504336,35.146513",
     "geom:latitude":35.146513,
     "geom:longitude":-106.504336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5729 Peppertree Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185674663,
-    "wof:lastmodified":1449007805,
+    "wof:lastmodified":1466698403,
     "wof:name":"Park At Ppprtree Hmowners Assn",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.504336,35.146513,-106.504336,35.146513],
+  "bbox": [
+    -106.504336,
+    35.146513,
+    -106.504336,
+    35.146513
+],
   "geometry": {"coordinates":[-106.504336,35.146513],"type":"Point"}
 }

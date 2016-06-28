@@ -2,13 +2,14 @@
   "id": 202885387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.202399,36.736461,-108.202399,36.736461",
     "geom:latitude":36.736461,
     "geom:longitude":-108.202399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 N Dustin Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202885387,
-    "wof:lastmodified":1449061459,
+    "wof:lastmodified":1466700296,
     "wof:name":"Stephen B Clark DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-108.202399,36.736461,-108.202399,36.736461],
+  "bbox": [
+    -108.202399,
+    36.736461,
+    -108.202399,
+    36.736461
+],
   "geometry": {"coordinates":[-108.202399,36.736461],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169722273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.545195,35.07034,-106.545195,35.07034",
     "geom:latitude":35.07034,
     "geom:longitude":-106.545195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Beeson St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169722273,
-    "wof:lastmodified":1449033845,
+    "wof:lastmodified":1466697808,
     "wof:name":"L & R Merchandising",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.545195,35.07034,-106.545195,35.07034],
-  "geometry": {"coordinates":[-106.545195,35.07034],"type":"Point"}
+  "bbox": [
+    -106.545195,
+    35.07034,
+    -106.545195,
+    35.07034
+],
+  "geometry": {"coordinates":[-106.54519500000001,35.07034],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185610083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.595081,35.141428,-106.595081,35.141428",
     "geom:latitude":35.141428,
     "geom:longitude":-106.595081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5312 Pan American Fwy",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":185610083,
-    "wof:lastmodified":1449008167,
+    "wof:lastmodified":1466697693,
     "wof:name":"Certified Packing and Crating",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "logistic"
     ]
 },
-  "bbox": [-106.595081,35.141428,-106.595081,35.141428],
-  "geometry": {"coordinates":[-106.595081,35.141428],"type":"Point"}
+  "bbox": [
+    -106.595081,
+    35.141428,
+    -106.595081,
+    35.141428
+],
+  "geometry": {"coordinates":[-106.59508099999999,35.141428],"type":"Point"}
 }

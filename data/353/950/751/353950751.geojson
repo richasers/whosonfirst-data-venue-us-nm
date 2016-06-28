@@ -2,13 +2,14 @@
   "id": 353950751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.533609,35.141327,-106.533609,35.141327",
     "geom:latitude":35.141327,
     "geom:longitude":-106.533609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9804 Lona Ln NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353950751,
-    "wof:lastmodified":1449019260,
+    "wof:lastmodified":1466698593,
     "wof:name":"SDS Electric",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.533609,35.141327,-106.533609,35.141327],
+  "bbox": [
+    -106.533609,
+    35.141327,
+    -106.533609,
+    35.141327
+],
   "geometry": {"coordinates":[-106.533609,35.141327],"type":"Point"}
 }

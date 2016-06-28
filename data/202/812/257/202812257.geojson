@@ -2,13 +2,14 @@
   "id": 202812257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.807629,32.299605,-106.807629,32.299605",
     "geom:latitude":32.299605,
     "geom:longitude":-106.807629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Westgate St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202812257,
-    "wof:lastmodified":1449060168,
+    "wof:lastmodified":1466700006,
     "wof:name":"Intermountain Color Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "retrieval"
     ]
 },
-  "bbox": [-106.807629,32.299605,-106.807629,32.299605],
-  "geometry": {"coordinates":[-106.807629,32.299605],"type":"Point"}
+  "bbox": [
+    -106.807629,
+    32.299605,
+    -106.807629,
+    32.299605
+],
+  "geometry": {"coordinates":[-106.80762900000001,32.299605],"type":"Point"}
 }

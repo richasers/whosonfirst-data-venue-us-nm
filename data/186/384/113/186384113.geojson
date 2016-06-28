@@ -2,13 +2,14 @@
   "id": 186384113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.662388,35.103151,-106.662388,35.103151",
     "geom:latitude":35.103151,
     "geom:longitude":-106.662388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 Aspen Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186384113,
-    "wof:lastmodified":1449050629,
+    "wof:lastmodified":1466699785,
     "wof:name":"AADF Warehouse",
     "wof:parent_id":85839415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "storage"
     ]
 },
-  "bbox": [-106.662388,35.103151,-106.662388,35.103151],
-  "geometry": {"coordinates":[-106.662388,35.103151],"type":"Point"}
+  "bbox": [
+    -106.662388,
+    35.103151,
+    -106.662388,
+    35.103151
+],
+  "geometry": {"coordinates":[-106.66238800000001,35.103151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202896383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.553425,35.145519,-106.553425,35.145519",
     "geom:latitude":35.145519,
     "geom:longitude":-106.553425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5600 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202896383,
-    "wof:lastmodified":1449061032,
+    "wof:lastmodified":1466700337,
     "wof:name":"Qwest",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "association"
     ]
 },
-  "bbox": [-106.553425,35.145519,-106.553425,35.145519],
+  "bbox": [
+    -106.553425,
+    35.145519,
+    -106.553425,
+    35.145519
+],
   "geometry": {"coordinates":[-106.553425,35.145519],"type":"Point"}
 }

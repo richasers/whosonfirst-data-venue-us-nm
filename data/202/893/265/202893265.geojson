@@ -2,13 +2,14 @@
   "id": 202893265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.576055,35.138946,-106.576055,35.138946",
     "geom:latitude":35.138946,
     "geom:longitude":-106.576055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6229 Jeffery Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202893265,
-    "wof:lastmodified":1449062188,
+    "wof:lastmodified":1466700230,
     "wof:name":"Renaissance Networks",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.576055,35.138946,-106.576055,35.138946],
+  "bbox": [
+    -106.576055,
+    35.138946,
+    -106.576055,
+    35.138946
+],
   "geometry": {"coordinates":[-106.576055,35.138946],"type":"Point"}
 }

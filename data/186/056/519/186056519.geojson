@@ -2,13 +2,14 @@
   "id": 186056519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.419295,32.838845,-104.419295,32.838845",
     "geom:latitude":32.838845,
     "geom:longitude":-104.419295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 W Grand Ave",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186056519,
-    "wof:lastmodified":1449051142,
+    "wof:lastmodified":1466698329,
     "wof:name":"Margaret's Beauty Shop",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-104.419295,32.838845,-104.419295,32.838845],
-  "geometry": {"coordinates":[-104.419295,32.838845],"type":"Point"}
+  "bbox": [
+    -104.419295,
+    32.838845,
+    -104.419295,
+    32.838845
+],
+  "geometry": {"coordinates":[-104.41929500000001,32.838845],"type":"Point"}
 }

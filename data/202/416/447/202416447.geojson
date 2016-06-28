@@ -2,13 +2,14 @@
   "id": 202416447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.345943,36.739308,-108.345943,36.739308",
     "geom:latitude":36.739308,
     "geom:longitude":-108.345943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4276 US Hwy 64",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202416447,
-    "wof:lastmodified":1449061271,
+    "wof:lastmodified":1466698154,
     "wof:name":"Safe Ride Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.345943,36.739308,-108.345943,36.739308],
-  "geometry": {"coordinates":[-108.345943,36.739308],"type":"Point"}
+  "bbox": [
+    -108.345943,
+    36.739308,
+    -108.345943,
+    36.739308
+],
+  "geometry": {"coordinates":[-108.34594300000001,36.739308],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353967697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.492932,35.080779,-106.492932,35.080779",
     "geom:latitude":35.080779,
     "geom:longitude":-106.492932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14116 la Cueva Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353967697,
-    "wof:lastmodified":1449020614,
+    "wof:lastmodified":1466698956,
     "wof:name":"Camp Shakespeare",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camps-recreational"
     ]
 },
-  "bbox": [-106.492932,35.080779,-106.492932,35.080779],
+  "bbox": [
+    -106.492932,
+    35.080779,
+    -106.492932,
+    35.080779
+],
   "geometry": {"coordinates":[-106.492932,35.080779],"type":"Point"}
 }

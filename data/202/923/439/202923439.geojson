@@ -2,13 +2,14 @@
   "id": 202923439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.226176,32.432196,-104.226176,32.432196",
     "geom:latitude":32.432196,
     "geom:longitude":-104.226176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E Blodgett St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202923439,
-    "wof:lastmodified":1449062556,
+    "wof:lastmodified":1466700449,
     "wof:name":"R W Industrial Products",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-104.226176,32.432196,-104.226176,32.432196],
+  "bbox": [
+    -104.226176,
+    32.432196,
+    -104.226176,
+    32.432196
+],
   "geometry": {"coordinates":[-104.226176,32.432196],"type":"Point"}
 }

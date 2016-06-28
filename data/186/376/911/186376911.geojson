@@ -2,13 +2,14 @@
   "id": 186376911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.737,34.799191,-106.737,34.799191",
     "geom:latitude":34.799191,
     "geom:longitude":-106.737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Juan Perea Rd",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186376911,
-    "wof:lastmodified":1449051310,
+    "wof:lastmodified":1466699650,
     "wof:name":"Monte Vista Mobile Home Cmnty",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-106.737,34.799191,-106.737,34.799191],
-  "geometry": {"coordinates":[-106.737,34.799191],"type":"Point"}
+  "bbox": [
+    -106.737,
+    34.799191,
+    -106.737,
+    34.799191
+],
+  "geometry": {"coordinates":[-106.73699999999999,34.799191],"type":"Point"}
 }

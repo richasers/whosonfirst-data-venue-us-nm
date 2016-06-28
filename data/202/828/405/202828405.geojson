@@ -2,13 +2,14 @@
   "id": 202828405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.425773,36.918505,-104.425773,36.918505",
     "geom:latitude":36.918505,
     "geom:longitude":-104.425773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Cll Arriba",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202828405,
-    "wof:lastmodified":1449061411,
+    "wof:lastmodified":1466699999,
     "wof:name":"Worth Wilkins Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-104.425773,36.918505,-104.425773,36.918505],
-  "geometry": {"coordinates":[-104.425773,36.918505],"type":"Point"}
+  "bbox": [
+    -104.425773,
+    36.918505,
+    -104.425773,
+    36.918505
+],
+  "geometry": {"coordinates":[-104.42577300000001,36.918505],"type":"Point"}
 }

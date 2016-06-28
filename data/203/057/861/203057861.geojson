@@ -2,13 +2,14 @@
   "id": 203057861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.671663,33.332265,-105.671663,33.332265",
     "geom:latitude":33.332265,
     "geom:longitude":-105.671663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Rio St",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203057861,
-    "wof:lastmodified":1449025862,
+    "wof:lastmodified":1466698210,
     "wof:name":"Cafe Allegro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.671663,33.332265,-105.671663,33.332265],
+  "bbox": [
+    -105.671663,
+    33.332265,
+    -105.671663,
+    33.332265
+],
   "geometry": {"coordinates":[-105.671663,33.332265],"type":"Point"}
 }

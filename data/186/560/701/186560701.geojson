@@ -2,13 +2,14 @@
   "id": 186560701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.775476,34.663928,-106.775476,34.663928",
     "geom:latitude":34.663928,
     "geom:longitude":-106.775476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 N Main St",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186560701,
-    "wof:lastmodified":1449052375,
+    "wof:lastmodified":1466700362,
     "wof:name":"Belen Discount Liquors Inc",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-106.775476,34.663928,-106.775476,34.663928],
+  "bbox": [
+    -106.775476,
+    34.663928,
+    -106.775476,
+    34.663928
+],
   "geometry": {"coordinates":[-106.775476,34.663928],"type":"Point"}
 }

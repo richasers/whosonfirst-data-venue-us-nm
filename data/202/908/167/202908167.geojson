@@ -2,13 +2,14 @@
   "id": 202908167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.35971,33.000419,-104.35971,33.000419",
     "geom:latitude":33.000419,
     "geom:longitude":-104.35971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 Virginia Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202908167,
-    "wof:lastmodified":1449061543,
+    "wof:lastmodified":1466700388,
     "wof:name":"Inland Scuba Divers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "instruction"
     ]
 },
-  "bbox": [-104.35971,33.000419,-104.35971,33.000419],
-  "geometry": {"coordinates":[-104.35971,33.000419],"type":"Point"}
+  "bbox": [
+    -104.35971,
+    33.000419,
+    -104.35971,
+    33.000419
+],
+  "geometry": {"coordinates":[-104.35971000000001,33.000419],"type":"Point"}
 }

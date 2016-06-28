@@ -2,13 +2,14 @@
   "id": 202445651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.776532,34.697917,-106.776532,34.697917",
     "geom:latitude":34.697917,
     "geom:longitude":-106.776532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 I- 25 Byp",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202445651,
-    "wof:lastmodified":1449060444,
+    "wof:lastmodified":1466698503,
     "wof:name":"PNM Electric & Gas Svc",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-106.776532,34.697917,-106.776532,34.697917],
+  "bbox": [
+    -106.776532,
+    34.697917,
+    -106.776532,
+    34.697917
+],
   "geometry": {"coordinates":[-106.776532,34.697917],"type":"Point"}
 }

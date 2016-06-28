@@ -2,13 +2,14 @@
   "id": 202691963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.779197,32.308112,-106.779197,32.308112",
     "geom:latitude":32.308112,
     "geom:longitude":-106.779197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S Water St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202691963,
-    "wof:lastmodified":1449060327,
+    "wof:lastmodified":1466699713,
     "wof:name":"Joseph M Holmes",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.779197,32.308112,-106.779197,32.308112],
+  "bbox": [
+    -106.779197,
+    32.308112,
+    -106.779197,
+    32.308112
+],
   "geometry": {"coordinates":[-106.779197,32.308112],"type":"Point"}
 }

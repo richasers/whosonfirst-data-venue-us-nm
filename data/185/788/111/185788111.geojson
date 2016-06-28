@@ -2,13 +2,14 @@
   "id": 185788111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.759933,32.256124,-107.759933,32.256124",
     "geom:latitude":32.256124,
     "geom:longitude":-107.759933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W Locust St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185788111,
-    "wof:lastmodified":1449007461,
+    "wof:lastmodified":1466699296,
     "wof:name":"Fyi Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "consultant"
     ]
 },
-  "bbox": [-107.759933,32.256124,-107.759933,32.256124],
+  "bbox": [
+    -107.759933,
+    32.256124,
+    -107.759933,
+    32.256124
+],
   "geometry": {"coordinates":[-107.759933,32.256124],"type":"Point"}
 }

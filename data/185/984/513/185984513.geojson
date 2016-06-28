@@ -2,13 +2,14 @@
   "id": 185984513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.752123,32.323532,-106.752123,32.323532",
     "geom:latitude":32.323532,
     "geom:longitude":-106.752123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"532 N Telshor Blvd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185984513,
-    "wof:lastmodified":1449007514,
+    "wof:lastmodified":1466699525,
     "wof:name":"Chiropractic Care Center",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.752123,32.323532,-106.752123,32.323532],
+  "bbox": [
+    -106.752123,
+    32.323532,
+    -106.752123,
+    32.323532
+],
   "geometry": {"coordinates":[-106.752123,32.323532],"type":"Point"}
 }

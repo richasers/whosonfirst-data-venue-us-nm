@@ -2,13 +2,14 @@
   "id": 185970283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.733873,34.804286,-106.733873,34.804286",
     "geom:latitude":34.804286,
     "geom:longitude":-106.733873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Luna Ave SE",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185970283,
-    "wof:lastmodified":1449008161,
+    "wof:lastmodified":1466699564,
     "wof:name":"Los Ninos Therapy Ctr",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-106.733873,34.804286,-106.733873,34.804286],
+  "bbox": [
+    -106.733873,
+    34.804286,
+    -106.733873,
+    34.804286
+],
   "geometry": {"coordinates":[-106.733873,34.804286],"type":"Point"}
 }

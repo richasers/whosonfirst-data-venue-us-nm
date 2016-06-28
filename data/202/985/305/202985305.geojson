@@ -2,13 +2,14 @@
   "id": 202985305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.792801,34.655052,-106.792801,34.655052",
     "geom:latitude":34.655052,
     "geom:longitude":-106.792801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Christopher Dr",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202985305,
-    "wof:lastmodified":1449061379,
+    "wof:lastmodified":1466700623,
     "wof:name":"Cardiac Care CONSULTANTS-Nm",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.792801,34.655052,-106.792801,34.655052],
+  "bbox": [
+    -106.792801,
+    34.655052,
+    -106.792801,
+    34.655052
+],
   "geometry": {"coordinates":[-106.792801,34.655052],"type":"Point"}
 }

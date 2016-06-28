@@ -2,13 +2,14 @@
   "id": 203021699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.029014,35.892063,-106.029014,35.892063",
     "geom:latitude":35.892063,
     "geom:longitude":-106.029014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Rio Way",
     "sg:city":"Hernandez",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203021699,
-    "wof:lastmodified":1449026155,
+    "wof:lastmodified":1466697842,
     "wof:name":"T C Company",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-106.029014,35.892063,-106.029014,35.892063],
+  "bbox": [
+    -106.029014,
+    35.892063,
+    -106.029014,
+    35.892063
+],
   "geometry": {"coordinates":[-106.029014,35.892063],"type":"Point"}
 }

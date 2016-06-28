@@ -2,13 +2,14 @@
   "id": 169703885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.941035,35.692533,-105.941035,35.692533",
     "geom:latitude":35.692533,
     "geom:longitude":-105.941035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Pso de Peralta",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169703885,
-    "wof:lastmodified":1449033688,
+    "wof:lastmodified":1466697633,
     "wof:name":"Linda L Aikin",
     "wof:parent_id":85880833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-105.941035,35.692533,-105.941035,35.692533],
+  "bbox": [
+    -105.941035,
+    35.692533,
+    -105.941035,
+    35.692533
+],
   "geometry": {"coordinates":[-105.941035,35.692533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186103729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.992598,32.803846,-105.992598,32.803846",
     "geom:latitude":32.803846,
     "geom:longitude":-105.992598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Thistle Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186103729,
-    "wof:lastmodified":1449052042,
+    "wof:lastmodified":1466698943,
     "wof:name":"Sharon L Livingston",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "information"
     ]
 },
-  "bbox": [-105.992598,32.803846,-105.992598,32.803846],
+  "bbox": [
+    -105.992598,
+    32.803846,
+    -105.992598,
+    32.803846
+],
   "geometry": {"coordinates":[-105.992598,32.803846],"type":"Point"}
 }

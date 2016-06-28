@@ -2,13 +2,14 @@
   "id": 202577099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.191734,36.452708,-103.191734,36.452708",
     "geom:latitude":36.452708,
     "geom:longitude":-103.191734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 N 3rd Ave",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202577099,
-    "wof:lastmodified":1449062749,
+    "wof:lastmodified":1466698046,
     "wof:name":"Mark E Van Wormer MD Rvt Rdcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-103.191734,36.452708,-103.191734,36.452708],
+  "bbox": [
+    -103.191734,
+    36.452708,
+    -103.191734,
+    36.452708
+],
   "geometry": {"coordinates":[-103.191734,36.452708],"type":"Point"}
 }

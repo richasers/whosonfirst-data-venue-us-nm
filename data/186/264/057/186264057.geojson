@@ -2,13 +2,14 @@
   "id": 186264057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.546832,35.142336,-106.546832,35.142336",
     "geom:latitude":35.142336,
     "geom:longitude":-106.546832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8805 New Hampton Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186264057,
-    "wof:lastmodified":1449052115,
+    "wof:lastmodified":1466698839,
     "wof:name":"Murphy Farm",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-106.546832,35.142336,-106.546832,35.142336],
-  "geometry": {"coordinates":[-106.546832,35.142336],"type":"Point"}
+  "bbox": [
+    -106.546832,
+    35.142336,
+    -106.546832,
+    35.142336
+],
+  "geometry": {"coordinates":[-106.54683199999999,35.142336],"type":"Point"}
 }

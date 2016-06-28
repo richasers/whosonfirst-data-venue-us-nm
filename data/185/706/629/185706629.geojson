@@ -2,13 +2,14 @@
   "id": 185706629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.991522,35.658593,-105.991522,35.658593",
     "geom:latitude":35.658593,
     "geom:longitude":-105.991522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 Rufina St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185706629,
-    "wof:lastmodified":1449006718,
+    "wof:lastmodified":1466698706,
     "wof:name":"Comfortzone Furniture Wrhse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.991522,35.658593,-105.991522,35.658593],
+  "bbox": [
+    -105.991522,
+    35.658593,
+    -105.991522,
+    35.658593
+],
   "geometry": {"coordinates":[-105.991522,35.658593],"type":"Point"}
 }

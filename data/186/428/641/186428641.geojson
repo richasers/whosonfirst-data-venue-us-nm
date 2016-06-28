@@ -2,13 +2,14 @@
   "id": 186428641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.033725,35.647348,-106.033725,35.647348",
     "geom:latitude":35.647348,
     "geom:longitude":-106.033725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2864 Dail Cir",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186428641,
-    "wof:lastmodified":1449052853,
+    "wof:lastmodified":1466699959,
     "wof:name":"Micheles Daycare",
     "wof:parent_id":85880855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.033725,35.647348,-106.033725,35.647348],
+  "bbox": [
+    -106.033725,
+    35.647348,
+    -106.033725,
+    35.647348
+],
   "geometry": {"coordinates":[-106.033725,35.647348],"type":"Point"}
 }

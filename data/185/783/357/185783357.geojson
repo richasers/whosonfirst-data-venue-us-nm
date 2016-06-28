@@ -2,13 +2,14 @@
   "id": 185783357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.387303,35.075714,-106.387303,35.075714",
     "geom:latitude":35.075714,
     "geom:longitude":-106.387303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11783 State Hwy 337",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185783357,
-    "wof:lastmodified":1449006631,
+    "wof:lastmodified":1466699273,
     "wof:name":"Rio Grande Portland Cement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cement"
     ]
 },
-  "bbox": [-106.387303,35.075714,-106.387303,35.075714],
+  "bbox": [
+    -106.387303,
+    35.075714,
+    -106.387303,
+    35.075714
+],
   "geometry": {"coordinates":[-106.387303,35.075714],"type":"Point"}
 }

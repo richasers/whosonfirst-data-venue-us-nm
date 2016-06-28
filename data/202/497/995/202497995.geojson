@@ -2,13 +2,14 @@
   "id": 202497995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.697108,35.078072,-106.697108,35.078072",
     "geom:latitude":35.078072,
     "geom:longitude":-106.697108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Coors Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202497995,
-    "wof:lastmodified":1449062598,
+    "wof:lastmodified":1466699115,
     "wof:name":"Westside Cafe Inc",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.697108,35.078072,-106.697108,35.078072],
+  "bbox": [
+    -106.697108,
+    35.078072,
+    -106.697108,
+    35.078072
+],
   "geometry": {"coordinates":[-106.697108,35.078072],"type":"Point"}
 }

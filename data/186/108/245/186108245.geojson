@@ -2,13 +2,14 @@
   "id": 186108245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.589143,35.186441,-106.589143,35.186441",
     "geom:latitude":35.186441,
     "geom:longitude":-106.589143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8805 Desert Willow",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186108245,
-    "wof:lastmodified":1449050310,
+    "wof:lastmodified":1466699006,
     "wof:name":"Bobby Reinacher Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.589143,35.186441,-106.589143,35.186441],
-  "geometry": {"coordinates":[-106.589143,35.186441],"type":"Point"}
+  "bbox": [
+    -106.589143,
+    35.186441,
+    -106.589143,
+    35.186441
+],
+  "geometry": {"coordinates":[-106.58914300000001,35.186441],"type":"Point"}
 }

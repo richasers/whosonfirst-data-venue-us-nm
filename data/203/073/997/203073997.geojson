@@ -2,13 +2,14 @@
   "id": 203073997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.52769,35.074942,-106.52769,35.074942",
     "geom:latitude":35.074942,
     "geom:longitude":-106.52769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10701 Pennyback Park Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203073997,
-    "wof:lastmodified":1449025203,
+    "wof:lastmodified":1466698394,
     "wof:name":"Digital Environmental Systems",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "representative"
     ]
 },
-  "bbox": [-106.52769,35.074942,-106.52769,35.074942],
-  "geometry": {"coordinates":[-106.52769,35.074942],"type":"Point"}
+  "bbox": [
+    -106.52769,
+    35.074942,
+    -106.52769,
+    35.074942
+],
+  "geometry": {"coordinates":[-106.52769000000001,35.074942],"type":"Point"}
 }

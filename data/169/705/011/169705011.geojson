@@ -2,13 +2,14 @@
   "id": 169705011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.209986,36.738907,-108.209986,36.738907",
     "geom:latitude":36.738907,
     "geom:longitude":-108.209986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 N Auburn Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169705011,
-    "wof:lastmodified":1449035991,
+    "wof:lastmodified":1466699384,
     "wof:name":"Tri Stone Canyon Tours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "promoter"
     ]
 },
-  "bbox": [-108.209986,36.738907,-108.209986,36.738907],
+  "bbox": [
+    -108.209986,
+    36.738907,
+    -108.209986,
+    36.738907
+],
   "geometry": {"coordinates":[-108.209986,36.738907],"type":"Point"}
 }

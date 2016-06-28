@@ -2,13 +2,14 @@
   "id": 169708071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.397698,32.842426,-104.397698,32.842426",
     "geom:latitude":32.842426,
     "geom:longitude":-104.397698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 W Main St",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169708071,
-    "wof:lastmodified":1449033209,
+    "wof:lastmodified":1466699388,
     "wof:name":"Bryan Printers & Stationers",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-104.397698,32.842426,-104.397698,32.842426],
-  "geometry": {"coordinates":[-104.397698,32.842426],"type":"Point"}
+  "bbox": [
+    -104.397698,
+    32.842426,
+    -104.397698,
+    32.842426
+],
+  "geometry": {"coordinates":[-104.39769800000001,32.842426],"type":"Point"}
 }

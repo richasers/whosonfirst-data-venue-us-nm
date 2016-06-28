@@ -2,13 +2,14 @@
   "id": 202735819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.768296,32.308148,-106.768296,32.308148",
     "geom:latitude":32.308148,
     "geom:longitude":-106.768296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 E Lohman Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202735819,
-    "wof:lastmodified":1449062571,
+    "wof:lastmodified":1466699735,
     "wof:name":"505 Tattoo",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-106.768296,32.308148,-106.768296,32.308148],
-  "geometry": {"coordinates":[-106.768296,32.308148],"type":"Point"}
+  "bbox": [
+    -106.768296,
+    32.308148,
+    -106.768296,
+    32.308148
+],
+  "geometry": {"coordinates":[-106.76829600000001,32.308148],"type":"Point"}
 }

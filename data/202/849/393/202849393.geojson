@@ -2,13 +2,14 @@
   "id": 202849393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.593899,35.109113,-106.593899,35.109113",
     "geom:latitude":35.109113,
     "geom:longitude":-106.593899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4410 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202849393,
-    "wof:lastmodified":1449060574,
+    "wof:lastmodified":1466700048,
     "wof:name":"Computer Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "computer"
     ]
 },
-  "bbox": [-106.593899,35.109113,-106.593899,35.109113],
-  "geometry": {"coordinates":[-106.593899,35.109113],"type":"Point"}
+  "bbox": [
+    -106.593899,
+    35.109113,
+    -106.593899,
+    35.109113
+],
+  "geometry": {"coordinates":[-106.59389899999999,35.109113],"type":"Point"}
 }

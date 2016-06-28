@@ -2,13 +2,14 @@
   "id": 186507839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.728239,35.19244,-106.728239,35.19244",
     "geom:latitude":35.19244,
     "geom:longitude":-106.728239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9708 Tapatio Dr",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186507839,
-    "wof:lastmodified":1449051746,
+    "wof:lastmodified":1466700330,
     "wof:name":"Ameritech Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-106.728239,35.19244,-106.728239,35.19244],
+  "bbox": [
+    -106.728239,
+    35.19244,
+    -106.728239,
+    35.19244
+],
   "geometry": {"coordinates":[-106.728239,35.19244],"type":"Point"}
 }

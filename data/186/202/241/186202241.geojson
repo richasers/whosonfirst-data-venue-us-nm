@@ -2,13 +2,14 @@
   "id": 186202241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.82649,35.151624,-107.82649,35.151624",
     "geom:latitude":35.151624,
     "geom:longitude":-107.82649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1041 Mesa Blvd",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186202241,
-    "wof:lastmodified":1449052670,
+    "wof:lastmodified":1466698059,
     "wof:name":"Orlena Hawks Puckett Institute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-107.82649,35.151624,-107.82649,35.151624],
-  "geometry": {"coordinates":[-107.82649,35.151624],"type":"Point"}
+  "bbox": [
+    -107.82649,
+    35.151624,
+    -107.82649,
+    35.151624
+],
+  "geometry": {"coordinates":[-107.82649000000001,35.151624],"type":"Point"}
 }

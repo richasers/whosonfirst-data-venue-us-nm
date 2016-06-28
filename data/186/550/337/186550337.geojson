@@ -2,13 +2,14 @@
   "id": 186550337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.72697,32.13819,-107.72697,32.13819",
     "geom:latitude":32.13819,
     "geom:longitude":-107.72697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2885 Sunshine Rd SE",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186550337,
-    "wof:lastmodified":1449051838,
+    "wof:lastmodified":1466700448,
     "wof:name":"E Diamond Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.72697,32.13819,-107.72697,32.13819],
-  "geometry": {"coordinates":[-107.72697,32.13819],"type":"Point"}
+  "bbox": [
+    -107.72697,
+    32.13819,
+    -107.72697,
+    32.13819
+],
+  "geometry": {"coordinates":[-107.72696999999999,32.13819],"type":"Point"}
 }

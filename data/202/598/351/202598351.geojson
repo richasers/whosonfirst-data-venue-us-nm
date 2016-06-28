@@ -2,13 +2,14 @@
   "id": 202598351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.734224,34.64928,-106.734224,34.64928",
     "geom:latitude":34.64928,
     "geom:longitude":-106.734224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2295 State Hwy 304",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202598351,
-    "wof:lastmodified":1449060235,
+    "wof:lastmodified":1466698359,
     "wof:name":"Carl's Wood Designs",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "designer"
     ]
 },
-  "bbox": [-106.734224,34.64928,-106.734224,34.64928],
+  "bbox": [
+    -106.734224,
+    34.64928,
+    -106.734224,
+    34.64928
+],
   "geometry": {"coordinates":[-106.734224,34.64928],"type":"Point"}
 }

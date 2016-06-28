@@ -2,13 +2,14 @@
   "id": 186628659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.763814,32.34715,-106.763814,32.34715",
     "geom:latitude":32.34715,
     "geom:longitude":-106.763814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1155 Commerce Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":186628659,
-    "wof:lastmodified":1449052502,
+    "wof:lastmodified":1466700815,
     "wof:name":"Molzen-Corbin & Assoc Pa",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-106.763814,32.34715,-106.763814,32.34715],
+  "bbox": [
+    -106.763814,
+    32.34715,
+    -106.763814,
+    32.34715
+],
   "geometry": {"coordinates":[-106.763814,32.34715],"type":"Point"}
 }

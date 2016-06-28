@@ -2,13 +2,14 @@
   "id": 186148171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.933031,35.684556,-105.933031,35.684556",
     "geom:latitude":35.684556,
     "geom:longitude":-105.933031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 E Alameda St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186148171,
-    "wof:lastmodified":1449052586,
+    "wof:lastmodified":1466699256,
     "wof:name":"Waterworks",
     "wof:parent_id":85880807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "water"
     ]
 },
-  "bbox": [-105.933031,35.684556,-105.933031,35.684556],
+  "bbox": [
+    -105.933031,
+    35.684556,
+    -105.933031,
+    35.684556
+],
   "geometry": {"coordinates":[-105.933031,35.684556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353930757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.668391,35.13819,-106.668391,35.13819",
     "geom:latitude":35.13819,
     "geom:longitude":-106.668391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4022 Rio Grande Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":353930757,
-    "wof:lastmodified":1449019079,
+    "wof:lastmodified":1466698026,
     "wof:name":"Pennysmith's Paper",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.668391,35.13819,-106.668391,35.13819],
+  "bbox": [
+    -106.668391,
+    35.13819,
+    -106.668391,
+    35.13819
+],
   "geometry": {"coordinates":[-106.668391,35.13819],"type":"Point"}
 }

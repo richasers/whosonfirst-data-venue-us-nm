@@ -2,13 +2,14 @@
   "id": 169864717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.77783,32.306513,-106.77783,32.306513",
     "geom:latitude":32.306513,
     "geom:longitude":-106.77783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 S Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169864717,
-    "wof:lastmodified":1449036009,
+    "wof:lastmodified":1466698980,
     "wof:name":"Nm Dept Of Veteran's Svc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "state"
     ]
 },
-  "bbox": [-106.77783,32.306513,-106.77783,32.306513],
-  "geometry": {"coordinates":[-106.77783,32.306513],"type":"Point"}
+  "bbox": [
+    -106.77783,
+    32.306513,
+    -106.77783,
+    32.306513
+],
+  "geometry": {"coordinates":[-106.77782999999999,32.306513],"type":"Point"}
 }

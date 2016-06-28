@@ -2,13 +2,14 @@
   "id": 202686467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.718574,35.147617,-106.718574,35.147617",
     "geom:latitude":35.147617,
     "geom:longitude":-106.718574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5615 Creggs St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202686467,
-    "wof:lastmodified":1449062039,
+    "wof:lastmodified":1466699546,
     "wof:name":"Hewitt Engineering Consultants",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-106.718574,35.147617,-106.718574,35.147617],
+  "bbox": [
+    -106.718574,
+    35.147617,
+    -106.718574,
+    35.147617
+],
   "geometry": {"coordinates":[-106.718574,35.147617],"type":"Point"}
 }

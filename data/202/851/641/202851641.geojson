@@ -2,13 +2,14 @@
   "id": 202851641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.566268,35.133799,-106.566268,35.133799",
     "geom:latitude":35.133799,
     "geom:longitude":-106.566268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4108 Alcazar St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202851641,
-    "wof:lastmodified":1449061757,
+    "wof:lastmodified":1466700294,
     "wof:name":"Diabetes Network Inc",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "diabetes"
     ]
 },
-  "bbox": [-106.566268,35.133799,-106.566268,35.133799],
-  "geometry": {"coordinates":[-106.566268,35.133799],"type":"Point"}
+  "bbox": [
+    -106.566268,
+    35.133799,
+    -106.566268,
+    35.133799
+],
+  "geometry": {"coordinates":[-106.56626799999999,35.133799],"type":"Point"}
 }

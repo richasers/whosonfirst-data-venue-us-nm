@@ -2,13 +2,14 @@
   "id": 186632345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.281118,32.769987,-108.281118,32.769987",
     "geom:latitude":32.769987,
     "geom:longitude":-108.281118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 N Black St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186632345,
-    "wof:lastmodified":1449052093,
+    "wof:lastmodified":1466700664,
     "wof:name":"Grant County Detention Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "institution"
     ]
 },
-  "bbox": [-108.281118,32.769987,-108.281118,32.769987],
-  "geometry": {"coordinates":[-108.281118,32.769987],"type":"Point"}
+  "bbox": [
+    -108.281118,
+    32.769987,
+    -108.281118,
+    32.769987
+],
+  "geometry": {"coordinates":[-108.28111800000001,32.769987],"type":"Point"}
 }

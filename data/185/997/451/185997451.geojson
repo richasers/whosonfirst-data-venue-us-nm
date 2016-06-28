@@ -2,13 +2,14 @@
   "id": 185997451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.661351,35.122098,-106.661351,35.122098",
     "geom:latitude":35.122098,
     "geom:longitude":-106.661351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 Cam Amparo NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185997451,
-    "wof:lastmodified":1449007948,
+    "wof:lastmodified":1466699762,
     "wof:name":"Laurence P Sisson",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.661351,35.122098,-106.661351,35.122098],
+  "bbox": [
+    -106.661351,
+    35.122098,
+    -106.661351,
+    35.122098
+],
   "geometry": {"coordinates":[-106.661351,35.122098],"type":"Point"}
 }

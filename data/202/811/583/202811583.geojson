@@ -2,13 +2,14 @@
   "id": 202811583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.931738,35.638652,-105.931738,35.638652",
     "geom:latitude":35.638652,
     "geom:longitude":-105.931738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1514 E Rodeo Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202811583,
-    "wof:lastmodified":1449061354,
+    "wof:lastmodified":1466700009,
     "wof:name":"Posa's El Merendero",
     "wof:parent_id":85880773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.931738,35.638652,-105.931738,35.638652],
+  "bbox": [
+    -105.931738,
+    35.638652,
+    -105.931738,
+    35.638652
+],
   "geometry": {"coordinates":[-105.931738,35.638652],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186529865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.987025,36.826844,-107.987025,36.826844",
     "geom:latitude":36.826844,
     "geom:longitude":-107.987025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Orchard Ave",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186529865,
-    "wof:lastmodified":1449051547,
+    "wof:lastmodified":1466700323,
     "wof:name":"Ms V K Whitney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.987025,36.826844,-107.987025,36.826844],
+  "bbox": [
+    -107.987025,
+    36.826844,
+    -107.987025,
+    36.826844
+],
   "geometry": {"coordinates":[-107.987025,36.826844],"type":"Point"}
 }

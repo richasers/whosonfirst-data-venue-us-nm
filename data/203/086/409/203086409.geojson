@@ -2,13 +2,14 @@
   "id": 203086409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.259179,32.795212,-108.259179,32.795212",
     "geom:latitude":32.795212,
     "geom:longitude":-108.259179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 N Ridge Loop Dr",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203086409,
-    "wof:lastmodified":1449026250,
+    "wof:lastmodified":1466698515,
     "wof:name":"Gila Gyn Associates PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-108.259179,32.795212,-108.259179,32.795212],
+  "bbox": [
+    -108.259179,
+    32.795212,
+    -108.259179,
+    32.795212
+],
   "geometry": {"coordinates":[-108.259179,32.795212],"type":"Point"}
 }

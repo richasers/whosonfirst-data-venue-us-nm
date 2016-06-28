@@ -2,13 +2,14 @@
   "id": 202522459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.890588,34.053321,-106.890588,34.053321",
     "geom:latitude":34.053321,
     "geom:longitude":-106.890588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 S California St",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202522459,
-    "wof:lastmodified":1449061335,
+    "wof:lastmodified":1466699262,
     "wof:name":"Area VI Vocational Rehab Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "ctr"
     ]
 },
-  "bbox": [-106.890588,34.053321,-106.890588,34.053321],
-  "geometry": {"coordinates":[-106.890588,34.053321],"type":"Point"}
+  "bbox": [
+    -106.890588,
+    34.053321,
+    -106.890588,
+    34.053321
+],
+  "geometry": {"coordinates":[-106.89058799999999,34.053321],"type":"Point"}
 }

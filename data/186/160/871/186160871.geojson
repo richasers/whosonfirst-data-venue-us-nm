@@ -2,13 +2,14 @@
   "id": 186160871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.181419,32.761376,-103.181419,32.761376",
     "geom:latitude":32.761376,
     "geom:longitude":-103.181419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5412 N Lovington Hwy",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186160871,
-    "wof:lastmodified":1449052578,
+    "wof:lastmodified":1466699358,
     "wof:name":"Lea County Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.181419,32.761376,-103.181419,32.761376],
-  "geometry": {"coordinates":[-103.181419,32.761376],"type":"Point"}
+  "bbox": [
+    -103.181419,
+    32.761376,
+    -103.181419,
+    32.761376
+],
+  "geometry": {"coordinates":[-103.18141900000001,32.761376],"type":"Point"}
 }

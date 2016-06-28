@@ -2,13 +2,14 @@
   "id": 202987259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.57478,35.101888,-106.57478,35.101888",
     "geom:latitude":35.101888,
     "geom:longitude":-106.57478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6400 Indian School Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202987259,
-    "wof:lastmodified":1449061524,
+    "wof:lastmodified":1466700743,
     "wof:name":"Thompson Engineering Conslnt",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-106.57478,35.101888,-106.57478,35.101888],
+  "bbox": [
+    -106.57478,
+    35.101888,
+    -106.57478,
+    35.101888
+],
   "geometry": {"coordinates":[-106.57478,35.101888],"type":"Point"}
 }

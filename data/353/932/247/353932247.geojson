@@ -2,13 +2,14 @@
   "id": 353932247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.632202,35.11034,-106.632202,35.11034",
     "geom:latitude":35.11034,
     "geom:longitude":-106.632202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Broadbent Pkwy NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -82,10 +83,11 @@
         }
     ],
     "wof:id":353932247,
-    "wof:lastmodified":1449019208,
+    "wof:lastmodified":1466698067,
     "wof:name":"Sears Home Improvement Products",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -107,6 +109,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-106.632202,35.11034,-106.632202,35.11034],
-  "geometry": {"coordinates":[-106.632202,35.11034],"type":"Point"}
+  "bbox": [
+    -106.632202,
+    35.11034,
+    -106.632202,
+    35.11034
+],
+  "geometry": {"coordinates":[-106.63220200000001,35.11034],"type":"Point"}
 }

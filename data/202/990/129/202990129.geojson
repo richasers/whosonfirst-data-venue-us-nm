@@ -2,13 +2,14 @@
   "id": 202990129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.600077,35.342025,-106.600077,35.342025",
     "geom:latitude":35.342025,
     "geom:longitude":-106.600077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6462 Grayson Hills Dr NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202990129,
-    "wof:lastmodified":1449061786,
+    "wof:lastmodified":1466700830,
     "wof:name":"E & L Software Solutions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "software"
     ]
 },
-  "bbox": [-106.600077,35.342025,-106.600077,35.342025],
+  "bbox": [
+    -106.600077,
+    35.342025,
+    -106.600077,
+    35.342025
+],
   "geometry": {"coordinates":[-106.600077,35.342025],"type":"Point"}
 }

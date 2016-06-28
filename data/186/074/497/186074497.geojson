@@ -2,13 +2,14 @@
   "id": 186074497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.713153,35.006392,-106.713153,35.006392",
     "geom:latitude":35.006392,
     "geom:longitude":-106.713153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4743 W Glen Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186074497,
-    "wof:lastmodified":1449051831,
+    "wof:lastmodified":1466698569,
     "wof:name":"Thats Key",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.713153,35.006392,-106.713153,35.006392],
-  "geometry": {"coordinates":[-106.713153,35.006392],"type":"Point"}
+  "bbox": [
+    -106.713153,
+    35.006392,
+    -106.713153,
+    35.006392
+],
+  "geometry": {"coordinates":[-106.71315300000001,35.006392],"type":"Point"}
 }

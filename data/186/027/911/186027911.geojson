@@ -2,13 +2,14 @@
   "id": 186027911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.267778,32.789988,-108.267778,32.789988",
     "geom:latitude":32.789988,
     "geom:longitude":-108.267778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2540 N Silver St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186027911,
-    "wof:lastmodified":1449050909,
+    "wof:lastmodified":1466697998,
     "wof:name":"Border Area Mental Health Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-108.267778,32.789988,-108.267778,32.789988],
-  "geometry": {"coordinates":[-108.267778,32.789988],"type":"Point"}
+  "bbox": [
+    -108.267778,
+    32.789988,
+    -108.267778,
+    32.789988
+],
+  "geometry": {"coordinates":[-108.26777800000001,32.789988],"type":"Point"}
 }

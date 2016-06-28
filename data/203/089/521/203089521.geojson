@@ -2,13 +2,14 @@
   "id": 203089521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.699735,35.002568,-106.699735,35.002568",
     "geom:latitude":35.002568,
     "geom:longitude":-106.699735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2208 Durand Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203089521,
-    "wof:lastmodified":1449025317,
+    "wof:lastmodified":1466698569,
     "wof:name":"Dawn Electronic",
     "wof:parent_id":85892575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.699735,35.002568,-106.699735,35.002568],
+  "bbox": [
+    -106.699735,
+    35.002568,
+    -106.699735,
+    35.002568
+],
   "geometry": {"coordinates":[-106.699735,35.002568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202531553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.010861,33.079528,-106.010861,33.079528",
     "geom:latitude":33.079528,
     "geom:longitude":-106.010861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 Central Ave",
     "sg:city":"Tularosa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202531553,
-    "wof:lastmodified":1449060707,
+    "wof:lastmodified":1466699286,
     "wof:name":"Van Winkles IGA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.010861,33.079528,-106.010861,33.079528],
-  "geometry": {"coordinates":[-106.010861,33.079528],"type":"Point"}
+  "bbox": [
+    -106.010861,
+    33.079528,
+    -106.010861,
+    33.079528
+],
+  "geometry": {"coordinates":[-106.01086100000001,33.079528],"type":"Point"}
 }

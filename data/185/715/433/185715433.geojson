@@ -2,13 +2,14 @@
   "id": 185715433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.797818,35.130357,-107.797818,35.130357",
     "geom:latitude":35.130357,
     "geom:longitude":-107.797818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Jamie St",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185715433,
-    "wof:lastmodified":1449007893,
+    "wof:lastmodified":1466698784,
     "wof:name":"Canada Gun Smithing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.797818,35.130357,-107.797818,35.130357],
-  "geometry": {"coordinates":[-107.797818,35.130357],"type":"Point"}
+  "bbox": [
+    -107.797818,
+    35.130357,
+    -107.797818,
+    35.130357
+],
+  "geometry": {"coordinates":[-107.79781800000001,35.130357],"type":"Point"}
 }

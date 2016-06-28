@@ -2,13 +2,14 @@
   "id": 186421291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960901,35.692852,-105.960901,35.692852",
     "geom:latitude":35.692852,
     "geom:longitude":-105.960901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Alamo Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186421291,
-    "wof:lastmodified":1449052079,
+    "wof:lastmodified":1466699806,
     "wof:name":"Brave New You",
     "wof:parent_id":85880785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-105.960901,35.692852,-105.960901,35.692852],
-  "geometry": {"coordinates":[-105.960901,35.692852],"type":"Point"}
+  "bbox": [
+    -105.960901,
+    35.692852,
+    -105.960901,
+    35.692852
+],
+  "geometry": {"coordinates":[-105.96090100000001,35.692852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186311347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.577577,36.397147,-105.577577,36.397147",
     "geom:latitude":36.397147,
     "geom:longitude":-105.577577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Albright Rd",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186311347,
-    "wof:lastmodified":1449051029,
+    "wof:lastmodified":1466699504,
     "wof:name":"District Judge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-105.577577,36.397147,-105.577577,36.397147],
-  "geometry": {"coordinates":[-105.577577,36.397147],"type":"Point"}
+  "bbox": [
+    -105.577577,
+    36.397147,
+    -105.577577,
+    36.397147
+],
+  "geometry": {"coordinates":[-105.57757700000001,36.397147],"type":"Point"}
 }

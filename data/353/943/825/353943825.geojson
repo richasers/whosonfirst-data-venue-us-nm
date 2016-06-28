@@ -2,13 +2,14 @@
   "id": 353943825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.572937,35.11276,-106.572937,35.11276",
     "geom:latitude":35.11276,
     "geom:longitude":-106.572937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2805 Florida St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353943825,
-    "wof:lastmodified":1449018937,
+    "wof:lastmodified":1466698387,
     "wof:name":"Ed & Felicita Sanchez",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ride"
     ]
 },
-  "bbox": [-106.572937,35.11276,-106.572937,35.11276],
+  "bbox": [
+    -106.572937,
+    35.11276,
+    -106.572937,
+    35.11276
+],
   "geometry": {"coordinates":[-106.572937,35.11276],"type":"Point"}
 }

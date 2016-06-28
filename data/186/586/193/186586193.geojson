@@ -2,13 +2,14 @@
   "id": 186586193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.953614,35.650668,-105.953614,35.650668",
     "geom:latitude":35.650668,
     "geom:longitude":-105.953614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2209 Miguel Chavez Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186586193,
-    "wof:lastmodified":1449052712,
+    "wof:lastmodified":1466700587,
     "wof:name":"Accenture Inc",
     "wof:parent_id":85880859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-105.953614,35.650668,-105.953614,35.650668],
+  "bbox": [
+    -105.953614,
+    35.650668,
+    -105.953614,
+    35.650668
+],
   "geometry": {"coordinates":[-105.953614,35.650668],"type":"Point"}
 }

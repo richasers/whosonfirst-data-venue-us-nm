@@ -2,13 +2,14 @@
   "id": 186097627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.57535,35.141362,-106.57535,35.141362",
     "geom:latitude":35.141362,
     "geom:longitude":-106.57535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4804 Todd St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186097627,
-    "wof:lastmodified":1449051425,
+    "wof:lastmodified":1466698885,
     "wof:name":"Slaughterbotz",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.57535,35.141362,-106.57535,35.141362],
+  "bbox": [
+    -106.57535,
+    35.141362,
+    -106.57535,
+    35.141362
+],
   "geometry": {"coordinates":[-106.57535,35.141362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169705205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550964,35.115514,-106.550964,35.115514",
     "geom:latitude":35.115514,
     "geom:longitude":-106.550964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2505 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169705205,
-    "wof:lastmodified":1449035991,
+    "wof:lastmodified":1466697634,
     "wof:name":"Hoffman 66",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-106.550964,35.115514,-106.550964,35.115514],
-  "geometry": {"coordinates":[-106.550964,35.115514],"type":"Point"}
+  "bbox": [
+    -106.550964,
+    35.115514,
+    -106.550964,
+    35.115514
+],
+  "geometry": {"coordinates":[-106.55096399999999,35.115514],"type":"Point"}
 }

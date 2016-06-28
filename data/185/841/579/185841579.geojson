@@ -2,13 +2,14 @@
   "id": 185841579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.775936,32.306642,-106.775936,32.306642",
     "geom:latitude":32.306642,
     "geom:longitude":-106.775936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 E Lohman Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185841579,
-    "wof:lastmodified":1449006954,
+    "wof:lastmodified":1466697916,
     "wof:name":"Talbot Agency Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.775936,32.306642,-106.775936,32.306642],
+  "bbox": [
+    -106.775936,
+    32.306642,
+    -106.775936,
+    32.306642
+],
   "geometry": {"coordinates":[-106.775936,32.306642],"type":"Point"}
 }

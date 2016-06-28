@@ -2,13 +2,14 @@
   "id": 185918709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.733873,34.718194,-106.733873,34.718194",
     "geom:latitude":34.718194,
     "geom:longitude":-106.733873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Chavira Rd",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185918709,
-    "wof:lastmodified":1449007679,
+    "wof:lastmodified":1466698783,
     "wof:name":"Tery L Argenbright",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.733873,34.718194,-106.733873,34.718194],
+  "bbox": [
+    -106.733873,
+    34.718194,
+    -106.733873,
+    34.718194
+],
   "geometry": {"coordinates":[-106.733873,34.718194],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185866069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.877828,36.920273,-107.877828,36.920273",
     "geom:latitude":36.920273,
     "geom:longitude":-107.877828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Rd 2396",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185866069,
-    "wof:lastmodified":1449007387,
+    "wof:lastmodified":1466698174,
     "wof:name":"C & C Anchor Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-107.877828,36.920273,-107.877828,36.920273],
-  "geometry": {"coordinates":[-107.877828,36.920273],"type":"Point"}
+  "bbox": [
+    -107.877828,
+    36.920273,
+    -107.877828,
+    36.920273
+],
+  "geometry": {"coordinates":[-107.87782799999999,36.920273],"type":"Point"}
 }

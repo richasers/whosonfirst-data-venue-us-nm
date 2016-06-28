@@ -2,13 +2,14 @@
   "id": 186140011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.143976,32.700743,-103.143976,32.700743",
     "geom:latitude":32.700743,
     "geom:longitude":-103.143976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 W Broadway St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186140011,
-    "wof:lastmodified":1449050757,
+    "wof:lastmodified":1466699464,
     "wof:name":"Mc Bride Supplies It All",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-103.143976,32.700743,-103.143976,32.700743],
-  "geometry": {"coordinates":[-103.143976,32.700743],"type":"Point"}
+  "bbox": [
+    -103.143976,
+    32.700743,
+    -103.143976,
+    32.700743
+],
+  "geometry": {"coordinates":[-103.14397599999999,32.700743],"type":"Point"}
 }

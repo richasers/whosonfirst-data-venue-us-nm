@@ -2,13 +2,14 @@
   "id": 203041725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.275771,32.774348,-108.275771,32.774348",
     "geom:latitude":32.774348,
     "geom:longitude":-108.275771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 N Bullard St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203041725,
-    "wof:lastmodified":1449025595,
+    "wof:lastmodified":1466698056,
     "wof:name":"Cecilia's Flower Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.275771,32.774348,-108.275771,32.774348],
-  "geometry": {"coordinates":[-108.275771,32.774348],"type":"Point"}
+  "bbox": [
+    -108.275771,
+    32.774348,
+    -108.275771,
+    32.774348
+],
+  "geometry": {"coordinates":[-108.27577100000001,32.774348],"type":"Point"}
 }

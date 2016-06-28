@@ -2,13 +2,14 @@
   "id": 203114369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.21795,35.581765,-105.21795,35.581765",
     "geom:latitude":35.581765,
     "geom:longitude":-105.21795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 S Grand Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203114369,
-    "wof:lastmodified":1449025719,
+    "wof:lastmodified":1466698897,
     "wof:name":"Carruth's Pioneer Mfd Housing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.21795,35.581765,-105.21795,35.581765],
+  "bbox": [
+    -105.21795,
+    35.581765,
+    -105.21795,
+    35.581765
+],
   "geometry": {"coordinates":[-105.21795,35.581765],"type":"Point"}
 }

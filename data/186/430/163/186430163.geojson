@@ -2,13 +2,14 @@
   "id": 186430163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.647177,35.148522,-106.647177,35.148522",
     "geom:latitude":35.148522,
     "geom:longitude":-106.647177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"747 Fairway Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186430163,
-    "wof:lastmodified":1449052090,
+    "wof:lastmodified":1466699838,
     "wof:name":"Kids Tale",
     "wof:parent_id":85830119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-106.647177,35.148522,-106.647177,35.148522],
+  "bbox": [
+    -106.647177,
+    35.148522,
+    -106.647177,
+    35.148522
+],
   "geometry": {"coordinates":[-106.647177,35.148522],"type":"Point"}
 }

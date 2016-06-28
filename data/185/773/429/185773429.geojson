@@ -2,13 +2,14 @@
   "id": 185773429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.768861,34.659635,-106.768861,34.659635",
     "geom:latitude":34.659635,
     "geom:longitude":-106.768861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Becker Ave",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185773429,
-    "wof:lastmodified":1449006803,
+    "wof:lastmodified":1466699239,
     "wof:name":"Belen Goju Ryu Karate",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-106.768861,34.659635,-106.768861,34.659635],
+  "bbox": [
+    -106.768861,
+    34.659635,
+    -106.768861,
+    34.659635
+],
   "geometry": {"coordinates":[-106.768861,34.659635],"type":"Point"}
 }

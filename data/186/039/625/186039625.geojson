@@ -2,13 +2,14 @@
   "id": 186039625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.959949,35.662281,-105.959949,35.662281",
     "geom:latitude":35.662281,
     "geom:longitude":-105.959949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 Pacheco St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186039625,
-    "wof:lastmodified":1449052683,
+    "wof:lastmodified":1466698128,
     "wof:name":"New Mexico Aviation Div",
     "wof:parent_id":85880811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-105.959949,35.662281,-105.959949,35.662281],
-  "geometry": {"coordinates":[-105.959949,35.662281],"type":"Point"}
+  "bbox": [
+    -105.959949,
+    35.662281,
+    -105.959949,
+    35.662281
+],
+  "geometry": {"coordinates":[-105.95994899999999,35.662281],"type":"Point"}
 }

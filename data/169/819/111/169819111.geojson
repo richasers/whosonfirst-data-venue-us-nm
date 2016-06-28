@@ -2,13 +2,14 @@
   "id": 169819111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.663521,35.085052,-106.663521,35.085052",
     "geom:latitude":35.085052,
     "geom:longitude":-106.663521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 14th St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169819111,
-    "wof:lastmodified":1449033480,
+    "wof:lastmodified":1466698724,
     "wof:name":"De Ville Group",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.663521,35.085052,-106.663521,35.085052],
+  "bbox": [
+    -106.663521,
+    35.085052,
+    -106.663521,
+    35.085052
+],
   "geometry": {"coordinates":[-106.663521,35.085052],"type":"Point"}
 }

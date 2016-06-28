@@ -2,13 +2,14 @@
   "id": 202720409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.703119,34.951356,-106.703119,34.951356",
     "geom:latitude":34.951356,
     "geom:longitude":-106.703119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2313 Malpais Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202720409,
-    "wof:lastmodified":1449060715,
+    "wof:lastmodified":1466699693,
     "wof:name":"LTA Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tool"
     ]
 },
-  "bbox": [-106.703119,34.951356,-106.703119,34.951356],
+  "bbox": [
+    -106.703119,
+    34.951356,
+    -106.703119,
+    34.951356
+],
   "geometry": {"coordinates":[-106.703119,34.951356],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186119663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.629658,35.082673,-106.629658,35.082673",
     "geom:latitude":35.082673,
     "geom:longitude":-106.629658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Maple St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186119663,
-    "wof:lastmodified":1449052278,
+    "wof:lastmodified":1466699101,
     "wof:name":"Advanced Painting Inc",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "covering"
     ]
 },
-  "bbox": [-106.629658,35.082673,-106.629658,35.082673],
-  "geometry": {"coordinates":[-106.629658,35.082673],"type":"Point"}
+  "bbox": [
+    -106.629658,
+    35.082673,
+    -106.629658,
+    35.082673
+],
+  "geometry": {"coordinates":[-106.62965800000001,35.082673],"type":"Point"}
 }

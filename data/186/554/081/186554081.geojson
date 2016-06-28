@@ -2,13 +2,14 @@
   "id": 186554081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.271942,32.783322,-108.271942,32.783322",
     "geom:latitude":32.783322,
     "geom:longitude":-108.271942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1703 N Yucca St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186554081,
-    "wof:lastmodified":1449050960,
+    "wof:lastmodified":1466700458,
     "wof:name":"Thomas F Stewart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-108.271942,32.783322,-108.271942,32.783322],
+  "bbox": [
+    -108.271942,
+    32.783322,
+    -108.271942,
+    32.783322
+],
   "geometry": {"coordinates":[-108.271942,32.783322],"type":"Point"}
 }

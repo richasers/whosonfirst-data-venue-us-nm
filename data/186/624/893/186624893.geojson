@@ -2,13 +2,14 @@
   "id": 186624893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.518994,33.584124,-104.518994,33.584124",
     "geom:latitude":33.584124,
     "geom:longitude":-104.518994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 One Horse Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186624893,
-    "wof:lastmodified":1449052212,
+    "wof:lastmodified":1466700619,
     "wof:name":"Digi.Com Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.518994,33.584124,-104.518994,33.584124],
-  "geometry": {"coordinates":[-104.518994,33.584124],"type":"Point"}
+  "bbox": [
+    -104.518994,
+    33.584124,
+    -104.518994,
+    33.584124
+],
+  "geometry": {"coordinates":[-104.51899400000001,33.584124],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353971885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649661,31.966694,-106.649661,31.966694",
     "geom:latitude":31.966694,
     "geom:longitude":-106.649661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5235 Highway 28",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353971885,
-    "wof:lastmodified":1449019561,
+    "wof:lastmodified":1466699450,
     "wof:name":"Gadsden Independent School District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "private"
     ]
 },
-  "bbox": [-106.649661,31.966694,-106.649661,31.966694],
-  "geometry": {"coordinates":[-106.649661,31.966694],"type":"Point"}
+  "bbox": [
+    -106.649661,
+    31.966694,
+    -106.649661,
+    31.966694
+],
+  "geometry": {"coordinates":[-106.64966099999999,31.966694],"type":"Point"}
 }

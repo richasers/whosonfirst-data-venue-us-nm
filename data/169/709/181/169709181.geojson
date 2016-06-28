@@ -2,13 +2,14 @@
   "id": 169709181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.555519,35.172709,-106.555519,35.172709",
     "geom:latitude":35.172709,
     "geom:longitude":-106.555519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8010 Palomas Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169709181,
-    "wof:lastmodified":1449033350,
+    "wof:lastmodified":1466697664,
     "wof:name":"Cornali John M DDS Ms PC",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.555519,35.172709,-106.555519,35.172709],
+  "bbox": [
+    -106.555519,
+    35.172709,
+    -106.555519,
+    35.172709
+],
   "geometry": {"coordinates":[-106.555519,35.172709],"type":"Point"}
 }

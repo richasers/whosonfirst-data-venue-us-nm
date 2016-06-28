@@ -2,13 +2,14 @@
   "id": 202929803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.814258,32.31059,-106.814258,32.31059",
     "geom:latitude":32.31059,
     "geom:longitude":-106.814258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 W Picacho Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202929803,
-    "wof:lastmodified":1449061090,
+    "wof:lastmodified":1466700330,
     "wof:name":"Curves For Women",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-106.814258,32.31059,-106.814258,32.31059],
+  "bbox": [
+    -106.814258,
+    32.31059,
+    -106.814258,
+    32.31059
+],
   "geometry": {"coordinates":[-106.814258,32.31059],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186000427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.127587,32.708146,-103.127587,32.708146",
     "geom:latitude":32.708146,
     "geom:longitude":-103.127587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 N Dal Paso St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186000427,
-    "wof:lastmodified":1449050831,
+    "wof:lastmodified":1466697668,
     "wof:name":"Noah's Mexican Food Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-103.127587,32.708146,-103.127587,32.708146],
-  "geometry": {"coordinates":[-103.127587,32.708146],"type":"Point"}
+  "bbox": [
+    -103.127587,
+    32.708146,
+    -103.127587,
+    32.708146
+],
+  "geometry": {"coordinates":[-103.12758700000001,32.708146],"type":"Point"}
 }

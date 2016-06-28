@@ -2,13 +2,14 @@
   "id": 185971811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.948996,35.67225,-105.948996,35.67225",
     "geom:latitude":35.67225,
     "geom:longitude":-105.948996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Don Diego Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185971811,
-    "wof:lastmodified":1449007447,
+    "wof:lastmodified":1466699702,
     "wof:name":"Land of Enchntment Fdral Cr Un",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-105.948996,35.67225,-105.948996,35.67225],
-  "geometry": {"coordinates":[-105.948996,35.67225],"type":"Point"}
+  "bbox": [
+    -105.948996,
+    35.67225,
+    -105.948996,
+    35.67225
+],
+  "geometry": {"coordinates":[-105.94899599999999,35.67225],"type":"Point"}
 }

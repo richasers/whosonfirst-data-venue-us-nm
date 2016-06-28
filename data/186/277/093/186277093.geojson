@@ -2,13 +2,14 @@
   "id": 186277093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.931255,35.707266,-105.931255,35.707266",
     "geom:latitude":35.707266,
     "geom:longitude":-105.931255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Governor Dempsey Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186277093,
-    "wof:lastmodified":1449050553,
+    "wof:lastmodified":1466699019,
     "wof:name":"Santa Fe Firewood Starters Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "firewood"
     ]
 },
-  "bbox": [-105.931255,35.707266,-105.931255,35.707266],
-  "geometry": {"coordinates":[-105.931255,35.707266],"type":"Point"}
+  "bbox": [
+    -105.931255,
+    35.707266,
+    -105.931255,
+    35.707266
+],
+  "geometry": {"coordinates":[-105.93125499999999,35.707266],"type":"Point"}
 }

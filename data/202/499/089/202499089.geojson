@@ -2,13 +2,14 @@
   "id": 202499089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.125792,35.360404,-106.125792,35.360404",
     "geom:latitude":35.360404,
     "geom:longitude":-106.125792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"582 Co Rd 55",
     "sg:city":"Cerrillos",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202499089,
-    "wof:lastmodified":1449060592,
+    "wof:lastmodified":1466699459,
     "wof:name":"Lac Minerals USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "environmental"
     ]
 },
-  "bbox": [-106.125792,35.360404,-106.125792,35.360404],
+  "bbox": [
+    -106.125792,
+    35.360404,
+    -106.125792,
+    35.360404
+],
   "geometry": {"coordinates":[-106.125792,35.360404],"type":"Point"}
 }

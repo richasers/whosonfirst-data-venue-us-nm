@@ -2,13 +2,14 @@
   "id": 202550579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.709791,35.044751,-106.709791,35.044751",
     "geom:latitude":35.044751,
     "geom:longitude":-106.709791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 Coors Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202550579,
-    "wof:lastmodified":1449061482,
+    "wof:lastmodified":1466697652,
     "wof:name":"Performance Plus Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "shop"
     ]
 },
-  "bbox": [-106.709791,35.044751,-106.709791,35.044751],
+  "bbox": [
+    -106.709791,
+    35.044751,
+    -106.709791,
+    35.044751
+],
   "geometry": {"coordinates":[-106.709791,35.044751],"type":"Point"}
 }

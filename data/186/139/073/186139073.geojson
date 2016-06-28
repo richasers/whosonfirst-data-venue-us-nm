@@ -2,13 +2,14 @@
   "id": 186139073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.943516,35.689316,-105.943516,35.689316",
     "geom:latitude":35.689316,
     "geom:longitude":-105.943516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Guadalupe St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186139073,
-    "wof:lastmodified":1449050492,
+    "wof:lastmodified":1466699202,
     "wof:name":"Jones & Stokes",
     "wof:parent_id":85880833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-105.943516,35.689316,-105.943516,35.689316],
+  "bbox": [
+    -105.943516,
+    35.689316,
+    -105.943516,
+    35.689316
+],
   "geometry": {"coordinates":[-105.943516,35.689316],"type":"Point"}
 }

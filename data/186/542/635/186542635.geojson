@@ -2,13 +2,14 @@
   "id": 186542635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.728428,35.182603,-103.728428,35.182603",
     "geom:latitude":35.182603,
     "geom:longitude":-103.728428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"284 W Campbell Ave",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186542635,
-    "wof:lastmodified":1449052399,
+    "wof:lastmodified":1466700276,
     "wof:name":"Miera Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-103.728428,35.182603,-103.728428,35.182603],
-  "geometry": {"coordinates":[-103.728428,35.182603],"type":"Point"}
+  "bbox": [
+    -103.728428,
+    35.182603,
+    -103.728428,
+    35.182603
+],
+  "geometry": {"coordinates":[-103.72842799999999,35.182603],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202499305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.598635,35.121339,-106.598635,35.121339",
     "geom:latitude":35.121339,
     "geom:longitude":-106.598635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3322 Shepard Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":202499305,
-    "wof:lastmodified":1449060593,
+    "wof:lastmodified":1466699116,
     "wof:name":"Su Casa Remodeling & Handyman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.598635,35.121339,-106.598635,35.121339],
+  "bbox": [
+    -106.598635,
+    35.121339,
+    -106.598635,
+    35.121339
+],
   "geometry": {"coordinates":[-106.598635,35.121339],"type":"Point"}
 }

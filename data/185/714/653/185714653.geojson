@@ -2,13 +2,14 @@
   "id": 185714653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.709453,35.108365,-106.709453,35.108365",
     "geom:latitude":35.108365,
     "geom:longitude":-106.709453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6204 Summer Night Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185714653,
-    "wof:lastmodified":1449007415,
+    "wof:lastmodified":1466698777,
     "wof:name":"Montanard Enterprises",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-106.709453,35.108365,-106.709453,35.108365],
+  "bbox": [
+    -106.709453,
+    35.108365,
+    -106.709453,
+    35.108365
+],
   "geometry": {"coordinates":[-106.709453,35.108365],"type":"Point"}
 }

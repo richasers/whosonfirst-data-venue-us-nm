@@ -2,13 +2,14 @@
   "id": 185753923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.62648,35.037035,-106.62648,35.037035",
     "geom:latitude":35.037035,
     "geom:longitude":-106.62648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2235 Clark Carr Loop SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185753923,
-    "wof:lastmodified":1449006794,
+    "wof:lastmodified":1466699164,
     "wof:name":"R B R Aircraft Maintenance",
     "wof:parent_id":85846885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.62648,35.037035,-106.62648,35.037035],
+  "bbox": [
+    -106.62648,
+    35.037035,
+    -106.62648,
+    35.037035
+],
   "geometry": {"coordinates":[-106.62648,35.037035],"type":"Point"}
 }

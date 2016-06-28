@@ -2,13 +2,14 @@
   "id": 202976601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.633535,35.12291,-106.633535,35.12291",
     "geom:latitude":35.12291,
     "geom:longitude":-106.633535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Industrial Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202976601,
-    "wof:lastmodified":1449061163,
+    "wof:lastmodified":1466700687,
     "wof:name":"Fema",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.633535,35.12291,-106.633535,35.12291],
-  "geometry": {"coordinates":[-106.633535,35.12291],"type":"Point"}
+  "bbox": [
+    -106.633535,
+    35.12291,
+    -106.633535,
+    35.12291
+],
+  "geometry": {"coordinates":[-106.63353499999999,35.12291],"type":"Point"}
 }

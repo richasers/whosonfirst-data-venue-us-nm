@@ -2,13 +2,14 @@
   "id": 185982175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.628314,35.121055,-106.628314,35.121055",
     "geom:latitude":35.121055,
     "geom:longitude":-106.628314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 Industrial Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185982175,
-    "wof:lastmodified":1449006891,
+    "wof:lastmodified":1466699499,
     "wof:name":"Big I Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.628314,35.121055,-106.628314,35.121055],
+  "bbox": [
+    -106.628314,
+    35.121055,
+    -106.628314,
+    35.121055
+],
   "geometry": {"coordinates":[-106.628314,35.121055],"type":"Point"}
 }

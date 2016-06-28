@@ -2,13 +2,14 @@
   "id": 202842687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.984968,35.833912,-105.984968,35.833912",
     "geom:latitude":35.833912,
     "geom:longitude":-105.984968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17625 US Hwy 285",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202842687,
-    "wof:lastmodified":1449060299,
+    "wof:lastmodified":1466700157,
     "wof:name":"Counter Point Studio",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.984968,35.833912,-105.984968,35.833912],
-  "geometry": {"coordinates":[-105.984968,35.833912],"type":"Point"}
+  "bbox": [
+    -105.984968,
+    35.833912,
+    -105.984968,
+    35.833912
+],
+  "geometry": {"coordinates":[-105.98496799999999,35.833912],"type":"Point"}
 }

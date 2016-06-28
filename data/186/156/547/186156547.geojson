@@ -2,13 +2,14 @@
   "id": 186156547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.486855,35.074175,-106.486855,35.074175",
     "geom:latitude":35.074175,
     "geom:longitude":-106.486855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14528 Hilldale Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186156547,
-    "wof:lastmodified":1449050938,
+    "wof:lastmodified":1466699342,
     "wof:name":"Casa Paloduro",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-106.486855,35.074175,-106.486855,35.074175],
-  "geometry": {"coordinates":[-106.486855,35.074175],"type":"Point"}
+  "bbox": [
+    -106.486855,
+    35.074175,
+    -106.486855,
+    35.074175
+],
+  "geometry": {"coordinates":[-106.48685500000001,35.074175],"type":"Point"}
 }

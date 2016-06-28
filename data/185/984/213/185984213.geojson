@@ -2,13 +2,14 @@
   "id": 185984213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.187531,34.436151,-103.187531,34.436151",
     "geom:latitude":34.436151,
     "geom:longitude":-103.187531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 Fairway Ter",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185984213,
-    "wof:lastmodified":1449007514,
+    "wof:lastmodified":1466699680,
     "wof:name":"Matt Bratcher Appraisals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-103.187531,34.436151,-103.187531,34.436151],
-  "geometry": {"coordinates":[-103.187531,34.436151],"type":"Point"}
+  "bbox": [
+    -103.187531,
+    34.436151,
+    -103.187531,
+    34.436151
+],
+  "geometry": {"coordinates":[-103.18753100000001,34.436151],"type":"Point"}
 }

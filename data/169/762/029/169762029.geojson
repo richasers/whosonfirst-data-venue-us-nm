@@ -2,13 +2,14 @@
   "id": 169762029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.25309,35.098275,-106.25309,35.098275",
     "geom:latitude":35.098275,
     "geom:longitude":-106.25309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Joe Nestor Rd",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169762029,
-    "wof:lastmodified":1449035007,
+    "wof:lastmodified":1466698180,
     "wof:name":"East Mountain Optomechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.25309,35.098275,-106.25309,35.098275],
+  "bbox": [
+    -106.25309,
+    35.098275,
+    -106.25309,
+    35.098275
+],
   "geometry": {"coordinates":[-106.25309,35.098275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185801389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.06392,36.025548,-106.06392,36.025548",
     "geom:latitude":36.025548,
     "geom:longitude":-106.06392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2306 N Riverside Dr",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185801389,
-    "wof:lastmodified":1449007953,
+    "wof:lastmodified":1466699343,
     "wof:name":"Snowbird Express Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.06392,36.025548,-106.06392,36.025548],
+  "bbox": [
+    -106.06392,
+    36.025548,
+    -106.06392,
+    36.025548
+],
   "geometry": {"coordinates":[-106.06392,36.025548],"type":"Point"}
 }

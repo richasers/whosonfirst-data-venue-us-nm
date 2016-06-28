@@ -2,13 +2,14 @@
   "id": 337278619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.091325,36.797087,-108.091325,36.797087",
     "geom:latitude":36.797087,
     "geom:longitude":-108.091325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Rd 3593",
     "sg:city":"Flora Vista",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337278619,
-    "wof:lastmodified":1449027389,
+    "wof:lastmodified":1466699474,
     "wof:name":"Moss Excavation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.091325,36.797087,-108.091325,36.797087],
+  "bbox": [
+    -108.091325,
+    36.797087,
+    -108.091325,
+    36.797087
+],
   "geometry": {"coordinates":[-108.091325,36.797087],"type":"Point"}
 }

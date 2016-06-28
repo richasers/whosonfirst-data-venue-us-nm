@@ -2,13 +2,14 @@
   "id": 186049231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.539917,35.164123,-106.539917,35.164123",
     "geom:latitude":35.164123,
     "geom:longitude":-106.539917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9129 Dempsey Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186049231,
-    "wof:lastmodified":1449051706,
+    "wof:lastmodified":1466698244,
     "wof:name":"Chandler Insurance Services In",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.539917,35.164123,-106.539917,35.164123],
+  "bbox": [
+    -106.539917,
+    35.164123,
+    -106.539917,
+    35.164123
+],
   "geometry": {"coordinates":[-106.539917,35.164123],"type":"Point"}
 }

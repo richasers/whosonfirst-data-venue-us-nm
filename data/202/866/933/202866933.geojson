@@ -2,13 +2,14 @@
   "id": 202866933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.144969,32.742118,-103.144969,32.742118",
     "geom:latitude":32.742118,
     "geom:longitude":-103.144969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3920 N Grimes St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202866933,
-    "wof:lastmodified":1449061329,
+    "wof:lastmodified":1466700252,
     "wof:name":"Lea Community Federal Credit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.144969,32.742118,-103.144969,32.742118],
+  "bbox": [
+    -103.144969,
+    32.742118,
+    -103.144969,
+    32.742118
+],
   "geometry": {"coordinates":[-103.144969,32.742118],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202523845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.015386,35.884206,-106.015386,35.884206",
     "geom:latitude":35.884206,
     "geom:longitude":-106.015386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Cities of Gold Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202523845,
-    "wof:lastmodified":1449061563,
+    "wof:lastmodified":1466699271,
     "wof:name":"Pueblo Of Pojoaque",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tribe"
     ]
 },
-  "bbox": [-106.015386,35.884206,-106.015386,35.884206],
-  "geometry": {"coordinates":[-106.015386,35.884206],"type":"Point"}
+  "bbox": [
+    -106.015386,
+    35.884206,
+    -106.015386,
+    35.884206
+],
+  "geometry": {"coordinates":[-106.01538600000001,35.884206],"type":"Point"}
 }

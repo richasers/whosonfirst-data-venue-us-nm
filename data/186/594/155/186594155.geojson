@@ -2,13 +2,14 @@
   "id": 186594155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.633313,35.122166,-106.633313,35.122166",
     "geom:latitude":35.122166,
     "geom:longitude":-106.633313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186594155,
-    "wof:lastmodified":1449050753,
+    "wof:lastmodified":1466700620,
     "wof:name":"Youth Diagnostic & Dev Ctr",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "facility"
     ]
 },
-  "bbox": [-106.633313,35.122166,-106.633313,35.122166],
+  "bbox": [
+    -106.633313,
+    35.122166,
+    -106.633313,
+    35.122166
+],
   "geometry": {"coordinates":[-106.633313,35.122166],"type":"Point"}
 }

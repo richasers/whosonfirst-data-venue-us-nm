@@ -2,13 +2,14 @@
   "id": 185710547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.208934,35.613303,-105.208934,35.613303",
     "geom:latitude":35.613303,
     "geom:longitude":-105.208934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 N Grand Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185710547,
-    "wof:lastmodified":1449006694,
+    "wof:lastmodified":1466698741,
     "wof:name":"Pinos Quick Lube Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-105.208934,35.613303,-105.208934,35.613303],
+  "bbox": [
+    -105.208934,
+    35.613303,
+    -105.208934,
+    35.613303
+],
   "geometry": {"coordinates":[-105.208934,35.613303],"type":"Point"}
 }

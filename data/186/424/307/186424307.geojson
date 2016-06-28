@@ -2,13 +2,14 @@
   "id": 186424307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.199826,32.776014,-103.199826,32.776014",
     "geom:latitude":32.776014,
     "geom:longitude":-103.199826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5002 Jack Gomez Blvd",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186424307,
-    "wof:lastmodified":1449052864,
+    "wof:lastmodified":1466700038,
     "wof:name":"US Army National Guard Armory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-103.199826,32.776014,-103.199826,32.776014],
+  "bbox": [
+    -103.199826,
+    32.776014,
+    -103.199826,
+    32.776014
+],
   "geometry": {"coordinates":[-103.199826,32.776014],"type":"Point"}
 }

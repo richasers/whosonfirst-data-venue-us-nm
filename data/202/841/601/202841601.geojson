@@ -2,13 +2,14 @@
   "id": 202841601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.776497,32.307517,-106.776497,32.307517",
     "geom:latitude":32.307517,
     "geom:longitude":-106.776497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 E Amador Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202841601,
-    "wof:lastmodified":1449060650,
+    "wof:lastmodified":1466700153,
     "wof:name":"Art For Life",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "designer"
     ]
 },
-  "bbox": [-106.776497,32.307517,-106.776497,32.307517],
-  "geometry": {"coordinates":[-106.776497,32.307517],"type":"Point"}
+  "bbox": [
+    -106.776497,
+    32.307517,
+    -106.776497,
+    32.307517
+],
+  "geometry": {"coordinates":[-106.77649700000001,32.307517],"type":"Point"}
 }

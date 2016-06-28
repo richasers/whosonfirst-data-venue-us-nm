@@ -2,13 +2,14 @@
   "id": 353916417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.623555,35.250624,-106.623555,35.250624",
     "geom:latitude":35.250624,
     "geom:longitude":-106.623555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"589 Camino Sin Pasada",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353916417,
-    "wof:lastmodified":1449019661,
+    "wof:lastmodified":1466697653,
     "wof:name":"Lenora Hoskie",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "assistant"
     ]
 },
-  "bbox": [-106.623555,35.250624,-106.623555,35.250624],
+  "bbox": [
+    -106.623555,
+    35.250624,
+    -106.623555,
+    35.250624
+],
   "geometry": {"coordinates":[-106.623555,35.250624],"type":"Point"}
 }

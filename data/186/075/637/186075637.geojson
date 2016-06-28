@@ -2,13 +2,14 @@
   "id": 186075637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.681815,35.12253,-106.681815,35.12253",
     "geom:latitude":35.12253,
     "geom:longitude":-106.681815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2707 Campbell Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186075637,
-    "wof:lastmodified":1449051838,
+    "wof:lastmodified":1466698576,
     "wof:name":"Arbor Rv Park",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-106.681815,35.12253,-106.681815,35.12253],
+  "bbox": [
+    -106.681815,
+    35.12253,
+    -106.681815,
+    35.12253
+],
   "geometry": {"coordinates":[-106.681815,35.12253],"type":"Point"}
 }

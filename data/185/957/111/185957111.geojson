@@ -2,13 +2,14 @@
   "id": 185957111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.225229,35.618435,-105.225229,35.618435",
     "geom:latitude":35.618435,
     "geom:longitude":-105.225229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 7th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185957111,
-    "wof:lastmodified":1449007992,
+    "wof:lastmodified":1466699332,
     "wof:name":"Lowe's Super Save",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-105.225229,35.618435,-105.225229,35.618435],
+  "bbox": [
+    -105.225229,
+    35.618435,
+    -105.225229,
+    35.618435
+],
   "geometry": {"coordinates":[-105.225229,35.618435],"type":"Point"}
 }

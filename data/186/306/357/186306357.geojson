@@ -2,13 +2,14 @@
   "id": 186306357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.75156,32.26222,-107.75156,32.26222",
     "geom:latitude":32.26222,
     "geom:longitude":-107.75156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Oak St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186306357,
-    "wof:lastmodified":1449052916,
+    "wof:lastmodified":1466699481,
     "wof:name":"Life Quest Early Intervention",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.75156,32.26222,-107.75156,32.26222],
+  "bbox": [
+    -107.75156,
+    32.26222,
+    -107.75156,
+    32.26222
+],
   "geometry": {"coordinates":[-107.75156,32.26222],"type":"Point"}
 }

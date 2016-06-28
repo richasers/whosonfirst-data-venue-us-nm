@@ -2,13 +2,14 @@
   "id": 186463289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.734561,35.099525,-106.734561,35.099525",
     "geom:latitude":35.099525,
     "geom:longitude":-106.734561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8135 Waterbury Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186463289,
-    "wof:lastmodified":1449052233,
+    "wof:lastmodified":1466699983,
     "wof:name":"Schramm Melinda Case MGT",
     "wof:parent_id":85892581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.734561,35.099525,-106.734561,35.099525],
+  "bbox": [
+    -106.734561,
+    35.099525,
+    -106.734561,
+    35.099525
+],
   "geometry": {"coordinates":[-106.734561,35.099525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186408069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.209412,36.732674,-108.209412,36.732674",
     "geom:latitude":36.732674,
     "geom:longitude":-108.209412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 N Locke Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186408069,
-    "wof:lastmodified":1449050601,
+    "wof:lastmodified":1466699870,
     "wof:name":"Partners Assisted Living Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-108.209412,36.732674,-108.209412,36.732674],
+  "bbox": [
+    -108.209412,
+    36.732674,
+    -108.209412,
+    36.732674
+],
   "geometry": {"coordinates":[-108.209412,36.732674],"type":"Point"}
 }

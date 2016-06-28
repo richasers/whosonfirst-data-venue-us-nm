@@ -2,13 +2,14 @@
   "id": 202931923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.82881,32.29021,-106.82881,32.29021",
     "geom:latitude":32.29021,
     "geom:longitude":-106.82881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3885 Tierra Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202931923,
-    "wof:lastmodified":1449062421,
+    "wof:lastmodified":1466700481,
     "wof:name":"Torres Welding Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-106.82881,32.29021,-106.82881,32.29021],
+  "bbox": [
+    -106.82881,
+    32.29021,
+    -106.82881,
+    32.29021
+],
   "geometry": {"coordinates":[-106.82881,32.29021],"type":"Point"}
 }

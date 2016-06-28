@@ -2,13 +2,14 @@
   "id": 186441625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.703701,35.091824,-106.703701,35.091824",
     "geom:latitude":35.091824,
     "geom:longitude":-106.703701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 57th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186441625,
-    "wof:lastmodified":1449050456,
+    "wof:lastmodified":1466700005,
     "wof:name":"Norsam Inc",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.703701,35.091824,-106.703701,35.091824],
+  "bbox": [
+    -106.703701,
+    35.091824,
+    -106.703701,
+    35.091824
+],
   "geometry": {"coordinates":[-106.703701,35.091824],"type":"Point"}
 }

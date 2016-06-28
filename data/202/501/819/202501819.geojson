@@ -2,13 +2,14 @@
   "id": 202501819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.539988,35.120781,-106.539988,35.120781",
     "geom:latitude":35.120781,
     "geom:longitude":-106.539988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9104 Headingly Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202501819,
-    "wof:lastmodified":1449062671,
+    "wof:lastmodified":1466699138,
     "wof:name":"Richard Crocker Nursing Svc",
     "wof:parent_id":85825849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "registry"
     ]
 },
-  "bbox": [-106.539988,35.120781,-106.539988,35.120781],
-  "geometry": {"coordinates":[-106.539988,35.120781],"type":"Point"}
+  "bbox": [
+    -106.539988,
+    35.120781,
+    -106.539988,
+    35.120781
+],
+  "geometry": {"coordinates":[-106.53998799999999,35.120781],"type":"Point"}
 }

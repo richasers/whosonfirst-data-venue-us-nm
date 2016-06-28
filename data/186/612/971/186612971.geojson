@@ -2,13 +2,14 @@
   "id": 186612971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.264235,33.122666,-107.264235,33.122666",
     "geom:latitude":33.122666,
     "geom:longitude":-107.264235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"992 S Broadway St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186612971,
-    "wof:lastmodified":1449051561,
+    "wof:lastmodified":1466700679,
     "wof:name":"Veteran's Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.264235,33.122666,-107.264235,33.122666],
+  "bbox": [
+    -107.264235,
+    33.122666,
+    -107.264235,
+    33.122666
+],
   "geometry": {"coordinates":[-107.264235,33.122666],"type":"Point"}
 }

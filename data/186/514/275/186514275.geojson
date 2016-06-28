@@ -2,13 +2,14 @@
   "id": 186514275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.690695,34.857559,-106.690695,34.857559",
     "geom:latitude":34.857559,
     "geom:longitude":-106.690695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1155 Bosque Farms Blvd",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186514275,
-    "wof:lastmodified":1449051720,
+    "wof:lastmodified":1466700159,
     "wof:name":"Bam Roofing & Contracting",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.690695,34.857559,-106.690695,34.857559],
-  "geometry": {"coordinates":[-106.690695,34.857559],"type":"Point"}
+  "bbox": [
+    -106.690695,
+    34.857559,
+    -106.690695,
+    34.857559
+],
+  "geometry": {"coordinates":[-106.69069500000001,34.857559],"type":"Point"}
 }

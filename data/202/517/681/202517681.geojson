@@ -2,13 +2,14 @@
   "id": 202517681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.538496,35.071378,-106.538496,35.071378",
     "geom:latitude":35.071378,
     "geom:longitude":-106.538496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10028 Cochiti Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202517681,
-    "wof:lastmodified":1449061548,
+    "wof:lastmodified":1466699250,
     "wof:name":"Model Products Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-106.538496,35.071378,-106.538496,35.071378],
-  "geometry": {"coordinates":[-106.538496,35.071378],"type":"Point"}
+  "bbox": [
+    -106.538496,
+    35.071378,
+    -106.538496,
+    35.071378
+],
+  "geometry": {"coordinates":[-106.53849599999999,35.071378],"type":"Point"}
 }

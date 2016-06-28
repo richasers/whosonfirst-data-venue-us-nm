@@ -2,13 +2,14 @@
   "id": 185944575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.623011,35.201037,-106.623011,35.201037",
     "geom:latitude":35.201037,
     "geom:longitude":-106.623011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 Guadalupe Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185944575,
-    "wof:lastmodified":1449007434,
+    "wof:lastmodified":1466699137,
     "wof:name":"Interior Shutter Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shutter"
     ]
 },
-  "bbox": [-106.623011,35.201037,-106.623011,35.201037],
-  "geometry": {"coordinates":[-106.623011,35.201037],"type":"Point"}
+  "bbox": [
+    -106.623011,
+    35.201037,
+    -106.623011,
+    35.201037
+],
+  "geometry": {"coordinates":[-106.62301100000001,35.201037],"type":"Point"}
 }

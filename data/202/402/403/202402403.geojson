@@ -2,13 +2,14 @@
   "id": 202402403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.114286,32.719708,-103.114286,32.719708",
     "geom:latitude":32.719708,
     "geom:longitude":-103.114286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 Steven Dr",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202402403,
-    "wof:lastmodified":1449060929,
+    "wof:lastmodified":1466697964,
     "wof:name":"Home Pro Mortgage II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-103.114286,32.719708,-103.114286,32.719708],
-  "geometry": {"coordinates":[-103.114286,32.719708],"type":"Point"}
+  "bbox": [
+    -103.114286,
+    32.719708,
+    -103.114286,
+    32.719708
+],
+  "geometry": {"coordinates":[-103.11428600000001,32.719708],"type":"Point"}
 }

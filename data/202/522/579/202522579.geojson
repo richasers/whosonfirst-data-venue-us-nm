@@ -2,13 +2,14 @@
   "id": 202522579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.595631,35.108229,-106.595631,35.108229",
     "geom:latitude":35.108229,
     "geom:longitude":-106.595631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Washington St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202522579,
-    "wof:lastmodified":1449061335,
+    "wof:lastmodified":1466699266,
     "wof:name":"Estell's Hair Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.595631,35.108229,-106.595631,35.108229],
+  "bbox": [
+    -106.595631,
+    35.108229,
+    -106.595631,
+    35.108229
+],
   "geometry": {"coordinates":[-106.595631,35.108229],"type":"Point"}
 }

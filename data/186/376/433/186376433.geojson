@@ -2,13 +2,14 @@
   "id": 186376433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.791341,32.271672,-106.791341,32.271672",
     "geom:latitude":32.271672,
     "geom:longitude":-106.791341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Ave de Mesilla",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186376433,
-    "wof:lastmodified":1449051305,
+    "wof:lastmodified":1466699755,
     "wof:name":"High Desert & Way Out West",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.791341,32.271672,-106.791341,32.271672],
+  "bbox": [
+    -106.791341,
+    32.271672,
+    -106.791341,
+    32.271672
+],
   "geometry": {"coordinates":[-106.791341,32.271672],"type":"Point"}
 }

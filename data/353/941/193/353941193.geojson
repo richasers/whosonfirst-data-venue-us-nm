@@ -2,13 +2,14 @@
   "id": 353941193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.581659,35.165631,-106.581659,35.165631",
     "geom:latitude":35.165631,
     "geom:longitude":-106.581659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6025 Coronado Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353941193,
-    "wof:lastmodified":1449019796,
+    "wof:lastmodified":1466698308,
     "wof:name":"Apple Canyon Co Corp",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocers-specialty"
     ]
 },
-  "bbox": [-106.581659,35.165631,-106.581659,35.165631],
+  "bbox": [
+    -106.581659,
+    35.165631,
+    -106.581659,
+    35.165631
+],
   "geometry": {"coordinates":[-106.581659,35.165631],"type":"Point"}
 }

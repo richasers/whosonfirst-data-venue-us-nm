@@ -2,13 +2,14 @@
   "id": 186146951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.02516,35.477208,-106.02516,35.477208",
     "geom:latitude":35.477208,
     "geom:longitude":-106.02516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Spruce Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186146951,
-    "wof:lastmodified":1449051485,
+    "wof:lastmodified":1466699248,
     "wof:name":"CNC Lathe Specialties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "shop"
     ]
 },
-  "bbox": [-106.02516,35.477208,-106.02516,35.477208],
+  "bbox": [
+    -106.02516,
+    35.477208,
+    -106.02516,
+    35.477208
+],
   "geometry": {"coordinates":[-106.02516,35.477208],"type":"Point"}
 }

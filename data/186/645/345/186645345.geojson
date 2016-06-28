@@ -2,13 +2,14 @@
   "id": 186645345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.643354,35.151437,-106.643354,35.151437",
     "geom:latitude":35.151437,
     "geom:longitude":-106.643354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Mullen Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186645345,
-    "wof:lastmodified":1449050511,
+    "wof:lastmodified":1466700787,
     "wof:name":"Action Furniture",
     "wof:parent_id":85830119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-106.643354,35.151437,-106.643354,35.151437],
+  "bbox": [
+    -106.643354,
+    35.151437,
+    -106.643354,
+    35.151437
+],
   "geometry": {"coordinates":[-106.643354,35.151437],"type":"Point"}
 }

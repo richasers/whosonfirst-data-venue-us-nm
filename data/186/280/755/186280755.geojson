@@ -2,13 +2,14 @@
   "id": 186280755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.942359,32.899068,-105.942359,32.899068",
     "geom:latitude":32.899068,
     "geom:longitude":-105.942359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Jefferson Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186280755,
-    "wof:lastmodified":1449051699,
+    "wof:lastmodified":1466699067,
     "wof:name":"Electrolysis Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrolysis"
     ]
 },
-  "bbox": [-105.942359,32.899068,-105.942359,32.899068],
+  "bbox": [
+    -105.942359,
+    32.899068,
+    -105.942359,
+    32.899068
+],
   "geometry": {"coordinates":[-105.942359,32.899068],"type":"Point"}
 }

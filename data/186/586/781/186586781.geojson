@@ -2,13 +2,14 @@
   "id": 186586781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.749175,35.052447,-106.749175,35.052447",
     "geom:latitude":35.052447,
     "geom:longitude":-106.749175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10309 Catalina Ct SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186586781,
-    "wof:lastmodified":1449052712,
+    "wof:lastmodified":1466700717,
     "wof:name":"New Jericho Entertainment",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-106.749175,35.052447,-106.749175,35.052447],
-  "geometry": {"coordinates":[-106.749175,35.052447],"type":"Point"}
+  "bbox": [
+    -106.749175,
+    35.052447,
+    -106.749175,
+    35.052447
+],
+  "geometry": {"coordinates":[-106.74917499999999,35.052447],"type":"Point"}
 }

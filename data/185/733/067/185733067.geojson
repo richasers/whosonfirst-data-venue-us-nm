@@ -2,13 +2,14 @@
   "id": 185733067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.637787,35.102981,-106.637787,35.102981",
     "geom:latitude":35.102981,
     "geom:longitude":-106.637787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Mc Knight Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185733067,
-    "wof:lastmodified":1449006826,
+    "wof:lastmodified":1466699008,
     "wof:name":"Performance Connection",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-106.637787,35.102981,-106.637787,35.102981],
+  "bbox": [
+    -106.637787,
+    35.102981,
+    -106.637787,
+    35.102981
+],
   "geometry": {"coordinates":[-106.637787,35.102981],"type":"Point"}
 }

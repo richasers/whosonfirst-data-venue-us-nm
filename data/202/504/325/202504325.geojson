@@ -2,13 +2,14 @@
   "id": 202504325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.317565,34.212577,-103.317565,34.212577",
     "geom:latitude":34.212577,
     "geom:longitude":-103.317565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 New Mexico 467",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202504325,
-    "wof:lastmodified":1449060545,
+    "wof:lastmodified":1466699178,
     "wof:name":"Kaberlein Wood Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.317565,34.212577,-103.317565,34.212577],
+  "bbox": [
+    -103.317565,
+    34.212577,
+    -103.317565,
+    34.212577
+],
   "geometry": {"coordinates":[-103.317565,34.212577],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202432597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.522555,33.408606,-104.522555,33.408606",
     "geom:latitude":33.408606,
     "geom:longitude":-104.522555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 E College Blvd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202432597,
-    "wof:lastmodified":1449060067,
+    "wof:lastmodified":1466698340,
     "wof:name":"J & L Storage Vans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trailer"
     ]
 },
-  "bbox": [-104.522555,33.408606,-104.522555,33.408606],
+  "bbox": [
+    -104.522555,
+    33.408606,
+    -104.522555,
+    33.408606
+],
   "geometry": {"coordinates":[-104.522555,33.408606],"type":"Point"}
 }

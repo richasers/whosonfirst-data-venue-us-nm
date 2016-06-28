@@ -2,13 +2,14 @@
   "id": 202758671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.933546,36.009214,-105.933546,36.009214",
     "geom:latitude":36.009214,
     "geom:longitude":-105.933546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"279 Co Rd 101",
     "sg:city":"Chimayo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202758671,
-    "wof:lastmodified":1449060879,
+    "wof:lastmodified":1466699827,
     "wof:name":"LA Posada De Chimayo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-105.933546,36.009214,-105.933546,36.009214],
-  "geometry": {"coordinates":[-105.933546,36.009214],"type":"Point"}
+  "bbox": [
+    -105.933546,
+    36.009214,
+    -105.933546,
+    36.009214
+],
+  "geometry": {"coordinates":[-105.93354600000001,36.009214],"type":"Point"}
 }

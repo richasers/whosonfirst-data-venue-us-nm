@@ -2,13 +2,14 @@
   "id": 169824251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960077,32.889347,-105.960077,32.889347",
     "geom:latitude":32.889347,
     "geom:longitude":-105.960077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":169824251,
-    "wof:lastmodified":1449033863,
+    "wof:lastmodified":1466698762,
     "wof:name":"Dollar General",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-105.960077,32.889347,-105.960077,32.889347],
+  "bbox": [
+    -105.960077,
+    32.889347,
+    -105.960077,
+    32.889347
+],
   "geometry": {"coordinates":[-105.960077,32.889347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203020001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.597065,31.813796,-106.597065,31.813796",
     "geom:latitude":31.813796,
     "geom:longitude":-106.597065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Nueces St",
     "sg:city":"Sunland Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203020001,
-    "wof:lastmodified":1449025797,
+    "wof:lastmodified":1466699395,
     "wof:name":"Elegar Blinds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "blind"
     ]
 },
-  "bbox": [-106.597065,31.813796,-106.597065,31.813796],
+  "bbox": [
+    -106.597065,
+    31.813796,
+    -106.597065,
+    31.813796
+],
   "geometry": {"coordinates":[-106.597065,31.813796],"type":"Point"}
 }

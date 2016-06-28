@@ -2,13 +2,14 @@
   "id": 353979699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.211647,34.419312,-103.211647,34.419312",
     "geom:latitude":34.419312,
     "geom:longitude":-103.211647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 W 21st St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353979699,
-    "wof:lastmodified":1449020047,
+    "wof:lastmodified":1466699086,
     "wof:name":"Blake's Computer Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "equipment"
     ]
 },
-  "bbox": [-103.211647,34.419312,-103.211647,34.419312],
+  "bbox": [
+    -103.211647,
+    34.419312,
+    -103.211647,
+    34.419312
+],
   "geometry": {"coordinates":[-103.211647,34.419312],"type":"Point"}
 }

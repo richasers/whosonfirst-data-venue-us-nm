@@ -2,13 +2,14 @@
   "id": 202613227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781396,32.319729,-106.781396,32.319729",
     "geom:latitude":32.319729,
     "geom:longitude":-106.781396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 N Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202613227,
-    "wof:lastmodified":1449061304,
+    "wof:lastmodified":1466698568,
     "wof:name":"Action Computers",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.781396,32.319729,-106.781396,32.319729],
+  "bbox": [
+    -106.781396,
+    32.319729,
+    -106.781396,
+    32.319729
+],
   "geometry": {"coordinates":[-106.781396,32.319729],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202429509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.180569,36.758528,-108.180569,36.758528",
     "geom:latitude":36.758528,
     "geom:longitude":-108.180569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 N Ranch Ct",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202429509,
-    "wof:lastmodified":1449062507,
+    "wof:lastmodified":1466698304,
     "wof:name":"R & C Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.180569,36.758528,-108.180569,36.758528],
-  "geometry": {"coordinates":[-108.180569,36.758528],"type":"Point"}
+  "bbox": [
+    -108.180569,
+    36.758528,
+    -108.180569,
+    36.758528
+],
+  "geometry": {"coordinates":[-108.18056900000001,36.758528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202434353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.229442,32.428685,-104.229442,32.428685",
     "geom:latitude":32.428685,
     "geom:longitude":-104.229442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 W Church St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202434353,
-    "wof:lastmodified":1449060674,
+    "wof:lastmodified":1466698365,
     "wof:name":"Down Town Pediatric Clinic",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-104.229442,32.428685,-104.229442,32.428685],
-  "geometry": {"coordinates":[-104.229442,32.428685],"type":"Point"}
+  "bbox": [
+    -104.229442,
+    32.428685,
+    -104.229442,
+    32.428685
+],
+  "geometry": {"coordinates":[-104.22944200000001,32.428685],"type":"Point"}
 }

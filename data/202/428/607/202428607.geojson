@@ -2,13 +2,14 @@
   "id": 202428607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.288854,32.770588,-108.288854,32.770588",
     "geom:latitude":32.770588,
     "geom:longitude":-108.288854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 N Cheyenne Ave",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202428607,
-    "wof:lastmodified":1449062467,
+    "wof:lastmodified":1466698298,
     "wof:name":"Faith Baptist Church Silver Cy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.288854,32.770588,-108.288854,32.770588],
+  "bbox": [
+    -108.288854,
+    32.770588,
+    -108.288854,
+    32.770588
+],
   "geometry": {"coordinates":[-108.288854,32.770588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202712925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.605716,35.075741,-106.605716,35.075741",
     "geom:latitude":35.075741,
     "geom:longitude":-106.605716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Amherst Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202712925,
-    "wof:lastmodified":1449061202,
+    "wof:lastmodified":1466699656,
     "wof:name":"Colibri Consulting",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "to"
     ]
 },
-  "bbox": [-106.605716,35.075741,-106.605716,35.075741],
+  "bbox": [
+    -106.605716,
+    35.075741,
+    -106.605716,
+    35.075741
+],
   "geometry": {"coordinates":[-106.605716,35.075741],"type":"Point"}
 }

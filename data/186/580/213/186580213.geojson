@@ -2,13 +2,14 @@
   "id": 186580213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.436392,36.88488,-104.436392,36.88488",
     "geom:latitude":36.88488,
     "geom:longitude":-104.436392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Clayton Rd",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186580213,
-    "wof:lastmodified":1449052174,
+    "wof:lastmodified":1466700443,
     "wof:name":"Turquoise Tepee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.436392,36.88488,-104.436392,36.88488],
+  "bbox": [
+    -104.436392,
+    36.88488,
+    -104.436392,
+    36.88488
+],
   "geometry": {"coordinates":[-104.436392,36.88488],"type":"Point"}
 }

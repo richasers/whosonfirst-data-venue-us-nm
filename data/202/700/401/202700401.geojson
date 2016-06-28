@@ -2,13 +2,14 @@
   "id": 202700401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.142468,32.703803,-103.142468,32.703803",
     "geom:latitude":32.703803,
     "geom:longitude":-103.142468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 N Leech St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202700401,
-    "wof:lastmodified":1449062432,
+    "wof:lastmodified":1466699608,
     "wof:name":"Phillips Petroleum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.142468,32.703803,-103.142468,32.703803],
-  "geometry": {"coordinates":[-103.142468,32.703803],"type":"Point"}
+  "bbox": [
+    -103.142468,
+    32.703803,
+    -103.142468,
+    32.703803
+],
+  "geometry": {"coordinates":[-103.14246799999999,32.703803],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202907549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.060332,35.585928,-106.060332,35.585928",
     "geom:latitude":35.585928,
     "geom:longitude":-106.060332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Las Lomas Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202907549,
-    "wof:lastmodified":1449062455,
+    "wof:lastmodified":1466700385,
     "wof:name":"Head Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "school"
     ]
 },
-  "bbox": [-106.060332,35.585928,-106.060332,35.585928],
+  "bbox": [
+    -106.060332,
+    35.585928,
+    -106.060332,
+    35.585928
+],
   "geometry": {"coordinates":[-106.060332,35.585928],"type":"Point"}
 }

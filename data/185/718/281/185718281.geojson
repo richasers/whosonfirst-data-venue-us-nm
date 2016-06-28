@@ -2,13 +2,14 @@
   "id": 185718281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.48367,35.191831,-106.48367,35.191831",
     "geom:latitude":35.191831,
     "geom:longitude":-106.48367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Tramway Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185718281,
-    "wof:lastmodified":1449006967,
+    "wof:lastmodified":1466698831,
     "wof:name":"Crest Corp",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.48367,35.191831,-106.48367,35.191831],
+  "bbox": [
+    -106.48367,
+    35.191831,
+    -106.48367,
+    35.191831
+],
   "geometry": {"coordinates":[-106.48367,35.191831],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353984053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.139923,32.701889,-103.139923,32.701889",
     "geom:latitude":32.701889,
     "geom:longitude":-103.139923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Thorp St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353984053,
-    "wof:lastmodified":1449019701,
+    "wof:lastmodified":1466699139,
     "wof:name":"Hobbs Daily News Sun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "dealers-wholesale"
     ]
 },
-  "bbox": [-103.139923,32.701889,-103.139923,32.701889],
+  "bbox": [
+    -103.139923,
+    32.701889,
+    -103.139923,
+    32.701889
+],
   "geometry": {"coordinates":[-103.139923,32.701889],"type":"Point"}
 }

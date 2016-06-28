@@ -2,13 +2,14 @@
   "id": 169822891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.975447,35.664315,-105.975447,35.664315",
     "geom:latitude":35.664315,
     "geom:longitude":-105.975447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 Rosina St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169822891,
-    "wof:lastmodified":1449035864,
+    "wof:lastmodified":1466698766,
     "wof:name":"Ferro Antico",
     "wof:parent_id":85880779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "work"
     ]
 },
-  "bbox": [-105.975447,35.664315,-105.975447,35.664315],
+  "bbox": [
+    -105.975447,
+    35.664315,
+    -105.975447,
+    35.664315
+],
   "geometry": {"coordinates":[-105.975447,35.664315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353971171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.609001,31.8433,-106.609001,31.8433",
     "geom:latitude":31.8433,
     "geom:longitude":-106.609001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5400 Rio Bravo Dr",
     "sg:city":"Santa Teresa",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":353971171,
-    "wof:lastmodified":1449019563,
+    "wof:lastmodified":1466699012,
     "wof:name":"Country Club Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "self"
     ]
 },
-  "bbox": [-106.609001,31.8433,-106.609001,31.8433],
-  "geometry": {"coordinates":[-106.609001,31.8433],"type":"Point"}
+  "bbox": [
+    -106.609001,
+    31.8433,
+    -106.609001,
+    31.8433
+],
+  "geometry": {"coordinates":[-106.60900100000001,31.8433],"type":"Point"}
 }

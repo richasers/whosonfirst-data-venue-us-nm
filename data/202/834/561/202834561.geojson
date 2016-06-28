@@ -2,13 +2,14 @@
   "id": 202834561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.682392,35.058999,-106.682392,35.058999",
     "geom:latitude":35.058999,
     "geom:longitude":-106.682392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1892 Quiet Ln SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202834561,
-    "wof:lastmodified":1449060352,
+    "wof:lastmodified":1466700260,
     "wof:name":"Armenta's Heating & Cooling",
     "wof:parent_id":85892585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.682392,35.058999,-106.682392,35.058999],
-  "geometry": {"coordinates":[-106.682392,35.058999],"type":"Point"}
+  "bbox": [
+    -106.682392,
+    35.058999,
+    -106.682392,
+    35.058999
+],
+  "geometry": {"coordinates":[-106.68239199999999,35.058999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186333483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.965591,35.664494,-105.965591,35.664494",
     "geom:latitude":35.664494,
     "geom:longitude":-105.965591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1627 C de Baca Ln",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186333483,
-    "wof:lastmodified":1449052846,
+    "wof:lastmodified":1466699597,
     "wof:name":"Adobe Man",
     "wof:parent_id":85880783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "clay"
     ]
 },
-  "bbox": [-105.965591,35.664494,-105.965591,35.664494],
+  "bbox": [
+    -105.965591,
+    35.664494,
+    -105.965591,
+    35.664494
+],
   "geometry": {"coordinates":[-105.965591,35.664494],"type":"Point"}
 }

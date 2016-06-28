@@ -2,13 +2,14 @@
   "id": 202503421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.752648,32.266322,-106.752648,32.266322",
     "geom:latitude":32.266322,
     "geom:longitude":-106.752648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4021 Oleta Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202503421,
-    "wof:lastmodified":1449062655,
+    "wof:lastmodified":1466699169,
     "wof:name":"Wild Turkey Sportmen's Assn",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.752648,32.266322,-106.752648,32.266322],
-  "geometry": {"coordinates":[-106.752648,32.266322],"type":"Point"}
+  "bbox": [
+    -106.752648,
+    32.266322,
+    -106.752648,
+    32.266322
+],
+  "geometry": {"coordinates":[-106.75264799999999,32.266322],"type":"Point"}
 }

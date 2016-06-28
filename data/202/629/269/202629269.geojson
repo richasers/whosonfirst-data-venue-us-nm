@@ -2,13 +2,14 @@
   "id": 202629269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.63991,35.090915,-106.63991,35.090915",
     "geom:latitude":35.090915,
     "geom:longitude":-106.63991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202629269,
-    "wof:lastmodified":1449062065,
+    "wof:lastmodified":1466698826,
     "wof:name":"Second Presbyterian Church",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.63991,35.090915,-106.63991,35.090915],
+  "bbox": [
+    -106.63991,
+    35.090915,
+    -106.63991,
+    35.090915
+],
   "geometry": {"coordinates":[-106.63991,35.090915],"type":"Point"}
 }

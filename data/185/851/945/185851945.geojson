@@ -2,13 +2,14 @@
   "id": 185851945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.222339,32.40366,-104.222339,32.40366",
     "geom:latitude":32.40366,
     "geom:longitude":-104.222339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 E Fiesta Dr",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185851945,
-    "wof:lastmodified":1449007656,
+    "wof:lastmodified":1466698033,
     "wof:name":"Army National Guard Recruiter",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-104.222339,32.40366,-104.222339,32.40366],
-  "geometry": {"coordinates":[-104.222339,32.40366],"type":"Point"}
+  "bbox": [
+    -104.222339,
+    32.40366,
+    -104.222339,
+    32.40366
+],
+  "geometry": {"coordinates":[-104.22233900000001,32.40366],"type":"Point"}
 }

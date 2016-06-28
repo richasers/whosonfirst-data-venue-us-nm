@@ -2,13 +2,14 @@
   "id": 202828765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.122477,32.764344,-108.122477,32.764344",
     "geom:latitude":32.764344,
     "geom:longitude":-108.122477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Watson St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202828765,
-    "wof:lastmodified":1449061408,
+    "wof:lastmodified":1466700005,
     "wof:name":"Moon Bounce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "planning"
     ]
 },
-  "bbox": [-108.122477,32.764344,-108.122477,32.764344],
+  "bbox": [
+    -108.122477,
+    32.764344,
+    -108.122477,
+    32.764344
+],
   "geometry": {"coordinates":[-108.122477,32.764344],"type":"Point"}
 }

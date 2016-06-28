@@ -2,13 +2,14 @@
   "id": 202671761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.681309,34.775751,-106.681309,34.775751",
     "geom:latitude":34.775751,
     "geom:longitude":-106.681309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 S el Cerro Loop",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202671761,
-    "wof:lastmodified":1449060692,
+    "wof:lastmodified":1466699491,
     "wof:name":"4 R Industries Inc",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.681309,34.775751,-106.681309,34.775751],
+  "bbox": [
+    -106.681309,
+    34.775751,
+    -106.681309,
+    34.775751
+],
   "geometry": {"coordinates":[-106.681309,34.775751],"type":"Point"}
 }

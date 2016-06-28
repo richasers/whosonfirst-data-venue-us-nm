@@ -2,13 +2,14 @@
   "id": 169744227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.525066,35.086973,-106.525066,35.086973",
     "geom:latitude":35.086973,
     "geom:longitude":-106.525066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11200 Lomas Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169744227,
-    "wof:lastmodified":1449033878,
+    "wof:lastmodified":1466698026,
     "wof:name":"Employee Benefit Consultants",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.525066,35.086973,-106.525066,35.086973],
+  "bbox": [
+    -106.525066,
+    35.086973,
+    -106.525066,
+    35.086973
+],
   "geometry": {"coordinates":[-106.525066,35.086973],"type":"Point"}
 }

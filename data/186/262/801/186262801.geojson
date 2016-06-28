@@ -2,13 +2,14 @@
   "id": 186262801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.624281,35.05852,-106.624281,35.05852",
     "geom:latitude":35.05852,
     "geom:longitude":-106.624281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 Buena Vista Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186262801,
-    "wof:lastmodified":1449052027,
+    "wof:lastmodified":1466698823,
     "wof:name":"Corona Del Sol Beauty Salon",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.624281,35.05852,-106.624281,35.05852],
+  "bbox": [
+    -106.624281,
+    35.05852,
+    -106.624281,
+    35.05852
+],
   "geometry": {"coordinates":[-106.624281,35.05852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203055551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.535143,35.088164,-106.535143,35.088164",
     "geom:latitude":35.088164,
     "geom:longitude":-106.535143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Wade Cir NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203055551,
-    "wof:lastmodified":1449025348,
+    "wof:lastmodified":1466698190,
     "wof:name":"Metropolis Entertainment",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-106.535143,35.088164,-106.535143,35.088164],
-  "geometry": {"coordinates":[-106.535143,35.088164],"type":"Point"}
+  "bbox": [
+    -106.535143,
+    35.088164,
+    -106.535143,
+    35.088164
+],
+  "geometry": {"coordinates":[-106.53514300000001,35.088164],"type":"Point"}
 }

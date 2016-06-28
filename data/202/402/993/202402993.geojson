@@ -2,13 +2,14 @@
   "id": 202402993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.367776,32.943948,-103.367776,32.943948",
     "geom:latitude":32.943948,
     "geom:longitude":-103.367776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 W Ave D",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202402993,
-    "wof:lastmodified":1449060926,
+    "wof:lastmodified":1466697970,
     "wof:name":"Lovington Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lounge"
     ]
 },
-  "bbox": [-103.367776,32.943948,-103.367776,32.943948],
-  "geometry": {"coordinates":[-103.367776,32.943948],"type":"Point"}
+  "bbox": [
+    -103.367776,
+    32.943948,
+    -103.367776,
+    32.943948
+],
+  "geometry": {"coordinates":[-103.36777600000001,32.943948],"type":"Point"}
 }

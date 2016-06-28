@@ -2,13 +2,14 @@
   "id": 186547511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.595974,35.177934,-106.595974,35.177934",
     "geom:latitude":35.177934,
     "geom:longitude":-106.595974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4516 Anaheim Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186547511,
-    "wof:lastmodified":1449050515,
+    "wof:lastmodified":1466700295,
     "wof:name":"Quatro Manufacturing Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-106.595974,35.177934,-106.595974,35.177934],
+  "bbox": [
+    -106.595974,
+    35.177934,
+    -106.595974,
+    35.177934
+],
   "geometry": {"coordinates":[-106.595974,35.177934],"type":"Point"}
 }

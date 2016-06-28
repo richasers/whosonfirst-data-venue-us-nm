@@ -2,13 +2,14 @@
   "id": 186005477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.554495,35.29592,-106.554495,35.29592",
     "geom:latitude":35.29592,
     "geom:longitude":-106.554495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Denny Rd",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186005477,
-    "wof:lastmodified":1449052810,
+    "wof:lastmodified":1466697751,
     "wof:name":"Southland Rv Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "boat"
     ]
 },
-  "bbox": [-106.554495,35.29592,-106.554495,35.29592],
+  "bbox": [
+    -106.554495,
+    35.29592,
+    -106.554495,
+    35.29592
+],
   "geometry": {"coordinates":[-106.554495,35.29592],"type":"Point"}
 }

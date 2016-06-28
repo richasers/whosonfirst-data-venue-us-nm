@@ -2,13 +2,14 @@
   "id": 203117851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.144762,32.700731,-103.144762,32.700731",
     "geom:latitude":32.700731,
     "geom:longitude":-103.144762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 S Grimes St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203117851,
-    "wof:lastmodified":1449026270,
+    "wof:lastmodified":1466698919,
     "wof:name":"Dandy Specialties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-103.144762,32.700731,-103.144762,32.700731],
+  "bbox": [
+    -103.144762,
+    32.700731,
+    -103.144762,
+    32.700731
+],
   "geometry": {"coordinates":[-103.144762,32.700731],"type":"Point"}
 }

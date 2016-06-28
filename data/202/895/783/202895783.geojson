@@ -2,13 +2,14 @@
   "id": 202895783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.646526,35.110645,-106.646526,35.110645",
     "geom:latitude":35.110645,
     "geom:longitude":-106.646526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2524 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202895783,
-    "wof:lastmodified":1449061189,
+    "wof:lastmodified":1466700334,
     "wof:name":"Menaul Chevron",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-106.646526,35.110645,-106.646526,35.110645],
-  "geometry": {"coordinates":[-106.646526,35.110645],"type":"Point"}
+  "bbox": [
+    -106.646526,
+    35.110645,
+    -106.646526,
+    35.110645
+],
+  "geometry": {"coordinates":[-106.64652599999999,35.110645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353929353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.65228,35.12665,-106.65228,35.12665",
     "geom:latitude":35.12665,
     "geom:longitude":-106.65228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 la Luz Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":353929353,
-    "wof:lastmodified":1449019239,
+    "wof:lastmodified":1466697984,
     "wof:name":"Superior Fence",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "fence-sales"
     ]
 },
-  "bbox": [-106.65228,35.12665,-106.65228,35.12665],
+  "bbox": [
+    -106.65228,
+    35.12665,
+    -106.65228,
+    35.12665
+],
   "geometry": {"coordinates":[-106.65228,35.12665],"type":"Point"}
 }

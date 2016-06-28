@@ -2,13 +2,14 @@
   "id": 185972655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.811377,32.296543,-106.811377,32.296543",
     "geom:latitude":32.296543,
     "geom:longitude":-106.811377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2865 W Amador Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185972655,
-    "wof:lastmodified":1449007440,
+    "wof:lastmodified":1466699567,
     "wof:name":"South-Central Solid Waste Auth",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "program"
     ]
 },
-  "bbox": [-106.811377,32.296543,-106.811377,32.296543],
-  "geometry": {"coordinates":[-106.811377,32.296543],"type":"Point"}
+  "bbox": [
+    -106.811377,
+    32.296543,
+    -106.811377,
+    32.296543
+],
+  "geometry": {"coordinates":[-106.81137699999999,32.296543],"type":"Point"}
 }

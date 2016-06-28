@@ -2,13 +2,14 @@
   "id": 185696283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.00521,35.655334,-106.00521,35.655334",
     "geom:latitude":35.655334,
     "geom:longitude":-106.00521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2455 Callej\ufffd\ufffdn de Rita",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185696283,
-    "wof:lastmodified":1449006728,
+    "wof:lastmodified":1466698608,
     "wof:name":"Silver Rain Bird",
     "wof:parent_id":85880845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.00521,35.655334,-106.00521,35.655334],
-  "geometry": {"coordinates":[-106.00521,35.655334],"type":"Point"}
+  "bbox": [
+    -106.00521,
+    35.655334,
+    -106.00521,
+    35.655334
+],
+  "geometry": {"coordinates":[-106.00521000000001,35.655334],"type":"Point"}
 }

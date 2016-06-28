@@ -2,13 +2,14 @@
   "id": 202968105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.826713,32.364298,-106.826713,32.364298",
     "geom:latitude":32.364298,
     "geom:longitude":-106.826713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4945 Raevin Ct",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202968105,
-    "wof:lastmodified":1449060267,
+    "wof:lastmodified":1466700522,
     "wof:name":"Coyote Closets & Central Vacs",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-106.826713,32.364298,-106.826713,32.364298],
+  "bbox": [
+    -106.826713,
+    32.364298,
+    -106.826713,
+    32.364298
+],
   "geometry": {"coordinates":[-106.826713,32.364298],"type":"Point"}
 }

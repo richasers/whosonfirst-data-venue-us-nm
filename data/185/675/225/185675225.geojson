@@ -2,13 +2,14 @@
   "id": 185675225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.358174,32.961634,-103.358174,32.961634",
     "geom:latitude":32.961634,
     "geom:longitude":-103.358174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 W Dogwood Ave",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185675225,
-    "wof:lastmodified":1449007456,
+    "wof:lastmodified":1466698404,
     "wof:name":"Horizon Windshield Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "replacement"
     ]
 },
-  "bbox": [-103.358174,32.961634,-103.358174,32.961634],
-  "geometry": {"coordinates":[-103.358174,32.961634],"type":"Point"}
+  "bbox": [
+    -103.358174,
+    32.961634,
+    -103.358174,
+    32.961634
+],
+  "geometry": {"coordinates":[-103.35817400000001,32.961634],"type":"Point"}
 }

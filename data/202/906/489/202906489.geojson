@@ -2,13 +2,14 @@
   "id": 202906489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.732516,35.055243,-106.732516,35.055243",
     "geom:latitude":35.055243,
     "geom:longitude":-106.732516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8908 Shone Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202906489,
-    "wof:lastmodified":1449061077,
+    "wof:lastmodified":1466700379,
     "wof:name":"Stan's Precision Specialty Co",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "partition"
     ]
 },
-  "bbox": [-106.732516,35.055243,-106.732516,35.055243],
+  "bbox": [
+    -106.732516,
+    35.055243,
+    -106.732516,
+    35.055243
+],
   "geometry": {"coordinates":[-106.732516,35.055243],"type":"Point"}
 }

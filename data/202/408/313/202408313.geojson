@@ -2,13 +2,14 @@
   "id": 202408313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.204227,34.403833,-103.204227,34.403833",
     "geom:latitude":34.403833,
     "geom:longitude":-103.204227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 E 6th St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202408313,
-    "wof:lastmodified":1449060411,
+    "wof:lastmodified":1466698039,
     "wof:name":"Gavin Maloof & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ale"
     ]
 },
-  "bbox": [-103.204227,34.403833,-103.204227,34.403833],
+  "bbox": [
+    -103.204227,
+    34.403833,
+    -103.204227,
+    34.403833
+],
   "geometry": {"coordinates":[-103.204227,34.403833],"type":"Point"}
 }

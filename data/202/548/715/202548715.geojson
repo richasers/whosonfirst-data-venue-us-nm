@@ -2,13 +2,14 @@
   "id": 202548715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.702546,35.158516,-106.702546,35.158516",
     "geom:latitude":35.158516,
     "geom:longitude":-106.702546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6442 Lamy St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202548715,
-    "wof:lastmodified":1449061845,
+    "wof:lastmodified":1466697627,
     "wof:name":"Fireplaces Of The Southwest",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fireplace"
     ]
 },
-  "bbox": [-106.702546,35.158516,-106.702546,35.158516],
+  "bbox": [
+    -106.702546,
+    35.158516,
+    -106.702546,
+    35.158516
+],
   "geometry": {"coordinates":[-106.702546,35.158516],"type":"Point"}
 }

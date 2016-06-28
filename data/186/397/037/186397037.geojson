@@ -2,13 +2,14 @@
   "id": 186397037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550305,35.077834,-106.550305,35.077834",
     "geom:latitude":35.077834,
     "geom:longitude":-106.550305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186397037,
-    "wof:lastmodified":1449051442,
+    "wof:lastmodified":1466699840,
     "wof:name":"Automotive Head Exchange",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engine"
     ]
 },
-  "bbox": [-106.550305,35.077834,-106.550305,35.077834],
-  "geometry": {"coordinates":[-106.550305,35.077834],"type":"Point"}
+  "bbox": [
+    -106.550305,
+    35.077834,
+    -106.550305,
+    35.077834
+],
+  "geometry": {"coordinates":[-106.55030499999999,35.077834],"type":"Point"}
 }

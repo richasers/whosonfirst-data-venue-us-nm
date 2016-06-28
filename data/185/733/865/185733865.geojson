@@ -2,13 +2,14 @@
   "id": 185733865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.754695,32.312123,-106.754695,32.312123",
     "geom:latitude":32.312123,
     "geom:longitude":-106.754695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2141 E Lohman Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185733865,
-    "wof:lastmodified":1449006827,
+    "wof:lastmodified":1466699448,
     "wof:name":"Lube N Go",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-106.754695,32.312123,-106.754695,32.312123],
+  "bbox": [
+    -106.754695,
+    32.312123,
+    -106.754695,
+    32.312123
+],
   "geometry": {"coordinates":[-106.754695,32.312123],"type":"Point"}
 }

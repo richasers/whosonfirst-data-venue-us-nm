@@ -2,13 +2,14 @@
   "id": 202780775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.502204,35.137076,-106.502204,35.137076",
     "geom:latitude":35.137076,
     "geom:longitude":-106.502204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12125 Genoa St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202780775,
-    "wof:lastmodified":1449062005,
+    "wof:lastmodified":1466699880,
     "wof:name":"Kas Enterprize Ltd",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-106.502204,35.137076,-106.502204,35.137076],
-  "geometry": {"coordinates":[-106.502204,35.137076],"type":"Point"}
+  "bbox": [
+    -106.502204,
+    35.137076,
+    -106.502204,
+    35.137076
+],
+  "geometry": {"coordinates":[-106.50220400000001,35.137076],"type":"Point"}
 }

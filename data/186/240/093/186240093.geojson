@@ -2,13 +2,14 @@
   "id": 186240093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.603971,32.002095,-106.603971,32.002095",
     "geom:latitude":32.002095,
     "geom:longitude":-106.603971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Lincoln St",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186240093,
-    "wof:lastmodified":1449050521,
+    "wof:lastmodified":1466698531,
     "wof:name":"Help Nm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-106.603971,32.002095,-106.603971,32.002095],
+  "bbox": [
+    -106.603971,
+    32.002095,
+    -106.603971,
+    32.002095
+],
   "geometry": {"coordinates":[-106.603971,32.002095],"type":"Point"}
 }

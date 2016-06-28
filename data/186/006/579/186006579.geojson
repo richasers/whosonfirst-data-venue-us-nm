@@ -2,13 +2,14 @@
   "id": 186006579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.181896,36.748154,-108.181896,36.748154",
     "geom:latitude":36.748154,
     "geom:longitude":-108.181896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1903 E 20th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186006579,
-    "wof:lastmodified":1449052486,
+    "wof:lastmodified":1466697767,
     "wof:name":"Continental Loans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institution"
     ]
 },
-  "bbox": [-108.181896,36.748154,-108.181896,36.748154],
-  "geometry": {"coordinates":[-108.181896,36.748154],"type":"Point"}
+  "bbox": [
+    -108.181896,
+    36.748154,
+    -108.181896,
+    36.748154
+],
+  "geometry": {"coordinates":[-108.18189599999999,36.748154],"type":"Point"}
 }

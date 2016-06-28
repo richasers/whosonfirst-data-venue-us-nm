@@ -2,13 +2,14 @@
   "id": 202691939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.660804,33.327036,-105.660804,33.327036",
     "geom:latitude":33.327036,
     "geom:longitude":-105.660804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202691939,
-    "wof:lastmodified":1449060328,
+    "wof:lastmodified":1466699713,
     "wof:name":"Regional Cooperative Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.660804,33.327036,-105.660804,33.327036],
+  "bbox": [
+    -105.660804,
+    33.327036,
+    -105.660804,
+    33.327036
+],
   "geometry": {"coordinates":[-105.660804,33.327036],"type":"Point"}
 }

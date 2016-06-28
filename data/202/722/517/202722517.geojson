@@ -2,13 +2,14 @@
   "id": 202722517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615062,35.125463,-106.615062,35.125463",
     "geom:latitude":35.125463,
     "geom:longitude":-106.615062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Vassar Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202722517,
-    "wof:lastmodified":1449060994,
+    "wof:lastmodified":1466699813,
     "wof:name":"Bank of Albuquerque N A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "commercial"
     ]
 },
-  "bbox": [-106.615062,35.125463,-106.615062,35.125463],
-  "geometry": {"coordinates":[-106.615062,35.125463],"type":"Point"}
+  "bbox": [
+    -106.615062,
+    35.125463,
+    -106.615062,
+    35.125463
+],
+  "geometry": {"coordinates":[-106.61506199999999,35.125463],"type":"Point"}
 }

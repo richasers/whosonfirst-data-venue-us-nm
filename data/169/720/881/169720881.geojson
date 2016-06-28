@@ -2,13 +2,14 @@
   "id": 169720881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.15632,32.775896,-108.15632,32.775896",
     "geom:latitude":32.775896,
     "geom:longitude":-108.15632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Cleveland St",
     "sg:city":"Santa Clara",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169720881,
-    "wof:lastmodified":1449033482,
+    "wof:lastmodified":1466697800,
     "wof:name":"Totten Custom Gunsmithing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-108.15632,32.775896,-108.15632,32.775896],
-  "geometry": {"coordinates":[-108.15632,32.775896],"type":"Point"}
+  "bbox": [
+    -108.15632,
+    32.775896,
+    -108.15632,
+    32.775896
+],
+  "geometry": {"coordinates":[-108.15631999999999,32.775896],"type":"Point"}
 }

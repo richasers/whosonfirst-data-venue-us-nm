@@ -2,13 +2,14 @@
   "id": 186348345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.962337,35.643683,-105.962337,35.643683",
     "geom:latitude":35.643683,
     "geom:longitude":-105.962337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1899 Cam Lumbre",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186348345,
-    "wof:lastmodified":1449050394,
+    "wof:lastmodified":1466699666,
     "wof:name":"Roylance Enterprises",
     "wof:parent_id":85880775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skin"
     ]
 },
-  "bbox": [-105.962337,35.643683,-105.962337,35.643683],
-  "geometry": {"coordinates":[-105.962337,35.643683],"type":"Point"}
+  "bbox": [
+    -105.962337,
+    35.643683,
+    -105.962337,
+    35.643683
+],
+  "geometry": {"coordinates":[-105.96233700000001,35.643683],"type":"Point"}
 }

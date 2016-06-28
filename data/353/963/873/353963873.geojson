@@ -2,13 +2,14 @@
   "id": 353963873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.711509,35.132069,-106.711509,35.132069",
     "geom:latitude":35.132069,
     "geom:longitude":-106.711509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6325 Milne Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -67,16 +68,22 @@
         }
     ],
     "wof:id":353963873,
-    "wof:lastmodified":1449018502,
+    "wof:lastmodified":1466698850,
     "wof:name":"Unity Of Albuquerque and Rio Rancho",
     "wof:parent_id":85865321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-non-denominational"
     ]
 },
-  "bbox": [-106.711509,35.132069,-106.711509,35.132069],
-  "geometry": {"coordinates":[-106.711509,35.132069],"type":"Point"}
+  "bbox": [
+    -106.711509,
+    35.132069,
+    -106.711509,
+    35.132069
+],
+  "geometry": {"coordinates":[-106.71150900000001,35.132069],"type":"Point"}
 }

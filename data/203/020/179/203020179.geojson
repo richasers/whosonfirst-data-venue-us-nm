@@ -2,13 +2,14 @@
   "id": 203020179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.499033,35.125934,-106.499033,35.125934",
     "geom:latitude":35.125934,
     "geom:longitude":-106.499033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3724 Mount Rainier Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203020179,
-    "wof:lastmodified":1449025803,
+    "wof:lastmodified":1466697819,
     "wof:name":"Pit Stop Windshield Repair",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "glass"
     ]
 },
-  "bbox": [-106.499033,35.125934,-106.499033,35.125934],
+  "bbox": [
+    -106.499033,
+    35.125934,
+    -106.499033,
+    35.125934
+],
   "geometry": {"coordinates":[-106.499033,35.125934],"type":"Point"}
 }

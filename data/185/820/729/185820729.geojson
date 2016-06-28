@@ -2,13 +2,14 @@
   "id": 185820729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.675523,35.117939,-106.675523,35.117939",
     "geom:latitude":35.117939,
     "geom:longitude":-106.675523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 Rio Grande Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185820729,
-    "wof:lastmodified":1449007461,
+    "wof:lastmodified":1466697691,
     "wof:name":"Brite Shine",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-106.675523,35.117939,-106.675523,35.117939],
+  "bbox": [
+    -106.675523,
+    35.117939,
+    -106.675523,
+    35.117939
+],
   "geometry": {"coordinates":[-106.675523,35.117939],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202826391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.603786,35.131013,-106.603786,35.131013",
     "geom:latitude":35.131013,
     "geom:longitude":-106.603786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4177 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":202826391,
-    "wof:lastmodified":1449061944,
+    "wof:lastmodified":1466699990,
     "wof:name":"P O S Professional Office Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "form"
     ]
 },
-  "bbox": [-106.603786,35.131013,-106.603786,35.131013],
+  "bbox": [
+    -106.603786,
+    35.131013,
+    -106.603786,
+    35.131013
+],
   "geometry": {"coordinates":[-106.603786,35.131013],"type":"Point"}
 }

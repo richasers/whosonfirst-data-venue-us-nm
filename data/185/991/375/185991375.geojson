@@ -2,13 +2,14 @@
   "id": 185991375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.920951,35.623014,-105.920951,35.623014",
     "geom:latitude":35.623014,
     "geom:longitude":-105.920951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Old Agua Fria Rd E",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185991375,
-    "wof:lastmodified":1449007105,
+    "wof:lastmodified":1466699587,
     "wof:name":"Evangeline Pacheco",
     "wof:parent_id":85880773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.920951,35.623014,-105.920951,35.623014],
+  "bbox": [
+    -105.920951,
+    35.623014,
+    -105.920951,
+    35.623014
+],
   "geometry": {"coordinates":[-105.920951,35.623014],"type":"Point"}
 }

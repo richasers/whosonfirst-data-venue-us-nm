@@ -2,13 +2,14 @@
   "id": 186342681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.755544,35.523881,-108.755544,35.523881",
     "geom:latitude":35.523881,
     "geom:longitude":-108.755544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Hst US Hwy 66",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186342681,
-    "wof:lastmodified":1449052842,
+    "wof:lastmodified":1466699652,
     "wof:name":"Nizhoni Trading Co",
     "wof:parent_id":85802855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-108.755544,35.523881,-108.755544,35.523881],
+  "bbox": [
+    -108.755544,
+    35.523881,
+    -108.755544,
+    35.523881
+],
   "geometry": {"coordinates":[-108.755544,35.523881],"type":"Point"}
 }

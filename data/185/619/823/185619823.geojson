@@ -2,13 +2,14 @@
   "id": 185619823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.497321,35.161728,-106.497321,35.161728",
     "geom:latitude":35.161728,
     "geom:longitude":-106.497321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2128 Globe Willow Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185619823,
-    "wof:lastmodified":1449006904,
+    "wof:lastmodified":1466697822,
     "wof:name":"Fine Floors",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-106.497321,35.161728,-106.497321,35.161728],
+  "bbox": [
+    -106.497321,
+    35.161728,
+    -106.497321,
+    35.161728
+],
   "geometry": {"coordinates":[-106.497321,35.161728],"type":"Point"}
 }

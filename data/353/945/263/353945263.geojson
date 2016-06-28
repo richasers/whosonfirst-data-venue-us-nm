@@ -2,13 +2,14 @@
   "id": 353945263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586601,35.10799,-106.586601,35.10799",
     "geom:latitude":35.10799,
     "geom:longitude":-106.586601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2529 San Mateo Blvd NE Unit 7",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353945263,
-    "wof:lastmodified":1449018476,
+    "wof:lastmodified":1466698431,
     "wof:name":"Rent City",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "ovens-dealers"
     ]
 },
-  "bbox": [-106.586601,35.10799,-106.586601,35.10799],
+  "bbox": [
+    -106.586601,
+    35.10799,
+    -106.586601,
+    35.10799
+],
   "geometry": {"coordinates":[-106.586601,35.10799],"type":"Point"}
 }

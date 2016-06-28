@@ -2,13 +2,14 @@
   "id": 186335911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.685916,34.802028,-106.685916,34.802028",
     "geom:latitude":34.802028,
     "geom:longitude":-106.685916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Monica Rd",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186335911,
-    "wof:lastmodified":1449052138,
+    "wof:lastmodified":1466699736,
     "wof:name":"Native Air Co",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.685916,34.802028,-106.685916,34.802028],
-  "geometry": {"coordinates":[-106.685916,34.802028],"type":"Point"}
+  "bbox": [
+    -106.685916,
+    34.802028,
+    -106.685916,
+    34.802028
+],
+  "geometry": {"coordinates":[-106.68591600000001,34.802028],"type":"Point"}
 }

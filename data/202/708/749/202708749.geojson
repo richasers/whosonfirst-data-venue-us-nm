@@ -2,13 +2,14 @@
   "id": 202708749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.695217,35.096082,-106.695217,35.096082",
     "geom:latitude":35.096082,
     "geom:longitude":-106.695217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Atrisco Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202708749,
-    "wof:lastmodified":1449060505,
+    "wof:lastmodified":1466699630,
     "wof:name":"M G Creative Mercury Grafix",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.695217,35.096082,-106.695217,35.096082],
+  "bbox": [
+    -106.695217,
+    35.096082,
+    -106.695217,
+    35.096082
+],
   "geometry": {"coordinates":[-106.695217,35.096082],"type":"Point"}
 }

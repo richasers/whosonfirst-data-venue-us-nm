@@ -2,13 +2,14 @@
   "id": 185647449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.980483,32.856394,-105.980483,32.856394",
     "geom:latitude":32.856394,
     "geom:longitude":-105.980483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 Paradise Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185647449,
-    "wof:lastmodified":1449007385,
+    "wof:lastmodified":1466698100,
     "wof:name":"Boy Scouts of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.980483,32.856394,-105.980483,32.856394],
-  "geometry": {"coordinates":[-105.980483,32.856394],"type":"Point"}
+  "bbox": [
+    -105.980483,
+    32.856394,
+    -105.980483,
+    32.856394
+],
+  "geometry": {"coordinates":[-105.98048300000001,32.856394],"type":"Point"}
 }

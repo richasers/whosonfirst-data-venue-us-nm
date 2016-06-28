@@ -2,13 +2,14 @@
   "id": 185966545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.518451,33.394307,-104.518451,33.394307",
     "geom:latitude":33.394307,
     "geom:longitude":-104.518451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 E 2nd St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185966545,
-    "wof:lastmodified":1449006604,
+    "wof:lastmodified":1466699425,
     "wof:name":"Margaritas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-104.518451,33.394307,-104.518451,33.394307],
+  "bbox": [
+    -104.518451,
+    33.394307,
+    -104.518451,
+    33.394307
+],
   "geometry": {"coordinates":[-104.518451,33.394307],"type":"Point"}
 }

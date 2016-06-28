@@ -2,13 +2,14 @@
   "id": 186628771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.015553,35.681488,-106.015553,35.681488",
     "geom:latitude":35.681488,
     "geom:longitude":-106.015553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Sierra Verde",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186628771,
-    "wof:lastmodified":1449052503,
+    "wof:lastmodified":1466700816,
     "wof:name":"Eric I Smith Constructor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.015553,35.681488,-106.015553,35.681488],
+  "bbox": [
+    -106.015553,
+    35.681488,
+    -106.015553,
+    35.681488
+],
   "geometry": {"coordinates":[-106.015553,35.681488],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185678147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.055335,34.761207,-106.055335,34.761207",
     "geom:latitude":34.761207,
     "geom:longitude":-106.055335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 5th St",
     "sg:city":"Estancia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185678147,
-    "wof:lastmodified":1449007402,
+    "wof:lastmodified":1466698427,
     "wof:name":"Gustin Hardware Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-106.055335,34.761207,-106.055335,34.761207],
+  "bbox": [
+    -106.055335,
+    34.761207,
+    -106.055335,
+    34.761207
+],
   "geometry": {"coordinates":[-106.055335,34.761207],"type":"Point"}
 }

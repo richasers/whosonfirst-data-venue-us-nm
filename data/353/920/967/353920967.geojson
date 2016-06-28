@@ -2,13 +2,14 @@
   "id": 353920967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.652161,35.088341,-106.652161,35.088341",
     "geom:latitude":35.088341,
     "geom:longitude":-106.652161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Marquette Ave NW Ste 1480",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353920967,
-    "wof:lastmodified":1449020242,
+    "wof:lastmodified":1466697752,
     "wof:name":"Law Offices of Craig A Orraj",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "paralegal"
     ]
 },
-  "bbox": [-106.652161,35.088341,-106.652161,35.088341],
-  "geometry": {"coordinates":[-106.652161,35.088341],"type":"Point"}
+  "bbox": [
+    -106.652161,
+    35.088341,
+    -106.652161,
+    35.088341
+],
+  "geometry": {"coordinates":[-106.65216100000001,35.088341],"type":"Point"}
 }

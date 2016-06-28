@@ -2,13 +2,14 @@
   "id": 202505601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.005736,36.831724,-108.005736,36.831724",
     "geom:latitude":36.831724,
     "geom:longitude":-108.005736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 Heiland Rd",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202505601,
-    "wof:lastmodified":1449062239,
+    "wof:lastmodified":1466699185,
     "wof:name":"Silver Spurs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-108.005736,36.831724,-108.005736,36.831724],
+  "bbox": [
+    -108.005736,
+    36.831724,
+    -108.005736,
+    36.831724
+],
   "geometry": {"coordinates":[-108.005736,36.831724],"type":"Point"}
 }

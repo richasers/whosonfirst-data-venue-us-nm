@@ -2,13 +2,14 @@
   "id": 185884421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.723254,35.101684,-106.723254,35.101684",
     "geom:latitude":35.101684,
     "geom:longitude":-106.723254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7636 Sandlewood Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185884421,
-    "wof:lastmodified":1449007916,
+    "wof:lastmodified":1466698362,
     "wof:name":"D2s",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "digital"
     ]
 },
-  "bbox": [-106.723254,35.101684,-106.723254,35.101684],
+  "bbox": [
+    -106.723254,
+    35.101684,
+    -106.723254,
+    35.101684
+],
   "geometry": {"coordinates":[-106.723254,35.101684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203009929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.73552,35.074325,-106.73552,35.074325",
     "geom:latitude":35.074325,
     "geom:longitude":-106.73552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9200 Central Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":203009929,
-    "wof:lastmodified":1449026844,
+    "wof:lastmodified":1466697703,
     "wof:name":"Duke City Lights",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.73552,35.074325,-106.73552,35.074325],
-  "geometry": {"coordinates":[-106.73552,35.074325],"type":"Point"}
+  "bbox": [
+    -106.73552,
+    35.074325,
+    -106.73552,
+    35.074325
+],
+  "geometry": {"coordinates":[-106.73551999999999,35.074325],"type":"Point"}
 }

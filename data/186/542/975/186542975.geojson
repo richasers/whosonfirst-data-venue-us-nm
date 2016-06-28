@@ -2,13 +2,14 @@
   "id": 186542975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.70574,34.788846,-106.70574,34.788846",
     "geom:latitude":34.788846,
     "geom:longitude":-106.70574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Smith Loop",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186542975,
-    "wof:lastmodified":1449052402,
+    "wof:lastmodified":1466700278,
     "wof:name":"Four Pines Alpacas LLC",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cotton"
     ]
 },
-  "bbox": [-106.70574,34.788846,-106.70574,34.788846],
-  "geometry": {"coordinates":[-106.70574,34.788846],"type":"Point"}
+  "bbox": [
+    -106.70574,
+    34.788846,
+    -106.70574,
+    34.788846
+],
+  "geometry": {"coordinates":[-106.70574000000001,34.788846],"type":"Point"}
 }

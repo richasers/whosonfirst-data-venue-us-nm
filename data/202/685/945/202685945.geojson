@@ -2,13 +2,14 @@
   "id": 202685945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.58643,35.123293,-106.58643,35.123293",
     "geom:latitude":35.123293,
     "geom:longitude":-106.58643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202685945,
-    "wof:lastmodified":1449062567,
+    "wof:lastmodified":1466699553,
     "wof:name":"Ata Services",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "staffing"
     ]
 },
-  "bbox": [-106.58643,35.123293,-106.58643,35.123293],
-  "geometry": {"coordinates":[-106.58643,35.123293],"type":"Point"}
+  "bbox": [
+    -106.58643,
+    35.123293,
+    -106.58643,
+    35.123293
+],
+  "geometry": {"coordinates":[-106.58642999999999,35.123293],"type":"Point"}
 }

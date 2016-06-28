@@ -2,13 +2,14 @@
   "id": 353963309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.707703,35.148294,-106.707703,35.148294",
     "geom:latitude":35.148294,
     "geom:longitude":-106.707703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5508 Sweetwater Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353963309,
-    "wof:lastmodified":1449018501,
+    "wof:lastmodified":1466698834,
     "wof:name":"A I Party Jumpers",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "favors"
     ]
 },
-  "bbox": [-106.707703,35.148294,-106.707703,35.148294],
+  "bbox": [
+    -106.707703,
+    35.148294,
+    -106.707703,
+    35.148294
+],
   "geometry": {"coordinates":[-106.707703,35.148294],"type":"Point"}
 }

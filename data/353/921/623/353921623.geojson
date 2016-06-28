@@ -2,13 +2,14 @@
   "id": 353921623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.651637,35.084566,-106.651637,35.084566",
     "geom:latitude":35.084566,
     "geom:longitude":-106.651637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Central Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":353921623,
-    "wof:lastmodified":1449019888,
+    "wof:lastmodified":1466697771,
     "wof:name":"Sauce Nightclub & Proof Ultra Lounge",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.651637,35.084566,-106.651637,35.084566],
-  "geometry": {"coordinates":[-106.651637,35.084566],"type":"Point"}
+  "bbox": [
+    -106.651637,
+    35.084566,
+    -106.651637,
+    35.084566
+],
+  "geometry": {"coordinates":[-106.65163699999999,35.084566],"type":"Point"}
 }

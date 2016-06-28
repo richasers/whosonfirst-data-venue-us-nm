@@ -2,13 +2,14 @@
   "id": 186158181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.50451,36.75999,-108.50451,36.75999",
     "geom:latitude":36.75999,
     "geom:longitude":-108.50451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3373 US Hwy 64",
     "sg:city":"Waterflow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186158181,
-    "wof:lastmodified":1449052156,
+    "wof:lastmodified":1466699344,
     "wof:name":"Greater Miracles The Chr-God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-108.50451,36.75999,-108.50451,36.75999],
+  "bbox": [
+    -108.50451,
+    36.75999,
+    -108.50451,
+    36.75999
+],
   "geometry": {"coordinates":[-108.50451,36.75999],"type":"Point"}
 }

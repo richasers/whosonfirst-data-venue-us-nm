@@ -2,13 +2,14 @@
   "id": 185782507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.642373,35.083298,-106.642373,35.083298",
     "geom:latitude":35.083298,
     "geom:longitude":-106.642373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185782507,
-    "wof:lastmodified":1449006585,
+    "wof:lastmodified":1466699271,
     "wof:name":"EFG Creative Inc",
     "wof:parent_id":85871877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-106.642373,35.083298,-106.642373,35.083298],
-  "geometry": {"coordinates":[-106.642373,35.083298],"type":"Point"}
+  "bbox": [
+    -106.642373,
+    35.083298,
+    -106.642373,
+    35.083298
+],
+  "geometry": {"coordinates":[-106.64237300000001,35.083298],"type":"Point"}
 }

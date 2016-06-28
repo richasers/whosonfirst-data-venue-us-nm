@@ -2,13 +2,14 @@
   "id": 353921525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649201,35.097101,-106.649201,35.097101",
     "geom:latitude":35.097101,
     "geom:longitude":-106.649201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353921525,
-    "wof:lastmodified":1449019889,
+    "wof:lastmodified":1466697768,
     "wof:name":"Center City Evangelical Church",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "churches-community"
     ]
 },
-  "bbox": [-106.649201,35.097101,-106.649201,35.097101],
-  "geometry": {"coordinates":[-106.649201,35.097101],"type":"Point"}
+  "bbox": [
+    -106.649201,
+    35.097101,
+    -106.649201,
+    35.097101
+],
+  "geometry": {"coordinates":[-106.64920100000001,35.097101],"type":"Point"}
 }

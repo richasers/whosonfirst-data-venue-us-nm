@@ -2,13 +2,14 @@
   "id": 186061037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.74283,32.958685,-105.74283,32.958685",
     "geom:latitude":32.958685,
     "geom:longitude":-105.74283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Burro Ave",
     "sg:city":"Cloudcroft",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186061037,
-    "wof:lastmodified":1449052298,
+    "wof:lastmodified":1466698382,
     "wof:name":"Turquoise Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-105.74283,32.958685,-105.74283,32.958685],
+  "bbox": [
+    -105.74283,
+    32.958685,
+    -105.74283,
+    32.958685
+],
   "geometry": {"coordinates":[-105.74283,32.958685],"type":"Point"}
 }

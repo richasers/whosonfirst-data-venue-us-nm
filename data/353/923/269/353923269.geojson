@@ -2,13 +2,14 @@
   "id": 353923269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.66508,35.114555,-106.66508,35.114555",
     "geom:latitude":35.114555,
     "geom:longitude":-106.66508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2904 18th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353923269,
-    "wof:lastmodified":1449020696,
+    "wof:lastmodified":1466697818,
     "wof:name":"Navajo Jewelry & Crafts",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "stone"
     ]
 },
-  "bbox": [-106.66508,35.114555,-106.66508,35.114555],
+  "bbox": [
+    -106.66508,
+    35.114555,
+    -106.66508,
+    35.114555
+],
   "geometry": {"coordinates":[-106.66508,35.114555],"type":"Point"}
 }

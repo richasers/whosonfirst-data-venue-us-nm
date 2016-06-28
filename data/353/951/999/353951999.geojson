@@ -2,13 +2,14 @@
   "id": 353951999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.512864,35.092163,-106.512864,35.092163",
     "geom:latitude":35.092163,
     "geom:longitude":-106.512864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 Kirby St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":353951999,
-    "wof:lastmodified":1449018353,
+    "wof:lastmodified":1466698631,
     "wof:name":"Keiser Construction",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "accessory"
     ]
 },
-  "bbox": [-106.512864,35.092163,-106.512864,35.092163],
-  "geometry": {"coordinates":[-106.512864,35.092163],"type":"Point"}
+  "bbox": [
+    -106.512864,
+    35.092163,
+    -106.512864,
+    35.092163
+],
+  "geometry": {"coordinates":[-106.51286399999999,35.092163],"type":"Point"}
 }

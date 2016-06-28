@@ -2,13 +2,14 @@
   "id": 169791263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.706762,35.208536,-106.706762,35.208536",
     "geom:latitude":35.208536,
     "geom:longitude":-106.706762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10516 Milky Way St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169791263,
-    "wof:lastmodified":1449035194,
+    "wof:lastmodified":1466698503,
     "wof:name":"Streaming Visions LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.706762,35.208536,-106.706762,35.208536],
+  "bbox": [
+    -106.706762,
+    35.208536,
+    -106.706762,
+    35.208536
+],
   "geometry": {"coordinates":[-106.706762,35.208536],"type":"Point"}
 }

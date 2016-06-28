@@ -2,13 +2,14 @@
   "id": 186022253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.671259,35.092983,-106.671259,35.092983",
     "geom:latitude":35.092983,
     "geom:longitude":-106.671259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2018 Alhambra Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186022253,
-    "wof:lastmodified":1449051283,
+    "wof:lastmodified":1466697937,
     "wof:name":"Countrywide Builders LLC",
     "wof:parent_id":85839415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.671259,35.092983,-106.671259,35.092983],
-  "geometry": {"coordinates":[-106.671259,35.092983],"type":"Point"}
+  "bbox": [
+    -106.671259,
+    35.092983,
+    -106.671259,
+    35.092983
+],
+  "geometry": {"coordinates":[-106.67125900000001,35.092983],"type":"Point"}
 }

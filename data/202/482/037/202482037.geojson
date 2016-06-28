@@ -2,13 +2,14 @@
   "id": 202482037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.757554,32.318469,-106.757554,32.318469",
     "geom:latitude":32.318469,
     "geom:longitude":-106.757554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 N Walnut St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202482037,
-    "wof:lastmodified":1449061005,
+    "wof:lastmodified":1466698997,
     "wof:name":"Precision Groom Academy",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-106.757554,32.318469,-106.757554,32.318469],
+  "bbox": [
+    -106.757554,
+    32.318469,
+    -106.757554,
+    32.318469
+],
   "geometry": {"coordinates":[-106.757554,32.318469],"type":"Point"}
 }

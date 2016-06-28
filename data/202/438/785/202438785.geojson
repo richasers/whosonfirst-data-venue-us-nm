@@ -2,13 +2,14 @@
   "id": 202438785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.502972,35.043285,-106.502972,35.043285",
     "geom:latitude":35.043285,
     "geom:longitude":-106.502972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1328 Wagon Train Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202438785,
-    "wof:lastmodified":1449060973,
+    "wof:lastmodified":1466698425,
     "wof:name":"Preferred Glass & Mirror Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glass"
     ]
 },
-  "bbox": [-106.502972,35.043285,-106.502972,35.043285],
+  "bbox": [
+    -106.502972,
+    35.043285,
+    -106.502972,
+    35.043285
+],
   "geometry": {"coordinates":[-106.502972,35.043285],"type":"Point"}
 }

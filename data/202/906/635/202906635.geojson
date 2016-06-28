@@ -2,13 +2,14 @@
   "id": 202906635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.336553,34.171357,-103.336553,34.171357",
     "geom:latitude":34.171357,
     "geom:longitude":-103.336553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 W 18th St",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202906635,
-    "wof:lastmodified":1449061076,
+    "wof:lastmodified":1466700382,
     "wof:name":"Bealls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.336553,34.171357,-103.336553,34.171357],
-  "geometry": {"coordinates":[-103.336553,34.171357],"type":"Point"}
+  "bbox": [
+    -103.336553,
+    34.171357,
+    -103.336553,
+    34.171357
+],
+  "geometry": {"coordinates":[-103.33655299999999,34.171357],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202845059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.803975,32.30552,-106.803975,32.30552",
     "geom:latitude":32.30552,
     "geom:longitude":-106.803975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 N 17th St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202845059,
-    "wof:lastmodified":1449060514,
+    "wof:lastmodified":1466700148,
     "wof:name":"Action Bail Bonds",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-106.803975,32.30552,-106.803975,32.30552],
-  "geometry": {"coordinates":[-106.803975,32.30552],"type":"Point"}
+  "bbox": [
+    -106.803975,
+    32.30552,
+    -106.803975,
+    32.30552
+],
+  "geometry": {"coordinates":[-106.80397499999999,32.30552],"type":"Point"}
 }

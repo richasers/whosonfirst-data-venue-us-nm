@@ -2,13 +2,14 @@
   "id": 353933709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.611029,35.135653,-106.611029,35.135653",
     "geom:latitude":35.135653,
     "geom:longitude":-106.611029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1424 Mercantile Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -78,10 +79,11 @@
         }
     ],
     "wof:id":353933709,
-    "wof:lastmodified":1449018779,
+    "wof:lastmodified":1466698108,
     "wof:name":"Banfield, The Pet Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-106.611029,35.135653,-106.611029,35.135653],
+  "bbox": [
+    -106.611029,
+    35.135653,
+    -106.611029,
+    35.135653
+],
   "geometry": {"coordinates":[-106.611029,35.135653],"type":"Point"}
 }

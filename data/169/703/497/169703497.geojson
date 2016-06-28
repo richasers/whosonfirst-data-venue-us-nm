@@ -2,13 +2,14 @@
   "id": 169703497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.769871,32.313411,-106.769871,32.313411",
     "geom:latitude":32.313411,
     "geom:longitude":-106.769871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 E Las Cruces Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":169703497,
-    "wof:lastmodified":1449033690,
+    "wof:lastmodified":1466697628,
     "wof:name":"Saint Genevieve Parish Hall",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-106.769871,32.313411,-106.769871,32.313411],
-  "geometry": {"coordinates":[-106.769871,32.313411],"type":"Point"}
+  "bbox": [
+    -106.769871,
+    32.313411,
+    -106.769871,
+    32.313411
+],
+  "geometry": {"coordinates":[-106.76987099999999,32.313411],"type":"Point"}
 }

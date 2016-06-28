@@ -2,13 +2,14 @@
   "id": 202647757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.334544,35.164832,-106.334544,35.164832",
     "geom:latitude":35.164832,
     "geom:longitude":-106.334544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Lois Ln",
     "sg:city":"Sandia Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202647757,
-    "wof:lastmodified":1449061326,
+    "wof:lastmodified":1466699105,
     "wof:name":"Route 66 Ventures LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.334544,35.164832,-106.334544,35.164832],
-  "geometry": {"coordinates":[-106.334544,35.164832],"type":"Point"}
+  "bbox": [
+    -106.334544,
+    35.164832,
+    -106.334544,
+    35.164832
+],
+  "geometry": {"coordinates":[-106.33454399999999,35.164832],"type":"Point"}
 }

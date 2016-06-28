@@ -2,13 +2,14 @@
   "id": 185606565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.987412,36.83155,-107.987412,36.83155",
     "geom:latitude":36.83155,
     "geom:longitude":-107.987412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Mc Coy Ave",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185606565,
-    "wof:lastmodified":1449006862,
+    "wof:lastmodified":1466697652,
     "wof:name":"Taylor Bettie G Eductl Conslt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "educational"
     ]
 },
-  "bbox": [-107.987412,36.83155,-107.987412,36.83155],
-  "geometry": {"coordinates":[-107.987412,36.83155],"type":"Point"}
+  "bbox": [
+    -107.987412,
+    36.83155,
+    -107.987412,
+    36.83155
+],
+  "geometry": {"coordinates":[-107.98741200000001,36.83155],"type":"Point"}
 }

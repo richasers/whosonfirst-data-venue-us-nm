@@ -2,13 +2,14 @@
   "id": 186087353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.500258,35.130651,-106.500258,35.130651",
     "geom:latitude":35.130651,
     "geom:longitude":-106.500258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12400 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186087353,
-    "wof:lastmodified":1449051614,
+    "wof:lastmodified":1466698736,
     "wof:name":"Cibola Village Apartments",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-106.500258,35.130651,-106.500258,35.130651],
+  "bbox": [
+    -106.500258,
+    35.130651,
+    -106.500258,
+    35.130651
+],
   "geometry": {"coordinates":[-106.500258,35.130651],"type":"Point"}
 }

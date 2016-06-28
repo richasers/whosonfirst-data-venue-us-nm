@@ -2,13 +2,14 @@
   "id": 185644927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.136321,32.693331,-103.136321,32.693331",
     "geom:latitude":32.693331,
     "geom:longitude":-103.136321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 S Turner St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185644927,
-    "wof:lastmodified":1449007525,
+    "wof:lastmodified":1466698078,
     "wof:name":"Bar-Den Overnight Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-103.136321,32.693331,-103.136321,32.693331],
+  "bbox": [
+    -103.136321,
+    32.693331,
+    -103.136321,
+    32.693331
+],
   "geometry": {"coordinates":[-103.136321,32.693331],"type":"Point"}
 }

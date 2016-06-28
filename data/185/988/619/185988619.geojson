@@ -2,13 +2,14 @@
   "id": 185988619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.337585,34.185145,-103.337585,34.185145",
     "geom:latitude":34.185145,
     "geom:longitude":-103.337585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 W 2nd St",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185988619,
-    "wof:lastmodified":1449007144,
+    "wof:lastmodified":1466699815,
     "wof:name":"Teambuilders Counseling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-103.337585,34.185145,-103.337585,34.185145],
+  "bbox": [
+    -103.337585,
+    34.185145,
+    -103.337585,
+    34.185145
+],
   "geometry": {"coordinates":[-103.337585,34.185145],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185931797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613775,35.1748,-106.613775,35.1748",
     "geom:latitude":35.1748,
     "geom:longitude":-106.613775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8109 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185931797,
-    "wof:lastmodified":1449008074,
+    "wof:lastmodified":1466698966,
     "wof:name":"Montes Cleaning LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.613775,35.1748,-106.613775,35.1748],
+  "bbox": [
+    -106.613775,
+    35.1748,
+    -106.613775,
+    35.1748
+],
   "geometry": {"coordinates":[-106.613775,35.1748],"type":"Point"}
 }

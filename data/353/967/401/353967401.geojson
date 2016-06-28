@@ -2,13 +2,14 @@
   "id": 353967401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.542397,35.073191,-106.542397,35.073191",
     "geom:latitude":35.073191,
     "geom:longitude":-106.542397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 General Somervell St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":353967401,
-    "wof:lastmodified":1449020615,
+    "wof:lastmodified":1466698947,
     "wof:name":"Larry's Custom Cycle",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -94,6 +96,11 @@
         "repairing"
     ]
 },
-  "bbox": [-106.542397,35.073191,-106.542397,35.073191],
-  "geometry": {"coordinates":[-106.542397,35.073191],"type":"Point"}
+  "bbox": [
+    -106.542397,
+    35.073191,
+    -106.542397,
+    35.073191
+],
+  "geometry": {"coordinates":[-106.54239699999999,35.073191],"type":"Point"}
 }

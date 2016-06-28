@@ -2,13 +2,14 @@
   "id": 353936911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.551132,35.140414,-106.551132,35.140414",
     "geom:latitude":35.140414,
     "geom:longitude":-106.551132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5343 Wyoming Blvd NE Ste 2",
     "sg:city":"Albuquerque",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":353936911,
-    "wof:lastmodified":1449019112,
+    "wof:lastmodified":1466698191,
     "wof:name":"Albuquerque Vision Clinic",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.551132,35.140414,-106.551132,35.140414],
+  "bbox": [
+    -106.551132,
+    35.140414,
+    -106.551132,
+    35.140414
+],
   "geometry": {"coordinates":[-106.551132,35.140414],"type":"Point"}
 }

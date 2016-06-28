@@ -2,13 +2,14 @@
   "id": 203092243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.553134,35.092031,-106.553134,35.092031",
     "geom:latitude":35.092031,
     "geom:longitude":-106.553134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8324 Constitution Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203092243,
-    "wof:lastmodified":1449026481,
+    "wof:lastmodified":1466698630,
     "wof:name":"Johnathon Burg MD",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-106.553134,35.092031,-106.553134,35.092031],
+  "bbox": [
+    -106.553134,
+    35.092031,
+    -106.553134,
+    35.092031
+],
   "geometry": {"coordinates":[-106.553134,35.092031],"type":"Point"}
 }

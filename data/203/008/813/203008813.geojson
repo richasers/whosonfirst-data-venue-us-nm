@@ -2,13 +2,14 @@
   "id": 203008813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.73792,32.30424,-106.73792,32.30424",
     "geom:latitude":32.30424,
     "geom:longitude":-106.73792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Hillrise Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203008813,
-    "wof:lastmodified":1449025508,
+    "wof:lastmodified":1466697685,
     "wof:name":"George E Lopez MD",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.73792,32.30424,-106.73792,32.30424],
+  "bbox": [
+    -106.73792,
+    32.30424,
+    -106.73792,
+    32.30424
+],
   "geometry": {"coordinates":[-106.73792,32.30424],"type":"Point"}
 }

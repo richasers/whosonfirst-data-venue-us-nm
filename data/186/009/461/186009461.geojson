@@ -2,13 +2,14 @@
   "id": 186009461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.123318,36.779277,-108.123318,36.779277",
     "geom:latitude":36.779277,
     "geom:longitude":-108.123318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6603 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186009461,
-    "wof:lastmodified":1449052981,
+    "wof:lastmodified":1466697799,
     "wof:name":"Farmington Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-108.123318,36.779277,-108.123318,36.779277],
+  "bbox": [
+    -108.123318,
+    36.779277,
+    -108.123318,
+    36.779277
+],
   "geometry": {"coordinates":[-108.123318,36.779277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185992131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.628945,35.223219,-106.628945,35.223219",
     "geom:latitude":35.223219,
     "geom:longitude":-106.628945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"779 Coronado Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185992131,
-    "wof:lastmodified":1449007372,
+    "wof:lastmodified":1466699595,
     "wof:name":"Hackler Strategic Comms",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "relations"
     ]
 },
-  "bbox": [-106.628945,35.223219,-106.628945,35.223219],
+  "bbox": [
+    -106.628945,
+    35.223219,
+    -106.628945,
+    35.223219
+],
   "geometry": {"coordinates":[-106.628945,35.223219],"type":"Point"}
 }

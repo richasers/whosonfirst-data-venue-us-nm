@@ -2,13 +2,14 @@
   "id": 186543969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.489481,35.076865,-106.489481,35.076865",
     "geom:latitude":35.076865,
     "geom:longitude":-106.489481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14112 Mel Smith Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186543969,
-    "wof:lastmodified":1449050931,
+    "wof:lastmodified":1466700391,
     "wof:name":"Milligan Scapes",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.489481,35.076865,-106.489481,35.076865],
+  "bbox": [
+    -106.489481,
+    35.076865,
+    -106.489481,
+    35.076865
+],
   "geometry": {"coordinates":[-106.489481,35.076865],"type":"Point"}
 }

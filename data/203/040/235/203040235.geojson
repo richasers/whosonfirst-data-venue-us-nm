@@ -2,13 +2,14 @@
   "id": 203040235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.125847,36.777981,-108.125847,36.777981",
     "geom:latitude":36.777981,
     "geom:longitude":-108.125847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6501 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203040235,
-    "wof:lastmodified":1449026824,
+    "wof:lastmodified":1466698033,
     "wof:name":"Just Us Kids Preschool & Daycr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.125847,36.777981,-108.125847,36.777981],
-  "geometry": {"coordinates":[-108.125847,36.777981],"type":"Point"}
+  "bbox": [
+    -108.125847,
+    36.777981,
+    -108.125847,
+    36.777981
+],
+  "geometry": {"coordinates":[-108.12584699999999,36.777981],"type":"Point"}
 }

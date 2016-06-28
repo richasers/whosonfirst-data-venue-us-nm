@@ -2,13 +2,14 @@
   "id": 202702701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586445,35.066096,-106.586445,35.066096",
     "geom:latitude":35.066096,
     "geom:longitude":-106.586445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1027 San Mateo Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202702701,
-    "wof:lastmodified":1449061386,
+    "wof:lastmodified":1466699617,
     "wof:name":"Albuquerque Drop In Ctr",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.586445,35.066096,-106.586445,35.066096],
+  "bbox": [
+    -106.586445,
+    35.066096,
+    -106.586445,
+    35.066096
+],
   "geometry": {"coordinates":[-106.586445,35.066096],"type":"Point"}
 }

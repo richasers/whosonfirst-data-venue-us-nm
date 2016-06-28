@@ -2,13 +2,14 @@
   "id": 202413839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.7202,35.520915,-108.7202,35.520915",
     "geom:latitude":35.520915,
     "geom:longitude":-108.7202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 Ridgecrest Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202413839,
-    "wof:lastmodified":1449060510,
+    "wof:lastmodified":1466698117,
     "wof:name":"Wauford Joe Concrete Contr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.7202,35.520915,-108.7202,35.520915],
-  "geometry": {"coordinates":[-108.7202,35.520915],"type":"Point"}
+  "bbox": [
+    -108.7202,
+    35.520915,
+    -108.7202,
+    35.520915
+],
+  "geometry": {"coordinates":[-108.72020000000001,35.520915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202502653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.732861,35.049638,-106.732861,35.049638",
     "geom:latitude":35.049638,
     "geom:longitude":-106.732861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8928 Alexis Ct SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202502653,
-    "wof:lastmodified":1449061288,
+    "wof:lastmodified":1466699162,
     "wof:name":"Mendoza Medical Billing",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "processing"
     ]
 },
-  "bbox": [-106.732861,35.049638,-106.732861,35.049638],
+  "bbox": [
+    -106.732861,
+    35.049638,
+    -106.732861,
+    35.049638
+],
   "geometry": {"coordinates":[-106.732861,35.049638],"type":"Point"}
 }

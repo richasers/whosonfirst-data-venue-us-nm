@@ -2,13 +2,14 @@
   "id": 202558119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586426,35.114358,-106.586426,35.114358",
     "geom:latitude":35.114358,
     "geom:longitude":-106.586426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2817 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202558119,
-    "wof:lastmodified":1449060812,
+    "wof:lastmodified":1466697761,
     "wof:name":"Fire Lite Professional",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-106.586426,35.114358,-106.586426,35.114358],
+  "bbox": [
+    -106.586426,
+    35.114358,
+    -106.586426,
+    35.114358
+],
   "geometry": {"coordinates":[-106.586426,35.114358],"type":"Point"}
 }

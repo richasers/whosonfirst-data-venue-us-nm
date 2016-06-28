@@ -2,13 +2,14 @@
   "id": 186096265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.585206,35.065699,-106.585206,35.065699",
     "geom:latitude":35.065699,
     "geom:longitude":-106.585206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 Ortiz Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186096265,
-    "wof:lastmodified":1449051256,
+    "wof:lastmodified":1466698845,
     "wof:name":"J & J Cooling & Heating",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.585206,35.065699,-106.585206,35.065699],
+  "bbox": [
+    -106.585206,
+    35.065699,
+    -106.585206,
+    35.065699
+],
   "geometry": {"coordinates":[-106.585206,35.065699],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202780943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.286675,35.881654,-106.286675,35.881654",
     "geom:latitude":35.881654,
     "geom:longitude":-106.286675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 East Rd",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202780943,
-    "wof:lastmodified":1449062005,
+    "wof:lastmodified":1466699881,
     "wof:name":"Hewlett-Packard Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-106.286675,35.881654,-106.286675,35.881654],
+  "bbox": [
+    -106.286675,
+    35.881654,
+    -106.286675,
+    35.881654
+],
   "geometry": {"coordinates":[-106.286675,35.881654],"type":"Point"}
 }

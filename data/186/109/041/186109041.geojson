@@ -2,13 +2,14 @@
   "id": 186109041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.181904,36.452602,-103.181904,36.452602",
     "geom:latitude":36.452602,
     "geom:longitude":-103.181904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Main St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186109041,
-    "wof:lastmodified":1449051323,
+    "wof:lastmodified":1466699002,
     "wof:name":"Union Bancshares Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "holding"
     ]
 },
-  "bbox": [-103.181904,36.452602,-103.181904,36.452602],
+  "bbox": [
+    -103.181904,
+    36.452602,
+    -103.181904,
+    36.452602
+],
   "geometry": {"coordinates":[-103.181904,36.452602],"type":"Point"}
 }

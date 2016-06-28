@@ -2,13 +2,14 @@
   "id": 186440773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.702225,35.009927,-106.702225,35.009927",
     "geom:latitude":35.009927,
     "geom:longitude":-106.702225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4401 Southfield Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186440773,
-    "wof:lastmodified":1449051341,
+    "wof:lastmodified":1466700008,
     "wof:name":"Electronic Accounting Solution",
     "wof:parent_id":85892575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-106.702225,35.009927,-106.702225,35.009927],
+  "bbox": [
+    -106.702225,
+    35.009927,
+    -106.702225,
+    35.009927
+],
   "geometry": {"coordinates":[-106.702225,35.009927],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185726229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.593585,35.137303,-106.593585,35.137303",
     "geom:latitude":35.137303,
     "geom:longitude":-106.593585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4809 Jefferson St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185726229,
-    "wof:lastmodified":1449007690,
+    "wof:lastmodified":1466698929,
     "wof:name":"CCS Northwest",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.593585,35.137303,-106.593585,35.137303],
+  "bbox": [
+    -106.593585,
+    35.137303,
+    -106.593585,
+    35.137303
+],
   "geometry": {"coordinates":[-106.593585,35.137303],"type":"Point"}
 }

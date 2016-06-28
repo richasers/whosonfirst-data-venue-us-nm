@@ -2,13 +2,14 @@
   "id": 169772285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.909737,35.547101,-105.909737,35.547101",
     "geom:latitude":35.547101,
     "geom:longitude":-105.909737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Verano Loop",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169772285,
-    "wof:lastmodified":1449034150,
+    "wof:lastmodified":1466698281,
     "wof:name":"Dorn & Co Homebuilders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-105.909737,35.547101,-105.909737,35.547101],
-  "geometry": {"coordinates":[-105.909737,35.547101],"type":"Point"}
+  "bbox": [
+    -105.909737,
+    35.547101,
+    -105.909737,
+    35.547101
+],
+  "geometry": {"coordinates":[-105.90973700000001,35.547101],"type":"Point"}
 }

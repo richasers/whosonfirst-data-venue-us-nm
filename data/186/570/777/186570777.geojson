@@ -2,13 +2,14 @@
   "id": 186570777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.500704,35.138105,-106.500704,35.138105",
     "geom:latitude":35.138105,
     "geom:longitude":-106.500704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12313 Key West Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186570777,
-    "wof:lastmodified":1449051959,
+    "wof:lastmodified":1466700540,
     "wof:name":"Cards Plus",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesale"
     ]
 },
-  "bbox": [-106.500704,35.138105,-106.500704,35.138105],
+  "bbox": [
+    -106.500704,
+    35.138105,
+    -106.500704,
+    35.138105
+],
   "geometry": {"coordinates":[-106.500704,35.138105],"type":"Point"}
 }

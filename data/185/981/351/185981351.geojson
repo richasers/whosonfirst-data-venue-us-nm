@@ -2,13 +2,14 @@
   "id": 185981351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.57306,33.387016,-104.57306,33.387016",
     "geom:latitude":33.387016,
     "geom:longitude":-104.57306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3335 W Bland St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185981351,
-    "wof:lastmodified":1449008245,
+    "wof:lastmodified":1466699492,
     "wof:name":"Best Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.57306,33.387016,-104.57306,33.387016],
+  "bbox": [
+    -104.57306,
+    33.387016,
+    -104.57306,
+    33.387016
+],
   "geometry": {"coordinates":[-104.57306,33.387016],"type":"Point"}
 }

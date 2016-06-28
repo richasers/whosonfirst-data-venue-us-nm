@@ -2,13 +2,14 @@
   "id": 186399199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.673616,33.33192,-105.673616,33.33192",
     "geom:latitude":33.33192,
     "geom:longitude":-105.673616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2622 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186399199,
-    "wof:lastmodified":1449050889,
+    "wof:lastmodified":1466699973,
     "wof:name":"Mitchell's Silver",
     "wof:parent_id":85842645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-105.673616,33.33192,-105.673616,33.33192],
+  "bbox": [
+    -105.673616,
+    33.33192,
+    -105.673616,
+    33.33192
+],
   "geometry": {"coordinates":[-105.673616,33.33192],"type":"Point"}
 }

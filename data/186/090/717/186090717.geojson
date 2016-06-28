@@ -2,13 +2,14 @@
   "id": 186090717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.549551,35.18177,-106.549551,35.18177",
     "geom:latitude":35.18177,
     "geom:longitude":-106.549551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8508 Ashton Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186090717,
-    "wof:lastmodified":1449052465,
+    "wof:lastmodified":1466698785,
     "wof:name":"Information Systems-New Mexico",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-106.549551,35.18177,-106.549551,35.18177],
-  "geometry": {"coordinates":[-106.549551,35.18177],"type":"Point"}
+  "bbox": [
+    -106.549551,
+    35.18177,
+    -106.549551,
+    35.18177
+],
+  "geometry": {"coordinates":[-106.54955099999999,35.18177],"type":"Point"}
 }

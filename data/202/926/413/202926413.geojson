@@ -2,13 +2,14 @@
   "id": 202926413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.688728,35.254476,-106.688728,35.254476",
     "geom:latitude":35.254476,
     "geom:longitude":-106.688728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Western Hills Dr SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202926413,
-    "wof:lastmodified":1449060988,
+    "wof:lastmodified":1466700448,
     "wof:name":"PCS Building Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.688728,35.254476,-106.688728,35.254476],
+  "bbox": [
+    -106.688728,
+    35.254476,
+    -106.688728,
+    35.254476
+],
   "geometry": {"coordinates":[-106.688728,35.254476],"type":"Point"}
 }

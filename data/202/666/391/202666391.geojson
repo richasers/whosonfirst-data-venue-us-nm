@@ -2,13 +2,14 @@
   "id": 202666391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.658596,35.081344,-106.658596,35.081344",
     "geom:latitude":35.081344,
     "geom:longitude":-106.658596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 Coal Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202666391,
-    "wof:lastmodified":1449061037,
+    "wof:lastmodified":1466699378,
     "wof:name":"Country Club Food Store",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.658596,35.081344,-106.658596,35.081344],
+  "bbox": [
+    -106.658596,
+    35.081344,
+    -106.658596,
+    35.081344
+],
   "geometry": {"coordinates":[-106.658596,35.081344],"type":"Point"}
 }

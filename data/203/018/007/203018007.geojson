@@ -2,13 +2,14 @@
   "id": 203018007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.6043,35.098865,-106.6043,35.098865",
     "geom:latitude":35.098865,
     "geom:longitude":-106.6043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203018007,
-    "wof:lastmodified":1449025878,
+    "wof:lastmodified":1466699394,
     "wof:name":"Powsner Alice E Msn Rncs Lpcc",
     "wof:parent_id":85871899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.6043,35.098865,-106.6043,35.098865],
-  "geometry": {"coordinates":[-106.6043,35.098865],"type":"Point"}
+  "bbox": [
+    -106.6043,
+    35.098865,
+    -106.6043,
+    35.098865
+],
+  "geometry": {"coordinates":[-106.60429999999999,35.098865],"type":"Point"}
 }

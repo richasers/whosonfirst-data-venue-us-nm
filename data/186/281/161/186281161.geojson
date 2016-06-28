@@ -2,13 +2,14 @@
   "id": 186281161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.524325,33.39749,-104.524325,33.39749",
     "geom:latitude":33.39749,
     "geom:longitude":-104.524325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 N Richardson Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186281161,
-    "wof:lastmodified":1449052598,
+    "wof:lastmodified":1466699073,
     "wof:name":"Department Of Veterans Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.524325,33.39749,-104.524325,33.39749],
+  "bbox": [
+    -104.524325,
+    33.39749,
+    -104.524325,
+    33.39749
+],
   "geometry": {"coordinates":[-104.524325,33.39749],"type":"Point"}
 }

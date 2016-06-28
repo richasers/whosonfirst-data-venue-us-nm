@@ -2,13 +2,14 @@
   "id": 202720103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.758048,34.657128,-106.758048,34.657128",
     "geom:latitude":34.657128,
     "geom:longitude":-106.758048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 E River Rd",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202720103,
-    "wof:lastmodified":1449060714,
+    "wof:lastmodified":1466699692,
     "wof:name":"Building Trade Specialties",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-106.758048,34.657128,-106.758048,34.657128],
+  "bbox": [
+    -106.758048,
+    34.657128,
+    -106.758048,
+    34.657128
+],
   "geometry": {"coordinates":[-106.758048,34.657128],"type":"Point"}
 }

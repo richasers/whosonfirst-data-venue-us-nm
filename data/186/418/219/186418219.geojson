@@ -2,13 +2,14 @@
   "id": 186418219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.993704,35.673564,-105.993704,35.673564",
     "geom:latitude":35.673564,
     "geom:longitude":-105.993704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Cam Don Emilio",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186418219,
-    "wof:lastmodified":1449052425,
+    "wof:lastmodified":1466699912,
     "wof:name":"Arthouse Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.993704,35.673564,-105.993704,35.673564],
-  "geometry": {"coordinates":[-105.993704,35.673564],"type":"Point"}
+  "bbox": [
+    -105.993704,
+    35.673564,
+    -105.993704,
+    35.673564
+],
+  "geometry": {"coordinates":[-105.99370399999999,35.673564],"type":"Point"}
 }

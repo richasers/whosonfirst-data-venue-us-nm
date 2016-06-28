@@ -2,13 +2,14 @@
   "id": 202681623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.205181,36.730367,-108.205181,36.730367",
     "geom:latitude":36.730367,
     "geom:longitude":-108.205181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Arrington St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202681623,
-    "wof:lastmodified":1449061673,
+    "wof:lastmodified":1466699539,
     "wof:name":"Desert Southwest Funding Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-108.205181,36.730367,-108.205181,36.730367],
+  "bbox": [
+    -108.205181,
+    36.730367,
+    -108.205181,
+    36.730367
+],
   "geometry": {"coordinates":[-108.205181,36.730367],"type":"Point"}
 }

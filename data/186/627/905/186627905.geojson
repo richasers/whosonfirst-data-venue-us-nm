@@ -2,13 +2,14 @@
   "id": 186627905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.59498,36.372103,-105.59498,36.372103",
     "geom:latitude":36.372103,
     "geom:longitude":-105.59498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1046 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186627905,
-    "wof:lastmodified":1449053080,
+    "wof:lastmodified":1466700643,
     "wof:name":"Chile De Taos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-105.59498,36.372103,-105.59498,36.372103],
-  "geometry": {"coordinates":[-105.59498,36.372103],"type":"Point"}
+  "bbox": [
+    -105.59498,
+    36.372103,
+    -105.59498,
+    36.372103
+],
+  "geometry": {"coordinates":[-105.59498000000001,36.372103],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185825005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.508922,35.114839,-106.508922,35.114839",
     "geom:latitude":35.114839,
     "geom:longitude":-106.508922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11713 Lexington Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185825005,
-    "wof:lastmodified":1449006642,
+    "wof:lastmodified":1466697736,
     "wof:name":"Jay L Chamberlin Consultant",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scientist"
     ]
 },
-  "bbox": [-106.508922,35.114839,-106.508922,35.114839],
+  "bbox": [
+    -106.508922,
+    35.114839,
+    -106.508922,
+    35.114839
+],
   "geometry": {"coordinates":[-106.508922,35.114839],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185661067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.96076,32.920001,-105.96076,32.920001",
     "geom:latitude":32.920001,
     "geom:longitude":-105.96076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2419 N White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185661067,
-    "wof:lastmodified":1449008045,
+    "wof:lastmodified":1466698244,
     "wof:name":"Trendsetters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accessory"
     ]
 },
-  "bbox": [-105.96076,32.920001,-105.96076,32.920001],
-  "geometry": {"coordinates":[-105.96076,32.920001],"type":"Point"}
+  "bbox": [
+    -105.96076,
+    32.920001,
+    -105.96076,
+    32.920001
+],
+  "geometry": {"coordinates":[-105.96075999999999,32.920001],"type":"Point"}
 }

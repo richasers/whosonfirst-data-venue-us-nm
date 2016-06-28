@@ -2,13 +2,14 @@
   "id": 203030909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.995151,36.822354,-107.995151,36.822354",
     "geom:latitude":36.822354,
     "geom:longitude":-107.995151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 S Main Ave",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203030909,
-    "wof:lastmodified":1449025615,
+    "wof:lastmodified":1466697935,
     "wof:name":"Kokopelli's Gift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-107.995151,36.822354,-107.995151,36.822354],
-  "geometry": {"coordinates":[-107.995151,36.822354],"type":"Point"}
+  "bbox": [
+    -107.995151,
+    36.822354,
+    -107.995151,
+    36.822354
+],
+  "geometry": {"coordinates":[-107.99515100000001,36.822354],"type":"Point"}
 }

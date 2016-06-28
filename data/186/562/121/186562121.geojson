@@ -2,13 +2,14 @@
   "id": 186562121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.506583,35.111069,-106.506583,35.111069",
     "geom:latitude":35.111069,
     "geom:longitude":-106.506583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2445 Chelwood Park Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186562121,
-    "wof:lastmodified":1449051794,
+    "wof:lastmodified":1466700374,
     "wof:name":"Smiling Faces Child Care",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.506583,35.111069,-106.506583,35.111069],
-  "geometry": {"coordinates":[-106.506583,35.111069],"type":"Point"}
+  "bbox": [
+    -106.506583,
+    35.111069,
+    -106.506583,
+    35.111069
+],
+  "geometry": {"coordinates":[-106.50658300000001,35.111069],"type":"Point"}
 }

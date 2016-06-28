@@ -2,13 +2,14 @@
   "id": 202870695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.892773,35.184803,-107.892773,35.184803",
     "geom:latitude":35.184803,
     "geom:longitude":-107.892773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 Febco St",
     "sg:city":"Milan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202870695,
-    "wof:lastmodified":1449060782,
+    "wof:lastmodified":1466700338,
     "wof:name":"Compassion Recording Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "studio"
     ]
 },
-  "bbox": [-107.892773,35.184803,-107.892773,35.184803],
-  "geometry": {"coordinates":[-107.892773,35.184803],"type":"Point"}
+  "bbox": [
+    -107.892773,
+    35.184803,
+    -107.892773,
+    35.184803
+],
+  "geometry": {"coordinates":[-107.89277300000001,35.184803],"type":"Point"}
 }

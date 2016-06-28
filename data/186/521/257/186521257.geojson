@@ -2,13 +2,14 @@
   "id": 186521257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.855864,33.010408,-105.855864,33.010408",
     "geom:latitude":33.010408,
     "geom:longitude":-105.855864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Butterfield Trl",
     "sg:city":"La Luz",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186521257,
-    "wof:lastmodified":1449052907,
+    "wof:lastmodified":1466700433,
     "wof:name":"LA Luz Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-105.855864,33.010408,-105.855864,33.010408],
+  "bbox": [
+    -105.855864,
+    33.010408,
+    -105.855864,
+    33.010408
+],
   "geometry": {"coordinates":[-105.855864,33.010408],"type":"Point"}
 }

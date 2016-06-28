@@ -2,13 +2,14 @@
   "id": 186192311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.98005,35.663539,-105.98005,35.663539",
     "geom:latitude":35.663539,
     "geom:longitude":-105.98005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 Apache Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186192311,
-    "wof:lastmodified":1449052251,
+    "wof:lastmodified":1466697925,
     "wof:name":"Counseling Services",
     "wof:parent_id":85880779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-105.98005,35.663539,-105.98005,35.663539],
-  "geometry": {"coordinates":[-105.98005,35.663539],"type":"Point"}
+  "bbox": [
+    -105.98005,
+    35.663539,
+    -105.98005,
+    35.663539
+],
+  "geometry": {"coordinates":[-105.98005000000001,35.663539],"type":"Point"}
 }

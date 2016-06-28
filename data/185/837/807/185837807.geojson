@@ -2,13 +2,14 @@
   "id": 185837807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.917054,35.539813,-105.917054,35.539813",
     "geom:latitude":35.539813,
     "geom:longitude":-105.917054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Monte Alto Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185837807,
-    "wof:lastmodified":1449006863,
+    "wof:lastmodified":1466697874,
     "wof:name":"Singing Heart Production LLC",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-105.917054,35.539813,-105.917054,35.539813],
-  "geometry": {"coordinates":[-105.917054,35.539813],"type":"Point"}
+  "bbox": [
+    -105.917054,
+    35.539813,
+    -105.917054,
+    35.539813
+],
+  "geometry": {"coordinates":[-105.91705399999999,35.539813],"type":"Point"}
 }

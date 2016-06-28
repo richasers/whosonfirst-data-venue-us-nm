@@ -2,13 +2,14 @@
   "id": 202614619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.957156,35.685724,-105.957156,35.685724",
     "geom:latitude":35.685724,
     "geom:longitude":-105.957156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Dunlap St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202614619,
-    "wof:lastmodified":1449062741,
+    "wof:lastmodified":1466698591,
     "wof:name":"Winston Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.957156,35.685724,-105.957156,35.685724],
+  "bbox": [
+    -105.957156,
+    35.685724,
+    -105.957156,
+    35.685724
+],
   "geometry": {"coordinates":[-105.957156,35.685724],"type":"Point"}
 }

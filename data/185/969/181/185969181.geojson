@@ -2,13 +2,14 @@
   "id": 185969181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.484426,35.08092,-106.484426,35.08092",
     "geom:latitude":35.08092,
     "geom:longitude":-106.484426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Piedra Vista Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185969181,
-    "wof:lastmodified":1449007001,
+    "wof:lastmodified":1466699697,
     "wof:name":"K & J Recording Studio",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "studio"
     ]
 },
-  "bbox": [-106.484426,35.08092,-106.484426,35.08092],
+  "bbox": [
+    -106.484426,
+    35.08092,
+    -106.484426,
+    35.08092
+],
   "geometry": {"coordinates":[-106.484426,35.08092],"type":"Point"}
 }

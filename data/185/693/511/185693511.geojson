@@ -2,13 +2,14 @@
   "id": 185693511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.977183,36.842126,-107.977183,36.842126",
     "geom:latitude":36.842126,
     "geom:longitude":-107.977183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Rd 2970",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185693511,
-    "wof:lastmodified":1449006682,
+    "wof:lastmodified":1466698583,
     "wof:name":"Computer Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.977183,36.842126,-107.977183,36.842126],
+  "bbox": [
+    -107.977183,
+    36.842126,
+    -107.977183,
+    36.842126
+],
   "geometry": {"coordinates":[-107.977183,36.842126],"type":"Point"}
 }

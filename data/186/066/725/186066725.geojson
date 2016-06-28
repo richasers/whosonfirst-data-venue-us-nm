@@ -2,13 +2,14 @@
   "id": 186066725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.989023,36.821312,-107.989023,36.821312",
     "geom:latitude":36.821312,
     "geom:longitude":-107.989023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 E Blanco St",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186066725,
-    "wof:lastmodified":1449051156,
+    "wof:lastmodified":1466698482,
     "wof:name":"Maverick Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clocks"
     ]
 },
-  "bbox": [-107.989023,36.821312,-107.989023,36.821312],
+  "bbox": [
+    -107.989023,
+    36.821312,
+    -107.989023,
+    36.821312
+],
   "geometry": {"coordinates":[-107.989023,36.821312],"type":"Point"}
 }

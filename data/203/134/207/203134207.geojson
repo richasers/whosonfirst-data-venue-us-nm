@@ -2,13 +2,14 @@
   "id": 203134207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.122327,36.78037,-108.122327,36.78037",
     "geom:latitude":36.78037,
     "geom:longitude":-108.122327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5600 Mickey Dr",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203134207,
-    "wof:lastmodified":1449026764,
+    "wof:lastmodified":1466699049,
     "wof:name":"Baby Exchange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accessory"
     ]
 },
-  "bbox": [-108.122327,36.78037,-108.122327,36.78037],
+  "bbox": [
+    -108.122327,
+    36.78037,
+    -108.122327,
+    36.78037
+],
   "geometry": {"coordinates":[-108.122327,36.78037],"type":"Point"}
 }

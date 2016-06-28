@@ -2,13 +2,14 @@
   "id": 185998855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.725628,35.134093,-103.725628,35.134093",
     "geom:latitude":35.134093,
     "geom:longitude":-103.725628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8204 State Hwy 209",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":185998855,
-    "wof:lastmodified":1449007125,
+    "wof:lastmodified":1466699669,
     "wof:name":"Custom Design & Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "general"
     ]
 },
-  "bbox": [-103.725628,35.134093,-103.725628,35.134093],
+  "bbox": [
+    -103.725628,
+    35.134093,
+    -103.725628,
+    35.134093
+],
   "geometry": {"coordinates":[-103.725628,35.134093],"type":"Point"}
 }

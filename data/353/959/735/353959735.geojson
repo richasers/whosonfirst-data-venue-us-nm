@@ -2,13 +2,14 @@
   "id": 353959735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.664549,35.184441,-106.664549,35.184441",
     "geom:latitude":35.184441,
     "geom:longitude":-106.664549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9311 Coors Blvd NW Ste 023",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353959735,
-    "wof:lastmodified":1449020553,
+    "wof:lastmodified":1466698770,
     "wof:name":"Vivi's Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.664549,35.184441,-106.664549,35.184441],
-  "geometry": {"coordinates":[-106.664549,35.184441],"type":"Point"}
+  "bbox": [
+    -106.664549,
+    35.184441,
+    -106.664549,
+    35.184441
+],
+  "geometry": {"coordinates":[-106.66454899999999,35.184441],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202999519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.93964,36.883185,-107.93964,36.883185",
     "geom:latitude":36.883185,
     "geom:longitude":-107.93964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Rd 2755",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202999519,
-    "wof:lastmodified":1449062343,
+    "wof:lastmodified":1466700760,
     "wof:name":"Eagle Mobile Home Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "home"
     ]
 },
-  "bbox": [-107.93964,36.883185,-107.93964,36.883185],
+  "bbox": [
+    -107.93964,
+    36.883185,
+    -107.93964,
+    36.883185
+],
   "geometry": {"coordinates":[-107.93964,36.883185],"type":"Point"}
 }

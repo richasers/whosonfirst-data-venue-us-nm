@@ -2,13 +2,14 @@
   "id": 353971675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.628058,31.846706,-106.628058,31.846706",
     "geom:latitude":31.846706,
     "geom:longitude":-106.628058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Country Club Rd Box 838",
     "sg:city":"Santa Teresa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353971675,
-    "wof:lastmodified":1449019560,
+    "wof:lastmodified":1466699017,
     "wof:name":"Billy Crews",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.628058,31.846706,-106.628058,31.846706],
+  "bbox": [
+    -106.628058,
+    31.846706,
+    -106.628058,
+    31.846706
+],
   "geometry": {"coordinates":[-106.628058,31.846706],"type":"Point"}
 }

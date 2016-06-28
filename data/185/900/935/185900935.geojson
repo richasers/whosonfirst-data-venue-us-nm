@@ -2,13 +2,14 @@
   "id": 185900935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615563,35.098737,-106.615563,35.098737",
     "geom:latitude":35.098737,
     "geom:longitude":-106.615563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Lobo Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185900935,
-    "wof:lastmodified":1449007305,
+    "wof:lastmodified":1466698531,
     "wof:name":"Construction Data & Research",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "eng"
     ]
 },
-  "bbox": [-106.615563,35.098737,-106.615563,35.098737],
-  "geometry": {"coordinates":[-106.615563,35.098737],"type":"Point"}
+  "bbox": [
+    -106.615563,
+    35.098737,
+    -106.615563,
+    35.098737
+],
+  "geometry": {"coordinates":[-106.61556299999999,35.098737],"type":"Point"}
 }

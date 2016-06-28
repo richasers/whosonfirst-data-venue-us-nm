@@ -2,13 +2,14 @@
   "id": 186605605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638436,35.195383,-106.638436,35.195383",
     "geom:latitude":35.195383,
     "geom:longitude":-106.638436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1127 Alameda Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186605605,
-    "wof:lastmodified":1449051677,
+    "wof:lastmodified":1466700650,
     "wof:name":"Bosque Bull Sandwiches",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.638436,35.195383,-106.638436,35.195383],
+  "bbox": [
+    -106.638436,
+    35.195383,
+    -106.638436,
+    35.195383
+],
   "geometry": {"coordinates":[-106.638436,35.195383],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185809863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.226798,36.738707,-108.226798,36.738707",
     "geom:latitude":36.738707,
     "geom:longitude":-108.226798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1290 W Navajo St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185809863,
-    "wof:lastmodified":1449007942,
+    "wof:lastmodified":1466699368,
     "wof:name":"Federal Aviation ADM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-108.226798,36.738707,-108.226798,36.738707],
+  "bbox": [
+    -108.226798,
+    36.738707,
+    -108.226798,
+    36.738707
+],
   "geometry": {"coordinates":[-108.226798,36.738707],"type":"Point"}
 }

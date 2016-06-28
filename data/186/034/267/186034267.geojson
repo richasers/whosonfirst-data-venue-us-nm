@@ -2,13 +2,14 @@
   "id": 186034267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.596904,35.144332,-106.596904,35.144332",
     "geom:latitude":35.144332,
     "geom:longitude":-106.596904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5501 Jefferson St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186034267,
-    "wof:lastmodified":1449050547,
+    "wof:lastmodified":1466698063,
     "wof:name":"Alamosa PCS",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-106.596904,35.144332,-106.596904,35.144332],
-  "geometry": {"coordinates":[-106.596904,35.144332],"type":"Point"}
+  "bbox": [
+    -106.596904,
+    35.144332,
+    -106.596904,
+    35.144332
+],
+  "geometry": {"coordinates":[-106.59690399999999,35.144332],"type":"Point"}
 }

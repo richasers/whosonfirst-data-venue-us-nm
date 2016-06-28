@@ -2,13 +2,14 @@
   "id": 202884405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.62483,33.324686,-105.62483,33.324686",
     "geom:latitude":33.324686,
     "geom:longitude":-105.62483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 US Hwy 70",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202884405,
-    "wof:lastmodified":1449062181,
+    "wof:lastmodified":1466700200,
     "wof:name":"Great Water Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plumbing"
     ]
 },
-  "bbox": [-105.62483,33.324686,-105.62483,33.324686],
+  "bbox": [
+    -105.62483,
+    33.324686,
+    -105.62483,
+    33.324686
+],
   "geometry": {"coordinates":[-105.62483,33.324686],"type":"Point"}
 }

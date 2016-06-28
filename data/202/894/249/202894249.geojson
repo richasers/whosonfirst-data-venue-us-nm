@@ -2,13 +2,14 @@
   "id": 202894249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.96873,35.625558,-105.96873,35.625558",
     "geom:latitude":35.625558,
     "geom:longitude":-105.96873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Old Galisteo Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202894249,
-    "wof:lastmodified":1449061154,
+    "wof:lastmodified":1466700241,
     "wof:name":"Santa Fe Stitches Embroidery",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "embroidered"
     ]
 },
-  "bbox": [-105.96873,35.625558,-105.96873,35.625558],
-  "geometry": {"coordinates":[-105.96873,35.625558],"type":"Point"}
+  "bbox": [
+    -105.96873,
+    35.625558,
+    -105.96873,
+    35.625558
+],
+  "geometry": {"coordinates":[-105.96872999999999,35.625558],"type":"Point"}
 }

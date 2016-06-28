@@ -2,13 +2,14 @@
   "id": 202547409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649676,35.139564,-106.649676,35.139564",
     "geom:latitude":35.139564,
     "geom:longitude":-106.649676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 Montano Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202547409,
-    "wof:lastmodified":1449060376,
+    "wof:lastmodified":1466697607,
     "wof:name":"Estevan's",
     "wof:parent_id":85892593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.649676,35.139564,-106.649676,35.139564],
+  "bbox": [
+    -106.649676,
+    35.139564,
+    -106.649676,
+    35.139564
+],
   "geometry": {"coordinates":[-106.649676,35.139564],"type":"Point"}
 }

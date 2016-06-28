@@ -2,13 +2,14 @@
   "id": 185816767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.352286,35.101382,-106.352286,35.101382",
     "geom:latitude":35.101382,
     "geom:longitude":-106.352286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"768 US Hwy 66",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185816767,
-    "wof:lastmodified":1449007547,
+    "wof:lastmodified":1466697644,
     "wof:name":"Mountain View Campground & Rv",
     "wof:parent_id":85892613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-106.352286,35.101382,-106.352286,35.101382],
-  "geometry": {"coordinates":[-106.352286,35.101382],"type":"Point"}
+  "bbox": [
+    -106.352286,
+    35.101382,
+    -106.352286,
+    35.101382
+],
+  "geometry": {"coordinates":[-106.35228600000001,35.101382],"type":"Point"}
 }

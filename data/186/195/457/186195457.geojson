@@ -2,13 +2,14 @@
   "id": 186195457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.162919,36.747128,-108.162919,36.747128",
     "geom:latitude":36.747128,
     "geom:longitude":-108.162919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3030 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186195457,
-    "wof:lastmodified":1449052135,
+    "wof:lastmodified":1466697965,
     "wof:name":"Payday USA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-108.162919,36.747128,-108.162919,36.747128],
+  "bbox": [
+    -108.162919,
+    36.747128,
+    -108.162919,
+    36.747128
+],
   "geometry": {"coordinates":[-108.162919,36.747128],"type":"Point"}
 }

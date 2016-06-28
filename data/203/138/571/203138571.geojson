@@ -2,13 +2,14 @@
   "id": 203138571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.215317,35.594977,-105.215317,35.594977",
     "geom:latitude":35.594977,
     "geom:longitude":-105.215317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Douglas Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203138571,
-    "wof:lastmodified":1449025453,
+    "wof:lastmodified":1466699067,
     "wof:name":"Spc Office Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "copying"
     ]
 },
-  "bbox": [-105.215317,35.594977,-105.215317,35.594977],
+  "bbox": [
+    -105.215317,
+    35.594977,
+    -105.215317,
+    35.594977
+],
   "geometry": {"coordinates":[-105.215317,35.594977],"type":"Point"}
 }

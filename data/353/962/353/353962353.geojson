@@ -2,13 +2,14 @@
   "id": 353962353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.657629,35.190794,-106.657629,35.190794",
     "geom:latitude":35.190794,
     "geom:longitude":-106.657629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9780 Coors Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":353962353,
-    "wof:lastmodified":1449019769,
+    "wof:lastmodified":1466698809,
     "wof:name":"Allstate Insurance Company - Misha Mansour-Owens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-106.657629,35.190794,-106.657629,35.190794],
+  "bbox": [
+    -106.657629,
+    35.190794,
+    -106.657629,
+    35.190794
+],
   "geometry": {"coordinates":[-106.657629,35.190794],"type":"Point"}
 }

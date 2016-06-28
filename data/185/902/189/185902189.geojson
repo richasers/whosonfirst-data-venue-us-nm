@@ -2,13 +2,14 @@
   "id": 185902189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.657393,35.119009,-106.657393,35.119009",
     "geom:latitude":35.119009,
     "geom:longitude":-106.657393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Garden Park Cir NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185902189,
-    "wof:lastmodified":1449007794,
+    "wof:lastmodified":1466698552,
     "wof:name":"Tim Wilde Construction",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.657393,35.119009,-106.657393,35.119009],
+  "bbox": [
+    -106.657393,
+    35.119009,
+    -106.657393,
+    35.119009
+],
   "geometry": {"coordinates":[-106.657393,35.119009],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202720201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.634225,35.080279,-106.634225,35.080279",
     "geom:latitude":35.080279,
     "geom:longitude":-106.634225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Cedar St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202720201,
-    "wof:lastmodified":1449060716,
+    "wof:lastmodified":1466699692,
     "wof:name":"Presbyterian Prf Building Phrm",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.634225,35.080279,-106.634225,35.080279],
+  "bbox": [
+    -106.634225,
+    35.080279,
+    -106.634225,
+    35.080279
+],
   "geometry": {"coordinates":[-106.634225,35.080279],"type":"Point"}
 }

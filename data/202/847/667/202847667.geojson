@@ -2,13 +2,14 @@
   "id": 202847667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.823763,32.350869,-106.823763,32.350869",
     "geom:latitude":32.350869,
     "geom:longitude":-106.823763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1865 Cochita Ln",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202847667,
-    "wof:lastmodified":1449061031,
+    "wof:lastmodified":1466700176,
     "wof:name":"Jaffra Consultants",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-106.823763,32.350869,-106.823763,32.350869],
+  "bbox": [
+    -106.823763,
+    32.350869,
+    -106.823763,
+    32.350869
+],
   "geometry": {"coordinates":[-106.823763,32.350869],"type":"Point"}
 }

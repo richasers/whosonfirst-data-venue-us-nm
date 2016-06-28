@@ -2,13 +2,14 @@
   "id": 353925631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.622094,35.076809,-106.622094,35.076809",
     "geom:latitude":35.076809,
     "geom:longitude":-106.622094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Yale Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":353925631,
-    "wof:lastmodified":1449018281,
+    "wof:lastmodified":1466697879,
     "wof:name":"Smith's",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "super"
     ]
 },
-  "bbox": [-106.622094,35.076809,-106.622094,35.076809],
+  "bbox": [
+    -106.622094,
+    35.076809,
+    -106.622094,
+    35.076809
+],
   "geometry": {"coordinates":[-106.622094,35.076809],"type":"Point"}
 }

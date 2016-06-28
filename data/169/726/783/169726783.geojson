@@ -2,13 +2,14 @@
   "id": 169726783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.370057,32.008595,-106.370057,32.008595",
     "geom:latitude":32.008595,
     "geom:longitude":-106.370057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"840 Broadmoor Dr",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169726783,
-    "wof:lastmodified":1449034952,
+    "wof:lastmodified":1466697850,
     "wof:name":"Rodriguez Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.370057,32.008595,-106.370057,32.008595],
+  "bbox": [
+    -106.370057,
+    32.008595,
+    -106.370057,
+    32.008595
+],
   "geometry": {"coordinates":[-106.370057,32.008595],"type":"Point"}
 }

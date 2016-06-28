@@ -2,13 +2,14 @@
   "id": 186487985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614455,35.278082,-106.614455,35.278082",
     "geom:latitude":35.278082,
     "geom:longitude":-106.614455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6075 Zenith Ct NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186487985,
-    "wof:lastmodified":1449051270,
+    "wof:lastmodified":1466700056,
     "wof:name":"Overeaters Anonymous Inc",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.614455,35.278082,-106.614455,35.278082],
-  "geometry": {"coordinates":[-106.614455,35.278082],"type":"Point"}
+  "bbox": [
+    -106.614455,
+    35.278082,
+    -106.614455,
+    35.278082
+],
+  "geometry": {"coordinates":[-106.61445500000001,35.278082],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203118481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.092565,36.794326,-108.092565,36.794326",
     "geom:latitude":36.794326,
     "geom:longitude":-108.092565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7855 Rd 3520",
     "sg:city":"Flora Vista",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203118481,
-    "wof:lastmodified":1449026479,
+    "wof:lastmodified":1466698913,
     "wof:name":"J B Bucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.092565,36.794326,-108.092565,36.794326],
-  "geometry": {"coordinates":[-108.092565,36.794326],"type":"Point"}
+  "bbox": [
+    -108.092565,
+    36.794326,
+    -108.092565,
+    36.794326
+],
+  "geometry": {"coordinates":[-108.09256499999999,36.794326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202804563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.720718,35.171812,-103.720718,35.171812",
     "geom:latitude":35.171812,
     "geom:longitude":-103.720718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 E Tucumcari Blvd",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202804563,
-    "wof:lastmodified":1449061857,
+    "wof:lastmodified":1466700089,
     "wof:name":"C-A Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.720718,35.171812,-103.720718,35.171812],
-  "geometry": {"coordinates":[-103.720718,35.171812],"type":"Point"}
+  "bbox": [
+    -103.720718,
+    35.171812,
+    -103.720718,
+    35.171812
+],
+  "geometry": {"coordinates":[-103.72071800000001,35.171812],"type":"Point"}
 }

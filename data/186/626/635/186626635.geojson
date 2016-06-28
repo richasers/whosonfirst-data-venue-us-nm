@@ -2,13 +2,14 @@
   "id": 186626635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.565383,35.094516,-106.565383,35.094516",
     "geom:latitude":35.094516,
     "geom:longitude":-106.565383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 Mesilla St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186626635,
-    "wof:lastmodified":1449053028,
+    "wof:lastmodified":1466700811,
     "wof:name":"J & A Electric",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.565383,35.094516,-106.565383,35.094516],
+  "bbox": [
+    -106.565383,
+    35.094516,
+    -106.565383,
+    35.094516
+],
   "geometry": {"coordinates":[-106.565383,35.094516],"type":"Point"}
 }

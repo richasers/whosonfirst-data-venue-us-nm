@@ -2,13 +2,14 @@
   "id": 186227633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.602641,35.194868,-106.602641,35.194868",
     "geom:latitude":35.194868,
     "geom:longitude":-106.602641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10105 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186227633,
-    "wof:lastmodified":1449050982,
+    "wof:lastmodified":1466698367,
     "wof:name":"Big Valley Construction Dmltn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.602641,35.194868,-106.602641,35.194868],
-  "geometry": {"coordinates":[-106.602641,35.194868],"type":"Point"}
+  "bbox": [
+    -106.602641,
+    35.194868,
+    -106.602641,
+    35.194868
+],
+  "geometry": {"coordinates":[-106.60264100000001,35.194868],"type":"Point"}
 }

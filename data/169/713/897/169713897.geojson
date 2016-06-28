@@ -2,13 +2,14 @@
   "id": 169713897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.204018,36.739306,-108.204018,36.739306",
     "geom:latitude":36.739306,
     "geom:longitude":-108.204018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 N Wall Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169713897,
-    "wof:lastmodified":1449035651,
+    "wof:lastmodified":1466697712,
     "wof:name":"Brad's Backhoe LTD Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.204018,36.739306,-108.204018,36.739306],
+  "bbox": [
+    -108.204018,
+    36.739306,
+    -108.204018,
+    36.739306
+],
   "geometry": {"coordinates":[-108.204018,36.739306],"type":"Point"}
 }

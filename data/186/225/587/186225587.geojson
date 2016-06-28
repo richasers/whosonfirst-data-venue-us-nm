@@ -2,13 +2,14 @@
   "id": 186225587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.596217,36.370395,-105.596217,36.370395",
     "geom:latitude":36.370395,
     "geom:longitude":-105.596217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1799 State Rte 68",
     "sg:city":"Velarde",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186225587,
-    "wof:lastmodified":1449051215,
+    "wof:lastmodified":1466698338,
     "wof:name":"Sugars Bbq & Hamburgers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-105.596217,36.370395,-105.596217,36.370395],
+  "bbox": [
+    -105.596217,
+    36.370395,
+    -105.596217,
+    36.370395
+],
   "geometry": {"coordinates":[-105.596217,36.370395],"type":"Point"}
 }

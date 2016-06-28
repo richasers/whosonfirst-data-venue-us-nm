@@ -2,13 +2,14 @@
   "id": 185639437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.503864,35.112615,-106.503864,35.112615",
     "geom:latitude":35.112615,
     "geom:longitude":-106.503864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2521 Landman Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185639437,
-    "wof:lastmodified":1449008196,
+    "wof:lastmodified":1466698037,
     "wof:name":"Faith R Timm Sign Language",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "interpreter"
     ]
 },
-  "bbox": [-106.503864,35.112615,-106.503864,35.112615],
-  "geometry": {"coordinates":[-106.503864,35.112615],"type":"Point"}
+  "bbox": [
+    -106.503864,
+    35.112615,
+    -106.503864,
+    35.112615
+],
+  "geometry": {"coordinates":[-106.50386399999999,35.112615],"type":"Point"}
 }

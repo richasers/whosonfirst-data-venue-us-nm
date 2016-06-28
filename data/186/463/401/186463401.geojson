@@ -2,13 +2,14 @@
   "id": 186463401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.507555,35.137564,-106.507555,35.137564",
     "geom:latitude":35.137564,
     "geom:longitude":-106.507555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11512 Key West Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186463401,
-    "wof:lastmodified":1449052234,
+    "wof:lastmodified":1466700086,
     "wof:name":"All Season School",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-106.507555,35.137564,-106.507555,35.137564],
+  "bbox": [
+    -106.507555,
+    35.137564,
+    -106.507555,
+    35.137564
+],
   "geometry": {"coordinates":[-106.507555,35.137564],"type":"Point"}
 }

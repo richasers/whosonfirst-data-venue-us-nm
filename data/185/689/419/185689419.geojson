@@ -2,13 +2,14 @@
   "id": 185689419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.56297,35.170993,-106.56297,35.170993",
     "geom:latitude":35.170993,
     "geom:longitude":-106.56297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7424 Santa Barbara Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185689419,
-    "wof:lastmodified":1449007968,
+    "wof:lastmodified":1466698547,
     "wof:name":"Fire Creek Film & Video Prod",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-106.56297,35.170993,-106.56297,35.170993],
-  "geometry": {"coordinates":[-106.56297,35.170993],"type":"Point"}
+  "bbox": [
+    -106.56297,
+    35.170993,
+    -106.56297,
+    35.170993
+],
+  "geometry": {"coordinates":[-106.56297000000001,35.170993],"type":"Point"}
 }

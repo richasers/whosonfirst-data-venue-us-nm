@@ -2,13 +2,14 @@
   "id": 203100627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.957753,35.695609,-105.957753,35.695609",
     "geom:latitude":35.695609,
     "geom:longitude":-105.957753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Corona St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203100627,
-    "wof:lastmodified":1449026367,
+    "wof:lastmodified":1466698742,
     "wof:name":"Mesa Analytics & Comuting LLC",
     "wof:parent_id":85880797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-105.957753,35.695609,-105.957753,35.695609],
+  "bbox": [
+    -105.957753,
+    35.695609,
+    -105.957753,
+    35.695609
+],
   "geometry": {"coordinates":[-105.957753,35.695609],"type":"Point"}
 }

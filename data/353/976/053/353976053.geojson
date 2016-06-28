@@ -2,13 +2,14 @@
   "id": 353976053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.179915,34.444795,-103.179915,34.444795",
     "geom:latitude":34.444795,
     "geom:longitude":-103.179915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3905 Don January Ave",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353976053,
-    "wof:lastmodified":1449019303,
+    "wof:lastmodified":1466699043,
     "wof:name":"Rjs Educational Support Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-103.179915,34.444795,-103.179915,34.444795],
-  "geometry": {"coordinates":[-103.179915,34.444795],"type":"Point"}
+  "bbox": [
+    -103.179915,
+    34.444795,
+    -103.179915,
+    34.444795
+],
+  "geometry": {"coordinates":[-103.17991499999999,34.444795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203035427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.503346,35.068541,-106.503346,35.068541",
     "geom:latitude":35.068541,
     "geom:longitude":-106.503346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Dorado Pl SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203035427,
-    "wof:lastmodified":1449026471,
+    "wof:lastmodified":1466697972,
     "wof:name":"Cvi Laser LLC",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "lense"
     ]
 },
-  "bbox": [-106.503346,35.068541,-106.503346,35.068541],
-  "geometry": {"coordinates":[-106.503346,35.068541],"type":"Point"}
+  "bbox": [
+    -106.503346,
+    35.068541,
+    -106.503346,
+    35.068541
+],
+  "geometry": {"coordinates":[-106.50334599999999,35.068541],"type":"Point"}
 }

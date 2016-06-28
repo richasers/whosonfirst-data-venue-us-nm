@@ -2,13 +2,14 @@
   "id": 353979313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.196518,34.411991,-103.196518,34.411991",
     "geom:latitude":34.411991,
     "geom:longitude":-103.196518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 N Prince St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353979313,
-    "wof:lastmodified":1449020046,
+    "wof:lastmodified":1466699082,
     "wof:name":"Grease Monkey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "tune"
     ]
 },
-  "bbox": [-103.196518,34.411991,-103.196518,34.411991],
+  "bbox": [
+    -103.196518,
+    34.411991,
+    -103.196518,
+    34.411991
+],
   "geometry": {"coordinates":[-103.196518,34.411991],"type":"Point"}
 }

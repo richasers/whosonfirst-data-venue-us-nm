@@ -2,13 +2,14 @@
   "id": 185847671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.531706,33.395291,-104.531706,33.395291",
     "geom:latitude":33.395291,
     "geom:longitude":-104.531706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 N Washington Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185847671,
-    "wof:lastmodified":1449007179,
+    "wof:lastmodified":1466697986,
     "wof:name":"Jones WITT Law Firm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-104.531706,33.395291,-104.531706,33.395291],
+  "bbox": [
+    -104.531706,
+    33.395291,
+    -104.531706,
+    33.395291
+],
   "geometry": {"coordinates":[-104.531706,33.395291],"type":"Point"}
 }

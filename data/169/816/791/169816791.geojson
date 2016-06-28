@@ -2,13 +2,14 @@
   "id": 169816791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.20527,34.401789,-103.20527,34.401789",
     "geom:latitude":34.401789,
     "geom:longitude":-103.20527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N Main St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169816791,
-    "wof:lastmodified":1449034611,
+    "wof:lastmodified":1466698714,
     "wof:name":"FAP Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-103.20527,34.401789,-103.20527,34.401789],
+  "bbox": [
+    -103.20527,
+    34.401789,
+    -103.20527,
+    34.401789
+],
   "geometry": {"coordinates":[-103.20527,34.401789],"type":"Point"}
 }

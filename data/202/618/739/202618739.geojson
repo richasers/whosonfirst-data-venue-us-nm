@@ -2,13 +2,14 @@
   "id": 202618739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.642142,35.176984,-106.642142,35.176984",
     "geom:latitude":35.176984,
     "geom:longitude":-106.642142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 Alondra Ln NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202618739,
-    "wof:lastmodified":1449061685,
+    "wof:lastmodified":1466698652,
     "wof:name":"Duban L Stewart MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-106.642142,35.176984,-106.642142,35.176984],
-  "geometry": {"coordinates":[-106.642142,35.176984],"type":"Point"}
+  "bbox": [
+    -106.642142,
+    35.176984,
+    -106.642142,
+    35.176984
+],
+  "geometry": {"coordinates":[-106.64214200000001,35.176984],"type":"Point"}
 }

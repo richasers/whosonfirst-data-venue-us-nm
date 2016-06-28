@@ -2,13 +2,14 @@
   "id": 202620757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.976327,32.835227,-105.976327,32.835227",
     "geom:latitude":32.835227,
     "geom:longitude":-105.976327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Briarwood Ct",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202620757,
-    "wof:lastmodified":1449062437,
+    "wof:lastmodified":1466698686,
     "wof:name":"Moment In Time Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-105.976327,32.835227,-105.976327,32.835227],
+  "bbox": [
+    -105.976327,
+    32.835227,
+    -105.976327,
+    32.835227
+],
   "geometry": {"coordinates":[-105.976327,32.835227],"type":"Point"}
 }

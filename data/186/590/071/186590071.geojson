@@ -2,13 +2,14 @@
   "id": 186590071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.95749,35.681469,-105.95749,35.681469",
     "geom:latitude":35.681469,
     "geom:longitude":-105.95749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1031 Hickox St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186590071,
-    "wof:lastmodified":1449051967,
+    "wof:lastmodified":1466700603,
     "wof:name":"Wellness Clinical Svc",
     "wof:parent_id":85880841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-105.95749,35.681469,-105.95749,35.681469],
-  "geometry": {"coordinates":[-105.95749,35.681469],"type":"Point"}
+  "bbox": [
+    -105.95749,
+    35.681469,
+    -105.95749,
+    35.681469
+],
+  "geometry": {"coordinates":[-105.95749000000001,35.681469],"type":"Point"}
 }

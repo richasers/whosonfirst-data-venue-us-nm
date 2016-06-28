@@ -2,13 +2,14 @@
   "id": 169793599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.01073,33.071329,-106.01073,33.071329",
     "geom:latitude":33.071329,
     "geom:longitude":-106.01073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Bookout Rd",
     "sg:city":"Tularosa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169793599,
-    "wof:lastmodified":1449034507,
+    "wof:lastmodified":1466698528,
     "wof:name":"Glover Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.01073,33.071329,-106.01073,33.071329],
+  "bbox": [
+    -106.01073,
+    33.071329,
+    -106.01073,
+    33.071329
+],
   "geometry": {"coordinates":[-106.01073,33.071329],"type":"Point"}
 }

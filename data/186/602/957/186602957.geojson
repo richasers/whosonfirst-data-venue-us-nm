@@ -2,13 +2,14 @@
   "id": 186602957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.256637,32.784903,-108.256637,32.784903",
     "geom:latitude":32.784903,
     "geom:longitude":-108.256637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2045 Memory Ln",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186602957,
-    "wof:lastmodified":1449051644,
+    "wof:lastmodified":1466700641,
     "wof:name":"Mud Puddle Ceramics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.256637,32.784903,-108.256637,32.784903],
+  "bbox": [
+    -108.256637,
+    32.784903,
+    -108.256637,
+    32.784903
+],
   "geometry": {"coordinates":[-108.256637,32.784903],"type":"Point"}
 }

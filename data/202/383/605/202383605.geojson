@@ -2,13 +2,14 @@
   "id": 202383605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.669025,35.136953,-106.669025,35.136953",
     "geom:latitude":35.136953,
     "geom:longitude":-106.669025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3939 Rio Grande Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202383605,
-    "wof:lastmodified":1449061189,
+    "wof:lastmodified":1466697728,
     "wof:name":"Betheyla",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "yoga"
     ]
 },
-  "bbox": [-106.669025,35.136953,-106.669025,35.136953],
+  "bbox": [
+    -106.669025,
+    35.136953,
+    -106.669025,
+    35.136953
+],
   "geometry": {"coordinates":[-106.669025,35.136953],"type":"Point"}
 }

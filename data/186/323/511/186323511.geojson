@@ -2,13 +2,14 @@
   "id": 186323511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.69327,35.17613,-106.69327,35.17613",
     "geom:latitude":35.17613,
     "geom:longitude":-106.69327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5024 Summersville Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186323511,
-    "wof:lastmodified":1449050475,
+    "wof:lastmodified":1466699701,
     "wof:name":"Mel Kuehne Woodworking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.69327,35.17613,-106.69327,35.17613],
+  "bbox": [
+    -106.69327,
+    35.17613,
+    -106.69327,
+    35.17613
+],
   "geometry": {"coordinates":[-106.69327,35.17613],"type":"Point"}
 }

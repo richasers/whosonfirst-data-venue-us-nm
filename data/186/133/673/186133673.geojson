@@ -2,13 +2,14 @@
   "id": 186133673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.193756,34.446598,-103.193756,34.446598",
     "geom:latitude":34.446598,
     "geom:longitude":-103.193756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Fairway Ter N",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186133673,
-    "wof:lastmodified":1449052543,
+    "wof:lastmodified":1466699183,
     "wof:name":"Glen W Hisel DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-103.193756,34.446598,-103.193756,34.446598],
-  "geometry": {"coordinates":[-103.193756,34.446598],"type":"Point"}
+  "bbox": [
+    -103.193756,
+    34.446598,
+    -103.193756,
+    34.446598
+],
+  "geometry": {"coordinates":[-103.19375599999999,34.446598],"type":"Point"}
 }

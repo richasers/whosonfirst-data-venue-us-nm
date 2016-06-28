@@ -2,13 +2,14 @@
   "id": 202636841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586491,35.119103,-106.586491,35.119103",
     "geom:latitude":35.119103,
     "geom:longitude":-106.586491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3157 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202636841,
-    "wof:lastmodified":1449061122,
+    "wof:lastmodified":1466698938,
     "wof:name":"Fely's Curtains & Draperies",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drapery"
     ]
 },
-  "bbox": [-106.586491,35.119103,-106.586491,35.119103],
+  "bbox": [
+    -106.586491,
+    35.119103,
+    -106.586491,
+    35.119103
+],
   "geometry": {"coordinates":[-106.586491,35.119103],"type":"Point"}
 }

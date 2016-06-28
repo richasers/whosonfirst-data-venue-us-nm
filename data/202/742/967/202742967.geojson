@@ -2,13 +2,14 @@
   "id": 202742967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.344347,34.982626,-106.344347,34.982626",
     "geom:latitude":34.982626,
     "geom:longitude":-106.344347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Little Dipper Rd",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202742967,
-    "wof:lastmodified":1449060280,
+    "wof:lastmodified":1466699646,
     "wof:name":"Hydra Aquatic Ecology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wetland"
     ]
 },
-  "bbox": [-106.344347,34.982626,-106.344347,34.982626],
+  "bbox": [
+    -106.344347,
+    34.982626,
+    -106.344347,
+    34.982626
+],
   "geometry": {"coordinates":[-106.344347,34.982626],"type":"Point"}
 }

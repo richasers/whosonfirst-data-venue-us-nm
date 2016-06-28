@@ -2,13 +2,14 @@
   "id": 202928749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.9632,35.659558,-105.9632,35.659558",
     "geom:latitude":35.659558,
     "geom:longitude":-105.9632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Saint Michaels Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202928749,
-    "wof:lastmodified":1449062299,
+    "wof:lastmodified":1466700571,
     "wof:name":"Desert Chorale",
     "wof:parent_id":85880811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.9632,35.659558,-105.9632,35.659558],
+  "bbox": [
+    -105.9632,
+    35.659558,
+    -105.9632,
+    35.659558
+],
   "geometry": {"coordinates":[-105.9632,35.659558],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353953093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.515439,35.107006,-106.515439,35.107006",
     "geom:latitude":35.107006,
     "geom:longitude":-106.515439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2112 Juan Tabo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353953093,
-    "wof:lastmodified":1449019994,
+    "wof:lastmodified":1466698666,
     "wof:name":"Super Nail",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.515439,35.107006,-106.515439,35.107006],
+  "bbox": [
+    -106.515439,
+    35.107006,
+    -106.515439,
+    35.107006
+],
   "geometry": {"coordinates":[-106.515439,35.107006],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186561703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.521386,35.318087,-106.521386,35.318087",
     "geom:latitude":35.318087,
     "geom:longitude":-106.521386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Placitas Trails Rd",
     "sg:city":"Placitas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186561703,
-    "wof:lastmodified":1449052257,
+    "wof:lastmodified":1466700509,
     "wof:name":"Directional Design Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.521386,35.318087,-106.521386,35.318087],
-  "geometry": {"coordinates":[-106.521386,35.318087],"type":"Point"}
+  "bbox": [
+    -106.521386,
+    35.318087,
+    -106.521386,
+    35.318087
+],
+  "geometry": {"coordinates":[-106.52138600000001,35.318087],"type":"Point"}
 }

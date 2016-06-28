@@ -2,13 +2,14 @@
   "id": 169802205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.946112,35.689212,-105.946112,35.689212",
     "geom:latitude":35.689212,
     "geom:longitude":-105.946112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 W San Francisco St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169802205,
-    "wof:lastmodified":1449035342,
+    "wof:lastmodified":1466698617,
     "wof:name":"Santa Fe Stages",
     "wof:parent_id":85880805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "theatrical"
     ]
 },
-  "bbox": [-105.946112,35.689212,-105.946112,35.689212],
+  "bbox": [
+    -105.946112,
+    35.689212,
+    -105.946112,
+    35.689212
+],
   "geometry": {"coordinates":[-105.946112,35.689212],"type":"Point"}
 }

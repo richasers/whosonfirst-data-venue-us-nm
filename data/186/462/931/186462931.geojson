@@ -2,13 +2,14 @@
   "id": 186462931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.941926,32.915096,-105.941926,32.915096",
     "geom:latitude":32.915096,
     "geom:longitude":-105.941926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2008 Stanford Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186462931,
-    "wof:lastmodified":1449052939,
+    "wof:lastmodified":1466700220,
     "wof:name":"Window Tinting By Gus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-105.941926,32.915096,-105.941926,32.915096],
+  "bbox": [
+    -105.941926,
+    32.915096,
+    -105.941926,
+    32.915096
+],
   "geometry": {"coordinates":[-105.941926,32.915096],"type":"Point"}
 }

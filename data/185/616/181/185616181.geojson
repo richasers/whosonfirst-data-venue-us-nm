@@ -2,13 +2,14 @@
   "id": 185616181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.438338,36.910248,-104.438338,36.910248",
     "geom:latitude":36.910248,
     "geom:longitude":-104.438338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Uracca St",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185616181,
-    "wof:lastmodified":1449007773,
+    "wof:lastmodified":1466697778,
     "wof:name":"Hot Dog Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-104.438338,36.910248,-104.438338,36.910248],
+  "bbox": [
+    -104.438338,
+    36.910248,
+    -104.438338,
+    36.910248
+],
   "geometry": {"coordinates":[-104.438338,36.910248],"type":"Point"}
 }

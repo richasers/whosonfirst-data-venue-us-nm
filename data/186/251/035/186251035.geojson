@@ -2,13 +2,14 @@
   "id": 186251035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.014384,35.08416,-106.014384,35.08416",
     "geom:latitude":35.08416,
     "geom:longitude":-106.014384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 Dinkle Rd",
     "sg:city":"Stanley",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186251035,
-    "wof:lastmodified":1449050314,
+    "wof:lastmodified":1466698679,
     "wof:name":"JBS Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-106.014384,35.08416,-106.014384,35.08416],
-  "geometry": {"coordinates":[-106.014384,35.08416],"type":"Point"}
+  "bbox": [
+    -106.014384,
+    35.08416,
+    -106.014384,
+    35.08416
+],
+  "geometry": {"coordinates":[-106.01438400000001,35.08416],"type":"Point"}
 }

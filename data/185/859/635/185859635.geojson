@@ -2,13 +2,14 @@
   "id": 185859635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.592786,35.186069,-106.592786,35.186069",
     "geom:latitude":35.186069,
     "geom:longitude":-106.592786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 Columbine Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185859635,
-    "wof:lastmodified":1449007744,
+    "wof:lastmodified":1466698110,
     "wof:name":"Integrity Networking Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.592786,35.186069,-106.592786,35.186069],
+  "bbox": [
+    -106.592786,
+    35.186069,
+    -106.592786,
+    35.186069
+],
   "geometry": {"coordinates":[-106.592786,35.186069],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202547967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.56471,35.127548,-106.56471,35.127548",
     "geom:latitude":35.127548,
     "geom:longitude":-106.56471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7208 Carriveau Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202547967,
-    "wof:lastmodified":1449060377,
+    "wof:lastmodified":1466697615,
     "wof:name":"Herman Livingstone Consultant",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "educational"
     ]
 },
-  "bbox": [-106.56471,35.127548,-106.56471,35.127548],
-  "geometry": {"coordinates":[-106.56471,35.127548],"type":"Point"}
+  "bbox": [
+    -106.56471,
+    35.127548,
+    -106.56471,
+    35.127548
+],
+  "geometry": {"coordinates":[-106.56471000000001,35.127548],"type":"Point"}
 }

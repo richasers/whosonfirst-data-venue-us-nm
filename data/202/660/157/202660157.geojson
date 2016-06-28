@@ -2,13 +2,14 @@
   "id": 202660157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.009809,35.627561,-106.009809,35.627561",
     "geom:latitude":35.627561,
     "geom:longitude":-106.009809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4436 Autumn Leaf Ln",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202660157,
-    "wof:lastmodified":1449062384,
+    "wof:lastmodified":1466699286,
     "wof:name":"HRKK Properties",
     "wof:parent_id":85880823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-106.009809,35.627561,-106.009809,35.627561],
+  "bbox": [
+    -106.009809,
+    35.627561,
+    -106.009809,
+    35.627561
+],
   "geometry": {"coordinates":[-106.009809,35.627561],"type":"Point"}
 }

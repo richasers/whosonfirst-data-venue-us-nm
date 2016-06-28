@@ -2,13 +2,14 @@
   "id": 203099485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.627107,35.052717,-106.627107,35.052717",
     "geom:latitude":35.052717,
     "geom:longitude":-106.627107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Randolph Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203099485,
-    "wof:lastmodified":1449026213,
+    "wof:lastmodified":1466698727,
     "wof:name":"Brown Minneapolis Tank",
     "wof:parent_id":85846885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.627107,35.052717,-106.627107,35.052717],
+  "bbox": [
+    -106.627107,
+    35.052717,
+    -106.627107,
+    35.052717
+],
   "geometry": {"coordinates":[-106.627107,35.052717],"type":"Point"}
 }

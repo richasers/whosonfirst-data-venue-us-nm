@@ -2,13 +2,14 @@
   "id": 186433709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.700337,35.069766,-106.700337,35.069766",
     "geom:latitude":35.069766,
     "geom:longitude":-106.700337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 Old Coors Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186433709,
-    "wof:lastmodified":1449050558,
+    "wof:lastmodified":1466699989,
     "wof:name":"Hector's Bakery",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-106.700337,35.069766,-106.700337,35.069766],
+  "bbox": [
+    -106.700337,
+    35.069766,
+    -106.700337,
+    35.069766
+],
   "geometry": {"coordinates":[-106.700337,35.069766],"type":"Point"}
 }

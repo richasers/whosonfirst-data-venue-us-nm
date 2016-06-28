@@ -2,13 +2,14 @@
   "id": 185837465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.653047,35.090358,-106.653047,35.090358",
     "geom:latitude":35.090358,
     "geom:longitude":-106.653047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 6th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185837465,
-    "wof:lastmodified":1449006867,
+    "wof:lastmodified":1466697869,
     "wof:name":"City of Albuquerque",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-106.653047,35.090358,-106.653047,35.090358],
+  "bbox": [
+    -106.653047,
+    35.090358,
+    -106.653047,
+    35.090358
+],
   "geometry": {"coordinates":[-106.653047,35.090358],"type":"Point"}
 }

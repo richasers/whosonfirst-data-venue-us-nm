@@ -2,13 +2,14 @@
   "id": 186459751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.005667,36.833647,-108.005667,36.833647",
     "geom:latitude":36.833647,
     "geom:longitude":-108.005667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 Gila Cir",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186459751,
-    "wof:lastmodified":1449051463,
+    "wof:lastmodified":1466700077,
     "wof:name":"Cimmaron Gas Processing Equip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gas"
     ]
 },
-  "bbox": [-108.005667,36.833647,-108.005667,36.833647],
+  "bbox": [
+    -108.005667,
+    36.833647,
+    -108.005667,
+    36.833647
+],
   "geometry": {"coordinates":[-108.005667,36.833647],"type":"Point"}
 }

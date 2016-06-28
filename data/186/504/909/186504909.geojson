@@ -2,13 +2,14 @@
   "id": 186504909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.71575,34.979643,-106.71575,34.979643",
     "geom:latitude":34.979643,
     "geom:longitude":-106.71575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6316 Childs Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186504909,
-    "wof:lastmodified":1449050887,
+    "wof:lastmodified":1466700106,
     "wof:name":"Milagro Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-106.71575,34.979643,-106.71575,34.979643],
+  "bbox": [
+    -106.71575,
+    34.979643,
+    -106.71575,
+    34.979643
+],
   "geometry": {"coordinates":[-106.71575,34.979643],"type":"Point"}
 }

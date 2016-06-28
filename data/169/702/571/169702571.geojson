@@ -2,13 +2,14 @@
   "id": 169702571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.493785,35.089298,-106.493785,35.089298",
     "geom:latitude":35.089298,
     "geom:longitude":-106.493785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13510 Auburn Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169702571,
-    "wof:lastmodified":1449034339,
+    "wof:lastmodified":1466697621,
     "wof:name":"Jeanne In A Bottle Inc",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-106.493785,35.089298,-106.493785,35.089298],
+  "bbox": [
+    -106.493785,
+    35.089298,
+    -106.493785,
+    35.089298
+],
   "geometry": {"coordinates":[-106.493785,35.089298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202579599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.683908,35.086321,-106.683908,35.086321",
     "geom:latitude":35.086321,
     "geom:longitude":-106.683908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3911 Central Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202579599,
-    "wof:lastmodified":1449060919,
+    "wof:lastmodified":1466698082,
     "wof:name":"Route 66 Auto Emissions",
     "wof:parent_id":85892605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "inspection"
     ]
 },
-  "bbox": [-106.683908,35.086321,-106.683908,35.086321],
+  "bbox": [
+    -106.683908,
+    35.086321,
+    -106.683908,
+    35.086321
+],
   "geometry": {"coordinates":[-106.683908,35.086321],"type":"Point"}
 }

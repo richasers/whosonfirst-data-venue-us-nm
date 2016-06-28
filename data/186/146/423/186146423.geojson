@@ -2,13 +2,14 @@
   "id": 186146423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.710832,35.156137,-106.710832,35.156137",
     "geom:latitude":35.156137,
     "geom:longitude":-106.710832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6321 Pojoaque Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186146423,
-    "wof:lastmodified":1449051485,
+    "wof:lastmodified":1466699242,
     "wof:name":"Excellence In Education LLC",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "educational"
     ]
 },
-  "bbox": [-106.710832,35.156137,-106.710832,35.156137],
+  "bbox": [
+    -106.710832,
+    35.156137,
+    -106.710832,
+    35.156137
+],
   "geometry": {"coordinates":[-106.710832,35.156137],"type":"Point"}
 }

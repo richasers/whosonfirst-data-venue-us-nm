@@ -2,13 +2,14 @@
   "id": 202418943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.223358,34.42074,-103.223358,34.42074",
     "geom:latitude":34.42074,
     "geom:longitude":-103.223358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Sasser Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202418943,
-    "wof:lastmodified":1449062107,
+    "wof:lastmodified":1466698184,
     "wof:name":"Jeter Engine Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.223358,34.42074,-103.223358,34.42074],
+  "bbox": [
+    -103.223358,
+    34.42074,
+    -103.223358,
+    34.42074
+],
   "geometry": {"coordinates":[-103.223358,34.42074],"type":"Point"}
 }

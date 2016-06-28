@@ -2,13 +2,14 @@
   "id": 186334453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.55746,31.791069,-106.55746,31.791069",
     "geom:latitude":31.791069,
     "geom:longitude":-106.55746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Ardovinos Dr",
     "sg:city":"Sunland Park",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186334453,
-    "wof:lastmodified":1449051161,
+    "wof:lastmodified":1466699733,
     "wof:name":"Ardovino's Desert Crossing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "banquet"
     ]
 },
-  "bbox": [-106.55746,31.791069,-106.55746,31.791069],
-  "geometry": {"coordinates":[-106.55746,31.791069],"type":"Point"}
+  "bbox": [
+    -106.55746,
+    31.791069,
+    -106.55746,
+    31.791069
+],
+  "geometry": {"coordinates":[-106.55746000000001,31.791069],"type":"Point"}
 }

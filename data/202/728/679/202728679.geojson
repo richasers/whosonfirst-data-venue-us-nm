@@ -2,13 +2,14 @@
   "id": 202728679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.579603,36.901759,-106.579603,36.901759",
     "geom:latitude":36.901759,
     "geom:longitude":-106.579603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"587 Terrace Ave",
     "sg:city":"Chama",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202728679,
-    "wof:lastmodified":1449060698,
+    "wof:lastmodified":1466699722,
     "wof:name":"Rio Grande Railway Prsrvtn",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.579603,36.901759,-106.579603,36.901759],
-  "geometry": {"coordinates":[-106.579603,36.901759],"type":"Point"}
+  "bbox": [
+    -106.579603,
+    36.901759,
+    -106.579603,
+    36.901759
+],
+  "geometry": {"coordinates":[-106.57960300000001,36.901759],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185651499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.738079,35.52937,-108.738079,35.52937",
     "geom:latitude":35.52937,
     "geom:longitude":-108.738079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 S Woodrow Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185651499,
-    "wof:lastmodified":1449006931,
+    "wof:lastmodified":1466698151,
     "wof:name":"Poor Boys Discount Auto Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-108.738079,35.52937,-108.738079,35.52937],
+  "bbox": [
+    -108.738079,
+    35.52937,
+    -108.738079,
+    35.52937
+],
   "geometry": {"coordinates":[-108.738079,35.52937],"type":"Point"}
 }

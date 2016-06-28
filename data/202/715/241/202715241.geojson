@@ -2,13 +2,14 @@
   "id": 202715241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.671239,35.097543,-106.671239,35.097543",
     "geom:latitude":35.097543,
     "geom:longitude":-106.671239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Rio Grande Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202715241,
-    "wof:lastmodified":1449062157,
+    "wof:lastmodified":1466699663,
     "wof:name":"Great Southwest Pottery Co",
     "wof:parent_id":85839415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "indian"
     ]
 },
-  "bbox": [-106.671239,35.097543,-106.671239,35.097543],
+  "bbox": [
+    -106.671239,
+    35.097543,
+    -106.671239,
+    35.097543
+],
   "geometry": {"coordinates":[-106.671239,35.097543],"type":"Point"}
 }

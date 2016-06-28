@@ -2,13 +2,14 @@
   "id": 186490087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.522462,33.391919,-104.522462,33.391919",
     "geom:latitude":33.391919,
     "geom:longitude":-104.522462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 E Walnut St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186490087,
-    "wof:lastmodified":1449052747,
+    "wof:lastmodified":1466700057,
     "wof:name":"Solo Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-104.522462,33.391919,-104.522462,33.391919],
+  "bbox": [
+    -104.522462,
+    33.391919,
+    -104.522462,
+    33.391919
+],
   "geometry": {"coordinates":[-104.522462,33.391919],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186360665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.55203,35.102766,-106.55203,35.102766",
     "geom:latitude":35.102766,
     "geom:longitude":-106.55203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 Wisconsin St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186360665,
-    "wof:lastmodified":1449052391,
+    "wof:lastmodified":1466699583,
     "wof:name":"Eagle Safe & Lock",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.55203,35.102766,-106.55203,35.102766],
+  "bbox": [
+    -106.55203,
+    35.102766,
+    -106.55203,
+    35.102766
+],
   "geometry": {"coordinates":[-106.55203,35.102766],"type":"Point"}
 }

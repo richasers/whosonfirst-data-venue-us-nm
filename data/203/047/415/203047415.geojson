@@ -2,13 +2,14 @@
   "id": 203047415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.549055,35.159002,-106.549055,35.159002",
     "geom:latitude":35.159002,
     "geom:longitude":-106.549055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8505 Cherry Hills Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203047415,
-    "wof:lastmodified":1449026196,
+    "wof:lastmodified":1466698111,
     "wof:name":"Coherent Technologies",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "technology"
     ]
 },
-  "bbox": [-106.549055,35.159002,-106.549055,35.159002],
+  "bbox": [
+    -106.549055,
+    35.159002,
+    -106.549055,
+    35.159002
+],
   "geometry": {"coordinates":[-106.549055,35.159002],"type":"Point"}
 }

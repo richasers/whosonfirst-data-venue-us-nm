@@ -2,13 +2,14 @@
   "id": 202492717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.737654,35.506997,-108.737654,35.506997",
     "geom:latitude":35.506997,
     "geom:longitude":-108.737654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Rudy Dr",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202492717,
-    "wof:lastmodified":1449060107,
+    "wof:lastmodified":1466699084,
     "wof:name":"Anthony Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-108.737654,35.506997,-108.737654,35.506997],
-  "geometry": {"coordinates":[-108.737654,35.506997],"type":"Point"}
+  "bbox": [
+    -108.737654,
+    35.506997,
+    -108.737654,
+    35.506997
+],
+  "geometry": {"coordinates":[-108.73765400000001,35.506997],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203025921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.275808,33.117471,-107.275808,33.117471",
     "geom:latitude":33.117471,
     "geom:longitude":-107.275808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 Mercury St",
     "sg:city":"Truth Or Consequences",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203025921,
-    "wof:lastmodified":1449026538,
+    "wof:lastmodified":1466697883,
     "wof:name":"Jerrys Mobile Home Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-107.275808,33.117471,-107.275808,33.117471],
+  "bbox": [
+    -107.275808,
+    33.117471,
+    -107.275808,
+    33.117471
+],
   "geometry": {"coordinates":[-107.275808,33.117471],"type":"Point"}
 }

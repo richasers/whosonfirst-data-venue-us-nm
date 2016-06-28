@@ -2,13 +2,14 @@
   "id": 186589853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.766027,32.266746,-107.766027,32.266746",
     "geom:latitude":32.266746,
     "geom:longitude":-107.766027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 W Spruce St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186589853,
-    "wof:lastmodified":1449051804,
+    "wof:lastmodified":1466700615,
     "wof:name":"Deming Helping Hand Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.766027,32.266746,-107.766027,32.266746],
-  "geometry": {"coordinates":[-107.766027,32.266746],"type":"Point"}
+  "bbox": [
+    -107.766027,
+    32.266746,
+    -107.766027,
+    32.266746
+],
+  "geometry": {"coordinates":[-107.76602699999999,32.266746],"type":"Point"}
 }

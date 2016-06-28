@@ -2,13 +2,14 @@
   "id": 186073999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.758923,32.311786,-106.758923,32.311786",
     "geom:latitude":32.311786,
     "geom:longitude":-106.758923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1890 San Juan Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186073999,
-    "wof:lastmodified":1449050725,
+    "wof:lastmodified":1466698566,
     "wof:name":"J C Roofing Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.758923,32.311786,-106.758923,32.311786],
+  "bbox": [
+    -106.758923,
+    32.311786,
+    -106.758923,
+    32.311786
+],
   "geometry": {"coordinates":[-106.758923,32.311786],"type":"Point"}
 }

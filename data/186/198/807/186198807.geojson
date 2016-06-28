@@ -2,13 +2,14 @@
   "id": 186198807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.515781,35.120003,-106.515781,35.120003",
     "geom:latitude":35.120003,
     "geom:longitude":-106.515781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3309 Juan Tabo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186198807,
-    "wof:lastmodified":1449051360,
+    "wof:lastmodified":1466698013,
     "wof:name":"Bruce Alexander Jack DDS",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.515781,35.120003,-106.515781,35.120003],
+  "bbox": [
+    -106.515781,
+    35.120003,
+    -106.515781,
+    35.120003
+],
   "geometry": {"coordinates":[-106.515781,35.120003],"type":"Point"}
 }

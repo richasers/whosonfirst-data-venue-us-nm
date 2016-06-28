@@ -2,13 +2,14 @@
   "id": 202420609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.022233,35.635887,-106.022233,35.635887",
     "geom:latitude":35.635887,
     "geom:longitude":-106.022233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2586 Cam Entrada",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202420609,
-    "wof:lastmodified":1449061340,
+    "wof:lastmodified":1466698203,
     "wof:name":"Don Chalmers Lincoln Mercury",
     "wof:parent_id":85880823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.022233,35.635887,-106.022233,35.635887],
+  "bbox": [
+    -106.022233,
+    35.635887,
+    -106.022233,
+    35.635887
+],
   "geometry": {"coordinates":[-106.022233,35.635887],"type":"Point"}
 }

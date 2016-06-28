@@ -2,13 +2,14 @@
   "id": 185647573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.341857,34.984784,-106.341857,34.984784",
     "geom:latitude":34.984784,
     "geom:longitude":-106.341857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Skyland Blvd",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185647573,
-    "wof:lastmodified":1449007382,
+    "wof:lastmodified":1466698101,
     "wof:name":"Body Talk LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.341857,34.984784,-106.341857,34.984784],
+  "bbox": [
+    -106.341857,
+    34.984784,
+    -106.341857,
+    34.984784
+],
   "geometry": {"coordinates":[-106.341857,34.984784],"type":"Point"}
 }

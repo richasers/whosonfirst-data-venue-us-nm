@@ -2,13 +2,14 @@
   "id": 186559057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.497973,35.074069,-106.497973,35.074069",
     "geom:latitude":35.074069,
     "geom:longitude":-106.497973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13307 Cloudview Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186559057,
-    "wof:lastmodified":1449052416,
+    "wof:lastmodified":1466700502,
     "wof:name":"Est Care Management LLC",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.497973,35.074069,-106.497973,35.074069],
+  "bbox": [
+    -106.497973,
+    35.074069,
+    -106.497973,
+    35.074069
+],
   "geometry": {"coordinates":[-106.497973,35.074069],"type":"Point"}
 }

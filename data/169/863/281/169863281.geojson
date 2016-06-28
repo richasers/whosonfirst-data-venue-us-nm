@@ -2,13 +2,14 @@
   "id": 169863281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.993368,35.644033,-105.993368,35.644033",
     "geom:latitude":35.644033,
     "geom:longitude":-105.993368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"871 Cam Consuelo",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169863281,
-    "wof:lastmodified":1449034970,
+    "wof:lastmodified":1466698963,
     "wof:name":"Bike Doc",
     "wof:parent_id":85880845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bicycle"
     ]
 },
-  "bbox": [-105.993368,35.644033,-105.993368,35.644033],
+  "bbox": [
+    -105.993368,
+    35.644033,
+    -105.993368,
+    35.644033
+],
   "geometry": {"coordinates":[-105.993368,35.644033],"type":"Point"}
 }

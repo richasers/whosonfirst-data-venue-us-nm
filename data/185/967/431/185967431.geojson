@@ -2,13 +2,14 @@
   "id": 185967431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.632482,35.091026,-106.632482,35.091026",
     "geom:latitude":35.091026,
     "geom:longitude":-106.632482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 Medical Arts Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185967431,
-    "wof:lastmodified":1449008098,
+    "wof:lastmodified":1466699688,
     "wof:name":"University - New Mexico Health",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "school"
     ]
 },
-  "bbox": [-106.632482,35.091026,-106.632482,35.091026],
+  "bbox": [
+    -106.632482,
+    35.091026,
+    -106.632482,
+    35.091026
+],
   "geometry": {"coordinates":[-106.632482,35.091026],"type":"Point"}
 }

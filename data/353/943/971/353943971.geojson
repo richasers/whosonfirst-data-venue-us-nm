@@ -2,13 +2,14 @@
   "id": 353943971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.575161,35.10917,-106.575161,35.10917",
     "geom:latitude":35.10917,
     "geom:longitude":-106.575161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6209 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353943971,
-    "wof:lastmodified":1449018940,
+    "wof:lastmodified":1466698390,
     "wof:name":"Cricket Wireless - Towne East Shopping Center",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "cellular"
     ]
 },
-  "bbox": [-106.575161,35.10917,-106.575161,35.10917],
-  "geometry": {"coordinates":[-106.575161,35.10917],"type":"Point"}
+  "bbox": [
+    -106.575161,
+    35.10917,
+    -106.575161,
+    35.10917
+],
+  "geometry": {"coordinates":[-106.57516099999999,35.10917],"type":"Point"}
 }

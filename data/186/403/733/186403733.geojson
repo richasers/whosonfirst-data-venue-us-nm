@@ -2,13 +2,14 @@
   "id": 186403733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.151285,32.700864,-103.151285,32.700864",
     "geom:latitude":32.700864,
     "geom:longitude":-103.151285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 W Broadway Pl",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186403733,
-    "wof:lastmodified":1449052638,
+    "wof:lastmodified":1466699863,
     "wof:name":"Glen L Houston & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-103.151285,32.700864,-103.151285,32.700864],
+  "bbox": [
+    -103.151285,
+    32.700864,
+    -103.151285,
+    32.700864
+],
   "geometry": {"coordinates":[-103.151285,32.700864],"type":"Point"}
 }

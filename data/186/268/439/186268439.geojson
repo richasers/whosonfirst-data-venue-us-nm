@@ -2,13 +2,14 @@
   "id": 186268439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.075646,35.991471,-106.075646,35.991471",
     "geom:latitude":35.991471,
     "geom:longitude":-106.075646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Hunter St",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186268439,
-    "wof:lastmodified":1449051904,
+    "wof:lastmodified":1466698893,
     "wof:name":"Las Cumbres Learning Svc",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "special"
     ]
 },
-  "bbox": [-106.075646,35.991471,-106.075646,35.991471],
-  "geometry": {"coordinates":[-106.075646,35.991471],"type":"Point"}
+  "bbox": [
+    -106.075646,
+    35.991471,
+    -106.075646,
+    35.991471
+],
+  "geometry": {"coordinates":[-106.07564600000001,35.991471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185777935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550788,35.094156,-106.550788,35.094156",
     "geom:latitude":35.094156,
     "geom:longitude":-106.550788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185777935,
-    "wof:lastmodified":1449007473,
+    "wof:lastmodified":1466699257,
     "wof:name":"Solutions Group",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.550788,35.094156,-106.550788,35.094156],
+  "bbox": [
+    -106.550788,
+    35.094156,
+    -106.550788,
+    35.094156
+],
   "geometry": {"coordinates":[-106.550788,35.094156],"type":"Point"}
 }

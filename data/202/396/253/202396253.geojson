@@ -2,13 +2,14 @@
   "id": 202396253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.986221,35.658069,-105.986221,35.658069",
     "geom:latitude":35.658069,
     "geom:longitude":-105.986221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202396253,
-    "wof:lastmodified":1449061751,
+    "wof:lastmodified":1466697885,
     "wof:name":"Stephens A Consignment Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-105.986221,35.658069,-105.986221,35.658069],
+  "bbox": [
+    -105.986221,
+    35.658069,
+    -105.986221,
+    35.658069
+],
   "geometry": {"coordinates":[-105.986221,35.658069],"type":"Point"}
 }

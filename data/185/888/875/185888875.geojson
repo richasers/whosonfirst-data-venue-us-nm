@@ -2,13 +2,14 @@
   "id": 185888875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.927945,36.909454,-107.927945,36.909454",
     "geom:latitude":36.909454,
     "geom:longitude":-107.927945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"758 Rd 2900",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185888875,
-    "wof:lastmodified":1449007613,
+    "wof:lastmodified":1466698408,
     "wof:name":"Chip Shot Autofresh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.927945,36.909454,-107.927945,36.909454],
-  "geometry": {"coordinates":[-107.927945,36.909454],"type":"Point"}
+  "bbox": [
+    -107.927945,
+    36.909454,
+    -107.927945,
+    36.909454
+],
+  "geometry": {"coordinates":[-107.92794499999999,36.909454],"type":"Point"}
 }

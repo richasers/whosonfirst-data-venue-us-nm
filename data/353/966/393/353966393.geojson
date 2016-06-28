@@ -2,13 +2,14 @@
   "id": 353966393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.551682,35.181502,-106.551682,35.181502",
     "geom:latitude":35.181502,
     "geom:longitude":-106.551682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8605 Tierra Bonita Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353966393,
-    "wof:lastmodified":1449018278,
+    "wof:lastmodified":1466698917,
     "wof:name":"Dr. Parveen's Pediatric Care, Pc",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.551682,35.181502,-106.551682,35.181502],
+  "bbox": [
+    -106.551682,
+    35.181502,
+    -106.551682,
+    35.181502
+],
   "geometry": {"coordinates":[-106.551682,35.181502],"type":"Point"}
 }

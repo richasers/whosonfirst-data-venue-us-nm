@@ -2,13 +2,14 @@
   "id": 169815507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.632881,35.147898,-106.632881,35.147898",
     "geom:latitude":35.147898,
     "geom:longitude":-106.632881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6214 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169815507,
-    "wof:lastmodified":1449034279,
+    "wof:lastmodified":1466698708,
     "wof:name":"Accounting Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.632881,35.147898,-106.632881,35.147898],
+  "bbox": [
+    -106.632881,
+    35.147898,
+    -106.632881,
+    35.147898
+],
   "geometry": {"coordinates":[-106.632881,35.147898],"type":"Point"}
 }

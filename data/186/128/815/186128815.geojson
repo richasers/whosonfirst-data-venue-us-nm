@@ -2,13 +2,14 @@
   "id": 186128815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614728,35.133253,-106.614728,35.133253",
     "geom:latitude":35.133253,
     "geom:longitude":-106.614728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Desert Surf Cir NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":186128815,
-    "wof:lastmodified":1449051409,
+    "wof:lastmodified":1466699150,
     "wof:name":"Beach Water Park The Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.614728,35.133253,-106.614728,35.133253],
+  "bbox": [
+    -106.614728,
+    35.133253,
+    -106.614728,
+    35.133253
+],
   "geometry": {"coordinates":[-106.614728,35.133253],"type":"Point"}
 }

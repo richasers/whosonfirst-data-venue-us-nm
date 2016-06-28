@@ -2,13 +2,14 @@
   "id": 186405307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.690602,35.772148,-106.690602,35.772148",
     "geom:latitude":35.772148,
     "geom:longitude":-106.690602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Jemez Springs Plz",
     "sg:city":"Jemez Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186405307,
-    "wof:lastmodified":1449052797,
+    "wof:lastmodified":1466699867,
     "wof:name":"Jemez Springs City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-106.690602,35.772148,-106.690602,35.772148],
+  "bbox": [
+    -106.690602,
+    35.772148,
+    -106.690602,
+    35.772148
+],
   "geometry": {"coordinates":[-106.690602,35.772148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186431087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.189538,32.780729,-108.189538,32.780729",
     "geom:latitude":32.780729,
     "geom:longitude":-108.189538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11825 US Hwy 180 E",
     "sg:city":"Arenas Valley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186431087,
-    "wof:lastmodified":1449050697,
+    "wof:lastmodified":1466699849,
     "wof:name":"Vern's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-108.189538,32.780729,-108.189538,32.780729],
+  "bbox": [
+    -108.189538,
+    32.780729,
+    -108.189538,
+    32.780729
+],
   "geometry": {"coordinates":[-108.189538,32.780729],"type":"Point"}
 }

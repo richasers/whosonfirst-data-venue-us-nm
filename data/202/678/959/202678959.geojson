@@ -2,13 +2,14 @@
   "id": 202678959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.395368,32.822641,-104.395368,32.822641",
     "geom:latitude":32.822641,
     "geom:longitude":-104.395368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1803 S 1st St",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202678959,
-    "wof:lastmodified":1449061358,
+    "wof:lastmodified":1466699521,
     "wof:name":"Artesia Answering Svc",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "answering"
     ]
 },
-  "bbox": [-104.395368,32.822641,-104.395368,32.822641],
+  "bbox": [
+    -104.395368,
+    32.822641,
+    -104.395368,
+    32.822641
+],
   "geometry": {"coordinates":[-104.395368,32.822641],"type":"Point"}
 }

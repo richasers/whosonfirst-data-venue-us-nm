@@ -2,13 +2,14 @@
   "id": 353963139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.697182,35.142738,-106.697182,35.142738",
     "geom:latitude":35.142738,
     "geom:longitude":-106.697182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Wind Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353963139,
-    "wof:lastmodified":1449018502,
+    "wof:lastmodified":1466698830,
     "wof:name":"La Luz Del Sol",
     "wof:parent_id":85865321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.697182,35.142738,-106.697182,35.142738],
+  "bbox": [
+    -106.697182,
+    35.142738,
+    -106.697182,
+    35.142738
+],
   "geometry": {"coordinates":[-106.697182,35.142738],"type":"Point"}
 }

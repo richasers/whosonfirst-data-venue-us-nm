@@ -2,13 +2,14 @@
   "id": 186161251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.337142,34.354022,-103.337142,34.354022",
     "geom:latitude":34.354022,
     "geom:longitude":-103.337142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 C R R",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186161251,
-    "wof:lastmodified":1449051426,
+    "wof:lastmodified":1466699353,
     "wof:name":"Highland Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.337142,34.354022,-103.337142,34.354022],
+  "bbox": [
+    -103.337142,
+    34.354022,
+    -103.337142,
+    34.354022
+],
   "geometry": {"coordinates":[-103.337142,34.354022],"type":"Point"}
 }

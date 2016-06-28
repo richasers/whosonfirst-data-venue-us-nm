@@ -2,13 +2,14 @@
   "id": 202473271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.61181,35.232074,-106.61181,35.232074",
     "geom:latitude":35.232074,
     "geom:longitude":-106.61181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202473271,
-    "wof:lastmodified":1449060640,
+    "wof:lastmodified":1466698842,
     "wof:name":"San Ysidro Church",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.61181,35.232074,-106.61181,35.232074],
-  "geometry": {"coordinates":[-106.61181,35.232074],"type":"Point"}
+  "bbox": [
+    -106.61181,
+    35.232074,
+    -106.61181,
+    35.232074
+],
+  "geometry": {"coordinates":[-106.61181000000001,35.232074],"type":"Point"}
 }

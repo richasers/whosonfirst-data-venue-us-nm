@@ -2,13 +2,14 @@
   "id": 186252277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.215959,35.593974,-105.215959,35.593974",
     "geom:latitude":35.593974,
     "geom:longitude":-105.215959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 7th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186252277,
-    "wof:lastmodified":1449050659,
+    "wof:lastmodified":1466698696,
     "wof:name":"We Care Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "citizen"
     ]
 },
-  "bbox": [-105.215959,35.593974,-105.215959,35.593974],
+  "bbox": [
+    -105.215959,
+    35.593974,
+    -105.215959,
+    35.593974
+],
   "geometry": {"coordinates":[-105.215959,35.593974],"type":"Point"}
 }

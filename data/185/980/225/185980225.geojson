@@ -2,13 +2,14 @@
   "id": 185980225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.54158,35.073005,-106.54158,35.073005",
     "geom:latitude":35.073005,
     "geom:longitude":-106.54158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9517 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185980225,
-    "wof:lastmodified":1449006711,
+    "wof:lastmodified":1466699635,
     "wof:name":"Matsco Transmissions Auto Repr",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-106.54158,35.073005,-106.54158,35.073005],
+  "bbox": [
+    -106.54158,
+    35.073005,
+    -106.54158,
+    35.073005
+],
   "geometry": {"coordinates":[-106.54158,35.073005],"type":"Point"}
 }

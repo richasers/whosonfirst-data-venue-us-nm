@@ -2,13 +2,14 @@
   "id": 186495881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.03902,35.63651,-106.03902,35.63651",
     "geom:latitude":35.63651,
     "geom:longitude":-106.03902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Airport Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186495881,
-    "wof:lastmodified":1449051558,
+    "wof:lastmodified":1466700219,
     "wof:name":"Dance Space",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-106.03902,35.63651,-106.03902,35.63651],
-  "geometry": {"coordinates":[-106.03902,35.63651],"type":"Point"}
+  "bbox": [
+    -106.03902,
+    35.63651,
+    -106.03902,
+    35.63651
+],
+  "geometry": {"coordinates":[-106.03901999999999,35.63651],"type":"Point"}
 }

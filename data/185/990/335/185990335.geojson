@@ -2,13 +2,14 @@
   "id": 185990335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.063988,36.021353,-106.063988,36.021353",
     "geom:latitude":36.021353,
     "geom:longitude":-106.063988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2068 N Riverside Dr",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185990335,
-    "wof:lastmodified":1449007671,
+    "wof:lastmodified":1466699712,
     "wof:name":"Valor Espanola Call Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.063988,36.021353,-106.063988,36.021353],
-  "geometry": {"coordinates":[-106.063988,36.021353],"type":"Point"}
+  "bbox": [
+    -106.063988,
+    36.021353,
+    -106.063988,
+    36.021353
+],
+  "geometry": {"coordinates":[-106.06398799999999,36.021353],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202388179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.108181,34.434399,-103.108181,34.434399",
     "geom:latitude":34.434399,
     "geom:longitude":-103.108181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1244 Curry Rd E",
     "sg:city":"Texico",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202388179,
-    "wof:lastmodified":1449060192,
+    "wof:lastmodified":1466697781,
     "wof:name":"Desparado Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.108181,34.434399,-103.108181,34.434399],
+  "bbox": [
+    -103.108181,
+    34.434399,
+    -103.108181,
+    34.434399
+],
   "geometry": {"coordinates":[-103.108181,34.434399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186321427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.206372,36.733962,-108.206372,36.733962",
     "geom:latitude":36.733962,
     "geom:longitude":-108.206372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Apache St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186321427,
-    "wof:lastmodified":1449050324,
+    "wof:lastmodified":1466699561,
     "wof:name":"Totah Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-108.206372,36.733962,-108.206372,36.733962],
+  "bbox": [
+    -108.206372,
+    36.733962,
+    -108.206372,
+    36.733962
+],
   "geometry": {"coordinates":[-108.206372,36.733962],"type":"Point"}
 }

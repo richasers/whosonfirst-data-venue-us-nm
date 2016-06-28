@@ -2,13 +2,14 @@
   "id": 353930935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.606911,35.123705,-106.606911,35.123705",
     "geom:latitude":35.123705,
     "geom:longitude":-106.606911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 Comanche Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":353930935,
-    "wof:lastmodified":1449019079,
+    "wof:lastmodified":1466698031,
     "wof:name":"DR ANTHONY NIETO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-endodontists"
     ]
 },
-  "bbox": [-106.606911,35.123705,-106.606911,35.123705],
+  "bbox": [
+    -106.606911,
+    35.123705,
+    -106.606911,
+    35.123705
+],
   "geometry": {"coordinates":[-106.606911,35.123705],"type":"Point"}
 }

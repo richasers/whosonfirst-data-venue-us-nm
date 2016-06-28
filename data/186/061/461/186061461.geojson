@@ -2,13 +2,14 @@
   "id": 186061461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.864929,35.594774,-105.864929,35.594774",
     "geom:latitude":35.594774,
     "geom:longitude":-105.864929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Canada Village Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186061461,
-    "wof:lastmodified":1449052293,
+    "wof:lastmodified":1466698390,
     "wof:name":"Edith KATZ Landscape Architect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "landscape"
     ]
 },
-  "bbox": [-105.864929,35.594774,-105.864929,35.594774],
+  "bbox": [
+    -105.864929,
+    35.594774,
+    -105.864929,
+    35.594774
+],
   "geometry": {"coordinates":[-105.864929,35.594774],"type":"Point"}
 }

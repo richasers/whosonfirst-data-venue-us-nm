@@ -2,13 +2,14 @@
   "id": 185675367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614117,35.226072,-106.614117,35.226072",
     "geom:latitude":35.226072,
     "geom:longitude":-106.614117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4583 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185675367,
-    "wof:lastmodified":1449007455,
+    "wof:lastmodified":1466698405,
     "wof:name":"Susan Westbrook Interiors",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-106.614117,35.226072,-106.614117,35.226072],
-  "geometry": {"coordinates":[-106.614117,35.226072],"type":"Point"}
+  "bbox": [
+    -106.614117,
+    35.226072,
+    -106.614117,
+    35.226072
+],
+  "geometry": {"coordinates":[-106.61411699999999,35.226072],"type":"Point"}
 }

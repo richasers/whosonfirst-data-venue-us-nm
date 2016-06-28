@@ -2,13 +2,14 @@
   "id": 185930555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.991855,35.658431,-105.991855,35.658431",
     "geom:latitude":35.658431,
     "geom:longitude":-105.991855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2904 Rufina St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185930555,
-    "wof:lastmodified":1449007116,
+    "wof:lastmodified":1466698951,
     "wof:name":"Santa Fe Greenhouses Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-105.991855,35.658431,-105.991855,35.658431],
+  "bbox": [
+    -105.991855,
+    35.658431,
+    -105.991855,
+    35.658431
+],
   "geometry": {"coordinates":[-105.991855,35.658431],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202466575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.042701,35.58771,-106.042701,35.58771",
     "geom:latitude":35.58771,
     "geom:longitude":-106.042701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 Cll de Los Cerros",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202466575,
-    "wof:lastmodified":1449060873,
+    "wof:lastmodified":1466698715,
     "wof:name":"F A Anaya Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.042701,35.58771,-106.042701,35.58771],
-  "geometry": {"coordinates":[-106.042701,35.58771],"type":"Point"}
+  "bbox": [
+    -106.042701,
+    35.58771,
+    -106.042701,
+    35.58771
+],
+  "geometry": {"coordinates":[-106.04270099999999,35.58771],"type":"Point"}
 }

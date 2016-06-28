@@ -2,13 +2,14 @@
   "id": 186570753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.157432,36.758883,-108.157432,36.758883",
     "geom:latitude":36.758883,
     "geom:longitude":-108.157432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4010 E 30th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186570753,
-    "wof:lastmodified":1449051958,
+    "wof:lastmodified":1466700540,
     "wof:name":"Wilbanks Securities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bond"
     ]
 },
-  "bbox": [-108.157432,36.758883,-108.157432,36.758883],
+  "bbox": [
+    -108.157432,
+    36.758883,
+    -108.157432,
+    36.758883
+],
   "geometry": {"coordinates":[-108.157432,36.758883],"type":"Point"}
 }

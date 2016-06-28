@@ -2,13 +2,14 @@
   "id": 202793539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.940194,35.685261,-105.940194,35.685261",
     "geom:latitude":35.685261,
     "geom:longitude":-105.940194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Don Gaspar Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202793539,
-    "wof:lastmodified":1449061507,
+    "wof:lastmodified":1466699831,
     "wof:name":"Club At Hotel St Francis",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.940194,35.685261,-105.940194,35.685261],
-  "geometry": {"coordinates":[-105.940194,35.685261],"type":"Point"}
+  "bbox": [
+    -105.940194,
+    35.685261,
+    -105.940194,
+    35.685261
+],
+  "geometry": {"coordinates":[-105.94019400000001,35.685261],"type":"Point"}
 }

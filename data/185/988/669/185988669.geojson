@@ -2,13 +2,14 @@
   "id": 185988669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.395756,32.781324,-104.395756,32.781324",
     "geom:latitude":32.781324,
     "geom:longitude":-104.395756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6475 Seven Rivers Hwy",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185988669,
-    "wof:lastmodified":1449007144,
+    "wof:lastmodified":1466699706,
     "wof:name":"Atoka Grocery",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-104.395756,32.781324,-104.395756,32.781324],
-  "geometry": {"coordinates":[-104.395756,32.781324],"type":"Point"}
+  "bbox": [
+    -104.395756,
+    32.781324,
+    -104.395756,
+    32.781324
+],
+  "geometry": {"coordinates":[-104.39575600000001,32.781324],"type":"Point"}
 }

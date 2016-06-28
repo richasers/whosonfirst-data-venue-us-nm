@@ -2,13 +2,14 @@
   "id": 186505777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.787413,32.28348,-106.787413,32.28348",
     "geom:latitude":32.28348,
     "geom:longitude":-106.787413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Marilissa Ln",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186505777,
-    "wof:lastmodified":1449052571,
+    "wof:lastmodified":1466700331,
     "wof:name":"Early Warning Gun Co",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.787413,32.28348,-106.787413,32.28348],
+  "bbox": [
+    -106.787413,
+    32.28348,
+    -106.787413,
+    32.28348
+],
   "geometry": {"coordinates":[-106.787413,32.28348],"type":"Point"}
 }

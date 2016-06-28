@@ -2,13 +2,14 @@
   "id": 353985535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.187563,36.457742,-103.187563,36.457742",
     "geom:latitude":36.457742,
     "geom:longitude":-103.187563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Clayton Lake Rd",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353985535,
-    "wof:lastmodified":1449019528,
+    "wof:lastmodified":1466699157,
     "wof:name":"Clayton Lake State Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government-state"
     ]
 },
-  "bbox": [-103.187563,36.457742,-103.187563,36.457742],
+  "bbox": [
+    -103.187563,
+    36.457742,
+    -103.187563,
+    36.457742
+],
   "geometry": {"coordinates":[-103.187563,36.457742],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169848921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.135892,32.758795,-108.135892,32.758795",
     "geom:latitude":32.758795,
     "geom:longitude":-108.135892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Hurley Ave",
     "sg:city":"Bayard",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169848921,
-    "wof:lastmodified":1449033154,
+    "wof:lastmodified":1466698889,
     "wof:name":"AM Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.135892,32.758795,-108.135892,32.758795],
+  "bbox": [
+    -108.135892,
+    32.758795,
+    -108.135892,
+    32.758795
+],
   "geometry": {"coordinates":[-108.135892,32.758795],"type":"Point"}
 }

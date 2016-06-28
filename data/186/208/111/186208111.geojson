@@ -2,13 +2,14 @@
   "id": 186208111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.732975,32.268624,-107.732975,32.268624",
     "geom:latitude":32.268624,
     "geom:longitude":-107.732975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 E Pine St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186208111,
-    "wof:lastmodified":1449050568,
+    "wof:lastmodified":1466698128,
     "wof:name":"Rio Mimbres Pro Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-107.732975,32.268624,-107.732975,32.268624],
+  "bbox": [
+    -107.732975,
+    32.268624,
+    -107.732975,
+    32.268624
+],
   "geometry": {"coordinates":[-107.732975,32.268624],"type":"Point"}
 }

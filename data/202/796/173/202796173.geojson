@@ -2,13 +2,14 @@
   "id": 202796173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.515815,35.060491,-106.515815,35.060491",
     "geom:latitude":35.060491,
     "geom:longitude":-106.515815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11800 Joshua Tree Pl SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202796173,
-    "wof:lastmodified":1449061320,
+    "wof:lastmodified":1466699970,
     "wof:name":"Elna Stowe Legal Svc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.515815,35.060491,-106.515815,35.060491],
+  "bbox": [
+    -106.515815,
+    35.060491,
+    -106.515815,
+    35.060491
+],
   "geometry": {"coordinates":[-106.515815,35.060491],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202834585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.940189,35.66287,-105.940189,35.66287",
     "geom:latitude":35.66287,
     "geom:longitude":-105.940189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 E Lupita Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202834585,
-    "wof:lastmodified":1449060352,
+    "wof:lastmodified":1466700260,
     "wof:name":"Danamar Productions",
     "wof:parent_id":85880837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-105.940189,35.66287,-105.940189,35.66287],
+  "bbox": [
+    -105.940189,
+    35.66287,
+    -105.940189,
+    35.66287
+],
   "geometry": {"coordinates":[-105.940189,35.66287],"type":"Point"}
 }

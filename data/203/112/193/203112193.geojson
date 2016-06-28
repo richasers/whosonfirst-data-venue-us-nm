@@ -2,13 +2,14 @@
   "id": 203112193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.76679,32.27583,-106.76679,32.27583",
     "geom:latitude":32.27583,
     "geom:longitude":-106.76679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 S Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203112193,
-    "wof:lastmodified":1449025783,
+    "wof:lastmodified":1466698892,
     "wof:name":"Arvizu Law Office",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.76679,32.27583,-106.76679,32.27583],
+  "bbox": [
+    -106.76679,
+    32.27583,
+    -106.76679,
+    32.27583
+],
   "geometry": {"coordinates":[-106.76679,32.27583],"type":"Point"}
 }

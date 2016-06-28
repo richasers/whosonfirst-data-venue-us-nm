@@ -2,13 +2,14 @@
   "id": 353961973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.605072,35.05793,-106.605072,35.05793",
     "geom:latitude":35.05793,
     "geom:longitude":-106.605072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8001 Gibson Blvd SE Bldg 20170",
     "sg:city":"Albuquerque",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":353961973,
-    "wof:lastmodified":1449020722,
+    "wof:lastmodified":1466698798,
     "wof:name":"Kirtland Flower Shop",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.605072,35.05793,-106.605072,35.05793],
-  "geometry": {"coordinates":[-106.605072,35.05793],"type":"Point"}
+  "bbox": [
+    -106.605072,
+    35.05793,
+    -106.605072,
+    35.05793
+],
+  "geometry": {"coordinates":[-106.60507200000001,35.05793],"type":"Point"}
 }

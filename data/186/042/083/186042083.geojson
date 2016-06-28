@@ -2,13 +2,14 @@
   "id": 186042083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.530207,35.074892,-106.530207,35.074892",
     "geom:latitude":35.074892,
     "geom:longitude":-106.530207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Towne Park Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186042083,
-    "wof:lastmodified":1449052362,
+    "wof:lastmodified":1466698158,
     "wof:name":"Towne Park Clubhouse",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.530207,35.074892,-106.530207,35.074892],
+  "bbox": [
+    -106.530207,
+    35.074892,
+    -106.530207,
+    35.074892
+],
   "geometry": {"coordinates":[-106.530207,35.074892],"type":"Point"}
 }

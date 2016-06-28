@@ -2,13 +2,14 @@
   "id": 186148367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.714493,34.857025,-106.714493,34.857025",
     "geom:latitude":34.857025,
     "geom:longitude":-106.714493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1335 Pearl Loop",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186148367,
-    "wof:lastmodified":1449052582,
+    "wof:lastmodified":1466699260,
     "wof:name":"Great Performance Remodeling",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.714493,34.857025,-106.714493,34.857025],
+  "bbox": [
+    -106.714493,
+    34.857025,
+    -106.714493,
+    34.857025
+],
   "geometry": {"coordinates":[-106.714493,34.857025],"type":"Point"}
 }

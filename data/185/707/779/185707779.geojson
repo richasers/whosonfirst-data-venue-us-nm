@@ -2,13 +2,14 @@
   "id": 185707779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.451509,36.887654,-104.451509,36.887654",
     "geom:latitude":36.887654,
     "geom:longitude":-104.451509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 Tiger Cir",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185707779,
-    "wof:lastmodified":1449007980,
+    "wof:lastmodified":1466698716,
     "wof:name":"Raton Public Schools Supt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.451509,36.887654,-104.451509,36.887654],
+  "bbox": [
+    -104.451509,
+    36.887654,
+    -104.451509,
+    36.887654
+],
   "geometry": {"coordinates":[-104.451509,36.887654],"type":"Point"}
 }

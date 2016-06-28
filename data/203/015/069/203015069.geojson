@@ -2,13 +2,14 @@
   "id": 203015069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.982937,35.135006,-105.982937,35.135006",
     "geom:latitude":35.135006,
     "geom:longitude":-105.982937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3810 Hwy 41",
     "sg:city":"Stanley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203015069,
-    "wof:lastmodified":1449025364,
+    "wof:lastmodified":1466697767,
     "wof:name":"Tec Drill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "drilling"
     ]
 },
-  "bbox": [-105.982937,35.135006,-105.982937,35.135006],
-  "geometry": {"coordinates":[-105.982937,35.135006],"type":"Point"}
+  "bbox": [
+    -105.982937,
+    35.135006,
+    -105.982937,
+    35.135006
+],
+  "geometry": {"coordinates":[-105.98293700000001,35.135006],"type":"Point"}
 }

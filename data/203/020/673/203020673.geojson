@@ -2,13 +2,14 @@
   "id": 203020673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.76006,35.522253,-108.76006,35.522253",
     "geom:latitude":35.522253,
     "geom:longitude":-108.76006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 S Bradley St",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203020673,
-    "wof:lastmodified":1449025798,
+    "wof:lastmodified":1466697826,
     "wof:name":"Supersmith Inc",
     "wof:parent_id":85802855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "indian"
     ]
 },
-  "bbox": [-108.76006,35.522253,-108.76006,35.522253],
+  "bbox": [
+    -108.76006,
+    35.522253,
+    -108.76006,
+    35.522253
+],
   "geometry": {"coordinates":[-108.76006,35.522253],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169696955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.77095,32.296859,-106.77095,32.296859",
     "geom:latitude":32.296859,
     "geom:longitude":-106.77095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 el Paseo Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169696955,
-    "wof:lastmodified":1449032924,
+    "wof:lastmodified":1466697602,
     "wof:name":"Guy Nichols Piano Technician",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "piano"
     ]
 },
-  "bbox": [-106.77095,32.296859,-106.77095,32.296859],
+  "bbox": [
+    -106.77095,
+    32.296859,
+    -106.77095,
+    32.296859
+],
   "geometry": {"coordinates":[-106.77095,32.296859],"type":"Point"}
 }

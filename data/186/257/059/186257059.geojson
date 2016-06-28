@@ -2,13 +2,14 @@
   "id": 186257059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.641837,35.06771,-106.641837,35.06771",
     "geom:latitude":35.06771,
     "geom:longitude":-106.641837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Walter St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186257059,
-    "wof:lastmodified":1449051164,
+    "wof:lastmodified":1466698752,
     "wof:name":"La Colmena Inc",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "community"
     ]
 },
-  "bbox": [-106.641837,35.06771,-106.641837,35.06771],
+  "bbox": [
+    -106.641837,
+    35.06771,
+    -106.641837,
+    35.06771
+],
   "geometry": {"coordinates":[-106.641837,35.06771],"type":"Point"}
 }

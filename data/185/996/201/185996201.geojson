@@ -2,13 +2,14 @@
   "id": 185996201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.16603,36.762302,-108.16603,36.762302",
     "geom:latitude":36.762302,
     "geom:longitude":-108.16603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4330 College Blvd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185996201,
-    "wof:lastmodified":1449007047,
+    "wof:lastmodified":1466699752,
     "wof:name":"New Hope Foursquare Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.16603,36.762302,-108.16603,36.762302],
-  "geometry": {"coordinates":[-108.16603,36.762302],"type":"Point"}
+  "bbox": [
+    -108.16603,
+    36.762302,
+    -108.16603,
+    36.762302
+],
+  "geometry": {"coordinates":[-108.16603000000001,36.762302],"type":"Point"}
 }

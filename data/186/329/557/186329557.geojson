@@ -2,13 +2,14 @@
   "id": 186329557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.622818,35.202813,-106.622818,35.202813",
     "geom:latitude":35.202813,
     "geom:longitude":-106.622818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Cam del Bosque NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186329557,
-    "wof:lastmodified":1449051133,
+    "wof:lastmodified":1466699460,
     "wof:name":"Lucky 66 Bowl Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-106.622818,35.202813,-106.622818,35.202813],
+  "bbox": [
+    -106.622818,
+    35.202813,
+    -106.622818,
+    35.202813
+],
   "geometry": {"coordinates":[-106.622818,35.202813],"type":"Point"}
 }

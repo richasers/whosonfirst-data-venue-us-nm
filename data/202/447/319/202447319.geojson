@@ -2,13 +2,14 @@
   "id": 202447319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.735907,32.318516,-106.735907,32.318516",
     "geom:latitude":32.318516,
     "geom:longitude":-106.735907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4351 E Lohman Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202447319,
-    "wof:lastmodified":1449061886,
+    "wof:lastmodified":1466698503,
     "wof:name":"Surgical Associates",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.735907,32.318516,-106.735907,32.318516],
+  "bbox": [
+    -106.735907,
+    32.318516,
+    -106.735907,
+    32.318516
+],
   "geometry": {"coordinates":[-106.735907,32.318516],"type":"Point"}
 }

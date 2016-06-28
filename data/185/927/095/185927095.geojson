@@ -2,13 +2,14 @@
   "id": 185927095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.206567,36.728078,-108.206567,36.728078",
     "geom:latitude":36.728078,
     "geom:longitude":-108.206567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Broadway",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185927095,
-    "wof:lastmodified":1449008053,
+    "wof:lastmodified":1466698906,
     "wof:name":"Wells Fargo Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bond"
     ]
 },
-  "bbox": [-108.206567,36.728078,-108.206567,36.728078],
-  "geometry": {"coordinates":[-108.206567,36.728078],"type":"Point"}
+  "bbox": [
+    -108.206567,
+    36.728078,
+    -108.206567,
+    36.728078
+],
+  "geometry": {"coordinates":[-108.20656700000001,36.728078],"type":"Point"}
 }

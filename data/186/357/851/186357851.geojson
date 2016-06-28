@@ -2,13 +2,14 @@
   "id": 186357851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.273254,33.12025,-107.273254,33.12025",
     "geom:latitude":33.12025,
     "geom:longitude":-107.273254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1875 Simpson St",
     "sg:city":"Truth Or Consequences",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186357851,
-    "wof:lastmodified":1449052689,
+    "wof:lastmodified":1466699700,
     "wof:name":"Woodis Signature Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-107.273254,33.12025,-107.273254,33.12025],
-  "geometry": {"coordinates":[-107.273254,33.12025],"type":"Point"}
+  "bbox": [
+    -107.273254,
+    33.12025,
+    -107.273254,
+    33.12025
+],
+  "geometry": {"coordinates":[-107.27325399999999,33.12025],"type":"Point"}
 }

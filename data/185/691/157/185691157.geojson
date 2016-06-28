@@ -2,13 +2,14 @@
   "id": 185691157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.557728,35.109123,-106.557728,35.109123",
     "geom:latitude":35.109123,
     "geom:longitude":-106.557728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7710 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185691157,
-    "wof:lastmodified":1449006740,
+    "wof:lastmodified":1466698558,
     "wof:name":"Smith & Sons Hardwood",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-106.557728,35.109123,-106.557728,35.109123],
+  "bbox": [
+    -106.557728,
+    35.109123,
+    -106.557728,
+    35.109123
+],
   "geometry": {"coordinates":[-106.557728,35.109123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202891781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.57238,35.800242,-106.57238,35.800242",
     "geom:latitude":35.800242,
     "geom:longitude":-106.57238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Los Griegos Rd",
     "sg:city":"Jemez Springs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202891781,
-    "wof:lastmodified":1449061653,
+    "wof:lastmodified":1466700310,
     "wof:name":"Aquatic Technologies LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.57238,35.800242,-106.57238,35.800242],
+  "bbox": [
+    -106.57238,
+    35.800242,
+    -106.57238,
+    35.800242
+],
   "geometry": {"coordinates":[-106.57238,35.800242],"type":"Point"}
 }

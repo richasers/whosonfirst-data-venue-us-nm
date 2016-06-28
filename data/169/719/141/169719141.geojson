@@ -2,13 +2,14 @@
   "id": 169719141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.636678,35.138002,-106.636678,35.138002",
     "geom:latitude":35.138002,
     "geom:longitude":-106.636678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5224 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169719141,
-    "wof:lastmodified":1449033110,
+    "wof:lastmodified":1466697776,
     "wof:name":"Trip D Electric",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.636678,35.138002,-106.636678,35.138002],
+  "bbox": [
+    -106.636678,
+    35.138002,
+    -106.636678,
+    35.138002
+],
   "geometry": {"coordinates":[-106.636678,35.138002],"type":"Point"}
 }

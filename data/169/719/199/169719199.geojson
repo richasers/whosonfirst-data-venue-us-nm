@@ -2,13 +2,14 @@
   "id": 169719199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649944,35.007862,-106.649944,35.007862",
     "geom:latitude":35.007862,
     "geom:longitude":-106.649944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4506 Broadway Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169719199,
-    "wof:lastmodified":1449033108,
+    "wof:lastmodified":1466697777,
     "wof:name":"Rio Grande Fire Prtctn Systms",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.649944,35.007862,-106.649944,35.007862],
+  "bbox": [
+    -106.649944,
+    35.007862,
+    -106.649944,
+    35.007862
+],
   "geometry": {"coordinates":[-106.649944,35.007862],"type":"Point"}
 }

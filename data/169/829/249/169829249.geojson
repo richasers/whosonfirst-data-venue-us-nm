@@ -2,13 +2,14 @@
   "id": 169829249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.990684,36.724412,-107.990684,36.724412",
     "geom:latitude":36.724412,
     "geom:longitude":-107.990684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 N Pixley St",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169829249,
-    "wof:lastmodified":1449035743,
+    "wof:lastmodified":1466698790,
     "wof:name":"Hare Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-107.990684,36.724412,-107.990684,36.724412],
+  "bbox": [
+    -107.990684,
+    36.724412,
+    -107.990684,
+    36.724412
+],
   "geometry": {"coordinates":[-107.990684,36.724412],"type":"Point"}
 }

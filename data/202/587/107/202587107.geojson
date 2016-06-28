@@ -2,13 +2,14 @@
   "id": 202587107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.75507,32.260049,-107.75507,32.260049",
     "geom:latitude":32.260049,
     "geom:longitude":-107.75507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 S Platinum Ave",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202587107,
-    "wof:lastmodified":1449060977,
+    "wof:lastmodified":1466698196,
     "wof:name":"Robert F Turner Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-107.75507,32.260049,-107.75507,32.260049],
+  "bbox": [
+    -107.75507,
+    32.260049,
+    -107.75507,
+    32.260049
+],
   "geometry": {"coordinates":[-107.75507,32.260049],"type":"Point"}
 }

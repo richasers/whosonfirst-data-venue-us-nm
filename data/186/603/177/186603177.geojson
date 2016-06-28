@@ -2,13 +2,14 @@
   "id": 186603177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.114546,35.468075,-106.114546,35.468075",
     "geom:latitude":35.468075,
     "geom:longitude":-106.114546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Gravel Pit Rd",
     "sg:city":"Cerrillos",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186603177,
-    "wof:lastmodified":1449052595,
+    "wof:lastmodified":1466700638,
     "wof:name":"Cerrillos Gravel Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gravel"
     ]
 },
-  "bbox": [-106.114546,35.468075,-106.114546,35.468075],
+  "bbox": [
+    -106.114546,
+    35.468075,
+    -106.114546,
+    35.468075
+],
   "geometry": {"coordinates":[-106.114546,35.468075],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186527671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.357465,32.966671,-103.357465,32.966671",
     "geom:latitude":32.966671,
     "geom:longitude":-103.357465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 W Gum Ave",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186527671,
-    "wof:lastmodified":1449052455,
+    "wof:lastmodified":1466700321,
     "wof:name":"Fort Enterprises LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-103.357465,32.966671,-103.357465,32.966671],
+  "bbox": [
+    -103.357465,
+    32.966671,
+    -103.357465,
+    32.966671
+],
   "geometry": {"coordinates":[-103.357465,32.966671],"type":"Point"}
 }

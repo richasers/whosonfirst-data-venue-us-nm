@@ -2,13 +2,14 @@
   "id": 185996057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.356716,36.742362,-108.356716,36.742362",
     "geom:latitude":36.742362,
     "geom:longitude":-108.356716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4206 US Hwy 64",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185996057,
-    "wof:lastmodified":1449007043,
+    "wof:lastmodified":1466699751,
     "wof:name":"Ashki Bich'Ah Dahojishkeehii",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-108.356716,36.742362,-108.356716,36.742362],
-  "geometry": {"coordinates":[-108.356716,36.742362],"type":"Point"}
+  "bbox": [
+    -108.356716,
+    36.742362,
+    -108.356716,
+    36.742362
+],
+  "geometry": {"coordinates":[-108.35671600000001,36.742362],"type":"Point"}
 }

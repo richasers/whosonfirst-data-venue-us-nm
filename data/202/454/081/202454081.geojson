@@ -2,13 +2,14 @@
   "id": 202454081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.598892,35.079066,-106.598892,35.079066",
     "geom:latitude":35.079066,
     "geom:longitude":-106.598892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4010 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202454081,
-    "wof:lastmodified":1449062409,
+    "wof:lastmodified":1466698570,
     "wof:name":"American Tribal Trading Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "indian"
     ]
 },
-  "bbox": [-106.598892,35.079066,-106.598892,35.079066],
-  "geometry": {"coordinates":[-106.598892,35.079066],"type":"Point"}
+  "bbox": [
+    -106.598892,
+    35.079066,
+    -106.598892,
+    35.079066
+],
+  "geometry": {"coordinates":[-106.59889200000001,35.079066],"type":"Point"}
 }

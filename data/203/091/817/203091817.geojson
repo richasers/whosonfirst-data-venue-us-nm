@@ -2,13 +2,14 @@
   "id": 203091817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.226272,32.785263,-108.226272,32.785263",
     "geom:latitude":32.785263,
     "geom:longitude":-108.226272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3435 US Hwy 180 E",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203091817,
-    "wof:lastmodified":1449025126,
+    "wof:lastmodified":1466698611,
     "wof:name":"Miller Surveys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-108.226272,32.785263,-108.226272,32.785263],
-  "geometry": {"coordinates":[-108.226272,32.785263],"type":"Point"}
+  "bbox": [
+    -108.226272,
+    32.785263,
+    -108.226272,
+    32.785263
+],
+  "geometry": {"coordinates":[-108.22627199999999,32.785263],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185968685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.603534,35.128297,-106.603534,35.128297",
     "geom:latitude":35.128297,
     "geom:longitude":-106.603534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3808 Hilton Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":185968685,
-    "wof:lastmodified":1449006700,
+    "wof:lastmodified":1466699436,
     "wof:name":"Benny Sanchez Ostrich Far",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.603534,35.128297,-106.603534,35.128297],
+  "bbox": [
+    -106.603534,
+    35.128297,
+    -106.603534,
+    35.128297
+],
   "geometry": {"coordinates":[-106.603534,35.128297],"type":"Point"}
 }

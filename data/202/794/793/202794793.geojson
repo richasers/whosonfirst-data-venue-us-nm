@@ -2,13 +2,14 @@
   "id": 202794793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.67588,34.830023,-106.67588,34.830023",
     "geom:latitude":34.830023,
     "geom:longitude":-106.67588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Molina Rd",
     "sg:city":"Peralta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202794793,
-    "wof:lastmodified":1449061347,
+    "wof:lastmodified":1466699967,
     "wof:name":"Bobby's Custom Woodworks",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.67588,34.830023,-106.67588,34.830023],
-  "geometry": {"coordinates":[-106.67588,34.830023],"type":"Point"}
+  "bbox": [
+    -106.67588,
+    34.830023,
+    -106.67588,
+    34.830023
+],
+  "geometry": {"coordinates":[-106.67588000000001,34.830023],"type":"Point"}
 }

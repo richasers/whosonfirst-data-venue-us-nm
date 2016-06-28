@@ -2,13 +2,14 @@
   "id": 186169845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.937742,35.690354,-105.937742,35.690354",
     "geom:latitude":35.690354,
     "geom:longitude":-105.937742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Lincoln Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186169845,
-    "wof:lastmodified":1449052017,
+    "wof:lastmodified":1466697635,
     "wof:name":"Creative Images",
     "wof:parent_id":85880833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-105.937742,35.690354,-105.937742,35.690354],
+  "bbox": [
+    -105.937742,
+    35.690354,
+    -105.937742,
+    35.690354
+],
   "geometry": {"coordinates":[-105.937742,35.690354],"type":"Point"}
 }

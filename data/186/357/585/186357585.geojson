@@ -2,13 +2,14 @@
   "id": 186357585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.502947,35.129154,-106.502947,35.129154",
     "geom:latitude":35.129154,
     "geom:longitude":-106.502947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4008 Blue Ridge Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186357585,
-    "wof:lastmodified":1449052689,
+    "wof:lastmodified":1466699804,
     "wof:name":"Southwest Sunrooms",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "deck"
     ]
 },
-  "bbox": [-106.502947,35.129154,-106.502947,35.129154],
-  "geometry": {"coordinates":[-106.502947,35.129154],"type":"Point"}
+  "bbox": [
+    -106.502947,
+    35.129154,
+    -106.502947,
+    35.129154
+],
+  "geometry": {"coordinates":[-106.50294700000001,35.129154],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186244871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.646835,35.151523,-106.646835,35.151523",
     "geom:latitude":35.151523,
     "geom:longitude":-106.646835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"826 Mullen Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186244871,
-    "wof:lastmodified":1449051434,
+    "wof:lastmodified":1466698593,
     "wof:name":"Far Horizons Archaeological",
     "wof:parent_id":85830119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "promoter"
     ]
 },
-  "bbox": [-106.646835,35.151523,-106.646835,35.151523],
+  "bbox": [
+    -106.646835,
+    35.151523,
+    -106.646835,
+    35.151523
+],
   "geometry": {"coordinates":[-106.646835,35.151523],"type":"Point"}
 }

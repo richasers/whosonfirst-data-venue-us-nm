@@ -2,13 +2,14 @@
   "id": 169808701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.600478,35.109142,-106.600478,35.109142",
     "geom:latitude":35.109142,
     "geom:longitude":-106.600478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3910 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":169808701,
-    "wof:lastmodified":1449032847,
+    "wof:lastmodified":1466698672,
     "wof:name":"Autobest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.600478,35.109142,-106.600478,35.109142],
+  "bbox": [
+    -106.600478,
+    35.109142,
+    -106.600478,
+    35.109142
+],
   "geometry": {"coordinates":[-106.600478,35.109142],"type":"Point"}
 }

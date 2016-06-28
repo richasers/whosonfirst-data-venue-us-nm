@@ -2,13 +2,14 @@
   "id": 203020539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.57414,35.072798,-106.57414,35.072798",
     "geom:latitude":35.072798,
     "geom:longitude":-106.57414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6505 Zuni Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203020539,
-    "wof:lastmodified":1449025803,
+    "wof:lastmodified":1466697825,
     "wof:name":"Direct Auto Finance",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-106.57414,35.072798,-106.57414,35.072798],
+  "bbox": [
+    -106.57414,
+    35.072798,
+    -106.57414,
+    35.072798
+],
   "geometry": {"coordinates":[-106.57414,35.072798],"type":"Point"}
 }

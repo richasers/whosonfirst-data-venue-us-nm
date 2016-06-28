@@ -2,13 +2,14 @@
   "id": 185772877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.23697,35.601639,-105.23697,35.601639",
     "geom:latitude":35.601639,
     "geom:longitude":-105.23697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Apache",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185772877,
-    "wof:lastmodified":1449007338,
+    "wof:lastmodified":1466699240,
     "wof:name":"Somos Familia Family Institute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-105.23697,35.601639,-105.23697,35.601639],
+  "bbox": [
+    -105.23697,
+    35.601639,
+    -105.23697,
+    35.601639
+],
   "geometry": {"coordinates":[-105.23697,35.601639],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186308075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.317258,35.123207,-106.317258,35.123207",
     "geom:latitude":35.123207,
     "geom:longitude":-106.317258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Cam del Senador",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186308075,
-    "wof:lastmodified":1449053090,
+    "wof:lastmodified":1466699656,
     "wof:name":"Systems Interventions Research",
     "wof:parent_id":85892617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.317258,35.123207,-106.317258,35.123207],
+  "bbox": [
+    -106.317258,
+    35.123207,
+    -106.317258,
+    35.123207
+],
   "geometry": {"coordinates":[-106.317258,35.123207],"type":"Point"}
 }

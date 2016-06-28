@@ -2,13 +2,14 @@
   "id": 186134939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.993378,36.697034,-107.993378,36.697034",
     "geom:latitude":36.697034,
     "geom:longitude":-107.993378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 W River Rd",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186134939,
-    "wof:lastmodified":1449052885,
+    "wof:lastmodified":1466699187,
     "wof:name":"Rodneys Painting Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-107.993378,36.697034,-107.993378,36.697034],
-  "geometry": {"coordinates":[-107.993378,36.697034],"type":"Point"}
+  "bbox": [
+    -107.993378,
+    36.697034,
+    -107.993378,
+    36.697034
+],
+  "geometry": {"coordinates":[-107.99337800000001,36.697034],"type":"Point"}
 }

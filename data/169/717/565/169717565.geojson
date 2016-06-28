@@ -2,13 +2,14 @@
   "id": 169717565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.48664,35.170649,-106.48664,35.170649",
     "geom:latitude":35.170649,
     "geom:longitude":-106.48664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Tramway Ln NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169717565,
-    "wof:lastmodified":1449032777,
+    "wof:lastmodified":1466697744,
     "wof:name":"Unique Services",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mechanical"
     ]
 },
-  "bbox": [-106.48664,35.170649,-106.48664,35.170649],
-  "geometry": {"coordinates":[-106.48664,35.170649],"type":"Point"}
+  "bbox": [
+    -106.48664,
+    35.170649,
+    -106.48664,
+    35.170649
+],
+  "geometry": {"coordinates":[-106.48663999999999,35.170649],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186309187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615891,35.252969,-106.615891,35.252969",
     "geom:latitude":35.252969,
     "geom:longitude":-106.615891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Anya Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186309187,
-    "wof:lastmodified":1449050991,
+    "wof:lastmodified":1466699498,
     "wof:name":"D Bar Inc",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.615891,35.252969,-106.615891,35.252969],
+  "bbox": [
+    -106.615891,
+    35.252969,
+    -106.615891,
+    35.252969
+],
   "geometry": {"coordinates":[-106.615891,35.252969],"type":"Point"}
 }

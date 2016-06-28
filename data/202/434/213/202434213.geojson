@@ -2,13 +2,14 @@
   "id": 202434213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.64585,35.114337,-106.64585,35.114337",
     "geom:latitude":35.114337,
     "geom:longitude":-106.64585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2906 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202434213,
-    "wof:lastmodified":1449060673,
+    "wof:lastmodified":1466698362,
     "wof:name":"Telco Electric Inc",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "motor"
     ]
 },
-  "bbox": [-106.64585,35.114337,-106.64585,35.114337],
+  "bbox": [
+    -106.64585,
+    35.114337,
+    -106.64585,
+    35.114337
+],
   "geometry": {"coordinates":[-106.64585,35.114337],"type":"Point"}
 }

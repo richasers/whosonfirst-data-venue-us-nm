@@ -2,13 +2,14 @@
   "id": 203145655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.595279,35.14128,-106.595279,35.14128",
     "geom:latitude":35.14128,
     "geom:longitude":-106.595279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5326 Pan American Fwy",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203145655,
-    "wof:lastmodified":1449025488,
+    "wof:lastmodified":1466699127,
     "wof:name":"Premier Hospital Supply",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.595279,35.14128,-106.595279,35.14128],
+  "bbox": [
+    -106.595279,
+    35.14128,
+    -106.595279,
+    35.14128
+],
   "geometry": {"coordinates":[-106.595279,35.14128],"type":"Point"}
 }

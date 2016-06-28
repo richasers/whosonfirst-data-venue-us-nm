@@ -2,13 +2,14 @@
   "id": 185746011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.234706,32.453972,-104.234706,32.453972",
     "geom:latitude":32.453972,
     "geom:longitude":-104.234706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 Who Who Dr",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185746011,
-    "wof:lastmodified":1449006583,
+    "wof:lastmodified":1466699459,
     "wof:name":"Best Contacts",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-104.234706,32.453972,-104.234706,32.453972],
+  "bbox": [
+    -104.234706,
+    32.453972,
+    -104.234706,
+    32.453972
+],
   "geometry": {"coordinates":[-104.234706,32.453972],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169817367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.961496,32.875818,-105.961496,32.875818",
     "geom:latitude":32.875818,
     "geom:longitude":-105.961496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1445 US Hwy 70",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169817367,
-    "wof:lastmodified":1449035313,
+    "wof:lastmodified":1466698724,
     "wof:name":"70 West Chevron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-105.961496,32.875818,-105.961496,32.875818],
+  "bbox": [
+    -105.961496,
+    32.875818,
+    -105.961496,
+    32.875818
+],
   "geometry": {"coordinates":[-105.961496,32.875818],"type":"Point"}
 }

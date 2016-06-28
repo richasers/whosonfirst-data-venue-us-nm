@@ -2,13 +2,14 @@
   "id": 202993563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.653461,35.1901,-106.653461,35.1901",
     "geom:latitude":35.1901,
     "geom:longitude":-106.653461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 Windmill Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202993563,
-    "wof:lastmodified":1449061248,
+    "wof:lastmodified":1466700753,
     "wof:name":"JM Builders Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.653461,35.1901,-106.653461,35.1901],
-  "geometry": {"coordinates":[-106.653461,35.1901],"type":"Point"}
+  "bbox": [
+    -106.653461,
+    35.1901,
+    -106.653461,
+    35.1901
+],
+  "geometry": {"coordinates":[-106.65346099999999,35.1901],"type":"Point"}
 }

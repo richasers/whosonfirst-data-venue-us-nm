@@ -2,13 +2,14 @@
   "id": 202588597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.355472,36.736583,-108.355472,36.736583",
     "geom:latitude":36.736583,
     "geom:longitude":-108.355472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Rd 6353",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202588597,
-    "wof:lastmodified":1449062167,
+    "wof:lastmodified":1466698219,
     "wof:name":"3 D Construct",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.355472,36.736583,-108.355472,36.736583],
-  "geometry": {"coordinates":[-108.355472,36.736583],"type":"Point"}
+  "bbox": [
+    -108.355472,
+    36.736583,
+    -108.355472,
+    36.736583
+],
+  "geometry": {"coordinates":[-108.35547200000001,36.736583],"type":"Point"}
 }

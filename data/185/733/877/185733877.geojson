@@ -2,13 +2,14 @@
   "id": 185733877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.079666,35.990608,-106.079666,35.990608",
     "geom:latitude":35.990608,
     "geom:longitude":-106.079666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Pso de Onate",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185733877,
-    "wof:lastmodified":1449006828,
+    "wof:lastmodified":1466699015,
     "wof:name":"Novedadses Tere",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "novelty"
     ]
 },
-  "bbox": [-106.079666,35.990608,-106.079666,35.990608],
+  "bbox": [
+    -106.079666,
+    35.990608,
+    -106.079666,
+    35.990608
+],
   "geometry": {"coordinates":[-106.079666,35.990608],"type":"Point"}
 }

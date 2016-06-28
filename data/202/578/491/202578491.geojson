@@ -2,13 +2,14 @@
   "id": 202578491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.530064,35.124126,-106.530064,35.124126",
     "geom:latitude":35.124126,
     "geom:longitude":-106.530064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3704 Chapala Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202578491,
-    "wof:lastmodified":1449060754,
+    "wof:lastmodified":1466698067,
     "wof:name":"Cae-Link",
     "wof:parent_id":85825849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-106.530064,35.124126,-106.530064,35.124126],
+  "bbox": [
+    -106.530064,
+    35.124126,
+    -106.530064,
+    35.124126
+],
   "geometry": {"coordinates":[-106.530064,35.124126],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169862491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.190831,34.417933,-103.190831,34.417933",
     "geom:latitude":34.417933,
     "geom:longitude":-103.190831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1821 Eastridge Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169862491,
-    "wof:lastmodified":1449036044,
+    "wof:lastmodified":1466698954,
     "wof:name":"Mental Health Resources Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-103.190831,34.417933,-103.190831,34.417933],
+  "bbox": [
+    -103.190831,
+    34.417933,
+    -103.190831,
+    34.417933
+],
   "geometry": {"coordinates":[-103.190831,34.417933],"type":"Point"}
 }

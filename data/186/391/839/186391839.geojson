@@ -2,13 +2,14 @@
   "id": 186391839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.639194,35.149519,-106.639194,35.149519",
     "geom:latitude":35.149519,
     "geom:longitude":-106.639194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6344 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186391839,
-    "wof:lastmodified":1449052096,
+    "wof:lastmodified":1466699939,
     "wof:name":"Fourth Street Ceramics & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.639194,35.149519,-106.639194,35.149519],
+  "bbox": [
+    -106.639194,
+    35.149519,
+    -106.639194,
+    35.149519
+],
   "geometry": {"coordinates":[-106.639194,35.149519],"type":"Point"}
 }

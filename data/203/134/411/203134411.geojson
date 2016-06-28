@@ -2,13 +2,14 @@
   "id": 203134411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.593167,35.161219,-106.593167,35.161219",
     "geom:latitude":35.161219,
     "geom:longitude":-106.593167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7136 Jefferson St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203134411,
-    "wof:lastmodified":1449026761,
+    "wof:lastmodified":1466699053,
     "wof:name":"Benson Woodworking LLC",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-106.593167,35.161219,-106.593167,35.161219],
-  "geometry": {"coordinates":[-106.593167,35.161219],"type":"Point"}
+  "bbox": [
+    -106.593167,
+    35.161219,
+    -106.593167,
+    35.161219
+],
+  "geometry": {"coordinates":[-106.59316699999999,35.161219],"type":"Point"}
 }

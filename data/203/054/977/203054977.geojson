@@ -2,13 +2,14 @@
   "id": 203054977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.840551,35.543687,-105.840551,35.543687",
     "geom:latitude":35.543687,
     "geom:longitude":-105.840551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"908 Old Las Vegas Hwy",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":203054977,
-    "wof:lastmodified":1449025814,
+    "wof:lastmodified":1466698195,
     "wof:name":"Santa Fe Pets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pet"
     ]
 },
-  "bbox": [-105.840551,35.543687,-105.840551,35.543687],
+  "bbox": [
+    -105.840551,
+    35.543687,
+    -105.840551,
+    35.543687
+],
   "geometry": {"coordinates":[-105.840551,35.543687],"type":"Point"}
 }

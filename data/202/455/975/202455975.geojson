@@ -2,13 +2,14 @@
   "id": 202455975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.920184,32.894232,-105.920184,32.894232",
     "geom:latitude":32.894232,
     "geom:longitude":-105.920184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Sundown Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202455975,
-    "wof:lastmodified":1449062258,
+    "wof:lastmodified":1466698600,
     "wof:name":"Interior Accents",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-105.920184,32.894232,-105.920184,32.894232],
-  "geometry": {"coordinates":[-105.920184,32.894232],"type":"Point"}
+  "bbox": [
+    -105.920184,
+    32.894232,
+    -105.920184,
+    32.894232
+],
+  "geometry": {"coordinates":[-105.92018400000001,32.894232],"type":"Point"}
 }

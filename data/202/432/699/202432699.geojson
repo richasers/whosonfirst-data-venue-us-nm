@@ -2,13 +2,14 @@
   "id": 202432699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.254185,35.117636,-106.254185,35.117636",
     "geom:latitude":35.117636,
     "geom:longitude":-106.254185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Mercer Dr",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202432699,
-    "wof:lastmodified":1449060063,
+    "wof:lastmodified":1466698342,
     "wof:name":"Rio Scientific Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "instrument"
     ]
 },
-  "bbox": [-106.254185,35.117636,-106.254185,35.117636],
-  "geometry": {"coordinates":[-106.254185,35.117636],"type":"Point"}
+  "bbox": [
+    -106.254185,
+    35.117636,
+    -106.254185,
+    35.117636
+],
+  "geometry": {"coordinates":[-106.25418500000001,35.117636],"type":"Point"}
 }

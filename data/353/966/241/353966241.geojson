@@ -2,13 +2,14 @@
   "id": 353966241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.502872,35.188544,-106.502872,35.188544",
     "geom:latitude":35.188544,
     "geom:longitude":-106.502872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12100 Modesto Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353966241,
-    "wof:lastmodified":1449018282,
+    "wof:lastmodified":1466698913,
     "wof:name":"Pump Parts Source",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-106.502872,35.188544,-106.502872,35.188544],
+  "bbox": [
+    -106.502872,
+    35.188544,
+    -106.502872,
+    35.188544
+],
   "geometry": {"coordinates":[-106.502872,35.188544],"type":"Point"}
 }

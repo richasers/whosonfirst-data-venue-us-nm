@@ -2,13 +2,14 @@
   "id": 353983547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.108788,33.821308,-103.108788,33.821308",
     "geom:latitude":33.821308,
     "geom:longitude":-103.108788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"469 S Roosevelt Road 30",
     "sg:city":"Causey",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":353983547,
-    "wof:lastmodified":1449020598,
+    "wof:lastmodified":1466699133,
     "wof:name":"Circle S Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grain"
     ]
 },
-  "bbox": [-103.108788,33.821308,-103.108788,33.821308],
+  "bbox": [
+    -103.108788,
+    33.821308,
+    -103.108788,
+    33.821308
+],
   "geometry": {"coordinates":[-103.108788,33.821308],"type":"Point"}
 }

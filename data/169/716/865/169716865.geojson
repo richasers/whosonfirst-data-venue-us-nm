@@ -2,13 +2,14 @@
   "id": 169716865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.228071,35.625457,-105.228071,35.625457",
     "geom:latitude":35.625457,
     "geom:longitude":-105.228071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Williams Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169716865,
-    "wof:lastmodified":1449033156,
+    "wof:lastmodified":1466697737,
     "wof:name":"Aquisition Support Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.228071,35.625457,-105.228071,35.625457],
+  "bbox": [
+    -105.228071,
+    35.625457,
+    -105.228071,
+    35.625457
+],
   "geometry": {"coordinates":[-105.228071,35.625457],"type":"Point"}
 }

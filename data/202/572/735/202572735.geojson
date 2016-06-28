@@ -2,13 +2,14 @@
   "id": 202572735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.667692,35.142237,-106.667692,35.142237",
     "geom:latitude":35.142237,
     "geom:longitude":-106.667692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4209 Glenarbor Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202572735,
-    "wof:lastmodified":1449061678,
+    "wof:lastmodified":1466697977,
     "wof:name":"All Around General Contracting",
     "wof:parent_id":85892593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-106.667692,35.142237,-106.667692,35.142237],
+  "bbox": [
+    -106.667692,
+    35.142237,
+    -106.667692,
+    35.142237
+],
   "geometry": {"coordinates":[-106.667692,35.142237],"type":"Point"}
 }

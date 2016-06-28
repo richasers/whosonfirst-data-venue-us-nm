@@ -2,13 +2,14 @@
   "id": 202988937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.494562,35.078376,-106.494562,35.078376",
     "geom:latitude":35.078376,
     "geom:longitude":-106.494562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Monte Alto Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202988937,
-    "wof:lastmodified":1449060982,
+    "wof:lastmodified":1466700825,
     "wof:name":"Nita Massage",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.494562,35.078376,-106.494562,35.078376],
+  "bbox": [
+    -106.494562,
+    35.078376,
+    -106.494562,
+    35.078376
+],
   "geometry": {"coordinates":[-106.494562,35.078376],"type":"Point"}
 }

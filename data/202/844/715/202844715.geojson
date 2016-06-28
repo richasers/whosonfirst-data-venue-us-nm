@@ -2,13 +2,14 @@
   "id": 202844715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.774838,32.326107,-106.774838,32.326107",
     "geom:latitude":32.326107,
     "geom:longitude":-106.774838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 E Mulberry Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202844715,
-    "wof:lastmodified":1449061199,
+    "wof:lastmodified":1466700157,
     "wof:name":"Amigo Mobile Home Park In",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-106.774838,32.326107,-106.774838,32.326107],
+  "bbox": [
+    -106.774838,
+    32.326107,
+    -106.774838,
+    32.326107
+],
   "geometry": {"coordinates":[-106.774838,32.326107],"type":"Point"}
 }

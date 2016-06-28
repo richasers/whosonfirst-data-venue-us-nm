@@ -2,13 +2,14 @@
   "id": 186365351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.12746,32.725786,-103.12746,32.725786",
     "geom:latitude":32.725786,
     "geom:longitude":-103.12746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 E Bender Blvd",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186365351,
-    "wof:lastmodified":1449050845,
+    "wof:lastmodified":1466699721,
     "wof:name":"Sun Guard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tinting"
     ]
 },
-  "bbox": [-103.12746,32.725786,-103.12746,32.725786],
+  "bbox": [
+    -103.12746,
+    32.725786,
+    -103.12746,
+    32.725786
+],
   "geometry": {"coordinates":[-103.12746,32.725786],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186609441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.694876,34.771042,-106.694876,34.771042",
     "geom:latitude":34.771042,
     "geom:longitude":-106.694876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Inspiration Dr",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186609441,
-    "wof:lastmodified":1449051377,
+    "wof:lastmodified":1466700667,
     "wof:name":"Ray Sego Insulation Inc",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.694876,34.771042,-106.694876,34.771042],
-  "geometry": {"coordinates":[-106.694876,34.771042],"type":"Point"}
+  "bbox": [
+    -106.694876,
+    34.771042,
+    -106.694876,
+    34.771042
+],
+  "geometry": {"coordinates":[-106.69487599999999,34.771042],"type":"Point"}
 }

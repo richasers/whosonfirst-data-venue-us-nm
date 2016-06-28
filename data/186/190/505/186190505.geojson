@@ -2,13 +2,14 @@
   "id": 186190505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.37098,36.746323,-108.37098,36.746323",
     "geom:latitude":36.746323,
     "geom:longitude":-108.37098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4120 US Hwy 64",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186190505,
-    "wof:lastmodified":1449052862,
+    "wof:lastmodified":1466697901,
     "wof:name":"Chitti Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-108.37098,36.746323,-108.37098,36.746323],
+  "bbox": [
+    -108.37098,
+    36.746323,
+    -108.37098,
+    36.746323
+],
   "geometry": {"coordinates":[-108.37098,36.746323],"type":"Point"}
 }

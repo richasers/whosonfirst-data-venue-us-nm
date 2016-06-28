@@ -2,13 +2,14 @@
   "id": 202706115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.514178,33.401052,-104.514178,33.401052",
     "geom:latitude":33.401052,
     "geom:longitude":-104.514178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 N Garden Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202706115,
-    "wof:lastmodified":1449060290,
+    "wof:lastmodified":1466699619,
     "wof:name":"Edgewood Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-104.514178,33.401052,-104.514178,33.401052],
+  "bbox": [
+    -104.514178,
+    33.401052,
+    -104.514178,
+    33.401052
+],
   "geometry": {"coordinates":[-104.514178,33.401052],"type":"Point"}
 }

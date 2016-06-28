@@ -2,13 +2,14 @@
   "id": 169729693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.703211,35.153177,-106.703211,35.153177",
     "geom:latitude":35.153177,
     "geom:longitude":-106.703211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5620 Blue Pine Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169729693,
-    "wof:lastmodified":1449034343,
+    "wof:lastmodified":1466697888,
     "wof:name":"Pro West Productions",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.703211,35.153177,-106.703211,35.153177],
+  "bbox": [
+    -106.703211,
+    35.153177,
+    -106.703211,
+    35.153177
+],
   "geometry": {"coordinates":[-106.703211,35.153177],"type":"Point"}
 }

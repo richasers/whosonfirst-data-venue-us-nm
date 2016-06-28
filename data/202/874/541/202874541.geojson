@@ -2,13 +2,14 @@
   "id": 202874541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960311,35.644656,-105.960311,35.644656",
     "geom:latitude":35.644656,
     "geom:longitude":-105.960311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1880 Cam de Pabilo",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202874541,
-    "wof:lastmodified":1449062480,
+    "wof:lastmodified":1466700134,
     "wof:name":"S & K Construction",
     "wof:parent_id":85880775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-105.960311,35.644656,-105.960311,35.644656],
+  "bbox": [
+    -105.960311,
+    35.644656,
+    -105.960311,
+    35.644656
+],
   "geometry": {"coordinates":[-105.960311,35.644656],"type":"Point"}
 }

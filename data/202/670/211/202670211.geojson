@@ -2,13 +2,14 @@
   "id": 202670211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.190314,36.748174,-108.190314,36.748174",
     "geom:latitude":36.748174,
     "geom:longitude":-108.190314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 E 20th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202670211,
-    "wof:lastmodified":1449060483,
+    "wof:lastmodified":1466699485,
     "wof:name":"Day's Bookkeeping Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-108.190314,36.748174,-108.190314,36.748174],
+  "bbox": [
+    -108.190314,
+    36.748174,
+    -108.190314,
+    36.748174
+],
   "geometry": {"coordinates":[-108.190314,36.748174],"type":"Point"}
 }

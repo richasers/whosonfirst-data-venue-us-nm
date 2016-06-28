@@ -2,13 +2,14 @@
   "id": 185767819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.715572,35.179113,-103.715572,35.179113",
     "geom:latitude":35.179113,
     "geom:longitude":-103.715572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"923 E Main St",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185767819,
-    "wof:lastmodified":1449007076,
+    "wof:lastmodified":1466699226,
     "wof:name":"LA Promesa Ladies Wear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.715572,35.179113,-103.715572,35.179113],
-  "geometry": {"coordinates":[-103.715572,35.179113],"type":"Point"}
+  "bbox": [
+    -103.715572,
+    35.179113,
+    -103.715572,
+    35.179113
+],
+  "geometry": {"coordinates":[-103.71557199999999,35.179113],"type":"Point"}
 }

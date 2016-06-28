@@ -2,13 +2,14 @@
   "id": 202812077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.94216,35.667983,-105.94216,35.667983",
     "geom:latitude":35.667983,
     "geom:longitude":-105.94216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Cadiz Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202812077,
-    "wof:lastmodified":1449060167,
+    "wof:lastmodified":1466699878,
     "wof:name":"Craig Campbell Studio Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-105.94216,35.667983,-105.94216,35.667983],
+  "bbox": [
+    -105.94216,
+    35.667983,
+    -105.94216,
+    35.667983
+],
   "geometry": {"coordinates":[-105.94216,35.667983],"type":"Point"}
 }

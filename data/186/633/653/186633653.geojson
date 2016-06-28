@@ -2,13 +2,14 @@
   "id": 186633653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.734333,34.801677,-106.734333,34.801677",
     "geom:latitude":34.801677,
     "geom:longitude":-106.734333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 Luna Ave SE",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186633653,
-    "wof:lastmodified":1449053011,
+    "wof:lastmodified":1466700769,
     "wof:name":"Valencia County Bureau-Elctns",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.734333,34.801677,-106.734333,34.801677],
-  "geometry": {"coordinates":[-106.734333,34.801677],"type":"Point"}
+  "bbox": [
+    -106.734333,
+    34.801677,
+    -106.734333,
+    34.801677
+],
+  "geometry": {"coordinates":[-106.73433300000001,34.801677],"type":"Point"}
 }

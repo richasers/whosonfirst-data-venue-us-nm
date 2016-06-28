@@ -2,13 +2,14 @@
   "id": 186035433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.648961,35.201017,-106.648961,35.201017",
     "geom:latitude":35.201017,
     "geom:longitude":-106.648961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10131 Coors Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186035433,
-    "wof:lastmodified":1449052493,
+    "wof:lastmodified":1466698085,
     "wof:name":"Mr J's Chem-Dry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-106.648961,35.201017,-106.648961,35.201017],
+  "bbox": [
+    -106.648961,
+    35.201017,
+    -106.648961,
+    35.201017
+],
   "geometry": {"coordinates":[-106.648961,35.201017],"type":"Point"}
 }

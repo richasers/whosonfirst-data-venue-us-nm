@@ -2,13 +2,14 @@
   "id": 353921107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.641015,35.103114,-106.641015,35.103114",
     "geom:latitude":35.103114,
     "geom:longitude":-106.641015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1918 Broadway Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353921107,
-    "wof:lastmodified":1449019886,
+    "wof:lastmodified":1466697755,
     "wof:name":"Sanchez Collision Auto",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "repairing"
     ]
 },
-  "bbox": [-106.641015,35.103114,-106.641015,35.103114],
+  "bbox": [
+    -106.641015,
+    35.103114,
+    -106.641015,
+    35.103114
+],
   "geometry": {"coordinates":[-106.641015,35.103114],"type":"Point"}
 }

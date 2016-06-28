@@ -2,13 +2,14 @@
   "id": 202757095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.32994,33.114173,-104.32994,33.114173",
     "geom:latitude":33.114173,
     "geom:longitude":-104.32994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 W Argyle St",
     "sg:city":"Hagerman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202757095,
-    "wof:lastmodified":1449061531,
+    "wof:lastmodified":1466699710,
     "wof:name":"Hagerman Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-104.32994,33.114173,-104.32994,33.114173],
-  "geometry": {"coordinates":[-104.32994,33.114173],"type":"Point"}
+  "bbox": [
+    -104.32994,
+    33.114173,
+    -104.32994,
+    33.114173
+],
+  "geometry": {"coordinates":[-104.32993999999999,33.114173],"type":"Point"}
 }

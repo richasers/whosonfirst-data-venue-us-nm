@@ -2,13 +2,14 @@
   "id": 186019699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.711176,34.774119,-106.711176,34.774119",
     "geom:latitude":34.774119,
     "geom:longitude":-106.711176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3216 State Hwy 47",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186019699,
-    "wof:lastmodified":1449051921,
+    "wof:lastmodified":1466697902,
     "wof:name":"Center For Ageless Living",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-106.711176,34.774119,-106.711176,34.774119],
-  "geometry": {"coordinates":[-106.711176,34.774119],"type":"Point"}
+  "bbox": [
+    -106.711176,
+    34.774119,
+    -106.711176,
+    34.774119
+],
+  "geometry": {"coordinates":[-106.71117599999999,34.774119],"type":"Point"}
 }

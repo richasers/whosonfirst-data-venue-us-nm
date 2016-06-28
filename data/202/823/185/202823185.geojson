@@ -2,13 +2,14 @@
   "id": 202823185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.768284,32.276415,-106.768284,32.276415",
     "geom:latitude":32.276415,
     "geom:longitude":-106.768284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Manso Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202823185,
-    "wof:lastmodified":1449062613,
+    "wof:lastmodified":1466699970,
     "wof:name":"Allison Fence Co",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-106.768284,32.276415,-106.768284,32.276415],
-  "geometry": {"coordinates":[-106.768284,32.276415],"type":"Point"}
+  "bbox": [
+    -106.768284,
+    32.276415,
+    -106.768284,
+    32.276415
+],
+  "geometry": {"coordinates":[-106.76828399999999,32.276415],"type":"Point"}
 }

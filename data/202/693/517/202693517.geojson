@@ -2,13 +2,14 @@
   "id": 202693517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.797004,32.301203,-106.797004,32.301203",
     "geom:latitude":32.301203,
     "geom:longitude":-106.797004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"461 Pioneer Pl",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202693517,
-    "wof:lastmodified":1449060251,
+    "wof:lastmodified":1466699461,
     "wof:name":"Capron Builders & Design",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-106.797004,32.301203,-106.797004,32.301203],
+  "bbox": [
+    -106.797004,
+    32.301203,
+    -106.797004,
+    32.301203
+],
   "geometry": {"coordinates":[-106.797004,32.301203],"type":"Point"}
 }

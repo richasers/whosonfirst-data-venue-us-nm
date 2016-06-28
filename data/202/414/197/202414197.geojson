@@ -2,13 +2,14 @@
   "id": 202414197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.560351,35.316913,-106.560351,35.316913",
     "geom:latitude":35.316913,
     "geom:longitude":-106.560351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"830 Cam Vista Rio",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202414197,
-    "wof:lastmodified":1449061310,
+    "wof:lastmodified":1466698121,
     "wof:name":"1on1 Design Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "internet"
     ]
 },
-  "bbox": [-106.560351,35.316913,-106.560351,35.316913],
+  "bbox": [
+    -106.560351,
+    35.316913,
+    -106.560351,
+    35.316913
+],
   "geometry": {"coordinates":[-106.560351,35.316913],"type":"Point"}
 }

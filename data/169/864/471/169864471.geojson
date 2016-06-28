@@ -2,13 +2,14 @@
   "id": 169864471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.17287,34.428868,-103.17287,34.428868",
     "geom:latitude":34.428868,
     "geom:longitude":-103.17287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 Northglen Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169864471,
-    "wof:lastmodified":1449036011,
+    "wof:lastmodified":1466698976,
     "wof:name":"Burch Media Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-103.17287,34.428868,-103.17287,34.428868],
+  "bbox": [
+    -103.17287,
+    34.428868,
+    -103.17287,
+    34.428868
+],
   "geometry": {"coordinates":[-103.17287,34.428868],"type":"Point"}
 }

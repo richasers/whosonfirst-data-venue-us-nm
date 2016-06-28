@@ -2,13 +2,14 @@
   "id": 186515135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.275498,35.887913,-106.275498,35.887913",
     "geom:latitude":35.887913,
     "geom:longitude":-106.275498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1048 Cedro Ct",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186515135,
-    "wof:lastmodified":1449051023,
+    "wof:lastmodified":1466700278,
     "wof:name":"Ceecee Industries LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.275498,35.887913,-106.275498,35.887913],
+  "bbox": [
+    -106.275498,
+    35.887913,
+    -106.275498,
+    35.887913
+],
   "geometry": {"coordinates":[-106.275498,35.887913],"type":"Point"}
 }

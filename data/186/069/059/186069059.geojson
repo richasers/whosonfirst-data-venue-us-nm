@@ -2,13 +2,14 @@
   "id": 186069059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.593437,35.078625,-106.593437,35.078625",
     "geom:latitude":35.078625,
     "geom:longitude":-106.593437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4517 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":186069059,
-    "wof:lastmodified":1449052066,
+    "wof:lastmodified":1466698520,
     "wof:name":"Evolution Body Piercing Inc",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-106.593437,35.078625,-106.593437,35.078625],
-  "geometry": {"coordinates":[-106.593437,35.078625],"type":"Point"}
+  "bbox": [
+    -106.593437,
+    35.078625,
+    -106.593437,
+    35.078625
+],
+  "geometry": {"coordinates":[-106.59343699999999,35.078625],"type":"Point"}
 }

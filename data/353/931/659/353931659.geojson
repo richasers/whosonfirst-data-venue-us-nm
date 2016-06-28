@@ -2,13 +2,14 @@
   "id": 353931659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.630401,35.12317,-106.630401,35.12317",
     "geom:latitude":35.12317,
     "geom:longitude":-106.630401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Rankin Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[],
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":353931659,
-    "wof:lastmodified":1449020574,
+    "wof:lastmodified":1466698053,
     "wof:name":"Artistic Tile & Granite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.630401,35.12317,-106.630401,35.12317],
-  "geometry": {"coordinates":[-106.630401,35.12317],"type":"Point"}
+  "bbox": [
+    -106.630401,
+    35.12317,
+    -106.630401,
+    35.12317
+],
+  "geometry": {"coordinates":[-106.63040100000001,35.12317],"type":"Point"}
 }

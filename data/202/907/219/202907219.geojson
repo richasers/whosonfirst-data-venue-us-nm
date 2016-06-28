@@ -2,13 +2,14 @@
   "id": 202907219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.694378,35.149194,-106.694378,35.149194",
     "geom:latitude":35.149194,
     "geom:longitude":-106.694378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5016 College Heights Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202907219,
-    "wof:lastmodified":1449062458,
+    "wof:lastmodified":1466700377,
     "wof:name":"Humble Homes",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-106.694378,35.149194,-106.694378,35.149194],
+  "bbox": [
+    -106.694378,
+    35.149194,
+    -106.694378,
+    35.149194
+],
   "geometry": {"coordinates":[-106.694378,35.149194],"type":"Point"}
 }

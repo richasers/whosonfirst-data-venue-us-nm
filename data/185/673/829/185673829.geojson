@@ -2,13 +2,14 @@
   "id": 185673829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.331089,35.102268,-103.331089,35.102268",
     "geom:latitude":35.102268,
     "geom:longitude":-103.331089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2364 State Hwy 469",
     "sg:city":"San Jon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185673829,
-    "wof:lastmodified":1449007240,
+    "wof:lastmodified":1466698395,
     "wof:name":"Conway Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-103.331089,35.102268,-103.331089,35.102268],
-  "geometry": {"coordinates":[-103.331089,35.102268],"type":"Point"}
+  "bbox": [
+    -103.331089,
+    35.102268,
+    -103.331089,
+    35.102268
+],
+  "geometry": {"coordinates":[-103.33108900000001,35.102268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202951515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.698917,35.148579,-106.698917,35.148579",
     "geom:latitude":35.148579,
     "geom:longitude":-106.698917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5415 Mariposa Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202951515,
-    "wof:lastmodified":1449060204,
+    "wof:lastmodified":1466700554,
     "wof:name":"Air Duct Medic LLC",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-106.698917,35.148579,-106.698917,35.148579],
-  "geometry": {"coordinates":[-106.698917,35.148579],"type":"Point"}
+  "bbox": [
+    -106.698917,
+    35.148579,
+    -106.698917,
+    35.148579
+],
+  "geometry": {"coordinates":[-106.69891699999999,35.148579],"type":"Point"}
 }

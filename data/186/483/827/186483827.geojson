@@ -2,13 +2,14 @@
   "id": 186483827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.584328,35.060235,-106.584328,35.060235",
     "geom:latitude":35.060235,
     "geom:longitude":-106.584328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Madeira Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186483827,
-    "wof:lastmodified":1449052438,
+    "wof:lastmodified":1466700183,
     "wof:name":"Bodo Graphics",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-106.584328,35.060235,-106.584328,35.060235],
+  "bbox": [
+    -106.584328,
+    35.060235,
+    -106.584328,
+    35.060235
+],
   "geometry": {"coordinates":[-106.584328,35.060235],"type":"Point"}
 }

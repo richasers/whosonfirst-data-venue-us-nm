@@ -2,13 +2,14 @@
   "id": 353941237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.593606,35.14006,-106.593606,35.14006",
     "geom:latitude":35.14006,
     "geom:longitude":-106.593606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5050 Jefferson St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353941237,
-    "wof:lastmodified":1449019794,
+    "wof:lastmodified":1466698310,
     "wof:name":"Holiday Inn Hotel & Suites Albuquerque-North I-25",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "hall"
     ]
 },
-  "bbox": [-106.593606,35.14006,-106.593606,35.14006],
-  "geometry": {"coordinates":[-106.593606,35.14006],"type":"Point"}
+  "bbox": [
+    -106.593606,
+    35.14006,
+    -106.593606,
+    35.14006
+],
+  "geometry": {"coordinates":[-106.59360599999999,35.14006],"type":"Point"}
 }

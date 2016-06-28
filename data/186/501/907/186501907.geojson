@@ -2,13 +2,14 @@
   "id": 186501907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.625047,35.147004,-106.625047,35.147004",
     "geom:latitude":35.147004,
     "geom:longitude":-106.625047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6143 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186501907,
-    "wof:lastmodified":1449053051,
+    "wof:lastmodified":1466700314,
     "wof:name":"Noor Manufacturing Co Inc",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "welding"
     ]
 },
-  "bbox": [-106.625047,35.147004,-106.625047,35.147004],
+  "bbox": [
+    -106.625047,
+    35.147004,
+    -106.625047,
+    35.147004
+],
   "geometry": {"coordinates":[-106.625047,35.147004],"type":"Point"}
 }

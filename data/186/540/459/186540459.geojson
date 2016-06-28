@@ -2,13 +2,14 @@
   "id": 186540459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.772804,32.286349,-106.772804,32.286349",
     "geom:latitude":32.286349,
     "geom:longitude":-106.772804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Farney Ln",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186540459,
-    "wof:lastmodified":1449051418,
+    "wof:lastmodified":1466700507,
     "wof:name":"Saunders Garage",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-106.772804,32.286349,-106.772804,32.286349],
-  "geometry": {"coordinates":[-106.772804,32.286349],"type":"Point"}
+  "bbox": [
+    -106.772804,
+    32.286349,
+    -106.772804,
+    32.286349
+],
+  "geometry": {"coordinates":[-106.77280399999999,32.286349],"type":"Point"}
 }

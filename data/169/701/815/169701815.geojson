@@ -2,13 +2,14 @@
   "id": 169701815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.776298,32.275375,-106.776298,32.275375",
     "geom:latitude":32.275375,
     "geom:longitude":-106.776298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Canterbury Arc",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169701815,
-    "wof:lastmodified":1449035270,
+    "wof:lastmodified":1466697615,
     "wof:name":"Luv 2 Workout",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-106.776298,32.275375,-106.776298,32.275375],
+  "bbox": [
+    -106.776298,
+    32.275375,
+    -106.776298,
+    32.275375
+],
   "geometry": {"coordinates":[-106.776298,32.275375],"type":"Point"}
 }

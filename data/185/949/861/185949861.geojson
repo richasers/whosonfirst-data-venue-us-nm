@@ -2,13 +2,14 @@
   "id": 185949861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.752563,32.26937,-107.752563,32.26937",
     "geom:latitude":32.26937,
     "geom:longitude":-107.752563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 E Pine St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185949861,
-    "wof:lastmodified":1449007605,
+    "wof:lastmodified":1466699213,
     "wof:name":"El Mirador",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.752563,32.26937,-107.752563,32.26937],
-  "geometry": {"coordinates":[-107.752563,32.26937],"type":"Point"}
+  "bbox": [
+    -107.752563,
+    32.26937,
+    -107.752563,
+    32.26937
+],
+  "geometry": {"coordinates":[-107.75256299999999,32.26937],"type":"Point"}
 }

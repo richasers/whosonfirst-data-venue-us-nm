@@ -2,13 +2,14 @@
   "id": 186330847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.625266,35.252145,-106.625266,35.252145",
     "geom:latitude":35.252145,
     "geom:longitude":-106.625266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1399 Angel Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186330847,
-    "wof:lastmodified":1449051717,
+    "wof:lastmodified":1466699462,
     "wof:name":"Sandia Excavations",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.625266,35.252145,-106.625266,35.252145],
+  "bbox": [
+    -106.625266,
+    35.252145,
+    -106.625266,
+    35.252145
+],
   "geometry": {"coordinates":[-106.625266,35.252145],"type":"Point"}
 }

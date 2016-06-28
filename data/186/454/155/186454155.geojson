@@ -2,13 +2,14 @@
   "id": 186454155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.955082,35.67597,-105.955082,35.67597",
     "geom:latitude":35.67597,
     "geom:longitude":-105.955082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 Pen Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":186454155,
-    "wof:lastmodified":1449052770,
+    "wof:lastmodified":1466700051,
     "wof:name":"Pinon Fast Print",
     "wof:parent_id":85880841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "copying"
     ]
 },
-  "bbox": [-105.955082,35.67597,-105.955082,35.67597],
+  "bbox": [
+    -105.955082,
+    35.67597,
+    -105.955082,
+    35.67597
+],
   "geometry": {"coordinates":[-105.955082,35.67597],"type":"Point"}
 }

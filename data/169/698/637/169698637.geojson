@@ -2,13 +2,14 @@
   "id": 169698637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.348662,32.949096,-103.348662,32.949096",
     "geom:latitude":32.949096,
     "geom:longitude":-103.348662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N Main Ave",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169698637,
-    "wof:lastmodified":1449035753,
+    "wof:lastmodified":1466697651,
     "wof:name":"J D Whittington Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.348662,32.949096,-103.348662,32.949096],
+  "bbox": [
+    -103.348662,
+    32.949096,
+    -103.348662,
+    32.949096
+],
   "geometry": {"coordinates":[-103.348662,32.949096],"type":"Point"}
 }

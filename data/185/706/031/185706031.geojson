@@ -2,13 +2,14 @@
   "id": 185706031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.620271,35.118988,-106.620271,35.118988",
     "geom:latitude":35.118988,
     "geom:longitude":-106.620271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Princeton Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185706031,
-    "wof:lastmodified":1449006717,
+    "wof:lastmodified":1466699432,
     "wof:name":"Pistils & Stamens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.620271,35.118988,-106.620271,35.118988],
+  "bbox": [
+    -106.620271,
+    35.118988,
+    -106.620271,
+    35.118988
+],
   "geometry": {"coordinates":[-106.620271,35.118988],"type":"Point"}
 }

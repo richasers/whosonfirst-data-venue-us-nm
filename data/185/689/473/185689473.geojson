@@ -2,13 +2,14 @@
   "id": 185689473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.500654,35.180286,-106.500654,35.180286",
     "geom:latitude":35.180286,
     "geom:longitude":-106.500654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12406 New Dawn Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185689473,
-    "wof:lastmodified":1449007964,
+    "wof:lastmodified":1466698549,
     "wof:name":"Dennis Madrid MD PC",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-106.500654,35.180286,-106.500654,35.180286],
+  "bbox": [
+    -106.500654,
+    35.180286,
+    -106.500654,
+    35.180286
+],
   "geometry": {"coordinates":[-106.500654,35.180286],"type":"Point"}
 }

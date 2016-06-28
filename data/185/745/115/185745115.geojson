@@ -2,13 +2,14 @@
   "id": 185745115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.709696,34.985673,-106.709696,34.985673",
     "geom:latitude":34.985673,
     "geom:longitude":-106.709696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6117 Alvis Cir SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185745115,
-    "wof:lastmodified":1449008122,
+    "wof:lastmodified":1466699105,
     "wof:name":"Enchantment Transport Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.709696,34.985673,-106.709696,34.985673],
-  "geometry": {"coordinates":[-106.709696,34.985673],"type":"Point"}
+  "bbox": [
+    -106.709696,
+    34.985673,
+    -106.709696,
+    34.985673
+],
+  "geometry": {"coordinates":[-106.70969599999999,34.985673],"type":"Point"}
 }

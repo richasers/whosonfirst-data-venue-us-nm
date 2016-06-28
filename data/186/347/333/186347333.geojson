@@ -2,13 +2,14 @@
   "id": 186347333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614788,34.772869,-106.614788,34.772869",
     "geom:latitude":34.772869,
     "geom:longitude":-106.614788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 San Miguel Ave",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186347333,
-    "wof:lastmodified":1449051674,
+    "wof:lastmodified":1466699768,
     "wof:name":"Newman Custom Woodworking",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-106.614788,34.772869,-106.614788,34.772869],
+  "bbox": [
+    -106.614788,
+    34.772869,
+    -106.614788,
+    34.772869
+],
   "geometry": {"coordinates":[-106.614788,34.772869],"type":"Point"}
 }

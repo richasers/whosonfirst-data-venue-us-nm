@@ -2,13 +2,14 @@
   "id": 353978075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.196468,34.435464,-103.196468,34.435464",
     "geom:latitude":34.435464,
     "geom:longitude":-103.196468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3620 N Prince St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":353978075,
-    "wof:lastmodified":1449019734,
+    "wof:lastmodified":1466699066,
     "wof:name":"Allstate Insurance Company - Ronnie Tafoya",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-103.196468,34.435464,-103.196468,34.435464],
+  "bbox": [
+    -103.196468,
+    34.435464,
+    -103.196468,
+    34.435464
+],
   "geometry": {"coordinates":[-103.196468,34.435464],"type":"Point"}
 }

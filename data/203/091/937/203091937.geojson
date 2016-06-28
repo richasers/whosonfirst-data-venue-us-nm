@@ -2,13 +2,14 @@
   "id": 203091937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.630495,32.403491,-106.630495,32.403491",
     "geom:latitude":32.403491,
     "geom:longitude":-106.630495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4305 Butterfly Ln",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203091937,
-    "wof:lastmodified":1449025123,
+    "wof:lastmodified":1466698615,
     "wof:name":"Tri C & D Enterprises",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-106.630495,32.403491,-106.630495,32.403491],
+  "bbox": [
+    -106.630495,
+    32.403491,
+    -106.630495,
+    32.403491
+],
   "geometry": {"coordinates":[-106.630495,32.403491],"type":"Point"}
 }

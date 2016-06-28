@@ -2,13 +2,14 @@
   "id": 186102539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604037,35.153707,-106.604037,35.153707",
     "geom:latitude":35.153707,
     "geom:longitude":-106.604037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":186102539,
-    "wof:lastmodified":1449052829,
+    "wof:lastmodified":1466698940,
     "wof:name":"Bierwirths Animal Health Sup",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "animal"
     ]
 },
-  "bbox": [-106.604037,35.153707,-106.604037,35.153707],
-  "geometry": {"coordinates":[-106.604037,35.153707],"type":"Point"}
+  "bbox": [
+    -106.604037,
+    35.153707,
+    -106.604037,
+    35.153707
+],
+  "geometry": {"coordinates":[-106.60403700000001,35.153707],"type":"Point"}
 }

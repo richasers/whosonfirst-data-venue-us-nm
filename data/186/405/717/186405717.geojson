@@ -2,13 +2,14 @@
   "id": 186405717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.639296,35.163046,-106.639296,35.163046",
     "geom:latitude":35.163046,
     "geom:longitude":-106.639296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 Pueblo Solano Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186405717,
-    "wof:lastmodified":1449052796,
+    "wof:lastmodified":1466699989,
     "wof:name":"Hickman Ranch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cattle"
     ]
 },
-  "bbox": [-106.639296,35.163046,-106.639296,35.163046],
+  "bbox": [
+    -106.639296,
+    35.163046,
+    -106.639296,
+    35.163046
+],
   "geometry": {"coordinates":[-106.639296,35.163046],"type":"Point"}
 }

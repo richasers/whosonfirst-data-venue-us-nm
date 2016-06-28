@@ -2,13 +2,14 @@
   "id": 202889327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.653847,35.12097,-106.653847,35.12097",
     "geom:latitude":35.12097,
     "geom:longitude":-106.653847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Major Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202889327,
-    "wof:lastmodified":1449060062,
+    "wof:lastmodified":1466700209,
     "wof:name":"A Quality Carpet Of Albuqueque",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-106.653847,35.12097,-106.653847,35.12097],
+  "bbox": [
+    -106.653847,
+    35.12097,
+    -106.653847,
+    35.12097
+],
   "geometry": {"coordinates":[-106.653847,35.12097],"type":"Point"}
 }

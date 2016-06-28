@@ -2,13 +2,14 @@
   "id": 202755091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.216418,36.737145,-108.216418,36.737145",
     "geom:latitude":36.737145,
     "geom:longitude":-108.216418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Reilly Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202755091,
-    "wof:lastmodified":1449060838,
+    "wof:lastmodified":1466699807,
     "wof:name":"Nelson Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-108.216418,36.737145,-108.216418,36.737145],
+  "bbox": [
+    -108.216418,
+    36.737145,
+    -108.216418,
+    36.737145
+],
   "geometry": {"coordinates":[-108.216418,36.737145],"type":"Point"}
 }

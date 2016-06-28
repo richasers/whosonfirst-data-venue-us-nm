@@ -2,13 +2,14 @@
   "id": 202870619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.646393,35.09235,-106.646393,35.09235",
     "geom:latitude":35.09235,
     "geom:longitude":-106.646393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 1st St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202870619,
-    "wof:lastmodified":1449060780,
+    "wof:lastmodified":1466700257,
     "wof:name":"Queston Construction Inc",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-106.646393,35.09235,-106.646393,35.09235],
+  "bbox": [
+    -106.646393,
+    35.09235,
+    -106.646393,
+    35.09235
+],
   "geometry": {"coordinates":[-106.646393,35.09235],"type":"Point"}
 }

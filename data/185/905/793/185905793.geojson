@@ -2,13 +2,14 @@
   "id": 185905793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.577596,35.072834,-106.577596,35.072834",
     "geom:latitude":35.072834,
     "geom:longitude":-106.577596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6127 Zuni Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185905793,
-    "wof:lastmodified":1449007253,
+    "wof:lastmodified":1466698600,
     "wof:name":"Route 66 Paint & Body",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-106.577596,35.072834,-106.577596,35.072834],
+  "bbox": [
+    -106.577596,
+    35.072834,
+    -106.577596,
+    35.072834
+],
   "geometry": {"coordinates":[-106.577596,35.072834],"type":"Point"}
 }

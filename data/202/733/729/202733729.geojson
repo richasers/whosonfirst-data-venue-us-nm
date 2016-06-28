@@ -2,13 +2,14 @@
   "id": 202733729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.494626,35.078664,-106.494626,35.078664",
     "geom:latitude":35.078664,
     "geom:longitude":-106.494626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Monte Alto Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202733729,
-    "wof:lastmodified":1449060459,
+    "wof:lastmodified":1466699731,
     "wof:name":"Joe Rettinger & Assoc",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-106.494626,35.078664,-106.494626,35.078664],
+  "bbox": [
+    -106.494626,
+    35.078664,
+    -106.494626,
+    35.078664
+],
   "geometry": {"coordinates":[-106.494626,35.078664],"type":"Point"}
 }

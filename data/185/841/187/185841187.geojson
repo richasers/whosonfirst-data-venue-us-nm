@@ -2,13 +2,14 @@
   "id": 185841187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.036351,35.489202,-106.036351,35.489202",
     "geom:latitude":35.489202,
     "geom:longitude":-106.036351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 S Fork",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185841187,
-    "wof:lastmodified":1449006952,
+    "wof:lastmodified":1466697913,
     "wof:name":"Dusty Dog Ranch Free Roam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sitting"
     ]
 },
-  "bbox": [-106.036351,35.489202,-106.036351,35.489202],
+  "bbox": [
+    -106.036351,
+    35.489202,
+    -106.036351,
+    35.489202
+],
   "geometry": {"coordinates":[-106.036351,35.489202],"type":"Point"}
 }

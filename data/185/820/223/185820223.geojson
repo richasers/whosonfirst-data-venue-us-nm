@@ -2,13 +2,14 @@
   "id": 185820223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.580996,35.108437,-106.580996,35.108437",
     "geom:latitude":35.108437,
     "geom:longitude":-106.580996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2537 Valencia Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185820223,
-    "wof:lastmodified":1449007462,
+    "wof:lastmodified":1466697686,
     "wof:name":"Perm World",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.580996,35.108437,-106.580996,35.108437],
+  "bbox": [
+    -106.580996,
+    35.108437,
+    -106.580996,
+    35.108437
+],
   "geometry": {"coordinates":[-106.580996,35.108437],"type":"Point"}
 }

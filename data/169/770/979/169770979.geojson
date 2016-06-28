@@ -2,13 +2,14 @@
   "id": 169770979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.695395,35.258317,-106.695395,35.258317",
     "geom:latitude":35.258317,
     "geom:longitude":-106.695395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Summer Winds Dr NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169770979,
-    "wof:lastmodified":1449036035,
+    "wof:lastmodified":1466698267,
     "wof:name":"Lobo Land Pottery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.695395,35.258317,-106.695395,35.258317],
+  "bbox": [
+    -106.695395,
+    35.258317,
+    -106.695395,
+    35.258317
+],
   "geometry": {"coordinates":[-106.695395,35.258317],"type":"Point"}
 }

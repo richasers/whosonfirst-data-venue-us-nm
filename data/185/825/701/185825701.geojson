@@ -2,13 +2,14 @@
   "id": 185825701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.492664,35.154524,-106.492664,35.154524",
     "geom:latitude":35.154524,
     "geom:longitude":-106.492664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6428 Sage Point Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185825701,
-    "wof:lastmodified":1449006641,
+    "wof:lastmodified":1466697745,
     "wof:name":"Sjc Designs & More",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-106.492664,35.154524,-106.492664,35.154524],
+  "bbox": [
+    -106.492664,
+    35.154524,
+    -106.492664,
+    35.154524
+],
   "geometry": {"coordinates":[-106.492664,35.154524],"type":"Point"}
 }

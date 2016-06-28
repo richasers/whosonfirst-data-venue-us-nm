@@ -2,13 +2,14 @@
   "id": 186229835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781224,32.309449,-106.781224,32.309449",
     "geom:latitude":32.309449,
     "geom:longitude":-106.781224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 N Alameda Blvd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186229835,
-    "wof:lastmodified":1449052470,
+    "wof:lastmodified":1466698395,
     "wof:name":"Central Elementary School",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.781224,32.309449,-106.781224,32.309449],
-  "geometry": {"coordinates":[-106.781224,32.309449],"type":"Point"}
+  "bbox": [
+    -106.781224,
+    32.309449,
+    -106.781224,
+    32.309449
+],
+  "geometry": {"coordinates":[-106.78122399999999,32.309449],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202948755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.555353,35.110881,-106.555353,35.110881",
     "geom:latitude":35.110881,
     "geom:longitude":-106.555353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2508 Utah St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202948755,
-    "wof:lastmodified":1449062139,
+    "wof:lastmodified":1466700437,
     "wof:name":"Hometown Auto Recon",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.555353,35.110881,-106.555353,35.110881],
+  "bbox": [
+    -106.555353,
+    35.110881,
+    -106.555353,
+    35.110881
+],
   "geometry": {"coordinates":[-106.555353,35.110881],"type":"Point"}
 }

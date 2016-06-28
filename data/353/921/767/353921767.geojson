@@ -2,13 +2,14 @@
   "id": 353921767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.644281,35.109819,-106.644281,35.109819",
     "geom:latitude":35.109819,
     "geom:longitude":-106.644281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353921767,
-    "wof:lastmodified":1449019887,
+    "wof:lastmodified":1466697773,
     "wof:name":"Perez Collision Center",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-106.644281,35.109819,-106.644281,35.109819],
-  "geometry": {"coordinates":[-106.644281,35.109819],"type":"Point"}
+  "bbox": [
+    -106.644281,
+    35.109819,
+    -106.644281,
+    35.109819
+],
+  "geometry": {"coordinates":[-106.64428100000001,35.109819],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185720837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.672721,35.114772,-106.672721,35.114772",
     "geom:latitude":35.114772,
     "geom:longitude":-106.672721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2316 Beryl Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185720837,
-    "wof:lastmodified":1449006992,
+    "wof:lastmodified":1466698872,
     "wof:name":"Savilo Publishing Co",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-106.672721,35.114772,-106.672721,35.114772],
+  "bbox": [
+    -106.672721,
+    35.114772,
+    -106.672721,
+    35.114772
+],
   "geometry": {"coordinates":[-106.672721,35.114772],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186071137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.645889,35.114972,-106.645889,35.114972",
     "geom:latitude":35.114972,
     "geom:longitude":-106.645889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3021 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186071137,
-    "wof:lastmodified":1449052059,
+    "wof:lastmodified":1466698534,
     "wof:name":"Six Pack Performance Inc",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-106.645889,35.114972,-106.645889,35.114972],
+  "bbox": [
+    -106.645889,
+    35.114972,
+    -106.645889,
+    35.114972
+],
   "geometry": {"coordinates":[-106.645889,35.114972],"type":"Point"}
 }

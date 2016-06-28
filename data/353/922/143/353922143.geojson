@@ -2,13 +2,14 @@
   "id": 353922143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.644577,35.08363,-106.644577,35.08363",
     "geom:latitude":35.08363,
     "geom:longitude":-106.644577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Central Ave SW 1500W",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353922143,
-    "wof:lastmodified":1449018493,
+    "wof:lastmodified":1466697783,
     "wof:name":"Roach, James T",
     "wof:parent_id":85871877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practice"
     ]
 },
-  "bbox": [-106.644577,35.08363,-106.644577,35.08363],
+  "bbox": [
+    -106.644577,
+    35.08363,
+    -106.644577,
+    35.08363
+],
   "geometry": {"coordinates":[-106.644577,35.08363],"type":"Point"}
 }

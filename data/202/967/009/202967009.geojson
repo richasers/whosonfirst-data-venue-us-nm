@@ -2,13 +2,14 @@
   "id": 202967009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.562219,35.16425,-106.562219,35.16425",
     "geom:latitude":35.16425,
     "geom:longitude":-106.562219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7700 Loma del Norte Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202967009,
-    "wof:lastmodified":1449062459,
+    "wof:lastmodified":1466700740,
     "wof:name":"D-Mart Window Tinting",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tinting"
     ]
 },
-  "bbox": [-106.562219,35.16425,-106.562219,35.16425],
+  "bbox": [
+    -106.562219,
+    35.16425,
+    -106.562219,
+    35.16425
+],
   "geometry": {"coordinates":[-106.562219,35.16425],"type":"Point"}
 }

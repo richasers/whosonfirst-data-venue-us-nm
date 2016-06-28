@@ -2,13 +2,14 @@
   "id": 185931649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.092822,36.742881,-108.092822,36.742881",
     "geom:latitude":36.742881,
     "geom:longitude":-108.092822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Rd 5573",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185931649,
-    "wof:lastmodified":1449008074,
+    "wof:lastmodified":1466698962,
     "wof:name":"Paws N' Claws",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "washing"
     ]
 },
-  "bbox": [-108.092822,36.742881,-108.092822,36.742881],
+  "bbox": [
+    -108.092822,
+    36.742881,
+    -108.092822,
+    36.742881
+],
   "geometry": {"coordinates":[-108.092822,36.742881],"type":"Point"}
 }

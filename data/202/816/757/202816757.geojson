@@ -2,13 +2,14 @@
   "id": 202816757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.127611,32.723752,-103.127611,32.723752",
     "geom:latitude":32.723752,
     "geom:longitude":-103.127611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 N Dal Paso St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202816757,
-    "wof:lastmodified":1449061595,
+    "wof:lastmodified":1466699913,
     "wof:name":"Auger Air Drilling & Mfg Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-103.127611,32.723752,-103.127611,32.723752],
+  "bbox": [
+    -103.127611,
+    32.723752,
+    -103.127611,
+    32.723752
+],
   "geometry": {"coordinates":[-103.127611,32.723752],"type":"Point"}
 }

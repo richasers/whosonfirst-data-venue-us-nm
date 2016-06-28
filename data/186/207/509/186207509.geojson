@@ -2,13 +2,14 @@
   "id": 186207509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.593748,35.137553,-106.593748,35.137553",
     "geom:latitude":35.137553,
     "geom:longitude":-106.593748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4411 McLeod Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186207509,
-    "wof:lastmodified":1449052235,
+    "wof:lastmodified":1466698122,
     "wof:name":"Rio Grande Van & Storage",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-106.593748,35.137553,-106.593748,35.137553],
-  "geometry": {"coordinates":[-106.593748,35.137553],"type":"Point"}
+  "bbox": [
+    -106.593748,
+    35.137553,
+    -106.593748,
+    35.137553
+],
+  "geometry": {"coordinates":[-106.59374800000001,35.137553],"type":"Point"}
 }

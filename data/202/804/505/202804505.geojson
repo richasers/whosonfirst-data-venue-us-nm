@@ -2,13 +2,14 @@
   "id": 202804505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.786681,34.682663,-106.786681,34.682663",
     "geom:latitude":34.682663,
     "geom:longitude":-106.786681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Eddie Ln",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202804505,
-    "wof:lastmodified":1449061863,
+    "wof:lastmodified":1466699990,
     "wof:name":"Pavement Sealants & Supply Co",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-106.786681,34.682663,-106.786681,34.682663],
+  "bbox": [
+    -106.786681,
+    34.682663,
+    -106.786681,
+    34.682663
+],
   "geometry": {"coordinates":[-106.786681,34.682663],"type":"Point"}
 }

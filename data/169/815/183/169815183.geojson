@@ -2,13 +2,14 @@
   "id": 169815183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.148634,32.725624,-103.148634,32.725624",
     "geom:latitude":32.725624,
     "geom:longitude":-103.148634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 W Bender Blvd",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169815183,
-    "wof:lastmodified":1449034283,
+    "wof:lastmodified":1466698704,
     "wof:name":"Everett Faught Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-103.148634,32.725624,-103.148634,32.725624],
+  "bbox": [
+    -103.148634,
+    32.725624,
+    -103.148634,
+    32.725624
+],
   "geometry": {"coordinates":[-103.148634,32.725624],"type":"Point"}
 }

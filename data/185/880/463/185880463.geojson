@@ -2,13 +2,14 @@
   "id": 185880463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.605489,35.230277,-106.605489,35.230277",
     "geom:latitude":35.230277,
     "geom:longitude":-106.605489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Wagner Ln",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185880463,
-    "wof:lastmodified":1449008223,
+    "wof:lastmodified":1466698319,
     "wof:name":"Wagner Farms",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.605489,35.230277,-106.605489,35.230277],
-  "geometry": {"coordinates":[-106.605489,35.230277],"type":"Point"}
+  "bbox": [
+    -106.605489,
+    35.230277,
+    -106.605489,
+    35.230277
+],
+  "geometry": {"coordinates":[-106.60548900000001,35.230277],"type":"Point"}
 }

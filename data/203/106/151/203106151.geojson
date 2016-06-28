@@ -2,13 +2,14 @@
   "id": 203106151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.597511,35.160952,-106.597511,35.160952",
     "geom:latitude":35.160952,
     "geom:longitude":-106.597511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 Ellison St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203106151,
-    "wof:lastmodified":1449024917,
+    "wof:lastmodified":1466698803,
     "wof:name":"Combustion Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "boiler"
     ]
 },
-  "bbox": [-106.597511,35.160952,-106.597511,35.160952],
+  "bbox": [
+    -106.597511,
+    35.160952,
+    -106.597511,
+    35.160952
+],
   "geometry": {"coordinates":[-106.597511,35.160952],"type":"Point"}
 }

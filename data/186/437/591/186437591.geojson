@@ -2,13 +2,14 @@
   "id": 186437591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.747793,35.245822,-106.747793,35.245822",
     "geom:latitude":35.245822,
     "geom:longitude":-106.747793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"741 Cherokee Dr SW",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186437591,
-    "wof:lastmodified":1449052297,
+    "wof:lastmodified":1466699998,
     "wof:name":"Iron Horse Heating & AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.747793,35.245822,-106.747793,35.245822],
+  "bbox": [
+    -106.747793,
+    35.245822,
+    -106.747793,
+    35.245822
+],
   "geometry": {"coordinates":[-106.747793,35.245822],"type":"Point"}
 }

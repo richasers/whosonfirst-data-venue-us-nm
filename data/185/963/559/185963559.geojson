@@ -2,13 +2,14 @@
   "id": 185963559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.560122,35.088542,-106.560122,35.088542",
     "geom:latitude":35.088542,
     "geom:longitude":-106.560122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7800 Marble Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185963559,
-    "wof:lastmodified":1449006768,
+    "wof:lastmodified":1466699411,
     "wof:name":"The Sickle Cell Council of NM",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "noncommercial"
     ]
 },
-  "bbox": [-106.560122,35.088542,-106.560122,35.088542],
-  "geometry": {"coordinates":[-106.560122,35.088542],"type":"Point"}
+  "bbox": [
+    -106.560122,
+    35.088542,
+    -106.560122,
+    35.088542
+],
+  "geometry": {"coordinates":[-106.56012200000001,35.088542],"type":"Point"}
 }

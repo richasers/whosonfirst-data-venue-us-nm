@@ -2,13 +2,14 @@
   "id": 202617123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.393694,35.079547,-106.393694,35.079547",
     "geom:latitude":35.079547,
     "geom:longitude":-106.393694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"467 State Hwy 333",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202617123,
-    "wof:lastmodified":1449060183,
+    "wof:lastmodified":1466698632,
     "wof:name":"East Mountain Day School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-106.393694,35.079547,-106.393694,35.079547],
+  "bbox": [
+    -106.393694,
+    35.079547,
+    -106.393694,
+    35.079547
+],
   "geometry": {"coordinates":[-106.393694,35.079547],"type":"Point"}
 }

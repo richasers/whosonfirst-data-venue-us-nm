@@ -2,13 +2,14 @@
   "id": 202421649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.372257,32.004803,-106.372257,32.004803",
     "geom:latitude":32.004803,
     "geom:longitude":-106.372257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"741 Amador Dr",
     "sg:city":"Chaparral",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202421649,
-    "wof:lastmodified":1449061700,
+    "wof:lastmodified":1466698214,
     "wof:name":"Wall Paper Hanger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wallpaper"
     ]
 },
-  "bbox": [-106.372257,32.004803,-106.372257,32.004803],
+  "bbox": [
+    -106.372257,
+    32.004803,
+    -106.372257,
+    32.004803
+],
   "geometry": {"coordinates":[-106.372257,32.004803],"type":"Point"}
 }

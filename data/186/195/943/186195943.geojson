@@ -2,13 +2,14 @@
   "id": 186195943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.219152,34.41802,-103.219152,34.41802",
     "geom:latitude":34.41802,
     "geom:longitude":-103.219152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2028 Gerry Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186195943,
-    "wof:lastmodified":1449052130,
+    "wof:lastmodified":1466697971,
     "wof:name":"Rewards Dog Obedience School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dog"
     ]
 },
-  "bbox": [-103.219152,34.41802,-103.219152,34.41802],
-  "geometry": {"coordinates":[-103.219152,34.41802],"type":"Point"}
+  "bbox": [
+    -103.219152,
+    34.41802,
+    -103.219152,
+    34.41802
+],
+  "geometry": {"coordinates":[-103.21915199999999,34.41802],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203090539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.609587,35.079297,-106.609587,35.079297",
     "geom:latitude":35.079297,
     "geom:longitude":-106.609587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Bryn Mawr Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203090539,
-    "wof:lastmodified":1449026447,
+    "wof:lastmodified":1466698587,
     "wof:name":"Brian F Lanter",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.609587,35.079297,-106.609587,35.079297],
+  "bbox": [
+    -106.609587,
+    35.079297,
+    -106.609587,
+    35.079297
+],
   "geometry": {"coordinates":[-106.609587,35.079297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203088709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.522758,35.190055,-106.522758,35.190055",
     "geom:latitude":35.190055,
     "geom:longitude":-106.522758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10600 Glendale Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203088709,
-    "wof:lastmodified":1449026411,
+    "wof:lastmodified":1466698559,
     "wof:name":"Setters Hill Treasures",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.522758,35.190055,-106.522758,35.190055],
+  "bbox": [
+    -106.522758,
+    35.190055,
+    -106.522758,
+    35.190055
+],
   "geometry": {"coordinates":[-106.522758,35.190055],"type":"Point"}
 }

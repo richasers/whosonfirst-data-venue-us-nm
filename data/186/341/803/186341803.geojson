@@ -2,13 +2,14 @@
   "id": 186341803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.645322,35.059692,-106.645322,35.059692",
     "geom:latitude":35.059692,
     "geom:longitude":-106.645322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2223 Broadway Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":186341803,
-    "wof:lastmodified":1449052921,
+    "wof:lastmodified":1466699646,
     "wof:name":"David & Sons Chemical Toilet",
     "wof:parent_id":85846885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sanitation"
     ]
 },
-  "bbox": [-106.645322,35.059692,-106.645322,35.059692],
-  "geometry": {"coordinates":[-106.645322,35.059692],"type":"Point"}
+  "bbox": [
+    -106.645322,
+    35.059692,
+    -106.645322,
+    35.059692
+],
+  "geometry": {"coordinates":[-106.64532199999999,35.059692],"type":"Point"}
 }

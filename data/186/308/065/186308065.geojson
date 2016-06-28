@@ -2,13 +2,14 @@
   "id": 186308065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.491774,35.129246,-106.491774,35.129246",
     "geom:latitude":35.129246,
     "geom:longitude":-106.491774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4446 Magnolia Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186308065,
-    "wof:lastmodified":1449053092,
+    "wof:lastmodified":1466699497,
     "wof:name":"Saint Croix Software Solutions",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-106.491774,35.129246,-106.491774,35.129246],
-  "geometry": {"coordinates":[-106.491774,35.129246],"type":"Point"}
+  "bbox": [
+    -106.491774,
+    35.129246,
+    -106.491774,
+    35.129246
+],
+  "geometry": {"coordinates":[-106.49177400000001,35.129246],"type":"Point"}
 }

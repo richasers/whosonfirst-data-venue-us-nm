@@ -2,13 +2,14 @@
   "id": 186209309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.551165,35.300112,-106.551165,35.300112",
     "geom:latitude":35.300112,
     "geom:longitude":-106.551165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Cam del Pueblo",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186209309,
-    "wof:lastmodified":1449052734,
+    "wof:lastmodified":1466698140,
     "wof:name":"Bernalillo Chevron Redi-Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.551165,35.300112,-106.551165,35.300112],
+  "bbox": [
+    -106.551165,
+    35.300112,
+    -106.551165,
+    35.300112
+],
   "geometry": {"coordinates":[-106.551165,35.300112],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186399591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.589992,35.13773,-106.589992,35.13773",
     "geom:latitude":35.13773,
     "geom:longitude":-106.589992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 McLeod Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186399591,
-    "wof:lastmodified":1449050891,
+    "wof:lastmodified":1466699857,
     "wof:name":"Home Improvement Specialties",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.589992,35.13773,-106.589992,35.13773],
+  "bbox": [
+    -106.589992,
+    35.13773,
+    -106.589992,
+    35.13773
+],
   "geometry": {"coordinates":[-106.589992,35.13773],"type":"Point"}
 }

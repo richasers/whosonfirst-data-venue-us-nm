@@ -2,13 +2,14 @@
   "id": 186577403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.930747,32.900739,-105.930747,32.900739",
     "geom:latitude":32.900739,
     "geom:longitude":-105.930747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Bellamah Dr",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186577403,
-    "wof:lastmodified":1449053103,
+    "wof:lastmodified":1466700669,
     "wof:name":"Eagle Mountain Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "operative"
     ]
 },
-  "bbox": [-105.930747,32.900739,-105.930747,32.900739],
+  "bbox": [
+    -105.930747,
+    32.900739,
+    -105.930747,
+    32.900739
+],
   "geometry": {"coordinates":[-105.930747,32.900739],"type":"Point"}
 }

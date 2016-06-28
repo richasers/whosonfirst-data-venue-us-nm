@@ -2,13 +2,14 @@
   "id": 202977845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.642488,35.08144,-106.642488,35.08144",
     "geom:latitude":35.08144,
     "geom:longitude":-106.642488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Edith Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202977845,
-    "wof:lastmodified":1449062728,
+    "wof:lastmodified":1466700572,
     "wof:name":"12 Noon Inc",
     "wof:parent_id":85871877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "multimedia"
     ]
 },
-  "bbox": [-106.642488,35.08144,-106.642488,35.08144],
+  "bbox": [
+    -106.642488,
+    35.08144,
+    -106.642488,
+    35.08144
+],
   "geometry": {"coordinates":[-106.642488,35.08144],"type":"Point"}
 }

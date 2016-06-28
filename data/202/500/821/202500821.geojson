@@ -2,13 +2,14 @@
   "id": 202500821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638261,35.097005,-106.638261,35.097005",
     "geom:latitude":35.097005,
     "geom:longitude":-106.638261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 Walter St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202500821,
-    "wof:lastmodified":1449060753,
+    "wof:lastmodified":1466699125,
     "wof:name":"YDI Head Start",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-106.638261,35.097005,-106.638261,35.097005],
+  "bbox": [
+    -106.638261,
+    35.097005,
+    -106.638261,
+    35.097005
+],
   "geometry": {"coordinates":[-106.638261,35.097005],"type":"Point"}
 }

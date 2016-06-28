@@ -2,13 +2,14 @@
   "id": 202747501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.534462,33.394146,-104.534462,33.394146",
     "geom:latitude":33.394146,
     "geom:longitude":-104.534462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 W 2nd St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202747501,
-    "wof:lastmodified":1449060570,
+    "wof:lastmodified":1466699764,
     "wof:name":"Super Meat Mart Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.534462,33.394146,-104.534462,33.394146],
+  "bbox": [
+    -104.534462,
+    33.394146,
+    -104.534462,
+    33.394146
+],
   "geometry": {"coordinates":[-104.534462,33.394146],"type":"Point"}
 }

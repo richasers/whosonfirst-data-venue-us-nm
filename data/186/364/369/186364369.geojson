@@ -2,13 +2,14 @@
   "id": 186364369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.037891,35.582181,-106.037891,35.582181",
     "geom:latitude":35.582181,
     "geom:longitude":-106.037891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 Cll Corrado",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186364369,
-    "wof:lastmodified":1449051889,
+    "wof:lastmodified":1466699722,
     "wof:name":"Tony Blea Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.037891,35.582181,-106.037891,35.582181],
+  "bbox": [
+    -106.037891,
+    35.582181,
+    -106.037891,
+    35.582181
+],
   "geometry": {"coordinates":[-106.037891,35.582181],"type":"Point"}
 }

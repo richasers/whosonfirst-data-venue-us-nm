@@ -2,13 +2,14 @@
   "id": 202734021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.006128,35.639053,-106.006128,35.639053",
     "geom:latitude":35.639053,
     "geom:longitude":-106.006128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2481 Legacy Ct",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202734021,
-    "wof:lastmodified":1449062336,
+    "wof:lastmodified":1466699825,
     "wof:name":"Lutheran Church Of The Servant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.006128,35.639053,-106.006128,35.639053],
+  "bbox": [
+    -106.006128,
+    35.639053,
+    -106.006128,
+    35.639053
+],
   "geometry": {"coordinates":[-106.006128,35.639053],"type":"Point"}
 }

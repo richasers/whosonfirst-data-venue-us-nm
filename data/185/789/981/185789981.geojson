@@ -2,13 +2,14 @@
   "id": 185789981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.773731,32.30689,-106.773731,32.30689",
     "geom:latitude":32.30689,
     "geom:longitude":-106.773731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"442 E Lohman Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185789981,
-    "wof:lastmodified":1449007345,
+    "wof:lastmodified":1466699307,
     "wof:name":"Lujan Bakery",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.773731,32.30689,-106.773731,32.30689],
+  "bbox": [
+    -106.773731,
+    32.30689,
+    -106.773731,
+    32.30689
+],
   "geometry": {"coordinates":[-106.773731,32.30689],"type":"Point"}
 }

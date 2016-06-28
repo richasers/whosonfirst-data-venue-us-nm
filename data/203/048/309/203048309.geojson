@@ -2,13 +2,14 @@
   "id": 203048309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.62933,35.238485,-106.62933,35.238485",
     "geom:latitude":35.238485,
     "geom:longitude":-106.62933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 Mission Valley Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203048309,
-    "wof:lastmodified":1449025585,
+    "wof:lastmodified":1466698119,
     "wof:name":"C A Ps Inc",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-106.62933,35.238485,-106.62933,35.238485],
+  "bbox": [
+    -106.62933,
+    35.238485,
+    -106.62933,
+    35.238485
+],
   "geometry": {"coordinates":[-106.62933,35.238485],"type":"Point"}
 }

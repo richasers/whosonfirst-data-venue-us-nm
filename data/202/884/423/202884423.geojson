@@ -2,13 +2,14 @@
   "id": 202884423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.738724,34.808609,-106.738724,34.808609",
     "geom:latitude":34.808609,
     "geom:longitude":-106.738724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Sandoval Rd SW",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202884423,
-    "wof:lastmodified":1449062180,
+    "wof:lastmodified":1466700200,
     "wof:name":"Los Lunas Family Practice",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-106.738724,34.808609,-106.738724,34.808609],
+  "bbox": [
+    -106.738724,
+    34.808609,
+    -106.738724,
+    34.808609
+],
   "geometry": {"coordinates":[-106.738724,34.808609],"type":"Point"}
 }

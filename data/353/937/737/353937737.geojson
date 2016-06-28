@@ -2,13 +2,14 @@
   "id": 353937737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.60238,35.154475,-106.60238,35.154475",
     "geom:latitude":35.154475,
     "geom:longitude":-106.60238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353937737,
-    "wof:lastmodified":1449018734,
+    "wof:lastmodified":1466698213,
     "wof:name":"Hertz Equipment Rental",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-106.60238,35.154475,-106.60238,35.154475],
+  "bbox": [
+    -106.60238,
+    35.154475,
+    -106.60238,
+    35.154475
+],
   "geometry": {"coordinates":[-106.60238,35.154475],"type":"Point"}
 }

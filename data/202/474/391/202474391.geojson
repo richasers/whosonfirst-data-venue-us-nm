@@ -2,13 +2,14 @@
   "id": 202474391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.426018,36.887147,-104.426018,36.887147",
     "geom:latitude":36.887147,
     "geom:longitude":-104.426018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Plum St",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202474391,
-    "wof:lastmodified":1449060203,
+    "wof:lastmodified":1466698878,
     "wof:name":"Sandoval's Auto Repair Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-104.426018,36.887147,-104.426018,36.887147],
+  "bbox": [
+    -104.426018,
+    36.887147,
+    -104.426018,
+    36.887147
+],
   "geometry": {"coordinates":[-104.426018,36.887147],"type":"Point"}
 }

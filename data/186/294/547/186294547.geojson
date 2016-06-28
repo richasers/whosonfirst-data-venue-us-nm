@@ -2,13 +2,14 @@
   "id": 186294547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.573206,35.325466,-106.573206,35.325466",
     "geom:latitude":35.325466,
     "geom:longitude":-106.573206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3702 State Hwy 528 NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186294547,
-    "wof:lastmodified":1449052268,
+    "wof:lastmodified":1466699261,
     "wof:name":"Ironwood Builders",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.573206,35.325466,-106.573206,35.325466],
+  "bbox": [
+    -106.573206,
+    35.325466,
+    -106.573206,
+    35.325466
+],
   "geometry": {"coordinates":[-106.573206,35.325466],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202901691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.688921,35.038183,-106.688921,35.038183",
     "geom:latitude":35.038183,
     "geom:longitude":-106.688921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 Pecan Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202901691,
-    "wof:lastmodified":1449061175,
+    "wof:lastmodified":1466700371,
     "wof:name":"Carriaga Remodeling & Home Rpr",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.688921,35.038183,-106.688921,35.038183],
-  "geometry": {"coordinates":[-106.688921,35.038183],"type":"Point"}
+  "bbox": [
+    -106.688921,
+    35.038183,
+    -106.688921,
+    35.038183
+],
+  "geometry": {"coordinates":[-106.68892099999999,35.038183],"type":"Point"}
 }

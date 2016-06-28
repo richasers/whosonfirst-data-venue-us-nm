@@ -2,13 +2,14 @@
   "id": 203018195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.232414,35.147859,-106.232414,35.147859",
     "geom:latitude":35.147859,
     "geom:longitude":-106.232414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Santa Maria Dr",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203018195,
-    "wof:lastmodified":1449025877,
+    "wof:lastmodified":1466697802,
     "wof:name":"SGS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "support"
     ]
 },
-  "bbox": [-106.232414,35.147859,-106.232414,35.147859],
-  "geometry": {"coordinates":[-106.232414,35.147859],"type":"Point"}
+  "bbox": [
+    -106.232414,
+    35.147859,
+    -106.232414,
+    35.147859
+],
+  "geometry": {"coordinates":[-106.23241400000001,35.147859],"type":"Point"}
 }

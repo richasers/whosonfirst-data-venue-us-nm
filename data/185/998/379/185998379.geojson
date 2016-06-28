@@ -2,13 +2,14 @@
   "id": 185998379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.025143,35.89309,-106.025143,35.89309",
     "geom:latitude":35.89309,
     "geom:longitude":-106.025143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Grazing Elk Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185998379,
-    "wof:lastmodified":1449007124,
+    "wof:lastmodified":1466699663,
     "wof:name":"Nuestra Senora De Guadalupe",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.025143,35.89309,-106.025143,35.89309],
+  "bbox": [
+    -106.025143,
+    35.89309,
+    -106.025143,
+    35.89309
+],
   "geometry": {"coordinates":[-106.025143,35.89309],"type":"Point"}
 }

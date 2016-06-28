@@ -2,13 +2,14 @@
   "id": 186175603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.645507,35.069829,-106.645507,35.069829",
     "geom:latitude":35.069829,
     "geom:longitude":-106.645507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 Broadway Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186175603,
-    "wof:lastmodified":1449052230,
+    "wof:lastmodified":1466697708,
     "wof:name":"WIC",
     "wof:parent_id":85804483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.645507,35.069829,-106.645507,35.069829],
-  "geometry": {"coordinates":[-106.645507,35.069829],"type":"Point"}
+  "bbox": [
+    -106.645507,
+    35.069829,
+    -106.645507,
+    35.069829
+],
+  "geometry": {"coordinates":[-106.64550699999999,35.069829],"type":"Point"}
 }

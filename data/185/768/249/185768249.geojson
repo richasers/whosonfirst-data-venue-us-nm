@@ -2,13 +2,14 @@
   "id": 185768249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.559936,35.174268,-106.559936,35.174268",
     "geom:latitude":35.174268,
     "geom:longitude":-106.559936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8001 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185768249,
-    "wof:lastmodified":1449007231,
+    "wof:lastmodified":1466699218,
     "wof:name":"Life Inc",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.559936,35.174268,-106.559936,35.174268],
-  "geometry": {"coordinates":[-106.559936,35.174268],"type":"Point"}
+  "bbox": [
+    -106.559936,
+    35.174268,
+    -106.559936,
+    35.174268
+],
+  "geometry": {"coordinates":[-106.55993599999999,35.174268],"type":"Point"}
 }

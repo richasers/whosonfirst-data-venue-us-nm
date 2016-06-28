@@ -2,13 +2,14 @@
   "id": 185878421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.174223,36.748084,-108.174223,36.748084",
     "geom:latitude":36.748084,
     "geom:longitude":-108.174223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2503 E 20th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":185878421,
-    "wof:lastmodified":1449007468,
+    "wof:lastmodified":1466698293,
     "wof:name":"Hutton Plaza & Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-108.174223,36.748084,-108.174223,36.748084],
+  "bbox": [
+    -108.174223,
+    36.748084,
+    -108.174223,
+    36.748084
+],
   "geometry": {"coordinates":[-108.174223,36.748084],"type":"Point"}
 }

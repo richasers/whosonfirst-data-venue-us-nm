@@ -2,13 +2,14 @@
   "id": 202485399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.560031,35.16101,-106.560031,35.16101",
     "geom:latitude":35.16101,
     "geom:longitude":-106.560031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7007 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202485399,
-    "wof:lastmodified":1449061662,
+    "wof:lastmodified":1466699026,
     "wof:name":"A & P Management Inc",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-106.560031,35.16101,-106.560031,35.16101],
+  "bbox": [
+    -106.560031,
+    35.16101,
+    -106.560031,
+    35.16101
+],
   "geometry": {"coordinates":[-106.560031,35.16101],"type":"Point"}
 }

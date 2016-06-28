@@ -2,13 +2,14 @@
   "id": 202632423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.774142,32.300234,-106.774142,32.300234",
     "geom:latitude":32.300234,
     "geom:longitude":-106.774142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Wyatt Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202632423,
-    "wof:lastmodified":1449061705,
+    "wof:lastmodified":1466698866,
     "wof:name":"Covering Kids",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-106.774142,32.300234,-106.774142,32.300234],
+  "bbox": [
+    -106.774142,
+    32.300234,
+    -106.774142,
+    32.300234
+],
   "geometry": {"coordinates":[-106.774142,32.300234],"type":"Point"}
 }

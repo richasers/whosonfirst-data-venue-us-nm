@@ -2,13 +2,14 @@
   "id": 202667687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.114462,32.706173,-103.114462,32.706173",
     "geom:latitude":32.706173,
     "geom:longitude":-103.114462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 E Clinton St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202667687,
-    "wof:lastmodified":1449061740,
+    "wof:lastmodified":1466699387,
     "wof:name":"Hobbs Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-103.114462,32.706173,-103.114462,32.706173],
+  "bbox": [
+    -103.114462,
+    32.706173,
+    -103.114462,
+    32.706173
+],
   "geometry": {"coordinates":[-103.114462,32.706173],"type":"Point"}
 }

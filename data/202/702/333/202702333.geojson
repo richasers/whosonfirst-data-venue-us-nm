@@ -2,13 +2,14 @@
   "id": 202702333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.534792,35.128404,-106.534792,35.128404",
     "geom:latitude":35.128404,
     "geom:longitude":-106.534792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9601 Sierra Vista Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202702333,
-    "wof:lastmodified":1449061385,
+    "wof:lastmodified":1466699615,
     "wof:name":"Colonial Life",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accident"
     ]
 },
-  "bbox": [-106.534792,35.128404,-106.534792,35.128404],
+  "bbox": [
+    -106.534792,
+    35.128404,
+    -106.534792,
+    35.128404
+],
   "geometry": {"coordinates":[-106.534792,35.128404],"type":"Point"}
 }

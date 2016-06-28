@@ -2,13 +2,14 @@
   "id": 185652541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.545175,35.1257,-106.545175,35.1257",
     "geom:latitude":35.1257,
     "geom:longitude":-106.545175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3709 General Patch St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185652541,
-    "wof:lastmodified":1449007638,
+    "wof:lastmodified":1466698158,
     "wof:name":"Itsa Italian Ice",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.545175,35.1257,-106.545175,35.1257],
+  "bbox": [
+    -106.545175,
+    35.1257,
+    -106.545175,
+    35.1257
+],
   "geometry": {"coordinates":[-106.545175,35.1257],"type":"Point"}
 }

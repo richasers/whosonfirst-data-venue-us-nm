@@ -2,13 +2,14 @@
   "id": 186530777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.706402,35.126744,-106.706402,35.126744",
     "geom:latitude":35.126744,
     "geom:longitude":-106.706402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3811 Atrisco Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186530777,
-    "wof:lastmodified":1449051801,
+    "wof:lastmodified":1466700323,
     "wof:name":"Arroyo Mortgage Group L L C",
     "wof:parent_id":85865321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "real estate"
     ]
 },
-  "bbox": [-106.706402,35.126744,-106.706402,35.126744],
+  "bbox": [
+    -106.706402,
+    35.126744,
+    -106.706402,
+    35.126744
+],
   "geometry": {"coordinates":[-106.706402,35.126744],"type":"Point"}
 }

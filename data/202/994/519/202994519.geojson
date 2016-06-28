@@ -2,13 +2,14 @@
   "id": 202994519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.642689,35.151859,-106.642689,35.151859",
     "geom:latitude":35.151859,
     "geom:longitude":-106.642689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 el Paraiso Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202994519,
-    "wof:lastmodified":1449060226,
+    "wof:lastmodified":1466700842,
     "wof:name":"Desert Mountain Cabinetry",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-106.642689,35.151859,-106.642689,35.151859],
+  "bbox": [
+    -106.642689,
+    35.151859,
+    -106.642689,
+    35.151859
+],
   "geometry": {"coordinates":[-106.642689,35.151859],"type":"Point"}
 }

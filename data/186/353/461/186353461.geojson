@@ -2,13 +2,14 @@
   "id": 186353461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.758562,32.266664,-107.758562,32.266664",
     "geom:latitude":32.266664,
     "geom:longitude":-107.758562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W Hemlock St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186353461,
-    "wof:lastmodified":1449051144,
+    "wof:lastmodified":1466699536,
     "wof:name":"Plaza De Florida",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-107.758562,32.266664,-107.758562,32.266664],
+  "bbox": [
+    -107.758562,
+    32.266664,
+    -107.758562,
+    32.266664
+],
   "geometry": {"coordinates":[-107.758562,32.266664],"type":"Point"}
 }

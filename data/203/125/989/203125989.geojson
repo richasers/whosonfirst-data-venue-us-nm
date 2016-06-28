@@ -2,13 +2,14 @@
   "id": 203125989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.740591,32.299236,-106.740591,32.299236",
     "geom:latitude":32.299236,
     "geom:longitude":-106.740591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 Missouri Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203125989,
-    "wof:lastmodified":1449026807,
+    "wof:lastmodified":1466698987,
     "wof:name":"Carlos The Tailor",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tailor"
     ]
 },
-  "bbox": [-106.740591,32.299236,-106.740591,32.299236],
-  "geometry": {"coordinates":[-106.740591,32.299236],"type":"Point"}
+  "bbox": [
+    -106.740591,
+    32.299236,
+    -106.740591,
+    32.299236
+],
+  "geometry": {"coordinates":[-106.74059099999999,32.299236],"type":"Point"}
 }

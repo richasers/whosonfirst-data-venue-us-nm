@@ -2,13 +2,14 @@
   "id": 203018059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.011822,35.629468,-106.011822,35.629468",
     "geom:latitude":35.629468,
     "geom:longitude":-106.011822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4213 Hidden Cricket",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203018059,
-    "wof:lastmodified":1449025873,
+    "wof:lastmodified":1466697799,
     "wof:name":"Hanna & Assoc",
     "wof:parent_id":85880823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "executive"
     ]
 },
-  "bbox": [-106.011822,35.629468,-106.011822,35.629468],
+  "bbox": [
+    -106.011822,
+    35.629468,
+    -106.011822,
+    35.629468
+],
   "geometry": {"coordinates":[-106.011822,35.629468],"type":"Point"}
 }

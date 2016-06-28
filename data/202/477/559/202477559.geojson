@@ -2,13 +2,14 @@
   "id": 202477559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.685988,35.061312,-106.685988,35.061312",
     "geom:latitude":35.061312,
     "geom:longitude":-106.685988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1942 San Ygnacio Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202477559,
-    "wof:lastmodified":1449060538,
+    "wof:lastmodified":1466698917,
     "wof:name":"Bustillos Construction",
     "wof:parent_id":85892585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-106.685988,35.061312,-106.685988,35.061312],
-  "geometry": {"coordinates":[-106.685988,35.061312],"type":"Point"}
+  "bbox": [
+    -106.685988,
+    35.061312,
+    -106.685988,
+    35.061312
+],
+  "geometry": {"coordinates":[-106.68598799999999,35.061312],"type":"Point"}
 }

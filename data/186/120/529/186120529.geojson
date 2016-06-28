@@ -2,13 +2,14 @@
   "id": 186120529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.427562,36.753718,-108.427562,36.753718",
     "geom:latitude":36.753718,
     "geom:longitude":-108.427562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Rd 6763",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186120529,
-    "wof:lastmodified":1449052628,
+    "wof:lastmodified":1466699103,
     "wof:name":"Protek Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.427562,36.753718,-108.427562,36.753718],
-  "geometry": {"coordinates":[-108.427562,36.753718],"type":"Point"}
+  "bbox": [
+    -108.427562,
+    36.753718,
+    -108.427562,
+    36.753718
+],
+  "geometry": {"coordinates":[-108.42756199999999,36.753718],"type":"Point"}
 }

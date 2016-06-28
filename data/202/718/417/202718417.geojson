@@ -2,13 +2,14 @@
   "id": 202718417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.765884,32.333251,-106.765884,32.333251",
     "geom:latitude":32.333251,
     "geom:longitude":-106.765884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 E Madrid Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202718417,
-    "wof:lastmodified":1449060667,
+    "wof:lastmodified":1466699533,
     "wof:name":"Desert Image Landscaping",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.765884,32.333251,-106.765884,32.333251],
+  "bbox": [
+    -106.765884,
+    32.333251,
+    -106.765884,
+    32.333251
+],
   "geometry": {"coordinates":[-106.765884,32.333251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185797789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.949752,35.68706,-105.949752,35.68706",
     "geom:latitude":35.68706,
     "geom:longitude":-105.949752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Don Felix St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185797789,
-    "wof:lastmodified":1449008065,
+    "wof:lastmodified":1466699334,
     "wof:name":"Atc Construction LLC",
     "wof:parent_id":85880805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-105.949752,35.68706,-105.949752,35.68706],
+  "bbox": [
+    -105.949752,
+    35.68706,
+    -105.949752,
+    35.68706
+],
   "geometry": {"coordinates":[-105.949752,35.68706],"type":"Point"}
 }

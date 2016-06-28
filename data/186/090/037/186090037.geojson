@@ -2,13 +2,14 @@
   "id": 186090037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.596064,35.145866,-106.596064,35.145866",
     "geom:latitude":35.145866,
     "geom:longitude":-106.596064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5931 Jefferson St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186090037,
-    "wof:lastmodified":1449052467,
+    "wof:lastmodified":1466699436,
     "wof:name":"Jason Kent PC",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.596064,35.145866,-106.596064,35.145866],
+  "bbox": [
+    -106.596064,
+    35.145866,
+    -106.596064,
+    35.145866
+],
   "geometry": {"coordinates":[-106.596064,35.145866],"type":"Point"}
 }

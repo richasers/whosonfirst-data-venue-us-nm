@@ -2,13 +2,14 @@
   "id": 185749975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.222215,32.359624,-104.222215,32.359624",
     "geom:latitude":32.359624,
     "geom:longitude":-104.222215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Kennel Ln",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185749975,
-    "wof:lastmodified":1449007075,
+    "wof:lastmodified":1466699158,
     "wof:name":"Ricks Specialty Int Cars",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-104.222215,32.359624,-104.222215,32.359624],
-  "geometry": {"coordinates":[-104.222215,32.359624],"type":"Point"}
+  "bbox": [
+    -104.222215,
+    32.359624,
+    -104.222215,
+    32.359624
+],
+  "geometry": {"coordinates":[-104.22221500000001,32.359624],"type":"Point"}
 }

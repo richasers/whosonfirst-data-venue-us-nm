@@ -2,13 +2,14 @@
   "id": 169733149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.53241,35.079397,-106.53241,35.079397",
     "geom:latitude":35.079397,
     "geom:longitude":-106.53241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"337 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169733149,
-    "wof:lastmodified":1449033145,
+    "wof:lastmodified":1466697919,
     "wof:name":"H Q Productions",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"
     ]
 },
-  "bbox": [-106.53241,35.079397,-106.53241,35.079397],
+  "bbox": [
+    -106.53241,
+    35.079397,
+    -106.53241,
+    35.079397
+],
   "geometry": {"coordinates":[-106.53241,35.079397],"type":"Point"}
 }

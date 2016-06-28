@@ -2,13 +2,14 @@
   "id": 185818065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.136294,32.709016,-103.136294,32.709016",
     "geom:latitude":32.709016,
     "geom:longitude":-103.136294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 N Turner St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185818065,
-    "wof:lastmodified":1449007412,
+    "wof:lastmodified":1466697659,
     "wof:name":"Miracle Home Health Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-103.136294,32.709016,-103.136294,32.709016],
-  "geometry": {"coordinates":[-103.136294,32.709016],"type":"Point"}
+  "bbox": [
+    -103.136294,
+    32.709016,
+    -103.136294,
+    32.709016
+],
+  "geometry": {"coordinates":[-103.13629400000001,32.709016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169808249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.21983,35.593379,-105.21983,35.593379",
     "geom:latitude":35.593379,
     "geom:longitude":-105.21983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Douglas Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169808249,
-    "wof:lastmodified":1449032845,
+    "wof:lastmodified":1466698667,
     "wof:name":"New Horizon Pre School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "day"
     ]
 },
-  "bbox": [-105.21983,35.593379,-105.21983,35.593379],
+  "bbox": [
+    -105.21983,
+    35.593379,
+    -105.21983,
+    35.593379
+],
   "geometry": {"coordinates":[-105.21983,35.593379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202604095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.961112,32.895004,-105.961112,32.895004",
     "geom:latitude":32.895004,
     "geom:longitude":-105.961112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Railroad Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202604095,
-    "wof:lastmodified":1449062352,
+    "wof:lastmodified":1466698435,
     "wof:name":"Edward R Reinert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehouse"
     ]
 },
-  "bbox": [-105.961112,32.895004,-105.961112,32.895004],
+  "bbox": [
+    -105.961112,
+    32.895004,
+    -105.961112,
+    32.895004
+],
   "geometry": {"coordinates":[-105.961112,32.895004],"type":"Point"}
 }

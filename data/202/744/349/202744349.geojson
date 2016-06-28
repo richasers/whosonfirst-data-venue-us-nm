@@ -2,13 +2,14 @@
   "id": 202744349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.157332,32.436259,-103.157332,32.436259",
     "geom:latitude":32.436259,
     "geom:longitude":-103.157332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 Ave I",
     "sg:city":"Eunice",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202744349,
-    "wof:lastmodified":1449061026,
+    "wof:lastmodified":1466699865,
     "wof:name":"Eunice Community Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-103.157332,32.436259,-103.157332,32.436259],
+  "bbox": [
+    -103.157332,
+    32.436259,
+    -103.157332,
+    32.436259
+],
   "geometry": {"coordinates":[-103.157332,32.436259],"type":"Point"}
 }

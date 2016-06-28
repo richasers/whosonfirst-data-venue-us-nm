@@ -2,13 +2,14 @@
   "id": 202653803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.657103,35.081227,-106.657103,35.081227",
     "geom:latitude":35.081227,
     "geom:longitude":-106.657103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Coal Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202653803,
-    "wof:lastmodified":1449060296,
+    "wof:lastmodified":1466699190,
     "wof:name":"Villa De San Felipe Apts",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-106.657103,35.081227,-106.657103,35.081227],
-  "geometry": {"coordinates":[-106.657103,35.081227],"type":"Point"}
+  "bbox": [
+    -106.657103,
+    35.081227,
+    -106.657103,
+    35.081227
+],
+  "geometry": {"coordinates":[-106.65710300000001,35.081227],"type":"Point"}
 }

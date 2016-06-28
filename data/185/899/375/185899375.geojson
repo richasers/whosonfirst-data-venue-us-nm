@@ -2,13 +2,14 @@
   "id": 185899375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.534158,35.157078,-106.534158,35.157078",
     "geom:latitude":35.157078,
     "geom:longitude":-106.534158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9600 Pebble Beach Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185899375,
-    "wof:lastmodified":1449008113,
+    "wof:lastmodified":1466698505,
     "wof:name":"Creative Threads",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-106.534158,35.157078,-106.534158,35.157078],
-  "geometry": {"coordinates":[-106.534158,35.157078],"type":"Point"}
+  "bbox": [
+    -106.534158,
+    35.157078,
+    -106.534158,
+    35.157078
+],
+  "geometry": {"coordinates":[-106.53415800000001,35.157078],"type":"Point"}
 }

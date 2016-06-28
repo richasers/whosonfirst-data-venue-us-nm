@@ -2,13 +2,14 @@
   "id": 203110411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.696479,34.854347,-106.696479,34.854347",
     "geom:latitude":34.854347,
     "geom:longitude":-106.696479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Esperanza Rd",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203110411,
-    "wof:lastmodified":1449025539,
+    "wof:lastmodified":1466698874,
     "wof:name":"Hays Honey & Apple Farm",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-106.696479,34.854347,-106.696479,34.854347],
+  "bbox": [
+    -106.696479,
+    34.854347,
+    -106.696479,
+    34.854347
+],
   "geometry": {"coordinates":[-106.696479,34.854347],"type":"Point"}
 }

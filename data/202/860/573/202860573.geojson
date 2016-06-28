@@ -2,13 +2,14 @@
   "id": 202860573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.703602,35.160111,-106.703602,35.160111",
     "geom:latitude":35.160111,
     "geom:longitude":-106.703602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6501 Keeling St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202860573,
-    "wof:lastmodified":1449061254,
+    "wof:lastmodified":1466700316,
     "wof:name":"Kid's Party Connection",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "demonstration"
     ]
 },
-  "bbox": [-106.703602,35.160111,-106.703602,35.160111],
+  "bbox": [
+    -106.703602,
+    35.160111,
+    -106.703602,
+    35.160111
+],
   "geometry": {"coordinates":[-106.703602,35.160111],"type":"Point"}
 }

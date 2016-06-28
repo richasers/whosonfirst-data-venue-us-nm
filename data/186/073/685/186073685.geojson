@@ -2,13 +2,14 @@
   "id": 186073685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.56663,35.091791,-106.56663,35.091791",
     "geom:latitude":35.091791,
     "geom:longitude":-106.56663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Chama St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186073685,
-    "wof:lastmodified":1449050724,
+    "wof:lastmodified":1466698560,
     "wof:name":"Ed Melendez",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-106.56663,35.091791,-106.56663,35.091791],
+  "bbox": [
+    -106.56663,
+    35.091791,
+    -106.56663,
+    35.091791
+],
   "geometry": {"coordinates":[-106.56663,35.091791],"type":"Point"}
 }

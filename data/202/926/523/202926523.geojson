@@ -2,13 +2,14 @@
   "id": 202926523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.889463,35.572264,-105.889463,35.572264",
     "geom:latitude":35.572264,
     "geom:longitude":-105.889463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 Old Las Vegas Hwy",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202926523,
-    "wof:lastmodified":1449060989,
+    "wof:lastmodified":1466700450,
     "wof:name":"Roland's Hair Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.889463,35.572264,-105.889463,35.572264],
-  "geometry": {"coordinates":[-105.889463,35.572264],"type":"Point"}
+  "bbox": [
+    -105.889463,
+    35.572264,
+    -105.889463,
+    35.572264
+],
+  "geometry": {"coordinates":[-105.88946300000001,35.572264],"type":"Point"}
 }

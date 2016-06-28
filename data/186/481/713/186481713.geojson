@@ -2,13 +2,14 @@
   "id": 186481713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615186,35.17191,-106.615186,35.17191",
     "geom:latitude":35.17191,
     "geom:longitude":-106.615186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8023 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186481713,
-    "wof:lastmodified":1449052672,
+    "wof:lastmodified":1466700171,
     "wof:name":"Gate-It",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gates"
     ]
 },
-  "bbox": [-106.615186,35.17191,-106.615186,35.17191],
-  "geometry": {"coordinates":[-106.615186,35.17191],"type":"Point"}
+  "bbox": [
+    -106.615186,
+    35.17191,
+    -106.615186,
+    35.17191
+],
+  "geometry": {"coordinates":[-106.61518599999999,35.17191],"type":"Point"}
 }

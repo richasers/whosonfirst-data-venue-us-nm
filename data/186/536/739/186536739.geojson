@@ -2,13 +2,14 @@
   "id": 186536739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.076218,35.625526,-106.076218,35.625526",
     "geom:latitude":35.625526,
     "geom:longitude":-106.076218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Aviation Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186536739,
-    "wof:lastmodified":1449051970,
+    "wof:lastmodified":1466700353,
     "wof:name":"Santa Fe Top Gun Adventures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "school"
     ]
 },
-  "bbox": [-106.076218,35.625526,-106.076218,35.625526],
+  "bbox": [
+    -106.076218,
+    35.625526,
+    -106.076218,
+    35.625526
+],
   "geometry": {"coordinates":[-106.076218,35.625526],"type":"Point"}
 }

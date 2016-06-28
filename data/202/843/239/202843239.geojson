@@ -2,13 +2,14 @@
   "id": 202843239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.769848,34.735801,-106.769848,34.735801",
     "geom:latitude":34.735801,
     "geom:longitude":-106.769848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Seabell Rd",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202843239,
-    "wof:lastmodified":1449060332,
+    "wof:lastmodified":1466700149,
     "wof:name":"Sandwich Board Inc",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.769848,34.735801,-106.769848,34.735801],
+  "bbox": [
+    -106.769848,
+    34.735801,
+    -106.769848,
+    34.735801
+],
   "geometry": {"coordinates":[-106.769848,34.735801],"type":"Point"}
 }

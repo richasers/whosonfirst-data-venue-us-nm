@@ -2,13 +2,14 @@
   "id": 185773105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586392,35.144843,-106.586392,35.144843",
     "geom:latitude":35.144843,
     "geom:longitude":-106.586392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5310 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185773105,
-    "wof:lastmodified":1449006801,
+    "wof:lastmodified":1466699234,
     "wof:name":"Leisure Time Spas LLC",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.586392,35.144843,-106.586392,35.144843],
+  "bbox": [
+    -106.586392,
+    35.144843,
+    -106.586392,
+    35.144843
+],
   "geometry": {"coordinates":[-106.586392,35.144843],"type":"Point"}
 }

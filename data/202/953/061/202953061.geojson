@@ -2,13 +2,14 @@
   "id": 202953061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.712492,35.146274,-106.712492,35.146274",
     "geom:latitude":35.146274,
     "geom:longitude":-106.712492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6224 el Toro Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202953061,
-    "wof:lastmodified":1449061835,
+    "wof:lastmodified":1466700563,
     "wof:name":"V & M Excavating",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.712492,35.146274,-106.712492,35.146274],
+  "bbox": [
+    -106.712492,
+    35.146274,
+    -106.712492,
+    35.146274
+],
   "geometry": {"coordinates":[-106.712492,35.146274],"type":"Point"}
 }

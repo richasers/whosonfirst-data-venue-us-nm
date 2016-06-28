@@ -2,13 +2,14 @@
   "id": 202434609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.439866,36.894482,-104.439866,36.894482",
     "geom:latitude":36.894482,
     "geom:longitude":-104.439866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Cimarron Ave",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202434609,
-    "wof:lastmodified":1449060675,
+    "wof:lastmodified":1466698368,
     "wof:name":"BTU",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "brick"
     ]
 },
-  "bbox": [-104.439866,36.894482,-104.439866,36.894482],
-  "geometry": {"coordinates":[-104.439866,36.894482],"type":"Point"}
+  "bbox": [
+    -104.439866,
+    36.894482,
+    -104.439866,
+    36.894482
+],
+  "geometry": {"coordinates":[-104.43986599999999,36.894482],"type":"Point"}
 }

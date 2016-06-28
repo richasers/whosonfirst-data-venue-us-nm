@@ -2,13 +2,14 @@
   "id": 186065471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.76265,32.300559,-106.76265,32.300559",
     "geom:latitude":32.300559,
     "geom:longitude":-106.76265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 S Solano Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186065471,
-    "wof:lastmodified":1449053005,
+    "wof:lastmodified":1466698456,
     "wof:name":"Lee's Waterbeds",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bed"
     ]
 },
-  "bbox": [-106.76265,32.300559,-106.76265,32.300559],
-  "geometry": {"coordinates":[-106.76265,32.300559],"type":"Point"}
+  "bbox": [
+    -106.76265,
+    32.300559,
+    -106.76265,
+    32.300559
+],
+  "geometry": {"coordinates":[-106.76264999999999,32.300559],"type":"Point"}
 }

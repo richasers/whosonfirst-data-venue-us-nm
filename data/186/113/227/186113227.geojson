@@ -2,13 +2,14 @@
   "id": 186113227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.959062,32.908139,-105.959062,32.908139",
     "geom:latitude":32.908139,
     "geom:longitude":-105.959062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 New York Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186113227,
-    "wof:lastmodified":1449052799,
+    "wof:lastmodified":1466699033,
     "wof:name":"Barbie J Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.959062,32.908139,-105.959062,32.908139],
+  "bbox": [
+    -105.959062,
+    32.908139,
+    -105.959062,
+    32.908139
+],
   "geometry": {"coordinates":[-105.959062,32.908139],"type":"Point"}
 }

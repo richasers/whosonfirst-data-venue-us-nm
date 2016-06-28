@@ -2,13 +2,14 @@
   "id": 353926435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.622002,35.061082,-106.622002,35.061082",
     "geom:latitude":35.061082,
     "geom:longitude":-106.622002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 Yale Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353926435,
-    "wof:lastmodified":1449019145,
+    "wof:lastmodified":1466697902,
     "wof:name":"Courtyard by Marriott Albuquerque Airport",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.622002,35.061082,-106.622002,35.061082],
-  "geometry": {"coordinates":[-106.622002,35.061082],"type":"Point"}
+  "bbox": [
+    -106.622002,
+    35.061082,
+    -106.622002,
+    35.061082
+],
+  "geometry": {"coordinates":[-106.62200199999999,35.061082],"type":"Point"}
 }

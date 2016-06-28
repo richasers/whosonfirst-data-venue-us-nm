@@ -2,13 +2,14 @@
   "id": 185958699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.440157,36.886925,-104.440157,36.886925",
     "geom:latitude":36.886925,
     "geom:longitude":-104.440157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 S 2nd St",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185958699,
-    "wof:lastmodified":1449007878,
+    "wof:lastmodified":1466699360,
     "wof:name":"Raton Natural Gas Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-104.440157,36.886925,-104.440157,36.886925],
+  "bbox": [
+    -104.440157,
+    36.886925,
+    -104.440157,
+    36.886925
+],
   "geometry": {"coordinates":[-104.440157,36.886925],"type":"Point"}
 }

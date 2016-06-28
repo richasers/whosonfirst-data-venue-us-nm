@@ -2,13 +2,14 @@
   "id": 186473725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.737977,35.072014,-106.737977,35.072014",
     "geom:latitude":35.072014,
     "geom:longitude":-106.737977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 94th St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186473725,
-    "wof:lastmodified":1449050964,
+    "wof:lastmodified":1466700133,
     "wof:name":"Sun Country Redi-Mix",
     "wof:parent_id":85892581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-106.737977,35.072014,-106.737977,35.072014],
+  "bbox": [
+    -106.737977,
+    35.072014,
+    -106.737977,
+    35.072014
+],
   "geometry": {"coordinates":[-106.737977,35.072014],"type":"Point"}
 }

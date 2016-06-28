@@ -2,13 +2,14 @@
   "id": 185849657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.585739,35.057823,-106.585739,35.057823",
     "geom:latitude":35.057823,
     "geom:longitude":-106.585739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Ridgecrest Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185849657,
-    "wof:lastmodified":1449006912,
+    "wof:lastmodified":1466698007,
     "wof:name":"Biomedical Research Inst-N Mxc",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-106.585739,35.057823,-106.585739,35.057823],
+  "bbox": [
+    -106.585739,
+    35.057823,
+    -106.585739,
+    35.057823
+],
   "geometry": {"coordinates":[-106.585739,35.057823],"type":"Point"}
 }

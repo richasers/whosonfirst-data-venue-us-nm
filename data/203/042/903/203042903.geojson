@@ -2,13 +2,14 @@
   "id": 203042903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.571927,36.411107,-105.571927,36.411107",
     "geom:latitude":36.411107,
     "geom:longitude":-105.571927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Hinde St",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203042903,
-    "wof:lastmodified":1449026382,
+    "wof:lastmodified":1466698066,
     "wof:name":"Brody & White Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.571927,36.411107,-105.571927,36.411107],
+  "bbox": [
+    -105.571927,
+    36.411107,
+    -105.571927,
+    36.411107
+],
   "geometry": {"coordinates":[-105.571927,36.411107],"type":"Point"}
 }

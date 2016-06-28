@@ -2,13 +2,14 @@
   "id": 186130101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.595075,36.372241,-105.595075,36.372241",
     "geom:latitude":36.372241,
     "geom:longitude":-105.595075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186130101,
-    "wof:lastmodified":1449051318,
+    "wof:lastmodified":1466699155,
     "wof:name":"Terra Bella Di Taos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.595075,36.372241,-105.595075,36.372241],
-  "geometry": {"coordinates":[-105.595075,36.372241],"type":"Point"}
+  "bbox": [
+    -105.595075,
+    36.372241,
+    -105.595075,
+    36.372241
+],
+  "geometry": {"coordinates":[-105.59507499999999,36.372241],"type":"Point"}
 }

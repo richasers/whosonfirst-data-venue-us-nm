@@ -2,13 +2,14 @@
   "id": 202815973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.643481,35.241161,-106.643481,35.241161",
     "geom:latitude":35.241161,
     "geom:longitude":-106.643481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Verde Pl SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202815973,
-    "wof:lastmodified":1449061362,
+    "wof:lastmodified":1466700019,
     "wof:name":"Ortega Foundation Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.643481,35.241161,-106.643481,35.241161],
-  "geometry": {"coordinates":[-106.643481,35.241161],"type":"Point"}
+  "bbox": [
+    -106.643481,
+    35.241161,
+    -106.643481,
+    35.241161
+],
+  "geometry": {"coordinates":[-106.64348099999999,35.241161],"type":"Point"}
 }

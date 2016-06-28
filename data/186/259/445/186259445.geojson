@@ -2,13 +2,14 @@
   "id": 186259445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.486475,35.068404,-106.486475,35.068404",
     "geom:latitude":35.068404,
     "geom:longitude":-106.486475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14311 Arcadia Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186259445,
-    "wof:lastmodified":1449051013,
+    "wof:lastmodified":1466698782,
     "wof:name":"Hair By Ce Ce",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.486475,35.068404,-106.486475,35.068404],
+  "bbox": [
+    -106.486475,
+    35.068404,
+    -106.486475,
+    35.068404
+],
   "geometry": {"coordinates":[-106.486475,35.068404],"type":"Point"}
 }

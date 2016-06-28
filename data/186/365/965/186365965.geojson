@@ -2,13 +2,14 @@
   "id": 186365965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.708922,35.152274,-106.708922,35.152274",
     "geom:latitude":35.152274,
     "geom:longitude":-106.708922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6136 Flor de Rio Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186365965,
-    "wof:lastmodified":1449050844,
+    "wof:lastmodified":1466699727,
     "wof:name":"Amera 1 Mortgage",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-106.708922,35.152274,-106.708922,35.152274],
+  "bbox": [
+    -106.708922,
+    35.152274,
+    -106.708922,
+    35.152274
+],
   "geometry": {"coordinates":[-106.708922,35.152274],"type":"Point"}
 }

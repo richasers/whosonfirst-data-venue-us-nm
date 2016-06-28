@@ -2,13 +2,14 @@
   "id": 202792829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.061361,35.483743,-106.061361,35.483743",
     "geom:latitude":35.483743,
     "geom:longitude":-106.061361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Cam Azul",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202792829,
-    "wof:lastmodified":1449060667,
+    "wof:lastmodified":1466700050,
     "wof:name":"Message Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teleconferencing"
     ]
 },
-  "bbox": [-106.061361,35.483743,-106.061361,35.483743],
-  "geometry": {"coordinates":[-106.061361,35.483743],"type":"Point"}
+  "bbox": [
+    -106.061361,
+    35.483743,
+    -106.061361,
+    35.483743
+],
+  "geometry": {"coordinates":[-106.06136100000001,35.483743],"type":"Point"}
 }

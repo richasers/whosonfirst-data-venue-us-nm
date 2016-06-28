@@ -2,13 +2,14 @@
   "id": 203105609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.649162,36.533733,-105.649162,36.533733",
     "geom:latitude":36.533733,
     "geom:longitude":-105.649162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"98 State Rte 150",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203105609,
-    "wof:lastmodified":1449025639,
+    "wof:lastmodified":1466698796,
     "wof:name":"Susan Myers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-105.649162,36.533733,-105.649162,36.533733],
+  "bbox": [
+    -105.649162,
+    36.533733,
+    -105.649162,
+    36.533733
+],
   "geometry": {"coordinates":[-105.649162,36.533733],"type":"Point"}
 }

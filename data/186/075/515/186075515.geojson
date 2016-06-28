@@ -2,13 +2,14 @@
   "id": 186075515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.611022,35.081776,-106.611022,35.081776",
     "geom:latitude":35.081776,
     "geom:longitude":-106.611022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3002 Monte Vista Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186075515,
-    "wof:lastmodified":1449051838,
+    "wof:lastmodified":1466698575,
     "wof:name":"ABQ Cleaners",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "preservation"
     ]
 },
-  "bbox": [-106.611022,35.081776,-106.611022,35.081776],
-  "geometry": {"coordinates":[-106.611022,35.081776],"type":"Point"}
+  "bbox": [
+    -106.611022,
+    35.081776,
+    -106.611022,
+    35.081776
+],
+  "geometry": {"coordinates":[-106.61102200000001,35.081776],"type":"Point"}
 }

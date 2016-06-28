@@ -2,13 +2,14 @@
   "id": 203042569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.227242,34.404675,-103.227242,34.404675",
     "geom:latitude":34.404675,
     "geom:longitude":-103.227242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 Beta St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203042569,
-    "wof:lastmodified":1449026385,
+    "wof:lastmodified":1466698062,
     "wof:name":"Sand & Sage Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-103.227242,34.404675,-103.227242,34.404675],
+  "bbox": [
+    -103.227242,
+    34.404675,
+    -103.227242,
+    34.404675
+],
   "geometry": {"coordinates":[-103.227242,34.404675],"type":"Point"}
 }

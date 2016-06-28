@@ -2,13 +2,14 @@
   "id": 186058313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.412664,32.847968,-104.412664,32.847968",
     "geom:latitude":32.847968,
     "geom:longitude":-104.412664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 N 13th St",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186058313,
-    "wof:lastmodified":1449050785,
+    "wof:lastmodified":1466698358,
     "wof:name":"Artesia Healthcare Proff",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-104.412664,32.847968,-104.412664,32.847968],
-  "geometry": {"coordinates":[-104.412664,32.847968],"type":"Point"}
+  "bbox": [
+    -104.412664,
+    32.847968,
+    -104.412664,
+    32.847968
+],
+  "geometry": {"coordinates":[-104.41266400000001,32.847968],"type":"Point"}
 }

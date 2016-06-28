@@ -2,13 +2,14 @@
   "id": 353939441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.583809,35.144903,-106.583809,35.144903",
     "geom:latitude":35.144903,
     "geom:longitude":-106.583809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5740 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":353939441,
-    "wof:lastmodified":1449019016,
+    "wof:lastmodified":1466698260,
     "wof:name":"Katzman, Joanna, Md - Osuna Medical Assoc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "medical"
     ]
 },
-  "bbox": [-106.583809,35.144903,-106.583809,35.144903],
+  "bbox": [
+    -106.583809,
+    35.144903,
+    -106.583809,
+    35.144903
+],
   "geometry": {"coordinates":[-106.583809,35.144903],"type":"Point"}
 }

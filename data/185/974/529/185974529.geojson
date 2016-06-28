@@ -2,13 +2,14 @@
   "id": 185974529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.538786,35.167671,-106.538786,35.167671",
     "geom:latitude":35.167671,
     "geom:longitude":-106.538786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7609 Jacobo Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185974529,
-    "wof:lastmodified":1449008011,
+    "wof:lastmodified":1466699706,
     "wof:name":"1-Up Agency",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.538786,35.167671,-106.538786,35.167671],
+  "bbox": [
+    -106.538786,
+    35.167671,
+    -106.538786,
+    35.167671
+],
   "geometry": {"coordinates":[-106.538786,35.167671],"type":"Point"}
 }

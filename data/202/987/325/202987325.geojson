@@ -2,13 +2,14 @@
   "id": 202987325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.540354,35.301896,-106.540354,35.301896",
     "geom:latitude":35.301896,
     "geom:longitude":-106.540354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"857 S Hill Rd",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202987325,
-    "wof:lastmodified":1449061521,
+    "wof:lastmodified":1466700644,
     "wof:name":"Top Cut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.540354,35.301896,-106.540354,35.301896],
-  "geometry": {"coordinates":[-106.540354,35.301896],"type":"Point"}
+  "bbox": [
+    -106.540354,
+    35.301896,
+    -106.540354,
+    35.301896
+],
+  "geometry": {"coordinates":[-106.54035399999999,35.301896],"type":"Point"}
 }

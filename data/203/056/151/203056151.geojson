@@ -2,13 +2,14 @@
   "id": 203056151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.159499,32.440228,-103.159499,32.440228",
     "geom:latitude":32.440228,
     "geom:longitude":-103.159499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1231 Main St",
     "sg:city":"Eunice",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203056151,
-    "wof:lastmodified":1449025439,
+    "wof:lastmodified":1466698196,
     "wof:name":"Cardinal Hardware & Lumber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.159499,32.440228,-103.159499,32.440228],
+  "bbox": [
+    -103.159499,
+    32.440228,
+    -103.159499,
+    32.440228
+],
   "geometry": {"coordinates":[-103.159499,32.440228],"type":"Point"}
 }

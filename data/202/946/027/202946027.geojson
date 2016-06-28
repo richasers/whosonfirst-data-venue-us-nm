@@ -2,13 +2,14 @@
   "id": 202946027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.495743,35.143731,-106.495743,35.143731",
     "geom:latitude":35.143731,
     "geom:longitude":-106.495743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12704 Osita Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202946027,
-    "wof:lastmodified":1449062344,
+    "wof:lastmodified":1466700651,
     "wof:name":"Sal Financial Services Inc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-106.495743,35.143731,-106.495743,35.143731],
+  "bbox": [
+    -106.495743,
+    35.143731,
+    -106.495743,
+    35.143731
+],
   "geometry": {"coordinates":[-106.495743,35.143731],"type":"Point"}
 }

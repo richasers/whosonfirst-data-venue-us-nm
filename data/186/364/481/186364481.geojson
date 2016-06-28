@@ -2,13 +2,14 @@
   "id": 186364481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.41374,32.844449,-104.41374,32.844449",
     "geom:latitude":32.844449,
     "geom:longitude":-104.41374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 W Chisum Ave",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186364481,
-    "wof:lastmodified":1449051890,
+    "wof:lastmodified":1466699723,
     "wof:name":"Spanish Assemblies of God",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-104.41374,32.844449,-104.41374,32.844449],
+  "bbox": [
+    -104.41374,
+    32.844449,
+    -104.41374,
+    32.844449
+],
   "geometry": {"coordinates":[-104.41374,32.844449],"type":"Point"}
 }

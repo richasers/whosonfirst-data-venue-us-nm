@@ -2,13 +2,14 @@
   "id": 202938953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.168327,32.696688,-103.168327,32.696688",
     "geom:latitude":32.696688,
     "geom:longitude":-103.168327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 W Marland St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202938953,
-    "wof:lastmodified":1449061996,
+    "wof:lastmodified":1466700385,
     "wof:name":"Whitaker Oil Tools Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-103.168327,32.696688,-103.168327,32.696688],
-  "geometry": {"coordinates":[-103.168327,32.696688],"type":"Point"}
+  "bbox": [
+    -103.168327,
+    32.696688,
+    -103.168327,
+    32.696688
+],
+  "geometry": {"coordinates":[-103.16832700000001,32.696688],"type":"Point"}
 }

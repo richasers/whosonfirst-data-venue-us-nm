@@ -2,13 +2,14 @@
   "id": 353933153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.643864,35.113378,-106.643864,35.113378",
     "geom:latitude":35.113378,
     "geom:longitude":-106.643864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Phoenix Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353933153,
-    "wof:lastmodified":1449018779,
+    "wof:lastmodified":1466698094,
     "wof:name":"Ana's Kitchen",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.643864,35.113378,-106.643864,35.113378],
-  "geometry": {"coordinates":[-106.643864,35.113378],"type":"Point"}
+  "bbox": [
+    -106.643864,
+    35.113378,
+    -106.643864,
+    35.113378
+],
+  "geometry": {"coordinates":[-106.64386399999999,35.113378],"type":"Point"}
 }

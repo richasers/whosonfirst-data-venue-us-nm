@@ -2,13 +2,14 @@
   "id": 203104033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.749653,34.80063,-106.749653,34.80063",
     "geom:latitude":34.80063,
     "geom:longitude":-106.749653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1165 Sichler Rd",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203104033,
-    "wof:lastmodified":1449025705,
+    "wof:lastmodified":1466698775,
     "wof:name":"Herman Duran Trucking Inc",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-106.749653,34.80063,-106.749653,34.80063],
+  "bbox": [
+    -106.749653,
+    34.80063,
+    -106.749653,
+    34.80063
+],
   "geometry": {"coordinates":[-106.749653,34.80063],"type":"Point"}
 }

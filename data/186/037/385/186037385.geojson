@@ -2,13 +2,14 @@
   "id": 186037385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.69341,35.175436,-106.69341,35.175436",
     "geom:latitude":35.175436,
     "geom:longitude":-106.69341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8104 Wellsburg Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186037385,
-    "wof:lastmodified":1449053070,
+    "wof:lastmodified":1466698106,
     "wof:name":"In Compasse Intl Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [-106.69341,35.175436,-106.69341,35.175436],
+  "bbox": [
+    -106.69341,
+    35.175436,
+    -106.69341,
+    35.175436
+],
   "geometry": {"coordinates":[-106.69341,35.175436],"type":"Point"}
 }

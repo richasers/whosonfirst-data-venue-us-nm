@@ -2,13 +2,14 @@
   "id": 186448407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.515185,35.093187,-106.515185,35.093187",
     "geom:latitude":35.093187,
     "geom:longitude":-106.515185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1228 Juan Tabo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186448407,
-    "wof:lastmodified":1449052912,
+    "wof:lastmodified":1466699931,
     "wof:name":"United Transmissions Inc",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-106.515185,35.093187,-106.515185,35.093187],
+  "bbox": [
+    -106.515185,
+    35.093187,
+    -106.515185,
+    35.093187
+],
   "geometry": {"coordinates":[-106.515185,35.093187],"type":"Point"}
 }

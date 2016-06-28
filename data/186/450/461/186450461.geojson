@@ -2,13 +2,14 @@
   "id": 186450461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.702238,35.105078,-106.702238,35.105078",
     "geom:latitude":35.105078,
     "geom:longitude":-106.702238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1704 55th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186450461,
-    "wof:lastmodified":1449052595,
+    "wof:lastmodified":1466700034,
     "wof:name":"His Place Ministries Inc",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.702238,35.105078,-106.702238,35.105078],
-  "geometry": {"coordinates":[-106.702238,35.105078],"type":"Point"}
+  "bbox": [
+    -106.702238,
+    35.105078,
+    -106.702238,
+    35.105078
+],
+  "geometry": {"coordinates":[-106.70223799999999,35.105078],"type":"Point"}
 }

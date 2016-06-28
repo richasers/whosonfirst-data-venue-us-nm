@@ -2,13 +2,14 @@
   "id": 202457639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.659879,35.130342,-106.659879,35.130342",
     "geom:latitude":35.130342,
     "geom:longitude":-106.659879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 San Lorenzo Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202457639,
-    "wof:lastmodified":1449061794,
+    "wof:lastmodified":1466698608,
     "wof:name":"B W Earp Lath & Plaster",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.659879,35.130342,-106.659879,35.130342],
+  "bbox": [
+    -106.659879,
+    35.130342,
+    -106.659879,
+    35.130342
+],
   "geometry": {"coordinates":[-106.659879,35.130342],"type":"Point"}
 }

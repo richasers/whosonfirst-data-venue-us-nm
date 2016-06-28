@@ -2,13 +2,14 @@
   "id": 186067319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.570446,36.398994,-105.570446,36.398994",
     "geom:latitude":36.398994,
     "geom:longitude":-105.570446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Liebert St",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186067319,
-    "wof:lastmodified":1449050429,
+    "wof:lastmodified":1466698502,
     "wof:name":"Casa Encantada",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-105.570446,36.398994,-105.570446,36.398994],
+  "bbox": [
+    -105.570446,
+    36.398994,
+    -105.570446,
+    36.398994
+],
   "geometry": {"coordinates":[-105.570446,36.398994],"type":"Point"}
 }

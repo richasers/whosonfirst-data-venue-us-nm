@@ -2,13 +2,14 @@
   "id": 202404403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.730891,34.651156,-106.730891,34.651156",
     "geom:latitude":34.651156,
     "geom:longitude":-106.730891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Estrella Pl",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202404403,
-    "wof:lastmodified":1449061773,
+    "wof:lastmodified":1466697986,
     "wof:name":"Et Cleaning Spec",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.730891,34.651156,-106.730891,34.651156],
+  "bbox": [
+    -106.730891,
+    34.651156,
+    -106.730891,
+    34.651156
+],
   "geometry": {"coordinates":[-106.730891,34.651156],"type":"Point"}
 }

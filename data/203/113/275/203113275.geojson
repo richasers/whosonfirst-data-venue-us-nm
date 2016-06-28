@@ -2,13 +2,14 @@
   "id": 203113275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.645244,35.168562,-106.645244,35.168562",
     "geom:latitude":35.168562,
     "geom:longitude":-106.645244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 Chamisal Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203113275,
-    "wof:lastmodified":1449026701,
+    "wof:lastmodified":1466698896,
     "wof:name":"Casita Chamisa Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-106.645244,35.168562,-106.645244,35.168562],
-  "geometry": {"coordinates":[-106.645244,35.168562],"type":"Point"}
+  "bbox": [
+    -106.645244,
+    35.168562,
+    -106.645244,
+    35.168562
+],
+  "geometry": {"coordinates":[-106.64524400000001,35.168562],"type":"Point"}
 }

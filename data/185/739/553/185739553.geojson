@@ -2,13 +2,14 @@
   "id": 185739553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.963469,35.681046,-105.963469,35.681046",
     "geom:latitude":35.681046,
     "geom:longitude":-105.963469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 Agua Fria St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185739553,
-    "wof:lastmodified":1449007280,
+    "wof:lastmodified":1466699077,
     "wof:name":"Flower Power LLC",
     "wof:parent_id":85880841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.963469,35.681046,-105.963469,35.681046],
+  "bbox": [
+    -105.963469,
+    35.681046,
+    -105.963469,
+    35.681046
+],
   "geometry": {"coordinates":[-105.963469,35.681046],"type":"Point"}
 }

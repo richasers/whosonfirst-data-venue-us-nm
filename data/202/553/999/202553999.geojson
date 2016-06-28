@@ -2,13 +2,14 @@
   "id": 202553999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.277909,32.774764,-108.277909,32.774764",
     "geom:latitude":32.774764,
     "geom:longitude":-108.277909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W College Ave",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202553999,
-    "wof:lastmodified":1449060125,
+    "wof:lastmodified":1466697697,
     "wof:name":"Methodist Church Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.277909,32.774764,-108.277909,32.774764],
-  "geometry": {"coordinates":[-108.277909,32.774764],"type":"Point"}
+  "bbox": [
+    -108.277909,
+    32.774764,
+    -108.277909,
+    32.774764
+],
+  "geometry": {"coordinates":[-108.27790899999999,32.774764],"type":"Point"}
 }

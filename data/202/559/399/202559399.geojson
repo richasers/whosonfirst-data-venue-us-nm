@@ -2,13 +2,14 @@
   "id": 202559399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.600939,35.184565,-106.600939,35.184565",
     "geom:latitude":35.184565,
     "geom:longitude":-106.600939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8801 Horizon Blvd",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202559399,
-    "wof:lastmodified":1449062102,
+    "wof:lastmodified":1466697783,
     "wof:name":"Horizon Assisted Living Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-106.600939,35.184565,-106.600939,35.184565],
+  "bbox": [
+    -106.600939,
+    35.184565,
+    -106.600939,
+    35.184565
+],
   "geometry": {"coordinates":[-106.600939,35.184565],"type":"Point"}
 }

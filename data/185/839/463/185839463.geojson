@@ -2,13 +2,14 @@
   "id": 185839463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.964189,35.668596,-105.964189,35.668596",
     "geom:latitude":35.668596,
     "geom:longitude":-105.964189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Tesuque Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185839463,
-    "wof:lastmodified":1449007581,
+    "wof:lastmodified":1466697894,
     "wof:name":"Johnny's Market",
     "wof:parent_id":85880783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-105.964189,35.668596,-105.964189,35.668596],
+  "bbox": [
+    -105.964189,
+    35.668596,
+    -105.964189,
+    35.668596
+],
   "geometry": {"coordinates":[-105.964189,35.668596],"type":"Point"}
 }

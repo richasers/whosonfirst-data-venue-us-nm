@@ -2,13 +2,14 @@
   "id": 202383523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.564511,35.114494,-106.564511,35.114494",
     "geom:latitude":35.114494,
     "geom:longitude":-106.564511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 Espanola St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202383523,
-    "wof:lastmodified":1449061189,
+    "wof:lastmodified":1466697727,
     "wof:name":"Stanley D Lewis Consultant",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-106.564511,35.114494,-106.564511,35.114494],
+  "bbox": [
+    -106.564511,
+    35.114494,
+    -106.564511,
+    35.114494
+],
   "geometry": {"coordinates":[-106.564511,35.114494],"type":"Point"}
 }

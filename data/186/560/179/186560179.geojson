@@ -2,13 +2,14 @@
   "id": 186560179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.93922,35.660285,-105.93922,35.660285",
     "geom:latitude":35.660285,
     "geom:longitude":-105.93922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 Old Pecos Trl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186560179,
-    "wof:lastmodified":1449052377,
+    "wof:lastmodified":1466700357,
     "wof:name":"Kelly Home Care Svc",
     "wof:parent_id":85880837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-105.93922,35.660285,-105.93922,35.660285],
-  "geometry": {"coordinates":[-105.93922,35.660285],"type":"Point"}
+  "bbox": [
+    -105.93922,
+    35.660285,
+    -105.93922,
+    35.660285
+],
+  "geometry": {"coordinates":[-105.93922000000001,35.660285],"type":"Point"}
 }

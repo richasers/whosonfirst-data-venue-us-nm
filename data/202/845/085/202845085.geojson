@@ -2,13 +2,14 @@
   "id": 202845085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.546851,35.072697,-106.546851,35.072697",
     "geom:latitude":35.072697,
     "geom:longitude":-106.546851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9000 Zuni Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202845085,
-    "wof:lastmodified":1449060513,
+    "wof:lastmodified":1466700148,
     "wof:name":"Charles Alden Construction",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.546851,35.072697,-106.546851,35.072697],
+  "bbox": [
+    -106.546851,
+    35.072697,
+    -106.546851,
+    35.072697
+],
   "geometry": {"coordinates":[-106.546851,35.072697],"type":"Point"}
 }

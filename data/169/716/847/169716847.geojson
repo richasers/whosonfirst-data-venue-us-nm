@@ -2,13 +2,14 @@
   "id": 169716847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.784287,32.350993,-106.784287,32.350993",
     "geom:latitude":32.350993,
     "geom:longitude":-106.784287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3906 Azalea Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169716847,
-    "wof:lastmodified":1449033157,
+    "wof:lastmodified":1466697737,
     "wof:name":"Dolphin Pools",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-106.784287,32.350993,-106.784287,32.350993],
-  "geometry": {"coordinates":[-106.784287,32.350993],"type":"Point"}
+  "bbox": [
+    -106.784287,
+    32.350993,
+    -106.784287,
+    32.350993
+],
+  "geometry": {"coordinates":[-106.78428700000001,32.350993],"type":"Point"}
 }

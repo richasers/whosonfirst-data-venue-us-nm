@@ -2,13 +2,14 @@
   "id": 186406221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.759242,32.29524,-106.759242,32.29524",
     "geom:latitude":32.29524,
     "geom:longitude":-106.759242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1395 Missouri Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186406221,
-    "wof:lastmodified":1449051814,
+    "wof:lastmodified":1466699866,
     "wof:name":"Burks Carol PHD",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.759242,32.29524,-106.759242,32.29524],
+  "bbox": [
+    -106.759242,
+    32.29524,
+    -106.759242,
+    32.29524
+],
   "geometry": {"coordinates":[-106.759242,32.29524],"type":"Point"}
 }

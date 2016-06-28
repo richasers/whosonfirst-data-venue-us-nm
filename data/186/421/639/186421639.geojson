@@ -2,13 +2,14 @@
   "id": 186421639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.765484,35.067447,-106.765484,35.067447",
     "geom:latitude":35.067447,
     "geom:longitude":-106.765484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12325 Central Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186421639,
-    "wof:lastmodified":1449052080,
+    "wof:lastmodified":1466699808,
     "wof:name":"Una Vera Mas LLC",
     "wof:parent_id":85892581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.765484,35.067447,-106.765484,35.067447],
+  "bbox": [
+    -106.765484,
+    35.067447,
+    -106.765484,
+    35.067447
+],
   "geometry": {"coordinates":[-106.765484,35.067447],"type":"Point"}
 }

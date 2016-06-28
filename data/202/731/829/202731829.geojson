@@ -2,13 +2,14 @@
   "id": 202731829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.130126,32.692288,-103.130126,32.692288",
     "geom:latitude":32.692288,
     "geom:longitude":-103.130126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 S Selman St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":202731829,
-    "wof:lastmodified":1449062363,
+    "wof:lastmodified":1466699726,
     "wof:name":"Manna Outreach Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.130126,32.692288,-103.130126,32.692288],
+  "bbox": [
+    -103.130126,
+    32.692288,
+    -103.130126,
+    32.692288
+],
   "geometry": {"coordinates":[-103.130126,32.692288],"type":"Point"}
 }

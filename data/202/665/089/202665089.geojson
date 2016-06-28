@@ -2,13 +2,14 @@
   "id": 202665089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.177479,32.352322,-104.177479,32.352322",
     "geom:latitude":32.352322,
     "geom:longitude":-104.177479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5119 Warren Rd",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202665089,
-    "wof:lastmodified":1449060888,
+    "wof:lastmodified":1466699361,
     "wof:name":"For Stars Catering Inc",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "catering"
     ]
 },
-  "bbox": [-104.177479,32.352322,-104.177479,32.352322],
-  "geometry": {"coordinates":[-104.177479,32.352322],"type":"Point"}
+  "bbox": [
+    -104.177479,
+    32.352322,
+    -104.177479,
+    32.352322
+],
+  "geometry": {"coordinates":[-104.17747900000001,32.352322],"type":"Point"}
 }

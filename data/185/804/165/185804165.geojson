@@ -2,13 +2,14 @@
   "id": 185804165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.690863,34.855236,-106.690863,34.855236",
     "geom:latitude":34.855236,
     "geom:longitude":-106.690863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1345 Bosque Farms Blvd",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185804165,
-    "wof:lastmodified":1449007710,
+    "wof:lastmodified":1466699352,
     "wof:name":"Dollar General",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.690863,34.855236,-106.690863,34.855236],
-  "geometry": {"coordinates":[-106.690863,34.855236],"type":"Point"}
+  "bbox": [
+    -106.690863,
+    34.855236,
+    -106.690863,
+    34.855236
+],
+  "geometry": {"coordinates":[-106.69086299999999,34.855236],"type":"Point"}
 }

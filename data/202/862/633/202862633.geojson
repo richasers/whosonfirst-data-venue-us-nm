@@ -2,13 +2,14 @@
   "id": 202862633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.715766,35.170849,-103.715766,35.170849",
     "geom:latitude":35.170849,
     "geom:longitude":-103.715766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 E Hines Ave",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202862633,
-    "wof:lastmodified":1449062736,
+    "wof:lastmodified":1466700321,
     "wof:name":"Mesa Technical College Mntnc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "school"
     ]
 },
-  "bbox": [-103.715766,35.170849,-103.715766,35.170849],
+  "bbox": [
+    -103.715766,
+    35.170849,
+    -103.715766,
+    35.170849
+],
   "geometry": {"coordinates":[-103.715766,35.170849],"type":"Point"}
 }

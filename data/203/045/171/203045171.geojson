@@ -2,13 +2,14 @@
   "id": 203045171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.778032,32.307257,-106.778032,32.307257",
     "geom:latitude":32.307257,
     "geom:longitude":-106.778032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"334 S Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203045171,
-    "wof:lastmodified":1449026649,
+    "wof:lastmodified":1466698083,
     "wof:name":"My Brothers Place Billiards",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mexican"
     ]
 },
-  "bbox": [-106.778032,32.307257,-106.778032,32.307257],
+  "bbox": [
+    -106.778032,
+    32.307257,
+    -106.778032,
+    32.307257
+],
   "geometry": {"coordinates":[-106.778032,32.307257],"type":"Point"}
 }

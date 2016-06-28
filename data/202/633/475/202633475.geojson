@@ -2,13 +2,14 @@
   "id": 202633475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586295,35.088237,-106.586295,35.088237",
     "geom:latitude":35.088237,
     "geom:longitude":-106.586295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202633475,
-    "wof:lastmodified":1449062618,
+    "wof:lastmodified":1466698884,
     "wof:name":"Culligan Bottled Water",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "company"
     ]
 },
-  "bbox": [-106.586295,35.088237,-106.586295,35.088237],
-  "geometry": {"coordinates":[-106.586295,35.088237],"type":"Point"}
+  "bbox": [
+    -106.586295,
+    35.088237,
+    -106.586295,
+    35.088237
+],
+  "geometry": {"coordinates":[-106.58629500000001,35.088237],"type":"Point"}
 }

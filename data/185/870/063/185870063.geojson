@@ -2,13 +2,14 @@
   "id": 185870063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.6865,35.149769,-106.6865,35.149769",
     "geom:latitude":35.149769,
     "geom:longitude":-106.6865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4411 Montano Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185870063,
-    "wof:lastmodified":1449007028,
+    "wof:lastmodified":1466698211,
     "wof:name":"Deluxe Nails",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-106.6865,35.149769,-106.6865,35.149769],
+  "bbox": [
+    -106.6865,
+    35.149769,
+    -106.6865,
+    35.149769
+],
   "geometry": {"coordinates":[-106.6865,35.149769],"type":"Point"}
 }

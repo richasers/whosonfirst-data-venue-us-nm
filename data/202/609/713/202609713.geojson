@@ -2,13 +2,14 @@
   "id": 202609713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.696129,34.993806,-106.696129,34.993806",
     "geom:latitude":34.993806,
     "geom:longitude":-106.696129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2227 Mayflower Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202609713,
-    "wof:lastmodified":1449061057,
+    "wof:lastmodified":1466698509,
     "wof:name":"R & M Metals Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "center"
     ]
 },
-  "bbox": [-106.696129,34.993806,-106.696129,34.993806],
+  "bbox": [
+    -106.696129,
+    34.993806,
+    -106.696129,
+    34.993806
+],
   "geometry": {"coordinates":[-106.696129,34.993806],"type":"Point"}
 }

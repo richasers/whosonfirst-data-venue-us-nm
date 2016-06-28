@@ -2,13 +2,14 @@
   "id": 185934255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.657712,35.091861,-106.657712,35.091861",
     "geom:latitude":35.091861,
     "geom:longitude":-106.657712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Lomas Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185934255,
-    "wof:lastmodified":1449006660,
+    "wof:lastmodified":1466699446,
     "wof:name":"Leslie Becker",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.657712,35.091861,-106.657712,35.091861],
+  "bbox": [
+    -106.657712,
+    35.091861,
+    -106.657712,
+    35.091861
+],
   "geometry": {"coordinates":[-106.657712,35.091861],"type":"Point"}
 }

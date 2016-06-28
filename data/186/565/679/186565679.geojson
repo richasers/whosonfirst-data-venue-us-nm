@@ -2,13 +2,14 @@
   "id": 186565679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.685274,34.942614,-104.685274,34.942614",
     "geom:latitude":34.942614,
     "geom:longitude":-104.685274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 S 6th St",
     "sg:city":"Santa Rosa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186565679,
-    "wof:lastmodified":1449052785,
+    "wof:lastmodified":1466700412,
     "wof:name":"Dodge Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.685274,34.942614,-104.685274,34.942614],
-  "geometry": {"coordinates":[-104.685274,34.942614],"type":"Point"}
+  "bbox": [
+    -104.685274,
+    34.942614,
+    -104.685274,
+    34.942614
+],
+  "geometry": {"coordinates":[-104.68527400000001,34.942614],"type":"Point"}
 }

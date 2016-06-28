@@ -2,13 +2,14 @@
   "id": 353980463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.20809,34.404709,-103.20809,34.404709",
     "geom:latitude":34.404709,
     "geom:longitude":-103.20809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 W 7th St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353980463,
-    "wof:lastmodified":1449018435,
+    "wof:lastmodified":1466699095,
     "wof:name":"Madrid Bail Bonds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "bond"
     ]
 },
-  "bbox": [-103.20809,34.404709,-103.20809,34.404709],
+  "bbox": [
+    -103.20809,
+    34.404709,
+    -103.20809,
+    34.404709
+],
   "geometry": {"coordinates":[-103.20809,34.404709],"type":"Point"}
 }

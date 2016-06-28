@@ -2,13 +2,14 @@
   "id": 185884777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.485429,35.305532,-106.485429,35.305532",
     "geom:latitude":35.305532,
     "geom:longitude":-106.485429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Cinco Cir",
     "sg:city":"Placitas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185884777,
-    "wof:lastmodified":1449007914,
+    "wof:lastmodified":1466698367,
     "wof:name":"David C Peterson Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-106.485429,35.305532,-106.485429,35.305532],
+  "bbox": [
+    -106.485429,
+    35.305532,
+    -106.485429,
+    35.305532
+],
   "geometry": {"coordinates":[-106.485429,35.305532],"type":"Point"}
 }

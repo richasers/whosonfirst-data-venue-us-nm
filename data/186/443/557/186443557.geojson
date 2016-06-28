@@ -2,13 +2,14 @@
   "id": 186443557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.180933,36.452881,-103.180933,36.452881",
     "geom:latitude":36.452881,
     "geom:longitude":-103.180933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Main St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186443557,
-    "wof:lastmodified":1449052516,
+    "wof:lastmodified":1466700014,
     "wof:name":"Hass Funeral Director Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-103.180933,36.452881,-103.180933,36.452881],
+  "bbox": [
+    -103.180933,
+    36.452881,
+    -103.180933,
+    36.452881
+],
   "geometry": {"coordinates":[-103.180933,36.452881],"type":"Point"}
 }

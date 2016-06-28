@@ -2,13 +2,14 @@
   "id": 353969097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.732465,35.495242,-108.732465,35.495242",
     "geom:latitude":35.495242,
     "geom:longitude":-108.732465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2506 Parmelee St",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353969097,
-    "wof:lastmodified":1449018866,
+    "wof:lastmodified":1466698984,
     "wof:name":"Save More Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-108.732465,35.495242,-108.732465,35.495242],
+  "bbox": [
+    -108.732465,
+    35.495242,
+    -108.732465,
+    35.495242
+],
   "geometry": {"coordinates":[-108.732465,35.495242],"type":"Point"}
 }

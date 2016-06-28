@@ -2,13 +2,14 @@
   "id": 202509807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.587757,35.101981,-106.587757,35.101981",
     "geom:latitude":35.101981,
     "geom:longitude":-106.587757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5021 Indian School Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202509807,
-    "wof:lastmodified":1449060198,
+    "wof:lastmodified":1466699202,
     "wof:name":"Sequoia Technologies",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.587757,35.101981,-106.587757,35.101981],
+  "bbox": [
+    -106.587757,
+    35.101981,
+    -106.587757,
+    35.101981
+],
   "geometry": {"coordinates":[-106.587757,35.101981],"type":"Point"}
 }

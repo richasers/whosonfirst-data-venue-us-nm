@@ -2,13 +2,14 @@
   "id": 186396947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.5143,35.111006,-106.5143,35.111006",
     "geom:latitude":35.111006,
     "geom:longitude":-106.5143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2413 Paisano St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":186396947,
-    "wof:lastmodified":1449052128,
+    "wof:lastmodified":1466699737,
     "wof:name":"All Around Landscaping & Mntnc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "landscape"
     ]
 },
-  "bbox": [-106.5143,35.111006,-106.5143,35.111006],
-  "geometry": {"coordinates":[-106.5143,35.111006],"type":"Point"}
+  "bbox": [
+    -106.5143,
+    35.111006,
+    -106.5143,
+    35.111006
+],
+  "geometry": {"coordinates":[-106.51430000000001,35.111006],"type":"Point"}
 }

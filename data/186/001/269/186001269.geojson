@@ -2,13 +2,14 @@
   "id": 186001269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.053042,36.000308,-106.053042,36.000308",
     "geom:latitude":36.000308,
     "geom:longitude":-106.053042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 Megill St",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186001269,
-    "wof:lastmodified":1449051007,
+    "wof:lastmodified":1466697685,
     "wof:name":"Del Norte Collection Agency",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-106.053042,36.000308,-106.053042,36.000308],
+  "bbox": [
+    -106.053042,
+    36.000308,
+    -106.053042,
+    36.000308
+],
   "geometry": {"coordinates":[-106.053042,36.000308],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169774577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.566713,35.198426,-106.566713,35.198426",
     "geom:latitude":35.198426,
     "geom:longitude":-106.566713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7300 Elena Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169774577,
-    "wof:lastmodified":1449033967,
+    "wof:lastmodified":1466698301,
     "wof:name":"Clean Industries",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carpet"
     ]
 },
-  "bbox": [-106.566713,35.198426,-106.566713,35.198426],
-  "geometry": {"coordinates":[-106.566713,35.198426],"type":"Point"}
+  "bbox": [
+    -106.566713,
+    35.198426,
+    -106.566713,
+    35.198426
+],
+  "geometry": {"coordinates":[-106.56671299999999,35.198426],"type":"Point"}
 }

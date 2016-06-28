@@ -2,13 +2,14 @@
   "id": 185978193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.994113,36.820937,-107.994113,36.820937",
     "geom:latitude":36.820937,
     "geom:longitude":-107.994113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 E Chuska St",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185978193,
-    "wof:lastmodified":1449007531,
+    "wof:lastmodified":1466699616,
     "wof:name":"Grandma's Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consignment"
     ]
 },
-  "bbox": [-107.994113,36.820937,-107.994113,36.820937],
+  "bbox": [
+    -107.994113,
+    36.820937,
+    -107.994113,
+    36.820937
+],
   "geometry": {"coordinates":[-107.994113,36.820937],"type":"Point"}
 }

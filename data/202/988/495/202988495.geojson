@@ -2,13 +2,14 @@
   "id": 202988495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.72253,35.149891,-106.72253,35.149891",
     "geom:latitude":35.149891,
     "geom:longitude":-106.72253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7100 Keel Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202988495,
-    "wof:lastmodified":1449060985,
+    "wof:lastmodified":1466700822,
     "wof:name":"Desert View Investments",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-106.72253,35.149891,-106.72253,35.149891],
-  "geometry": {"coordinates":[-106.72253,35.149891],"type":"Point"}
+  "bbox": [
+    -106.72253,
+    35.149891,
+    -106.72253,
+    35.149891
+],
+  "geometry": {"coordinates":[-106.72253000000001,35.149891],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186452797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.778458,34.659941,-106.778458,34.659941",
     "geom:latitude":34.659941,
     "geom:longitude":-106.778458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 W Castillo Ave",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186452797,
-    "wof:lastmodified":1449051035,
+    "wof:lastmodified":1466700048,
     "wof:name":"PKD Muscle Car & Auto Repair",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-106.778458,34.659941,-106.778458,34.659941],
+  "bbox": [
+    -106.778458,
+    34.659941,
+    -106.778458,
+    34.659941
+],
   "geometry": {"coordinates":[-106.778458,34.659941],"type":"Point"}
 }

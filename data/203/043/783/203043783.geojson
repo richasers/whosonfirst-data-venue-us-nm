@@ -2,13 +2,14 @@
   "id": 203043783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.219636,35.599495,-105.219636,35.599495",
     "geom:latitude":35.599495,
     "geom:longitude":-105.219636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 7th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203043783,
-    "wof:lastmodified":1449026376,
+    "wof:lastmodified":1466698072,
     "wof:name":"M R Pino Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-105.219636,35.599495,-105.219636,35.599495],
-  "geometry": {"coordinates":[-105.219636,35.599495],"type":"Point"}
+  "bbox": [
+    -105.219636,
+    35.599495,
+    -105.219636,
+    35.599495
+],
+  "geometry": {"coordinates":[-105.21963599999999,35.599495],"type":"Point"}
 }

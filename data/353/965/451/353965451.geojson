@@ -2,13 +2,14 @@
   "id": 353965451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.710701,35.080341,-106.710701,35.080341",
     "geom:latitude":35.080341,
     "geom:longitude":-106.710701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Coors Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":353965451,
-    "wof:lastmodified":1449020026,
+    "wof:lastmodified":1466698891,
     "wof:name":"Walgreen Drug Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "aid"
     ]
 },
-  "bbox": [-106.710701,35.080341,-106.710701,35.080341],
+  "bbox": [
+    -106.710701,
+    35.080341,
+    -106.710701,
+    35.080341
+],
   "geometry": {"coordinates":[-106.710701,35.080341],"type":"Point"}
 }

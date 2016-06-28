@@ -2,13 +2,14 @@
   "id": 202686337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.267148,32.795536,-108.267148,32.795536",
     "geom:latitude":32.795536,
     "geom:longitude":-108.267148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2550 N Silver St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202686337,
-    "wof:lastmodified":1449062038,
+    "wof:lastmodified":1466699543,
     "wof:name":"Armstrong's Floor & Wall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "rug"
     ]
 },
-  "bbox": [-108.267148,32.795536,-108.267148,32.795536],
-  "geometry": {"coordinates":[-108.267148,32.795536],"type":"Point"}
+  "bbox": [
+    -108.267148,
+    32.795536,
+    -108.267148,
+    32.795536
+],
+  "geometry": {"coordinates":[-108.26714800000001,32.795536],"type":"Point"}
 }

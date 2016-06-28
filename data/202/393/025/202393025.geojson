@@ -2,13 +2,14 @@
   "id": 202393025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.559859,35.123565,-106.559859,35.123565",
     "geom:latitude":35.123565,
     "geom:longitude":-106.559859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Pennsylvania St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202393025,
-    "wof:lastmodified":1449060903,
+    "wof:lastmodified":1466697854,
     "wof:name":"Always Right Cleaning",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-106.559859,35.123565,-106.559859,35.123565],
+  "bbox": [
+    -106.559859,
+    35.123565,
+    -106.559859,
+    35.123565
+],
   "geometry": {"coordinates":[-106.559859,35.123565],"type":"Point"}
 }

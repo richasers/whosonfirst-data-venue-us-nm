@@ -2,13 +2,14 @@
   "id": 186165709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.63531,31.91126,-106.63531,31.91126",
     "geom:latitude":31.91126,
     "geom:longitude":-106.63531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Cielo Dorado",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186165709,
-    "wof:lastmodified":1449053034,
+    "wof:lastmodified":1466699377,
     "wof:name":"Headdress Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ceramics"
     ]
 },
-  "bbox": [-106.63531,31.91126,-106.63531,31.91126],
+  "bbox": [
+    -106.63531,
+    31.91126,
+    -106.63531,
+    31.91126
+],
   "geometry": {"coordinates":[-106.63531,31.91126],"type":"Point"}
 }

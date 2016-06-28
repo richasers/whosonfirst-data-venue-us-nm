@@ -2,13 +2,14 @@
   "id": 185843281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.993727,36.825544,-107.993727,36.825544",
     "geom:latitude":36.825544,
     "geom:longitude":-107.993727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 N Main Ave",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185843281,
-    "wof:lastmodified":1449006746,
+    "wof:lastmodified":1466697934,
     "wof:name":"Sundial Deli Mart 2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.993727,36.825544,-107.993727,36.825544],
-  "geometry": {"coordinates":[-107.993727,36.825544],"type":"Point"}
+  "bbox": [
+    -107.993727,
+    36.825544,
+    -107.993727,
+    36.825544
+],
+  "geometry": {"coordinates":[-107.99372700000001,36.825544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202388511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.58533,35.061977,-106.58533,35.061977",
     "geom:latitude":35.061977,
     "geom:longitude":-106.58533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Ortiz Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202388511,
-    "wof:lastmodified":1449060191,
+    "wof:lastmodified":1466697785,
     "wof:name":"Patios Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "apartment"
     ]
 },
-  "bbox": [-106.58533,35.061977,-106.58533,35.061977],
+  "bbox": [
+    -106.58533,
+    35.061977,
+    -106.58533,
+    35.061977
+],
   "geometry": {"coordinates":[-106.58533,35.061977],"type":"Point"}
 }

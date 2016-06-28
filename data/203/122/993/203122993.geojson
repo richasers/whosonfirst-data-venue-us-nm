@@ -2,13 +2,14 @@
   "id": 203122993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.691115,34.842085,-106.691115,34.842085",
     "geom:latitude":34.842085,
     "geom:longitude":-106.691115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2280 Bosque Farms Blvd",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203122993,
-    "wof:lastmodified":1449026027,
+    "wof:lastmodified":1466698960,
     "wof:name":"Michael L Olives",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.691115,34.842085,-106.691115,34.842085],
+  "bbox": [
+    -106.691115,
+    34.842085,
+    -106.691115,
+    34.842085
+],
   "geometry": {"coordinates":[-106.691115,34.842085],"type":"Point"}
 }

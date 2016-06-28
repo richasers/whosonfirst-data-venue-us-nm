@@ -2,13 +2,14 @@
   "id": 185737539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.952223,32.887505,-105.952223,32.887505",
     "geom:latitude":32.887505,
     "geom:longitude":-105.952223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Florida Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185737539,
-    "wof:lastmodified":1449006982,
+    "wof:lastmodified":1466699048,
     "wof:name":"Espiritu Custom Awards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engraver"
     ]
 },
-  "bbox": [-105.952223,32.887505,-105.952223,32.887505],
+  "bbox": [
+    -105.952223,
+    32.887505,
+    -105.952223,
+    32.887505
+],
   "geometry": {"coordinates":[-105.952223,32.887505],"type":"Point"}
 }

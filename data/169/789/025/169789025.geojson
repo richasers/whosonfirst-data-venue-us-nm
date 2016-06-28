@@ -2,13 +2,14 @@
   "id": 169789025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.700524,34.983932,-106.700524,34.983932",
     "geom:latitude":34.983932,
     "geom:longitude":-106.700524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2129 Margo Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169789025,
-    "wof:lastmodified":1449034160,
+    "wof:lastmodified":1466699423,
     "wof:name":"Lobo Home Remodeling & Handy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.700524,34.983932,-106.700524,34.983932],
+  "bbox": [
+    -106.700524,
+    34.983932,
+    -106.700524,
+    34.983932
+],
   "geometry": {"coordinates":[-106.700524,34.983932],"type":"Point"}
 }

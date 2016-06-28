@@ -2,13 +2,14 @@
   "id": 186377981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.690927,35.177204,-106.690927,35.177204",
     "geom:latitude":35.177204,
     "geom:longitude":-106.690927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4705 Cumberland Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186377981,
-    "wof:lastmodified":1449051393,
+    "wof:lastmodified":1466699662,
     "wof:name":"Indian Investors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.690927,35.177204,-106.690927,35.177204],
+  "bbox": [
+    -106.690927,
+    35.177204,
+    -106.690927,
+    35.177204
+],
   "geometry": {"coordinates":[-106.690927,35.177204],"type":"Point"}
 }

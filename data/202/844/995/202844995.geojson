@@ -2,13 +2,14 @@
   "id": 202844995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.155034,32.711179,-103.155034,32.711179",
     "geom:latitude":32.711179,
     "geom:longitude":-103.155034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1418 N Tasker Dr",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202844995,
-    "wof:lastmodified":1449061198,
+    "wof:lastmodified":1466700272,
     "wof:name":"C & A Martinez Dump Truck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-103.155034,32.711179,-103.155034,32.711179],
+  "bbox": [
+    -103.155034,
+    32.711179,
+    -103.155034,
+    32.711179
+],
   "geometry": {"coordinates":[-103.155034,32.711179],"type":"Point"}
 }

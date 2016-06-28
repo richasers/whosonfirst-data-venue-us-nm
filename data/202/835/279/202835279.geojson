@@ -2,13 +2,14 @@
   "id": 202835279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.728793,35.604509,-106.728793,35.604509",
     "geom:latitude":35.604509,
     "geom:longitude":-106.728793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Canal St",
     "sg:city":"Jemez Pueblo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202835279,
-    "wof:lastmodified":1449060469,
+    "wof:lastmodified":1466700125,
     "wof:name":"Jemez Pueblo Head Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.728793,35.604509,-106.728793,35.604509],
+  "bbox": [
+    -106.728793,
+    35.604509,
+    -106.728793,
+    35.604509
+],
   "geometry": {"coordinates":[-106.728793,35.604509],"type":"Point"}
 }

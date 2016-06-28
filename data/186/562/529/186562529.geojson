@@ -2,13 +2,14 @@
   "id": 186562529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.265624,36.743542,-108.265624,36.743542",
     "geom:latitude":36.743542,
     "geom:longitude":-108.265624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Troy King Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186562529,
-    "wof:lastmodified":1449051794,
+    "wof:lastmodified":1466700376,
     "wof:name":"Premier Distributing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ale"
     ]
 },
-  "bbox": [-108.265624,36.743542,-108.265624,36.743542],
+  "bbox": [
+    -108.265624,
+    36.743542,
+    -108.265624,
+    36.743542
+],
   "geometry": {"coordinates":[-108.265624,36.743542],"type":"Point"}
 }

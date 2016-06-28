@@ -2,13 +2,14 @@
   "id": 186426677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.980824,32.8619,-105.980824,32.8619",
     "geom:latitude":32.8619,
     "geom:longitude":-105.980824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Mescalero St",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186426677,
-    "wof:lastmodified":1449050974,
+    "wof:lastmodified":1466700044,
     "wof:name":"Trade Winds Mobile Home Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "site"
     ]
 },
-  "bbox": [-105.980824,32.8619,-105.980824,32.8619],
+  "bbox": [
+    -105.980824,
+    32.8619,
+    -105.980824,
+    32.8619
+],
   "geometry": {"coordinates":[-105.980824,32.8619],"type":"Point"}
 }

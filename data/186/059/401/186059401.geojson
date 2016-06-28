@@ -2,13 +2,14 @@
   "id": 186059401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.26557,36.747938,-108.26557,36.747938",
     "geom:latitude":36.747938,
     "geom:longitude":-108.26557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 Troy King Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186059401,
-    "wof:lastmodified":1449051121,
+    "wof:lastmodified":1466698367,
     "wof:name":"Energy Pump & Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-108.26557,36.747938,-108.26557,36.747938],
+  "bbox": [
+    -108.26557,
+    36.747938,
+    -108.26557,
+    36.747938
+],
   "geometry": {"coordinates":[-108.26557,36.747938],"type":"Point"}
 }

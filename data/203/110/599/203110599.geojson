@@ -2,13 +2,14 @@
   "id": 203110599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.794138,32.338469,-106.794138,32.338469",
     "geom:latitude":32.338469,
     "geom:longitude":-106.794138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2614 Navajo Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203110599,
-    "wof:lastmodified":1449025541,
+    "wof:lastmodified":1466698876,
     "wof:name":"Louise Donahe Rd Ld Ln",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "institution"
     ]
 },
-  "bbox": [-106.794138,32.338469,-106.794138,32.338469],
+  "bbox": [
+    -106.794138,
+    32.338469,
+    -106.794138,
+    32.338469
+],
   "geometry": {"coordinates":[-106.794138,32.338469],"type":"Point"}
 }

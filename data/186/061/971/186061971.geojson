@@ -2,13 +2,14 @@
   "id": 186061971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.521241,35.130761,-106.521241,35.130761",
     "geom:latitude":35.130761,
     "geom:longitude":-106.521241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10701 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186061971,
-    "wof:lastmodified":1449052295,
+    "wof:lastmodified":1466698400,
     "wof:name":"Anne Penman Laser Therapy",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "smoker"
     ]
 },
-  "bbox": [-106.521241,35.130761,-106.521241,35.130761],
+  "bbox": [
+    -106.521241,
+    35.130761,
+    -106.521241,
+    35.130761
+],
   "geometry": {"coordinates":[-106.521241,35.130761],"type":"Point"}
 }

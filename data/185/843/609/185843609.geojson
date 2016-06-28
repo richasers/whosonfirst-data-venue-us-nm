@@ -2,13 +2,14 @@
   "id": 185843609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.554775,35.085543,-106.554775,35.085543",
     "geom:latitude":35.085543,
     "geom:longitude":-106.554775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8115 Roma Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185843609,
-    "wof:lastmodified":1449006747,
+    "wof:lastmodified":1466697939,
     "wof:name":"Opticlay Home Furnishings",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.554775,35.085543,-106.554775,35.085543],
-  "geometry": {"coordinates":[-106.554775,35.085543],"type":"Point"}
+  "bbox": [
+    -106.554775,
+    35.085543,
+    -106.554775,
+    35.085543
+],
+  "geometry": {"coordinates":[-106.55477500000001,35.085543],"type":"Point"}
 }

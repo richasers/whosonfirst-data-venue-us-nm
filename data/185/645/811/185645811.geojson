@@ -2,13 +2,14 @@
   "id": 185645811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.61218,35.095294,-106.61218,35.095294",
     "geom:latitude":35.095294,
     "geom:longitude":-106.61218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2914 Wilson Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185645811,
-    "wof:lastmodified":1449006776,
+    "wof:lastmodified":1466698083,
     "wof:name":"Student Conservation Assn",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.61218,35.095294,-106.61218,35.095294],
+  "bbox": [
+    -106.61218,
+    35.095294,
+    -106.61218,
+    35.095294
+],
   "geometry": {"coordinates":[-106.61218,35.095294],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186523585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.727463,35.174556,-103.727463,35.174556",
     "geom:latitude":35.174556,
     "geom:longitude":-103.727463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 S 3rd St",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186523585,
-    "wof:lastmodified":1449051932,
+    "wof:lastmodified":1466700310,
     "wof:name":"Tucumcari Senior Citizens Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "citizen"
     ]
 },
-  "bbox": [-103.727463,35.174556,-103.727463,35.174556],
+  "bbox": [
+    -103.727463,
+    35.174556,
+    -103.727463,
+    35.174556
+],
   "geometry": {"coordinates":[-103.727463,35.174556],"type":"Point"}
 }

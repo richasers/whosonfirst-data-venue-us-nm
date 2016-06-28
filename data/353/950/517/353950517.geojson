@@ -2,13 +2,14 @@
   "id": 353950517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.527391,35.127441,-106.527391,35.127441",
     "geom:latitude":35.127441,
     "geom:longitude":-106.527391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10208 Karen Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353950517,
-    "wof:lastmodified":1449019266,
+    "wof:lastmodified":1466698586,
     "wof:name":"Sub Zero Refrgrtn",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-106.527391,35.127441,-106.527391,35.127441],
-  "geometry": {"coordinates":[-106.527391,35.127441],"type":"Point"}
+  "bbox": [
+    -106.527391,
+    35.127441,
+    -106.527391,
+    35.127441
+],
+  "geometry": {"coordinates":[-106.52739099999999,35.127441],"type":"Point"}
 }

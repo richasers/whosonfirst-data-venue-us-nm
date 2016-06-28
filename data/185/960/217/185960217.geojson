@@ -2,13 +2,14 @@
   "id": 185960217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.682547,35.115744,-106.682547,35.115744",
     "geom:latitude":35.115744,
     "geom:longitude":-106.682547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 Beach Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185960217,
-    "wof:lastmodified":1449007750,
+    "wof:lastmodified":1466699383,
     "wof:name":"Dave's Mobile Productions",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "music"
     ]
 },
-  "bbox": [-106.682547,35.115744,-106.682547,35.115744],
+  "bbox": [
+    -106.682547,
+    35.115744,
+    -106.682547,
+    35.115744
+],
   "geometry": {"coordinates":[-106.682547,35.115744],"type":"Point"}
 }

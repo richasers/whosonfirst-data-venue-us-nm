@@ -2,13 +2,14 @@
   "id": 202866049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.18147,34.396524,-103.18147,34.396524",
     "geom:latitude":34.396524,
     "geom:longitude":-103.18147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 Mabry Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202866049,
-    "wof:lastmodified":1449061330,
+    "wof:lastmodified":1466700249,
     "wof:name":"Bailey-Strebeck Jeep Mtsbshi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-103.18147,34.396524,-103.18147,34.396524],
+  "bbox": [
+    -103.18147,
+    34.396524,
+    -103.18147,
+    34.396524
+],
   "geometry": {"coordinates":[-103.18147,34.396524],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203129409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.046637,35.649455,-106.046637,35.649455",
     "geom:latitude":35.649455,
     "geom:longitude":-106.046637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6471 Hickory St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203129409,
-    "wof:lastmodified":1449026468,
+    "wof:lastmodified":1466699003,
     "wof:name":"Opj Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.046637,35.649455,-106.046637,35.649455],
+  "bbox": [
+    -106.046637,
+    35.649455,
+    -106.046637,
+    35.649455
+],
   "geometry": {"coordinates":[-106.046637,35.649455],"type":"Point"}
 }

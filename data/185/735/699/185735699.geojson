@@ -2,13 +2,14 @@
   "id": 185735699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.535362,35.070307,-106.535362,35.070307",
     "geom:latitude":35.070307,
     "geom:longitude":-106.535362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Conchas St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":185735699,
-    "wof:lastmodified":1449008149,
+    "wof:lastmodified":1466699040,
     "wof:name":"Boyd Engineering Co",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "air"
     ]
 },
-  "bbox": [-106.535362,35.070307,-106.535362,35.070307],
-  "geometry": {"coordinates":[-106.535362,35.070307],"type":"Point"}
+  "bbox": [
+    -106.535362,
+    35.070307,
+    -106.535362,
+    35.070307
+],
+  "geometry": {"coordinates":[-106.53536200000001,35.070307],"type":"Point"}
 }

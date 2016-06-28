@@ -2,13 +2,14 @@
   "id": 203008561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.24313,34.520369,-106.24313,34.520369",
     "geom:latitude":34.520369,
     "geom:longitude":-106.24313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Broadway",
     "sg:city":"Mountainair",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203008561,
-    "wof:lastmodified":1449025511,
+    "wof:lastmodified":1466697681,
     "wof:name":"Bank Of Belen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.24313,34.520369,-106.24313,34.520369],
-  "geometry": {"coordinates":[-106.24313,34.520369],"type":"Point"}
+  "bbox": [
+    -106.24313,
+    34.520369,
+    -106.24313,
+    34.520369
+],
+  "geometry": {"coordinates":[-106.24312999999999,34.520369],"type":"Point"}
 }

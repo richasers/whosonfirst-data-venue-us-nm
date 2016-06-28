@@ -2,13 +2,14 @@
   "id": 203113847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.641879,35.135831,-106.641879,35.135831",
     "geom:latitude":35.135831,
     "geom:longitude":-106.641879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5209 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203113847,
-    "wof:lastmodified":1449026701,
+    "wof:lastmodified":1466698908,
     "wof:name":"Powdrells Bar-B-Q House",
     "wof:parent_id":85892593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barbecue"
     ]
 },
-  "bbox": [-106.641879,35.135831,-106.641879,35.135831],
+  "bbox": [
+    -106.641879,
+    35.135831,
+    -106.641879,
+    35.135831
+],
   "geometry": {"coordinates":[-106.641879,35.135831],"type":"Point"}
 }

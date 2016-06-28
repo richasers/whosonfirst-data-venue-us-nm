@@ -2,13 +2,14 @@
   "id": 202648249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.031951,35.615438,-106.031951,35.615438",
     "geom:latitude":35.615438,
     "geom:longitude":-106.031951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8380 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202648249,
-    "wof:lastmodified":1449060813,
+    "wof:lastmodified":1466699112,
     "wof:name":"Nine West Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.031951,35.615438,-106.031951,35.615438],
-  "geometry": {"coordinates":[-106.031951,35.615438],"type":"Point"}
+  "bbox": [
+    -106.031951,
+    35.615438,
+    -106.031951,
+    35.615438
+],
+  "geometry": {"coordinates":[-106.03195100000001,35.615438],"type":"Point"}
 }

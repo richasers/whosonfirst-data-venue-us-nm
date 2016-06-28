@@ -2,13 +2,14 @@
   "id": 186403767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.231698,32.789572,-108.231698,32.789572",
     "geom:latitude":32.789572,
     "geom:longitude":-108.231698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 Delk Dr",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186403767,
-    "wof:lastmodified":1449052642,
+    "wof:lastmodified":1466699863,
     "wof:name":"Madrid Bail Bonds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.231698,32.789572,-108.231698,32.789572],
-  "geometry": {"coordinates":[-108.231698,32.789572],"type":"Point"}
+  "bbox": [
+    -108.231698,
+    32.789572,
+    -108.231698,
+    32.789572
+],
+  "geometry": {"coordinates":[-108.23169799999999,32.789572],"type":"Point"}
 }

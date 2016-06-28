@@ -2,13 +2,14 @@
   "id": 202493159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.544322,35.194441,-106.544322,35.194441",
     "geom:latitude":35.194441,
     "geom:longitude":-106.544322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8600 Beverly Hills Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202493159,
-    "wof:lastmodified":1449060913,
+    "wof:lastmodified":1466699079,
     "wof:name":"HGS Hydrogeologic Svc Inc",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "drilling"
     ]
 },
-  "bbox": [-106.544322,35.194441,-106.544322,35.194441],
-  "geometry": {"coordinates":[-106.544322,35.194441],"type":"Point"}
+  "bbox": [
+    -106.544322,
+    35.194441,
+    -106.544322,
+    35.194441
+],
+  "geometry": {"coordinates":[-106.54432199999999,35.194441],"type":"Point"}
 }

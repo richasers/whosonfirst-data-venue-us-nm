@@ -2,13 +2,14 @@
   "id": 186001621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.779473,34.663121,-106.779473,34.663121",
     "geom:latitude":34.663121,
     "geom:longitude":-106.779473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 W Reinken Ave",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186001621,
-    "wof:lastmodified":1449051009,
+    "wof:lastmodified":1466697691,
     "wof:name":"Valencia For Domestic Violence",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.779473,34.663121,-106.779473,34.663121],
+  "bbox": [
+    -106.779473,
+    34.663121,
+    -106.779473,
+    34.663121
+],
   "geometry": {"coordinates":[-106.779473,34.663121],"type":"Point"}
 }

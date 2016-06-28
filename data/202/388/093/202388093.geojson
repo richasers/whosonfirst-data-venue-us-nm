@@ -2,13 +2,14 @@
   "id": 202388093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.524816,33.379787,-104.524816,33.379787",
     "geom:latitude":33.379787,
     "geom:longitude":-104.524816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 S Richardson Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202388093,
-    "wof:lastmodified":1449060190,
+    "wof:lastmodified":1466697779,
     "wof:name":"El Toro Well Servicing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "well"
     ]
 },
-  "bbox": [-104.524816,33.379787,-104.524816,33.379787],
+  "bbox": [
+    -104.524816,
+    33.379787,
+    -104.524816,
+    33.379787
+],
   "geometry": {"coordinates":[-104.524816,33.379787],"type":"Point"}
 }

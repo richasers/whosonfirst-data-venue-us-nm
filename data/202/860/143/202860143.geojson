@@ -2,13 +2,14 @@
   "id": 202860143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.975432,35.661889,-105.975432,35.661889",
     "geom:latitude":35.661889,
     "geom:longitude":-105.975432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Pinon St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202860143,
-    "wof:lastmodified":1449061252,
+    "wof:lastmodified":1466700315,
     "wof:name":"A-1 Self Storage",
     "wof:parent_id":85880809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "general"
     ]
 },
-  "bbox": [-105.975432,35.661889,-105.975432,35.661889],
+  "bbox": [
+    -105.975432,
+    35.661889,
+    -105.975432,
+    35.661889
+],
   "geometry": {"coordinates":[-105.975432,35.661889],"type":"Point"}
 }

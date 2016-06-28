@@ -2,13 +2,14 @@
   "id": 169807709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.729681,34.970253,-106.729681,34.970253",
     "geom:latitude":34.970253,
     "geom:longitude":-106.729681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 Sand Hill Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169807709,
-    "wof:lastmodified":1449033536,
+    "wof:lastmodified":1466698668,
     "wof:name":"About Time Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.729681,34.970253,-106.729681,34.970253],
+  "bbox": [
+    -106.729681,
+    34.970253,
+    -106.729681,
+    34.970253
+],
   "geometry": {"coordinates":[-106.729681,34.970253],"type":"Point"}
 }

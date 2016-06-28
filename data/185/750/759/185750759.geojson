@@ -2,13 +2,14 @@
   "id": 185750759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.63439,35.116872,-106.63439,35.116872",
     "geom:latitude":35.116872,
     "geom:longitude":-106.63439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3816 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185750759,
-    "wof:lastmodified":1449007593,
+    "wof:lastmodified":1466699157,
     "wof:name":"Superbly Southwestern",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-106.63439,35.116872,-106.63439,35.116872],
+  "bbox": [
+    -106.63439,
+    35.116872,
+    -106.63439,
+    35.116872
+],
   "geometry": {"coordinates":[-106.63439,35.116872],"type":"Point"}
 }

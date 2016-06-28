@@ -2,13 +2,14 @@
   "id": 185949913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.27304,32.781486,-108.27304,32.781486",
     "geom:latitude":32.781486,
     "geom:longitude":-108.27304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 E 16th St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185949913,
-    "wof:lastmodified":1449007603,
+    "wof:lastmodified":1466699215,
     "wof:name":"City Link Airlines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "charter"
     ]
 },
-  "bbox": [-108.27304,32.781486,-108.27304,32.781486],
-  "geometry": {"coordinates":[-108.27304,32.781486],"type":"Point"}
+  "bbox": [
+    -108.27304,
+    32.781486,
+    -108.27304,
+    32.781486
+],
+  "geometry": {"coordinates":[-108.27303999999999,32.781486],"type":"Point"}
 }

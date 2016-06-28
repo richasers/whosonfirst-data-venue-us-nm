@@ -2,13 +2,14 @@
   "id": 203057993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.782079,32.328058,-106.782079,32.328058",
     "geom:latitude":32.328058,
     "geom:longitude":-106.782079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 E Madrid Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203057993,
-    "wof:lastmodified":1449025861,
+    "wof:lastmodified":1466698212,
     "wof:name":"Angela Hereford",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-106.782079,32.328058,-106.782079,32.328058],
+  "bbox": [
+    -106.782079,
+    32.328058,
+    -106.782079,
+    32.328058
+],
   "geometry": {"coordinates":[-106.782079,32.328058],"type":"Point"}
 }

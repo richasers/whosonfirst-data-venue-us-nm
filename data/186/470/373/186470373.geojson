@@ -2,13 +2,14 @@
   "id": 186470373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.708829,36.799686,-107.708829,36.799686",
     "geom:latitude":36.799686,
     "geom:longitude":-107.708829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Rd 4276",
     "sg:city":"Navajo Dam",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186470373,
-    "wof:lastmodified":1449051044,
+    "wof:lastmodified":1466700119,
     "wof:name":"Yoga With Balance/Linda Clark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "yoga"
     ]
 },
-  "bbox": [-107.708829,36.799686,-107.708829,36.799686],
-  "geometry": {"coordinates":[-107.708829,36.799686],"type":"Point"}
+  "bbox": [
+    -107.708829,
+    36.799686,
+    -107.708829,
+    36.799686
+],
+  "geometry": {"coordinates":[-107.70882899999999,36.799686],"type":"Point"}
 }

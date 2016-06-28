@@ -2,13 +2,14 @@
   "id": 202453989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.651077,35.129347,-106.651077,35.129347",
     "geom:latitude":35.129347,
     "geom:longitude":-106.651077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4512 11th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202453989,
-    "wof:lastmodified":1449062016,
+    "wof:lastmodified":1466698581,
     "wof:name":"Us Cleaners",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-106.651077,35.129347,-106.651077,35.129347],
+  "bbox": [
+    -106.651077,
+    35.129347,
+    -106.651077,
+    35.129347
+],
   "geometry": {"coordinates":[-106.651077,35.129347],"type":"Point"}
 }

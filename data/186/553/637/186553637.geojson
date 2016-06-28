@@ -2,13 +2,14 @@
   "id": 186553637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.136169,32.727796,-103.136169,32.727796",
     "geom:latitude":32.727796,
     "geom:longitude":-103.136169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2410 N Fowler St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186553637,
-    "wof:lastmodified":1449050268,
+    "wof:lastmodified":1466700457,
     "wof:name":"Anne Hale MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-103.136169,32.727796,-103.136169,32.727796],
+  "bbox": [
+    -103.136169,
+    32.727796,
+    -103.136169,
+    32.727796
+],
   "geometry": {"coordinates":[-103.136169,32.727796],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203045635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.278845,32.75438,-108.278845,32.75438",
     "geom:latitude":32.75438,
     "geom:longitude":-108.278845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Ridge Rd",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203045635,
-    "wof:lastmodified":1449026646,
+    "wof:lastmodified":1466698091,
     "wof:name":"James Hamilton Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.278845,32.75438,-108.278845,32.75438],
+  "bbox": [
+    -108.278845,
+    32.75438,
+    -108.278845,
+    32.75438
+],
   "geometry": {"coordinates":[-108.278845,32.75438],"type":"Point"}
 }

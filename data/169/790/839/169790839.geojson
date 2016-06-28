@@ -2,13 +2,14 @@
   "id": 169790839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.769759,33.158545,-105.769759,33.158545",
     "geom:latitude":33.158545,
     "geom:longitude":-105.769759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Sage Ave",
     "sg:city":"Mescalero",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169790839,
-    "wof:lastmodified":1449035188,
+    "wof:lastmodified":1466698494,
     "wof:name":"Mescalero Indian Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.769759,33.158545,-105.769759,33.158545],
-  "geometry": {"coordinates":[-105.769759,33.158545],"type":"Point"}
+  "bbox": [
+    -105.769759,
+    33.158545,
+    -105.769759,
+    33.158545
+],
+  "geometry": {"coordinates":[-105.76975899999999,33.158545],"type":"Point"}
 }

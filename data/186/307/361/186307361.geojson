@@ -2,13 +2,14 @@
   "id": 186307361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.1951,34.404634,-103.1951,34.404634",
     "geom:latitude":34.404634,
     "geom:longitude":-103.1951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 N Lea St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186307361,
-    "wof:lastmodified":1449051085,
+    "wof:lastmodified":1466699398,
     "wof:name":"Mopps Mary Cleaning Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-103.1951,34.404634,-103.1951,34.404634],
+  "bbox": [
+    -103.1951,
+    34.404634,
+    -103.1951,
+    34.404634
+],
   "geometry": {"coordinates":[-103.1951,34.404634],"type":"Point"}
 }

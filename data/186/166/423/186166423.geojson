@@ -2,13 +2,14 @@
   "id": 186166423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.187187,34.424526,-103.187187,34.424526",
     "geom:latitude":34.424526,
     "geom:longitude":-103.187187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Sharondale Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":186166423,
-    "wof:lastmodified":1449051878,
+    "wof:lastmodified":1466699375,
     "wof:name":"Connect-A-Phone Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "system"
     ]
 },
-  "bbox": [-103.187187,34.424526,-103.187187,34.424526],
-  "geometry": {"coordinates":[-103.187187,34.424526],"type":"Point"}
+  "bbox": [
+    -103.187187,
+    34.424526,
+    -103.187187,
+    34.424526
+],
+  "geometry": {"coordinates":[-103.18718699999999,34.424526],"type":"Point"}
 }

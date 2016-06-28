@@ -2,13 +2,14 @@
   "id": 337287413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.611885,36.415652,-105.611885,36.415652",
     "geom:latitude":36.415652,
     "geom:longitude":-105.611885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Nighthawk Trl",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337287413,
-    "wof:lastmodified":1449026988,
+    "wof:lastmodified":1466697778,
     "wof:name":"Robert Parker Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.611885,36.415652,-105.611885,36.415652],
+  "bbox": [
+    -105.611885,
+    36.415652,
+    -105.611885,
+    36.415652
+],
   "geometry": {"coordinates":[-105.611885,36.415652],"type":"Point"}
 }

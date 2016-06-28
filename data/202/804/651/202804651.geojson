@@ -2,13 +2,14 @@
   "id": 202804651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.952538,35.526375,-105.952538,35.526375",
     "geom:latitude":35.526375,
     "geom:longitude":-105.952538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Casa del Oro Way",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202804651,
-    "wof:lastmodified":1449061858,
+    "wof:lastmodified":1466699992,
     "wof:name":"Milton Erickson Institute",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-105.952538,35.526375,-105.952538,35.526375],
+  "bbox": [
+    -105.952538,
+    35.526375,
+    -105.952538,
+    35.526375
+],
   "geometry": {"coordinates":[-105.952538,35.526375],"type":"Point"}
 }

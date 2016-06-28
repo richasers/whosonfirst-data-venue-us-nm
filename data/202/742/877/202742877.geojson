@@ -2,13 +2,14 @@
   "id": 202742877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.097259,32.279834,-104.097259,32.279834",
     "geom:latitude":32.279834,
     "geom:longitude":-104.097259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 W Cottonwood St",
     "sg:city":"Loving",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202742877,
-    "wof:lastmodified":1449060277,
+    "wof:lastmodified":1466699755,
     "wof:name":"Mikes Welding Svc",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-104.097259,32.279834,-104.097259,32.279834],
-  "geometry": {"coordinates":[-104.097259,32.279834],"type":"Point"}
+  "bbox": [
+    -104.097259,
+    32.279834,
+    -104.097259,
+    32.279834
+],
+  "geometry": {"coordinates":[-104.09725899999999,32.279834],"type":"Point"}
 }

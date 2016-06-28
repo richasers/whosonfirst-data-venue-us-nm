@@ -2,13 +2,14 @@
   "id": 186387929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.481776,35.172797,-106.481776,35.172797",
     "geom:latitude":35.172797,
     "geom:longitude":-106.481776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Tramway Ln NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186387929,
-    "wof:lastmodified":1449052655,
+    "wof:lastmodified":1466699802,
     "wof:name":"Wheelchair Getaways Of Nm",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handicapped"
     ]
 },
-  "bbox": [-106.481776,35.172797,-106.481776,35.172797],
+  "bbox": [
+    -106.481776,
+    35.172797,
+    -106.481776,
+    35.172797
+],
   "geometry": {"coordinates":[-106.481776,35.172797],"type":"Point"}
 }

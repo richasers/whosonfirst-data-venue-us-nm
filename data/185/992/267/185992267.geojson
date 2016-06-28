@@ -2,13 +2,14 @@
   "id": 185992267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.318039,35.145706,-106.318039,35.145706",
     "geom:latitude":35.145706,
     "geom:longitude":-106.318039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Valle Hermosa Rd",
     "sg:city":"Sandia Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185992267,
-    "wof:lastmodified":1449007373,
+    "wof:lastmodified":1466699597,
     "wof:name":"Rider Valley Motorcycles LLC",
     "wof:parent_id":85892617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.318039,35.145706,-106.318039,35.145706],
+  "bbox": [
+    -106.318039,
+    35.145706,
+    -106.318039,
+    35.145706
+],
   "geometry": {"coordinates":[-106.318039,35.145706],"type":"Point"}
 }

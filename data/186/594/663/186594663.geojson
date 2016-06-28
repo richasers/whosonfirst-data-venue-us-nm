@@ -2,13 +2,14 @@
   "id": 186594663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.519566,33.316056,-104.519566,33.316056",
     "geom:latitude":33.316056,
     "geom:longitude":-104.519566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Lighthall Pl",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186594663,
-    "wof:lastmodified":1449050728,
+    "wof:lastmodified":1466700622,
     "wof:name":"Safe Escort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.519566,33.316056,-104.519566,33.316056],
+  "bbox": [
+    -104.519566,
+    33.316056,
+    -104.519566,
+    33.316056
+],
   "geometry": {"coordinates":[-104.519566,33.316056],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186194749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.728591,34.730235,-106.728591,34.730235",
     "geom:latitude":34.730235,
     "geom:longitude":-106.728591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2848 State Hwy 47",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186194749,
-    "wof:lastmodified":1449052625,
+    "wof:lastmodified":1466697956,
     "wof:name":"S7k Inc",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-106.728591,34.730235,-106.728591,34.730235],
-  "geometry": {"coordinates":[-106.728591,34.730235],"type":"Point"}
+  "bbox": [
+    -106.728591,
+    34.730235,
+    -106.728591,
+    34.730235
+],
+  "geometry": {"coordinates":[-106.72859099999999,34.730235],"type":"Point"}
 }

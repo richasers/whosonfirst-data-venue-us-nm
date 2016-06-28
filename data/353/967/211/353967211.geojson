@@ -2,13 +2,14 @@
   "id": 353967211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.445672,35.056558,-106.445672,35.056558",
     "geom:latitude":35.056558,
     "geom:longitude":-106.445672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Canada de Los Alamos Trl SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353967211,
-    "wof:lastmodified":1449020612,
+    "wof:lastmodified":1466698942,
     "wof:name":"Sichris Consulting",
     "wof:parent_id":85892573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "academic"
     ]
 },
-  "bbox": [-106.445672,35.056558,-106.445672,35.056558],
+  "bbox": [
+    -106.445672,
+    35.056558,
+    -106.445672,
+    35.056558
+],
   "geometry": {"coordinates":[-106.445672,35.056558],"type":"Point"}
 }

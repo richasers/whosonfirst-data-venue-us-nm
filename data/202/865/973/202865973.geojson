@@ -2,13 +2,14 @@
   "id": 202865973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.161777,32.736163,-103.161777,32.736163",
     "geom:latitude":32.736163,
     "geom:longitude":-103.161777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3325 N Enterprise Dr",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202865973,
-    "wof:lastmodified":1449062030,
+    "wof:lastmodified":1466700248,
     "wof:name":"Petroleum Asset Management LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-103.161777,32.736163,-103.161777,32.736163],
+  "bbox": [
+    -103.161777,
+    32.736163,
+    -103.161777,
+    32.736163
+],
   "geometry": {"coordinates":[-103.161777,32.736163],"type":"Point"}
 }

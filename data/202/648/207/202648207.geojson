@@ -2,13 +2,14 @@
   "id": 202648207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.941839,35.692374,-105.941839,35.692374",
     "geom:latitude":35.692374,
     "geom:longitude":-105.941839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Pso de Peralta",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202648207,
-    "wof:lastmodified":1449060813,
+    "wof:lastmodified":1466699111,
     "wof:name":"Moore & Golden",
     "wof:parent_id":85880833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-105.941839,35.692374,-105.941839,35.692374],
+  "bbox": [
+    -105.941839,
+    35.692374,
+    -105.941839,
+    35.692374
+],
   "geometry": {"coordinates":[-105.941839,35.692374],"type":"Point"}
 }

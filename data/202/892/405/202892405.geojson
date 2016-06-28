@@ -2,13 +2,14 @@
   "id": 202892405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.59474,35.070094,-106.59474,35.070094",
     "geom:latitude":35.070094,
     "geom:longitude":-106.59474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Adams St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202892405,
-    "wof:lastmodified":1449060483,
+    "wof:lastmodified":1466700307,
     "wof:name":"KOH Piano",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.59474,35.070094,-106.59474,35.070094],
+  "bbox": [
+    -106.59474,
+    35.070094,
+    -106.59474,
+    35.070094
+],
   "geometry": {"coordinates":[-106.59474,35.070094],"type":"Point"}
 }

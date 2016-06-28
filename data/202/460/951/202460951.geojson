@@ -2,13 +2,14 @@
   "id": 202460951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.163047,36.719221,-108.163047,36.719221",
     "geom:latitude":36.719221,
     "geom:longitude":-108.163047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Bloomfield Hwy",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202460951,
-    "wof:lastmodified":1449062506,
+    "wof:lastmodified":1466698625,
     "wof:name":"Bluffview Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.163047,36.719221,-108.163047,36.719221],
-  "geometry": {"coordinates":[-108.163047,36.719221],"type":"Point"}
+  "bbox": [
+    -108.163047,
+    36.719221,
+    -108.163047,
+    36.719221
+],
+  "geometry": {"coordinates":[-108.16304700000001,36.719221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202849711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.656061,35.119301,-106.656061,35.119301",
     "geom:latitude":35.119301,
     "geom:longitude":-106.656061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3411 12th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202849711,
-    "wof:lastmodified":1449060579,
+    "wof:lastmodified":1466700185,
     "wof:name":"Precious Moments Photogra",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-106.656061,35.119301,-106.656061,35.119301],
-  "geometry": {"coordinates":[-106.656061,35.119301],"type":"Point"}
+  "bbox": [
+    -106.656061,
+    35.119301,
+    -106.656061,
+    35.119301
+],
+  "geometry": {"coordinates":[-106.65606099999999,35.119301],"type":"Point"}
 }

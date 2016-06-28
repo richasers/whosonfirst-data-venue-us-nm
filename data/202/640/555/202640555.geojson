@@ -2,13 +2,14 @@
   "id": 202640555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.802557,32.309142,-106.802557,32.309142",
     "geom:latitude":32.309142,
     "geom:longitude":-106.802557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1760 W Hadley Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202640555,
-    "wof:lastmodified":1449061224,
+    "wof:lastmodified":1466698998,
     "wof:name":"Integrated Air Systems",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-106.802557,32.309142,-106.802557,32.309142],
-  "geometry": {"coordinates":[-106.802557,32.309142],"type":"Point"}
+  "bbox": [
+    -106.802557,
+    32.309142,
+    -106.802557,
+    32.309142
+],
+  "geometry": {"coordinates":[-106.80255699999999,32.309142],"type":"Point"}
 }

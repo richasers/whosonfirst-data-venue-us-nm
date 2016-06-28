@@ -2,13 +2,14 @@
   "id": 186216767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.928954,35.363756,-107.928954,35.363756",
     "geom:latitude":35.363756,
     "geom:longitude":-107.928954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Red Mountain Rd",
     "sg:city":"Prewitt",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186216767,
-    "wof:lastmodified":1449052718,
+    "wof:lastmodified":1466698230,
     "wof:name":"Haystack Headstart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "school"
     ]
 },
-  "bbox": [-107.928954,35.363756,-107.928954,35.363756],
+  "bbox": [
+    -107.928954,
+    35.363756,
+    -107.928954,
+    35.363756
+],
   "geometry": {"coordinates":[-107.928954,35.363756],"type":"Point"}
 }

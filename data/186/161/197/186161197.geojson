@@ -2,13 +2,14 @@
   "id": 186161197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.156917,36.768466,-108.156917,36.768466",
     "geom:latitude":36.768466,
     "geom:longitude":-108.156917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4113 Windsor Dr",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186161197,
-    "wof:lastmodified":1449051429,
+    "wof:lastmodified":1466699352,
     "wof:name":"J L Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.156917,36.768466,-108.156917,36.768466],
-  "geometry": {"coordinates":[-108.156917,36.768466],"type":"Point"}
+  "bbox": [
+    -108.156917,
+    36.768466,
+    -108.156917,
+    36.768466
+],
+  "geometry": {"coordinates":[-108.15691700000001,36.768466],"type":"Point"}
 }

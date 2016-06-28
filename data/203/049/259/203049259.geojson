@@ -2,13 +2,14 @@
   "id": 203049259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.809049,33.166447,-105.809049,33.166447",
     "geom:latitude":33.166447,
     "geom:longitude":-105.809049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Cactus Ct",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203049259,
-    "wof:lastmodified":1449025864,
+    "wof:lastmodified":1466698133,
     "wof:name":"Jim's Lock Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-105.809049,33.166447,-105.809049,33.166447],
+  "bbox": [
+    -105.809049,
+    33.166447,
+    -105.809049,
+    33.166447
+],
   "geometry": {"coordinates":[-105.809049,33.166447],"type":"Point"}
 }

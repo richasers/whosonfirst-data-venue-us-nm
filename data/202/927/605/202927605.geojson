@@ -2,13 +2,14 @@
   "id": 202927605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.582043,35.16848,-106.582043,35.16848",
     "geom:latitude":35.16848,
     "geom:longitude":-106.582043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5750 Pino Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202927605,
-    "wof:lastmodified":1449062379,
+    "wof:lastmodified":1466700459,
     "wof:name":"Gardner Zemke Mechanical",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.582043,35.16848,-106.582043,35.16848],
+  "bbox": [
+    -106.582043,
+    35.16848,
+    -106.582043,
+    35.16848
+],
   "geometry": {"coordinates":[-106.582043,35.16848],"type":"Point"}
 }

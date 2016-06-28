@@ -2,13 +2,14 @@
   "id": 202767757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.009826,35.627418,-106.009826,35.627418",
     "geom:latitude":35.627418,
     "geom:longitude":-106.009826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4444 Autumn Leaf Ln",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202767757,
-    "wof:lastmodified":1449060850,
+    "wof:lastmodified":1466699842,
     "wof:name":"Firestorm Financial",
     "wof:parent_id":85880823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "financial"
     ]
 },
-  "bbox": [-106.009826,35.627418,-106.009826,35.627418],
+  "bbox": [
+    -106.009826,
+    35.627418,
+    -106.009826,
+    35.627418
+],
   "geometry": {"coordinates":[-106.009826,35.627418],"type":"Point"}
 }

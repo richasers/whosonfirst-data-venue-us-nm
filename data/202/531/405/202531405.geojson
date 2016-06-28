@@ -2,13 +2,14 @@
   "id": 202531405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649637,35.101116,-106.649637,35.101116",
     "geom:latitude":35.101116,
     "geom:longitude":-106.649637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 5th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202531405,
-    "wof:lastmodified":1449060708,
+    "wof:lastmodified":1466699286,
     "wof:name":"Albuquerque Friends Meeting",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.649637,35.101116,-106.649637,35.101116],
+  "bbox": [
+    -106.649637,
+    35.101116,
+    -106.649637,
+    35.101116
+],
   "geometry": {"coordinates":[-106.649637,35.101116],"type":"Point"}
 }

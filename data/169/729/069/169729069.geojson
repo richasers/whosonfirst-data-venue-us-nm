@@ -2,13 +2,14 @@
   "id": 169729069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.778207,32.309404,-106.778207,32.309404",
     "geom:latitude":32.309404,
     "geom:longitude":-106.778207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 S Downtown Mall",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169729069,
-    "wof:lastmodified":1449034346,
+    "wof:lastmodified":1466697878,
     "wof:name":"Renees Aerobic Exercise Studio",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-106.778207,32.309404,-106.778207,32.309404],
-  "geometry": {"coordinates":[-106.778207,32.309404],"type":"Point"}
+  "bbox": [
+    -106.778207,
+    32.309404,
+    -106.778207,
+    32.309404
+],
+  "geometry": {"coordinates":[-106.77820699999999,32.309404],"type":"Point"}
 }

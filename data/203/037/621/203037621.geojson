@@ -2,13 +2,14 @@
   "id": 203037621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.959238,32.894813,-105.959238,32.894813",
     "geom:latitude":32.894813,
     "geom:longitude":-105.959238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 New York Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203037621,
-    "wof:lastmodified":1449026892,
+    "wof:lastmodified":1466697999,
     "wof:name":"Commission For The Blind",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resource"
     ]
 },
-  "bbox": [-105.959238,32.894813,-105.959238,32.894813],
+  "bbox": [
+    -105.959238,
+    32.894813,
+    -105.959238,
+    32.894813
+],
   "geometry": {"coordinates":[-105.959238,32.894813],"type":"Point"}
 }

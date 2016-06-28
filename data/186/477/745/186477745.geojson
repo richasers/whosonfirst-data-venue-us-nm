@@ -2,13 +2,14 @@
   "id": 186477745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.144958,32.735585,-103.144958,32.735585",
     "geom:latitude":32.735585,
     "geom:longitude":-103.144958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3311 N Grimes St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186477745,
-    "wof:lastmodified":1449050874,
+    "wof:lastmodified":1466700151,
     "wof:name":"Home Pro Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-103.144958,32.735585,-103.144958,32.735585],
+  "bbox": [
+    -103.144958,
+    32.735585,
+    -103.144958,
+    32.735585
+],
   "geometry": {"coordinates":[-103.144958,32.735585],"type":"Point"}
 }

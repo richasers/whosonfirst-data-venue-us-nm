@@ -2,13 +2,14 @@
   "id": 203056489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.940745,35.687485,-105.940745,35.687485",
     "geom:latitude":35.687485,
     "geom:longitude":-105.940745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 W San Francisco St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203056489,
-    "wof:lastmodified":1449025442,
+    "wof:lastmodified":1466698202,
     "wof:name":"Luna Felix Goldsmith Inc",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "designer"
     ]
 },
-  "bbox": [-105.940745,35.687485,-105.940745,35.687485],
-  "geometry": {"coordinates":[-105.940745,35.687485],"type":"Point"}
+  "bbox": [
+    -105.940745,
+    35.687485,
+    -105.940745,
+    35.687485
+],
+  "geometry": {"coordinates":[-105.94074500000001,35.687485],"type":"Point"}
 }

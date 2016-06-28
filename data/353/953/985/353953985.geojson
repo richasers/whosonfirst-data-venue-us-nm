@@ -2,13 +2,14 @@
   "id": 353953985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.571534,35.187372,-106.571534,35.187372",
     "geom:latitude":35.187372,
     "geom:longitude":-106.571534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6715 Eagle Rock Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353953985,
-    "wof:lastmodified":1449019996,
+    "wof:lastmodified":1466698687,
     "wof:name":"Art Enhancement",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "frame"
     ]
 },
-  "bbox": [-106.571534,35.187372,-106.571534,35.187372],
+  "bbox": [
+    -106.571534,
+    35.187372,
+    -106.571534,
+    35.187372
+],
   "geometry": {"coordinates":[-106.571534,35.187372],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203123755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.614991,36.691196,-105.614991,36.691196",
     "geom:latitude":36.691196,
     "geom:longitude":-105.614991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2305 Hwy 522",
     "sg:city":"Questa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203123755,
-    "wof:lastmodified":1449025475,
+    "wof:lastmodified":1466698959,
     "wof:name":"Questa Tax",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-105.614991,36.691196,-105.614991,36.691196],
+  "bbox": [
+    -105.614991,
+    36.691196,
+    -105.614991,
+    36.691196
+],
   "geometry": {"coordinates":[-105.614991,36.691196],"type":"Point"}
 }

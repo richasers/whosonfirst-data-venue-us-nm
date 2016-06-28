@@ -2,13 +2,14 @@
   "id": 202476149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.538585,35.122707,-106.538585,35.122707",
     "geom:latitude":35.122707,
     "geom:longitude":-106.538585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9220 Mescalero Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202476149,
-    "wof:lastmodified":1449061137,
+    "wof:lastmodified":1466698901,
     "wof:name":"Wilmer R Kerzee Consultant",
     "wof:parent_id":85825849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.538585,35.122707,-106.538585,35.122707],
+  "bbox": [
+    -106.538585,
+    35.122707,
+    -106.538585,
+    35.122707
+],
   "geometry": {"coordinates":[-106.538585,35.122707],"type":"Point"}
 }

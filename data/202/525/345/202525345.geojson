@@ -2,13 +2,14 @@
   "id": 202525345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.202546,34.424993,-103.202546,34.424993",
     "geom:latitude":34.424993,
     "geom:longitude":-103.202546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2629 Gidding St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202525345,
-    "wof:lastmodified":1449062138,
+    "wof:lastmodified":1466699273,
     "wof:name":"Duke Ross",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-103.202546,34.424993,-103.202546,34.424993],
+  "bbox": [
+    -103.202546,
+    34.424993,
+    -103.202546,
+    34.424993
+],
   "geometry": {"coordinates":[-103.202546,34.424993],"type":"Point"}
 }

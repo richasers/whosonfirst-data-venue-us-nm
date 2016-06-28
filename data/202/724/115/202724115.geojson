@@ -2,13 +2,14 @@
   "id": 202724115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.439542,36.902453,-104.439542,36.902453",
     "geom:latitude":36.902453,
     "geom:longitude":-104.439542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 N 2nd St",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202724115,
-    "wof:lastmodified":1449062574,
+    "wof:lastmodified":1466699817,
     "wof:name":"Sports Arena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "clothing"
     ]
 },
-  "bbox": [-104.439542,36.902453,-104.439542,36.902453],
+  "bbox": [
+    -104.439542,
+    36.902453,
+    -104.439542,
+    36.902453
+],
   "geometry": {"coordinates":[-104.439542,36.902453],"type":"Point"}
 }

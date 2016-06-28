@@ -2,13 +2,14 @@
   "id": 185805025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.068148,35.629714,-106.068148,35.629714",
     "geom:latitude":35.629714,
     "geom:longitude":-106.068148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7550 Kachina Loop",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185805025,
-    "wof:lastmodified":1449007139,
+    "wof:lastmodified":1466699355,
     "wof:name":"Ethelbah Lawrence & Assoc LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.068148,35.629714,-106.068148,35.629714],
-  "geometry": {"coordinates":[-106.068148,35.629714],"type":"Point"}
+  "bbox": [
+    -106.068148,
+    35.629714,
+    -106.068148,
+    35.629714
+],
+  "geometry": {"coordinates":[-106.06814799999999,35.629714],"type":"Point"}
 }

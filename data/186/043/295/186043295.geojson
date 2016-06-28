@@ -2,13 +2,14 @@
   "id": 186043295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.667052,35.101068,-106.667052,35.101068",
     "geom:latitude":35.101068,
     "geom:longitude":-106.667052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1921 Bellamah Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":186043295,
-    "wof:lastmodified":1449052350,
+    "wof:lastmodified":1466698167,
     "wof:name":"Selle Insulation Co",
     "wof:parent_id":85839415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "heat"
     ]
 },
-  "bbox": [-106.667052,35.101068,-106.667052,35.101068],
+  "bbox": [
+    -106.667052,
+    35.101068,
+    -106.667052,
+    35.101068
+],
   "geometry": {"coordinates":[-106.667052,35.101068],"type":"Point"}
 }

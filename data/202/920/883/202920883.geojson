@@ -2,13 +2,14 @@
   "id": 202920883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.396763,32.831758,-104.396763,32.831758",
     "geom:latitude":32.831758,
     "geom:longitude":-104.396763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 S 1st St",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202920883,
-    "wof:lastmodified":1449062084,
+    "wof:lastmodified":1466700439,
     "wof:name":"Nova Technologies",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radio"
     ]
 },
-  "bbox": [-104.396763,32.831758,-104.396763,32.831758],
-  "geometry": {"coordinates":[-104.396763,32.831758],"type":"Point"}
+  "bbox": [
+    -104.396763,
+    32.831758,
+    -104.396763,
+    32.831758
+],
+  "geometry": {"coordinates":[-104.39676300000001,32.831758],"type":"Point"}
 }

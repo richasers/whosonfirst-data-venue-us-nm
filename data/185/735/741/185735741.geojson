@@ -2,13 +2,14 @@
   "id": 185735741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.524144,35.057736,-106.524144,35.057736",
     "geom:latitude":35.057736,
     "geom:longitude":-106.524144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11100 Gibson Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185735741,
-    "wof:lastmodified":1449008149,
+    "wof:lastmodified":1466699040,
     "wof:name":"Pamela Young Florist",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.524144,35.057736,-106.524144,35.057736],
-  "geometry": {"coordinates":[-106.524144,35.057736],"type":"Point"}
+  "bbox": [
+    -106.524144,
+    35.057736,
+    -106.524144,
+    35.057736
+],
+  "geometry": {"coordinates":[-106.52414400000001,35.057736],"type":"Point"}
 }

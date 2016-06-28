@@ -2,13 +2,14 @@
   "id": 203149517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.599918,35.079163,-106.599918,35.079163",
     "geom:latitude":35.079163,
     "geom:longitude":-106.599918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3904 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203149517,
-    "wof:lastmodified":1449024942,
+    "wof:lastmodified":1466699150,
     "wof:name":"Tom Davies Bookshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.599918,35.079163,-106.599918,35.079163],
+  "bbox": [
+    -106.599918,
+    35.079163,
+    -106.599918,
+    35.079163
+],
   "geometry": {"coordinates":[-106.599918,35.079163],"type":"Point"}
 }

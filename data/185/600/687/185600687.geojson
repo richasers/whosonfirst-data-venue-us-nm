@@ -2,13 +2,14 @@
   "id": 185600687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.774968,34.658519,-106.774968,34.658519",
     "geom:latitude":34.658519,
     "geom:longitude":-106.774968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Baca Ave",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185600687,
-    "wof:lastmodified":1449006759,
+    "wof:lastmodified":1466697613,
     "wof:name":"Manufactured Cultured Marble",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "marble"
     ]
 },
-  "bbox": [-106.774968,34.658519,-106.774968,34.658519],
+  "bbox": [
+    -106.774968,
+    34.658519,
+    -106.774968,
+    34.658519
+],
   "geometry": {"coordinates":[-106.774968,34.658519],"type":"Point"}
 }

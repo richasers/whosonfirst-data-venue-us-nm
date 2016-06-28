@@ -2,13 +2,14 @@
   "id": 186227949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.499472,35.068376,-106.499472,35.068376",
     "geom:latitude":35.068376,
     "geom:longitude":-106.499472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13120 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186227949,
-    "wof:lastmodified":1449050983,
+    "wof:lastmodified":1466698371,
     "wof:name":"United Artists Four Hills 10",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.499472,35.068376,-106.499472,35.068376],
+  "bbox": [
+    -106.499472,
+    35.068376,
+    -106.499472,
+    35.068376
+],
   "geometry": {"coordinates":[-106.499472,35.068376],"type":"Point"}
 }

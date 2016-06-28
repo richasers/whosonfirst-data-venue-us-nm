@@ -2,13 +2,14 @@
   "id": 186177651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.223176,36.733056,-108.223176,36.733056",
     "geom:latitude":36.733056,
     "geom:longitude":-108.223176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 Walnut Dr",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186177651,
-    "wof:lastmodified":1449053023,
+    "wof:lastmodified":1466697735,
     "wof:name":"Circle B Self-Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-108.223176,36.733056,-108.223176,36.733056],
+  "bbox": [
+    -108.223176,
+    36.733056,
+    -108.223176,
+    36.733056
+],
   "geometry": {"coordinates":[-108.223176,36.733056],"type":"Point"}
 }

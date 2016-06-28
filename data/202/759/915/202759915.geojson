@@ -2,13 +2,14 @@
   "id": 202759915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.507959,33.451322,-104.507959,33.451322",
     "geom:latitude":33.451322,
     "geom:longitude":-104.507959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 Ranchito Dr",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202759915,
-    "wof:lastmodified":1449062696,
+    "wof:lastmodified":1466699837,
     "wof:name":"Tennis Anyone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-104.507959,33.451322,-104.507959,33.451322],
+  "bbox": [
+    -104.507959,
+    33.451322,
+    -104.507959,
+    33.451322
+],
   "geometry": {"coordinates":[-104.507959,33.451322],"type":"Point"}
 }

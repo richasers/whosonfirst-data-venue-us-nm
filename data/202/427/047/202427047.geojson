@@ -2,13 +2,14 @@
   "id": 202427047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.253782,33.130297,-107.253782,33.130297",
     "geom:latitude":33.130297,
     "geom:longitude":-107.253782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Main St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202427047,
-    "wof:lastmodified":1449060876,
+    "wof:lastmodified":1466699416,
     "wof:name":"Luchini Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-107.253782,33.130297,-107.253782,33.130297],
+  "bbox": [
+    -107.253782,
+    33.130297,
+    -107.253782,
+    33.130297
+],
   "geometry": {"coordinates":[-107.253782,33.130297],"type":"Point"}
 }

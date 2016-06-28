@@ -2,13 +2,14 @@
   "id": 202800929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.510026,35.154817,-106.510026,35.154817",
     "geom:latitude":35.154817,
     "geom:longitude":-106.510026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11408 Pine Top Ln NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202800929,
-    "wof:lastmodified":1449060313,
+    "wof:lastmodified":1466699860,
     "wof:name":"Levick Enterprises Inc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.510026,35.154817,-106.510026,35.154817],
+  "bbox": [
+    -106.510026,
+    35.154817,
+    -106.510026,
+    35.154817
+],
   "geometry": {"coordinates":[-106.510026,35.154817],"type":"Point"}
 }

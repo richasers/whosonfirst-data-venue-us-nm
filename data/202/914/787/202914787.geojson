@@ -2,13 +2,14 @@
   "id": 202914787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.317706,33.246184,-103.317706,33.246184",
     "geom:latitude":33.246184,
     "geom:longitude":-103.317706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1038 State Hwy 206",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202914787,
-    "wof:lastmodified":1449061083,
+    "wof:lastmodified":1466700420,
     "wof:name":"Casa Verde",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greenhouse"
     ]
 },
-  "bbox": [-103.317706,33.246184,-103.317706,33.246184],
+  "bbox": [
+    -103.317706,
+    33.246184,
+    -103.317706,
+    33.246184
+],
   "geometry": {"coordinates":[-103.317706,33.246184],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186335609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.370623,33.092101,-104.370623,33.092101",
     "geom:latitude":33.092101,
     "geom:longitude":-104.370623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Palomino St",
     "sg:city":"Hagerman",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186335609,
-    "wof:lastmodified":1449052137,
+    "wof:lastmodified":1466699600,
     "wof:name":"Max Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-104.370623,33.092101,-104.370623,33.092101],
-  "geometry": {"coordinates":[-104.370623,33.092101],"type":"Point"}
+  "bbox": [
+    -104.370623,
+    33.092101,
+    -104.370623,
+    33.092101
+],
+  "geometry": {"coordinates":[-104.37062299999999,33.092101],"type":"Point"}
 }

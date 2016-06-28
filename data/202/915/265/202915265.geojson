@@ -2,13 +2,14 @@
   "id": 202915265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.699212,35.080208,-106.699212,35.080208",
     "geom:latitude":35.080208,
     "geom:longitude":-106.699212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5612 Palm Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202915265,
-    "wof:lastmodified":1449062609,
+    "wof:lastmodified":1466700412,
     "wof:name":"Tomas J Benavidez Lumper",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-106.699212,35.080208,-106.699212,35.080208],
+  "bbox": [
+    -106.699212,
+    35.080208,
+    -106.699212,
+    35.080208
+],
   "geometry": {"coordinates":[-106.699212,35.080208],"type":"Point"}
 }

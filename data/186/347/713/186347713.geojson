@@ -2,13 +2,14 @@
   "id": 186347713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.763764,32.30414,-106.763764,32.30414",
     "geom:latitude":32.30414,
     "geom:longitude":-106.763764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 S Solano Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186347713,
-    "wof:lastmodified":1449051674,
+    "wof:lastmodified":1466699673,
     "wof:name":"Desert Tents",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camping"
     ]
 },
-  "bbox": [-106.763764,32.30414,-106.763764,32.30414],
-  "geometry": {"coordinates":[-106.763764,32.30414],"type":"Point"}
+  "bbox": [
+    -106.763764,
+    32.30414,
+    -106.763764,
+    32.30414
+],
+  "geometry": {"coordinates":[-106.76376399999999,32.30414],"type":"Point"}
 }

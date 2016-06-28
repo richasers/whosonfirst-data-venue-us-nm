@@ -2,13 +2,14 @@
   "id": 186287719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.397799,32.843958,-104.397799,32.843958",
     "geom:latitude":32.843958,
     "geom:longitude":-104.397799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 N 1st St",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186287719,
-    "wof:lastmodified":1449050423,
+    "wof:lastmodified":1466699166,
     "wof:name":"Plains Welding Supply Inc",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-104.397799,32.843958,-104.397799,32.843958],
-  "geometry": {"coordinates":[-104.397799,32.843958],"type":"Point"}
+  "bbox": [
+    -104.397799,
+    32.843958,
+    -104.397799,
+    32.843958
+],
+  "geometry": {"coordinates":[-104.39779900000001,32.843958],"type":"Point"}
 }

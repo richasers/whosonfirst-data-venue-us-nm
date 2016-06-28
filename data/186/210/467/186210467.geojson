@@ -2,13 +2,14 @@
   "id": 186210467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.709112,35.00714,-106.709112,35.00714",
     "geom:latitude":35.00714,
     "geom:longitude":-106.709112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4602 Valley Gardens Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186210467,
-    "wof:lastmodified":1449051302,
+    "wof:lastmodified":1466698155,
     "wof:name":"Elbert Stndlee Massage Therapy",
     "wof:parent_id":85892575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.709112,35.00714,-106.709112,35.00714],
+  "bbox": [
+    -106.709112,
+    35.00714,
+    -106.709112,
+    35.00714
+],
   "geometry": {"coordinates":[-106.709112,35.00714],"type":"Point"}
 }

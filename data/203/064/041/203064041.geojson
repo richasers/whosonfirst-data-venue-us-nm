@@ -2,13 +2,14 @@
   "id": 203064041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.020221,36.809216,-108.020221,36.809216",
     "geom:latitude":36.809216,
     "geom:longitude":-108.020221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Rd 3000",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203064041,
-    "wof:lastmodified":1449025592,
+    "wof:lastmodified":1466698279,
     "wof:name":"Herbal Life",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "house"
     ]
 },
-  "bbox": [-108.020221,36.809216,-108.020221,36.809216],
-  "geometry": {"coordinates":[-108.020221,36.809216],"type":"Point"}
+  "bbox": [
+    -108.020221,
+    36.809216,
+    -108.020221,
+    36.809216
+],
+  "geometry": {"coordinates":[-108.02022100000001,36.809216],"type":"Point"}
 }

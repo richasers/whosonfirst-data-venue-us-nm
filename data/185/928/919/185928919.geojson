@@ -2,13 +2,14 @@
   "id": 185928919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.66598,34.830062,-106.66598,34.830062",
     "geom:latitude":34.830062,
     "geom:longitude":-106.66598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Sage Ln",
     "sg:city":"Peralta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185928919,
-    "wof:lastmodified":1449007995,
+    "wof:lastmodified":1466698927,
     "wof:name":"Affiliated Mortgage Group",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-106.66598,34.830062,-106.66598,34.830062],
+  "bbox": [
+    -106.66598,
+    34.830062,
+    -106.66598,
+    34.830062
+],
   "geometry": {"coordinates":[-106.66598,34.830062],"type":"Point"}
 }

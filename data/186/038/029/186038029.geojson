@@ -2,13 +2,14 @@
   "id": 186038029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.610394,35.109287,-106.610394,35.109287",
     "geom:latitude":35.109287,
     "geom:longitude":-106.610394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186038029,
-    "wof:lastmodified":1449052100,
+    "wof:lastmodified":1466699409,
     "wof:name":"Bernina Sewing Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "sewing"
     ]
 },
-  "bbox": [-106.610394,35.109287,-106.610394,35.109287],
+  "bbox": [
+    -106.610394,
+    35.109287,
+    -106.610394,
+    35.109287
+],
   "geometry": {"coordinates":[-106.610394,35.109287],"type":"Point"}
 }

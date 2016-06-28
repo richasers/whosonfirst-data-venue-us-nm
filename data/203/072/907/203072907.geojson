@@ -2,13 +2,14 @@
   "id": 203072907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.741955,32.374024,-106.741955,32.374024",
     "geom:latitude":32.374024,
     "geom:longitude":-106.741955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4811 Jade Pl",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203072907,
-    "wof:lastmodified":1449025949,
+    "wof:lastmodified":1466698381,
     "wof:name":"Cardservice International Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "card"
     ]
 },
-  "bbox": [-106.741955,32.374024,-106.741955,32.374024],
+  "bbox": [
+    -106.741955,
+    32.374024,
+    -106.741955,
+    32.374024
+],
   "geometry": {"coordinates":[-106.741955,32.374024],"type":"Point"}
 }

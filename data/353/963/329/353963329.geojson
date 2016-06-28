@@ -2,13 +2,14 @@
   "id": 353963329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.701561,35.123791,-106.701561,35.123791",
     "geom:latitude":35.123791,
     "geom:longitude":-106.701561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Coors Blvd NW Ste B1",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353963329,
-    "wof:lastmodified":1449018502,
+    "wof:lastmodified":1466698836,
     "wof:name":"State Farm Insurance Agent-Ken Brudos",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.701561,35.123791,-106.701561,35.123791],
+  "bbox": [
+    -106.701561,
+    35.123791,
+    -106.701561,
+    35.123791
+],
   "geometry": {"coordinates":[-106.701561,35.123791],"type":"Point"}
 }

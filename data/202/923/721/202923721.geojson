@@ -2,13 +2,14 @@
   "id": 202923721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.365507,32.961603,-103.365507,32.961603",
     "geom:latitude":32.961603,
     "geom:longitude":-103.365507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1413 W Dogwood Ave",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202923721,
-    "wof:lastmodified":1449062559,
+    "wof:lastmodified":1466700454,
     "wof:name":"Quezada Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-103.365507,32.961603,-103.365507,32.961603],
-  "geometry": {"coordinates":[-103.365507,32.961603],"type":"Point"}
+  "bbox": [
+    -103.365507,
+    32.961603,
+    -103.365507,
+    32.961603
+],
+  "geometry": {"coordinates":[-103.36550699999999,32.961603],"type":"Point"}
 }

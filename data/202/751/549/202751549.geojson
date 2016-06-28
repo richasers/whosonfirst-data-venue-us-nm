@@ -2,13 +2,14 @@
   "id": 202751549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.598485,35.105505,-106.598485,35.105505",
     "geom:latitude":35.105505,
     "geom:longitude":-106.598485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4120 Cutler Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":202751549,
-    "wof:lastmodified":1449060244,
+    "wof:lastmodified":1466699791,
     "wof:name":"Floor Covering Interiors of NM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "rug"
     ]
 },
-  "bbox": [-106.598485,35.105505,-106.598485,35.105505],
+  "bbox": [
+    -106.598485,
+    35.105505,
+    -106.598485,
+    35.105505
+],
   "geometry": {"coordinates":[-106.598485,35.105505],"type":"Point"}
 }

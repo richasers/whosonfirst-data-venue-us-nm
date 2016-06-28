@@ -2,13 +2,14 @@
   "id": 203015165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.509875,35.145694,-106.509875,35.145694",
     "geom:latitude":35.145694,
     "geom:longitude":-106.509875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5728 Nugget Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203015165,
-    "wof:lastmodified":1449025368,
+    "wof:lastmodified":1466697768,
     "wof:name":"Gonzales Jenan",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.509875,35.145694,-106.509875,35.145694],
-  "geometry": {"coordinates":[-106.509875,35.145694],"type":"Point"}
+  "bbox": [
+    -106.509875,
+    35.145694,
+    -106.509875,
+    35.145694
+],
+  "geometry": {"coordinates":[-106.50987499999999,35.145694],"type":"Point"}
 }

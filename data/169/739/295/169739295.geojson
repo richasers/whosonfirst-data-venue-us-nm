@@ -2,13 +2,14 @@
   "id": 169739295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586419,35.192244,-106.586419,35.192244",
     "geom:latitude":35.192244,
     "geom:longitude":-106.586419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9420 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169739295,
-    "wof:lastmodified":1449034062,
+    "wof:lastmodified":1466697982,
     "wof:name":"Blind Scapes",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drapery"
     ]
 },
-  "bbox": [-106.586419,35.192244,-106.586419,35.192244],
-  "geometry": {"coordinates":[-106.586419,35.192244],"type":"Point"}
+  "bbox": [
+    -106.586419,
+    35.192244,
+    -106.586419,
+    35.192244
+],
+  "geometry": {"coordinates":[-106.58641900000001,35.192244],"type":"Point"}
 }

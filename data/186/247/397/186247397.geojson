@@ -2,13 +2,14 @@
   "id": 186247397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550367,35.302934,-106.550367,35.302934",
     "geom:latitude":35.302934,
     "geom:longitude":-106.550367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 W Cll Don Francisco",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186247397,
-    "wof:lastmodified":1449051943,
+    "wof:lastmodified":1466698629,
     "wof:name":"Sandoval County Economic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-106.550367,35.302934,-106.550367,35.302934],
-  "geometry": {"coordinates":[-106.550367,35.302934],"type":"Point"}
+  "bbox": [
+    -106.550367,
+    35.302934,
+    -106.550367,
+    35.302934
+],
+  "geometry": {"coordinates":[-106.55036699999999,35.302934],"type":"Point"}
 }

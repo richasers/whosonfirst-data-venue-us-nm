@@ -2,13 +2,14 @@
   "id": 186468315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.942917,35.688223,-105.942917,35.688223",
     "geom:latitude":35.688223,
     "geom:longitude":-105.942917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 W San Francisco St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186468315,
-    "wof:lastmodified":1449052284,
+    "wof:lastmodified":1466700255,
     "wof:name":"Andreeva Fine Art Portraits",
     "wof:parent_id":85880833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.942917,35.688223,-105.942917,35.688223],
-  "geometry": {"coordinates":[-105.942917,35.688223],"type":"Point"}
+  "bbox": [
+    -105.942917,
+    35.688223,
+    -105.942917,
+    35.688223
+],
+  "geometry": {"coordinates":[-105.94291699999999,35.688223],"type":"Point"}
 }

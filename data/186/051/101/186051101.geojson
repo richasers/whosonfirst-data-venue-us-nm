@@ -2,13 +2,14 @@
   "id": 186051101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.55972,35.100057,-106.55972,35.100057",
     "geom:latitude":35.100057,
     "geom:longitude":-106.55972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Pennsylvania St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186051101,
-    "wof:lastmodified":1449052024,
+    "wof:lastmodified":1466698261,
     "wof:name":"Winrock Villas Condominiums",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "condominium"
     ]
 },
-  "bbox": [-106.55972,35.100057,-106.55972,35.100057],
+  "bbox": [
+    -106.55972,
+    35.100057,
+    -106.55972,
+    35.100057
+],
   "geometry": {"coordinates":[-106.55972,35.100057],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169762763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.536669,35.069444,-106.536669,35.069444",
     "geom:latitude":35.069444,
     "geom:longitude":-106.536669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9916 Bell Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169762763,
-    "wof:lastmodified":1449035008,
+    "wof:lastmodified":1466698185,
     "wof:name":"ADI Productions",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-106.536669,35.069444,-106.536669,35.069444],
+  "bbox": [
+    -106.536669,
+    35.069444,
+    -106.536669,
+    35.069444
+],
   "geometry": {"coordinates":[-106.536669,35.069444],"type":"Point"}
 }

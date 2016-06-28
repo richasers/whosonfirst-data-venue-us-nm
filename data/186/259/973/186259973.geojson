@@ -2,13 +2,14 @@
   "id": 186259973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.959962,35.664382,-105.959962,35.664382",
     "geom:latitude":35.664382,
     "geom:longitude":-105.959962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1590 Pacheco St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186259973,
-    "wof:lastmodified":1449051016,
+    "wof:lastmodified":1466698789,
     "wof:name":"Rancho Viejo Ltd Partnership",
     "wof:parent_id":85880811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-105.959962,35.664382,-105.959962,35.664382],
+  "bbox": [
+    -105.959962,
+    35.664382,
+    -105.959962,
+    35.664382
+],
   "geometry": {"coordinates":[-105.959962,35.664382],"type":"Point"}
 }

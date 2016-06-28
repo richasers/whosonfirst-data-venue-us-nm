@@ -2,13 +2,14 @@
   "id": 203134765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.651728,33.426481,-104.651728,33.426481",
     "geom:latitude":33.426481,
     "geom:longitude":-104.651728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5275 Sumac St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203134765,
-    "wof:lastmodified":1449026763,
+    "wof:lastmodified":1466699058,
     "wof:name":"Homestead Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxidermist"
     ]
 },
-  "bbox": [-104.651728,33.426481,-104.651728,33.426481],
-  "geometry": {"coordinates":[-104.651728,33.426481],"type":"Point"}
+  "bbox": [
+    -104.651728,
+    33.426481,
+    -104.651728,
+    33.426481
+],
+  "geometry": {"coordinates":[-104.65172800000001,33.426481],"type":"Point"}
 }

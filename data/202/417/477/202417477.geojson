@@ -2,13 +2,14 @@
   "id": 202417477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.631454,35.123547,-106.631454,35.123547",
     "geom:latitude":35.123547,
     "geom:longitude":-106.631454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 Rankin Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202417477,
-    "wof:lastmodified":1449061146,
+    "wof:lastmodified":1466698166,
     "wof:name":"Aerco Balloon Port",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "balloon"
     ]
 },
-  "bbox": [-106.631454,35.123547,-106.631454,35.123547],
-  "geometry": {"coordinates":[-106.631454,35.123547],"type":"Point"}
+  "bbox": [
+    -106.631454,
+    35.123547,
+    -106.631454,
+    35.123547
+],
+  "geometry": {"coordinates":[-106.63145400000001,35.123547],"type":"Point"}
 }

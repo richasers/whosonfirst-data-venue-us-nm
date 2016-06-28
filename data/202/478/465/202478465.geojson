@@ -2,13 +2,14 @@
   "id": 202478465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.664132,35.120984,-106.664132,35.120984",
     "geom:latitude":35.120984,
     "geom:longitude":-106.664132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 Cam Gusto NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202478465,
-    "wof:lastmodified":1449060177,
+    "wof:lastmodified":1466698948,
     "wof:name":"Albuquerque Window Cleaning Co",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-106.664132,35.120984,-106.664132,35.120984],
+  "bbox": [
+    -106.664132,
+    35.120984,
+    -106.664132,
+    35.120984
+],
   "geometry": {"coordinates":[-106.664132,35.120984],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186567473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.11297,34.982284,-106.11297,34.982284",
     "geom:latitude":34.982284,
     "geom:longitude":-106.11297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Chavez Rd",
     "sg:city":"Moriarty",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186567473,
-    "wof:lastmodified":1449053043,
+    "wof:lastmodified":1466700534,
     "wof:name":"B&A Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sand"
     ]
 },
-  "bbox": [-106.11297,34.982284,-106.11297,34.982284],
+  "bbox": [
+    -106.11297,
+    34.982284,
+    -106.11297,
+    34.982284
+],
   "geometry": {"coordinates":[-106.11297,34.982284],"type":"Point"}
 }

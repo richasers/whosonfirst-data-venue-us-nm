@@ -2,13 +2,14 @@
   "id": 186002399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.963265,36.717389,-107.963265,36.717389",
     "geom:latitude":36.717389,
     "geom:longitude":-107.963265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Jordan St",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186002399,
-    "wof:lastmodified":1449052524,
+    "wof:lastmodified":1466697711,
     "wof:name":"McKelveys Pottery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.963265,36.717389,-107.963265,36.717389],
-  "geometry": {"coordinates":[-107.963265,36.717389],"type":"Point"}
+  "bbox": [
+    -107.963265,
+    36.717389,
+    -107.963265,
+    36.717389
+],
+  "geometry": {"coordinates":[-107.96326500000001,36.717389],"type":"Point"}
 }

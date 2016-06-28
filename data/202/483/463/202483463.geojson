@@ -2,13 +2,14 @@
   "id": 202483463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.180461,32.798296,-103.180461,32.798296",
     "geom:latitude":32.798296,
     "geom:longitude":-103.180461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 W Alabama St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202483463,
-    "wof:lastmodified":1449062119,
+    "wof:lastmodified":1466699007,
     "wof:name":"En Sueno Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-103.180461,32.798296,-103.180461,32.798296],
-  "geometry": {"coordinates":[-103.180461,32.798296],"type":"Point"}
+  "bbox": [
+    -103.180461,
+    32.798296,
+    -103.180461,
+    32.798296
+],
+  "geometry": {"coordinates":[-103.18046099999999,32.798296],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185791519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.577023,35.134002,-106.577023,35.134002",
     "geom:latitude":35.134002,
     "geom:longitude":-106.577023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6205 Katson Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185791519,
-    "wof:lastmodified":1449007864,
+    "wof:lastmodified":1466699314,
     "wof:name":"Frank Modglin",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.577023,35.134002,-106.577023,35.134002],
+  "bbox": [
+    -106.577023,
+    35.134002,
+    -106.577023,
+    35.134002
+],
   "geometry": {"coordinates":[-106.577023,35.134002],"type":"Point"}
 }

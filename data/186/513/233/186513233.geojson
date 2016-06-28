@@ -2,13 +2,14 @@
   "id": 186513233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.612537,35.170393,-106.612537,35.170393",
     "geom:latitude":35.170393,
     "geom:longitude":-106.612537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7905 Ranchitos Loop NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186513233,
-    "wof:lastmodified":1449052143,
+    "wof:lastmodified":1466700149,
     "wof:name":"Jaz Manufacturing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-106.612537,35.170393,-106.612537,35.170393],
+  "bbox": [
+    -106.612537,
+    35.170393,
+    -106.612537,
+    35.170393
+],
   "geometry": {"coordinates":[-106.612537,35.170393],"type":"Point"}
 }

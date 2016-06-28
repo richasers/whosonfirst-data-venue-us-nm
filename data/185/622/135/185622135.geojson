@@ -2,13 +2,14 @@
   "id": 185622135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.703373,35.153193,-106.703373,35.153193",
     "geom:latitude":35.153193,
     "geom:longitude":-106.703373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5608 Blue Pine Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185622135,
-    "wof:lastmodified":1449007936,
+    "wof:lastmodified":1466697831,
     "wof:name":"Custom Adobe Mechanical",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.703373,35.153193,-106.703373,35.153193],
+  "bbox": [
+    -106.703373,
+    35.153193,
+    -106.703373,
+    35.153193
+],
   "geometry": {"coordinates":[-106.703373,35.153193],"type":"Point"}
 }

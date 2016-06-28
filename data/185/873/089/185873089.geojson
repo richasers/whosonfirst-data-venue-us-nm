@@ -2,13 +2,14 @@
   "id": 185873089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.660764,34.945727,-104.660764,34.945727",
     "geom:latitude":34.945727,
     "geom:longitude":-104.660764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2828 Will Rogers Dr",
     "sg:city":"Santa Rosa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185873089,
-    "wof:lastmodified":1449006950,
+    "wof:lastmodified":1466698240,
     "wof:name":"Route 66 Broadcasting Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-104.660764,34.945727,-104.660764,34.945727],
+  "bbox": [
+    -104.660764,
+    34.945727,
+    -104.660764,
+    34.945727
+],
   "geometry": {"coordinates":[-104.660764,34.945727],"type":"Point"}
 }

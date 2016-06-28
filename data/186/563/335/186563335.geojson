@@ -2,13 +2,14 @@
   "id": 186563335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.011496,35.63817,-106.011496,35.63817",
     "geom:latitude":35.63817,
     "geom:longitude":-106.011496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3569 Zafarano Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186563335,
-    "wof:lastmodified":1449050299,
+    "wof:lastmodified":1466700387,
     "wof:name":"French & French Properties",
     "wof:parent_id":85880823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.011496,35.63817,-106.011496,35.63817],
-  "geometry": {"coordinates":[-106.011496,35.63817],"type":"Point"}
+  "bbox": [
+    -106.011496,
+    35.63817,
+    -106.011496,
+    35.63817
+],
+  "geometry": {"coordinates":[-106.01149599999999,35.63817],"type":"Point"}
 }

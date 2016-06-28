@@ -2,13 +2,14 @@
   "id": 186343715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.736752,35.056994,-106.736752,35.056994",
     "geom:latitude":35.056994,
     "geom:longitude":-106.736752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9319 Sunspot Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186343715,
-    "wof:lastmodified":1449052263,
+    "wof:lastmodified":1466699498,
     "wof:name":"Maestas Concrete Pumping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "pumping"
     ]
 },
-  "bbox": [-106.736752,35.056994,-106.736752,35.056994],
+  "bbox": [
+    -106.736752,
+    35.056994,
+    -106.736752,
+    35.056994
+],
   "geometry": {"coordinates":[-106.736752,35.056994],"type":"Point"}
 }

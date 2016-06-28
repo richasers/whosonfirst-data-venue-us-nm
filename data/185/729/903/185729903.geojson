@@ -2,13 +2,14 @@
   "id": 185729903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.612676,35.103543,-106.612676,35.103543",
     "geom:latitude":35.103543,
     "geom:longitude":-106.612676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Euclid Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":185729903,
-    "wof:lastmodified":1449007443,
+    "wof:lastmodified":1466698973,
     "wof:name":"Schneider Les J Ea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tax"
     ]
 },
-  "bbox": [-106.612676,35.103543,-106.612676,35.103543],
-  "geometry": {"coordinates":[-106.612676,35.103543],"type":"Point"}
+  "bbox": [
+    -106.612676,
+    35.103543,
+    -106.612676,
+    35.103543
+],
+  "geometry": {"coordinates":[-106.61267599999999,35.103543],"type":"Point"}
 }

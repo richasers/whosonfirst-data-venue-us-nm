@@ -2,13 +2,14 @@
   "id": 202496919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.74294,32.374339,-106.74294,32.374339",
     "geom:latitude":32.374339,
     "geom:longitude":-106.74294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4810 Emerald St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202496919,
-    "wof:lastmodified":1449062277,
+    "wof:lastmodified":1466699099,
     "wof:name":"Heavenly Nails",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.74294,32.374339,-106.74294,32.374339],
+  "bbox": [
+    -106.74294,
+    32.374339,
+    -106.74294,
+    32.374339
+],
   "geometry": {"coordinates":[-106.74294,32.374339],"type":"Point"}
 }

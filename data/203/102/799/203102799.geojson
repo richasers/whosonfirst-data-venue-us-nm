@@ -2,13 +2,14 @@
   "id": 203102799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.722203,35.171671,-103.722203,35.171671",
     "geom:latitude":35.171671,
     "geom:longitude":-103.722203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 E Tucumcari Blvd",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203102799,
-    "wof:lastmodified":1449026733,
+    "wof:lastmodified":1466698754,
     "wof:name":"Americana Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.722203,35.171671,-103.722203,35.171671],
-  "geometry": {"coordinates":[-103.722203,35.171671],"type":"Point"}
+  "bbox": [
+    -103.722203,
+    35.171671,
+    -103.722203,
+    35.171671
+],
+  "geometry": {"coordinates":[-103.72220299999999,35.171671],"type":"Point"}
 }

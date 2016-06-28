@@ -2,13 +2,14 @@
   "id": 186587063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.994553,36.823372,-107.994553,36.823372",
     "geom:latitude":36.823372,
     "geom:longitude":-107.994553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Main Ave",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186587063,
-    "wof:lastmodified":1449051310,
+    "wof:lastmodified":1466700586,
     "wof:name":"Sundance Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.994553,36.823372,-107.994553,36.823372],
+  "bbox": [
+    -107.994553,
+    36.823372,
+    -107.994553,
+    36.823372
+],
   "geometry": {"coordinates":[-107.994553,36.823372],"type":"Point"}
 }

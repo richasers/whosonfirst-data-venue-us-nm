@@ -2,13 +2,14 @@
   "id": 185993225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.522355,35.131254,-106.522355,35.131254",
     "geom:latitude":35.131254,
     "geom:longitude":-106.522355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10409 Montgomery Pkwy NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185993225,
-    "wof:lastmodified":1449007323,
+    "wof:lastmodified":1466699611,
     "wof:name":"David S Williams DDS",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-106.522355,35.131254,-106.522355,35.131254],
+  "bbox": [
+    -106.522355,
+    35.131254,
+    -106.522355,
+    35.131254
+],
   "geometry": {"coordinates":[-106.522355,35.131254],"type":"Point"}
 }

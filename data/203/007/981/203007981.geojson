@@ -2,13 +2,14 @@
   "id": 203007981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.494656,35.165426,-106.494656,35.165426",
     "geom:latitude":35.165426,
     "geom:longitude":-106.494656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 Quail Run Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203007981,
-    "wof:lastmodified":1449026520,
+    "wof:lastmodified":1466697674,
     "wof:name":"Ef Design Group Inc",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.494656,35.165426,-106.494656,35.165426],
-  "geometry": {"coordinates":[-106.494656,35.165426],"type":"Point"}
+  "bbox": [
+    -106.494656,
+    35.165426,
+    -106.494656,
+    35.165426
+],
+  "geometry": {"coordinates":[-106.49465600000001,35.165426],"type":"Point"}
 }

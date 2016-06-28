@@ -2,13 +2,14 @@
   "id": 202755183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.356051,35.118016,-106.356051,35.118016",
     "geom:latitude":35.118016,
     "geom:longitude":-106.356051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Sierra Vis",
     "sg:city":"Cedar Crest",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202755183,
-    "wof:lastmodified":1449060839,
+    "wof:lastmodified":1466699808,
     "wof:name":"Cornerstone Cnslting Assoc LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.356051,35.118016,-106.356051,35.118016],
-  "geometry": {"coordinates":[-106.356051,35.118016],"type":"Point"}
+  "bbox": [
+    -106.356051,
+    35.118016,
+    -106.356051,
+    35.118016
+],
+  "geometry": {"coordinates":[-106.35605099999999,35.118016],"type":"Point"}
 }

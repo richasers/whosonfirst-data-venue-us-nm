@@ -2,13 +2,14 @@
   "id": 202974703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.242181,34.117336,-107.242181,34.117336",
     "geom:latitude":34.117336,
     "geom:longitude":-107.242181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 1st St",
     "sg:city":"Magdalena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202974703,
-    "wof:lastmodified":1449062323,
+    "wof:lastmodified":1466700683,
     "wof:name":"Golden Spur Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.242181,34.117336,-107.242181,34.117336],
+  "bbox": [
+    -107.242181,
+    34.117336,
+    -107.242181,
+    34.117336
+],
   "geometry": {"coordinates":[-107.242181,34.117336],"type":"Point"}
 }

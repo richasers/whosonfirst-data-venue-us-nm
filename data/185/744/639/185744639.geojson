@@ -2,13 +2,14 @@
   "id": 185744639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.751906,34.739711,-106.751906,34.739711",
     "geom:latitude":34.739711,
     "geom:longitude":-106.751906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Los Chavez Park Rd",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185744639,
-    "wof:lastmodified":1449007175,
+    "wof:lastmodified":1466699097,
     "wof:name":"First Baptist Of Los Chavez",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.751906,34.739711,-106.751906,34.739711],
-  "geometry": {"coordinates":[-106.751906,34.739711],"type":"Point"}
+  "bbox": [
+    -106.751906,
+    34.739711,
+    -106.751906,
+    34.739711
+],
+  "geometry": {"coordinates":[-106.75190600000001,34.739711],"type":"Point"}
 }

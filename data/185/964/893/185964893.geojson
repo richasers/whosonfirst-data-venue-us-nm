@@ -2,13 +2,14 @@
   "id": 185964893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.258007,32.722435,-108.258007,32.722435",
     "geom:latitude":32.722435,
     "geom:longitude":-108.258007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3761 S Tabor Dr",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185964893,
-    "wof:lastmodified":1449007825,
+    "wof:lastmodified":1466699523,
     "wof:name":"Rascals Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.258007,32.722435,-108.258007,32.722435],
-  "geometry": {"coordinates":[-108.258007,32.722435],"type":"Point"}
+  "bbox": [
+    -108.258007,
+    32.722435,
+    -108.258007,
+    32.722435
+],
+  "geometry": {"coordinates":[-108.25800700000001,32.722435],"type":"Point"}
 }

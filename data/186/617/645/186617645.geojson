@@ -2,13 +2,14 @@
   "id": 186617645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.179712,36.748216,-108.179712,36.748216",
     "geom:latitude":36.748216,
     "geom:longitude":-108.179712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 E 20th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186617645,
-    "wof:lastmodified":1449050357,
+    "wof:lastmodified":1466700700,
     "wof:name":"Animas Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-108.179712,36.748216,-108.179712,36.748216],
-  "geometry": {"coordinates":[-108.179712,36.748216],"type":"Point"}
+  "bbox": [
+    -108.179712,
+    36.748216,
+    -108.179712,
+    36.748216
+],
+  "geometry": {"coordinates":[-108.17971199999999,36.748216],"type":"Point"}
 }

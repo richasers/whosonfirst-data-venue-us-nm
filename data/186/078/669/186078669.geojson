@@ -2,13 +2,14 @@
   "id": 186078669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.672414,33.331712,-105.672414,33.331712",
     "geom:latitude":33.331712,
     "geom:longitude":-105.672414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2524 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186078669,
-    "wof:lastmodified":1449052585,
+    "wof:lastmodified":1466698632,
     "wof:name":"Covered Wagon Collectibles",
     "wof:parent_id":85842645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "collectible"
     ]
 },
-  "bbox": [-105.672414,33.331712,-105.672414,33.331712],
+  "bbox": [
+    -105.672414,
+    33.331712,
+    -105.672414,
+    33.331712
+],
   "geometry": {"coordinates":[-105.672414,33.331712],"type":"Point"}
 }

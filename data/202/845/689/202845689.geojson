@@ -2,13 +2,14 @@
   "id": 202845689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.807418,32.336504,-106.807418,32.336504",
     "geom:latitude":32.336504,
     "geom:longitude":-106.807418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 Aliyah Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202845689,
-    "wof:lastmodified":1449060516,
+    "wof:lastmodified":1466700157,
     "wof:name":"Southwest Support",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.807418,32.336504,-106.807418,32.336504],
+  "bbox": [
+    -106.807418,
+    32.336504,
+    -106.807418,
+    32.336504
+],
   "geometry": {"coordinates":[-106.807418,32.336504],"type":"Point"}
 }

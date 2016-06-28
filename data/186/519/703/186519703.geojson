@@ -2,13 +2,14 @@
   "id": 186519703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.185495,36.717031,-108.185495,36.717031",
     "geom:latitude":36.717031,
     "geom:longitude":-108.185495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 Camina Entrada",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186519703,
-    "wof:lastmodified":1449052854,
+    "wof:lastmodified":1466700424,
     "wof:name":"Jaquez Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.185495,36.717031,-108.185495,36.717031],
+  "bbox": [
+    -108.185495,
+    36.717031,
+    -108.185495,
+    36.717031
+],
   "geometry": {"coordinates":[-108.185495,36.717031],"type":"Point"}
 }

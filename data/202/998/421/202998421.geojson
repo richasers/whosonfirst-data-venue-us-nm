@@ -2,13 +2,14 @@
   "id": 202998421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.716057,32.348959,-108.716057,32.348959",
     "geom:latitude":32.348959,
     "geom:longitude":-108.716057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 W 5th St",
     "sg:city":"Lordsburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202998421,
-    "wof:lastmodified":1449060948,
+    "wof:lastmodified":1466700757,
     "wof:name":"BSA Nursing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "registry"
     ]
 },
-  "bbox": [-108.716057,32.348959,-108.716057,32.348959],
-  "geometry": {"coordinates":[-108.716057,32.348959],"type":"Point"}
+  "bbox": [
+    -108.716057,
+    32.348959,
+    -108.716057,
+    32.348959
+],
+  "geometry": {"coordinates":[-108.71605700000001,32.348959],"type":"Point"}
 }

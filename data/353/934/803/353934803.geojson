@@ -2,13 +2,14 @@
   "id": 353934803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.603172,35.07967,-106.603172,35.07967",
     "geom:latitude":35.07967,
     "geom:longitude":-106.603172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3701 Central Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":353934803,
-    "wof:lastmodified":1449018374,
+    "wof:lastmodified":1466698134,
     "wof:name":"Abq's Nob Hill Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.603172,35.07967,-106.603172,35.07967],
+  "bbox": [
+    -106.603172,
+    35.07967,
+    -106.603172,
+    35.07967
+],
   "geometry": {"coordinates":[-106.603172,35.07967],"type":"Point"}
 }

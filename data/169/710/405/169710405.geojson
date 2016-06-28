@@ -2,13 +2,14 @@
   "id": 169710405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.950348,35.691431,-105.950348,35.691431",
     "geom:latitude":35.691431,
     "geom:longitude":-105.950348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Pso de Peralta",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169710405,
-    "wof:lastmodified":1449032887,
+    "wof:lastmodified":1466697672,
     "wof:name":"Robertos",
     "wof:parent_id":85880833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.950348,35.691431,-105.950348,35.691431],
-  "geometry": {"coordinates":[-105.950348,35.691431],"type":"Point"}
+  "bbox": [
+    -105.950348,
+    35.691431,
+    -105.950348,
+    35.691431
+],
+  "geometry": {"coordinates":[-105.95034800000001,35.691431],"type":"Point"}
 }

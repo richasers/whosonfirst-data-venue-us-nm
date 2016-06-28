@@ -2,13 +2,14 @@
   "id": 186267705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.744904,32.261275,-107.744904,32.261275",
     "geom:latitude":32.261275,
     "geom:longitude":-107.744904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 E Poplar St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186267705,
-    "wof:lastmodified":1449052785,
+    "wof:lastmodified":1466698884,
     "wof:name":"Elias Chavez",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-107.744904,32.261275,-107.744904,32.261275],
-  "geometry": {"coordinates":[-107.744904,32.261275],"type":"Point"}
+  "bbox": [
+    -107.744904,
+    32.261275,
+    -107.744904,
+    32.261275
+],
+  "geometry": {"coordinates":[-107.74490400000001,32.261275],"type":"Point"}
 }

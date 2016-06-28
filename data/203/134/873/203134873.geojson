@@ -2,13 +2,14 @@
   "id": 203134873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.543567,35.070242,-106.543567,35.070242",
     "geom:latitude":35.070242,
     "geom:longitude":-106.543567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Bette Clair St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203134873,
-    "wof:lastmodified":1449026762,
+    "wof:lastmodified":1466699061,
     "wof:name":"Sanchez Referrals",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "investment"
     ]
 },
-  "bbox": [-106.543567,35.070242,-106.543567,35.070242],
+  "bbox": [
+    -106.543567,
+    35.070242,
+    -106.543567,
+    35.070242
+],
   "geometry": {"coordinates":[-106.543567,35.070242],"type":"Point"}
 }

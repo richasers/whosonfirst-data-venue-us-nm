@@ -2,13 +2,14 @@
   "id": 202564641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.75019,32.32089,-106.75019,32.32089",
     "geom:latitude":32.32089,
     "geom:longitude":-106.75019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 N Telshor Blvd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202564641,
-    "wof:lastmodified":1449062499,
+    "wof:lastmodified":1466697865,
     "wof:name":"Jim Sosa's Weight Loss Ctr",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-106.75019,32.32089,-106.75019,32.32089],
+  "bbox": [
+    -106.75019,
+    32.32089,
+    -106.75019,
+    32.32089
+],
   "geometry": {"coordinates":[-106.75019,32.32089],"type":"Point"}
 }

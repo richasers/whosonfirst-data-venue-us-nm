@@ -2,13 +2,14 @@
   "id": 202687599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.600054,35.173697,-106.600054,35.173697",
     "geom:latitude":35.173697,
     "geom:longitude":-106.600054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7911 Lorraine Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202687599,
-    "wof:lastmodified":1449060828,
+    "wof:lastmodified":1466699552,
     "wof:name":"Intermountain Tint & Glass",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tinting"
     ]
 },
-  "bbox": [-106.600054,35.173697,-106.600054,35.173697],
+  "bbox": [
+    -106.600054,
+    35.173697,
+    -106.600054,
+    35.173697
+],
   "geometry": {"coordinates":[-106.600054,35.173697],"type":"Point"}
 }

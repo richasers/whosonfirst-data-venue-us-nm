@@ -2,13 +2,14 @@
   "id": 186486441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.709017,35.155426,-106.709017,35.155426",
     "geom:latitude":35.155426,
     "geom:longitude":-106.709017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6100 Chimayo Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186486441,
-    "wof:lastmodified":1449051875,
+    "wof:lastmodified":1466700182,
     "wof:name":"Bear Appliance Repair",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-106.709017,35.155426,-106.709017,35.155426],
+  "bbox": [
+    -106.709017,
+    35.155426,
+    -106.709017,
+    35.155426
+],
   "geometry": {"coordinates":[-106.709017,35.155426],"type":"Point"}
 }

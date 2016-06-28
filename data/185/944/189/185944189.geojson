@@ -2,13 +2,14 @@
   "id": 185944189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.034904,33.100215,-106.034904,33.100215",
     "geom:latitude":33.100215,
     "geom:longitude":-106.034904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Coyote Canyon Rd",
     "sg:city":"Tularosa",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":185944189,
-    "wof:lastmodified":1449007435,
+    "wof:lastmodified":1466699131,
     "wof:name":"Tularosa Vineyards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [-106.034904,33.100215,-106.034904,33.100215],
+  "bbox": [
+    -106.034904,
+    33.100215,
+    -106.034904,
+    33.100215
+],
   "geometry": {"coordinates":[-106.034904,33.100215],"type":"Point"}
 }

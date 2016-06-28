@@ -2,13 +2,14 @@
   "id": 169866641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.775058,32.317775,-106.775058,32.317775",
     "geom:latitude":32.317775,
     "geom:longitude":-106.775058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 N Tornillo St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169866641,
-    "wof:lastmodified":1449034250,
+    "wof:lastmodified":1466698993,
     "wof:name":"Mesquite Community Project",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-106.775058,32.317775,-106.775058,32.317775],
+  "bbox": [
+    -106.775058,
+    32.317775,
+    -106.775058,
+    32.317775
+],
   "geometry": {"coordinates":[-106.775058,32.317775],"type":"Point"}
 }

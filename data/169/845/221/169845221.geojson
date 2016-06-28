@@ -2,13 +2,14 @@
   "id": 169845221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.636732,35.137831,-106.636732,35.137831",
     "geom:latitude":35.137831,
     "geom:longitude":-106.636732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5244 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169845221,
-    "wof:lastmodified":1449033235,
+    "wof:lastmodified":1466698859,
     "wof:name":"AMS Entertainment",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-106.636732,35.137831,-106.636732,35.137831],
-  "geometry": {"coordinates":[-106.636732,35.137831],"type":"Point"}
+  "bbox": [
+    -106.636732,
+    35.137831,
+    -106.636732,
+    35.137831
+],
+  "geometry": {"coordinates":[-106.63673199999999,35.137831],"type":"Point"}
 }

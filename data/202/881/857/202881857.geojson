@@ -2,13 +2,14 @@
   "id": 202881857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.709836,32.354346,-108.709836,32.354346",
     "geom:latitude":32.354346,
     "geom:longitude":-108.709836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 Gale St",
     "sg:city":"Lordsburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202881857,
-    "wof:lastmodified":1449061584,
+    "wof:lastmodified":1466700285,
     "wof:name":"King Arthur's Court Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-108.709836,32.354346,-108.709836,32.354346],
+  "bbox": [
+    -108.709836,
+    32.354346,
+    -108.709836,
+    32.354346
+],
   "geometry": {"coordinates":[-108.709836,32.354346],"type":"Point"}
 }

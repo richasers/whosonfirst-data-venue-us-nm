@@ -2,13 +2,14 @@
   "id": 202529959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.671078,35.135265,-106.671078,35.135265",
     "geom:latitude":35.135265,
     "geom:longitude":-106.671078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2534 Elfego Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202529959,
-    "wof:lastmodified":1449061233,
+    "wof:lastmodified":1466699289,
     "wof:name":"Michael Eaves Development",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [-106.671078,35.135265,-106.671078,35.135265],
-  "geometry": {"coordinates":[-106.671078,35.135265],"type":"Point"}
+  "bbox": [
+    -106.671078,
+    35.135265,
+    -106.671078,
+    35.135265
+],
+  "geometry": {"coordinates":[-106.67107799999999,35.135265],"type":"Point"}
 }

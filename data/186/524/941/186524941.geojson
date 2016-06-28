@@ -2,13 +2,14 @@
   "id": 186524941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.532997,35.140529,-106.532997,35.140529",
     "geom:latitude":35.140529,
     "geom:longitude":-106.532997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5528 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186524941,
-    "wof:lastmodified":1449050227,
+    "wof:lastmodified":1466700443,
     "wof:name":"Eastern Hills Christian Acad",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.532997,35.140529,-106.532997,35.140529],
-  "geometry": {"coordinates":[-106.532997,35.140529],"type":"Point"}
+  "bbox": [
+    -106.532997,
+    35.140529,
+    -106.532997,
+    35.140529
+],
+  "geometry": {"coordinates":[-106.53299699999999,35.140529],"type":"Point"}
 }

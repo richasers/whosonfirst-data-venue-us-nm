@@ -2,13 +2,14 @@
   "id": 202569533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.889081,34.050547,-106.889081,34.050547",
     "geom:latitude":34.050547,
     "geom:longitude":-106.889081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Meek St",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202569533,
-    "wof:lastmodified":1449062536,
+    "wof:lastmodified":1466697931,
     "wof:name":"National Assoc of Letter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.889081,34.050547,-106.889081,34.050547],
+  "bbox": [
+    -106.889081,
+    34.050547,
+    -106.889081,
+    34.050547
+],
   "geometry": {"coordinates":[-106.889081,34.050547],"type":"Point"}
 }

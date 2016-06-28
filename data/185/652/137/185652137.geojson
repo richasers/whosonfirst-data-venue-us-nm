@@ -2,13 +2,14 @@
   "id": 185652137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.080184,35.992017,-106.080184,35.992017",
     "geom:latitude":35.992017,
     "geom:longitude":-106.080184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 N Railroad Ave",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185652137,
-    "wof:lastmodified":1449007640,
+    "wof:lastmodified":1466698154,
     "wof:name":"Norge Town Laundry & Dry Clnrs",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-106.080184,35.992017,-106.080184,35.992017],
+  "bbox": [
+    -106.080184,
+    35.992017,
+    -106.080184,
+    35.992017
+],
   "geometry": {"coordinates":[-106.080184,35.992017],"type":"Point"}
 }

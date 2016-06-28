@@ -2,13 +2,14 @@
   "id": 185996777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.027092,35.722026,-106.027092,35.722026",
     "geom:latitude":35.722026,
     "geom:longitude":-106.027092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Pso de la Tierra",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185996777,
-    "wof:lastmodified":1449007043,
+    "wof:lastmodified":1466699648,
     "wof:name":"Centava",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.027092,35.722026,-106.027092,35.722026],
+  "bbox": [
+    -106.027092,
+    35.722026,
+    -106.027092,
+    35.722026
+],
   "geometry": {"coordinates":[-106.027092,35.722026],"type":"Point"}
 }

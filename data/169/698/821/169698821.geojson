@@ -2,13 +2,14 @@
   "id": 169698821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.732918,34.801163,-106.732918,34.801163",
     "geom:latitude":34.801163,
     "geom:longitude":-106.732918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"447 Courthouse Rd",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169698821,
-    "wof:lastmodified":1449035755,
+    "wof:lastmodified":1466697655,
     "wof:name":"Heights Plumbing & Heating",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.732918,34.801163,-106.732918,34.801163],
+  "bbox": [
+    -106.732918,
+    34.801163,
+    -106.732918,
+    34.801163
+],
   "geometry": {"coordinates":[-106.732918,34.801163],"type":"Point"}
 }

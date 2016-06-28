@@ -2,13 +2,14 @@
   "id": 202524731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.898191,36.923166,-107.898191,36.923166",
     "geom:latitude":36.923166,
     "geom:longitude":-107.898191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Rd 2391",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202524731,
-    "wof:lastmodified":1449060088,
+    "wof:lastmodified":1466699268,
     "wof:name":"Gunn Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-107.898191,36.923166,-107.898191,36.923166],
+  "bbox": [
+    -107.898191,
+    36.923166,
+    -107.898191,
+    36.923166
+],
   "geometry": {"coordinates":[-107.898191,36.923166],"type":"Point"}
 }

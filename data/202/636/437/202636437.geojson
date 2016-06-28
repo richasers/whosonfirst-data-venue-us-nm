@@ -2,13 +2,14 @@
   "id": 202636437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.182601,36.719404,-108.182601,36.719404",
     "geom:latitude":36.719404,
     "geom:longitude":-108.182601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Bloomfield Hwy",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202636437,
-    "wof:lastmodified":1449061125,
+    "wof:lastmodified":1466698933,
     "wof:name":"Royal Spa Fitness Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-108.182601,36.719404,-108.182601,36.719404],
-  "geometry": {"coordinates":[-108.182601,36.719404],"type":"Point"}
+  "bbox": [
+    -108.182601,
+    36.719404,
+    -108.182601,
+    36.719404
+],
+  "geometry": {"coordinates":[-108.18260100000001,36.719404],"type":"Point"}
 }

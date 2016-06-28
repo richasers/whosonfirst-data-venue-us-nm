@@ -2,13 +2,14 @@
   "id": 169748875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.644535,32.430779,-106.644535,32.430779",
     "geom:latitude":32.430779,
     "geom:longitude":-106.644535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6890 Fox Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169748875,
-    "wof:lastmodified":1449035145,
+    "wof:lastmodified":1466698068,
     "wof:name":"On Demand Transport LLC",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.644535,32.430779,-106.644535,32.430779],
+  "bbox": [
+    -106.644535,
+    32.430779,
+    -106.644535,
+    32.430779
+],
   "geometry": {"coordinates":[-106.644535,32.430779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202638509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.7393,34.807181,-106.7393,34.807181",
     "geom:latitude":34.807181,
     "geom:longitude":-106.7393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"228 Sandoval Rd SW",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202638509,
-    "wof:lastmodified":1449060239,
+    "wof:lastmodified":1466698970,
     "wof:name":"Fox Electric",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.7393,34.807181,-106.7393,34.807181],
+  "bbox": [
+    -106.7393,
+    34.807181,
+    -106.7393,
+    34.807181
+],
   "geometry": {"coordinates":[-106.7393,34.807181],"type":"Point"}
 }

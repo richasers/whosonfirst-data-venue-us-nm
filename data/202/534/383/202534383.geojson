@@ -2,13 +2,14 @@
   "id": 202534383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.252494,32.787497,-108.252494,32.787497",
     "geom:latitude":32.787497,
     "geom:longitude":-108.252494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 US Hwy 180 E",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202534383,
-    "wof:lastmodified":1449060772,
+    "wof:lastmodified":1466699291,
     "wof:name":"Smartstyle Family Salon 3274",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-108.252494,32.787497,-108.252494,32.787497],
+  "bbox": [
+    -108.252494,
+    32.787497,
+    -108.252494,
+    32.787497
+],
   "geometry": {"coordinates":[-108.252494,32.787497],"type":"Point"}
 }

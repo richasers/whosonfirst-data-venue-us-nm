@@ -2,13 +2,14 @@
   "id": 203137203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.496788,35.053864,-106.496788,35.053864",
     "geom:latitude":35.053864,
     "geom:longitude":-106.496788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Lamp Post Cir SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203137203,
-    "wof:lastmodified":1449026599,
+    "wof:lastmodified":1466699060,
     "wof:name":"Lewis Cambell & Assoc",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.496788,35.053864,-106.496788,35.053864],
+  "bbox": [
+    -106.496788,
+    35.053864,
+    -106.496788,
+    35.053864
+],
   "geometry": {"coordinates":[-106.496788,35.053864],"type":"Point"}
 }

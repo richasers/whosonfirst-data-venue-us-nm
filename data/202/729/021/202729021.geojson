@@ -2,13 +2,14 @@
   "id": 202729021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.765146,34.656134,-106.765146,34.656134",
     "geom:latitude":34.656134,
     "geom:longitude":-106.765146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Marquez Rd",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202729021,
-    "wof:lastmodified":1449061402,
+    "wof:lastmodified":1466699714,
     "wof:name":"Valley Contracting Company",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.765146,34.656134,-106.765146,34.656134],
+  "bbox": [
+    -106.765146,
+    34.656134,
+    -106.765146,
+    34.656134
+],
   "geometry": {"coordinates":[-106.765146,34.656134],"type":"Point"}
 }

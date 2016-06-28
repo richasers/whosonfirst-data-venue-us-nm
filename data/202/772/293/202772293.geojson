@@ -2,13 +2,14 @@
   "id": 202772293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604364,34.794483,-106.604364,34.794483",
     "geom:latitude":34.794483,
     "geom:longitude":-106.604364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Pinto Rd",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202772293,
-    "wof:lastmodified":1449061261,
+    "wof:lastmodified":1466699850,
     "wof:name":"Wall Aspects",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-106.604364,34.794483,-106.604364,34.794483],
+  "bbox": [
+    -106.604364,
+    34.794483,
+    -106.604364,
+    34.794483
+],
   "geometry": {"coordinates":[-106.604364,34.794483],"type":"Point"}
 }

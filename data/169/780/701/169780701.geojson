@@ -2,13 +2,14 @@
   "id": 169780701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.774596,34.661131,-106.774596,34.661131",
     "geom:latitude":34.661131,
     "geom:longitude":-106.774596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 Dalies Ave",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169780701,
-    "wof:lastmodified":1449035142,
+    "wof:lastmodified":1466698353,
     "wof:name":"Valley Disposal Service",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-106.774596,34.661131,-106.774596,34.661131],
+  "bbox": [
+    -106.774596,
+    34.661131,
+    -106.774596,
+    34.661131
+],
   "geometry": {"coordinates":[-106.774596,34.661131],"type":"Point"}
 }

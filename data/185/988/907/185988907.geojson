@@ -2,13 +2,14 @@
   "id": 185988907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.597059,35.109215,-106.597059,35.109215",
     "geom:latitude":35.109215,
     "geom:longitude":-106.597059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":185988907,
-    "wof:lastmodified":1449007148,
+    "wof:lastmodified":1466699708,
     "wof:name":"Old World Imports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.597059,35.109215,-106.597059,35.109215],
+  "bbox": [
+    -106.597059,
+    35.109215,
+    -106.597059,
+    35.109215
+],
   "geometry": {"coordinates":[-106.597059,35.109215],"type":"Point"}
 }

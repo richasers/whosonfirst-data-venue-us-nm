@@ -2,13 +2,14 @@
   "id": 185802227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.229082,32.417815,-104.229082,32.417815",
     "geom:latitude":32.417815,
     "geom:longitude":-104.229082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 S Canal St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185802227,
-    "wof:lastmodified":1449007925,
+    "wof:lastmodified":1466699350,
     "wof:name":"Roger's Vacuum Cleaner Co",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-104.229082,32.417815,-104.229082,32.417815],
-  "geometry": {"coordinates":[-104.229082,32.417815],"type":"Point"}
+  "bbox": [
+    -104.229082,
+    32.417815,
+    -104.229082,
+    32.417815
+],
+  "geometry": {"coordinates":[-104.22908200000001,32.417815],"type":"Point"}
 }

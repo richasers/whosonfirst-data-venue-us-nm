@@ -2,13 +2,14 @@
   "id": 353973367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.675125,31.901488,-106.675125,31.901488",
     "geom:latitude":31.901488,
     "geom:longitude":-106.675125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Mountain Vista St",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353973367,
-    "wof:lastmodified":1449019805,
+    "wof:lastmodified":1466699581,
     "wof:name":"Casa De Suenos Country Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "lodging"
     ]
 },
-  "bbox": [-106.675125,31.901488,-106.675125,31.901488],
-  "geometry": {"coordinates":[-106.675125,31.901488],"type":"Point"}
+  "bbox": [
+    -106.675125,
+    31.901488,
+    -106.675125,
+    31.901488
+],
+  "geometry": {"coordinates":[-106.67512499999999,31.901488],"type":"Point"}
 }

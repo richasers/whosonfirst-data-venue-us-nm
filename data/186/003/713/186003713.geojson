@@ -2,13 +2,14 @@
   "id": 186003713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.685308,35.0268,-106.685308,35.0268",
     "geom:latitude":35.0268,
     "geom:longitude":-106.685308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 Rio Bravo Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186003713,
-    "wof:lastmodified":1449052818,
+    "wof:lastmodified":1466697727,
     "wof:name":"Style America",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.685308,35.0268,-106.685308,35.0268],
-  "geometry": {"coordinates":[-106.685308,35.0268],"type":"Point"}
+  "bbox": [
+    -106.685308,
+    35.0268,
+    -106.685308,
+    35.0268
+],
+  "geometry": {"coordinates":[-106.68530800000001,35.0268],"type":"Point"}
 }

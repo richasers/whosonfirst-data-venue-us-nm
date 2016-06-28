@@ -2,13 +2,14 @@
   "id": 185663825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.938151,35.683829,-105.938151,35.683829",
     "geom:latitude":35.683829,
     "geom:longitude":-105.938151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 E de Vargas St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185663825,
-    "wof:lastmodified":1449007776,
+    "wof:lastmodified":1466698276,
     "wof:name":"1001 Nights",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "legal"
     ]
 },
-  "bbox": [-105.938151,35.683829,-105.938151,35.683829],
+  "bbox": [
+    -105.938151,
+    35.683829,
+    -105.938151,
+    35.683829
+],
   "geometry": {"coordinates":[-105.938151,35.683829],"type":"Point"}
 }

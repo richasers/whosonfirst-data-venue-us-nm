@@ -2,13 +2,14 @@
   "id": 169836927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.507638,35.107665,-106.507638,35.107665",
     "geom:latitude":35.107665,
     "geom:longitude":-106.507638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12109 Towner Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169836927,
-    "wof:lastmodified":1449034871,
+    "wof:lastmodified":1466698850,
     "wof:name":"Increased Sales",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "demonstration"
     ]
 },
-  "bbox": [-106.507638,35.107665,-106.507638,35.107665],
+  "bbox": [
+    -106.507638,
+    35.107665,
+    -106.507638,
+    35.107665
+],
   "geometry": {"coordinates":[-106.507638,35.107665],"type":"Point"}
 }

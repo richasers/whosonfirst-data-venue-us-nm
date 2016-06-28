@@ -2,13 +2,14 @@
   "id": 202917497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.593559,35.16089,-106.593559,35.16089",
     "geom:latitude":35.16089,
     "geom:longitude":-106.593559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 Ellison St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202917497,
-    "wof:lastmodified":1449062323,
+    "wof:lastmodified":1466700416,
     "wof:name":"D Electric Inc",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.593559,35.16089,-106.593559,35.16089],
+  "bbox": [
+    -106.593559,
+    35.16089,
+    -106.593559,
+    35.16089
+],
   "geometry": {"coordinates":[-106.593559,35.16089],"type":"Point"}
 }

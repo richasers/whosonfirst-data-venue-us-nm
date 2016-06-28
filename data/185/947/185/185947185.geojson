@@ -2,13 +2,14 @@
   "id": 185947185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.323908,35.904376,-106.323908,35.904376",
     "geom:latitude":35.904376,
     "geom:longitude":-106.323908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4033 Arizona Ave",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185947185,
-    "wof:lastmodified":1449007755,
+    "wof:lastmodified":1466699177,
     "wof:name":"Dynamic Outdoor Mtn Exprnce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mountain"
     ]
 },
-  "bbox": [-106.323908,35.904376,-106.323908,35.904376],
+  "bbox": [
+    -106.323908,
+    35.904376,
+    -106.323908,
+    35.904376
+],
   "geometry": {"coordinates":[-106.323908,35.904376],"type":"Point"}
 }

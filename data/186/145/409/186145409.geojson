@@ -2,13 +2,14 @@
   "id": 186145409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.645662,35.223938,-106.645662,35.223938",
     "geom:latitude":35.223938,
     "geom:longitude":-106.645662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 Cielo Azul",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186145409,
-    "wof:lastmodified":1449051194,
+    "wof:lastmodified":1466699233,
     "wof:name":"Clear Creek Aviation LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.645662,35.223938,-106.645662,35.223938],
+  "bbox": [
+    -106.645662,
+    35.223938,
+    -106.645662,
+    35.223938
+],
   "geometry": {"coordinates":[-106.645662,35.223938],"type":"Point"}
 }

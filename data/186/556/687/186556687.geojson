@@ -2,13 +2,14 @@
   "id": 186556687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.663003,35.123535,-106.663003,35.123535",
     "geom:latitude":35.123535,
     "geom:longitude":-106.663003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1835 Candelaria Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186556687,
-    "wof:lastmodified":1449051055,
+    "wof:lastmodified":1466700478,
     "wof:name":"High Desert Yoga",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "yoga"
     ]
 },
-  "bbox": [-106.663003,35.123535,-106.663003,35.123535],
+  "bbox": [
+    -106.663003,
+    35.123535,
+    -106.663003,
+    35.123535
+],
   "geometry": {"coordinates":[-106.663003,35.123535],"type":"Point"}
 }

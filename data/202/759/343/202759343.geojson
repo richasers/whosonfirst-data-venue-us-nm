@@ -2,13 +2,14 @@
   "id": 202759343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.496903,33.363263,-104.496903,33.363263",
     "geom:latitude":33.363263,
     "geom:longitude":-104.496903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2404 Kallahin Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202759343,
-    "wof:lastmodified":1449062693,
+    "wof:lastmodified":1466699830,
     "wof:name":"Milk Transport Services LP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hauling"
     ]
 },
-  "bbox": [-104.496903,33.363263,-104.496903,33.363263],
+  "bbox": [
+    -104.496903,
+    33.363263,
+    -104.496903,
+    33.363263
+],
   "geometry": {"coordinates":[-104.496903,33.363263],"type":"Point"}
 }

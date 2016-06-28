@@ -2,13 +2,14 @@
   "id": 202588955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.620873,35.079831,-106.620873,35.079831",
     "geom:latitude":35.079831,
     "geom:longitude":-106.620873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Harvard Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202588955,
-    "wof:lastmodified":1449062166,
+    "wof:lastmodified":1466698228,
     "wof:name":"Caravan Dreams Dance Studio",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.620873,35.079831,-106.620873,35.079831],
+  "bbox": [
+    -106.620873,
+    35.079831,
+    -106.620873,
+    35.079831
+],
   "geometry": {"coordinates":[-106.620873,35.079831],"type":"Point"}
 }

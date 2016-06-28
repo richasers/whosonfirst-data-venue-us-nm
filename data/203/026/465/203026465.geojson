@@ -2,13 +2,14 @@
   "id": 203026465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.497637,35.177169,-106.497637,35.177169",
     "geom:latitude":35.177169,
     "geom:longitude":-106.497637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12621 Colony Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203026465,
-    "wof:lastmodified":1449026064,
+    "wof:lastmodified":1466697889,
     "wof:name":"Marketplace Technology",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.497637,35.177169,-106.497637,35.177169],
+  "bbox": [
+    -106.497637,
+    35.177169,
+    -106.497637,
+    35.177169
+],
   "geometry": {"coordinates":[-106.497637,35.177169],"type":"Point"}
 }

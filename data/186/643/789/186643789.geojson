@@ -2,13 +2,14 @@
   "id": 186643789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613701,35.119449,-106.613701,35.119449",
     "geom:latitude":35.119449,
     "geom:longitude":-106.613701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3440 Girard Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":186643789,
-    "wof:lastmodified":1449052663,
+    "wof:lastmodified":1466700879,
     "wof:name":"Westfleet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "cap"
     ]
 },
-  "bbox": [-106.613701,35.119449,-106.613701,35.119449],
-  "geometry": {"coordinates":[-106.613701,35.119449],"type":"Point"}
+  "bbox": [
+    -106.613701,
+    35.119449,
+    -106.613701,
+    35.119449
+],
+  "geometry": {"coordinates":[-106.61370100000001,35.119449],"type":"Point"}
 }

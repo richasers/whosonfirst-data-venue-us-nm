@@ -2,13 +2,14 @@
   "id": 186536275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.609496,35.073947,-106.609496,35.073947",
     "geom:latitude":35.073947,
     "geom:longitude":-106.609496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Bryn Mawr Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186536275,
-    "wof:lastmodified":1449051970,
+    "wof:lastmodified":1466700349,
     "wof:name":"MBI Inc",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.609496,35.073947,-106.609496,35.073947],
-  "geometry": {"coordinates":[-106.609496,35.073947],"type":"Point"}
+  "bbox": [
+    -106.609496,
+    35.073947,
+    -106.609496,
+    35.073947
+],
+  "geometry": {"coordinates":[-106.60949599999999,35.073947],"type":"Point"}
 }

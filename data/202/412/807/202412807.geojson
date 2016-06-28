@@ -2,13 +2,14 @@
   "id": 202412807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.623514,35.193631,-106.623514,35.193631",
     "geom:latitude":35.193631,
     "geom:longitude":-106.623514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Golden Meadow Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202412807,
-    "wof:lastmodified":1449060627,
+    "wof:lastmodified":1466698108,
     "wof:name":"George Ann Drennan Educational",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "educational"
     ]
 },
-  "bbox": [-106.623514,35.193631,-106.623514,35.193631],
+  "bbox": [
+    -106.623514,
+    35.193631,
+    -106.623514,
+    35.193631
+],
   "geometry": {"coordinates":[-106.623514,35.193631],"type":"Point"}
 }

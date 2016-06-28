@@ -2,13 +2,14 @@
   "id": 186101995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.764389,34.708593,-106.764389,34.708593",
     "geom:latitude":34.708593,
     "geom:longitude":-106.764389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Ventura Rd",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186101995,
-    "wof:lastmodified":1449051788,
+    "wof:lastmodified":1466698939,
     "wof:name":"Creations By Rj",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "doll"
     ]
 },
-  "bbox": [-106.764389,34.708593,-106.764389,34.708593],
-  "geometry": {"coordinates":[-106.764389,34.708593],"type":"Point"}
+  "bbox": [
+    -106.764389,
+    34.708593,
+    -106.764389,
+    34.708593
+],
+  "geometry": {"coordinates":[-106.76438899999999,34.708593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185676743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.045994,35.605481,-106.045994,35.605481",
     "geom:latitude":35.605481,
     "geom:longitude":-106.045994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Reata Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185676743,
-    "wof:lastmodified":1449007629,
+    "wof:lastmodified":1466698423,
     "wof:name":"Capitol Drilling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drilling"
     ]
 },
-  "bbox": [-106.045994,35.605481,-106.045994,35.605481],
-  "geometry": {"coordinates":[-106.045994,35.605481],"type":"Point"}
+  "bbox": [
+    -106.045994,
+    35.605481,
+    -106.045994,
+    35.605481
+],
+  "geometry": {"coordinates":[-106.04599399999999,35.605481],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202711573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.347215,32.94404,-103.347215,32.94404",
     "geom:latitude":32.94404,
     "geom:longitude":-103.347215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 E Ave D",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202711573,
-    "wof:lastmodified":1449062202,
+    "wof:lastmodified":1466699489,
     "wof:name":"Lea County Farm & Livestock Bu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.347215,32.94404,-103.347215,32.94404],
-  "geometry": {"coordinates":[-103.347215,32.94404],"type":"Point"}
+  "bbox": [
+    -103.347215,
+    32.94404,
+    -103.347215,
+    32.94404
+],
+  "geometry": {"coordinates":[-103.34721500000001,32.94404],"type":"Point"}
 }

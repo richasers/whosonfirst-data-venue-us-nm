@@ -2,13 +2,14 @@
   "id": 186584999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.193662,32.120094,-103.193662,32.120094",
     "geom:latitude":32.120094,
     "geom:longitude":-103.193662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"186 State Hwy 128",
     "sg:city":"Jal",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186584999,
-    "wof:lastmodified":1449050542,
+    "wof:lastmodified":1466700485,
     "wof:name":"James Hamilton Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.193662,32.120094,-103.193662,32.120094],
+  "bbox": [
+    -103.193662,
+    32.120094,
+    -103.193662,
+    32.120094
+],
   "geometry": {"coordinates":[-103.193662,32.120094],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186460703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.636364,35.242252,-106.636364,35.242252",
     "geom:latitude":35.242252,
     "geom:longitude":-106.636364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Mission Ridge Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186460703,
-    "wof:lastmodified":1449052882,
+    "wof:lastmodified":1466700077,
     "wof:name":"Desiderata Mind Body Solutions",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.636364,35.242252,-106.636364,35.242252],
+  "bbox": [
+    -106.636364,
+    35.242252,
+    -106.636364,
+    35.242252
+],
   "geometry": {"coordinates":[-106.636364,35.242252],"type":"Point"}
 }

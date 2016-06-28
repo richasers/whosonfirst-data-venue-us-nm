@@ -2,13 +2,14 @@
   "id": 202378521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.910231,35.545263,-105.910231,35.545263",
     "geom:latitude":35.545263,
     "geom:longitude":-105.910231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Verano Loop",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202378521,
-    "wof:lastmodified":1449061806,
+    "wof:lastmodified":1466697652,
     "wof:name":"Chuck Hauling and Repair",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-105.910231,35.545263,-105.910231,35.545263],
+  "bbox": [
+    -105.910231,
+    35.545263,
+    -105.910231,
+    35.545263
+],
   "geometry": {"coordinates":[-105.910231,35.545263],"type":"Point"}
 }

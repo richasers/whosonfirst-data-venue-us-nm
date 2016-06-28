@@ -2,13 +2,14 @@
   "id": 202960801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.207624,36.753378,-108.207624,36.753378",
     "geom:latitude":36.753378,
     "geom:longitude":-108.207624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 26th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202960801,
-    "wof:lastmodified":1449061923,
+    "wof:lastmodified":1466700609,
     "wof:name":"Dunn Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.207624,36.753378,-108.207624,36.753378],
+  "bbox": [
+    -108.207624,
+    36.753378,
+    -108.207624,
+    36.753378
+],
   "geometry": {"coordinates":[-108.207624,36.753378],"type":"Point"}
 }

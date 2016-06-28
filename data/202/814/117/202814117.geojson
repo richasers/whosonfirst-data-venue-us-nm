@@ -2,13 +2,14 @@
   "id": 202814117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.733394,32.298332,-106.733394,32.298332",
     "geom:latitude":32.298332,
     "geom:longitude":-106.733394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 Imperial Ridge St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202814117,
-    "wof:lastmodified":1449060571,
+    "wof:lastmodified":1466700011,
     "wof:name":"Accnet",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-106.733394,32.298332,-106.733394,32.298332],
+  "bbox": [
+    -106.733394,
+    32.298332,
+    -106.733394,
+    32.298332
+],
   "geometry": {"coordinates":[-106.733394,32.298332],"type":"Point"}
 }

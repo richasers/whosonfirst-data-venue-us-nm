@@ -2,13 +2,14 @@
   "id": 202960641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.723721,35.099995,-106.723721,35.099995",
     "geom:latitude":35.099995,
     "geom:longitude":-106.723721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7711 Tanbark Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202960641,
-    "wof:lastmodified":1449061923,
+    "wof:lastmodified":1466700606,
     "wof:name":"C & B Technology Solutions",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-106.723721,35.099995,-106.723721,35.099995],
+  "bbox": [
+    -106.723721,
+    35.099995,
+    -106.723721,
+    35.099995
+],
   "geometry": {"coordinates":[-106.723721,35.099995],"type":"Point"}
 }

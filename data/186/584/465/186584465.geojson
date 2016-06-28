@@ -2,13 +2,14 @@
   "id": 186584465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.708416,35.209303,-106.708416,35.209303",
     "geom:latitude":35.209303,
     "geom:longitude":-106.708416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10501 Cassiopeia St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186584465,
-    "wof:lastmodified":1449050538,
+    "wof:lastmodified":1466700476,
     "wof:name":"Wise1 Information Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.708416,35.209303,-106.708416,35.209303],
+  "bbox": [
+    -106.708416,
+    35.209303,
+    -106.708416,
+    35.209303
+],
   "geometry": {"coordinates":[-106.708416,35.209303],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353913713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.776894,34.660858,-106.776894,34.660858",
     "geom:latitude":34.660858,
     "geom:longitude":-106.776894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Main St",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353913713,
-    "wof:lastmodified":1449019249,
+    "wof:lastmodified":1466697610,
     "wof:name":"E80 - Alexander Belen Municipal Airport",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airport"
     ]
 },
-  "bbox": [-106.776894,34.660858,-106.776894,34.660858],
+  "bbox": [
+    -106.776894,
+    34.660858,
+    -106.776894,
+    34.660858
+],
   "geometry": {"coordinates":[-106.776894,34.660858],"type":"Point"}
 }

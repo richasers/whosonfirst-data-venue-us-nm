@@ -2,13 +2,14 @@
   "id": 202947387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.200064,35.064878,-106.200064,35.064878",
     "geom:latitude":35.064878,
     "geom:longitude":-106.200064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1912 Old Hwy 66 Alt",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202947387,
-    "wof:lastmodified":1449061942,
+    "wof:lastmodified":1466700536,
     "wof:name":"Edgewood Feed & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-106.200064,35.064878,-106.200064,35.064878],
+  "bbox": [
+    -106.200064,
+    35.064878,
+    -106.200064,
+    35.064878
+],
   "geometry": {"coordinates":[-106.200064,35.064878],"type":"Point"}
 }

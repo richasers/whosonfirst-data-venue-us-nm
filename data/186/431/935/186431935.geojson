@@ -2,13 +2,14 @@
   "id": 186431935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.786308,32.303482,-106.786308,32.303482",
     "geom:latitude":32.303482,
     "geom:longitude":-106.786308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 S Compress Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186431935,
-    "wof:lastmodified":1449050695,
+    "wof:lastmodified":1466699976,
     "wof:name":"FSH Communications",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.786308,32.303482,-106.786308,32.303482],
-  "geometry": {"coordinates":[-106.786308,32.303482],"type":"Point"}
+  "bbox": [
+    -106.786308,
+    32.303482,
+    -106.786308,
+    32.303482
+],
+  "geometry": {"coordinates":[-106.78630800000001,32.303482],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186622441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.927431,35.68146,-105.927431,35.68146",
     "geom:latitude":35.68146,
     "geom:longitude":-105.927431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 Canyon Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186622441,
-    "wof:lastmodified":1449052525,
+    "wof:lastmodified":1466700716,
     "wof:name":"Gallery Corazon",
     "wof:parent_id":85880803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.927431,35.68146,-105.927431,35.68146],
+  "bbox": [
+    -105.927431,
+    35.68146,
+    -105.927431,
+    35.68146
+],
   "geometry": {"coordinates":[-105.927431,35.68146],"type":"Point"}
 }

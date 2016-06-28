@@ -2,13 +2,14 @@
   "id": 202545011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.542199,35.12914,-106.542199,35.12914",
     "geom:latitude":35.12914,
     "geom:longitude":-106.542199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9005 Natalie Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202545011,
-    "wof:lastmodified":1449060723,
+    "wof:lastmodified":1466699368,
     "wof:name":"J L Enterprises",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-106.542199,35.12914,-106.542199,35.12914],
+  "bbox": [
+    -106.542199,
+    35.12914,
+    -106.542199,
+    35.12914
+],
   "geometry": {"coordinates":[-106.542199,35.12914],"type":"Point"}
 }

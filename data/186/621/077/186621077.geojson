@@ -2,13 +2,14 @@
   "id": 186621077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.521613,35.074733,-106.521613,35.074733",
     "geom:latitude":35.074733,
     "geom:longitude":-106.521613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Dorothy St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186621077,
-    "wof:lastmodified":1449052695,
+    "wof:lastmodified":1466700707,
     "wof:name":"Strictly Striping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.521613,35.074733,-106.521613,35.074733],
+  "bbox": [
+    -106.521613,
+    35.074733,
+    -106.521613,
+    35.074733
+],
   "geometry": {"coordinates":[-106.521613,35.074733],"type":"Point"}
 }

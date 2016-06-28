@@ -2,13 +2,14 @@
   "id": 186021967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.348008,32.949084,-103.348008,32.949084",
     "geom:latitude":32.949084,
     "geom:longitude":-103.348008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E Washington Ave",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186021967,
-    "wof:lastmodified":1449052064,
+    "wof:lastmodified":1466697934,
     "wof:name":"Elliott & Waldron Title Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "escrow"
     ]
 },
-  "bbox": [-103.348008,32.949084,-103.348008,32.949084],
-  "geometry": {"coordinates":[-103.348008,32.949084],"type":"Point"}
+  "bbox": [
+    -103.348008,
+    32.949084,
+    -103.348008,
+    32.949084
+],
+  "geometry": {"coordinates":[-103.34800799999999,32.949084],"type":"Point"}
 }

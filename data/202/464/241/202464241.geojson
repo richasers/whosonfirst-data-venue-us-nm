@@ -2,13 +2,14 @@
   "id": 202464241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.936788,35.526861,-105.936788,35.526861",
     "geom:latitude":35.526861,
     "geom:longitude":-105.936788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Estacada Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202464241,
-    "wof:lastmodified":1449060808,
+    "wof:lastmodified":1466698698,
     "wof:name":"Natural Resource Institute",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-105.936788,35.526861,-105.936788,35.526861],
-  "geometry": {"coordinates":[-105.936788,35.526861],"type":"Point"}
+  "bbox": [
+    -105.936788,
+    35.526861,
+    -105.936788,
+    35.526861
+],
+  "geometry": {"coordinates":[-105.93678800000001,35.526861],"type":"Point"}
 }

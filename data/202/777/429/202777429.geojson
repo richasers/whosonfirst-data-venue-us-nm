@@ -2,13 +2,14 @@
   "id": 202777429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.724571,35.251343,-106.724571,35.251343",
     "geom:latitude":35.251343,
     "geom:longitude":-106.724571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"399 Vancouver Pl SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202777429,
-    "wof:lastmodified":1449061445,
+    "wof:lastmodified":1466699866,
     "wof:name":"Limpiadora Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-106.724571,35.251343,-106.724571,35.251343],
+  "bbox": [
+    -106.724571,
+    35.251343,
+    -106.724571,
+    35.251343
+],
   "geometry": {"coordinates":[-106.724571,35.251343],"type":"Point"}
 }

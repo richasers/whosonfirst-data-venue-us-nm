@@ -2,13 +2,14 @@
   "id": 203089461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.780535,32.28718,-106.780535,32.28718",
     "geom:latitude":32.28718,
     "geom:longitude":-106.780535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1990 S Valley Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203089461,
-    "wof:lastmodified":1449025314,
+    "wof:lastmodified":1466698567,
     "wof:name":"R L Guffey Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drilling"
     ]
 },
-  "bbox": [-106.780535,32.28718,-106.780535,32.28718],
+  "bbox": [
+    -106.780535,
+    32.28718,
+    -106.780535,
+    32.28718
+],
   "geometry": {"coordinates":[-106.780535,32.28718],"type":"Point"}
 }

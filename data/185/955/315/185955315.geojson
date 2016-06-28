@@ -2,13 +2,14 @@
   "id": 185955315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.4153,32.857141,-104.4153,32.857141",
     "geom:latitude":32.857141,
     "geom:longitude":-104.4153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 W Richey Ave",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185955315,
-    "wof:lastmodified":1449007707,
+    "wof:lastmodified":1466699303,
     "wof:name":"Federal Law Enforcement Secrty",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-104.4153,32.857141,-104.4153,32.857141],
+  "bbox": [
+    -104.4153,
+    32.857141,
+    -104.4153,
+    32.857141
+],
   "geometry": {"coordinates":[-104.4153,32.857141],"type":"Point"}
 }

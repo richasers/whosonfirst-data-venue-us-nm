@@ -2,13 +2,14 @@
   "id": 185763011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.694495,35.029447,-106.694495,35.029447",
     "geom:latitude":35.029447,
     "geom:longitude":-106.694495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 Barboa Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":185763011,
-    "wof:lastmodified":1449008199,
+    "wof:lastmodified":1466699464,
     "wof:name":"Padilla's Cabinet Shop",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-106.694495,35.029447,-106.694495,35.029447],
+  "bbox": [
+    -106.694495,
+    35.029447,
+    -106.694495,
+    35.029447
+],
   "geometry": {"coordinates":[-106.694495,35.029447],"type":"Point"}
 }

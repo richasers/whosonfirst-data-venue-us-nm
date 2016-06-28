@@ -2,13 +2,14 @@
   "id": 185683061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.989979,35.656309,-105.989979,35.656309",
     "geom:latitude":35.656309,
     "geom:longitude":-105.989979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185683061,
-    "wof:lastmodified":1449007194,
+    "wof:lastmodified":1466698458,
     "wof:name":"Rick's Texaco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-105.989979,35.656309,-105.989979,35.656309],
-  "geometry": {"coordinates":[-105.989979,35.656309],"type":"Point"}
+  "bbox": [
+    -105.989979,
+    35.656309,
+    -105.989979,
+    35.656309
+],
+  "geometry": {"coordinates":[-105.98997900000001,35.656309],"type":"Point"}
 }

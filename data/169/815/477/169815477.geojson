@@ -2,13 +2,14 @@
   "id": 169815477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.522952,33.433954,-104.522952,33.433954",
     "geom:latitude":33.433954,
     "geom:longitude":-104.522952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3107 N Main St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169815477,
-    "wof:lastmodified":1449034279,
+    "wof:lastmodified":1466698708,
     "wof:name":"American Home Patient Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-104.522952,33.433954,-104.522952,33.433954],
+  "bbox": [
+    -104.522952,
+    33.433954,
+    -104.522952,
+    33.433954
+],
   "geometry": {"coordinates":[-104.522952,33.433954],"type":"Point"}
 }

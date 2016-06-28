@@ -2,13 +2,14 @@
   "id": 202462645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.816445,32.369843,-106.816445,32.369843",
     "geom:latitude":32.369843,
     "geom:longitude":-106.816445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"635 Don Miguel Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202462645,
-    "wof:lastmodified":1449062541,
+    "wof:lastmodified":1466698654,
     "wof:name":"Desert Hills Roofing",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.816445,32.369843,-106.816445,32.369843],
+  "bbox": [
+    -106.816445,
+    32.369843,
+    -106.816445,
+    32.369843
+],
   "geometry": {"coordinates":[-106.816445,32.369843],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186486333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.941392,35.685993,-105.941392,35.685993",
     "geom:latitude":35.685993,
     "geom:longitude":-105.941392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Galisteo St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186486333,
-    "wof:lastmodified":1449051876,
+    "wof:lastmodified":1466700181,
     "wof:name":"Seret & Sons Rugs & Furnishing",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rug"
     ]
 },
-  "bbox": [-105.941392,35.685993,-105.941392,35.685993],
-  "geometry": {"coordinates":[-105.941392,35.685993],"type":"Point"}
+  "bbox": [
+    -105.941392,
+    35.685993,
+    -105.941392,
+    35.685993
+],
+  "geometry": {"coordinates":[-105.94139199999999,35.685993],"type":"Point"}
 }

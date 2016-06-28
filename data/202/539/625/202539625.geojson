@@ -2,13 +2,14 @@
   "id": 202539625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.660102,35.139261,-106.660102,35.139261",
     "geom:latitude":35.139261,
     "geom:longitude":-106.660102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Rancho Guadalupe Trl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202539625,
-    "wof:lastmodified":1449062715,
+    "wof:lastmodified":1466699308,
     "wof:name":"Rancho Guadalupe",
     "wof:parent_id":85892593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.660102,35.139261,-106.660102,35.139261],
-  "geometry": {"coordinates":[-106.660102,35.139261],"type":"Point"}
+  "bbox": [
+    -106.660102,
+    35.139261,
+    -106.660102,
+    35.139261
+],
+  "geometry": {"coordinates":[-106.66010199999999,35.139261],"type":"Point"}
 }

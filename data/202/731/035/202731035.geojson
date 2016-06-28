@@ -2,13 +2,14 @@
   "id": 202731035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.53947,33.408586,-104.53947,33.408586",
     "geom:latitude":33.408586,
     "geom:longitude":-104.53947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1306 W College Blvd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202731035,
-    "wof:lastmodified":1449062362,
+    "wof:lastmodified":1466699585,
     "wof:name":"Refuge Shelter For Battered",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-104.53947,33.408586,-104.53947,33.408586],
-  "geometry": {"coordinates":[-104.53947,33.408586],"type":"Point"}
+  "bbox": [
+    -104.53947,
+    33.408586,
+    -104.53947,
+    33.408586
+],
+  "geometry": {"coordinates":[-104.53946999999999,33.408586],"type":"Point"}
 }

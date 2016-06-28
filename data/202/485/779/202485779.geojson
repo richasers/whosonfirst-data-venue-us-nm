@@ -2,13 +2,14 @@
   "id": 202485779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.204108,34.410771,-103.204108,34.410771",
     "geom:latitude":34.410771,
     "geom:longitude":-103.204108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Pile St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202485779,
-    "wof:lastmodified":1449061661,
+    "wof:lastmodified":1466699031,
     "wof:name":"Zero Seven Zero Four",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-103.204108,34.410771,-103.204108,34.410771],
-  "geometry": {"coordinates":[-103.204108,34.410771],"type":"Point"}
+  "bbox": [
+    -103.204108,
+    34.410771,
+    -103.204108,
+    34.410771
+],
+  "geometry": {"coordinates":[-103.20410800000001,34.410771],"type":"Point"}
 }

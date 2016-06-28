@@ -2,13 +2,14 @@
   "id": 202578251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.34609,32.944041,-103.34609,32.944041",
     "geom:latitude":32.944041,
     "geom:longitude":-103.34609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E Ave D",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202578251,
-    "wof:lastmodified":1449060754,
+    "wof:lastmodified":1466698063,
     "wof:name":"Mitchel Trailer Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "site"
     ]
 },
-  "bbox": [-103.34609,32.944041,-103.34609,32.944041],
+  "bbox": [
+    -103.34609,
+    32.944041,
+    -103.34609,
+    32.944041
+],
   "geometry": {"coordinates":[-103.34609,32.944041],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353975845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.178886,34.407818,-103.178886,34.407818",
     "geom:latitude":34.407818,
     "geom:longitude":-103.178886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 N Norris St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":353975845,
-    "wof:lastmodified":1449020455,
+    "wof:lastmodified":1466699041,
     "wof:name":"Mary Anne Jones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.178886,34.407818,-103.178886,34.407818],
-  "geometry": {"coordinates":[-103.178886,34.407818],"type":"Point"}
+  "bbox": [
+    -103.178886,
+    34.407818,
+    -103.178886,
+    34.407818
+],
+  "geometry": {"coordinates":[-103.17888600000001,34.407818],"type":"Point"}
 }

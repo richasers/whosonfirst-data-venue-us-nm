@@ -2,13 +2,14 @@
   "id": 202886285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.220373,35.61617,-105.220373,35.61617",
     "geom:latitude":35.61617,
     "geom:longitude":-105.220373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Mountain View Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202886285,
-    "wof:lastmodified":1449061507,
+    "wof:lastmodified":1466700430,
     "wof:name":"Casa Alegre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-105.220373,35.61617,-105.220373,35.61617],
+  "bbox": [
+    -105.220373,
+    35.61617,
+    -105.220373,
+    35.61617
+],
   "geometry": {"coordinates":[-105.220373,35.61617],"type":"Point"}
 }

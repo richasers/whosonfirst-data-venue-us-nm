@@ -2,13 +2,14 @@
   "id": 186200799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.76241,32.26811,-107.76241,32.26811",
     "geom:latitude":32.26811,
     "geom:longitude":-107.76241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Zinc St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186200799,
-    "wof:lastmodified":1449051447,
+    "wof:lastmodified":1466698039,
     "wof:name":"Fistori Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.76241,32.26811,-107.76241,32.26811],
+  "bbox": [
+    -107.76241,
+    32.26811,
+    -107.76241,
+    32.26811
+],
   "geometry": {"coordinates":[-107.76241,32.26811],"type":"Point"}
 }

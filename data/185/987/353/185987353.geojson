@@ -2,13 +2,14 @@
   "id": 185987353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.851038,35.155455,-107.851038,35.155455",
     "geom:latitude":35.155455,
     "geom:longitude":-107.851038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Mountain Rd",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185987353,
-    "wof:lastmodified":1449007506,
+    "wof:lastmodified":1466699562,
     "wof:name":"Cibola Sports & Physcl Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.851038,35.155455,-107.851038,35.155455],
+  "bbox": [
+    -107.851038,
+    35.155455,
+    -107.851038,
+    35.155455
+],
   "geometry": {"coordinates":[-107.851038,35.155455],"type":"Point"}
 }

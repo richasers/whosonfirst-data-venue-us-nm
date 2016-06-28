@@ -2,13 +2,14 @@
   "id": 186585159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.240944,32.420429,-104.240944,32.420429",
     "geom:latitude":32.420429,
     "geom:longitude":-104.240944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 W Mermod St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186585159,
-    "wof:lastmodified":1449052152,
+    "wof:lastmodified":1466700487,
     "wof:name":"Gold's Gym Of Carlsbad",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-104.240944,32.420429,-104.240944,32.420429],
+  "bbox": [
+    -104.240944,
+    32.420429,
+    -104.240944,
+    32.420429
+],
   "geometry": {"coordinates":[-104.240944,32.420429],"type":"Point"}
 }

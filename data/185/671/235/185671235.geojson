@@ -2,13 +2,14 @@
   "id": 185671235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.612035,35.097491,-106.612035,35.097491",
     "geom:latitude":35.097491,
     "geom:longitude":-106.612035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1347 Dartmouth Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185671235,
-    "wof:lastmodified":1449006982,
+    "wof:lastmodified":1466698367,
     "wof:name":"Lioudmila Alexeenko",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.612035,35.097491,-106.612035,35.097491],
-  "geometry": {"coordinates":[-106.612035,35.097491],"type":"Point"}
+  "bbox": [
+    -106.612035,
+    35.097491,
+    -106.612035,
+    35.097491
+],
+  "geometry": {"coordinates":[-106.61203500000001,35.097491],"type":"Point"}
 }

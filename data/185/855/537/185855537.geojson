@@ -2,13 +2,14 @@
   "id": 185855537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.634224,34.565388,-103.634224,34.565388",
     "geom:latitude":34.565388,
     "geom:longitude":-103.634224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3498 Co Rd 21",
     "sg:city":"Melrose",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185855537,
-    "wof:lastmodified":1449007782,
+    "wof:lastmodified":1466698069,
     "wof:name":"Al's Gun Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-103.634224,34.565388,-103.634224,34.565388],
+  "bbox": [
+    -103.634224,
+    34.565388,
+    -103.634224,
+    34.565388
+],
   "geometry": {"coordinates":[-103.634224,34.565388],"type":"Point"}
 }

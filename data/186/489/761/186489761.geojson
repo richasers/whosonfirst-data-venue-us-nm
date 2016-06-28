@@ -2,13 +2,14 @@
   "id": 186489761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.693055,35.122265,-106.693055,35.122265",
     "geom:latitude":35.122265,
     "geom:longitude":-106.693055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 Sequoia Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186489761,
-    "wof:lastmodified":1449051849,
+    "wof:lastmodified":1466700195,
     "wof:name":"Desert Hills Ctr For Youth",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-106.693055,35.122265,-106.693055,35.122265],
+  "bbox": [
+    -106.693055,
+    35.122265,
+    -106.693055,
+    35.122265
+],
   "geometry": {"coordinates":[-106.693055,35.122265],"type":"Point"}
 }

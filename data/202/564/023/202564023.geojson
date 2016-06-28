@@ -2,13 +2,14 @@
   "id": 202564023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.254118,32.438848,-104.254118,32.438848",
     "geom:latitude":32.438848,
     "geom:longitude":-104.254118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2302 W Pierce St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202564023,
-    "wof:lastmodified":1449062500,
+    "wof:lastmodified":1466697856,
     "wof:name":"Lincare Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-104.254118,32.438848,-104.254118,32.438848],
-  "geometry": {"coordinates":[-104.254118,32.438848],"type":"Point"}
+  "bbox": [
+    -104.254118,
+    32.438848,
+    -104.254118,
+    32.438848
+],
+  "geometry": {"coordinates":[-104.25411800000001,32.438848],"type":"Point"}
 }

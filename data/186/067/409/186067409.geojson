@@ -2,13 +2,14 @@
   "id": 186067409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.245667,32.448474,-104.245667,32.448474",
     "geom:latitude":32.448474,
     "geom:longitude":-104.245667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 N Country Club Cir",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186067409,
-    "wof:lastmodified":1449050429,
+    "wof:lastmodified":1466698505,
     "wof:name":"Riverside Country Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "golf"
     ]
 },
-  "bbox": [-104.245667,32.448474,-104.245667,32.448474],
+  "bbox": [
+    -104.245667,
+    32.448474,
+    -104.245667,
+    32.448474
+],
   "geometry": {"coordinates":[-104.245667,32.448474],"type":"Point"}
 }

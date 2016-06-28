@@ -2,13 +2,14 @@
   "id": 202903273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.742345,34.803707,-106.742345,34.803707",
     "geom:latitude":34.803707,
     "geom:longitude":-106.742345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Amistad Rd",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202903273,
-    "wof:lastmodified":1449060262,
+    "wof:lastmodified":1466700377,
     "wof:name":"Bdm Investments Inc",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.742345,34.803707,-106.742345,34.803707],
+  "bbox": [
+    -106.742345,
+    34.803707,
+    -106.742345,
+    34.803707
+],
   "geometry": {"coordinates":[-106.742345,34.803707],"type":"Point"}
 }

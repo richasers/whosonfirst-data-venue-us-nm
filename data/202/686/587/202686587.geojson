@@ -2,13 +2,14 @@
   "id": 202686587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.669498,34.944824,-104.669498,34.944824",
     "geom:latitude":34.944824,
     "geom:longitude":-104.669498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Will Rogers Dr",
     "sg:city":"Santa Rosa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202686587,
-    "wof:lastmodified":1449062038,
+    "wof:lastmodified":1466699548,
     "wof:name":"Shell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.669498,34.944824,-104.669498,34.944824],
+  "bbox": [
+    -104.669498,
+    34.944824,
+    -104.669498,
+    34.944824
+],
   "geometry": {"coordinates":[-104.669498,34.944824],"type":"Point"}
 }

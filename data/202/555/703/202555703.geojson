@@ -2,13 +2,14 @@
   "id": 202555703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.588457,35.160595,-106.588457,35.160595",
     "geom:latitude":35.160595,
     "geom:longitude":-106.588457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4851 Ellison St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202555703,
-    "wof:lastmodified":1449062291,
+    "wof:lastmodified":1466697723,
     "wof:name":"Albuquerque On Site",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.588457,35.160595,-106.588457,35.160595],
-  "geometry": {"coordinates":[-106.588457,35.160595],"type":"Point"}
+  "bbox": [
+    -106.588457,
+    35.160595,
+    -106.588457,
+    35.160595
+],
+  "geometry": {"coordinates":[-106.58845700000001,35.160595],"type":"Point"}
 }

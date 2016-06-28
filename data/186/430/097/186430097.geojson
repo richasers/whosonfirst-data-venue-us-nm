@@ -2,13 +2,14 @@
   "id": 186430097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.317226,34.399447,-103.317226,34.399447",
     "geom:latitude":34.399447,
     "geom:longitude":-103.317226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 W St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186430097,
-    "wof:lastmodified":1449052087,
+    "wof:lastmodified":1466699836,
     "wof:name":"Support Services Squardon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tour"
     ]
 },
-  "bbox": [-103.317226,34.399447,-103.317226,34.399447],
-  "geometry": {"coordinates":[-103.317226,34.399447],"type":"Point"}
+  "bbox": [
+    -103.317226,
+    34.399447,
+    -103.317226,
+    34.399447
+],
+  "geometry": {"coordinates":[-103.31722600000001,34.399447],"type":"Point"}
 }

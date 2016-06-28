@@ -2,13 +2,14 @@
   "id": 186077999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.593488,35.068965,-106.593488,35.068965",
     "geom:latitude":35.068965,
     "geom:longitude":-106.593488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4618 Inspiration Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186077999,
-    "wof:lastmodified":1449050830,
+    "wof:lastmodified":1466698615,
     "wof:name":"Adri J Hartog",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "operative"
     ]
 },
-  "bbox": [-106.593488,35.068965,-106.593488,35.068965],
-  "geometry": {"coordinates":[-106.593488,35.068965],"type":"Point"}
+  "bbox": [
+    -106.593488,
+    35.068965,
+    -106.593488,
+    35.068965
+],
+  "geometry": {"coordinates":[-106.59348799999999,35.068965],"type":"Point"}
 }

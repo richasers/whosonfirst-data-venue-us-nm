@@ -2,13 +2,14 @@
   "id": 202867055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.663443,35.123372,-106.663443,35.123372",
     "geom:latitude":35.123372,
     "geom:longitude":-106.663443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1812 Candelaria Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202867055,
-    "wof:lastmodified":1449061212,
+    "wof:lastmodified":1466700334,
     "wof:name":"Valle Del Norte Community Ctr",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-106.663443,35.123372,-106.663443,35.123372],
+  "bbox": [
+    -106.663443,
+    35.123372,
+    -106.663443,
+    35.123372
+],
   "geometry": {"coordinates":[-106.663443,35.123372],"type":"Point"}
 }

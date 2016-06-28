@@ -2,13 +2,14 @@
   "id": 185965985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.544016,35.070901,-106.544016,35.070901",
     "geom:latitude":35.070901,
     "geom:longitude":-106.544016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9209 Mickelsen Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185965985,
-    "wof:lastmodified":1449007720,
+    "wof:lastmodified":1466699538,
     "wof:name":"Mixed Bag",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dried"
     ]
 },
-  "bbox": [-106.544016,35.070901,-106.544016,35.070901],
+  "bbox": [
+    -106.544016,
+    35.070901,
+    -106.544016,
+    35.070901
+],
   "geometry": {"coordinates":[-106.544016,35.070901],"type":"Point"}
 }

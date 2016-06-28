@@ -2,13 +2,14 @@
   "id": 185994245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.609852,35.179273,-106.609852,35.179273",
     "geom:latitude":35.179273,
     "geom:longitude":-106.609852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3412 Vis Alameda NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185994245,
-    "wof:lastmodified":1449006658,
+    "wof:lastmodified":1466699620,
     "wof:name":"Casa Noel LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "specialty"
     ]
 },
-  "bbox": [-106.609852,35.179273,-106.609852,35.179273],
+  "bbox": [
+    -106.609852,
+    35.179273,
+    -106.609852,
+    35.179273
+],
   "geometry": {"coordinates":[-106.609852,35.179273],"type":"Point"}
 }

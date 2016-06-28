@@ -2,13 +2,14 @@
   "id": 203086819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.636285,33.322495,-105.636285,33.322495",
     "geom:latitude":33.322495,
     "geom:longitude":-105.636285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"353 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203086819,
-    "wof:lastmodified":1449026249,
+    "wof:lastmodified":1466698521,
     "wof:name":"Ruidoso Flower Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.636285,33.322495,-105.636285,33.322495],
+  "bbox": [
+    -105.636285,
+    33.322495,
+    -105.636285,
+    33.322495
+],
   "geometry": {"coordinates":[-105.636285,33.322495],"type":"Point"}
 }

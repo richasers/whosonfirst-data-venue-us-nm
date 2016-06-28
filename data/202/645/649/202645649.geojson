@@ -2,13 +2,14 @@
   "id": 202645649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.695598,35.164108,-106.695598,35.164108",
     "geom:latitude":35.164108,
     "geom:longitude":-106.695598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6901 el Cajon Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202645649,
-    "wof:lastmodified":1449060369,
+    "wof:lastmodified":1466699072,
     "wof:name":"Michael Ellis Goldman Edctn",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-106.695598,35.164108,-106.695598,35.164108],
+  "bbox": [
+    -106.695598,
+    35.164108,
+    -106.695598,
+    35.164108
+],
   "geometry": {"coordinates":[-106.695598,35.164108],"type":"Point"}
 }

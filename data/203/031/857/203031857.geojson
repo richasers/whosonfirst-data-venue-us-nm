@@ -2,13 +2,14 @@
   "id": 203031857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.239555,35.08736,-106.239555,35.08736",
     "geom:latitude":35.08736,
     "geom:longitude":-106.239555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Equestrian Trl",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203031857,
-    "wof:lastmodified":1449025624,
+    "wof:lastmodified":1466697944,
     "wof:name":"Northwest Masonry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.239555,35.08736,-106.239555,35.08736],
+  "bbox": [
+    -106.239555,
+    35.08736,
+    -106.239555,
+    35.08736
+],
   "geometry": {"coordinates":[-106.239555,35.08736],"type":"Point"}
 }

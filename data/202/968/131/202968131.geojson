@@ -2,13 +2,14 @@
   "id": 202968131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.955694,35.679206,-105.955694,35.679206",
     "geom:latitude":35.679206,
     "geom:longitude":-105.955694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Mercer St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202968131,
-    "wof:lastmodified":1449060267,
+    "wof:lastmodified":1466700523,
     "wof:name":"James W Siebert & Associates",
     "wof:parent_id":85880771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-105.955694,35.679206,-105.955694,35.679206],
-  "geometry": {"coordinates":[-105.955694,35.679206],"type":"Point"}
+  "bbox": [
+    -105.955694,
+    35.679206,
+    -105.955694,
+    35.679206
+],
+  "geometry": {"coordinates":[-105.95569399999999,35.679206],"type":"Point"}
 }

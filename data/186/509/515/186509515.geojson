@@ -2,13 +2,14 @@
   "id": 186509515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.999439,35.662342,-105.999439,35.662342",
     "geom:latitude":35.662342,
     "geom:longitude":-105.999439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2917 Agua Fria St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186509515,
-    "wof:lastmodified":1449050385,
+    "wof:lastmodified":1466700114,
     "wof:name":"M & B Builders",
     "wof:parent_id":85880845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-105.999439,35.662342,-105.999439,35.662342],
+  "bbox": [
+    -105.999439,
+    35.662342,
+    -105.999439,
+    35.662342
+],
   "geometry": {"coordinates":[-105.999439,35.662342],"type":"Point"}
 }

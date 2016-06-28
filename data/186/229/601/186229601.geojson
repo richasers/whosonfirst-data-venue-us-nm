@@ -2,13 +2,14 @@
   "id": 186229601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.563466,35.172509,-106.563466,35.172509",
     "geom:latitude":35.172509,
     "geom:longitude":-106.563466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7319 Bob White Ln NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186229601,
-    "wof:lastmodified":1449052469,
+    "wof:lastmodified":1466698389,
     "wof:name":"Harmon Engineering",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-106.563466,35.172509,-106.563466,35.172509],
-  "geometry": {"coordinates":[-106.563466,35.172509],"type":"Point"}
+  "bbox": [
+    -106.563466,
+    35.172509,
+    -106.563466,
+    35.172509
+],
+  "geometry": {"coordinates":[-106.56346600000001,35.172509],"type":"Point"}
 }

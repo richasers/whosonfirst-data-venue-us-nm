@@ -2,13 +2,14 @@
   "id": 202693147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.163657,32.743159,-103.163657,32.743159",
     "geom:latitude":32.743159,
     "geom:longitude":-103.163657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3920 N Lovington Hwy",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202693147,
-    "wof:lastmodified":1449060252,
+    "wof:lastmodified":1466699587,
     "wof:name":"Kidskare Family Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-103.163657,32.743159,-103.163657,32.743159],
+  "bbox": [
+    -103.163657,
+    32.743159,
+    -103.163657,
+    32.743159
+],
   "geometry": {"coordinates":[-103.163657,32.743159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186270755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.612796,35.240143,-106.612796,35.240143",
     "geom:latitude":35.240143,
     "geom:longitude":-106.612796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"352 Sagebrush Dr",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186270755,
-    "wof:lastmodified":1449050895,
+    "wof:lastmodified":1466698926,
     "wof:name":"ESRI",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "developer"
     ]
 },
-  "bbox": [-106.612796,35.240143,-106.612796,35.240143],
+  "bbox": [
+    -106.612796,
+    35.240143,
+    -106.612796,
+    35.240143
+],
   "geometry": {"coordinates":[-106.612796,35.240143],"type":"Point"}
 }

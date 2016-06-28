@@ -2,13 +2,14 @@
   "id": 203100623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.090465,36.728445,-108.090465,36.728445",
     "geom:latitude":36.728445,
     "geom:longitude":-108.090465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Rd 5577",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203100623,
-    "wof:lastmodified":1449026365,
+    "wof:lastmodified":1466698741,
     "wof:name":"Gingerich Home For Elderly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-108.090465,36.728445,-108.090465,36.728445],
-  "geometry": {"coordinates":[-108.090465,36.728445],"type":"Point"}
+  "bbox": [
+    -108.090465,
+    36.728445,
+    -108.090465,
+    36.728445
+],
+  "geometry": {"coordinates":[-108.09046499999999,36.728445],"type":"Point"}
 }

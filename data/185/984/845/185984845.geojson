@@ -2,13 +2,14 @@
   "id": 185984845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.620617,35.243799,-106.620617,35.243799",
     "geom:latitude":35.243799,
     "geom:longitude":-106.620617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Lena Ct",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185984845,
-    "wof:lastmodified":1449007514,
+    "wof:lastmodified":1466699532,
     "wof:name":"Jke Consulting LLC",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.620617,35.243799,-106.620617,35.243799],
+  "bbox": [
+    -106.620617,
+    35.243799,
+    -106.620617,
+    35.243799
+],
   "geometry": {"coordinates":[-106.620617,35.243799],"type":"Point"}
 }

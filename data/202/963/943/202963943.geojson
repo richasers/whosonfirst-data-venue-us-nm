@@ -2,13 +2,14 @@
   "id": 202963943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.94361,35.683482,-105.94361,35.683482",
     "geom:latitude":35.683482,
     "geom:longitude":-105.94361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"453 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202963943,
-    "wof:lastmodified":1449060357,
+    "wof:lastmodified":1466700618,
     "wof:name":"Paul Grand Attorney",
     "wof:parent_id":85880805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-105.94361,35.683482,-105.94361,35.683482],
-  "geometry": {"coordinates":[-105.94361,35.683482],"type":"Point"}
+  "bbox": [
+    -105.94361,
+    35.683482,
+    -105.94361,
+    35.683482
+],
+  "geometry": {"coordinates":[-105.94361000000001,35.683482],"type":"Point"}
 }

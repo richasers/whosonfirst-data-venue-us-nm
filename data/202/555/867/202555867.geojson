@@ -2,13 +2,14 @@
   "id": 202555867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.215309,35.594817,-105.215309,35.594817",
     "geom:latitude":35.594817,
     "geom:longitude":-105.215309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Douglas Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202555867,
-    "wof:lastmodified":1449062290,
+    "wof:lastmodified":1466697725,
     "wof:name":"Prices Home Furnishings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.215309,35.594817,-105.215309,35.594817],
+  "bbox": [
+    -105.215309,
+    35.594817,
+    -105.215309,
+    35.594817
+],
   "geometry": {"coordinates":[-105.215309,35.594817],"type":"Point"}
 }

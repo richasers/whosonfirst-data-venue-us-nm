@@ -2,13 +2,14 @@
   "id": 202939179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.697561,35.149272,-106.697561,35.149272",
     "geom:latitude":35.149272,
     "geom:longitude":-106.697561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5108 College Heights Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202939179,
-    "wof:lastmodified":1449060865,
+    "wof:lastmodified":1466700387,
     "wof:name":"Applied Media",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.697561,35.149272,-106.697561,35.149272],
-  "geometry": {"coordinates":[-106.697561,35.149272],"type":"Point"}
+  "bbox": [
+    -106.697561,
+    35.149272,
+    -106.697561,
+    35.149272
+],
+  "geometry": {"coordinates":[-106.69756099999999,35.149272],"type":"Point"}
 }

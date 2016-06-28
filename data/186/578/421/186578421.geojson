@@ -2,13 +2,14 @@
   "id": 186578421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.224534,32.845483,-108.224534,32.845483",
     "geom:latitude":32.845483,
     "geom:longitude":-108.224534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Sanctuary Rd",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186578421,
-    "wof:lastmodified":1449051070,
+    "wof:lastmodified":1466700557,
     "wof:name":"Little Creek Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.224534,32.845483,-108.224534,32.845483],
-  "geometry": {"coordinates":[-108.224534,32.845483],"type":"Point"}
+  "bbox": [
+    -108.224534,
+    32.845483,
+    -108.224534,
+    32.845483
+],
+  "geometry": {"coordinates":[-108.22453400000001,32.845483],"type":"Point"}
 }

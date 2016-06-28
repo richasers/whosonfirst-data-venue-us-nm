@@ -2,13 +2,14 @@
   "id": 202438499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.648777,35.139434,-106.648777,35.139434",
     "geom:latitude":35.139434,
     "geom:longitude":-106.648777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1029 Montano Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202438499,
-    "wof:lastmodified":1449060971,
+    "wof:lastmodified":1466698420,
     "wof:name":"Marty Saiz",
     "wof:parent_id":85892593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.648777,35.139434,-106.648777,35.139434],
+  "bbox": [
+    -106.648777,
+    35.139434,
+    -106.648777,
+    35.139434
+],
   "geometry": {"coordinates":[-106.648777,35.139434],"type":"Point"}
 }

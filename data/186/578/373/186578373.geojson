@@ -2,13 +2,14 @@
   "id": 186578373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.150527,36.765918,-108.150527,36.765918",
     "geom:latitude":36.765918,
     "geom:longitude":-108.150527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4820 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186578373,
-    "wof:lastmodified":1449051068,
+    "wof:lastmodified":1466700556,
     "wof:name":"San Juan Regional Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.150527,36.765918,-108.150527,36.765918],
+  "bbox": [
+    -108.150527,
+    36.765918,
+    -108.150527,
+    36.765918
+],
   "geometry": {"coordinates":[-108.150527,36.765918],"type":"Point"}
 }

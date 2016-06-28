@@ -2,13 +2,14 @@
   "id": 185601467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.516905,35.107342,-106.516905,35.107342",
     "geom:latitude":35.107342,
     "geom:longitude":-106.516905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11205 Prospect Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185601467,
-    "wof:lastmodified":1449007336,
+    "wof:lastmodified":1466697618,
     "wof:name":"Lisa D Keffer Fitness",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "fitness"
     ]
 },
-  "bbox": [-106.516905,35.107342,-106.516905,35.107342],
-  "geometry": {"coordinates":[-106.516905,35.107342],"type":"Point"}
+  "bbox": [
+    -106.516905,
+    35.107342,
+    -106.516905,
+    35.107342
+],
+  "geometry": {"coordinates":[-106.51690499999999,35.107342],"type":"Point"}
 }

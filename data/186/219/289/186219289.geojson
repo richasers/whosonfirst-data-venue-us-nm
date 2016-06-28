@@ -2,13 +2,14 @@
   "id": 186219289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.768184,34.763888,-106.768184,34.763888",
     "geom:latitude":34.763888,
     "geom:longitude":-106.768184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1436 Mario Dr",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186219289,
-    "wof:lastmodified":1449052928,
+    "wof:lastmodified":1466698267,
     "wof:name":"New Mexico Mobile Sandblasting",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.768184,34.763888,-106.768184,34.763888],
-  "geometry": {"coordinates":[-106.768184,34.763888],"type":"Point"}
+  "bbox": [
+    -106.768184,
+    34.763888,
+    -106.768184,
+    34.763888
+],
+  "geometry": {"coordinates":[-106.76818400000001,34.763888],"type":"Point"}
 }

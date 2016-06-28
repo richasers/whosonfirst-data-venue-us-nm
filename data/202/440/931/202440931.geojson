@@ -2,13 +2,14 @@
   "id": 202440931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.579808,35.098604,-106.579808,35.098604",
     "geom:latitude":35.098604,
     "geom:longitude":-106.579808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5706 Hannett Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202440931,
-    "wof:lastmodified":1449061002,
+    "wof:lastmodified":1466698425,
     "wof:name":"Trabert Corp",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-106.579808,35.098604,-106.579808,35.098604],
+  "bbox": [
+    -106.579808,
+    35.098604,
+    -106.579808,
+    35.098604
+],
   "geometry": {"coordinates":[-106.579808,35.098604],"type":"Point"}
 }

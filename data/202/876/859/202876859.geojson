@@ -2,13 +2,14 @@
   "id": 202876859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.714393,34.860938,-106.714393,34.860938",
     "geom:latitude":34.860938,
     "geom:longitude":-106.714393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Silk Ln",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202876859,
-    "wof:lastmodified":1449060623,
+    "wof:lastmodified":1466700271,
     "wof:name":"Rosies Cleaning",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-106.714393,34.860938,-106.714393,34.860938],
+  "bbox": [
+    -106.714393,
+    34.860938,
+    -106.714393,
+    34.860938
+],
   "geometry": {"coordinates":[-106.714393,34.860938],"type":"Point"}
 }

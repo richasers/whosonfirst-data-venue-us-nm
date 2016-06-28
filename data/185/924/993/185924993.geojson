@@ -2,13 +2,14 @@
   "id": 185924993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.958157,32.897833,-105.958157,32.897833",
     "geom:latitude":32.897833,
     "geom:longitude":-105.958157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Delaware Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185924993,
-    "wof:lastmodified":1449007052,
+    "wof:lastmodified":1466698877,
     "wof:name":"Bryant Hausfeld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.958157,32.897833,-105.958157,32.897833],
+  "bbox": [
+    -105.958157,
+    32.897833,
+    -105.958157,
+    32.897833
+],
   "geometry": {"coordinates":[-105.958157,32.897833],"type":"Point"}
 }

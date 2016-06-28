@@ -2,13 +2,14 @@
   "id": 202593071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.689801,35.155337,-106.689801,35.155337",
     "geom:latitude":35.155337,
     "geom:longitude":-106.689801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4512 Habershaw Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202593071,
-    "wof:lastmodified":1449061768,
+    "wof:lastmodified":1466698286,
     "wof:name":"Howlin Coyote Productions",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-106.689801,35.155337,-106.689801,35.155337],
+  "bbox": [
+    -106.689801,
+    35.155337,
+    -106.689801,
+    35.155337
+],
   "geometry": {"coordinates":[-106.689801,35.155337],"type":"Point"}
 }

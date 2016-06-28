@@ -2,13 +2,14 @@
   "id": 353943435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.571993,35.109192,-106.571993,35.109192",
     "geom:latitude":35.109192,
     "geom:longitude":-106.571993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6505 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":353943435,
-    "wof:lastmodified":1449018940,
+    "wof:lastmodified":1466698374,
     "wof:name":"Baby Furniture & Accessories",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "clothing"
     ]
 },
-  "bbox": [-106.571993,35.109192,-106.571993,35.109192],
-  "geometry": {"coordinates":[-106.571993,35.109192],"type":"Point"}
+  "bbox": [
+    -106.571993,
+    35.109192,
+    -106.571993,
+    35.109192
+],
+  "geometry": {"coordinates":[-106.57199300000001,35.109192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185638479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.721807,35.242815,-106.721807,35.242815",
     "geom:latitude":35.242815,
     "geom:longitude":-106.721807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"949 Everest Rd SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185638479,
-    "wof:lastmodified":1449006674,
+    "wof:lastmodified":1466698018,
     "wof:name":"Reliable Overhead Door Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-106.721807,35.242815,-106.721807,35.242815],
+  "bbox": [
+    -106.721807,
+    35.242815,
+    -106.721807,
+    35.242815
+],
   "geometry": {"coordinates":[-106.721807,35.242815],"type":"Point"}
 }

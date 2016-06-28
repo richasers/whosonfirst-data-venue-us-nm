@@ -2,13 +2,14 @@
   "id": 186535139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.496456,35.054737,-106.496456,35.054737",
     "geom:latitude":35.054737,
     "geom:longitude":-106.496456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Lamp Post Cir SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186535139,
-    "wof:lastmodified":1449050899,
+    "wof:lastmodified":1466700342,
     "wof:name":"Lloyd Pool Operating",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gas"
     ]
 },
-  "bbox": [-106.496456,35.054737,-106.496456,35.054737],
-  "geometry": {"coordinates":[-106.496456,35.054737],"type":"Point"}
+  "bbox": [
+    -106.496456,
+    35.054737,
+    -106.496456,
+    35.054737
+],
+  "geometry": {"coordinates":[-106.49645599999999,35.054737],"type":"Point"}
 }

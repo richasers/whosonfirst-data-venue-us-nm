@@ -2,13 +2,14 @@
   "id": 186384145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.933936,35.733627,-105.933936,35.733627",
     "geom:latitude":35.733627,
     "geom:longitude":-105.933936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Sangre de Cristo Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186384145,
-    "wof:lastmodified":1449050625,
+    "wof:lastmodified":1466699786,
     "wof:name":"Allyx B Interior Design LLC",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-105.933936,35.733627,-105.933936,35.733627],
+  "bbox": [
+    -105.933936,
+    35.733627,
+    -105.933936,
+    35.733627
+],
   "geometry": {"coordinates":[-105.933936,35.733627],"type":"Point"}
 }

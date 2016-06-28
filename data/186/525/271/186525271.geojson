@@ -2,13 +2,14 @@
   "id": 186525271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.55788,31.795394,-106.55788,31.795394",
     "geom:latitude":31.795394,
     "geom:longitude":-106.55788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1165 McNutt Rd",
     "sg:city":"Sunland Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186525271,
-    "wof:lastmodified":1449052448,
+    "wof:lastmodified":1466700313,
     "wof:name":"Artistic Entryways",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-106.55788,31.795394,-106.55788,31.795394],
+  "bbox": [
+    -106.55788,
+    31.795394,
+    -106.55788,
+    31.795394
+],
   "geometry": {"coordinates":[-106.55788,31.795394],"type":"Point"}
 }

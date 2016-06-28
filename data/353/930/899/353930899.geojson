@@ -2,13 +2,14 @@
   "id": 353930899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.643247,35.11036,-106.643247,35.11036",
     "geom:latitude":35.11036,
     "geom:longitude":-106.643247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Menaul Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353930899,
-    "wof:lastmodified":1449019080,
+    "wof:lastmodified":1466698030,
     "wof:name":"Whittington Motor Sports",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "car"
     ]
 },
-  "bbox": [-106.643247,35.11036,-106.643247,35.11036],
+  "bbox": [
+    -106.643247,
+    35.11036,
+    -106.643247,
+    35.11036
+],
   "geometry": {"coordinates":[-106.643247,35.11036],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202939197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.574126,36.404533,-105.574126,36.404533",
     "geom:latitude":36.404533,
     "geom:longitude":-105.574126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Pso del Pueblo Norte",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202939197,
-    "wof:lastmodified":1449060866,
+    "wof:lastmodified":1466700388,
     "wof:name":"First Presbyterian Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.574126,36.404533,-105.574126,36.404533],
-  "geometry": {"coordinates":[-105.574126,36.404533],"type":"Point"}
+  "bbox": [
+    -105.574126,
+    36.404533,
+    -105.574126,
+    36.404533
+],
+  "geometry": {"coordinates":[-105.57412600000001,36.404533],"type":"Point"}
 }

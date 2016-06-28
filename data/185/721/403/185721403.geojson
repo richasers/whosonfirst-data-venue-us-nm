@@ -2,13 +2,14 @@
   "id": 185721403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.57992,36.863875,-106.57992,36.863875",
     "geom:latitude":36.863875,
     "geom:longitude":-106.57992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16253 US Hwy 84",
     "sg:city":"Chama",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185721403,
-    "wof:lastmodified":1449008206,
+    "wof:lastmodified":1466698871,
     "wof:name":"Lodge At Chama",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.57992,36.863875,-106.57992,36.863875],
+  "bbox": [
+    -106.57992,
+    36.863875,
+    -106.57992,
+    36.863875
+],
   "geometry": {"coordinates":[-106.57992,36.863875],"type":"Point"}
 }

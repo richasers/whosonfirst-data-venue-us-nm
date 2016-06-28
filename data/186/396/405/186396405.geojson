@@ -2,13 +2,14 @@
   "id": 186396405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615099,35.117173,-106.615099,35.117173",
     "geom:latitude":35.117173,
     "geom:longitude":-106.615099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Vassar Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186396405,
-    "wof:lastmodified":1449052129,
+    "wof:lastmodified":1466699729,
     "wof:name":"Graff Flooring Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-106.615099,35.117173,-106.615099,35.117173],
+  "bbox": [
+    -106.615099,
+    35.117173,
+    -106.615099,
+    35.117173
+],
   "geometry": {"coordinates":[-106.615099,35.117173],"type":"Point"}
 }

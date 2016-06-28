@@ -2,13 +2,14 @@
   "id": 186274015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.515505,35.110861,-106.515505,35.110861",
     "geom:latitude":35.110861,
     "geom:longitude":-106.515505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2418 Juan Tabo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186274015,
-    "wof:lastmodified":1449050595,
+    "wof:lastmodified":1466698970,
     "wof:name":"Entertainment Publications",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-106.515505,35.110861,-106.515505,35.110861],
+  "bbox": [
+    -106.515505,
+    35.110861,
+    -106.515505,
+    35.110861
+],
   "geometry": {"coordinates":[-106.515505,35.110861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203117651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.705844,35.048598,-106.705844,35.048598",
     "geom:latitude":35.048598,
     "geom:longitude":-106.705844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2117 Foothill Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203117651,
-    "wof:lastmodified":1449026269,
+    "wof:lastmodified":1466698916,
     "wof:name":"Erwin's Construction",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.705844,35.048598,-106.705844,35.048598],
+  "bbox": [
+    -106.705844,
+    35.048598,
+    -106.705844,
+    35.048598
+],
   "geometry": {"coordinates":[-106.705844,35.048598],"type":"Point"}
 }

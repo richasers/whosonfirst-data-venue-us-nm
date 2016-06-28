@@ -2,13 +2,14 @@
   "id": 186504799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550593,35.065076,-106.550593,35.065076",
     "geom:latitude":35.065076,
     "geom:longitude":-106.550593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Wyoming Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":186504799,
-    "wof:lastmodified":1449050890,
+    "wof:lastmodified":1466700241,
     "wof:name":"Tuye's Alterations",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-106.550593,35.065076,-106.550593,35.065076],
-  "geometry": {"coordinates":[-106.550593,35.065076],"type":"Point"}
+  "bbox": [
+    -106.550593,
+    35.065076,
+    -106.550593,
+    35.065076
+],
+  "geometry": {"coordinates":[-106.55059300000001,35.065076],"type":"Point"}
 }

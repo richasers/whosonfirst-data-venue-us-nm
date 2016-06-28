@@ -2,13 +2,14 @@
   "id": 169847015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.505081,33.332161,-104.505081,33.332161",
     "geom:latitude":33.332161,
     "geom:longitude":-104.505081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4404 SE Main St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169847015,
-    "wof:lastmodified":1449033889,
+    "wof:lastmodified":1466698862,
     "wof:name":"Boot Scooters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-104.505081,33.332161,-104.505081,33.332161],
+  "bbox": [
+    -104.505081,
+    33.332161,
+    -104.505081,
+    33.332161
+],
   "geometry": {"coordinates":[-104.505081,33.332161],"type":"Point"}
 }

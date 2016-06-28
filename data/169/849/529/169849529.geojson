@@ -2,13 +2,14 @@
   "id": 169849529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.339038,32.968536,-103.339038,32.968536",
     "geom:latitude":32.968536,
     "geom:longitude":-103.339038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 Tatum Hwy",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169849529,
-    "wof:lastmodified":1449033297,
+    "wof:lastmodified":1466698887,
     "wof:name":"Yates Petroleum Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.339038,32.968536,-103.339038,32.968536],
+  "bbox": [
+    -103.339038,
+    32.968536,
+    -103.339038,
+    32.968536
+],
   "geometry": {"coordinates":[-103.339038,32.968536],"type":"Point"}
 }

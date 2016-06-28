@@ -2,13 +2,14 @@
   "id": 353921113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.645843,35.083798,-106.645843,35.083798",
     "geom:latitude":35.083798,
     "geom:longitude":-106.645843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Central Ave SE # 300",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353921113,
-    "wof:lastmodified":1449019887,
+    "wof:lastmodified":1466697755,
     "wof:name":"Supportive Housing Coaliton Of New Mexico",
     "wof:parent_id":85871877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-106.645843,35.083798,-106.645843,35.083798],
+  "bbox": [
+    -106.645843,
+    35.083798,
+    -106.645843,
+    35.083798
+],
   "geometry": {"coordinates":[-106.645843,35.083798],"type":"Point"}
 }

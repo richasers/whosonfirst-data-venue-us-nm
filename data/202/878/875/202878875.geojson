@@ -2,13 +2,14 @@
   "id": 202878875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.292158,36.359156,-105.292158,36.359156",
     "geom:latitude":36.359156,
     "geom:longitude":-105.292158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Lakeview Park Dr",
     "sg:city":"Angel Fire",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202878875,
-    "wof:lastmodified":1449061435,
+    "wof:lastmodified":1466700278,
     "wof:name":"Monte Verde Lake Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "lake"
     ]
 },
-  "bbox": [-105.292158,36.359156,-105.292158,36.359156],
+  "bbox": [
+    -105.292158,
+    36.359156,
+    -105.292158,
+    36.359156
+],
   "geometry": {"coordinates":[-105.292158,36.359156],"type":"Point"}
 }

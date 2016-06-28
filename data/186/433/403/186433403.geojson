@@ -2,13 +2,14 @@
   "id": 186433403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.706081,35.149601,-106.706081,35.149601",
     "geom:latitude":35.149601,
     "geom:longitude":-106.706081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6023 Rio Pueblo Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186433403,
-    "wof:lastmodified":1449050561,
+    "wof:lastmodified":1466700086,
     "wof:name":"Cytec Plumbing",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.706081,35.149601,-106.706081,35.149601],
+  "bbox": [
+    -106.706081,
+    35.149601,
+    -106.706081,
+    35.149601
+],
   "geometry": {"coordinates":[-106.706081,35.149601],"type":"Point"}
 }

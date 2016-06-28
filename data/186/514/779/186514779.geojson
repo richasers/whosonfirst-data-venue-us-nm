@@ -2,13 +2,14 @@
   "id": 186514779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.12329,32.708911,-103.12329,32.708911",
     "geom:latitude":32.708911,
     "geom:longitude":-103.12329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 N Jefferson St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186514779,
-    "wof:lastmodified":1449051720,
+    "wof:lastmodified":1466700165,
     "wof:name":"Hobbs Municipal Sch Dist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.12329,32.708911,-103.12329,32.708911],
+  "bbox": [
+    -103.12329,
+    32.708911,
+    -103.12329,
+    32.708911
+],
   "geometry": {"coordinates":[-103.12329,32.708911],"type":"Point"}
 }

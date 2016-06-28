@@ -2,13 +2,14 @@
   "id": 202393011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.921309,35.645965,-105.921309,35.645965",
     "geom:latitude":35.645965,
     "geom:longitude":-105.921309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Cloudstone Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202393011,
-    "wof:lastmodified":1449060903,
+    "wof:lastmodified":1466699397,
     "wof:name":"Green Mountain Properties LLC",
     "wof:parent_id":85880839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-105.921309,35.645965,-105.921309,35.645965],
-  "geometry": {"coordinates":[-105.921309,35.645965],"type":"Point"}
+  "bbox": [
+    -105.921309,
+    35.645965,
+    -105.921309,
+    35.645965
+],
+  "geometry": {"coordinates":[-105.92130899999999,35.645965],"type":"Point"}
 }

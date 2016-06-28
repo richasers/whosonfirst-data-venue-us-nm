@@ -2,13 +2,14 @@
   "id": 185675063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.248744,34.520495,-106.248744,34.520495",
     "geom:latitude":34.520495,
     "geom:longitude":-106.248744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 Broadway",
     "sg:city":"Moriarty",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185675063,
-    "wof:lastmodified":1449007452,
+    "wof:lastmodified":1466698402,
     "wof:name":"Susan's Super Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-106.248744,34.520495,-106.248744,34.520495],
+  "bbox": [
+    -106.248744,
+    34.520495,
+    -106.248744,
+    34.520495
+],
   "geometry": {"coordinates":[-106.248744,34.520495],"type":"Point"}
 }

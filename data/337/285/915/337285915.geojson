@@ -2,13 +2,14 @@
   "id": 337285915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.603434,35.246691,-106.603434,35.246691",
     "geom:latitude":35.246691,
     "geom:longitude":-106.603434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Academy Dr",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337285915,
-    "wof:lastmodified":1449026957,
+    "wof:lastmodified":1466697738,
     "wof:name":"Corrales Seventh Day Adventist",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.603434,35.246691,-106.603434,35.246691],
-  "geometry": {"coordinates":[-106.603434,35.246691],"type":"Point"}
+  "bbox": [
+    -106.603434,
+    35.246691,
+    -106.603434,
+    35.246691
+],
+  "geometry": {"coordinates":[-106.60343399999999,35.246691],"type":"Point"}
 }

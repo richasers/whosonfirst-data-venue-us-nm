@@ -2,13 +2,14 @@
   "id": 185986941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.525953,33.394222,-104.525953,33.394222",
     "geom:latitude":33.394222,
     "geom:longitude":-104.525953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N Pennsylvania Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185986941,
-    "wof:lastmodified":1449007911,
+    "wof:lastmodified":1466699694,
     "wof:name":"Hair Stuido The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-104.525953,33.394222,-104.525953,33.394222],
+  "bbox": [
+    -104.525953,
+    33.394222,
+    -104.525953,
+    33.394222
+],
   "geometry": {"coordinates":[-104.525953,33.394222],"type":"Point"}
 }

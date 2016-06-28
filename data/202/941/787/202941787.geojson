@@ -2,13 +2,14 @@
   "id": 202941787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.935624,35.688591,-105.935624,35.688591",
     "geom:latitude":35.688591,
     "geom:longitude":-105.935624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 E Marcy Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202941787,
-    "wof:lastmodified":1449061633,
+    "wof:lastmodified":1466700528,
     "wof:name":"Aad Sjd Services LLC",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.935624,35.688591,-105.935624,35.688591],
+  "bbox": [
+    -105.935624,
+    35.688591,
+    -105.935624,
+    35.688591
+],
   "geometry": {"coordinates":[-105.935624,35.688591],"type":"Point"}
 }

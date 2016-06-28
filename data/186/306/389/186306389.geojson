@@ -2,13 +2,14 @@
   "id": 186306389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.117455,32.7168,-103.117455,32.7168",
     "geom:latitude":32.7168,
     "geom:longitude":-103.117455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1426 N Gila Dr",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186306389,
-    "wof:lastmodified":1449052916,
+    "wof:lastmodified":1466699390,
     "wof:name":"Watson Custom Golf Clubs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.117455,32.7168,-103.117455,32.7168],
-  "geometry": {"coordinates":[-103.117455,32.7168],"type":"Point"}
+  "bbox": [
+    -103.117455,
+    32.7168,
+    -103.117455,
+    32.7168
+],
+  "geometry": {"coordinates":[-103.11745500000001,32.7168],"type":"Point"}
 }

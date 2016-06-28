@@ -2,13 +2,14 @@
   "id": 186428355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.575968,35.130922,-106.575968,35.130922",
     "geom:latitude":35.130922,
     "geom:longitude":-106.575968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6231 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186428355,
-    "wof:lastmodified":1449052851,
+    "wof:lastmodified":1466699830,
     "wof:name":"AAA Vacuum & Sewing",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-106.575968,35.130922,-106.575968,35.130922],
+  "bbox": [
+    -106.575968,
+    35.130922,
+    -106.575968,
+    35.130922
+],
   "geometry": {"coordinates":[-106.575968,35.130922],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169767401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.900471,35.523396,-105.900471,35.523396",
     "geom:latitude":35.523396,
     "geom:longitude":-105.900471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Carissa Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169767401,
-    "wof:lastmodified":1449033627,
+    "wof:lastmodified":1466698230,
     "wof:name":"Marie Institute",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "noncommercial"
     ]
 },
-  "bbox": [-105.900471,35.523396,-105.900471,35.523396],
+  "bbox": [
+    -105.900471,
+    35.523396,
+    -105.900471,
+    35.523396
+],
   "geometry": {"coordinates":[-105.900471,35.523396],"type":"Point"}
 }

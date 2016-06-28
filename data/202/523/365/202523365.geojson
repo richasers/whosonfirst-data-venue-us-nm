@@ -2,13 +2,14 @@
   "id": 202523365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.724884,35.161802,-103.724884,35.161802",
     "geom:latitude":35.161802,
     "geom:longitude":-103.724884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 S 1st St",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202523365,
-    "wof:lastmodified":1449061563,
+    "wof:lastmodified":1466699261,
     "wof:name":"Comcast Cable",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-103.724884,35.161802,-103.724884,35.161802],
+  "bbox": [
+    -103.724884,
+    35.161802,
+    -103.724884,
+    35.161802
+],
   "geometry": {"coordinates":[-103.724884,35.161802],"type":"Point"}
 }

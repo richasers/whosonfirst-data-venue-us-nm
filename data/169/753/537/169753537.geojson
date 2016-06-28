@@ -2,13 +2,14 @@
   "id": 169753537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.820498,32.380315,-106.820498,32.380315",
     "geom:latitude":32.380315,
     "geom:longitude":-106.820498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"448 Eagle's Nest Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169753537,
-    "wof:lastmodified":1449033071,
+    "wof:lastmodified":1466698103,
     "wof:name":"Eh Electric",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.820498,32.380315,-106.820498,32.380315],
+  "bbox": [
+    -106.820498,
+    32.380315,
+    -106.820498,
+    32.380315
+],
   "geometry": {"coordinates":[-106.820498,32.380315],"type":"Point"}
 }

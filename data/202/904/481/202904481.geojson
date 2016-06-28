@@ -2,13 +2,14 @@
   "id": 202904481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604084,35.129881,-106.604084,35.129881",
     "geom:latitude":35.129881,
     "geom:longitude":-106.604084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":202904481,
-    "wof:lastmodified":1449062727,
+    "wof:lastmodified":1466700378,
     "wof:name":"Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "decorator"
     ]
 },
-  "bbox": [-106.604084,35.129881,-106.604084,35.129881],
+  "bbox": [
+    -106.604084,
+    35.129881,
+    -106.604084,
+    35.129881
+],
   "geometry": {"coordinates":[-106.604084,35.129881],"type":"Point"}
 }

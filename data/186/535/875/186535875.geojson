@@ -2,13 +2,14 @@
   "id": 186535875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.728014,34.805506,-106.728014,34.805506",
     "geom:latitude":34.805506,
     "geom:longitude":-106.728014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"267 Los Lentes Rd NE",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186535875,
-    "wof:lastmodified":1449050903,
+    "wof:lastmodified":1466700345,
     "wof:name":"Dycoda",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-106.728014,34.805506,-106.728014,34.805506],
+  "bbox": [
+    -106.728014,
+    34.805506,
+    -106.728014,
+    34.805506
+],
   "geometry": {"coordinates":[-106.728014,34.805506],"type":"Point"}
 }

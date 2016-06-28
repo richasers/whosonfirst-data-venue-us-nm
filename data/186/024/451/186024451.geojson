@@ -2,13 +2,14 @@
   "id": 186024451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.6001,36.357063,-105.6001,36.357063",
     "geom:latitude":36.357063,
     "geom:longitude":-105.6001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Martinez Ln",
     "sg:city":"Questa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186024451,
-    "wof:lastmodified":1449051668,
+    "wof:lastmodified":1466697958,
     "wof:name":"Abe's Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.6001,36.357063,-105.6001,36.357063],
+  "bbox": [
+    -105.6001,
+    36.357063,
+    -105.6001,
+    36.357063
+],
   "geometry": {"coordinates":[-105.6001,36.357063],"type":"Point"}
 }

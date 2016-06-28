@@ -2,13 +2,14 @@
   "id": 353941383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.57161,35.1454,-106.57161,35.1454",
     "geom:latitude":35.1454,
     "geom:longitude":-106.57161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6759 Academy Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":353941383,
-    "wof:lastmodified":1449019799,
+    "wof:lastmodified":1466698313,
     "wof:name":"Stewart Title Of Albuquerque L.L.C",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "escrow"
     ]
 },
-  "bbox": [-106.57161,35.1454,-106.57161,35.1454],
-  "geometry": {"coordinates":[-106.57161,35.1454],"type":"Point"}
+  "bbox": [
+    -106.57161,
+    35.1454,
+    -106.57161,
+    35.1454
+],
+  "geometry": {"coordinates":[-106.57161000000001,35.1454],"type":"Point"}
 }

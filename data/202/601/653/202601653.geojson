@@ -2,13 +2,14 @@
   "id": 202601653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.965682,35.679733,-105.965682,35.679733",
     "geom:latitude":35.679733,
     "geom:longitude":-105.965682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 Agua Fria St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202601653,
-    "wof:lastmodified":1449061253,
+    "wof:lastmodified":1466698401,
     "wof:name":"Absolute Flooring & Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hardwood"
     ]
 },
-  "bbox": [-105.965682,35.679733,-105.965682,35.679733],
+  "bbox": [
+    -105.965682,
+    35.679733,
+    -105.965682,
+    35.679733
+],
   "geometry": {"coordinates":[-105.965682,35.679733],"type":"Point"}
 }

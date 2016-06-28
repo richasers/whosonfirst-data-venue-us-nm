@@ -2,13 +2,14 @@
   "id": 185955451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.533701,33.379628,-104.533701,33.379628",
     "geom:latitude":33.379628,
     "geom:longitude":-104.533701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 W McGaffey St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185955451,
-    "wof:lastmodified":1449007706,
+    "wof:lastmodified":1466699306,
     "wof:name":"Security Self Storage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-104.533701,33.379628,-104.533701,33.379628],
-  "geometry": {"coordinates":[-104.533701,33.379628],"type":"Point"}
+  "bbox": [
+    -104.533701,
+    33.379628,
+    -104.533701,
+    33.379628
+],
+  "geometry": {"coordinates":[-104.53370099999999,33.379628],"type":"Point"}
 }

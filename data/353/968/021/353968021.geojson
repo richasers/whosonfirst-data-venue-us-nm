@@ -2,13 +2,14 @@
   "id": 353968021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550491,35.075699,-106.550491,35.075699",
     "geom:latitude":35.075699,
     "geom:longitude":-106.550491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353968021,
-    "wof:lastmodified":1449018418,
+    "wof:lastmodified":1466698966,
     "wof:name":"M K Photonics Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "model"
     ]
 },
-  "bbox": [-106.550491,35.075699,-106.550491,35.075699],
-  "geometry": {"coordinates":[-106.550491,35.075699],"type":"Point"}
+  "bbox": [
+    -106.550491,
+    35.075699,
+    -106.550491,
+    35.075699
+],
+  "geometry": {"coordinates":[-106.55049099999999,35.075699],"type":"Point"}
 }

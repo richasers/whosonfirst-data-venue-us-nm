@@ -2,13 +2,14 @@
   "id": 185710073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.536878,35.093,-106.536878,35.093",
     "geom:latitude":35.093,
     "geom:longitude":-106.536878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 Parsifal St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185710073,
-    "wof:lastmodified":1449006694,
+    "wof:lastmodified":1466699434,
     "wof:name":"Pearl Hbr Srviviors Chapter 1",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.536878,35.093,-106.536878,35.093],
+  "bbox": [
+    -106.536878,
+    35.093,
+    -106.536878,
+    35.093
+],
   "geometry": {"coordinates":[-106.536878,35.093],"type":"Point"}
 }

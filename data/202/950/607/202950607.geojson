@@ -2,13 +2,14 @@
   "id": 202950607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.798927,32.312663,-106.798927,32.312663",
     "geom:latitude":32.312663,
     "geom:longitude":-106.798927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1560 W Picacho Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202950607,
-    "wof:lastmodified":1449061106,
+    "wof:lastmodified":1466700666,
     "wof:name":"Gracie's Seamstress Shop",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-106.798927,32.312663,-106.798927,32.312663],
-  "geometry": {"coordinates":[-106.798927,32.312663],"type":"Point"}
+  "bbox": [
+    -106.798927,
+    32.312663,
+    -106.798927,
+    32.312663
+],
+  "geometry": {"coordinates":[-106.79892700000001,32.312663],"type":"Point"}
 }

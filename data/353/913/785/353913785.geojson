@@ -2,13 +2,14 @@
   "id": 353913785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.566711,35.328044,-106.566711,35.328044",
     "geom:latitude":35.328044,
     "geom:longitude":-106.566711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Jemez Dam Rd",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353913785,
-    "wof:lastmodified":1449019250,
+    "wof:lastmodified":1466697611,
     "wof:name":"U S New Mexico Federal Cu",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.566711,35.328044,-106.566711,35.328044],
+  "bbox": [
+    -106.566711,
+    35.328044,
+    -106.566711,
+    35.328044
+],
   "geometry": {"coordinates":[-106.566711,35.328044],"type":"Point"}
 }

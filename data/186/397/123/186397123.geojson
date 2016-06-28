@@ -2,13 +2,14 @@
   "id": 186397123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.708758,32.26327,-106.708758,32.26327",
     "geom:latitude":32.26327,
     "geom:longitude":-106.708758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5186 Hunters Chase Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186397123,
-    "wof:lastmodified":1449051440,
+    "wof:lastmodified":1466699840,
     "wof:name":"Desert Diamond Pools",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.708758,32.26327,-106.708758,32.26327],
+  "bbox": [
+    -106.708758,
+    32.26327,
+    -106.708758,
+    32.26327
+],
   "geometry": {"coordinates":[-106.708758,32.26327],"type":"Point"}
 }

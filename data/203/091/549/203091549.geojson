@@ -2,13 +2,14 @@
   "id": 203091549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.578845,33.360941,-104.578845,33.360941",
     "geom:latitude":33.360941,
     "geom:longitude":-104.578845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2603 S Eisenhower Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203091549,
-    "wof:lastmodified":1449025124,
+    "wof:lastmodified":1466698607,
     "wof:name":"Circle Mtm Auctions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.578845,33.360941,-104.578845,33.360941],
+  "bbox": [
+    -104.578845,
+    33.360941,
+    -104.578845,
+    33.360941
+],
   "geometry": {"coordinates":[-104.578845,33.360941],"type":"Point"}
 }

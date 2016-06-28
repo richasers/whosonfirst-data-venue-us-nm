@@ -2,13 +2,14 @@
   "id": 185798463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.711118,35.112515,-106.711118,35.112515",
     "geom:latitude":35.112515,
     "geom:longitude":-106.711118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2504 Flor Silvestre NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185798463,
-    "wof:lastmodified":1449006920,
+    "wof:lastmodified":1466699335,
     "wof:name":"Rio Glyphs",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.711118,35.112515,-106.711118,35.112515],
+  "bbox": [
+    -106.711118,
+    35.112515,
+    -106.711118,
+    35.112515
+],
   "geometry": {"coordinates":[-106.711118,35.112515],"type":"Point"}
 }

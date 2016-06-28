@@ -2,13 +2,14 @@
   "id": 202982441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.511587,35.164105,-106.511587,35.164105",
     "geom:latitude":35.164105,
     "geom:longitude":-106.511587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11609 San Rafael Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202982441,
-    "wof:lastmodified":1449060530,
+    "wof:lastmodified":1466700596,
     "wof:name":"Integrated Support Systems Inc",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "internet"
     ]
 },
-  "bbox": [-106.511587,35.164105,-106.511587,35.164105],
-  "geometry": {"coordinates":[-106.511587,35.164105],"type":"Point"}
+  "bbox": [
+    -106.511587,
+    35.164105,
+    -106.511587,
+    35.164105
+],
+  "geometry": {"coordinates":[-106.51158700000001,35.164105],"type":"Point"}
 }

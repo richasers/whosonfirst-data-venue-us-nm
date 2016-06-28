@@ -2,13 +2,14 @@
   "id": 186499285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.685854,35.21115,-106.685854,35.21115",
     "geom:latitude":35.21115,
     "geom:longitude":-106.685854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5108 Stone Mountain Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186499285,
-    "wof:lastmodified":1449050912,
+    "wof:lastmodified":1466700305,
     "wof:name":"Shane Seery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-106.685854,35.21115,-106.685854,35.21115],
-  "geometry": {"coordinates":[-106.685854,35.21115],"type":"Point"}
+  "bbox": [
+    -106.685854,
+    35.21115,
+    -106.685854,
+    35.21115
+],
+  "geometry": {"coordinates":[-106.68585400000001,35.21115],"type":"Point"}
 }

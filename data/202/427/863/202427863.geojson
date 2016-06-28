@@ -2,13 +2,14 @@
   "id": 202427863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.642644,35.157513,-106.642644,35.157513",
     "geom:latitude":35.157513,
     "geom:longitude":-106.642644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Tascosa Ln NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202427863,
-    "wof:lastmodified":1449060876,
+    "wof:lastmodified":1466698286,
     "wof:name":"Windsong Engineering Inc",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.642644,35.157513,-106.642644,35.157513],
+  "bbox": [
+    -106.642644,
+    35.157513,
+    -106.642644,
+    35.157513
+],
   "geometry": {"coordinates":[-106.642644,35.157513],"type":"Point"}
 }

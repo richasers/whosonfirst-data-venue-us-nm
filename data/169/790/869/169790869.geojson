@@ -2,13 +2,14 @@
   "id": 169790869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.783341,32.326891,-106.783341,32.326891",
     "geom:latitude":32.326891,
     "geom:longitude":-106.783341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2190 N Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169790869,
-    "wof:lastmodified":1449035189,
+    "wof:lastmodified":1466698495,
     "wof:name":"Greenbacks All A Dollar",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.783341,32.326891,-106.783341,32.326891],
-  "geometry": {"coordinates":[-106.783341,32.326891],"type":"Point"}
+  "bbox": [
+    -106.783341,
+    32.326891,
+    -106.783341,
+    32.326891
+],
+  "geometry": {"coordinates":[-106.78334099999999,32.326891],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169857211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.650701,35.082484,-106.650701,35.082484",
     "geom:latitude":35.082484,
     "geom:longitude":-106.650701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 3rd St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169857211,
-    "wof:lastmodified":1449034824,
+    "wof:lastmodified":1466698926,
     "wof:name":"Baseline Field Svc",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-106.650701,35.082484,-106.650701,35.082484],
+  "bbox": [
+    -106.650701,
+    35.082484,
+    -106.650701,
+    35.082484
+],
   "geometry": {"coordinates":[-106.650701,35.082484],"type":"Point"}
 }

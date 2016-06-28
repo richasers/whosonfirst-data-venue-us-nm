@@ -2,13 +2,14 @@
   "id": 185817901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.62692,35.177054,-106.62692,35.177054",
     "geom:latitude":35.177054,
     "geom:longitude":-106.62692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 el Pueblo Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185817901,
-    "wof:lastmodified":1449007905,
+    "wof:lastmodified":1466697658,
     "wof:name":"Desertscapes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.62692,35.177054,-106.62692,35.177054],
+  "bbox": [
+    -106.62692,
+    35.177054,
+    -106.62692,
+    35.177054
+],
   "geometry": {"coordinates":[-106.62692,35.177054],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186353269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.688748,35.196673,-106.688748,35.196673",
     "geom:latitude":35.196673,
     "geom:longitude":-106.688748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5010 Olsen Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186353269,
-    "wof:lastmodified":1449051144,
+    "wof:lastmodified":1466699687,
     "wof:name":"Clara Lee Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.688748,35.196673,-106.688748,35.196673],
+  "bbox": [
+    -106.688748,
+    35.196673,
+    -106.688748,
+    35.196673
+],
   "geometry": {"coordinates":[-106.688748,35.196673],"type":"Point"}
 }

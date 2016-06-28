@@ -2,13 +2,14 @@
   "id": 202935257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.590813,35.17973,-106.590813,35.17973",
     "geom:latitude":35.17973,
     "geom:longitude":-106.590813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8411 Firestone Ln NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202935257,
-    "wof:lastmodified":1449062213,
+    "wof:lastmodified":1466700594,
     "wof:name":"Foreign Accents Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "covering"
     ]
 },
-  "bbox": [-106.590813,35.17973,-106.590813,35.17973],
+  "bbox": [
+    -106.590813,
+    35.17973,
+    -106.590813,
+    35.17973
+],
   "geometry": {"coordinates":[-106.590813,35.17973],"type":"Point"}
 }

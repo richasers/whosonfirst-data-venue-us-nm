@@ -2,13 +2,14 @@
   "id": 186228235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.013606,36.826696,-108.013606,36.826696",
     "geom:latitude":36.826696,
     "geom:longitude":-108.013606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 W Aztec Blvd",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186228235,
-    "wof:lastmodified":1449051217,
+    "wof:lastmodified":1466698375,
     "wof:name":"Roadrunner Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-108.013606,36.826696,-108.013606,36.826696],
+  "bbox": [
+    -108.013606,
+    36.826696,
+    -108.013606,
+    36.826696
+],
   "geometry": {"coordinates":[-108.013606,36.826696],"type":"Point"}
 }

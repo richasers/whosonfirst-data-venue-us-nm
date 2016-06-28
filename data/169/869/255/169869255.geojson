@@ -2,13 +2,14 @@
   "id": 169869255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.528778,33.394158,-104.528778,33.394158",
     "geom:latitude":33.394158,
     "geom:longitude":-104.528778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 W 2nd St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169869255,
-    "wof:lastmodified":1449035694,
+    "wof:lastmodified":1466698993,
     "wof:name":"Tinnie Mercantile Store & Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-104.528778,33.394158,-104.528778,33.394158],
+  "bbox": [
+    -104.528778,
+    33.394158,
+    -104.528778,
+    33.394158
+],
   "geometry": {"coordinates":[-104.528778,33.394158],"type":"Point"}
 }

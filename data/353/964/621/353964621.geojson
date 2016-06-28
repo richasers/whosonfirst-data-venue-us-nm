@@ -2,13 +2,14 @@
   "id": 353964621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.723848,35.051652,-106.723848,35.051652",
     "geom:latitude":35.051652,
     "geom:longitude":-106.723848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1342 Quartz Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353964621,
-    "wof:lastmodified":1449020180,
+    "wof:lastmodified":1466698869,
     "wof:name":"Trevizo Investments",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"
     ]
 },
-  "bbox": [-106.723848,35.051652,-106.723848,35.051652],
+  "bbox": [
+    -106.723848,
+    35.051652,
+    -106.723848,
+    35.051652
+],
   "geometry": {"coordinates":[-106.723848,35.051652],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169744195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.144769,32.712959,-103.144769,32.712959",
     "geom:latitude":32.712959,
     "geom:longitude":-103.144769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 N Grimes St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169744195,
-    "wof:lastmodified":1449033879,
+    "wof:lastmodified":1466698026,
     "wof:name":"Southwestern Electric Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fixture"
     ]
 },
-  "bbox": [-103.144769,32.712959,-103.144769,32.712959],
+  "bbox": [
+    -103.144769,
+    32.712959,
+    -103.144769,
+    32.712959
+],
   "geometry": {"coordinates":[-103.144769,32.712959],"type":"Point"}
 }

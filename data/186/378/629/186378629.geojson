@@ -2,13 +2,14 @@
   "id": 186378629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.75068,32.376004,-106.75068,32.376004",
     "geom:latitude":32.376004,
     "geom:longitude":-106.75068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3690 Malachite Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186378629,
-    "wof:lastmodified":1449052181,
+    "wof:lastmodified":1466699667,
     "wof:name":"American Southwest Contractors",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.75068,32.376004,-106.75068,32.376004],
+  "bbox": [
+    -106.75068,
+    32.376004,
+    -106.75068,
+    32.376004
+],
   "geometry": {"coordinates":[-106.75068,32.376004],"type":"Point"}
 }

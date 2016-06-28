@@ -2,13 +2,14 @@
   "id": 169814971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.756199,32.356839,-106.756199,32.356839",
     "geom:latitude":32.356839,
     "geom:longitude":-106.756199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2951 N Roadrunner Pkwy",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169814971,
-    "wof:lastmodified":1449033294,
+    "wof:lastmodified":1466698700,
     "wof:name":"Sandenaw Carrillo & Piazza",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.756199,32.356839,-106.756199,32.356839],
+  "bbox": [
+    -106.756199,
+    32.356839,
+    -106.756199,
+    32.356839
+],
   "geometry": {"coordinates":[-106.756199,32.356839],"type":"Point"}
 }

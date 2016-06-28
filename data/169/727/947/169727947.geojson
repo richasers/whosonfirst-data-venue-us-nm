@@ -2,13 +2,14 @@
   "id": 169727947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.399606,32.886283,-104.399606,32.886283",
     "geom:latitude":32.886283,
     "geom:longitude":-104.399606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Lake Arthur Hwy",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169727947,
-    "wof:lastmodified":1449033190,
+    "wof:lastmodified":1466697869,
     "wof:name":"Swig Compress",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cotton"
     ]
 },
-  "bbox": [-104.399606,32.886283,-104.399606,32.886283],
-  "geometry": {"coordinates":[-104.399606,32.886283],"type":"Point"}
+  "bbox": [
+    -104.399606,
+    32.886283,
+    -104.399606,
+    32.886283
+],
+  "geometry": {"coordinates":[-104.39960600000001,32.886283],"type":"Point"}
 }

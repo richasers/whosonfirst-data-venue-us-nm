@@ -2,13 +2,14 @@
   "id": 353967857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.496344,35.073315,-106.496344,35.073315",
     "geom:latitude":35.073315,
     "geom:longitude":-106.496344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 Tramway Blvd NE # 12",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353967857,
-    "wof:lastmodified":1449020615,
+    "wof:lastmodified":1466698962,
     "wof:name":"People S Flower Shops",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-106.496344,35.073315,-106.496344,35.073315],
-  "geometry": {"coordinates":[-106.496344,35.073315],"type":"Point"}
+  "bbox": [
+    -106.496344,
+    35.073315,
+    -106.496344,
+    35.073315
+],
+  "geometry": {"coordinates":[-106.49634399999999,35.073315],"type":"Point"}
 }

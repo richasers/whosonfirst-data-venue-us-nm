@@ -2,13 +2,14 @@
   "id": 186548289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.687229,35.201452,-106.687229,35.201452",
     "geom:latitude":35.201452,
     "geom:longitude":-106.687229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4928 Woodburne Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186548289,
-    "wof:lastmodified":1449052224,
+    "wof:lastmodified":1466700429,
     "wof:name":"Raine Draine Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.687229,35.201452,-106.687229,35.201452],
+  "bbox": [
+    -106.687229,
+    35.201452,
+    -106.687229,
+    35.201452
+],
   "geometry": {"coordinates":[-106.687229,35.201452],"type":"Point"}
 }

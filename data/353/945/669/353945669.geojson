@@ -2,13 +2,14 @@
   "id": 353945669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.571953,35.101109,-106.571953,35.101109",
     "geom:latitude":35.101109,
     "geom:longitude":-106.571953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6501 Americas Pkwy NE # 1020",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353945669,
-    "wof:lastmodified":1449018470,
+    "wof:lastmodified":1466698443,
     "wof:name":"San Pedro Creek Land Company",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.571953,35.101109,-106.571953,35.101109],
-  "geometry": {"coordinates":[-106.571953,35.101109],"type":"Point"}
+  "bbox": [
+    -106.571953,
+    35.101109,
+    -106.571953,
+    35.101109
+],
+  "geometry": {"coordinates":[-106.57195299999999,35.101109],"type":"Point"}
 }

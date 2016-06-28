@@ -2,13 +2,14 @@
   "id": 186426287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.595354,35.180628,-106.595354,35.180628",
     "geom:latitude":35.180628,
     "geom:longitude":-106.595354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8325 Washington St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186426287,
-    "wof:lastmodified":1449050972,
+    "wof:lastmodified":1466700043,
     "wof:name":"Mc Kinley Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "voltage"
     ]
 },
-  "bbox": [-106.595354,35.180628,-106.595354,35.180628],
+  "bbox": [
+    -106.595354,
+    35.180628,
+    -106.595354,
+    35.180628
+],
   "geometry": {"coordinates":[-106.595354,35.180628],"type":"Point"}
 }

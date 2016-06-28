@@ -2,13 +2,14 @@
   "id": 203088181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.702027,35.24568,-106.702027,35.24568",
     "geom:latitude":35.24568,
     "geom:longitude":-106.702027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"860 Polaris Blvd SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203088181,
-    "wof:lastmodified":1449026411,
+    "wof:lastmodified":1466698549,
     "wof:name":"Petals & Pages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-106.702027,35.24568,-106.702027,35.24568],
+  "bbox": [
+    -106.702027,
+    35.24568,
+    -106.702027,
+    35.24568
+],
   "geometry": {"coordinates":[-106.702027,35.24568],"type":"Point"}
 }

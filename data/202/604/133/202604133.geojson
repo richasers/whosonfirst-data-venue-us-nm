@@ -2,13 +2,14 @@
   "id": 202604133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.945485,35.692952,-105.945485,35.692952",
     "geom:latitude":35.692952,
     "geom:longitude":-105.945485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Sandia St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202604133,
-    "wof:lastmodified":1449062354,
+    "wof:lastmodified":1466698436,
     "wof:name":"Master Cleaners",
     "wof:parent_id":85880833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-105.945485,35.692952,-105.945485,35.692952],
-  "geometry": {"coordinates":[-105.945485,35.692952],"type":"Point"}
+  "bbox": [
+    -105.945485,
+    35.692952,
+    -105.945485,
+    35.692952
+],
+  "geometry": {"coordinates":[-105.94548500000001,35.692952],"type":"Point"}
 }

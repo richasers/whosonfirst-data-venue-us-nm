@@ -2,13 +2,14 @@
   "id": 185830585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.136721,36.792806,-108.136721,36.792806",
     "geom:latitude":36.792806,
     "geom:longitude":-108.136721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6750 Halls Way",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185830585,
-    "wof:lastmodified":1449006958,
+    "wof:lastmodified":1466697798,
     "wof:name":"Turnbull Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-108.136721,36.792806,-108.136721,36.792806],
-  "geometry": {"coordinates":[-108.136721,36.792806],"type":"Point"}
+  "bbox": [
+    -108.136721,
+    36.792806,
+    -108.136721,
+    36.792806
+],
+  "geometry": {"coordinates":[-108.13672099999999,36.792806],"type":"Point"}
 }

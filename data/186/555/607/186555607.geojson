@@ -2,13 +2,14 @@
   "id": 186555607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.316492,35.122935,-106.316492,35.122935",
     "geom:latitude":35.122935,
     "geom:longitude":-106.316492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Cam del Senador",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186555607,
-    "wof:lastmodified":1449052633,
+    "wof:lastmodified":1466700328,
     "wof:name":"Enhancement Electronics Inc",
     "wof:parent_id":85892617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.316492,35.122935,-106.316492,35.122935],
+  "bbox": [
+    -106.316492,
+    35.122935,
+    -106.316492,
+    35.122935
+],
   "geometry": {"coordinates":[-106.316492,35.122935],"type":"Point"}
 }

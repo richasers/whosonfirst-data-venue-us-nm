@@ -2,13 +2,14 @@
   "id": 169729959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.254108,32.393626,-104.254108,32.393626",
     "geom:latitude":32.393626,
     "geom:longitude":-104.254108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 Tower Rd",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169729959,
-    "wof:lastmodified":1449034348,
+    "wof:lastmodified":1466697890,
     "wof:name":"Harris Harvey & Laraine",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.254108,32.393626,-104.254108,32.393626],
+  "bbox": [
+    -104.254108,
+    32.393626,
+    -104.254108,
+    32.393626
+],
   "geometry": {"coordinates":[-104.254108,32.393626],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186231659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.053776,36.002304,-106.053776,36.002304",
     "geom:latitude":36.002304,
     "geom:longitude":-106.053776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Los Alamos Ave",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186231659,
-    "wof:lastmodified":1449051737,
+    "wof:lastmodified":1466698418,
     "wof:name":"La Cocina Restaurant",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.053776,36.002304,-106.053776,36.002304],
+  "bbox": [
+    -106.053776,
+    36.002304,
+    -106.053776,
+    36.002304
+],
   "geometry": {"coordinates":[-106.053776,36.002304],"type":"Point"}
 }

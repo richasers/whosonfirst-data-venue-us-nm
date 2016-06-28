@@ -2,13 +2,14 @@
   "id": 186096067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.703574,35.145839,-106.703574,35.145839",
     "geom:latitude":35.145839,
     "geom:longitude":-106.703574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5612 Cll Quieta NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186096067,
-    "wof:lastmodified":1449051255,
+    "wof:lastmodified":1466698842,
     "wof:name":"Top Dawg Concessions",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "concessionaire"
     ]
 },
-  "bbox": [-106.703574,35.145839,-106.703574,35.145839],
+  "bbox": [
+    -106.703574,
+    35.145839,
+    -106.703574,
+    35.145839
+],
   "geometry": {"coordinates":[-106.703574,35.145839],"type":"Point"}
 }

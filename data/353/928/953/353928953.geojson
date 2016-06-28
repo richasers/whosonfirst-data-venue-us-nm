@@ -2,13 +2,14 @@
   "id": 353928953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.605667,35.11293,-106.605667,35.11293",
     "geom:latitude":35.11293,
     "geom:longitude":-106.605667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3421 Claremont Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[],
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":353928953,
-    "wof:lastmodified":1449020453,
+    "wof:lastmodified":1466697974,
     "wof:name":"William Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.605667,35.11293,-106.605667,35.11293],
+  "bbox": [
+    -106.605667,
+    35.11293,
+    -106.605667,
+    35.11293
+],
   "geometry": {"coordinates":[-106.605667,35.11293],"type":"Point"}
 }

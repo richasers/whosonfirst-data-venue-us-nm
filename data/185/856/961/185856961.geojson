@@ -2,13 +2,14 @@
   "id": 185856961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.626776,36.458686,-105.626776,36.458686",
     "geom:latitude":36.458686,
     "geom:longitude":-105.626776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24663 US Hwy 64",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185856961,
-    "wof:lastmodified":1449007070,
+    "wof:lastmodified":1466698084,
     "wof:name":"Waste Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "waste"
     ]
 },
-  "bbox": [-105.626776,36.458686,-105.626776,36.458686],
-  "geometry": {"coordinates":[-105.626776,36.458686],"type":"Point"}
+  "bbox": [
+    -105.626776,
+    36.458686,
+    -105.626776,
+    36.458686
+],
+  "geometry": {"coordinates":[-105.62677600000001,36.458686],"type":"Point"}
 }

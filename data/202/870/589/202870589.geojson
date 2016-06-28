@@ -2,13 +2,14 @@
   "id": 202870589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.347232,32.94404,-103.347232,32.94404",
     "geom:latitude":32.94404,
     "geom:longitude":-103.347232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 E Ave D",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202870589,
-    "wof:lastmodified":1449060782,
+    "wof:lastmodified":1466700256,
     "wof:name":"Lovington Auto Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-103.347232,32.94404,-103.347232,32.94404],
-  "geometry": {"coordinates":[-103.347232,32.94404],"type":"Point"}
+  "bbox": [
+    -103.347232,
+    32.94404,
+    -103.347232,
+    32.94404
+],
+  "geometry": {"coordinates":[-103.34723200000001,32.94404],"type":"Point"}
 }

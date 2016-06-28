@@ -2,13 +2,14 @@
   "id": 185883953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.234738,32.434502,-104.234738,32.434502",
     "geom:latitude":32.434502,
     "geom:longitude":-104.234738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 N Spring St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185883953,
-    "wof:lastmodified":1449007853,
+    "wof:lastmodified":1466698356,
     "wof:name":"Cliff's Car Wash",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-104.234738,32.434502,-104.234738,32.434502],
-  "geometry": {"coordinates":[-104.234738,32.434502],"type":"Point"}
+  "bbox": [
+    -104.234738,
+    32.434502,
+    -104.234738,
+    32.434502
+],
+  "geometry": {"coordinates":[-104.23473799999999,32.434502],"type":"Point"}
 }

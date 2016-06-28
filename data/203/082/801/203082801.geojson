@@ -2,13 +2,14 @@
   "id": 203082801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.609576,35.105234,-106.609576,35.105234",
     "geom:latitude":35.105234,
     "geom:longitude":-106.609576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1911 Bryn Mawr Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203082801,
-    "wof:lastmodified":1449024999,
+    "wof:lastmodified":1466698487,
     "wof:name":"Manufactured Housing Inspector",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "program"
     ]
 },
-  "bbox": [-106.609576,35.105234,-106.609576,35.105234],
+  "bbox": [
+    -106.609576,
+    35.105234,
+    -106.609576,
+    35.105234
+],
   "geometry": {"coordinates":[-106.609576,35.105234],"type":"Point"}
 }

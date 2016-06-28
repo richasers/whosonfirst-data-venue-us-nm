@@ -2,13 +2,14 @@
   "id": 202941475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.196608,34.41869,-103.196608,34.41869",
     "geom:latitude":34.41869,
     "geom:longitude":-103.196608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1704 N Prince St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202941475,
-    "wof:lastmodified":1449061632,
+    "wof:lastmodified":1466700645,
     "wof:name":"Hollywood Tattoo & Body Pier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.196608,34.41869,-103.196608,34.41869],
+  "bbox": [
+    -103.196608,
+    34.41869,
+    -103.196608,
+    34.41869
+],
   "geometry": {"coordinates":[-103.196608,34.41869],"type":"Point"}
 }

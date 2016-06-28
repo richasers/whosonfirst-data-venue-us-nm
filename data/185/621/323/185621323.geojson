@@ -2,13 +2,14 @@
   "id": 185621323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.501043,35.133288,-106.501043,35.133288",
     "geom:latitude":35.133288,
     "geom:longitude":-106.501043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4729 Oahu Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185621323,
-    "wof:lastmodified":1449008030,
+    "wof:lastmodified":1466697826,
     "wof:name":"ABQ Electric",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.501043,35.133288,-106.501043,35.133288],
+  "bbox": [
+    -106.501043,
+    35.133288,
+    -106.501043,
+    35.133288
+],
   "geometry": {"coordinates":[-106.501043,35.133288],"type":"Point"}
 }

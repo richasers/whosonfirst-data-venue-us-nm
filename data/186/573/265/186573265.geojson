@@ -2,13 +2,14 @@
   "id": 186573265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.527388,35.142838,-106.527388,35.142838",
     "geom:latitude":35.142838,
     "geom:longitude":-106.527388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10100 Isla Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186573265,
-    "wof:lastmodified":1449052331,
+    "wof:lastmodified":1466700544,
     "wof:name":"Trade Bytes Inc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-106.527388,35.142838,-106.527388,35.142838],
+  "bbox": [
+    -106.527388,
+    35.142838,
+    -106.527388,
+    35.142838
+],
   "geometry": {"coordinates":[-106.527388,35.142838],"type":"Point"}
 }

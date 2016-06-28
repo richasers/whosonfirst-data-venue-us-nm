@@ -2,13 +2,14 @@
   "id": 186120957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.723747,35.044857,-106.723747,35.044857",
     "geom:latitude":35.044857,
     "geom:longitude":-106.723747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2420 Purple Rock Pl SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186120957,
-    "wof:lastmodified":1449052629,
+    "wof:lastmodified":1466699108,
     "wof:name":"Tammies Tykes",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.723747,35.044857,-106.723747,35.044857],
+  "bbox": [
+    -106.723747,
+    35.044857,
+    -106.723747,
+    35.044857
+],
   "geometry": {"coordinates":[-106.723747,35.044857],"type":"Point"}
 }

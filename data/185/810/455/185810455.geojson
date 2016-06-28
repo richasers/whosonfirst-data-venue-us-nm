@@ -2,13 +2,14 @@
   "id": 185810455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.887158,35.485093,-105.887158,35.485093",
     "geom:latitude":35.485093,
     "geom:longitude":-105.887158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Lime Kiln Rd",
     "sg:city":"Lamy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185810455,
-    "wof:lastmodified":1449007085,
+    "wof:lastmodified":1466699374,
     "wof:name":"Complete Owner-Builder Systems",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-105.887158,35.485093,-105.887158,35.485093],
+  "bbox": [
+    -105.887158,
+    35.485093,
+    -105.887158,
+    35.485093
+],
   "geometry": {"coordinates":[-105.887158,35.485093],"type":"Point"}
 }

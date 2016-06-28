@@ -2,13 +2,14 @@
   "id": 185851643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.705719,35.168283,-106.705719,35.168283",
     "geom:latitude":35.168283,
     "geom:longitude":-106.705719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7619 Window Rock Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185851643,
-    "wof:lastmodified":1449007661,
+    "wof:lastmodified":1466698030,
     "wof:name":"Castle Builders Inc",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.705719,35.168283,-106.705719,35.168283],
+  "bbox": [
+    -106.705719,
+    35.168283,
+    -106.705719,
+    35.168283
+],
   "geometry": {"coordinates":[-106.705719,35.168283],"type":"Point"}
 }

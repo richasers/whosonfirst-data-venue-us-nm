@@ -2,13 +2,14 @@
   "id": 186142315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.787331,32.305105,-106.787331,32.305105",
     "geom:latitude":32.305105,
     "geom:longitude":-106.787331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Compress Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186142315,
-    "wof:lastmodified":1449052476,
+    "wof:lastmodified":1466699214,
     "wof:name":"Santa Fe Mining Co",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "product"
     ]
 },
-  "bbox": [-106.787331,32.305105,-106.787331,32.305105],
-  "geometry": {"coordinates":[-106.787331,32.305105],"type":"Point"}
+  "bbox": [
+    -106.787331,
+    32.305105,
+    -106.787331,
+    32.305105
+],
+  "geometry": {"coordinates":[-106.78733099999999,32.305105],"type":"Point"}
 }

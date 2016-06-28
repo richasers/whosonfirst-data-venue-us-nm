@@ -2,13 +2,14 @@
   "id": 202686727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.752396,34.655622,-106.752396,34.655622",
     "geom:latitude":34.655622,
     "geom:longitude":-106.752396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 E River Rd",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202686727,
-    "wof:lastmodified":1449062037,
+    "wof:lastmodified":1466699689,
     "wof:name":"Baker Insurance Svc",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.752396,34.655622,-106.752396,34.655622],
+  "bbox": [
+    -106.752396,
+    34.655622,
+    -106.752396,
+    34.655622
+],
   "geometry": {"coordinates":[-106.752396,34.655622],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186133339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.922428,35.671942,-105.922428,35.671942",
     "geom:latitude":35.671942,
     "geom:longitude":-105.922428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 Cam del Monte Sol",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186133339,
-    "wof:lastmodified":1449052544,
+    "wof:lastmodified":1466699179,
     "wof:name":"Energetic Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [-105.922428,35.671942,-105.922428,35.671942],
+  "bbox": [
+    -105.922428,
+    35.671942,
+    -105.922428,
+    35.671942
+],
   "geometry": {"coordinates":[-105.922428,35.671942],"type":"Point"}
 }

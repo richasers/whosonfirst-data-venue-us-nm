@@ -2,13 +2,14 @@
   "id": 185901221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.702024,32.343678,-108.702024,32.343678",
     "geom:latitude":32.343678,
     "geom:longitude":-108.702024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Arnold St",
     "sg:city":"Lordsburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185901221,
-    "wof:lastmodified":1449007276,
+    "wof:lastmodified":1466698536,
     "wof:name":"National Education Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.702024,32.343678,-108.702024,32.343678],
-  "geometry": {"coordinates":[-108.702024,32.343678],"type":"Point"}
+  "bbox": [
+    -108.702024,
+    32.343678,
+    -108.702024,
+    32.343678
+],
+  "geometry": {"coordinates":[-108.70202399999999,32.343678],"type":"Point"}
 }

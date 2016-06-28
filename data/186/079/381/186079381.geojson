@@ -2,13 +2,14 @@
   "id": 186079381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.791193,32.291656,-106.791193,32.291656",
     "geom:latitude":32.291656,
     "geom:longitude":-106.791193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1680 Hickory Loop",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186079381,
-    "wof:lastmodified":1449052556,
+    "wof:lastmodified":1466698632,
     "wof:name":"AAAA Smart Start",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "devices"
     ]
 },
-  "bbox": [-106.791193,32.291656,-106.791193,32.291656],
-  "geometry": {"coordinates":[-106.791193,32.291656],"type":"Point"}
+  "bbox": [
+    -106.791193,
+    32.291656,
+    -106.791193,
+    32.291656
+],
+  "geometry": {"coordinates":[-106.79119300000001,32.291656],"type":"Point"}
 }

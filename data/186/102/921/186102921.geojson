@@ -2,13 +2,14 @@
   "id": 186102921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.677835,33.332321,-105.677835,33.332321",
     "geom:latitude":33.332321,
     "geom:longitude":-105.677835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2804 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186102921,
-    "wof:lastmodified":1449052826,
+    "wof:lastmodified":1466698949,
     "wof:name":"Grizzly's Bear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.677835,33.332321,-105.677835,33.332321],
+  "bbox": [
+    -105.677835,
+    33.332321,
+    -105.677835,
+    33.332321
+],
   "geometry": {"coordinates":[-105.677835,33.332321],"type":"Point"}
 }

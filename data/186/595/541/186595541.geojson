@@ -2,13 +2,14 @@
   "id": 186595541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550957,35.11494,-106.550957,35.11494",
     "geom:latitude":35.11494,
     "geom:longitude":-106.550957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2547 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186595541,
-    "wof:lastmodified":1449052759,
+    "wof:lastmodified":1466700628,
     "wof:name":"A B Q Real Estate Appraisers",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.550957,35.11494,-106.550957,35.11494],
+  "bbox": [
+    -106.550957,
+    35.11494,
+    -106.550957,
+    35.11494
+],
   "geometry": {"coordinates":[-106.550957,35.11494],"type":"Point"}
 }

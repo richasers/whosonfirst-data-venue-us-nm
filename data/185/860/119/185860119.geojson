@@ -2,13 +2,14 @@
   "id": 185860119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.578674,35.071264,-106.578674,35.071264",
     "geom:latitude":35.071264,
     "geom:longitude":-106.578674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Cagua Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185860119,
-    "wof:lastmodified":1449007330,
+    "wof:lastmodified":1466698115,
     "wof:name":"Kristy's Nail Gallery",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manicuring"
     ]
 },
-  "bbox": [-106.578674,35.071264,-106.578674,35.071264],
-  "geometry": {"coordinates":[-106.578674,35.071264],"type":"Point"}
+  "bbox": [
+    -106.578674,
+    35.071264,
+    -106.578674,
+    35.071264
+],
+  "geometry": {"coordinates":[-106.57867400000001,35.071264],"type":"Point"}
 }

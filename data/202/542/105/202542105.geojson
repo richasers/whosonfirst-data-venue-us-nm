@@ -2,13 +2,14 @@
   "id": 202542105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.530068,35.190259,-106.530068,35.190259",
     "geom:latitude":35.190259,
     "geom:longitude":-106.530068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9911 Glendale Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202542105,
-    "wof:lastmodified":1449062092,
+    "wof:lastmodified":1466699309,
     "wof:name":"Sunlight Homes",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "design"
     ]
 },
-  "bbox": [-106.530068,35.190259,-106.530068,35.190259],
+  "bbox": [
+    -106.530068,
+    35.190259,
+    -106.530068,
+    35.190259
+],
   "geometry": {"coordinates":[-106.530068,35.190259],"type":"Point"}
 }

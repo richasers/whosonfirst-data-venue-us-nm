@@ -2,13 +2,14 @@
   "id": 185832991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.255962,33.128596,-107.255962,33.128596",
     "geom:latitude":33.128596,
     "geom:longitude":-107.255962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 N Broadway St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185832991,
-    "wof:lastmodified":1449006600,
+    "wof:lastmodified":1466697824,
     "wof:name":"Rohne Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-107.255962,33.128596,-107.255962,33.128596],
+  "bbox": [
+    -107.255962,
+    33.128596,
+    -107.255962,
+    33.128596
+],
   "geometry": {"coordinates":[-107.255962,33.128596],"type":"Point"}
 }

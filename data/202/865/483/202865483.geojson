@@ -2,13 +2,14 @@
   "id": 202865483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.515016,35.083145,-106.515016,35.083145",
     "geom:latitude":35.083145,
     "geom:longitude":-106.515016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"670 Juan Tabo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202865483,
-    "wof:lastmodified":1449062030,
+    "wof:lastmodified":1466700244,
     "wof:name":"ALBUQUERQUE Print Works",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-106.515016,35.083145,-106.515016,35.083145],
+  "bbox": [
+    -106.515016,
+    35.083145,
+    -106.515016,
+    35.083145
+],
   "geometry": {"coordinates":[-106.515016,35.083145],"type":"Point"}
 }

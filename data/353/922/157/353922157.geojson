@@ -2,13 +2,14 @@
   "id": 353922157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.658546,35.091949,-106.658546,35.091949",
     "geom:latitude":35.091949,
     "geom:longitude":-106.658546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Lomas Blvd NW Ste 1",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353922157,
-    "wof:lastmodified":1449018493,
+    "wof:lastmodified":1466697785,
     "wof:name":"Lehman, Thomas P Dr",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-106.658546,35.091949,-106.658546,35.091949],
+  "bbox": [
+    -106.658546,
+    35.091949,
+    -106.658546,
+    35.091949
+],
   "geometry": {"coordinates":[-106.658546,35.091949],"type":"Point"}
 }

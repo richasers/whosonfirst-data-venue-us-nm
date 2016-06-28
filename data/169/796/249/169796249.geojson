@@ -2,13 +2,14 @@
   "id": 169796249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.009396,35.645273,-106.009396,35.645273",
     "geom:latitude":35.645273,
     "geom:longitude":-106.009396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1360 Vegas Verdes Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169796249,
-    "wof:lastmodified":1449034235,
+    "wof:lastmodified":1466698553,
     "wof:name":"P B A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "direct"
     ]
 },
-  "bbox": [-106.009396,35.645273,-106.009396,35.645273],
+  "bbox": [
+    -106.009396,
+    35.645273,
+    -106.009396,
+    35.645273
+],
   "geometry": {"coordinates":[-106.009396,35.645273],"type":"Point"}
 }

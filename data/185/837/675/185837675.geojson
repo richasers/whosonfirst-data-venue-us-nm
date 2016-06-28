@@ -2,13 +2,14 @@
   "id": 185837675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.558839,35.11439,-106.558839,35.11439",
     "geom:latitude":35.11439,
     "geom:longitude":-106.558839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2913 Rhode Island St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185837675,
-    "wof:lastmodified":1449006866,
+    "wof:lastmodified":1466697871,
     "wof:name":"Beate Boudro Legal Svc",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.558839,35.11439,-106.558839,35.11439],
-  "geometry": {"coordinates":[-106.558839,35.11439],"type":"Point"}
+  "bbox": [
+    -106.558839,
+    35.11439,
+    -106.558839,
+    35.11439
+],
+  "geometry": {"coordinates":[-106.55883900000001,35.11439],"type":"Point"}
 }

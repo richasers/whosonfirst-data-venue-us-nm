@@ -2,13 +2,14 @@
   "id": 186575415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781902,32.328109,-106.781902,32.328109",
     "geom:latitude":32.328109,
     "geom:longitude":-106.781902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 E Madrid Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186575415,
-    "wof:lastmodified":1449051153,
+    "wof:lastmodified":1466700552,
     "wof:name":"Triple J Excavation",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.781902,32.328109,-106.781902,32.328109],
+  "bbox": [
+    -106.781902,
+    32.328109,
+    -106.781902,
+    32.328109
+],
   "geometry": {"coordinates":[-106.781902,32.328109],"type":"Point"}
 }

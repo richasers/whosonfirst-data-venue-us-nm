@@ -2,13 +2,14 @@
   "id": 186151647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.253292,34.475377,-104.253292,34.475377",
     "geom:latitude":34.475377,
     "geom:longitude":-104.253292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 W Sumner Ave",
     "sg:city":"Fort Sumner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186151647,
-    "wof:lastmodified":1449050282,
+    "wof:lastmodified":1466699334,
     "wof:name":"Enmr Plateau Telecommunication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-104.253292,34.475377,-104.253292,34.475377],
+  "bbox": [
+    -104.253292,
+    34.475377,
+    -104.253292,
+    34.475377
+],
   "geometry": {"coordinates":[-104.253292,34.475377],"type":"Point"}
 }

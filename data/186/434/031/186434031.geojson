@@ -2,13 +2,14 @@
   "id": 186434031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.227119,36.720992,-108.227119,36.720992",
     "geom:latitude":36.720992,
     "geom:longitude":-108.227119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1280 State Hwy 371",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186434031,
-    "wof:lastmodified":1449050978,
+    "wof:lastmodified":1466700085,
     "wof:name":"Havens Leasing LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "form"
     ]
 },
-  "bbox": [-108.227119,36.720992,-108.227119,36.720992],
+  "bbox": [
+    -108.227119,
+    36.720992,
+    -108.227119,
+    36.720992
+],
   "geometry": {"coordinates":[-108.227119,36.720992],"type":"Point"}
 }

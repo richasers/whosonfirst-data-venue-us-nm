@@ -2,13 +2,14 @@
   "id": 185723899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586572,35.127952,-106.586572,35.127952",
     "geom:latitude":35.127952,
     "geom:longitude":-106.586572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4205 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185723899,
-    "wof:lastmodified":1449007553,
+    "wof:lastmodified":1466698880,
     "wof:name":"Safety Child",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.586572,35.127952,-106.586572,35.127952],
+  "bbox": [
+    -106.586572,
+    35.127952,
+    -106.586572,
+    35.127952
+],
   "geometry": {"coordinates":[-106.586572,35.127952],"type":"Point"}
 }

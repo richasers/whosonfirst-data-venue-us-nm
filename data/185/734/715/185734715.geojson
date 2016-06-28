@@ -2,13 +2,14 @@
   "id": 185734715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.133701,32.701795,-103.133701,32.701795",
     "geom:latitude":32.701795,
     "geom:longitude":-103.133701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 E Taylor St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185734715,
-    "wof:lastmodified":1449008019,
+    "wof:lastmodified":1466699029,
     "wof:name":"Jack Kernan MD PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-103.133701,32.701795,-103.133701,32.701795],
+  "bbox": [
+    -103.133701,
+    32.701795,
+    -103.133701,
+    32.701795
+],
   "geometry": {"coordinates":[-103.133701,32.701795],"type":"Point"}
 }

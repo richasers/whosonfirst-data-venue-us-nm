@@ -2,13 +2,14 @@
   "id": 185604551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.078725,34.850952,-106.078725,34.850952",
     "geom:latitude":34.850952,
     "geom:longitude":-106.078725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Irving Dr",
     "sg:city":"Mc Intosh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185604551,
-    "wof:lastmodified":1449008036,
+    "wof:lastmodified":1466697641,
     "wof:name":"Do Right Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "drilling"
     ]
 },
-  "bbox": [-106.078725,34.850952,-106.078725,34.850952],
-  "geometry": {"coordinates":[-106.078725,34.850952],"type":"Point"}
+  "bbox": [
+    -106.078725,
+    34.850952,
+    -106.078725,
+    34.850952
+],
+  "geometry": {"coordinates":[-106.07872500000001,34.850952],"type":"Point"}
 }

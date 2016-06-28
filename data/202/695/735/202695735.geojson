@@ -2,13 +2,14 @@
   "id": 202695735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613688,35.116794,-106.613688,35.116794",
     "geom:latitude":35.116794,
     "geom:longitude":-106.613688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3310 Girard Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202695735,
-    "wof:lastmodified":1449061074,
+    "wof:lastmodified":1466699599,
     "wof:name":"Great Western Electrical Contr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.613688,35.116794,-106.613688,35.116794],
+  "bbox": [
+    -106.613688,
+    35.116794,
+    -106.613688,
+    35.116794
+],
   "geometry": {"coordinates":[-106.613688,35.116794],"type":"Point"}
 }

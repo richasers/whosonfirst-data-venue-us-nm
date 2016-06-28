@@ -2,13 +2,14 @@
   "id": 186619921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.631006,34.804805,-106.631006,34.804805",
     "geom:latitude":34.804805,
     "geom:longitude":-106.631006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 High Mesa Rd",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186619921,
-    "wof:lastmodified":1449050897,
+    "wof:lastmodified":1466700579,
     "wof:name":"R R E D Construction",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.631006,34.804805,-106.631006,34.804805],
+  "bbox": [
+    -106.631006,
+    34.804805,
+    -106.631006,
+    34.804805
+],
   "geometry": {"coordinates":[-106.631006,34.804805],"type":"Point"}
 }

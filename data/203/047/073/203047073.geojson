@@ -2,13 +2,14 @@
   "id": 203047073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.519895,35.148537,-106.519895,35.148537",
     "geom:latitude":35.148537,
     "geom:longitude":-106.519895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10808 Hagen Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203047073,
-    "wof:lastmodified":1449026195,
+    "wof:lastmodified":1466698107,
     "wof:name":"Gary Wall Consultant",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.519895,35.148537,-106.519895,35.148537],
-  "geometry": {"coordinates":[-106.519895,35.148537],"type":"Point"}
+  "bbox": [
+    -106.519895,
+    35.148537,
+    -106.519895,
+    35.148537
+],
+  "geometry": {"coordinates":[-106.51989500000001,35.148537],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186427983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.73434,32.255499,-107.73434,32.255499",
     "geom:latitude":32.255499,
     "geom:longitude":-107.73434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 S Country Club Rd",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186427983,
-    "wof:lastmodified":1449051186,
+    "wof:lastmodified":1466699955,
     "wof:name":"High Point Electric Inc-Nm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-107.73434,32.255499,-107.73434,32.255499],
+  "bbox": [
+    -107.73434,
+    32.255499,
+    -107.73434,
+    32.255499
+],
   "geometry": {"coordinates":[-107.73434,32.255499],"type":"Point"}
 }

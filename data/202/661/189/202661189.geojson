@@ -2,13 +2,14 @@
   "id": 202661189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.183175,36.452465,-103.183175,36.452465",
     "geom:latitude":36.452465,
     "geom:longitude":-103.183175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 N 2nd St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202661189,
-    "wof:lastmodified":1449062375,
+    "wof:lastmodified":1466699302,
     "wof:name":"Emmanuel Impressions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.183175,36.452465,-103.183175,36.452465],
-  "geometry": {"coordinates":[-103.183175,36.452465],"type":"Point"}
+  "bbox": [
+    -103.183175,
+    36.452465,
+    -103.183175,
+    36.452465
+],
+  "geometry": {"coordinates":[-103.18317500000001,36.452465],"type":"Point"}
 }

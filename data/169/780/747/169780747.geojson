@@ -2,13 +2,14 @@
   "id": 169780747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.141382,32.701813,-103.141382,32.701813",
     "geom:latitude":32.701813,
     "geom:longitude":-103.141382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 W Taylor St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169780747,
-    "wof:lastmodified":1449035140,
+    "wof:lastmodified":1466698355,
     "wof:name":"Universal Precision Mfg Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-103.141382,32.701813,-103.141382,32.701813],
-  "geometry": {"coordinates":[-103.141382,32.701813],"type":"Point"}
+  "bbox": [
+    -103.141382,
+    32.701813,
+    -103.141382,
+    32.701813
+],
+  "geometry": {"coordinates":[-103.14138199999999,32.701813],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186392395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.580475,35.137217,-106.580475,35.137217",
     "geom:latitude":35.137217,
     "geom:longitude":-106.580475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6113 Kingston Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186392395,
-    "wof:lastmodified":1449052480,
+    "wof:lastmodified":1466699808,
     "wof:name":"Valdez Day Care",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.580475,35.137217,-106.580475,35.137217],
-  "geometry": {"coordinates":[-106.580475,35.137217],"type":"Point"}
+  "bbox": [
+    -106.580475,
+    35.137217,
+    -106.580475,
+    35.137217
+],
+  "geometry": {"coordinates":[-106.58047500000001,35.137217],"type":"Point"}
 }

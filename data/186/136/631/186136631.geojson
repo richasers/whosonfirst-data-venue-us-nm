@@ -2,13 +2,14 @@
   "id": 186136631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.547275,35.157221,-106.547275,35.157221",
     "geom:latitude":35.157221,
     "geom:longitude":-106.547275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6904 Cherry Blossom Ln NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186136631,
-    "wof:lastmodified":1449052993,
+    "wof:lastmodified":1466699186,
     "wof:name":"Supreme Drywall Systems Inc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.547275,35.157221,-106.547275,35.157221],
+  "bbox": [
+    -106.547275,
+    35.157221,
+    -106.547275,
+    35.157221
+],
   "geometry": {"coordinates":[-106.547275,35.157221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169714469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.657646,35.084213,-106.657646,35.084213",
     "geom:latitude":35.084213,
     "geom:longitude":-106.657646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Gold Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169714469,
-    "wof:lastmodified":1449034317,
+    "wof:lastmodified":1466697709,
     "wof:name":"Video New Mexico",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-106.657646,35.084213,-106.657646,35.084213],
+  "bbox": [
+    -106.657646,
+    35.084213,
+    -106.657646,
+    35.084213
+],
   "geometry": {"coordinates":[-106.657646,35.084213],"type":"Point"}
 }

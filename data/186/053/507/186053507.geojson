@@ -2,13 +2,14 @@
   "id": 186053507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.51976,33.39546,-104.51976,33.39546",
     "geom:latitude":33.39546,
     "geom:longitude":-104.51976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 E 3rd St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186053507,
-    "wof:lastmodified":1449050910,
+    "wof:lastmodified":1466698288,
     "wof:name":"Roswell Winnelson Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-104.51976,33.39546,-104.51976,33.39546],
-  "geometry": {"coordinates":[-104.51976,33.39546],"type":"Point"}
+  "bbox": [
+    -104.51976,
+    33.39546,
+    -104.51976,
+    33.39546
+],
+  "geometry": {"coordinates":[-104.51976000000001,33.39546],"type":"Point"}
 }

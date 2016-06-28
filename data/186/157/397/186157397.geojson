@@ -2,13 +2,14 @@
   "id": 186157397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.76116,32.297769,-106.76116,32.297769",
     "geom:latitude":32.297769,
     "geom:longitude":-106.76116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 S Solano Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186157397,
-    "wof:lastmodified":1449052636,
+    "wof:lastmodified":1466699345,
     "wof:name":"N M Finance LLC",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-106.76116,32.297769,-106.76116,32.297769],
+  "bbox": [
+    -106.76116,
+    32.297769,
+    -106.76116,
+    32.297769
+],
   "geometry": {"coordinates":[-106.76116,32.297769],"type":"Point"}
 }

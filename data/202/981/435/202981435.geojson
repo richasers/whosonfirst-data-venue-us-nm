@@ -2,13 +2,14 @@
   "id": 202981435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.690549,34.857686,-106.690549,34.857686",
     "geom:latitude":34.857686,
     "geom:longitude":-106.690549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1160 Bosque Farms Blvd",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202981435,
-    "wof:lastmodified":1449062703,
+    "wof:lastmodified":1466700590,
     "wof:name":"Scents & Suds",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "candle"
     ]
 },
-  "bbox": [-106.690549,34.857686,-106.690549,34.857686],
+  "bbox": [
+    -106.690549,
+    34.857686,
+    -106.690549,
+    34.857686
+],
   "geometry": {"coordinates":[-106.690549,34.857686],"type":"Point"}
 }

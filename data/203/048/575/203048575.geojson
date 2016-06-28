@@ -2,13 +2,14 @@
   "id": 203048575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.705381,35.144333,-106.705381,35.144333",
     "geom:latitude":35.144333,
     "geom:longitude":-106.705381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5142 Golondrina NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203048575,
-    "wof:lastmodified":1449025585,
+    "wof:lastmodified":1466698123,
     "wof:name":"Hummingbird Billing Center LLC",
     "wof:parent_id":85865321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.705381,35.144333,-106.705381,35.144333],
+  "bbox": [
+    -106.705381,
+    35.144333,
+    -106.705381,
+    35.144333
+],
   "geometry": {"coordinates":[-106.705381,35.144333],"type":"Point"}
 }

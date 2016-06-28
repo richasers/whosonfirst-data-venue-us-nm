@@ -2,13 +2,14 @@
   "id": 186491653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.791213,32.310292,-106.791213,32.310292",
     "geom:latitude":32.310292,
     "geom:longitude":-106.791213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"995 W Hadley Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186491653,
-    "wof:lastmodified":1449050189,
+    "wof:lastmodified":1466700204,
     "wof:name":"The Drywall Shop",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dry wall"
     ]
 },
-  "bbox": [-106.791213,32.310292,-106.791213,32.310292],
+  "bbox": [
+    -106.791213,
+    32.310292,
+    -106.791213,
+    32.310292
+],
   "geometry": {"coordinates":[-106.791213,32.310292],"type":"Point"}
 }

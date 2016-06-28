@@ -2,13 +2,14 @@
   "id": 186289323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.642157,35.133552,-106.642157,35.133552",
     "geom:latitude":35.133552,
     "geom:longitude":-106.642157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5016 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186289323,
-    "wof:lastmodified":1449052560,
+    "wof:lastmodified":1466699190,
     "wof:name":"G & M Automotive Repair",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-106.642157,35.133552,-106.642157,35.133552],
+  "bbox": [
+    -106.642157,
+    35.133552,
+    -106.642157,
+    35.133552
+],
   "geometry": {"coordinates":[-106.642157,35.133552],"type":"Point"}
 }

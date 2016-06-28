@@ -2,13 +2,14 @@
   "id": 202871905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.245768,32.350374,-104.245768,32.350374",
     "geom:latitude":32.350374,
     "geom:longitude":-104.245768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5516 US Hwy 180",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202871905,
-    "wof:lastmodified":1449060937,
+    "wof:lastmodified":1466700258,
     "wof:name":"New Mexico Salt & Minerals",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "processor"
     ]
 },
-  "bbox": [-104.245768,32.350374,-104.245768,32.350374],
+  "bbox": [
+    -104.245768,
+    32.350374,
+    -104.245768,
+    32.350374
+],
   "geometry": {"coordinates":[-104.245768,32.350374],"type":"Point"}
 }

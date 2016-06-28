@@ -2,13 +2,14 @@
   "id": 185972681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.682492,35.189413,-106.682492,35.189413",
     "geom:latitude":35.189413,
     "geom:longitude":-106.682492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9816 Academy Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185972681,
-    "wof:lastmodified":1449007441,
+    "wof:lastmodified":1466699567,
     "wof:name":"New Years Sobriety Pow Wow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.682492,35.189413,-106.682492,35.189413],
+  "bbox": [
+    -106.682492,
+    35.189413,
+    -106.682492,
+    35.189413
+],
   "geometry": {"coordinates":[-106.682492,35.189413],"type":"Point"}
 }

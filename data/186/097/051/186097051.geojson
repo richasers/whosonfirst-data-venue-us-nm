@@ -2,13 +2,14 @@
   "id": 186097051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.589034,35.061318,-106.589034,35.061318",
     "geom:latitude":35.061318,
     "geom:longitude":-106.589034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1817 Anderson Pl SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186097051,
-    "wof:lastmodified":1449051424,
+    "wof:lastmodified":1466698877,
     "wof:name":"Ralph Gallegos Musician",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "musician"
     ]
 },
-  "bbox": [-106.589034,35.061318,-106.589034,35.061318],
+  "bbox": [
+    -106.589034,
+    35.061318,
+    -106.589034,
+    35.061318
+],
   "geometry": {"coordinates":[-106.589034,35.061318],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202929429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.543701,35.147312,-106.543701,35.147312",
     "geom:latitude":35.147312,
     "geom:longitude":-106.543701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8713 Canyon Run Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202929429,
-    "wof:lastmodified":1449061087,
+    "wof:lastmodified":1466700326,
     "wof:name":"Behrens Financial Group",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-106.543701,35.147312,-106.543701,35.147312],
+  "bbox": [
+    -106.543701,
+    35.147312,
+    -106.543701,
+    35.147312
+],
   "geometry": {"coordinates":[-106.543701,35.147312],"type":"Point"}
 }

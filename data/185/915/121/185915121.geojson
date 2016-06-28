@@ -2,13 +2,14 @@
   "id": 185915121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.277178,32.768986,-108.277178,32.768986",
     "geom:latitude":32.768986,
     "geom:longitude":-108.277178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Texas St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185915121,
-    "wof:lastmodified":1449008177,
+    "wof:lastmodified":1466698735,
     "wof:name":"Silver City Gospel Mission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.277178,32.768986,-108.277178,32.768986],
-  "geometry": {"coordinates":[-108.277178,32.768986],"type":"Point"}
+  "bbox": [
+    -108.277178,
+    32.768986,
+    -108.277178,
+    32.768986
+],
+  "geometry": {"coordinates":[-108.27717800000001,32.768986],"type":"Point"}
 }

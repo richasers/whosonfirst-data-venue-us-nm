@@ -2,13 +2,14 @@
   "id": 186602969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.193173,35.40731,-104.193173,35.40731",
     "geom:latitude":35.40731,
     "geom:longitude":-104.193173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Captain Kramer Ln",
     "sg:city":"Conchas Dam",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186602969,
-    "wof:lastmodified":1449051644,
+    "wof:lastmodified":1466700742,
     "wof:name":"US Army Engineer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "security"
     ]
 },
-  "bbox": [-104.193173,35.40731,-104.193173,35.40731],
+  "bbox": [
+    -104.193173,
+    35.40731,
+    -104.193173,
+    35.40731
+],
   "geometry": {"coordinates":[-104.193173,35.40731],"type":"Point"}
 }

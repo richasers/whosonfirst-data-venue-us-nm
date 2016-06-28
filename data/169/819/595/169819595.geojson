@@ -2,13 +2,14 @@
   "id": 169819595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.708653,32.3895,-106.708653,32.3895",
     "geom:latitude":32.3895,
     "geom:longitude":-106.708653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5082 Mesa Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169819595,
-    "wof:lastmodified":1449033480,
+    "wof:lastmodified":1466698730,
     "wof:name":"Spark Chasers Elec Contrs",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.708653,32.3895,-106.708653,32.3895],
+  "bbox": [
+    -106.708653,
+    32.3895,
+    -106.708653,
+    32.3895
+],
   "geometry": {"coordinates":[-106.708653,32.3895],"type":"Point"}
 }

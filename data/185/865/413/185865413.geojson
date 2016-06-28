@@ -2,13 +2,14 @@
   "id": 185865413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.600935,35.148486,-106.600935,35.148486",
     "geom:latitude":35.148486,
     "geom:longitude":-106.600935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5950 Office Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185865413,
-    "wof:lastmodified":1449007826,
+    "wof:lastmodified":1466698166,
     "wof:name":"Communications Supply Corp",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "datum"
     ]
 },
-  "bbox": [-106.600935,35.148486,-106.600935,35.148486],
-  "geometry": {"coordinates":[-106.600935,35.148486],"type":"Point"}
+  "bbox": [
+    -106.600935,
+    35.148486,
+    -106.600935,
+    35.148486
+],
+  "geometry": {"coordinates":[-106.60093500000001,35.148486],"type":"Point"}
 }

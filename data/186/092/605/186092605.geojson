@@ -2,13 +2,14 @@
   "id": 186092605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.599911,35.128629,-106.599911,35.128629",
     "geom:latitude":35.128629,
     "geom:longitude":-106.599911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3821 Goodrich Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":186092605,
-    "wof:lastmodified":1449052508,
+    "wof:lastmodified":1466698804,
     "wof:name":"Sandra Tolman Consultant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.599911,35.128629,-106.599911,35.128629],
-  "geometry": {"coordinates":[-106.599911,35.128629],"type":"Point"}
+  "bbox": [
+    -106.599911,
+    35.128629,
+    -106.599911,
+    35.128629
+],
+  "geometry": {"coordinates":[-106.59991100000001,35.128629],"type":"Point"}
 }

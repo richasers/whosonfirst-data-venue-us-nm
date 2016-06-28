@@ -2,13 +2,14 @@
   "id": 202471435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.710935,35.041313,-106.710935,35.041313",
     "geom:latitude":35.041313,
     "geom:longitude":-106.710935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 Coors Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202471435,
-    "wof:lastmodified":1449061133,
+    "wof:lastmodified":1466698821,
     "wof:name":"Amigo's Auto Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-106.710935,35.041313,-106.710935,35.041313],
-  "geometry": {"coordinates":[-106.710935,35.041313],"type":"Point"}
+  "bbox": [
+    -106.710935,
+    35.041313,
+    -106.710935,
+    35.041313
+],
+  "geometry": {"coordinates":[-106.71093500000001,35.041313],"type":"Point"}
 }

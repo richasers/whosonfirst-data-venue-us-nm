@@ -2,13 +2,14 @@
   "id": 186158969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.381877,36.363554,-105.381877,36.363554",
     "geom:latitude":36.363554,
     "geom:longitude":-105.381877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"336 County Rd",
     "sg:city":"Los Ojos",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186158969,
-    "wof:lastmodified":1449052155,
+    "wof:lastmodified":1466699356,
     "wof:name":"Alamo Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.381877,36.363554,-105.381877,36.363554],
+  "bbox": [
+    -105.381877,
+    36.363554,
+    -105.381877,
+    36.363554
+],
   "geometry": {"coordinates":[-105.381877,36.363554],"type":"Point"}
 }

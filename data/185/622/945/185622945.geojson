@@ -2,13 +2,14 @@
   "id": 185622945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.554191,35.124159,-106.554191,35.124159",
     "geom:latitude":35.124159,
     "geom:longitude":-106.554191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7616 Palo Duro Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185622945,
-    "wof:lastmodified":1449007934,
+    "wof:lastmodified":1466697840,
     "wof:name":"W H Harlan & Assoc Inc",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "impaired"
     ]
 },
-  "bbox": [-106.554191,35.124159,-106.554191,35.124159],
+  "bbox": [
+    -106.554191,
+    35.124159,
+    -106.554191,
+    35.124159
+],
   "geometry": {"coordinates":[-106.554191,35.124159],"type":"Point"}
 }

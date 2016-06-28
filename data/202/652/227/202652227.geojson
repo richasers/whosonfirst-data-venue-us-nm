@@ -2,13 +2,14 @@
   "id": 202652227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.182049,36.739702,-108.182049,36.739702",
     "geom:latitude":36.739702,
     "geom:longitude":-108.182049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Schofield Ln",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202652227,
-    "wof:lastmodified":1449061728,
+    "wof:lastmodified":1466699167,
     "wof:name":"Valley Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-108.182049,36.739702,-108.182049,36.739702],
-  "geometry": {"coordinates":[-108.182049,36.739702],"type":"Point"}
+  "bbox": [
+    -108.182049,
+    36.739702,
+    -108.182049,
+    36.739702
+],
+  "geometry": {"coordinates":[-108.18204900000001,36.739702],"type":"Point"}
 }

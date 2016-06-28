@@ -2,13 +2,14 @@
   "id": 186032903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.669694,33.334382,-105.669694,33.334382",
     "geom:latitude":33.334382,
     "geom:longitude":-105.669694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Eagle Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186032903,
-    "wof:lastmodified":1449051687,
+    "wof:lastmodified":1466698056,
     "wof:name":"Pan-O-Rama Miniature Golf",
     "wof:parent_id":85842645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "golf"
     ]
 },
-  "bbox": [-105.669694,33.334382,-105.669694,33.334382],
-  "geometry": {"coordinates":[-105.669694,33.334382],"type":"Point"}
+  "bbox": [
+    -105.669694,
+    33.334382,
+    -105.669694,
+    33.334382
+],
+  "geometry": {"coordinates":[-105.66969400000001,33.334382],"type":"Point"}
 }

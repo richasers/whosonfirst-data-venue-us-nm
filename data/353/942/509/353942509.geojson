@@ -2,13 +2,14 @@
   "id": 353942509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.568657,35.088221,-106.568657,35.088221",
     "geom:latitude":35.088221,
     "geom:longitude":-106.568657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Louisiana Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":353942509,
-    "wof:lastmodified":1449019422,
+    "wof:lastmodified":1466698348,
     "wof:name":"Barcelona Suites",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "banquet"
     ]
 },
-  "bbox": [-106.568657,35.088221,-106.568657,35.088221],
+  "bbox": [
+    -106.568657,
+    35.088221,
+    -106.568657,
+    35.088221
+],
   "geometry": {"coordinates":[-106.568657,35.088221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186539615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.221459,35.591569,-105.221459,35.591569",
     "geom:latitude":35.591569,
     "geom:longitude":-105.221459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 12th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186539615,
-    "wof:lastmodified":1449053074,
+    "wof:lastmodified":1466700356,
     "wof:name":"Las Vegas Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.221459,35.591569,-105.221459,35.591569],
+  "bbox": [
+    -105.221459,
+    35.591569,
+    -105.221459,
+    35.591569
+],
   "geometry": {"coordinates":[-105.221459,35.591569],"type":"Point"}
 }

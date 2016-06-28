@@ -2,13 +2,14 @@
   "id": 203031395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.136132,32.703713,-103.136132,32.703713",
     "geom:latitude":32.703713,
     "geom:longitude":-103.136132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 N Turner St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203031395,
-    "wof:lastmodified":1449025625,
+    "wof:lastmodified":1466697937,
     "wof:name":"Tax Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-103.136132,32.703713,-103.136132,32.703713],
+  "bbox": [
+    -103.136132,
+    32.703713,
+    -103.136132,
+    32.703713
+],
   "geometry": {"coordinates":[-103.136132,32.703713],"type":"Point"}
 }

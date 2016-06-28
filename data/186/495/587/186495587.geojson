@@ -2,13 +2,14 @@
   "id": 186495587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.595976,35.072134,-106.595976,35.072134",
     "geom:latitude":35.072134,
     "geom:longitude":-106.595976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Valverde Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186495587,
-    "wof:lastmodified":1449051556,
+    "wof:lastmodified":1466700217,
     "wof:name":"Handypam Services",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.595976,35.072134,-106.595976,35.072134],
-  "geometry": {"coordinates":[-106.595976,35.072134],"type":"Point"}
+  "bbox": [
+    -106.595976,
+    35.072134,
+    -106.595976,
+    35.072134
+],
+  "geometry": {"coordinates":[-106.59597599999999,35.072134],"type":"Point"}
 }

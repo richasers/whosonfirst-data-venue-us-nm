@@ -2,13 +2,14 @@
   "id": 202616027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.272478,32.788366,-108.272478,32.788366",
     "geom:latitude":32.788366,
     "geom:longitude":-108.272478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 E 23rd St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202616027,
-    "wof:lastmodified":1449061962,
+    "wof:lastmodified":1466698613,
     "wof:name":"Trackin Gods Way",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.272478,32.788366,-108.272478,32.788366],
-  "geometry": {"coordinates":[-108.272478,32.788366],"type":"Point"}
+  "bbox": [
+    -108.272478,
+    32.788366,
+    -108.272478,
+    32.788366
+],
+  "geometry": {"coordinates":[-108.27247800000001,32.788366],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186255011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.405564,32.831652,-104.405564,32.831652",
     "geom:latitude":32.831652,
     "geom:longitude":-104.405564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 W Centre Ave",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186255011,
-    "wof:lastmodified":1449051592,
+    "wof:lastmodified":1466698726,
     "wof:name":"Artesia Community Theatre",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "theatrical"
     ]
 },
-  "bbox": [-104.405564,32.831652,-104.405564,32.831652],
+  "bbox": [
+    -104.405564,
+    32.831652,
+    -104.405564,
+    32.831652
+],
   "geometry": {"coordinates":[-104.405564,32.831652],"type":"Point"}
 }

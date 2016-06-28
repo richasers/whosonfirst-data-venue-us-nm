@@ -2,13 +2,14 @@
   "id": 186566065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.599469,35.109295,-106.599469,35.109295",
     "geom:latitude":35.109295,
     "geom:longitude":-106.599469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3821 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":186566065,
-    "wof:lastmodified":1449050321,
+    "wof:lastmodified":1466700418,
     "wof:name":"Ultimate Electronics Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.599469,35.109295,-106.599469,35.109295],
+  "bbox": [
+    -106.599469,
+    35.109295,
+    -106.599469,
+    35.109295
+],
   "geometry": {"coordinates":[-106.599469,35.109295],"type":"Point"}
 }

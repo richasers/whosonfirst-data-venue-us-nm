@@ -2,13 +2,14 @@
   "id": 186414163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.977093,35.667254,-105.977093,35.667254",
     "geom:latitude":35.667254,
     "geom:longitude":-105.977093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1934 Hano Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186414163,
-    "wof:lastmodified":1449051637,
+    "wof:lastmodified":1466699891,
     "wof:name":"Woa Inc",
     "wof:parent_id":85880779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-105.977093,35.667254,-105.977093,35.667254],
+  "bbox": [
+    -105.977093,
+    35.667254,
+    -105.977093,
+    35.667254
+],
   "geometry": {"coordinates":[-105.977093,35.667254],"type":"Point"}
 }

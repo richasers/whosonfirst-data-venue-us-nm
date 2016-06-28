@@ -2,13 +2,14 @@
   "id": 353960929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.704384,35.213591,-106.704384,35.213591",
     "geom:latitude":35.213591,
     "geom:longitude":-106.704384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5904 Andromeda Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353960929,
-    "wof:lastmodified":1449020074,
+    "wof:lastmodified":1466698784,
     "wof:name":"Burns Trading Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-106.704384,35.213591,-106.704384,35.213591],
+  "bbox": [
+    -106.704384,
+    35.213591,
+    -106.704384,
+    35.213591
+],
   "geometry": {"coordinates":[-106.704384,35.213591],"type":"Point"}
 }

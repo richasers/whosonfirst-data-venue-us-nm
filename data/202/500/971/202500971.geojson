@@ -2,13 +2,14 @@
   "id": 202500971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.626822,35.177187,-106.626822,35.177187",
     "geom:latitude":35.177187,
     "geom:longitude":-106.626822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 el Pueblo Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202500971,
-    "wof:lastmodified":1449060753,
+    "wof:lastmodified":1466699127,
     "wof:name":"El Paseo Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-106.626822,35.177187,-106.626822,35.177187],
+  "bbox": [
+    -106.626822,
+    35.177187,
+    -106.626822,
+    35.177187
+],
   "geometry": {"coordinates":[-106.626822,35.177187],"type":"Point"}
 }

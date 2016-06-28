@@ -2,13 +2,14 @@
   "id": 186358229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.275759,32.774565,-108.275759,32.774565",
     "geom:latitude":32.774565,
     "geom:longitude":-108.275759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E College Ave",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186358229,
-    "wof:lastmodified":1449051505,
+    "wof:lastmodified":1466699698,
     "wof:name":"Bear Mountain Motorcycle Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "motor"
     ]
 },
-  "bbox": [-108.275759,32.774565,-108.275759,32.774565],
-  "geometry": {"coordinates":[-108.275759,32.774565],"type":"Point"}
+  "bbox": [
+    -108.275759,
+    32.774565,
+    -108.275759,
+    32.774565
+],
+  "geometry": {"coordinates":[-108.27575899999999,32.774565],"type":"Point"}
 }

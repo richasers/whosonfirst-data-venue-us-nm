@@ -2,13 +2,14 @@
   "id": 186066355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.568766,35.170601,-106.568766,35.170601",
     "geom:latitude":35.170601,
     "geom:longitude":-106.568766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8000 Louisiana Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186066355,
-    "wof:lastmodified":1449051155,
+    "wof:lastmodified":1466698475,
     "wof:name":"F A A Albqrque Trffic Ctrl Ctr",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.568766,35.170601,-106.568766,35.170601],
+  "bbox": [
+    -106.568766,
+    35.170601,
+    -106.568766,
+    35.170601
+],
   "geometry": {"coordinates":[-106.568766,35.170601],"type":"Point"}
 }

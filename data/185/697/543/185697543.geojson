@@ -2,13 +2,14 @@
   "id": 185697543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.595393,36.371517,-105.595393,36.371517",
     "geom:latitude":36.371517,
     "geom:longitude":-105.595393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1299 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185697543,
-    "wof:lastmodified":1449007615,
+    "wof:lastmodified":1466698623,
     "wof:name":"Wheaton School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.595393,36.371517,-105.595393,36.371517],
+  "bbox": [
+    -105.595393,
+    36.371517,
+    -105.595393,
+    36.371517
+],
   "geometry": {"coordinates":[-105.595393,36.371517],"type":"Point"}
 }

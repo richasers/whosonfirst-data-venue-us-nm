@@ -2,13 +2,14 @@
   "id": 202617007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.762402,32.299672,-106.762402,32.299672",
     "geom:latitude":32.299672,
     "geom:longitude":-106.762402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 S Solano Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202617007,
-    "wof:lastmodified":1449060185,
+    "wof:lastmodified":1466698629,
     "wof:name":"A & R Home Products Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-106.762402,32.299672,-106.762402,32.299672],
-  "geometry": {"coordinates":[-106.762402,32.299672],"type":"Point"}
+  "bbox": [
+    -106.762402,
+    32.299672,
+    -106.762402,
+    32.299672
+],
+  "geometry": {"coordinates":[-106.76240199999999,32.299672],"type":"Point"}
 }

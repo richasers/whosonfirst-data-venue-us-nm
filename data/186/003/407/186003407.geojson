@@ -2,13 +2,14 @@
   "id": 186003407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.519912,35.09833,-106.519912,35.09833",
     "geom:latitude":35.09833,
     "geom:longitude":-106.519912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11320 Mahlon Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186003407,
-    "wof:lastmodified":1449052819,
+    "wof:lastmodified":1466697724,
     "wof:name":"Pips Purrfect Pet Service",
     "wof:parent_id":85871891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-106.519912,35.09833,-106.519912,35.09833],
-  "geometry": {"coordinates":[-106.519912,35.09833],"type":"Point"}
+  "bbox": [
+    -106.519912,
+    35.09833,
+    -106.519912,
+    35.09833
+],
+  "geometry": {"coordinates":[-106.51991200000001,35.09833],"type":"Point"}
 }

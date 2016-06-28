@@ -2,13 +2,14 @@
   "id": 186479319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550173,35.160738,-106.550173,35.160738",
     "geom:latitude":35.160738,
     "geom:longitude":-106.550173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7209 Leslynne Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186479319,
-    "wof:lastmodified":1449052206,
+    "wof:lastmodified":1466700159,
     "wof:name":"Ad Ventures",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-106.550173,35.160738,-106.550173,35.160738],
+  "bbox": [
+    -106.550173,
+    35.160738,
+    -106.550173,
+    35.160738
+],
   "geometry": {"coordinates":[-106.550173,35.160738],"type":"Point"}
 }

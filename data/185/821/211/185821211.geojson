@@ -2,13 +2,14 @@
   "id": 185821211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.612969,35.100431,-106.612969,35.100431",
     "geom:latitude":35.100431,
     "geom:longitude":-106.612969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 Girard Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185821211,
-    "wof:lastmodified":1449007488,
+    "wof:lastmodified":1466697695,
     "wof:name":"Padilla's Mexican Kitchen",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.612969,35.100431,-106.612969,35.100431],
-  "geometry": {"coordinates":[-106.612969,35.100431],"type":"Point"}
+  "bbox": [
+    -106.612969,
+    35.100431,
+    -106.612969,
+    35.100431
+],
+  "geometry": {"coordinates":[-106.61296900000001,35.100431],"type":"Point"}
 }

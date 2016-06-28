@@ -2,13 +2,14 @@
   "id": 202635469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.63398,35.220743,-106.63398,35.220743",
     "geom:latitude":35.220743,
     "geom:longitude":-106.63398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 W Meadowlark Ln",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202635469,
-    "wof:lastmodified":1449061220,
+    "wof:lastmodified":1466698919,
     "wof:name":"Darling Tribes Inc",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.63398,35.220743,-106.63398,35.220743],
-  "geometry": {"coordinates":[-106.63398,35.220743],"type":"Point"}
+  "bbox": [
+    -106.63398,
+    35.220743,
+    -106.63398,
+    35.220743
+],
+  "geometry": {"coordinates":[-106.63397999999999,35.220743],"type":"Point"}
 }

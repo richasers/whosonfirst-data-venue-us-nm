@@ -2,13 +2,14 @@
   "id": 185966823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.680128,35.02832,-106.680128,35.02832",
     "geom:latitude":35.02832,
     "geom:longitude":-106.680128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3248 Isleta Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185966823,
-    "wof:lastmodified":1449006606,
+    "wof:lastmodified":1466699531,
     "wof:name":"El Sarape 2",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.680128,35.02832,-106.680128,35.02832],
+  "bbox": [
+    -106.680128,
+    35.02832,
+    -106.680128,
+    35.02832
+],
   "geometry": {"coordinates":[-106.680128,35.02832],"type":"Point"}
 }

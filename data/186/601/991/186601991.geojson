@@ -2,13 +2,14 @@
   "id": 186601991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.642121,35.115128,-106.642121,35.115128",
     "geom:latitude":35.115128,
     "geom:longitude":-106.642121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Claremont Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186601991,
-    "wof:lastmodified":1449051574,
+    "wof:lastmodified":1466700644,
     "wof:name":"Xpedx",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "paper"
     ]
 },
-  "bbox": [-106.642121,35.115128,-106.642121,35.115128],
+  "bbox": [
+    -106.642121,
+    35.115128,
+    -106.642121,
+    35.115128
+],
   "geometry": {"coordinates":[-106.642121,35.115128],"type":"Point"}
 }

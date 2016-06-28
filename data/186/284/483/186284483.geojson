@@ -2,13 +2,14 @@
   "id": 186284483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.222434,34.431114,-103.222434,34.431114",
     "geom:latitude":34.431114,
     "geom:longitude":-103.222434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 Circle Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186284483,
-    "wof:lastmodified":1449052032,
+    "wof:lastmodified":1466699120,
     "wof:name":"Jim Tulett Piano Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-103.222434,34.431114,-103.222434,34.431114],
-  "geometry": {"coordinates":[-103.222434,34.431114],"type":"Point"}
+  "bbox": [
+    -103.222434,
+    34.431114,
+    -103.222434,
+    34.431114
+],
+  "geometry": {"coordinates":[-103.22243400000001,34.431114],"type":"Point"}
 }

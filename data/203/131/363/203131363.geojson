@@ -2,13 +2,14 @@
   "id": 203131363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604055,35.116155,-106.604055,35.116155",
     "geom:latitude":35.116155,
     "geom:longitude":-106.604055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203131363,
-    "wof:lastmodified":1449025482,
+    "wof:lastmodified":1466699025,
     "wof:name":"Ashley & Associates Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "broker"
     ]
 },
-  "bbox": [-106.604055,35.116155,-106.604055,35.116155],
+  "bbox": [
+    -106.604055,
+    35.116155,
+    -106.604055,
+    35.116155
+],
   "geometry": {"coordinates":[-106.604055,35.116155],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185774555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.174495,36.753696,-108.174495,36.753696",
     "geom:latitude":36.753696,
     "geom:longitude":-108.174495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 N Fairview Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185774555,
-    "wof:lastmodified":1449007247,
+    "wof:lastmodified":1466699243,
     "wof:name":"New Horizon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-108.174495,36.753696,-108.174495,36.753696],
-  "geometry": {"coordinates":[-108.174495,36.753696],"type":"Point"}
+  "bbox": [
+    -108.174495,
+    36.753696,
+    -108.174495,
+    36.753696
+],
+  "geometry": {"coordinates":[-108.17449499999999,36.753696],"type":"Point"}
 }

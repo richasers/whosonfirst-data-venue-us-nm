@@ -2,13 +2,14 @@
   "id": 202975277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.699909,35.121535,-106.699909,35.121535",
     "geom:latitude":35.121535,
     "geom:longitude":-106.699909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 Sequoia Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202975277,
-    "wof:lastmodified":1449062304,
+    "wof:lastmodified":1466700681,
     "wof:name":"Native Son",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typing"
     ]
 },
-  "bbox": [-106.699909,35.121535,-106.699909,35.121535],
-  "geometry": {"coordinates":[-106.699909,35.121535],"type":"Point"}
+  "bbox": [
+    -106.699909,
+    35.121535,
+    -106.699909,
+    35.121535
+],
+  "geometry": {"coordinates":[-106.69990900000001,35.121535],"type":"Point"}
 }

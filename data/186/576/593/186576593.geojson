@@ -2,13 +2,14 @@
   "id": 186576593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.516482,33.421388,-104.516482,33.421388",
     "geom:latitude":33.421388,
     "geom:longitude":-104.516482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 E 24th St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186576593,
-    "wof:lastmodified":1449052383,
+    "wof:lastmodified":1466700667,
     "wof:name":"SA Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.516482,33.421388,-104.516482,33.421388],
+  "bbox": [
+    -104.516482,
+    33.421388,
+    -104.516482,
+    33.421388
+],
   "geometry": {"coordinates":[-104.516482,33.421388],"type":"Point"}
 }

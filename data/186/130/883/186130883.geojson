@@ -2,13 +2,14 @@
   "id": 186130883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.763216,34.654801,-106.763216,34.654801",
     "geom:latitude":34.654801,
     "geom:longitude":-106.763216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"732 Jarales Rd",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186130883,
-    "wof:lastmodified":1449051317,
+    "wof:lastmodified":1466699165,
     "wof:name":"Mini Farm Daycare",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.763216,34.654801,-106.763216,34.654801],
+  "bbox": [
+    -106.763216,
+    34.654801,
+    -106.763216,
+    34.654801
+],
   "geometry": {"coordinates":[-106.763216,34.654801],"type":"Point"}
 }

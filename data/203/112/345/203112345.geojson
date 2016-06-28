@@ -2,13 +2,14 @@
   "id": 203112345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.359192,32.954283,-103.359192,32.954283",
     "geom:latitude":32.954283,
     "geom:longitude":-103.359192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"837 W Jackson Ave",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203112345,
-    "wof:lastmodified":1449025785,
+    "wof:lastmodified":1466698894,
     "wof:name":"Jackson Avenue Baptist School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-103.359192,32.954283,-103.359192,32.954283],
-  "geometry": {"coordinates":[-103.359192,32.954283],"type":"Point"}
+  "bbox": [
+    -103.359192,
+    32.954283,
+    -103.359192,
+    32.954283
+],
+  "geometry": {"coordinates":[-103.35919199999999,32.954283],"type":"Point"}
 }

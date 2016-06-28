@@ -2,13 +2,14 @@
   "id": 202626427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.574138,36.404348,-105.574138,36.404348",
     "geom:latitude":36.404348,
     "geom:longitude":-105.574138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202626427,
-    "wof:lastmodified":1449062648,
+    "wof:lastmodified":1466698778,
     "wof:name":"Taos General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "indian"
     ]
 },
-  "bbox": [-105.574138,36.404348,-105.574138,36.404348],
+  "bbox": [
+    -105.574138,
+    36.404348,
+    -105.574138,
+    36.404348
+],
   "geometry": {"coordinates":[-105.574138,36.404348],"type":"Point"}
 }

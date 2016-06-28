@@ -2,13 +2,14 @@
   "id": 202681495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.855401,32.391938,-106.855401,32.391938",
     "geom:latitude":32.391938,
     "geom:longitude":-106.855401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6386 Zorro Trl",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202681495,
-    "wof:lastmodified":1449061672,
+    "wof:lastmodified":1466699429,
     "wof:name":"Farm Direct Int",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-106.855401,32.391938,-106.855401,32.391938],
+  "bbox": [
+    -106.855401,
+    32.391938,
+    -106.855401,
+    32.391938
+],
   "geometry": {"coordinates":[-106.855401,32.391938],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186631887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.819496,32.934631,-105.819496,32.934631",
     "geom:latitude":32.934631,
     "geom:longitude":-105.819496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Karr Canyon Rd",
     "sg:city":"High Rls Mtn Pk",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186631887,
-    "wof:lastmodified":1449051208,
+    "wof:lastmodified":1466700755,
     "wof:name":"Good Life Inn B & B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-105.819496,32.934631,-105.819496,32.934631],
+  "bbox": [
+    -105.819496,
+    32.934631,
+    -105.819496,
+    32.934631
+],
   "geometry": {"coordinates":[-105.819496,32.934631],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186248413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.971541,36.722352,-107.971541,36.722352",
     "geom:latitude":36.722352,
     "geom:longitude":-107.971541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 Smith Ln",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186248413,
-    "wof:lastmodified":1449051849,
+    "wof:lastmodified":1466698641,
     "wof:name":"Process Servers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "server"
     ]
 },
-  "bbox": [-107.971541,36.722352,-107.971541,36.722352],
+  "bbox": [
+    -107.971541,
+    36.722352,
+    -107.971541,
+    36.722352
+],
   "geometry": {"coordinates":[-107.971541,36.722352],"type":"Point"}
 }

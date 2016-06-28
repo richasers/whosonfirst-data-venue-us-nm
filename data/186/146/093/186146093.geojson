@@ -2,13 +2,14 @@
   "id": 186146093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.673483,35.13354,-106.673483,35.13354",
     "geom:latitude":35.13354,
     "geom:longitude":-106.673483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2419 Don Onofre Trl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186146093,
-    "wof:lastmodified":1449051486,
+    "wof:lastmodified":1466699239,
     "wof:name":"Dalriada Handcrafts",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.673483,35.13354,-106.673483,35.13354],
+  "bbox": [
+    -106.673483,
+    35.13354,
+    -106.673483,
+    35.13354
+],
   "geometry": {"coordinates":[-106.673483,35.13354],"type":"Point"}
 }

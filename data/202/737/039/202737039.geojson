@@ -2,13 +2,14 @@
   "id": 202737039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.005323,35.589718,-106.005323,35.589718",
     "geom:latitude":35.589718,
     "geom:longitude":-106.005323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Softwynd Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202737039,
-    "wof:lastmodified":1449060686,
+    "wof:lastmodified":1466699595,
     "wof:name":"Practice Support Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.005323,35.589718,-106.005323,35.589718],
+  "bbox": [
+    -106.005323,
+    35.589718,
+    -106.005323,
+    35.589718
+],
   "geometry": {"coordinates":[-106.005323,35.589718],"type":"Point"}
 }

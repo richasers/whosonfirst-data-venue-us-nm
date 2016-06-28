@@ -2,13 +2,14 @@
   "id": 202895849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.764439,34.69789,-106.764439,34.69789",
     "geom:latitude":34.69789,
     "geom:longitude":-106.764439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19461 State Hwy 314",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202895849,
-    "wof:lastmodified":1449061191,
+    "wof:lastmodified":1466700334,
     "wof:name":"Sandia Self Storage",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-106.764439,34.69789,-106.764439,34.69789],
+  "bbox": [
+    -106.764439,
+    34.69789,
+    -106.764439,
+    34.69789
+],
   "geometry": {"coordinates":[-106.764439,34.69789],"type":"Point"}
 }

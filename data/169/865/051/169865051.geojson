@@ -2,13 +2,14 @@
   "id": 169865051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.780128,32.32669,-106.780128,32.32669",
     "geom:latitude":32.32669,
     "geom:longitude":-106.780128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 N Mesquite St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169865051,
-    "wof:lastmodified":1449035152,
+    "wof:lastmodified":1466698988,
     "wof:name":"Chico's Auto Tire & Muffler",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tire"
     ]
 },
-  "bbox": [-106.780128,32.32669,-106.780128,32.32669],
+  "bbox": [
+    -106.780128,
+    32.32669,
+    -106.780128,
+    32.32669
+],
   "geometry": {"coordinates":[-106.780128,32.32669],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202706347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.793097,32.274076,-106.793097,32.274076",
     "geom:latitude":32.274076,
     "geom:longitude":-106.793097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2521 Ave de Mesilla",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202706347,
-    "wof:lastmodified":1449060292,
+    "wof:lastmodified":1466699623,
     "wof:name":"Anibal's Tribe",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.793097,32.274076,-106.793097,32.274076],
+  "bbox": [
+    -106.793097,
+    32.274076,
+    -106.793097,
+    32.274076
+],
   "geometry": {"coordinates":[-106.793097,32.274076],"type":"Point"}
 }

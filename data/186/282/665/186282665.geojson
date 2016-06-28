@@ -2,13 +2,14 @@
   "id": 186282665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.190723,36.752983,-108.190723,36.752983",
     "geom:latitude":36.752983,
     "geom:longitude":-108.190723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2416 Santiago Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186282665,
-    "wof:lastmodified":1449052046,
+    "wof:lastmodified":1466699096,
     "wof:name":"Adams Communications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-108.190723,36.752983,-108.190723,36.752983],
-  "geometry": {"coordinates":[-108.190723,36.752983],"type":"Point"}
+  "bbox": [
+    -108.190723,
+    36.752983,
+    -108.190723,
+    36.752983
+],
+  "geometry": {"coordinates":[-108.19072300000001,36.752983],"type":"Point"}
 }

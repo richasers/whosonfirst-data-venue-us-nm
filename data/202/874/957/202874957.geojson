@@ -2,13 +2,14 @@
   "id": 202874957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.521729,35.146837,-106.521729,35.146837",
     "geom:latitude":35.146837,
     "geom:longitude":-106.521729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5745 Manzanillo Loop NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202874957,
-    "wof:lastmodified":1449062485,
+    "wof:lastmodified":1466700266,
     "wof:name":"Microscope Doctor",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "microscope"
     ]
 },
-  "bbox": [-106.521729,35.146837,-106.521729,35.146837],
-  "geometry": {"coordinates":[-106.521729,35.146837],"type":"Point"}
+  "bbox": [
+    -106.521729,
+    35.146837,
+    -106.521729,
+    35.146837
+],
+  "geometry": {"coordinates":[-106.52172899999999,35.146837],"type":"Point"}
 }

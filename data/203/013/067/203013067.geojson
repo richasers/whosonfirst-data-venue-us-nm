@@ -2,13 +2,14 @@
   "id": 203013067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.913358,35.68945,-105.913358,35.68945",
     "geom:latitude":35.68945,
     "geom:longitude":-105.913358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Cll Joya",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203013067,
-    "wof:lastmodified":1449026258,
+    "wof:lastmodified":1466697739,
     "wof:name":"Patrick Lewis Fine Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-105.913358,35.68945,-105.913358,35.68945],
+  "bbox": [
+    -105.913358,
+    35.68945,
+    -105.913358,
+    35.68945
+],
   "geometry": {"coordinates":[-105.913358,35.68945],"type":"Point"}
 }

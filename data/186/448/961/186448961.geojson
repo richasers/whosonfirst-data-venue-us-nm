@@ -2,13 +2,14 @@
   "id": 186448961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.654721,35.159551,-106.654721,35.159551",
     "geom:latitude":35.159551,
     "geom:longitude":-106.654721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Rio Grande Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186448961,
-    "wof:lastmodified":1449052913,
+    "wof:lastmodified":1466699938,
     "wof:name":"Purcells Draperies",
     "wof:parent_id":85830119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.654721,35.159551,-106.654721,35.159551],
+  "bbox": [
+    -106.654721,
+    35.159551,
+    -106.654721,
+    35.159551
+],
   "geometry": {"coordinates":[-106.654721,35.159551],"type":"Point"}
 }

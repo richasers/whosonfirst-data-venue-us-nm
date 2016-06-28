@@ -2,13 +2,14 @@
   "id": 185957049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.904945,35.528152,-105.904945,35.528152",
     "geom:latitude":35.528152,
     "geom:longitude":-105.904945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Ensenada Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185957049,
-    "wof:lastmodified":1449007989,
+    "wof:lastmodified":1466699332,
     "wof:name":"Kc Enterprises",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-105.904945,35.528152,-105.904945,35.528152],
+  "bbox": [
+    -105.904945,
+    35.528152,
+    -105.904945,
+    35.528152
+],
   "geometry": {"coordinates":[-105.904945,35.528152],"type":"Point"}
 }

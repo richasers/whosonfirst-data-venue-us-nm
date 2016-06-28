@@ -2,13 +2,14 @@
   "id": 202420007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.20061,35.0651,-106.20061,35.0651",
     "geom:latitude":35.0651,
     "geom:longitude":-106.20061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1890 Hwy 66",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202420007,
-    "wof:lastmodified":1449061345,
+    "wof:lastmodified":1466699413,
     "wof:name":"Forget Me Nots",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-106.20061,35.0651,-106.20061,35.0651],
+  "bbox": [
+    -106.20061,
+    35.0651,
+    -106.20061,
+    35.0651
+],
   "geometry": {"coordinates":[-106.20061,35.0651],"type":"Point"}
 }

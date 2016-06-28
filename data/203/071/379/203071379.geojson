@@ -2,13 +2,14 @@
   "id": 203071379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.642973,35.114943,-106.642973,35.114943",
     "geom:latitude":35.114943,
     "geom:longitude":-106.642973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2930 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203071379,
-    "wof:lastmodified":1449026154,
+    "wof:lastmodified":1466698363,
     "wof:name":"H2O Svc",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.642973,35.114943,-106.642973,35.114943],
+  "bbox": [
+    -106.642973,
+    35.114943,
+    -106.642973,
+    35.114943
+],
   "geometry": {"coordinates":[-106.642973,35.114943],"type":"Point"}
 }

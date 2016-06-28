@@ -2,13 +2,14 @@
   "id": 186533915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.928328,32.90815,-105.928328,32.90815",
     "geom:latitude":32.90815,
     "geom:longitude":-105.928328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 Crescent Dr",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186533915,
-    "wof:lastmodified":1449050215,
+    "wof:lastmodified":1466700256,
     "wof:name":"Homebuyers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-105.928328,32.90815,-105.928328,32.90815],
-  "geometry": {"coordinates":[-105.928328,32.90815],"type":"Point"}
+  "bbox": [
+    -105.928328,
+    32.90815,
+    -105.928328,
+    32.90815
+],
+  "geometry": {"coordinates":[-105.92832799999999,32.90815],"type":"Point"}
 }

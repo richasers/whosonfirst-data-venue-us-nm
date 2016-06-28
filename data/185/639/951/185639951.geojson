@@ -2,13 +2,14 @@
   "id": 185639951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.961956,35.672325,-105.961956,35.672325",
     "geom:latitude":35.672325,
     "geom:longitude":-105.961956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185639951,
-    "wof:lastmodified":1449008194,
+    "wof:lastmodified":1466698043,
     "wof:name":"Aspen Mountain Motors",
     "wof:parent_id":85880783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.961956,35.672325,-105.961956,35.672325],
+  "bbox": [
+    -105.961956,
+    35.672325,
+    -105.961956,
+    35.672325
+],
   "geometry": {"coordinates":[-105.961956,35.672325],"type":"Point"}
 }

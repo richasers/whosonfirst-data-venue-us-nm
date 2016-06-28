@@ -2,13 +2,14 @@
   "id": 186179531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.146156,32.70205,-103.146156,32.70205",
     "geom:latitude":32.70205,
     "geom:longitude":-103.146156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Burk St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186179531,
-    "wof:lastmodified":1449052741,
+    "wof:lastmodified":1466697761,
     "wof:name":"Diamondback Ventures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.146156,32.70205,-103.146156,32.70205],
+  "bbox": [
+    -103.146156,
+    32.70205,
+    -103.146156,
+    32.70205
+],
   "geometry": {"coordinates":[-103.146156,32.70205],"type":"Point"}
 }

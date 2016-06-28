@@ -2,13 +2,14 @@
   "id": 186256227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.318541,35.887463,-106.318541,35.887463",
     "geom:latitude":35.887463,
     "geom:longitude":-106.318541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 Diamond Dr",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186256227,
-    "wof:lastmodified":1449052370,
+    "wof:lastmodified":1466698741,
     "wof:name":"Com-Cast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-106.318541,35.887463,-106.318541,35.887463],
+  "bbox": [
+    -106.318541,
+    35.887463,
+    -106.318541,
+    35.887463
+],
   "geometry": {"coordinates":[-106.318541,35.887463],"type":"Point"}
 }

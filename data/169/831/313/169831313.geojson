@@ -2,13 +2,14 @@
   "id": 169831313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.728854,35.084047,-106.728854,35.084047",
     "geom:latitude":35.084047,
     "geom:longitude":-106.728854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Oliver Ross Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":169831313,
-    "wof:lastmodified":1449034624,
+    "wof:lastmodified":1466698812,
     "wof:name":"Meeder Equipment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "industrial"
     ]
 },
-  "bbox": [-106.728854,35.084047,-106.728854,35.084047],
+  "bbox": [
+    -106.728854,
+    35.084047,
+    -106.728854,
+    35.084047
+],
   "geometry": {"coordinates":[-106.728854,35.084047],"type":"Point"}
 }

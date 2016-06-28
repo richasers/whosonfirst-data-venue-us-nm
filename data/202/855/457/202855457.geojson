@@ -2,13 +2,14 @@
   "id": 202855457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.751529,32.257051,-107.751529,32.257051",
     "geom:latitude":32.257051,
     "geom:longitude":-107.751529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Columbus Rd",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202855457,
-    "wof:lastmodified":1449061972,
+    "wof:lastmodified":1466700077,
     "wof:name":"Tharps Flowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.751529,32.257051,-107.751529,32.257051],
+  "bbox": [
+    -107.751529,
+    32.257051,
+    -107.751529,
+    32.257051
+],
   "geometry": {"coordinates":[-107.751529,32.257051],"type":"Point"}
 }

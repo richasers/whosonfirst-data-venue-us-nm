@@ -2,13 +2,14 @@
   "id": 203018869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.789032,32.310312,-106.789032,32.310312",
     "geom:latitude":32.310312,
     "geom:longitude":-106.789032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 N Compress Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203018869,
-    "wof:lastmodified":1449025876,
+    "wof:lastmodified":1466697813,
     "wof:name":"B E Harvey Gin Co",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cotton"
     ]
 },
-  "bbox": [-106.789032,32.310312,-106.789032,32.310312],
-  "geometry": {"coordinates":[-106.789032,32.310312],"type":"Point"}
+  "bbox": [
+    -106.789032,
+    32.310312,
+    -106.789032,
+    32.310312
+],
+  "geometry": {"coordinates":[-106.78903200000001,32.310312],"type":"Point"}
 }

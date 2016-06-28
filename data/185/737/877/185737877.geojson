@@ -2,13 +2,14 @@
   "id": 185737877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.994591,35.63388,-105.994591,35.63388",
     "geom:latitude":35.63388,
     "geom:longitude":-105.994591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2906 Ave Alamosa",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185737877,
-    "wof:lastmodified":1449006979,
+    "wof:lastmodified":1466699052,
     "wof:name":"Guy Le Sage-Classical Guitar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "music"
     ]
 },
-  "bbox": [-105.994591,35.63388,-105.994591,35.63388],
+  "bbox": [
+    -105.994591,
+    35.63388,
+    -105.994591,
+    35.63388
+],
   "geometry": {"coordinates":[-105.994591,35.63388],"type":"Point"}
 }

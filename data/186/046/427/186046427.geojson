@@ -2,13 +2,14 @@
   "id": 186046427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.6059,35.080048,-106.6059,35.080048",
     "geom:latitude":35.080048,
     "geom:longitude":-106.6059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3413 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186046427,
-    "wof:lastmodified":1449051864,
+    "wof:lastmodified":1466698205,
     "wof:name":"Laru Ni Hati",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.6059,35.080048,-106.6059,35.080048],
-  "geometry": {"coordinates":[-106.6059,35.080048],"type":"Point"}
+  "bbox": [
+    -106.6059,
+    35.080048,
+    -106.6059,
+    35.080048
+],
+  "geometry": {"coordinates":[-106.60590000000001,35.080048],"type":"Point"}
 }

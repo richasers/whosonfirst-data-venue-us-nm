@@ -2,13 +2,14 @@
   "id": 185930727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.127537,32.723615,-103.127537,32.723615",
     "geom:latitude":32.723615,
     "geom:longitude":-103.127537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2012 N Dal Paso St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185930727,
-    "wof:lastmodified":1449007114,
+    "wof:lastmodified":1466698952,
     "wof:name":"Perini Tire & Auto Center Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-103.127537,32.723615,-103.127537,32.723615],
+  "bbox": [
+    -103.127537,
+    32.723615,
+    -103.127537,
+    32.723615
+],
   "geometry": {"coordinates":[-103.127537,32.723615],"type":"Point"}
 }

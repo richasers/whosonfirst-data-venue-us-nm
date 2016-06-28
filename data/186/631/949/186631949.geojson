@@ -2,13 +2,14 @@
   "id": 186631949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.186503,36.741202,-108.186503,36.741202",
     "geom:latitude":36.741202,
     "geom:longitude":-108.186503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Fairgrounds Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186631949,
-    "wof:lastmodified":1449051208,
+    "wof:lastmodified":1466700759,
     "wof:name":"Alexander Trailor Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "site"
     ]
 },
-  "bbox": [-108.186503,36.741202,-108.186503,36.741202],
+  "bbox": [
+    -108.186503,
+    36.741202,
+    -108.186503,
+    36.741202
+],
   "geometry": {"coordinates":[-108.186503,36.741202],"type":"Point"}
 }

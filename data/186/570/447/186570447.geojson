@@ -2,13 +2,14 @@
   "id": 186570447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.546662,33.38619,-104.546662,33.38619",
     "geom:latitude":33.38619,
     "geom:longitude":-104.546662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 S Woody Dr",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186570447,
-    "wof:lastmodified":1449051960,
+    "wof:lastmodified":1466700429,
     "wof:name":"Alverado Manner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-104.546662,33.38619,-104.546662,33.38619],
+  "bbox": [
+    -104.546662,
+    33.38619,
+    -104.546662,
+    33.38619
+],
   "geometry": {"coordinates":[-104.546662,33.38619],"type":"Point"}
 }

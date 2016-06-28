@@ -2,13 +2,14 @@
   "id": 186355267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.205445,34.412071,-103.205445,34.412071",
     "geom:latitude":34.412071,
     "geom:longitude":-103.205445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1468 N Main St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186355267,
-    "wof:lastmodified":1449051139,
+    "wof:lastmodified":1466699556,
     "wof:name":"Eastern New Mexico Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-103.205445,34.412071,-103.205445,34.412071],
+  "bbox": [
+    -103.205445,
+    34.412071,
+    -103.205445,
+    34.412071
+],
   "geometry": {"coordinates":[-103.205445,34.412071],"type":"Point"}
 }

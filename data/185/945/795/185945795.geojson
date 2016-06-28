@@ -2,13 +2,14 @@
   "id": 185945795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615677,35.123738,-106.615677,35.123738",
     "geom:latitude":35.123738,
     "geom:longitude":-106.615677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Comanche Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":185945795,
-    "wof:lastmodified":1449006741,
+    "wof:lastmodified":1466699155,
     "wof:name":"Morey's Seafood Intl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.615677,35.123738,-106.615677,35.123738],
-  "geometry": {"coordinates":[-106.615677,35.123738],"type":"Point"}
+  "bbox": [
+    -106.615677,
+    35.123738,
+    -106.615677,
+    35.123738
+],
+  "geometry": {"coordinates":[-106.61567700000001,35.123738],"type":"Point"}
 }

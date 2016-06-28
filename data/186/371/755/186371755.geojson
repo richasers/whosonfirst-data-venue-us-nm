@@ -2,13 +2,14 @@
   "id": 186371755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.789039,32.304421,-106.789039,32.304421",
     "geom:latitude":32.304421,
     "geom:longitude":-106.789039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 W Amador Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186371755,
-    "wof:lastmodified":1449052403,
+    "wof:lastmodified":1466699742,
     "wof:name":"Mack Weaver Design & Cabinetry",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-106.789039,32.304421,-106.789039,32.304421],
+  "bbox": [
+    -106.789039,
+    32.304421,
+    -106.789039,
+    32.304421
+],
   "geometry": {"coordinates":[-106.789039,32.304421],"type":"Point"}
 }

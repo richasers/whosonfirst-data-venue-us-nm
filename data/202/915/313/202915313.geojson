@@ -2,13 +2,14 @@
   "id": 202915313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.045752,34.389546,-103.045752,34.389546",
     "geom:latitude":34.389546,
     "geom:longitude":-103.045752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N Turner St",
     "sg:city":"Texico",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202915313,
-    "wof:lastmodified":1449062607,
+    "wof:lastmodified":1466700413,
     "wof:name":"Texico Volunteer Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-103.045752,34.389546,-103.045752,34.389546],
-  "geometry": {"coordinates":[-103.045752,34.389546],"type":"Point"}
+  "bbox": [
+    -103.045752,
+    34.389546,
+    -103.045752,
+    34.389546
+],
+  "geometry": {"coordinates":[-103.04575199999999,34.389546],"type":"Point"}
 }

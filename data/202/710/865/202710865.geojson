@@ -2,13 +2,14 @@
   "id": 202710865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.148891,32.70069,-103.148891,32.70069",
     "geom:latitude":32.70069,
     "geom:longitude":-103.148891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 W Broadway St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202710865,
-    "wof:lastmodified":1449060265,
+    "wof:lastmodified":1466699650,
     "wof:name":"Dale's Auto Paints & Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "paint"
     ]
 },
-  "bbox": [-103.148891,32.70069,-103.148891,32.70069],
-  "geometry": {"coordinates":[-103.148891,32.70069],"type":"Point"}
+  "bbox": [
+    -103.148891,
+    32.70069,
+    -103.148891,
+    32.70069
+],
+  "geometry": {"coordinates":[-103.14889100000001,32.70069],"type":"Point"}
 }

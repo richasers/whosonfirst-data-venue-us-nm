@@ -2,13 +2,14 @@
   "id": 202887823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.216394,35.589965,-105.216394,35.589965",
     "geom:latitude":35.589965,
     "geom:longitude":-105.216394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"932 Gallinas St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202887823,
-    "wof:lastmodified":1449062162,
+    "wof:lastmodified":1466700304,
     "wof:name":"Plum Creek Timber Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.216394,35.589965,-105.216394,35.589965],
-  "geometry": {"coordinates":[-105.216394,35.589965],"type":"Point"}
+  "bbox": [
+    -105.216394,
+    35.589965,
+    -105.216394,
+    35.589965
+],
+  "geometry": {"coordinates":[-105.21639399999999,35.589965],"type":"Point"}
 }

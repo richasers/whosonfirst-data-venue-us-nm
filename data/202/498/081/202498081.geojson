@@ -2,13 +2,14 @@
   "id": 202498081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.968543,35.667718,-105.968543,35.667718",
     "geom:latitude":35.667718,
     "geom:longitude":-105.968543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1622 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202498081,
-    "wof:lastmodified":1449062043,
+    "wof:lastmodified":1466699098,
     "wof:name":"Desert Chateau Motel",
     "wof:parent_id":85880811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-105.968543,35.667718,-105.968543,35.667718],
+  "bbox": [
+    -105.968543,
+    35.667718,
+    -105.968543,
+    35.667718
+],
   "geometry": {"coordinates":[-105.968543,35.667718],"type":"Point"}
 }

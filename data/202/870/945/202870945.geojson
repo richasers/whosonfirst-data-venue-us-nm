@@ -2,13 +2,14 @@
   "id": 202870945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.660919,33.404455,-105.660919,33.404455",
     "geom:latitude":33.404455,
     "geom:longitude":-105.660919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 del Monte Dr",
     "sg:city":"Alto",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202870945,
-    "wof:lastmodified":1449060781,
+    "wof:lastmodified":1466700339,
     "wof:name":"Shuttle Ruidoso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airport"
     ]
 },
-  "bbox": [-105.660919,33.404455,-105.660919,33.404455],
-  "geometry": {"coordinates":[-105.660919,33.404455],"type":"Point"}
+  "bbox": [
+    -105.660919,
+    33.404455,
+    -105.660919,
+    33.404455
+],
+  "geometry": {"coordinates":[-105.66091900000001,33.404455],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185920293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.979163,36.720128,-107.979163,36.720128",
     "geom:latitude":36.720128,
     "geom:longitude":-107.979163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 N 1st St",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185920293,
-    "wof:lastmodified":1449007867,
+    "wof:lastmodified":1466698807,
     "wof:name":"Naaba Ani Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.979163,36.720128,-107.979163,36.720128],
+  "bbox": [
+    -107.979163,
+    36.720128,
+    -107.979163,
+    36.720128
+],
   "geometry": {"coordinates":[-107.979163,36.720128],"type":"Point"}
 }

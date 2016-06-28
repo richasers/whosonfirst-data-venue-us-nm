@@ -2,13 +2,14 @@
   "id": 203025765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.154563,32.441606,-103.154563,32.441606",
     "geom:latitude":32.441606,
     "geom:longitude":-103.154563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Avenue N",
     "sg:city":"Eunice",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203025765,
-    "wof:lastmodified":1449026539,
+    "wof:lastmodified":1466697880,
     "wof:name":"United First",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.154563,32.441606,-103.154563,32.441606],
+  "bbox": [
+    -103.154563,
+    32.441606,
+    -103.154563,
+    32.441606
+],
   "geometry": {"coordinates":[-103.154563,32.441606],"type":"Point"}
 }

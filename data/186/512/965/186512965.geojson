@@ -2,13 +2,14 @@
   "id": 186512965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.925463,35.753188,-105.925463,35.753188",
     "geom:latitude":35.753188,
     "geom:longitude":-105.925463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 Bishops Lodge Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186512965,
-    "wof:lastmodified":1449052307,
+    "wof:lastmodified":1466700146,
     "wof:name":"Morris Press The",
     "wof:parent_id":85880787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-105.925463,35.753188,-105.925463,35.753188],
-  "geometry": {"coordinates":[-105.925463,35.753188],"type":"Point"}
+  "bbox": [
+    -105.925463,
+    35.753188,
+    -105.925463,
+    35.753188
+],
+  "geometry": {"coordinates":[-105.92546299999999,35.753188],"type":"Point"}
 }

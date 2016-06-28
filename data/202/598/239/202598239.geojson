@@ -2,13 +2,14 @@
   "id": 202598239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.647752,35.066306,-106.647752,35.066306",
     "geom:latitude":35.066306,
     "geom:longitude":-106.647752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 Lily Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202598239,
-    "wof:lastmodified":1449060233,
+    "wof:lastmodified":1466698357,
     "wof:name":"Jaquez & Sons Trucking",
     "wof:parent_id":85804483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-106.647752,35.066306,-106.647752,35.066306],
+  "bbox": [
+    -106.647752,
+    35.066306,
+    -106.647752,
+    35.066306
+],
   "geometry": {"coordinates":[-106.647752,35.066306],"type":"Point"}
 }

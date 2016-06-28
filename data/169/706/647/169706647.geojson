@@ -2,13 +2,14 @@
   "id": 169706647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.617916,33.476008,-104.617916,33.476008",
     "geom:latitude":33.476008,
     "geom:longitude":-104.617916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Hawthorn Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169706647,
-    "wof:lastmodified":1449032913,
+    "wof:lastmodified":1466697653,
     "wof:name":"Atlas Sewer & Drain Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewer"
     ]
 },
-  "bbox": [-104.617916,33.476008,-104.617916,33.476008],
-  "geometry": {"coordinates":[-104.617916,33.476008],"type":"Point"}
+  "bbox": [
+    -104.617916,
+    33.476008,
+    -104.617916,
+    33.476008
+],
+  "geometry": {"coordinates":[-104.61791599999999,33.476008],"type":"Point"}
 }

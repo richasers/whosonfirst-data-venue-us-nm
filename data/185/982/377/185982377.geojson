@@ -2,13 +2,14 @@
   "id": 185982377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.620872,35.079984,-106.620872,35.079984",
     "geom:latitude":35.079984,
     "geom:longitude":-106.620872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Harvard Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185982377,
-    "wof:lastmodified":1449006887,
+    "wof:lastmodified":1466699660,
     "wof:name":"Re-Visioning New Mexico",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.620872,35.079984,-106.620872,35.079984],
-  "geometry": {"coordinates":[-106.620872,35.079984],"type":"Point"}
+  "bbox": [
+    -106.620872,
+    35.079984,
+    -106.620872,
+    35.079984
+],
+  "geometry": {"coordinates":[-106.62087200000001,35.079984],"type":"Point"}
 }

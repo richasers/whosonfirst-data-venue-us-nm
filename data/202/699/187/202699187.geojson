@@ -2,13 +2,14 @@
   "id": 202699187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613738,35.116056,-106.613738,35.116056",
     "geom:latitude":35.116056,
     "geom:longitude":-106.613738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2914 Girard Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":202699187,
-    "wof:lastmodified":1449060453,
+    "wof:lastmodified":1466699606,
     "wof:name":"Commercial Door & Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "sash"
     ]
 },
-  "bbox": [-106.613738,35.116056,-106.613738,35.116056],
+  "bbox": [
+    -106.613738,
+    35.116056,
+    -106.613738,
+    35.116056
+],
   "geometry": {"coordinates":[-106.613738,35.116056],"type":"Point"}
 }

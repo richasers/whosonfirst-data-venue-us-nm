@@ -2,13 +2,14 @@
   "id": 203048913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.88378,32.44375,-106.88378,32.44375",
     "geom:latitude":32.44375,
     "geom:longitude":-106.88378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9415 N Valley Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203048913,
-    "wof:lastmodified":1449025584,
+    "wof:lastmodified":1466698130,
     "wof:name":"Los Puentes Farms Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "field"
     ]
 },
-  "bbox": [-106.88378,32.44375,-106.88378,32.44375],
+  "bbox": [
+    -106.88378,
+    32.44375,
+    -106.88378,
+    32.44375
+],
   "geometry": {"coordinates":[-106.88378,32.44375],"type":"Point"}
 }

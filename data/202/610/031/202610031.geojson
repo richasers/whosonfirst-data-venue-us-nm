@@ -2,13 +2,14 @@
   "id": 202610031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.908088,34.063902,-106.908088,34.063902",
     "geom:latitude":34.063902,
     "geom:longitude":-106.908088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Vista Dr",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202610031,
-    "wof:lastmodified":1449062595,
+    "wof:lastmodified":1466698513,
     "wof:name":"Friends of The Bosque Del APAC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.908088,34.063902,-106.908088,34.063902],
-  "geometry": {"coordinates":[-106.908088,34.063902],"type":"Point"}
+  "bbox": [
+    -106.908088,
+    34.063902,
+    -106.908088,
+    34.063902
+],
+  "geometry": {"coordinates":[-106.90808800000001,34.063902],"type":"Point"}
 }

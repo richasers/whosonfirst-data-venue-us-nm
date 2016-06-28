@@ -2,13 +2,14 @@
   "id": 202610893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.250463,33.129343,-107.250463,33.129343",
     "geom:latitude":33.129343,
     "geom:longitude":-107.250463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N Broadway St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202610893,
-    "wof:lastmodified":1449062595,
+    "wof:lastmodified":1466698529,
     "wof:name":"Rio Bravo Fine Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-107.250463,33.129343,-107.250463,33.129343],
+  "bbox": [
+    -107.250463,
+    33.129343,
+    -107.250463,
+    33.129343
+],
   "geometry": {"coordinates":[-107.250463,33.129343],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203018141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.738422,35.059178,-106.738422,35.059178",
     "geom:latitude":35.059178,
     "geom:longitude":-106.738422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 Sunbird Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":203018141,
-    "wof:lastmodified":1449025873,
+    "wof:lastmodified":1466697801,
     "wof:name":"T P Body Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "painting"
     ]
 },
-  "bbox": [-106.738422,35.059178,-106.738422,35.059178],
+  "bbox": [
+    -106.738422,
+    35.059178,
+    -106.738422,
+    35.059178
+],
   "geometry": {"coordinates":[-106.738422,35.059178],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202623059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613245,35.082173,-106.613245,35.082173",
     "geom:latitude":35.082173,
     "geom:longitude":-106.613245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Girard Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202623059,
-    "wof:lastmodified":1449061874,
+    "wof:lastmodified":1466698724,
     "wof:name":"Albuquerque Fire Station 3",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-106.613245,35.082173,-106.613245,35.082173],
-  "geometry": {"coordinates":[-106.613245,35.082173],"type":"Point"}
+  "bbox": [
+    -106.613245,
+    35.082173,
+    -106.613245,
+    35.082173
+],
+  "geometry": {"coordinates":[-106.61324500000001,35.082173],"type":"Point"}
 }

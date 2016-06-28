@@ -2,13 +2,14 @@
   "id": 186135967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.7138,34.987356,-106.7138,34.987356",
     "geom:latitude":34.987356,
     "geom:longitude":-106.7138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2603 Garner Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186135967,
-    "wof:lastmodified":1449051405,
+    "wof:lastmodified":1466699187,
     "wof:name":"C 3 Health Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.7138,34.987356,-106.7138,34.987356],
-  "geometry": {"coordinates":[-106.7138,34.987356],"type":"Point"}
+  "bbox": [
+    -106.7138,
+    34.987356,
+    -106.7138,
+    34.987356
+],
+  "geometry": {"coordinates":[-106.71380000000001,34.987356],"type":"Point"}
 }

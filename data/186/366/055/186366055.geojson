@@ -2,13 +2,14 @@
   "id": 186366055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.205555,36.721184,-108.205555,36.721184",
     "geom:latitude":36.721184,
     "geom:longitude":-108.205555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Quince St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186366055,
-    "wof:lastmodified":1449052314,
+    "wof:lastmodified":1466699587,
     "wof:name":"Love Speed Racing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "motor"
     ]
 },
-  "bbox": [-108.205555,36.721184,-108.205555,36.721184],
+  "bbox": [
+    -108.205555,
+    36.721184,
+    -108.205555,
+    36.721184
+],
   "geometry": {"coordinates":[-108.205555,36.721184],"type":"Point"}
 }

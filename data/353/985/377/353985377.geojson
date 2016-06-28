@@ -2,13 +2,14 @@
   "id": 353985377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.147474,36.462693,-103.147474,36.462693",
     "geom:latitude":36.462693,
     "geom:longitude":-103.147474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Mesa View Rd",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353985377,
-    "wof:lastmodified":1449019531,
+    "wof:lastmodified":1466699155,
     "wof:name":"Louis Carpet And Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-103.147474,36.462693,-103.147474,36.462693],
+  "bbox": [
+    -103.147474,
+    36.462693,
+    -103.147474,
+    36.462693
+],
   "geometry": {"coordinates":[-103.147474,36.462693],"type":"Point"}
 }

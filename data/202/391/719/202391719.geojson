@@ -2,13 +2,14 @@
   "id": 202391719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.602358,35.065178,-106.602358,35.065178",
     "geom:latitude":35.065178,
     "geom:longitude":-106.602358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3704 Smith Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202391719,
-    "wof:lastmodified":1449061708,
+    "wof:lastmodified":1466697842,
     "wof:name":"Anne Dhon Crtif Crt Rporter In",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-106.602358,35.065178,-106.602358,35.065178],
+  "bbox": [
+    -106.602358,
+    35.065178,
+    -106.602358,
+    35.065178
+],
   "geometry": {"coordinates":[-106.602358,35.065178],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203082203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.70863,35.144511,-106.70863,35.144511",
     "geom:latitude":35.144511,
     "geom:longitude":-106.70863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6029 Gorrion St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203082203,
-    "wof:lastmodified":1449024997,
+    "wof:lastmodified":1466698478,
     "wof:name":"Custom Fabricators Inc",
     "wof:parent_id":85865321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-106.70863,35.144511,-106.70863,35.144511],
+  "bbox": [
+    -106.70863,
+    35.144511,
+    -106.70863,
+    35.144511
+],
   "geometry": {"coordinates":[-106.70863,35.144511],"type":"Point"}
 }

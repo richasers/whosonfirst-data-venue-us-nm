@@ -2,13 +2,14 @@
   "id": 203103411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.501404,35.055836,-106.501404,35.055836",
     "geom:latitude":35.055836,
     "geom:longitude":-106.501404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"840 Cll Coronado SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203103411,
-    "wof:lastmodified":1449026131,
+    "wof:lastmodified":1466698750,
     "wof:name":"Sharon Jensen",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [-106.501404,35.055836,-106.501404,35.055836],
-  "geometry": {"coordinates":[-106.501404,35.055836],"type":"Point"}
+  "bbox": [
+    -106.501404,
+    35.055836,
+    -106.501404,
+    35.055836
+],
+  "geometry": {"coordinates":[-106.50140399999999,35.055836],"type":"Point"}
 }

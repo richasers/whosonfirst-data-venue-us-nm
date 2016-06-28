@@ -2,13 +2,14 @@
   "id": 203024659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.742092,35.522331,-108.742092,35.522331",
     "geom:latitude":35.522331,
     "geom:longitude":-108.742092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 S 3rd St",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203024659,
-    "wof:lastmodified":1449025826,
+    "wof:lastmodified":1466697866,
     "wof:name":"First American CREDIT Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.742092,35.522331,-108.742092,35.522331],
+  "bbox": [
+    -108.742092,
+    35.522331,
+    -108.742092,
+    35.522331
+],
   "geometry": {"coordinates":[-108.742092,35.522331],"type":"Point"}
 }

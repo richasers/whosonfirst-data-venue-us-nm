@@ -2,13 +2,14 @@
   "id": 202968271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.218597,32.394683,-104.218597,32.394683",
     "geom:latitude":32.394683,
     "geom:longitude":-104.218597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Center Ave",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202968271,
-    "wof:lastmodified":1449060271,
+    "wof:lastmodified":1466700525,
     "wof:name":"Bes Rentals & Sales",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-104.218597,32.394683,-104.218597,32.394683],
+  "bbox": [
+    -104.218597,
+    32.394683,
+    -104.218597,
+    32.394683
+],
   "geometry": {"coordinates":[-104.218597,32.394683],"type":"Point"}
 }

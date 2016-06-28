@@ -2,13 +2,14 @@
   "id": 353979749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.249458,34.382961,-103.249458,34.382961",
     "geom:latitude":34.382961,
     "geom:longitude":-103.249458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 S Wheaton St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":353979749,
-    "wof:lastmodified":1449020049,
+    "wof:lastmodified":1466699088,
     "wof:name":"Dz Pump Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "pumps-service"
     ]
 },
-  "bbox": [-103.249458,34.382961,-103.249458,34.382961],
+  "bbox": [
+    -103.249458,
+    34.382961,
+    -103.249458,
+    34.382961
+],
   "geometry": {"coordinates":[-103.249458,34.382961],"type":"Point"}
 }

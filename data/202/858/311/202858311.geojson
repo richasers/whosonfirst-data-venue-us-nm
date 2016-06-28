@@ -2,13 +2,14 @@
   "id": 202858311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.225607,32.785027,-108.225607,32.785027",
     "geom:latitude":32.785027,
     "geom:longitude":-108.225607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3510 US Hwy 180 E",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202858311,
-    "wof:lastmodified":1449060366,
+    "wof:lastmodified":1466700225,
     "wof:name":"Lowry's Rv Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.225607,32.785027,-108.225607,32.785027],
+  "bbox": [
+    -108.225607,
+    32.785027,
+    -108.225607,
+    32.785027
+],
   "geometry": {"coordinates":[-108.225607,32.785027],"type":"Point"}
 }

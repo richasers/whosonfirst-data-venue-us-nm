@@ -2,13 +2,14 @@
   "id": 186261699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.031945,35.615452,-106.031945,35.615452",
     "geom:latitude":35.615452,
     "geom:longitude":-106.031945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8376 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186261699,
-    "wof:lastmodified":1449050301,
+    "wof:lastmodified":1466698808,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.031945,35.615452,-106.031945,35.615452],
-  "geometry": {"coordinates":[-106.031945,35.615452],"type":"Point"}
+  "bbox": [
+    -106.031945,
+    35.615452,
+    -106.031945,
+    35.615452
+],
+  "geometry": {"coordinates":[-106.03194499999999,35.615452],"type":"Point"}
 }

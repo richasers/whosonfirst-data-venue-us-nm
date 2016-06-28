@@ -2,13 +2,14 @@
   "id": 185861843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.687733,35.165422,-106.687733,35.165422",
     "geom:latitude":35.165422,
     "geom:longitude":-106.687733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4617 Snapdragon Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185861843,
-    "wof:lastmodified":1449008188,
+    "wof:lastmodified":1466698133,
     "wof:name":"Public Private Partnr The LLC",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "government"
     ]
 },
-  "bbox": [-106.687733,35.165422,-106.687733,35.165422],
-  "geometry": {"coordinates":[-106.687733,35.165422],"type":"Point"}
+  "bbox": [
+    -106.687733,
+    35.165422,
+    -106.687733,
+    35.165422
+],
+  "geometry": {"coordinates":[-106.68773299999999,35.165422],"type":"Point"}
 }

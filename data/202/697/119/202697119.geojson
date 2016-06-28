@@ -2,13 +2,14 @@
   "id": 202697119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.270735,32.781921,-108.270735,32.781921",
     "geom:latitude":32.781921,
     "geom:longitude":-108.270735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1560 N Corbin St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202697119,
-    "wof:lastmodified":1449061696,
+    "wof:lastmodified":1466699737,
     "wof:name":"KSCQ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-108.270735,32.781921,-108.270735,32.781921],
+  "bbox": [
+    -108.270735,
+    32.781921,
+    -108.270735,
+    32.781921
+],
   "geometry": {"coordinates":[-108.270735,32.781921],"type":"Point"}
 }

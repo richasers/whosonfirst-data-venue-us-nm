@@ -2,13 +2,14 @@
   "id": 186506633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.76001,32.275979,-107.76001,32.275979",
     "geom:latitude":32.275979,
     "geom:longitude":-107.76001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 N Gold Ave",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186506633,
-    "wof:lastmodified":1449050325,
+    "wof:lastmodified":1466700247,
     "wof:name":"Baldo's Night Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-107.76001,32.275979,-107.76001,32.275979],
-  "geometry": {"coordinates":[-107.76001,32.275979],"type":"Point"}
+  "bbox": [
+    -107.76001,
+    32.275979,
+    -107.76001,
+    32.275979
+],
+  "geometry": {"coordinates":[-107.76000999999999,32.275979],"type":"Point"}
 }

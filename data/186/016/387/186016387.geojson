@@ -2,13 +2,14 @@
   "id": 186016387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.042837,35.711941,-106.042837,35.711941",
     "geom:latitude":35.711941,
     "geom:longitude":-106.042837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Green Meadow Loop",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186016387,
-    "wof:lastmodified":1449050886,
+    "wof:lastmodified":1466697864,
     "wof:name":"Jerome Bernard Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-106.042837,35.711941,-106.042837,35.711941],
-  "geometry": {"coordinates":[-106.042837,35.711941],"type":"Point"}
+  "bbox": [
+    -106.042837,
+    35.711941,
+    -106.042837,
+    35.711941
+],
+  "geometry": {"coordinates":[-106.04283700000001,35.711941],"type":"Point"}
 }

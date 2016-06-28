@@ -2,13 +2,14 @@
   "id": 169793607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.605183,35.12368,-106.605183,35.12368",
     "geom:latitude":35.12368,
     "geom:longitude":-106.605183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Comanche Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":169793607,
-    "wof:lastmodified":1449034506,
+    "wof:lastmodified":1466698529,
     "wof:name":"Budagher & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.605183,35.12368,-106.605183,35.12368],
+  "bbox": [
+    -106.605183,
+    35.12368,
+    -106.605183,
+    35.12368
+],
   "geometry": {"coordinates":[-106.605183,35.12368],"type":"Point"}
 }

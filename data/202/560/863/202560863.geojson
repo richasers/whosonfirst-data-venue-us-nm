@@ -2,13 +2,14 @@
   "id": 202560863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550465,35.083554,-106.550465,35.083554",
     "geom:latitude":35.083554,
     "geom:longitude":-106.550465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202560863,
-    "wof:lastmodified":1449062060,
+    "wof:lastmodified":1466697806,
     "wof:name":"Los Altos Upholstery",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "upholsterer"
     ]
 },
-  "bbox": [-106.550465,35.083554,-106.550465,35.083554],
+  "bbox": [
+    -106.550465,
+    35.083554,
+    -106.550465,
+    35.083554
+],
   "geometry": {"coordinates":[-106.550465,35.083554],"type":"Point"}
 }

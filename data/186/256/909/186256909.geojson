@@ -2,13 +2,14 @@
   "id": 186256909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.778576,32.299083,-106.778576,32.299083",
     "geom:latitude":32.299083,
     "geom:longitude":-106.778576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Wyatt Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186256909,
-    "wof:lastmodified":1449052372,
+    "wof:lastmodified":1466698750,
     "wof:name":"Data Check Of Las Cruces",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-106.778576,32.299083,-106.778576,32.299083],
+  "bbox": [
+    -106.778576,
+    32.299083,
+    -106.778576,
+    32.299083
+],
   "geometry": {"coordinates":[-106.778576,32.299083],"type":"Point"}
 }

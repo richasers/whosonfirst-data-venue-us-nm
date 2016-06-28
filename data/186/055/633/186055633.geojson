@@ -2,13 +2,14 @@
   "id": 186055633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586227,35.090941,-106.586227,35.090941",
     "geom:latitude":35.090941,
     "geom:longitude":-106.586227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5202 Mountain Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186055633,
-    "wof:lastmodified":1449051001,
+    "wof:lastmodified":1466698322,
     "wof:name":"Demetria Keller Case Mgmt",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-106.586227,35.090941,-106.586227,35.090941],
-  "geometry": {"coordinates":[-106.586227,35.090941],"type":"Point"}
+  "bbox": [
+    -106.586227,
+    35.090941,
+    -106.586227,
+    35.090941
+],
+  "geometry": {"coordinates":[-106.58622699999999,35.090941],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353982161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.204019,34.401907,-103.204019,34.401907",
     "geom:latitude":34.401907,
     "geom:longitude":-103.204019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Pile St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353982161,
-    "wof:lastmodified":1449018680,
+    "wof:lastmodified":1466699116,
     "wof:name":"Greig & Richards P A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "law"
     ]
 },
-  "bbox": [-103.204019,34.401907,-103.204019,34.401907],
+  "bbox": [
+    -103.204019,
+    34.401907,
+    -103.204019,
+    34.401907
+],
   "geometry": {"coordinates":[-103.204019,34.401907],"type":"Point"}
 }

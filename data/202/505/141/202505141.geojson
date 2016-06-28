@@ -2,13 +2,14 @@
   "id": 202505141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.503149,35.190439,-106.503149,35.190439",
     "geom:latitude":35.190439,
     "geom:longitude":-106.503149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12208 Elena Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202505141,
-    "wof:lastmodified":1449062239,
+    "wof:lastmodified":1466699177,
     "wof:name":"Special Live-In Care Inc",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [-106.503149,35.190439,-106.503149,35.190439],
-  "geometry": {"coordinates":[-106.503149,35.190439],"type":"Point"}
+  "bbox": [
+    -106.503149,
+    35.190439,
+    -106.503149,
+    35.190439
+],
+  "geometry": {"coordinates":[-106.50314899999999,35.190439],"type":"Point"}
 }

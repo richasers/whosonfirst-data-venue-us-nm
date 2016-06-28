@@ -2,13 +2,14 @@
   "id": 169714453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.056194,34.757126,-106.056194,34.757126",
     "geom:latitude":34.757126,
     "geom:longitude":-106.056194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Highland Ave",
     "sg:city":"Estancia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169714453,
-    "wof:lastmodified":1449034315,
+    "wof:lastmodified":1466697709,
     "wof:name":"Torrance County Senior Citizen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.056194,34.757126,-106.056194,34.757126],
+  "bbox": [
+    -106.056194,
+    34.757126,
+    -106.056194,
+    34.757126
+],
   "geometry": {"coordinates":[-106.056194,34.757126],"type":"Point"}
 }

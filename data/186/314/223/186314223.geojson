@@ -2,13 +2,14 @@
   "id": 186314223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.526145,35.151146,-106.526145,35.151146",
     "geom:latitude":35.151146,
     "geom:longitude":-106.526145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6349 Admiral Rickover Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186314223,
-    "wof:lastmodified":1449052921,
+    "wof:lastmodified":1466699513,
     "wof:name":"Rex Barron",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "illustration"
     ]
 },
-  "bbox": [-106.526145,35.151146,-106.526145,35.151146],
+  "bbox": [
+    -106.526145,
+    35.151146,
+    -106.526145,
+    35.151146
+],
   "geometry": {"coordinates":[-106.526145,35.151146],"type":"Point"}
 }

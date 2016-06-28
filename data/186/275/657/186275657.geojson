@@ -2,13 +2,14 @@
   "id": 186275657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.013307,35.627369,-106.013307,35.627369",
     "geom:latitude":35.627369,
     "geom:longitude":-106.013307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4254 Indian Summer Ln",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":186275657,
-    "wof:lastmodified":1449051248,
+    "wof:lastmodified":1466698997,
     "wof:name":"Fingerprinting Services San",
     "wof:parent_id":85880823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fingerprinting"
     ]
 },
-  "bbox": [-106.013307,35.627369,-106.013307,35.627369],
+  "bbox": [
+    -106.013307,
+    35.627369,
+    -106.013307,
+    35.627369
+],
   "geometry": {"coordinates":[-106.013307,35.627369],"type":"Point"}
 }

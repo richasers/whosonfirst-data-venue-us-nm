@@ -2,13 +2,14 @@
   "id": 185977903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.154619,32.665345,-107.154619,32.665345",
     "geom:latitude":32.665345,
     "geom:longitude":-107.154619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 W Hall St",
     "sg:city":"Hatch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185977903,
-    "wof:lastmodified":1449008258,
+    "wof:lastmodified":1466699617,
     "wof:name":"Pepper Pot",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.154619,32.665345,-107.154619,32.665345],
+  "bbox": [
+    -107.154619,
+    32.665345,
+    -107.154619,
+    32.665345
+],
   "geometry": {"coordinates":[-107.154619,32.665345],"type":"Point"}
 }

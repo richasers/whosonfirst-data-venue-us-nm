@@ -2,13 +2,14 @@
   "id": 202850527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.727313,34.808792,-106.727313,34.808792",
     "geom:latitude":34.808792,
     "geom:longitude":-106.727313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 Los Lentes Rd NE",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202850527,
-    "wof:lastmodified":1449061582,
+    "wof:lastmodified":1466700058,
     "wof:name":"Rael & Sanchez",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.727313,34.808792,-106.727313,34.808792],
+  "bbox": [
+    -106.727313,
+    34.808792,
+    -106.727313,
+    34.808792
+],
   "geometry": {"coordinates":[-106.727313,34.808792],"type":"Point"}
 }

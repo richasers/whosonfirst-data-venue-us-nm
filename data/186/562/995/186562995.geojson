@@ -2,13 +2,14 @@
   "id": 186562995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.965694,35.641979,-105.965694,35.641979",
     "geom:latitude":35.641979,
     "geom:longitude":-105.965694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2406 Cam Capitan",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186562995,
-    "wof:lastmodified":1449051795,
+    "wof:lastmodified":1466700384,
     "wof:name":"A C Fence Company",
     "wof:parent_id":85880775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-105.965694,35.641979,-105.965694,35.641979],
+  "bbox": [
+    -105.965694,
+    35.641979,
+    -105.965694,
+    35.641979
+],
   "geometry": {"coordinates":[-105.965694,35.641979],"type":"Point"}
 }

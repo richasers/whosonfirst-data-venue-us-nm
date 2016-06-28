@@ -2,13 +2,14 @@
   "id": 202928469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614264,35.225121,-106.614264,35.225121",
     "geom:latitude":35.225121,
     "geom:longitude":-106.614264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4514 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202928469,
-    "wof:lastmodified":1449062304,
+    "wof:lastmodified":1466700570,
     "wof:name":"Goldvine Inc",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-106.614264,35.225121,-106.614264,35.225121],
-  "geometry": {"coordinates":[-106.614264,35.225121],"type":"Point"}
+  "bbox": [
+    -106.614264,
+    35.225121,
+    -106.614264,
+    35.225121
+],
+  "geometry": {"coordinates":[-106.61426400000001,35.225121],"type":"Point"}
 }

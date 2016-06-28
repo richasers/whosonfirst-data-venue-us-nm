@@ -2,13 +2,14 @@
   "id": 169790843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.278549,32.824342,-108.278549,32.824342",
     "geom:latitude":32.824342,
     "geom:longitude":-108.278549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5096 Little Walnut Rd",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169790843,
-    "wof:lastmodified":1449035188,
+    "wof:lastmodified":1466698495,
     "wof:name":"Old World Bakery & Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.278549,32.824342,-108.278549,32.824342],
+  "bbox": [
+    -108.278549,
+    32.824342,
+    -108.278549,
+    32.824342
+],
   "geometry": {"coordinates":[-108.278549,32.824342],"type":"Point"}
 }

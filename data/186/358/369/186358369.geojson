@@ -2,13 +2,14 @@
   "id": 186358369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.251663,34.433997,-103.251663,34.433997",
     "geom:latitude":34.433997,
     "geom:longitude":-103.251663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 W Llano Estacado Blvd",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186358369,
-    "wof:lastmodified":1449051504,
+    "wof:lastmodified":1466699699,
     "wof:name":"House of Prayer Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-103.251663,34.433997,-103.251663,34.433997],
-  "geometry": {"coordinates":[-103.251663,34.433997],"type":"Point"}
+  "bbox": [
+    -103.251663,
+    34.433997,
+    -103.251663,
+    34.433997
+],
+  "geometry": {"coordinates":[-103.25166299999999,34.433997],"type":"Point"}
 }

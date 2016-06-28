@@ -2,13 +2,14 @@
   "id": 186228721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.545532,35.180205,-106.545532,35.180205",
     "geom:latitude":35.180205,
     "geom:longitude":-106.545532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8810 Corona Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186228721,
-    "wof:lastmodified":1449051221,
+    "wof:lastmodified":1466698382,
     "wof:name":"Career Placements LLC",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.545532,35.180205,-106.545532,35.180205],
-  "geometry": {"coordinates":[-106.545532,35.180205],"type":"Point"}
+  "bbox": [
+    -106.545532,
+    35.180205,
+    -106.545532,
+    35.180205
+],
+  "geometry": {"coordinates":[-106.54553199999999,35.180205],"type":"Point"}
 }

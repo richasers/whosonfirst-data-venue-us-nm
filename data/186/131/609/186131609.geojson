@@ -2,13 +2,14 @@
   "id": 186131609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.175857,36.748251,-108.175857,36.748251",
     "geom:latitude":36.748251,
     "geom:longitude":-108.175857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2346 E 20th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186131609,
-    "wof:lastmodified":1449051189,
+    "wof:lastmodified":1466699172,
     "wof:name":"Curtis Little Oil & Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-108.175857,36.748251,-108.175857,36.748251],
-  "geometry": {"coordinates":[-108.175857,36.748251],"type":"Point"}
+  "bbox": [
+    -108.175857,
+    36.748251,
+    -108.175857,
+    36.748251
+],
+  "geometry": {"coordinates":[-108.17585699999999,36.748251],"type":"Point"}
 }

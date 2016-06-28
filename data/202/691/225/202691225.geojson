@@ -2,13 +2,14 @@
   "id": 202691225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.672511,35.186833,-106.672511,35.186833",
     "geom:latitude":35.186833,
     "geom:longitude":-106.672511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4621 Edwin Mechem Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202691225,
-    "wof:lastmodified":1449060327,
+    "wof:lastmodified":1466699707,
     "wof:name":"Amy Birkhauser Educational Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-106.672511,35.186833,-106.672511,35.186833],
+  "bbox": [
+    -106.672511,
+    35.186833,
+    -106.672511,
+    35.186833
+],
   "geometry": {"coordinates":[-106.672511,35.186833],"type":"Point"}
 }

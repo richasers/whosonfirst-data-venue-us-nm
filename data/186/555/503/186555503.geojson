@@ -2,13 +2,14 @@
   "id": 186555503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.972761,35.65932,-105.972761,35.65932",
     "geom:latitude":35.65932,
     "geom:longitude":-105.972761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Saint Michaels Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186555503,
-    "wof:lastmodified":1449052635,
+    "wof:lastmodified":1466700464,
     "wof:name":"Lowe's Super Save",
     "wof:parent_id":85880809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-105.972761,35.65932,-105.972761,35.65932],
-  "geometry": {"coordinates":[-105.972761,35.65932],"type":"Point"}
+  "bbox": [
+    -105.972761,
+    35.65932,
+    -105.972761,
+    35.65932
+],
+  "geometry": {"coordinates":[-105.97276100000001,35.65932],"type":"Point"}
 }

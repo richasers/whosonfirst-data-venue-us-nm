@@ -2,13 +2,14 @@
   "id": 203041419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960131,32.885334,-105.960131,32.885334",
     "geom:latitude":32.885334,
     "geom:longitude":-105.960131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 S White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203041419,
-    "wof:lastmodified":1449025597,
+    "wof:lastmodified":1466698051,
     "wof:name":"Whtie Sands Community Rv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trailer"
     ]
 },
-  "bbox": [-105.960131,32.885334,-105.960131,32.885334],
+  "bbox": [
+    -105.960131,
+    32.885334,
+    -105.960131,
+    32.885334
+],
   "geometry": {"coordinates":[-105.960131,32.885334],"type":"Point"}
 }

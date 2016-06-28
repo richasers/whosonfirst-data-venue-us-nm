@@ -2,13 +2,14 @@
   "id": 186099279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.239892,34.401926,-103.239892,34.401926",
     "geom:latitude":34.401926,
     "geom:longitude":-103.239892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 Industrial Park Rd",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186099279,
-    "wof:lastmodified":1449052118,
+    "wof:lastmodified":1466698916,
     "wof:name":"Diesel Doctor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-103.239892,34.401926,-103.239892,34.401926],
+  "bbox": [
+    -103.239892,
+    34.401926,
+    -103.239892,
+    34.401926
+],
   "geometry": {"coordinates":[-103.239892,34.401926],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185655957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.186469,36.752193,-108.186469,36.752193",
     "geom:latitude":36.752193,
     "geom:longitude":-108.186469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Cliffside Dr",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185655957,
-    "wof:lastmodified":1449007530,
+    "wof:lastmodified":1466698195,
     "wof:name":"Apple Ridge Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-108.186469,36.752193,-108.186469,36.752193],
+  "bbox": [
+    -108.186469,
+    36.752193,
+    -108.186469,
+    36.752193
+],
   "geometry": {"coordinates":[-108.186469,36.752193],"type":"Point"}
 }

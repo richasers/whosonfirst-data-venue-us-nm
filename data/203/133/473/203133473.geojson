@@ -2,13 +2,14 @@
   "id": 203133473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.514436,33.379741,-104.514436,33.379741",
     "geom:latitude":33.379741,
     "geom:longitude":-104.514436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 E McGaffey St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203133473,
-    "wof:lastmodified":1449026513,
+    "wof:lastmodified":1466699041,
     "wof:name":"Roswell Body Shop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-104.514436,33.379741,-104.514436,33.379741],
+  "bbox": [
+    -104.514436,
+    33.379741,
+    -104.514436,
+    33.379741
+],
   "geometry": {"coordinates":[-104.514436,33.379741],"type":"Point"}
 }

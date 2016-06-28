@@ -2,13 +2,14 @@
   "id": 186267485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.413046,32.875233,-104.413046,32.875233",
     "geom:latitude":32.875233,
     "geom:longitude":-104.413046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Pheasant Rd",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186267485,
-    "wof:lastmodified":1449052782,
+    "wof:lastmodified":1466698881,
     "wof:name":"Ellis Hnulik",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "animal"
     ]
 },
-  "bbox": [-104.413046,32.875233,-104.413046,32.875233],
-  "geometry": {"coordinates":[-104.413046,32.875233],"type":"Point"}
+  "bbox": [
+    -104.413046,
+    32.875233,
+    -104.413046,
+    32.875233
+],
+  "geometry": {"coordinates":[-104.41304599999999,32.875233],"type":"Point"}
 }

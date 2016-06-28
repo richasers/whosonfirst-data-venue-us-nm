@@ -2,13 +2,14 @@
   "id": 203110249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.665016,33.363191,-105.665016,33.363191",
     "geom:latitude":33.363191,
     "geom:longitude":-105.665016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Bonanza Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203110249,
-    "wof:lastmodified":1449025539,
+    "wof:lastmodified":1466698872,
     "wof:name":"Talmar Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-105.665016,33.363191,-105.665016,33.363191],
-  "geometry": {"coordinates":[-105.665016,33.363191],"type":"Point"}
+  "bbox": [
+    -105.665016,
+    33.363191,
+    -105.665016,
+    33.363191
+],
+  "geometry": {"coordinates":[-105.66501599999999,33.363191],"type":"Point"}
 }

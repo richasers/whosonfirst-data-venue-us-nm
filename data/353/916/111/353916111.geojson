@@ -2,13 +2,14 @@
   "id": 353916111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.33569,35.160775,-106.33569,35.160775",
     "geom:latitude":35.160775,
     "geom:longitude":-106.33569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Pine Ridge Road",
     "sg:city":"Sandia Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353916111,
-    "wof:lastmodified":1449019664,
+    "wof:lastmodified":1466697648,
     "wof:name":"Park n Shine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "detailing"
     ]
 },
-  "bbox": [-106.33569,35.160775,-106.33569,35.160775],
+  "bbox": [
+    -106.33569,
+    35.160775,
+    -106.33569,
+    35.160775
+],
   "geometry": {"coordinates":[-106.33569,35.160775],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353966221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.489417,35.188336,-106.489417,35.188336",
     "geom:latitude":35.188336,
     "geom:longitude":-106.489417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Cougar Loop NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353966221,
-    "wof:lastmodified":1449018280,
+    "wof:lastmodified":1466698912,
     "wof:name":"Earle Associates Az",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "device"
     ]
 },
-  "bbox": [-106.489417,35.188336,-106.489417,35.188336],
+  "bbox": [
+    -106.489417,
+    35.188336,
+    -106.489417,
+    35.188336
+],
   "geometry": {"coordinates":[-106.489417,35.188336],"type":"Point"}
 }

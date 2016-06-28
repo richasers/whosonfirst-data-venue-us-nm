@@ -2,13 +2,14 @@
   "id": 353946601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.556257,35.097826,-106.556257,35.097826",
     "geom:latitude":35.097826,
     "geom:longitude":-106.556257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7904 Hannett Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353946601,
-    "wof:lastmodified":1449020497,
+    "wof:lastmodified":1466698468,
     "wof:name":"Helen A. Sayers",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "assistant"
     ]
 },
-  "bbox": [-106.556257,35.097826,-106.556257,35.097826],
+  "bbox": [
+    -106.556257,
+    35.097826,
+    -106.556257,
+    35.097826
+],
   "geometry": {"coordinates":[-106.556257,35.097826],"type":"Point"}
 }

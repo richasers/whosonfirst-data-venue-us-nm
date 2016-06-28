@@ -2,13 +2,14 @@
   "id": 185902691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.640816,35.251981,-106.640816,35.251981",
     "geom:latitude":35.251981,
     "geom:longitude":-106.640816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Las Marias Dr SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185902691,
-    "wof:lastmodified":1449007792,
+    "wof:lastmodified":1466698562,
     "wof:name":"Great American Stock Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photograph"
     ]
 },
-  "bbox": [-106.640816,35.251981,-106.640816,35.251981],
+  "bbox": [
+    -106.640816,
+    35.251981,
+    -106.640816,
+    35.251981
+],
   "geometry": {"coordinates":[-106.640816,35.251981],"type":"Point"}
 }

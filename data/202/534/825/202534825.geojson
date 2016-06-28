@@ -2,13 +2,14 @@
   "id": 202534825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.263309,32.784312,-108.263309,32.784312",
     "geom:latitude":32.784312,
     "geom:longitude":-108.263309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1775 US Hwy 180 E",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202534825,
-    "wof:lastmodified":1449060772,
+    "wof:lastmodified":1466699298,
     "wof:name":"Autoglass MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-108.263309,32.784312,-108.263309,32.784312],
-  "geometry": {"coordinates":[-108.263309,32.784312],"type":"Point"}
+  "bbox": [
+    -108.263309,
+    32.784312,
+    -108.263309,
+    32.784312
+],
+  "geometry": {"coordinates":[-108.26330900000001,32.784312],"type":"Point"}
 }

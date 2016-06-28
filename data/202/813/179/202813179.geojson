@@ -2,13 +2,14 @@
   "id": 202813179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.569082,36.402935,-105.569082,36.402935",
     "geom:latitude":36.402935,
     "geom:longitude":-105.569082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Kit Carson Rd",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202813179,
-    "wof:lastmodified":1449060770,
+    "wof:lastmodified":1466700010,
     "wof:name":"Jerry Mann Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.569082,36.402935,-105.569082,36.402935],
-  "geometry": {"coordinates":[-105.569082,36.402935],"type":"Point"}
+  "bbox": [
+    -105.569082,
+    36.402935,
+    -105.569082,
+    36.402935
+],
+  "geometry": {"coordinates":[-105.56908199999999,36.402935],"type":"Point"}
 }

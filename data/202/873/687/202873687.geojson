@@ -2,13 +2,14 @@
   "id": 202873687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.650323,35.23173,-106.650323,35.23173",
     "geom:latitude":35.23173,
     "geom:longitude":-106.650323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4310 Sara Rd SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202873687,
-    "wof:lastmodified":1449060646,
+    "wof:lastmodified":1466700262,
     "wof:name":"Vista Verde Memorial Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortuary"
     ]
 },
-  "bbox": [-106.650323,35.23173,-106.650323,35.23173],
+  "bbox": [
+    -106.650323,
+    35.23173,
+    -106.650323,
+    35.23173
+],
   "geometry": {"coordinates":[-106.650323,35.23173],"type":"Point"}
 }

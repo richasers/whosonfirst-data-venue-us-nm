@@ -2,13 +2,14 @@
   "id": 185849323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.344874,33.166101,-104.344874,33.166101",
     "geom:latitude":33.166101,
     "geom:longitude":-104.344874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7361 Pima Rd",
     "sg:city":"Dexter",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185849323,
-    "wof:lastmodified":1449006913,
+    "wof:lastmodified":1466698004,
     "wof:name":"Proservice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-104.344874,33.166101,-104.344874,33.166101],
+  "bbox": [
+    -104.344874,
+    33.166101,
+    -104.344874,
+    33.166101
+],
   "geometry": {"coordinates":[-104.344874,33.166101],"type":"Point"}
 }

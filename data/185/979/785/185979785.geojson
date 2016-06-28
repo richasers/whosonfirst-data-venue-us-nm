@@ -2,13 +2,14 @@
   "id": 185979785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.919791,35.528585,-105.919791,35.528585",
     "geom:latitude":35.528585,
     "geom:longitude":-105.919791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Monte Alto Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185979785,
-    "wof:lastmodified":1449007738,
+    "wof:lastmodified":1466699750,
     "wof:name":"Penelope A Tarasuk",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-105.919791,35.528585,-105.919791,35.528585],
+  "bbox": [
+    -105.919791,
+    35.528585,
+    -105.919791,
+    35.528585
+],
   "geometry": {"coordinates":[-105.919791,35.528585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169730143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.853688,32.300355,-106.853688,32.300355",
     "geom:latitude":32.300355,
     "geom:longitude":-106.853688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5214 Quesenberry Ln",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169730143,
-    "wof:lastmodified":1449035430,
+    "wof:lastmodified":1466697888,
     "wof:name":"Action Auto Parts",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-106.853688,32.300355,-106.853688,32.300355],
-  "geometry": {"coordinates":[-106.853688,32.300355],"type":"Point"}
+  "bbox": [
+    -106.853688,
+    32.300355,
+    -106.853688,
+    32.300355
+],
+  "geometry": {"coordinates":[-106.85368800000001,32.300355],"type":"Point"}
 }

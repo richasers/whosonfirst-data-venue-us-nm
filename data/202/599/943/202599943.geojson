@@ -2,13 +2,14 @@
   "id": 202599943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.404732,32.843367,-104.404732,32.843367",
     "geom:latitude":32.843367,
     "geom:longitude":-104.404732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 W Texas Ave",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202599943,
-    "wof:lastmodified":1449061301,
+    "wof:lastmodified":1466698379,
     "wof:name":"Artesia Cablevision",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-104.404732,32.843367,-104.404732,32.843367],
+  "bbox": [
+    -104.404732,
+    32.843367,
+    -104.404732,
+    32.843367
+],
   "geometry": {"coordinates":[-104.404732,32.843367],"type":"Point"}
 }

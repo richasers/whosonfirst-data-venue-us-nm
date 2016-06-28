@@ -2,13 +2,14 @@
   "id": 185820353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.656026,35.131173,-106.656026,35.131173",
     "geom:latitude":35.131173,
     "geom:longitude":-106.656026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1332 Freeman Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185820353,
-    "wof:lastmodified":1449007462,
+    "wof:lastmodified":1466697688,
     "wof:name":"South Plains Biomedical Svc",
     "wof:parent_id":85892593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-106.656026,35.131173,-106.656026,35.131173],
+  "bbox": [
+    -106.656026,
+    35.131173,
+    -106.656026,
+    35.131173
+],
   "geometry": {"coordinates":[-106.656026,35.131173],"type":"Point"}
 }

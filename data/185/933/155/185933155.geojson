@@ -2,13 +2,14 @@
   "id": 185933155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.182029,36.745558,-108.182029,36.745558",
     "geom:latitude":36.745558,
     "geom:longitude":-108.182029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 Schofield Ln",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185933155,
-    "wof:lastmodified":1449006946,
+    "wof:lastmodified":1466698984,
     "wof:name":"Doggie Day Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-108.182029,36.745558,-108.182029,36.745558],
+  "bbox": [
+    -108.182029,
+    36.745558,
+    -108.182029,
+    36.745558
+],
   "geometry": {"coordinates":[-108.182029,36.745558],"type":"Point"}
 }

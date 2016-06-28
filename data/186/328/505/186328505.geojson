@@ -2,13 +2,14 @@
   "id": 186328505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.775115,32.312718,-106.775115,32.312718",
     "geom:latitude":32.312718,
     "geom:longitude":-106.775115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 N Mesquite St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186328505,
-    "wof:lastmodified":1449051948,
+    "wof:lastmodified":1466699587,
     "wof:name":"A-1 Machine Shop Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-106.775115,32.312718,-106.775115,32.312718],
+  "bbox": [
+    -106.775115,
+    32.312718,
+    -106.775115,
+    32.312718
+],
   "geometry": {"coordinates":[-106.775115,32.312718],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186358625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.515385,35.10371,-106.515385,35.10371",
     "geom:latitude":35.10371,
     "geom:longitude":-106.515385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1950 Juan Tabo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186358625,
-    "wof:lastmodified":1449051505,
+    "wof:lastmodified":1466699699,
     "wof:name":"Ferguson Xpress",
     "wof:parent_id":85871891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.515385,35.10371,-106.515385,35.10371],
-  "geometry": {"coordinates":[-106.515385,35.10371],"type":"Point"}
+  "bbox": [
+    -106.515385,
+    35.10371,
+    -106.515385,
+    35.10371
+],
+  "geometry": {"coordinates":[-106.51538499999999,35.10371],"type":"Point"}
 }

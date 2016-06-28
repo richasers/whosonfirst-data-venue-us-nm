@@ -2,13 +2,14 @@
   "id": 185680117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.240823,32.420503,-104.240823,32.420503",
     "geom:latitude":32.420503,
     "geom:longitude":-104.240823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 W Mermod St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185680117,
-    "wof:lastmodified":1449007724,
+    "wof:lastmodified":1466698430,
     "wof:name":"Nutrition Vendor",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-104.240823,32.420503,-104.240823,32.420503],
-  "geometry": {"coordinates":[-104.240823,32.420503],"type":"Point"}
+  "bbox": [
+    -104.240823,
+    32.420503,
+    -104.240823,
+    32.420503
+],
+  "geometry": {"coordinates":[-104.24082300000001,32.420503],"type":"Point"}
 }

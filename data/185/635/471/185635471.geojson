@@ -2,13 +2,14 @@
   "id": 185635471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.735103,32.292196,-106.735103,32.292196",
     "geom:latitude":32.292196,
     "geom:longitude":-106.735103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2437 S Telshor Blvd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185635471,
-    "wof:lastmodified":1449007311,
+    "wof:lastmodified":1466697984,
     "wof:name":"Sleep Lab Of Las Cruces",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-106.735103,32.292196,-106.735103,32.292196],
+  "bbox": [
+    -106.735103,
+    32.292196,
+    -106.735103,
+    32.292196
+],
   "geometry": {"coordinates":[-106.735103,32.292196],"type":"Point"}
 }

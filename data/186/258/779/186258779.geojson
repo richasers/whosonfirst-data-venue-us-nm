@@ -2,13 +2,14 @@
   "id": 186258779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.555379,35.159244,-106.555379,35.159244",
     "geom:latitude":35.159244,
     "geom:longitude":-106.555379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7050 Barstow St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186258779,
-    "wof:lastmodified":1449052455,
+    "wof:lastmodified":1466698773,
     "wof:name":"La Petite Academy Inc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.555379,35.159244,-106.555379,35.159244],
+  "bbox": [
+    -106.555379,
+    35.159244,
+    -106.555379,
+    35.159244
+],
   "geometry": {"coordinates":[-106.555379,35.159244],"type":"Point"}
 }

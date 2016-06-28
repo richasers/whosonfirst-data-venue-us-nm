@@ -2,13 +2,14 @@
   "id": 186173381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.58007,36.406192,-105.58007,36.406192",
     "geom:latitude":36.406192,
     "geom:longitude":-105.58007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 San Antonio St",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186173381,
-    "wof:lastmodified":1449050922,
+    "wof:lastmodified":1466697679,
     "wof:name":"Grassroots Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tape"
     ]
 },
-  "bbox": [-105.58007,36.406192,-105.58007,36.406192],
-  "geometry": {"coordinates":[-105.58007,36.406192],"type":"Point"}
+  "bbox": [
+    -105.58007,
+    36.406192,
+    -105.58007,
+    36.406192
+],
+  "geometry": {"coordinates":[-105.58007000000001,36.406192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202821311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.618968,35.113038,-106.618968,35.113038",
     "geom:latitude":35.113038,
     "geom:longitude":-106.618968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2302 Claremont Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202821311,
-    "wof:lastmodified":1449061492,
+    "wof:lastmodified":1466699959,
     "wof:name":"Aztec Asphalt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "parking"
     ]
 },
-  "bbox": [-106.618968,35.113038,-106.618968,35.113038],
+  "bbox": [
+    -106.618968,
+    35.113038,
+    -106.618968,
+    35.113038
+],
   "geometry": {"coordinates":[-106.618968,35.113038],"type":"Point"}
 }

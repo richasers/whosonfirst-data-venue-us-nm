@@ -2,13 +2,14 @@
   "id": 202559275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.7011,35.148888,-106.7011,35.148888",
     "geom:latitude":35.148888,
     "geom:longitude":-106.7011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5517 Cll Nuestra NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202559275,
-    "wof:lastmodified":1449062102,
+    "wof:lastmodified":1466697781,
     "wof:name":"Christian E Middleton Consltng",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-106.7011,35.148888,-106.7011,35.148888],
+  "bbox": [
+    -106.7011,
+    35.148888,
+    -106.7011,
+    35.148888
+],
   "geometry": {"coordinates":[-106.7011,35.148888],"type":"Point"}
 }

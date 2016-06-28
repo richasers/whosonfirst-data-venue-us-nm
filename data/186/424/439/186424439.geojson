@@ -2,13 +2,14 @@
   "id": 186424439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.330298,35.108203,-103.330298,35.108203",
     "geom:latitude":35.108203,
     "geom:longitude":-103.330298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"469 Oak Ave",
     "sg:city":"San Jon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186424439,
-    "wof:lastmodified":1449052864,
+    "wof:lastmodified":1466699945,
     "wof:name":"Rustler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.330298,35.108203,-103.330298,35.108203],
+  "bbox": [
+    -103.330298,
+    35.108203,
+    -103.330298,
+    35.108203
+],
   "geometry": {"coordinates":[-103.330298,35.108203],"type":"Point"}
 }

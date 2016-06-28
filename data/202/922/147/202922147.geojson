@@ -2,13 +2,14 @@
   "id": 202922147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.738948,35.522974,-108.738948,35.522974",
     "geom:latitude":35.522974,
     "geom:longitude":-108.738948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E Logan Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202922147,
-    "wof:lastmodified":1449060345,
+    "wof:lastmodified":1466700446,
     "wof:name":"Gallup Floral & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.738948,35.522974,-108.738948,35.522974],
-  "geometry": {"coordinates":[-108.738948,35.522974],"type":"Point"}
+  "bbox": [
+    -108.738948,
+    35.522974,
+    -108.738948,
+    35.522974
+],
+  "geometry": {"coordinates":[-108.73894799999999,35.522974],"type":"Point"}
 }

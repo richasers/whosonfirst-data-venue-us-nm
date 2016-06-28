@@ -2,13 +2,14 @@
   "id": 202679629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.712782,35.14174,-106.712782,35.14174",
     "geom:latitude":35.14174,
     "geom:longitude":-106.712782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6412 Ja Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202679629,
-    "wof:lastmodified":1449061726,
+    "wof:lastmodified":1466699521,
     "wof:name":"Red Rock Trading",
     "wof:parent_id":85865321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-106.712782,35.14174,-106.712782,35.14174],
+  "bbox": [
+    -106.712782,
+    35.14174,
+    -106.712782,
+    35.14174
+],
   "geometry": {"coordinates":[-106.712782,35.14174],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186382763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.601153,35.079303,-106.601153,35.079303",
     "geom:latitude":35.079303,
     "geom:longitude":-106.601153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3810 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186382763,
-    "wof:lastmodified":1449051100,
+    "wof:lastmodified":1466699790,
     "wof:name":"Budjet Vhs Dubbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "picture"
     ]
 },
-  "bbox": [-106.601153,35.079303,-106.601153,35.079303],
+  "bbox": [
+    -106.601153,
+    35.079303,
+    -106.601153,
+    35.079303
+],
   "geometry": {"coordinates":[-106.601153,35.079303],"type":"Point"}
 }

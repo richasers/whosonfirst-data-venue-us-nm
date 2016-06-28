@@ -2,13 +2,14 @@
   "id": 186308869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.587158,35.160718,-106.587158,35.160718",
     "geom:latitude":35.160718,
     "geom:longitude":-106.587158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7111 Pan American Fwy",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":186308869,
-    "wof:lastmodified":1449053090,
+    "wof:lastmodified":1466699507,
     "wof:name":"Starline Printing Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-106.587158,35.160718,-106.587158,35.160718],
+  "bbox": [
+    -106.587158,
+    35.160718,
+    -106.587158,
+    35.160718
+],
   "geometry": {"coordinates":[-106.587158,35.160718],"type":"Point"}
 }

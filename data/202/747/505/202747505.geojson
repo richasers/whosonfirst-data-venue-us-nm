@@ -2,13 +2,14 @@
   "id": 202747505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.565366,35.105555,-106.565366,35.105555",
     "geom:latitude":35.105555,
     "geom:longitude":-106.565366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7007 Prospect Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202747505,
-    "wof:lastmodified":1449060569,
+    "wof:lastmodified":1466699660,
     "wof:name":"Van Citters Historic Preservat",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "preservation"
     ]
 },
-  "bbox": [-106.565366,35.105555,-106.565366,35.105555],
+  "bbox": [
+    -106.565366,
+    35.105555,
+    -106.565366,
+    35.105555
+],
   "geometry": {"coordinates":[-106.565366,35.105555],"type":"Point"}
 }

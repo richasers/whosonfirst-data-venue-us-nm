@@ -2,13 +2,14 @@
   "id": 203122767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.523589,35.144939,-106.523589,35.144939",
     "geom:latitude":35.144939,
     "geom:longitude":-106.523589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10309 Manzanillo Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203122767,
-    "wof:lastmodified":1449026027,
+    "wof:lastmodified":1466698954,
     "wof:name":"7 Eight 9",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.523589,35.144939,-106.523589,35.144939],
+  "bbox": [
+    -106.523589,
+    35.144939,
+    -106.523589,
+    35.144939
+],
   "geometry": {"coordinates":[-106.523589,35.144939],"type":"Point"}
 }

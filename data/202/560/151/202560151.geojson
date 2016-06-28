@@ -2,13 +2,14 @@
   "id": 202560151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613767,35.228452,-106.613767,35.228452",
     "geom:latitude":35.228452,
     "geom:longitude":-106.613767,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4685 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202560151,
-    "wof:lastmodified":1449062055,
+    "wof:lastmodified":1466697795,
     "wof:name":"Bodywise Boutique",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boutique"
     ]
 },
-  "bbox": [-106.613767,35.228452,-106.613767,35.228452],
+  "bbox": [
+    -106.613767,
+    35.228452,
+    -106.613767,
+    35.228452
+],
   "geometry": {"coordinates":[-106.613767,35.228452],"type":"Point"}
 }

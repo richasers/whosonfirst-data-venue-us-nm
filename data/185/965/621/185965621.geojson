@@ -2,13 +2,14 @@
   "id": 185965621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.547825,35.128683,-106.547825,35.128683",
     "geom:latitude":35.128683,
     "geom:longitude":-106.547825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3904 Denise Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185965621,
-    "wof:lastmodified":1449007721,
+    "wof:lastmodified":1466699686,
     "wof:name":"Kevin J Reynolds",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-106.547825,35.128683,-106.547825,35.128683],
+  "bbox": [
+    -106.547825,
+    35.128683,
+    -106.547825,
+    35.128683
+],
   "geometry": {"coordinates":[-106.547825,35.128683],"type":"Point"}
 }

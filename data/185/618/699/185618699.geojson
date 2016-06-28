@@ -2,13 +2,14 @@
   "id": 185618699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.141478,32.735192,-103.141478,32.735192",
     "geom:latitude":32.735192,
     "geom:longitude":-103.141478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 W Taos St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185618699,
-    "wof:lastmodified":1449007605,
+    "wof:lastmodified":1466697805,
     "wof:name":"Seibukan Martial Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.141478,32.735192,-103.141478,32.735192],
-  "geometry": {"coordinates":[-103.141478,32.735192],"type":"Point"}
+  "bbox": [
+    -103.141478,
+    32.735192,
+    -103.141478,
+    32.735192
+],
+  "geometry": {"coordinates":[-103.14147800000001,32.735192],"type":"Point"}
 }

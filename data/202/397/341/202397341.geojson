@@ -2,13 +2,14 @@
   "id": 202397341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.526329,35.125792,-106.526329,35.125792",
     "geom:latitude":35.125792,
     "geom:longitude":-106.526329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10328 San Luis Rey Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202397341,
-    "wof:lastmodified":1449061128,
+    "wof:lastmodified":1466697906,
     "wof:name":"David S Barnes & Assoc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "reconstruction"
     ]
 },
-  "bbox": [-106.526329,35.125792,-106.526329,35.125792],
+  "bbox": [
+    -106.526329,
+    35.125792,
+    -106.526329,
+    35.125792
+],
   "geometry": {"coordinates":[-106.526329,35.125792],"type":"Point"}
 }

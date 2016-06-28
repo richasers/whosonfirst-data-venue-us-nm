@@ -2,13 +2,14 @@
   "id": 186030953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.228541,32.409219,-104.228541,32.409219",
     "geom:latitude":32.409219,
     "geom:longitude":-104.228541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1127 S Canal St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186030953,
-    "wof:lastmodified":1449051368,
+    "wof:lastmodified":1466698029,
     "wof:name":"Area IV Vocational Rehab Ctr",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vocational"
     ]
 },
-  "bbox": [-104.228541,32.409219,-104.228541,32.409219],
-  "geometry": {"coordinates":[-104.228541,32.409219],"type":"Point"}
+  "bbox": [
+    -104.228541,
+    32.409219,
+    -104.228541,
+    32.409219
+],
+  "geometry": {"coordinates":[-104.22854100000001,32.409219],"type":"Point"}
 }

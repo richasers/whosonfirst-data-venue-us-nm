@@ -2,13 +2,14 @@
   "id": 186208985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.082128,36.823801,-108.082128,36.823801",
     "geom:latitude":36.823801,
     "geom:longitude":-108.082128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rd 3563",
     "sg:city":"Flora Vista",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186208985,
-    "wof:lastmodified":1449050565,
+    "wof:lastmodified":1466698136,
     "wof:name":"F P LA Motte Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.082128,36.823801,-108.082128,36.823801],
+  "bbox": [
+    -108.082128,
+    36.823801,
+    -108.082128,
+    36.823801
+],
   "geometry": {"coordinates":[-108.082128,36.823801],"type":"Point"}
 }

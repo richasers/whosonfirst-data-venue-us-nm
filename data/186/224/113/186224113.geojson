@@ -2,13 +2,14 @@
   "id": 186224113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781093,32.312736,-106.781093,32.312736",
     "geom:latitude":32.312736,
     "geom:longitude":-106.781093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 W Hadley Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186224113,
-    "wof:lastmodified":1449052322,
+    "wof:lastmodified":1466698321,
     "wof:name":"Katherine Blackett",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.781093,32.312736,-106.781093,32.312736],
+  "bbox": [
+    -106.781093,
+    32.312736,
+    -106.781093,
+    32.312736
+],
   "geometry": {"coordinates":[-106.781093,32.312736],"type":"Point"}
 }

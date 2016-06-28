@@ -2,13 +2,14 @@
   "id": 202611167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.317705,34.233866,-103.317705,34.233866",
     "geom:latitude":34.233866,
     "geom:longitude":-103.317705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 New Mexico 467",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202611167,
-    "wof:lastmodified":1449062121,
+    "wof:lastmodified":1466698532,
     "wof:name":"Main Office For Dairy 2 & 3",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.317705,34.233866,-103.317705,34.233866],
+  "bbox": [
+    -103.317705,
+    34.233866,
+    -103.317705,
+    34.233866
+],
   "geometry": {"coordinates":[-103.317705,34.233866],"type":"Point"}
 }

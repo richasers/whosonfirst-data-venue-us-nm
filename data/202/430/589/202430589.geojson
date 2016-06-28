@@ -2,13 +2,14 @@
   "id": 202430589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.7513,32.233332,-107.7513,32.233332",
     "geom:latitude":32.233332,
     "geom:longitude":-107.7513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3387 Columbus Rd",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202430589,
-    "wof:lastmodified":1449061701,
+    "wof:lastmodified":1466698315,
     "wof:name":"Superior Welding & Fabrication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-107.7513,32.233332,-107.7513,32.233332],
+  "bbox": [
+    -107.7513,
+    32.233332,
+    -107.7513,
+    32.233332
+],
   "geometry": {"coordinates":[-107.7513,32.233332],"type":"Point"}
 }

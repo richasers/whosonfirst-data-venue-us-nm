@@ -2,13 +2,14 @@
   "id": 186424691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.532536,35.090545,-106.532536,35.090545",
     "geom:latitude":35.090545,
     "geom:longitude":-106.532536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186424691,
-    "wof:lastmodified":1449052863,
+    "wof:lastmodified":1466699946,
     "wof:name":"Frist Command Financial Plg",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.532536,35.090545,-106.532536,35.090545],
-  "geometry": {"coordinates":[-106.532536,35.090545],"type":"Point"}
+  "bbox": [
+    -106.532536,
+    35.090545,
+    -106.532536,
+    35.090545
+],
+  "geometry": {"coordinates":[-106.53253599999999,35.090545],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186379109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.950851,35.648597,-105.950851,35.648597",
     "geom:latitude":35.648597,
     "geom:longitude":-105.950851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2324 Brother Abedon Way",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186379109,
-    "wof:lastmodified":1449051933,
+    "wof:lastmodified":1466699772,
     "wof:name":"Stratagem LLC",
     "wof:parent_id":85880859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-105.950851,35.648597,-105.950851,35.648597],
+  "bbox": [
+    -105.950851,
+    35.648597,
+    -105.950851,
+    35.648597
+],
   "geometry": {"coordinates":[-105.950851,35.648597],"type":"Point"}
 }

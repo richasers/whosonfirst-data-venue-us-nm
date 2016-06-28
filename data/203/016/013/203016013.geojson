@@ -2,13 +2,14 @@
   "id": 203016013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.560175,35.149726,-106.560175,35.149726",
     "geom:latitude":35.149726,
     "geom:longitude":-106.560175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6113 Rio Hondo Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203016013,
-    "wof:lastmodified":1449025275,
+    "wof:lastmodified":1466699393,
     "wof:name":"Judy's Not Forgotten Antiques",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-106.560175,35.149726,-106.560175,35.149726],
+  "bbox": [
+    -106.560175,
+    35.149726,
+    -106.560175,
+    35.149726
+],
   "geometry": {"coordinates":[-106.560175,35.149726],"type":"Point"}
 }

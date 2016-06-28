@@ -2,13 +2,14 @@
   "id": 186301315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.574312,35.110349,-106.574312,35.110349",
     "geom:latitude":35.110349,
     "geom:longitude":-106.574312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2633 Dakota St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186301315,
-    "wof:lastmodified":1449051084,
+    "wof:lastmodified":1466699354,
     "wof:name":"Bleus & Assoc LLC",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.574312,35.110349,-106.574312,35.110349],
-  "geometry": {"coordinates":[-106.574312,35.110349],"type":"Point"}
+  "bbox": [
+    -106.574312,
+    35.110349,
+    -106.574312,
+    35.110349
+],
+  "geometry": {"coordinates":[-106.57431200000001,35.110349],"type":"Point"}
 }

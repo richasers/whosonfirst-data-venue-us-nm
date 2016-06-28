@@ -2,13 +2,14 @@
   "id": 202761797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.763749,32.294855,-106.763749,32.294855",
     "geom:latitude":32.294855,
     "geom:longitude":-106.763749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"955 E Boutz Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202761797,
-    "wof:lastmodified":1449062054,
+    "wof:lastmodified":1466699839,
     "wof:name":"Randy Travis CPA",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.763749,32.294855,-106.763749,32.294855],
+  "bbox": [
+    -106.763749,
+    32.294855,
+    -106.763749,
+    32.294855
+],
   "geometry": {"coordinates":[-106.763749,32.294855],"type":"Point"}
 }

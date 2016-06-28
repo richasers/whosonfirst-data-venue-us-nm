@@ -2,13 +2,14 @@
   "id": 185871993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.043988,33.130812,-106.043988,33.130812",
     "geom:latitude":33.130812,
     "geom:longitude":-106.043988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8365 US Hwy 54",
     "sg:city":"Tularosa",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185871993,
-    "wof:lastmodified":1449007118,
+    "wof:lastmodified":1466698231,
     "wof:name":"Sierra Blanca Pecan Ranch LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-106.043988,33.130812,-106.043988,33.130812],
+  "bbox": [
+    -106.043988,
+    33.130812,
+    -106.043988,
+    33.130812
+],
   "geometry": {"coordinates":[-106.043988,33.130812],"type":"Point"}
 }

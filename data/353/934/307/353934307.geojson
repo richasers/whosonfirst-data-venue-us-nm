@@ -2,13 +2,14 @@
   "id": 353934307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.628885,35.166954,-106.628885,35.166954",
     "geom:latitude":35.166954,
     "geom:longitude":-106.628885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7625 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353934307,
-    "wof:lastmodified":1449018372,
+    "wof:lastmodified":1466698122,
     "wof:name":"Durham School Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "line"
     ]
 },
-  "bbox": [-106.628885,35.166954,-106.628885,35.166954],
+  "bbox": [
+    -106.628885,
+    35.166954,
+    -106.628885,
+    35.166954
+],
   "geometry": {"coordinates":[-106.628885,35.166954],"type":"Point"}
 }

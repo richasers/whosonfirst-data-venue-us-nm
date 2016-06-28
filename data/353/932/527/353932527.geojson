@@ -2,13 +2,14 @@
   "id": 353932527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.639314,35.119737,-106.639314,35.119737",
     "geom:latitude":35.119737,
     "geom:longitude":-106.639314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Veranda Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353932527,
-    "wof:lastmodified":1449019206,
+    "wof:lastmodified":1466698076,
     "wof:name":"Signart Of New Mexico",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "signs-maintenance"
     ]
 },
-  "bbox": [-106.639314,35.119737,-106.639314,35.119737],
+  "bbox": [
+    -106.639314,
+    35.119737,
+    -106.639314,
+    35.119737
+],
   "geometry": {"coordinates":[-106.639314,35.119737],"type":"Point"}
 }

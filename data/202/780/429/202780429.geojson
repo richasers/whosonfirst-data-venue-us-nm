@@ -2,13 +2,14 @@
   "id": 202780429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.95428,36.718405,-107.95428,36.718405",
     "geom:latitude":36.718405,
     "geom:longitude":-107.95428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 E Blanco Blvd",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202780429,
-    "wof:lastmodified":1449062007,
+    "wof:lastmodified":1466699772,
     "wof:name":"John Trimble Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "operative"
     ]
 },
-  "bbox": [-107.95428,36.718405,-107.95428,36.718405],
+  "bbox": [
+    -107.95428,
+    36.718405,
+    -107.95428,
+    36.718405
+],
   "geometry": {"coordinates":[-107.95428,36.718405],"type":"Point"}
 }

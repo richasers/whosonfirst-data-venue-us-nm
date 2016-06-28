@@ -2,13 +2,14 @@
   "id": 203088643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.983552,36.71142,-107.983552,36.71142",
     "geom:latitude":36.71142,
     "geom:longitude":-107.983552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 W Broadway Ave",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203088643,
-    "wof:lastmodified":1449026413,
+    "wof:lastmodified":1466698557,
     "wof:name":"Mesa Well Svc LP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-107.983552,36.71142,-107.983552,36.71142],
+  "bbox": [
+    -107.983552,
+    36.71142,
+    -107.983552,
+    36.71142
+],
   "geometry": {"coordinates":[-107.983552,36.71142],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203146825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.610666,36.693599,-105.610666,36.693599",
     "geom:latitude":36.693599,
     "geom:longitude":-105.610666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2353 Hwy 522",
     "sg:city":"Questa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203146825,
-    "wof:lastmodified":1449025709,
+    "wof:lastmodified":1466699126,
     "wof:name":"Graystone Farm Woodworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.610666,36.693599,-105.610666,36.693599],
-  "geometry": {"coordinates":[-105.610666,36.693599],"type":"Point"}
+  "bbox": [
+    -105.610666,
+    36.693599,
+    -105.610666,
+    36.693599
+],
+  "geometry": {"coordinates":[-105.61066599999999,36.693599],"type":"Point"}
 }

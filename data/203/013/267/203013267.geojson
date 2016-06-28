@@ -2,13 +2,14 @@
   "id": 203013267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.583559,36.407472,-105.583559,36.407472",
     "geom:latitude":36.407472,
     "geom:longitude":-105.583559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Dimas Ln",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203013267,
-    "wof:lastmodified":1449026262,
+    "wof:lastmodified":1466697741,
     "wof:name":"LA Lomita Mobile Home Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "community"
     ]
 },
-  "bbox": [-105.583559,36.407472,-105.583559,36.407472],
-  "geometry": {"coordinates":[-105.583559,36.407472],"type":"Point"}
+  "bbox": [
+    -105.583559,
+    36.407472,
+    -105.583559,
+    36.407472
+],
+  "geometry": {"coordinates":[-105.58355899999999,36.407472],"type":"Point"}
 }

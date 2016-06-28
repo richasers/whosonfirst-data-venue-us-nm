@@ -2,13 +2,14 @@
   "id": 169753037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.685121,33.331103,-105.685121,33.331103",
     "geom:latitude":33.331103,
     "geom:longitude":-105.685121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 4th St",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169753037,
-    "wof:lastmodified":1449033073,
+    "wof:lastmodified":1466698094,
     "wof:name":"Bill Kelly Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.685121,33.331103,-105.685121,33.331103],
+  "bbox": [
+    -105.685121,
+    33.331103,
+    -105.685121,
+    33.331103
+],
   "geometry": {"coordinates":[-105.685121,33.331103],"type":"Point"}
 }

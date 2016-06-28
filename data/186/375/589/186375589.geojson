@@ -2,13 +2,14 @@
   "id": 186375589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.7674,32.309241,-106.7674,32.309241",
     "geom:latitude":32.309241,
     "geom:longitude":-106.7674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1128 E Amador Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186375589,
-    "wof:lastmodified":1449050364,
+    "wof:lastmodified":1466699748,
     "wof:name":"Wrightway Ltd Liability Co",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.7674,32.309241,-106.7674,32.309241],
-  "geometry": {"coordinates":[-106.7674,32.309241],"type":"Point"}
+  "bbox": [
+    -106.7674,
+    32.309241,
+    -106.7674,
+    32.309241
+],
+  "geometry": {"coordinates":[-106.76739999999999,32.309241],"type":"Point"}
 }

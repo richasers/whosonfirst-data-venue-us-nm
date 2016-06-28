@@ -2,13 +2,14 @@
   "id": 202544211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604392,35.135871,-106.604392,35.135871",
     "geom:latitude":35.135871,
     "geom:longitude":-106.604392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4850 Pan American Fwy",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202544211,
-    "wof:lastmodified":1449062644,
+    "wof:lastmodified":1466699326,
     "wof:name":"Desert Greens Equipment Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-106.604392,35.135871,-106.604392,35.135871],
+  "bbox": [
+    -106.604392,
+    35.135871,
+    -106.604392,
+    35.135871
+],
   "geometry": {"coordinates":[-106.604392,35.135871],"type":"Point"}
 }

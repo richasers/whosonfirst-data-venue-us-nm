@@ -2,13 +2,14 @@
   "id": 202761419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.84674,35.56234,-105.84674,35.56234",
     "geom:latitude":35.56234,
     "geom:longitude":-105.84674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Apache Ridge Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202761419,
-    "wof:lastmodified":1449062056,
+    "wof:lastmodified":1466699835,
     "wof:name":"Jameson Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.84674,35.56234,-105.84674,35.56234],
+  "bbox": [
+    -105.84674,
+    35.56234,
+    -105.84674,
+    35.56234
+],
   "geometry": {"coordinates":[-105.84674,35.56234],"type":"Point"}
 }

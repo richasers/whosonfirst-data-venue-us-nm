@@ -2,13 +2,14 @@
   "id": 169805245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.559322,35.076419,-106.559322,35.076419",
     "geom:latitude":35.076419,
     "geom:longitude":-106.559322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Pennsylvania St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169805245,
-    "wof:lastmodified":1449033789,
+    "wof:lastmodified":1466698657,
     "wof:name":"Golden Wang",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-106.559322,35.076419,-106.559322,35.076419],
-  "geometry": {"coordinates":[-106.559322,35.076419],"type":"Point"}
+  "bbox": [
+    -106.559322,
+    35.076419,
+    -106.559322,
+    35.076419
+],
+  "geometry": {"coordinates":[-106.55932199999999,35.076419],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202631433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.743515,35.197947,-106.743515,35.197947",
     "geom:latitude":35.197947,
     "geom:longitude":-106.743515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7504 Prairie Falcon Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202631433,
-    "wof:lastmodified":1449060897,
+    "wof:lastmodified":1466698856,
     "wof:name":"Our House Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.743515,35.197947,-106.743515,35.197947],
+  "bbox": [
+    -106.743515,
+    35.197947,
+    -106.743515,
+    35.197947
+],
   "geometry": {"coordinates":[-106.743515,35.197947],"type":"Point"}
 }

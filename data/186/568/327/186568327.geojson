@@ -2,13 +2,14 @@
   "id": 186568327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.288001,32.794359,-108.288001,32.794359",
     "geom:latitude":32.794359,
     "geom:longitude":-108.288001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Manganese Dr",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186568327,
-    "wof:lastmodified":1449050175,
+    "wof:lastmodified":1466700535,
     "wof:name":"K F R Cnstr - Kerry Ryan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "operative"
     ]
 },
-  "bbox": [-108.288001,32.794359,-108.288001,32.794359],
-  "geometry": {"coordinates":[-108.288001,32.794359],"type":"Point"}
+  "bbox": [
+    -108.288001,
+    32.794359,
+    -108.288001,
+    32.794359
+],
+  "geometry": {"coordinates":[-108.28800099999999,32.794359],"type":"Point"}
 }

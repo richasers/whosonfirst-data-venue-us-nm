@@ -2,13 +2,14 @@
   "id": 185986373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.356277,35.156645,-106.356277,35.156645",
     "geom:latitude":35.156645,
     "geom:longitude":-106.356277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Pinon Ave",
     "sg:city":"Cedar Crest",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185986373,
-    "wof:lastmodified":1449007911,
+    "wof:lastmodified":1466699690,
     "wof:name":"Acqiris Southwest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "electronic"
     ]
 },
-  "bbox": [-106.356277,35.156645,-106.356277,35.156645],
-  "geometry": {"coordinates":[-106.356277,35.156645],"type":"Point"}
+  "bbox": [
+    -106.356277,
+    35.156645,
+    -106.356277,
+    35.156645
+],
+  "geometry": {"coordinates":[-106.35627700000001,35.156645],"type":"Point"}
 }

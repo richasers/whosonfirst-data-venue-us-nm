@@ -2,13 +2,14 @@
   "id": 185669297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.500211,35.059261,-106.500211,35.059261",
     "geom:latitude":35.059261,
     "geom:longitude":-106.500211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 Meadow Green Ct SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185669297,
-    "wof:lastmodified":1449006789,
+    "wof:lastmodified":1466698336,
     "wof:name":"Patrick Halter Assoc",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.500211,35.059261,-106.500211,35.059261],
-  "geometry": {"coordinates":[-106.500211,35.059261],"type":"Point"}
+  "bbox": [
+    -106.500211,
+    35.059261,
+    -106.500211,
+    35.059261
+],
+  "geometry": {"coordinates":[-106.50021099999999,35.059261],"type":"Point"}
 }

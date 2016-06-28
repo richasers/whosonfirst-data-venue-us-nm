@@ -2,13 +2,14 @@
   "id": 202511561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.687095,34.941879,-104.687095,34.941879",
     "geom:latitude":34.941879,
     "geom:longitude":-104.687095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"486 Parker Ave",
     "sg:city":"Santa Rosa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202511561,
-    "wof:lastmodified":1449061293,
+    "wof:lastmodified":1466699201,
     "wof:name":"Santa Rosa Chamber of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-104.687095,34.941879,-104.687095,34.941879],
+  "bbox": [
+    -104.687095,
+    34.941879,
+    -104.687095,
+    34.941879
+],
   "geometry": {"coordinates":[-104.687095,34.941879],"type":"Point"}
 }

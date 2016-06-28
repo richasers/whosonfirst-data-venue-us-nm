@@ -2,13 +2,14 @@
   "id": 169762013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.888795,34.045861,-106.888795,34.045861",
     "geom:latitude":34.045861,
     "geom:longitude":-106.888795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 Vermont Ave",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169762013,
-    "wof:lastmodified":1449035007,
+    "wof:lastmodified":1466699412,
     "wof:name":"Isabel Peralta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.888795,34.045861,-106.888795,34.045861],
+  "bbox": [
+    -106.888795,
+    34.045861,
+    -106.888795,
+    34.045861
+],
   "geometry": {"coordinates":[-106.888795,34.045861],"type":"Point"}
 }

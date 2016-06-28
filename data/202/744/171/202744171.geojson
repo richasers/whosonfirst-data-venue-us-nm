@@ -2,13 +2,14 @@
   "id": 202744171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.609828,35.19545,-106.609828,35.19545",
     "geom:latitude":35.19545,
     "geom:longitude":-106.609828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Mountain Park Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202744171,
-    "wof:lastmodified":1449061027,
+    "wof:lastmodified":1466699757,
     "wof:name":"J R C Telecommunications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-106.609828,35.19545,-106.609828,35.19545],
-  "geometry": {"coordinates":[-106.609828,35.19545],"type":"Point"}
+  "bbox": [
+    -106.609828,
+    35.19545,
+    -106.609828,
+    35.19545
+],
+  "geometry": {"coordinates":[-106.60982799999999,35.19545],"type":"Point"}
 }

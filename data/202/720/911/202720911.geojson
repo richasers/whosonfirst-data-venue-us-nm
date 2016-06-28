@@ -2,13 +2,14 @@
   "id": 202720911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.289734,35.885809,-106.289734,35.885809",
     "geom:latitude":35.885809,
     "geom:longitude":-106.289734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Rim Rd",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202720911,
-    "wof:lastmodified":1449060716,
+    "wof:lastmodified":1466699694,
     "wof:name":"Alpine Laser Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-106.289734,35.885809,-106.289734,35.885809],
+  "bbox": [
+    -106.289734,
+    35.885809,
+    -106.289734,
+    35.885809
+],
   "geometry": {"coordinates":[-106.289734,35.885809],"type":"Point"}
 }

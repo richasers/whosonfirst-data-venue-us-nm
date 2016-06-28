@@ -2,13 +2,14 @@
   "id": 186457343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.312043,34.405379,-103.312043,34.405379",
     "geom:latitude":34.405379,
     "geom:longitude":-103.312043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1654 US Hwy 84",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186457343,
-    "wof:lastmodified":1449052172,
+    "wof:lastmodified":1466699971,
     "wof:name":"Cannon Federal Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.312043,34.405379,-103.312043,34.405379],
+  "bbox": [
+    -103.312043,
+    34.405379,
+    -103.312043,
+    34.405379
+],
   "geometry": {"coordinates":[-103.312043,34.405379],"type":"Point"}
 }

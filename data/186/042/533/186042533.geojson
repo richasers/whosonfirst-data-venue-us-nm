@@ -2,13 +2,14 @@
   "id": 186042533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.015233,35.658317,-106.015233,35.658317",
     "geom:latitude":35.658317,
     "geom:longitude":-106.015233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3787 Agua Fria St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186042533,
-    "wof:lastmodified":1449052360,
+    "wof:lastmodified":1466698165,
     "wof:name":"Gonzales & Kingsbury",
     "wof:parent_id":85880815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-106.015233,35.658317,-106.015233,35.658317],
-  "geometry": {"coordinates":[-106.015233,35.658317],"type":"Point"}
+  "bbox": [
+    -106.015233,
+    35.658317,
+    -106.015233,
+    35.658317
+],
+  "geometry": {"coordinates":[-106.01523299999999,35.658317],"type":"Point"}
 }

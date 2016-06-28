@@ -2,13 +2,14 @@
   "id": 203105669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.890466,35.552172,-105.890466,35.552172",
     "geom:latitude":35.552172,
     "geom:longitude":-105.890466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Alteza",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203105669,
-    "wof:lastmodified":1449025639,
+    "wof:lastmodified":1466698797,
     "wof:name":"Rich Wiseman LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.890466,35.552172,-105.890466,35.552172],
+  "bbox": [
+    -105.890466,
+    35.552172,
+    -105.890466,
+    35.552172
+],
   "geometry": {"coordinates":[-105.890466,35.552172],"type":"Point"}
 }

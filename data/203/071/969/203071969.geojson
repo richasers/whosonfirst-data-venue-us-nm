@@ -2,13 +2,14 @@
   "id": 203071969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.263421,32.421709,-104.263421,32.421709",
     "geom:latitude":32.421709,
     "geom:longitude":-104.263421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N 12th St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":203071969,
-    "wof:lastmodified":1449026154,
+    "wof:lastmodified":1466698373,
     "wof:name":"Carlsbad Family Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-104.263421,32.421709,-104.263421,32.421709],
-  "geometry": {"coordinates":[-104.263421,32.421709],"type":"Point"}
+  "bbox": [
+    -104.263421,
+    32.421709,
+    -104.263421,
+    32.421709
+],
+  "geometry": {"coordinates":[-104.26342099999999,32.421709],"type":"Point"}
 }

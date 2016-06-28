@@ -2,13 +2,14 @@
   "id": 186442135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.630323,35.159644,-106.630323,35.159644",
     "geom:latitude":35.159644,
     "geom:longitude":-106.630323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7110 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186442135,
-    "wof:lastmodified":1449051549,
+    "wof:lastmodified":1466700003,
     "wof:name":"Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-106.630323,35.159644,-106.630323,35.159644],
+  "bbox": [
+    -106.630323,
+    35.159644,
+    -106.630323,
+    35.159644
+],
   "geometry": {"coordinates":[-106.630323,35.159644],"type":"Point"}
 }

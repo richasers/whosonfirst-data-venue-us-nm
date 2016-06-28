@@ -2,13 +2,14 @@
   "id": 203084401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.64257,35.112284,-106.64257,35.112284",
     "geom:latitude":35.112284,
     "geom:longitude":-106.64257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2702 1st St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203084401,
-    "wof:lastmodified":1449025149,
+    "wof:lastmodified":1466698490,
     "wof:name":"A Fel Construction",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "field"
     ]
 },
-  "bbox": [-106.64257,35.112284,-106.64257,35.112284],
-  "geometry": {"coordinates":[-106.64257,35.112284],"type":"Point"}
+  "bbox": [
+    -106.64257,
+    35.112284,
+    -106.64257,
+    35.112284
+],
+  "geometry": {"coordinates":[-106.64257000000001,35.112284],"type":"Point"}
 }

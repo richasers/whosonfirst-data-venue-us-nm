@@ -2,13 +2,14 @@
   "id": 186464213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.83922,35.507965,-108.83922,35.507965",
     "geom:latitude":35.507965,
     "geom:longitude":-108.83922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3534 Sanostee Dr",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186464213,
-    "wof:lastmodified":1449051103,
+    "wof:lastmodified":1466700091,
     "wof:name":"Premier Distributing Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ale"
     ]
 },
-  "bbox": [-108.83922,35.507965,-108.83922,35.507965],
+  "bbox": [
+    -108.83922,
+    35.507965,
+    -108.83922,
+    35.507965
+],
   "geometry": {"coordinates":[-108.83922,35.507965],"type":"Point"}
 }

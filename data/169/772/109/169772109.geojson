@@ -2,13 +2,14 @@
   "id": 169772109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.956227,32.876103,-105.956227,32.876103",
     "geom:latitude":32.876103,
     "geom:longitude":-105.956227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Panorama Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169772109,
-    "wof:lastmodified":1449034152,
+    "wof:lastmodified":1466698279,
     "wof:name":"Hunters Ridge Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-105.956227,32.876103,-105.956227,32.876103],
+  "bbox": [
+    -105.956227,
+    32.876103,
+    -105.956227,
+    32.876103
+],
   "geometry": {"coordinates":[-105.956227,32.876103],"type":"Point"}
 }

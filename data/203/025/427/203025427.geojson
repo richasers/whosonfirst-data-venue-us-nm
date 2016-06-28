@@ -2,13 +2,14 @@
   "id": 203025427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.694722,35.125723,-106.694722,35.125723",
     "geom:latitude":35.125723,
     "geom:longitude":-106.694722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3835 Oxbow Village Ln NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203025427,
-    "wof:lastmodified":1449026540,
+    "wof:lastmodified":1466697876,
     "wof:name":"Richard S Shine Atty At Law",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.694722,35.125723,-106.694722,35.125723],
+  "bbox": [
+    -106.694722,
+    35.125723,
+    -106.694722,
+    35.125723
+],
   "geometry": {"coordinates":[-106.694722,35.125723],"type":"Point"}
 }

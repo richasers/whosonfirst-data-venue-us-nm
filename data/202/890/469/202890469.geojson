@@ -2,13 +2,14 @@
   "id": 202890469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.603993,35.130863,-106.603993,35.130863",
     "geom:latitude":35.130863,
     "geom:longitude":-106.603993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4316 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202890469,
-    "wof:lastmodified":1449060684,
+    "wof:lastmodified":1466700216,
     "wof:name":"Rese Gateley CPA PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-106.603993,35.130863,-106.603993,35.130863],
+  "bbox": [
+    -106.603993,
+    35.130863,
+    -106.603993,
+    35.130863
+],
   "geometry": {"coordinates":[-106.603993,35.130863],"type":"Point"}
 }

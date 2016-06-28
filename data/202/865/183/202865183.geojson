@@ -2,13 +2,14 @@
   "id": 202865183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.732828,34.807421,-106.732828,34.807421",
     "geom:latitude":34.807421,
     "geom:longitude":-106.732828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 Luna Ave NE",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202865183,
-    "wof:lastmodified":1449062031,
+    "wof:lastmodified":1466700242,
     "wof:name":"St Clement Church Of Los Lunas",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.732828,34.807421,-106.732828,34.807421],
+  "bbox": [
+    -106.732828,
+    34.807421,
+    -106.732828,
+    34.807421
+],
   "geometry": {"coordinates":[-106.732828,34.807421],"type":"Point"}
 }

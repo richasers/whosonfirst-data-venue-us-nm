@@ -2,13 +2,14 @@
   "id": 185753891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.287657,35.882975,-106.287657,35.882975",
     "geom:latitude":35.882975,
     "geom:longitude":-106.287657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Sombrillo Ct",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185753891,
-    "wof:lastmodified":1449006792,
+    "wof:lastmodified":1466699164,
     "wof:name":"Aspen Ridge Lodge Retirement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-106.287657,35.882975,-106.287657,35.882975],
+  "bbox": [
+    -106.287657,
+    35.882975,
+    -106.287657,
+    35.882975
+],
   "geometry": {"coordinates":[-106.287657,35.882975],"type":"Point"}
 }

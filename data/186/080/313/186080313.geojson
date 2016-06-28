@@ -2,13 +2,14 @@
   "id": 186080313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.224807,32.432108,-104.224807,32.432108",
     "geom:latitude":32.432108,
     "geom:longitude":-104.224807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Blodgett St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186080313,
-    "wof:lastmodified":1449052962,
+    "wof:lastmodified":1466698633,
     "wof:name":"Browning Garage Doors",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "door"
     ]
 },
-  "bbox": [-104.224807,32.432108,-104.224807,32.432108],
+  "bbox": [
+    -104.224807,
+    32.432108,
+    -104.224807,
+    32.432108
+],
   "geometry": {"coordinates":[-104.224807,32.432108],"type":"Point"}
 }

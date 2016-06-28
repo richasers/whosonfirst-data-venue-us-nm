@@ -2,13 +2,14 @@
   "id": 203040247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.153075,32.738405,-103.153075,32.738405",
     "geom:latitude":32.738405,
     "geom:longitude":-103.153075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 Cam Real",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203040247,
-    "wof:lastmodified":1449026827,
+    "wof:lastmodified":1466698034,
     "wof:name":"McKelvey Oil Reports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "field"
     ]
 },
-  "bbox": [-103.153075,32.738405,-103.153075,32.738405],
+  "bbox": [
+    -103.153075,
+    32.738405,
+    -103.153075,
+    32.738405
+],
   "geometry": {"coordinates":[-103.153075,32.738405],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202808631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.959298,32.898702,-105.959298,32.898702",
     "geom:latitude":32.898702,
     "geom:longitude":-105.959298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 New York Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202808631,
-    "wof:lastmodified":1449060222,
+    "wof:lastmodified":1466700004,
     "wof:name":"Alpha Office Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "copying"
     ]
 },
-  "bbox": [-105.959298,32.898702,-105.959298,32.898702],
+  "bbox": [
+    -105.959298,
+    32.898702,
+    -105.959298,
+    32.898702
+],
   "geometry": {"coordinates":[-105.959298,32.898702],"type":"Point"}
 }

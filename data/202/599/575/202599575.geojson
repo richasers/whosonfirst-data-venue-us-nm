@@ -2,13 +2,14 @@
   "id": 202599575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.257656,32.440843,-104.257656,32.440843",
     "geom:latitude":32.440843,
     "geom:longitude":-104.257656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2405 W Pierce St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":202599575,
-    "wof:lastmodified":1449061301,
+    "wof:lastmodified":1466698373,
     "wof:name":"Chaparrall Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "general"
     ]
 },
-  "bbox": [-104.257656,32.440843,-104.257656,32.440843],
+  "bbox": [
+    -104.257656,
+    32.440843,
+    -104.257656,
+    32.440843
+],
   "geometry": {"coordinates":[-104.257656,32.440843],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202905417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.686437,35.047539,-106.686437,35.047539",
     "geom:latitude":35.047539,
     "geom:longitude":-106.686437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1921 Byron Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202905417,
-    "wof:lastmodified":1449061113,
+    "wof:lastmodified":1466700378,
     "wof:name":"Kit Carson Early Childhood",
     "wof:parent_id":85892585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-106.686437,35.047539,-106.686437,35.047539],
+  "bbox": [
+    -106.686437,
+    35.047539,
+    -106.686437,
+    35.047539
+],
   "geometry": {"coordinates":[-106.686437,35.047539],"type":"Point"}
 }

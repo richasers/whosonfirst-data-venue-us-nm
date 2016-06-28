@@ -2,13 +2,14 @@
   "id": 202915923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.740907,35.526788,-108.740907,35.526788",
     "geom:latitude":35.526788,
     "geom:longitude":-108.740907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Aztec Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202915923,
-    "wof:lastmodified":1449062612,
+    "wof:lastmodified":1466700420,
     "wof:name":"Gallup City Economic Dev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "adm"
     ]
 },
-  "bbox": [-108.740907,35.526788,-108.740907,35.526788],
-  "geometry": {"coordinates":[-108.740907,35.526788],"type":"Point"}
+  "bbox": [
+    -108.740907,
+    35.526788,
+    -108.740907,
+    35.526788
+],
+  "geometry": {"coordinates":[-108.74090700000001,35.526788],"type":"Point"}
 }

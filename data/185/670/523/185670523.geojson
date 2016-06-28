@@ -2,13 +2,14 @@
   "id": 185670523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.24847,35.875804,-106.24847,35.875804",
     "geom:latitude":35.875804,
     "geom:longitude":-106.24847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 Eastgate Dr",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185670523,
-    "wof:lastmodified":1449006850,
+    "wof:lastmodified":1466698358,
     "wof:name":"Pulse Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laser"
     ]
 },
-  "bbox": [-106.24847,35.875804,-106.24847,35.875804],
+  "bbox": [
+    -106.24847,
+    35.875804,
+    -106.24847,
+    35.875804
+],
   "geometry": {"coordinates":[-106.24847,35.875804],"type":"Point"}
 }

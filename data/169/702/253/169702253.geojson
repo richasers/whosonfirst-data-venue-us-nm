@@ -2,13 +2,14 @@
   "id": 169702253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.209958,35.82588,-106.209958,35.82588",
     "geom:latitude":35.82588,
     "geom:longitude":-106.209958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Longview Dr",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":169702253,
-    "wof:lastmodified":1449034339,
+    "wof:lastmodified":1466697616,
     "wof:name":"Hot Hole Instruments Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "surveying"
     ]
 },
-  "bbox": [-106.209958,35.82588,-106.209958,35.82588],
+  "bbox": [
+    -106.209958,
+    35.82588,
+    -106.209958,
+    35.82588
+],
   "geometry": {"coordinates":[-106.209958,35.82588],"type":"Point"}
 }

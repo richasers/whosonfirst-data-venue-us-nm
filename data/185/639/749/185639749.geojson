@@ -2,13 +2,14 @@
   "id": 185639749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.202661,34.420459,-103.202661,34.420459",
     "geom:latitude":34.420459,
     "geom:longitude":-103.202661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2115 Gidding St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185639749,
-    "wof:lastmodified":1449008196,
+    "wof:lastmodified":1466698040,
     "wof:name":"Parkway Development Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-103.202661,34.420459,-103.202661,34.420459],
-  "geometry": {"coordinates":[-103.202661,34.420459],"type":"Point"}
+  "bbox": [
+    -103.202661,
+    34.420459,
+    -103.202661,
+    34.420459
+],
+  "geometry": {"coordinates":[-103.20266100000001,34.420459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202886353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.679572,35.034091,-106.679572,35.034091",
     "geom:latitude":35.034091,
     "geom:longitude":-106.679572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2717 Isleta Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202886353,
-    "wof:lastmodified":1449061508,
+    "wof:lastmodified":1466700430,
     "wof:name":"D'Angeles Salon",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.679572,35.034091,-106.679572,35.034091],
-  "geometry": {"coordinates":[-106.679572,35.034091],"type":"Point"}
+  "bbox": [
+    -106.679572,
+    35.034091,
+    -106.679572,
+    35.034091
+],
+  "geometry": {"coordinates":[-106.67957199999999,35.034091],"type":"Point"}
 }

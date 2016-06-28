@@ -2,13 +2,14 @@
   "id": 186087635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.758679,35.540931,-108.758679,35.540931",
     "geom:latitude":35.540931,
     "geom:longitude":-108.758679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 US Hwy 491",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186087635,
-    "wof:lastmodified":1449051614,
+    "wof:lastmodified":1466698742,
     "wof:name":"Great American",
     "wof:parent_id":85802855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.758679,35.540931,-108.758679,35.540931],
+  "bbox": [
+    -108.758679,
+    35.540931,
+    -108.758679,
+    35.540931
+],
   "geometry": {"coordinates":[-108.758679,35.540931],"type":"Point"}
 }

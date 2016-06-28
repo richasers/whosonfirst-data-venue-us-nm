@@ -2,13 +2,14 @@
   "id": 203145467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.791845,32.401062,-106.791845,32.401062",
     "geom:latitude":32.401062,
     "geom:longitude":-106.791845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5780 Pleasant Hill Ct",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203145467,
-    "wof:lastmodified":1449025489,
+    "wof:lastmodified":1466699123,
     "wof:name":"Home Detective",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-106.791845,32.401062,-106.791845,32.401062],
+  "bbox": [
+    -106.791845,
+    32.401062,
+    -106.791845,
+    32.401062
+],
   "geometry": {"coordinates":[-106.791845,32.401062],"type":"Point"}
 }

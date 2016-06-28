@@ -2,13 +2,14 @@
   "id": 353940329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.591007,35.131039,-106.591007,35.131039",
     "geom:latitude":35.131039,
     "geom:longitude":-106.591007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4705 Montgomery Blvd NE # 301",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353940329,
-    "wof:lastmodified":1449018884,
+    "wof:lastmodified":1466698284,
     "wof:name":"Shelburne, Paul, Md - Lovelace Medical Group",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.591007,35.131039,-106.591007,35.131039],
+  "bbox": [
+    -106.591007,
+    35.131039,
+    -106.591007,
+    35.131039
+],
   "geometry": {"coordinates":[-106.591007,35.131039],"type":"Point"}
 }

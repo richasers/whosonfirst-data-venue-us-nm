@@ -2,13 +2,14 @@
   "id": 186562427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.698566,35.02596,-106.698566,35.02596",
     "geom:latitude":35.02596,
     "geom:longitude":-106.698566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 del Sur Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186562427,
-    "wof:lastmodified":1449051793,
+    "wof:lastmodified":1466700375,
     "wof:name":"Emerald Interior Plantscapes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-106.698566,35.02596,-106.698566,35.02596],
+  "bbox": [
+    -106.698566,
+    35.02596,
+    -106.698566,
+    35.02596
+],
   "geometry": {"coordinates":[-106.698566,35.02596],"type":"Point"}
 }

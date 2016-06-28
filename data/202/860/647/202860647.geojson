@@ -2,13 +2,14 @@
   "id": 202860647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.627578,35.11484,-106.627578,35.11484",
     "geom:latitude":35.11484,
     "geom:longitude":-106.627578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Candelaria Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202860647,
-    "wof:lastmodified":1449061251,
+    "wof:lastmodified":1466700316,
     "wof:name":"American Self Storage",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-106.627578,35.11484,-106.627578,35.11484],
+  "bbox": [
+    -106.627578,
+    35.11484,
+    -106.627578,
+    35.11484
+],
   "geometry": {"coordinates":[-106.627578,35.11484],"type":"Point"}
 }

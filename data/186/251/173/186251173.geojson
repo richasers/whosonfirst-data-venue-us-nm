@@ -2,13 +2,14 @@
   "id": 186251173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.597064,35.11643,-106.597064,35.11643",
     "geom:latitude":35.11643,
     "geom:longitude":-106.597064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 Graceland Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186251173,
-    "wof:lastmodified":1449050313,
+    "wof:lastmodified":1466698681,
     "wof:name":"3 J's Plumbing Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.597064,35.11643,-106.597064,35.11643],
+  "bbox": [
+    -106.597064,
+    35.11643,
+    -106.597064,
+    35.11643
+],
   "geometry": {"coordinates":[-106.597064,35.11643],"type":"Point"}
 }

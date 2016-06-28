@@ -2,13 +2,14 @@
   "id": 186218229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.228845,32.425907,-104.228845,32.425907",
     "geom:latitude":32.425907,
     "geom:longitude":-104.228845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"528 N Canal St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186218229,
-    "wof:lastmodified":1449052075,
+    "wof:lastmodified":1466698252,
     "wof:name":"Direct Computer Services",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.228845,32.425907,-104.228845,32.425907],
-  "geometry": {"coordinates":[-104.228845,32.425907],"type":"Point"}
+  "bbox": [
+    -104.228845,
+    32.425907,
+    -104.228845,
+    32.425907
+],
+  "geometry": {"coordinates":[-104.22884500000001,32.425907],"type":"Point"}
 }

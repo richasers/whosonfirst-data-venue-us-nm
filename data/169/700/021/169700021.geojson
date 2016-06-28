@@ -2,13 +2,14 @@
   "id": 169700021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.773616,32.274874,-106.773616,32.274874",
     "geom:latitude":32.274874,
     "geom:longitude":-106.773616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 W Conway Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169700021,
-    "wof:lastmodified":1449035670,
+    "wof:lastmodified":1466699381,
     "wof:name":"Minter Enterprises",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.773616,32.274874,-106.773616,32.274874],
+  "bbox": [
+    -106.773616,
+    32.274874,
+    -106.773616,
+    32.274874
+],
   "geometry": {"coordinates":[-106.773616,32.274874],"type":"Point"}
 }

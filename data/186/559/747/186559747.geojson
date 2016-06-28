@@ -2,13 +2,14 @@
   "id": 186559747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.94291,35.682268,-105.94291,35.682268",
     "geom:latitude":35.682268,
     "geom:longitude":-105.94291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Galisteo St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186559747,
-    "wof:lastmodified":1449052416,
+    "wof:lastmodified":1466700505,
     "wof:name":"Soil & Water Conservation Bur",
     "wof:parent_id":85880805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-105.94291,35.682268,-105.94291,35.682268],
+  "bbox": [
+    -105.94291,
+    35.682268,
+    -105.94291,
+    35.682268
+],
   "geometry": {"coordinates":[-105.94291,35.682268],"type":"Point"}
 }

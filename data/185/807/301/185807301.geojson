@@ -2,13 +2,14 @@
   "id": 185807301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.484789,35.121281,-108.484789,35.121281",
     "geom:latitude":35.121281,
     "geom:longitude":-108.484789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3370 State Hwy 53",
     "sg:city":"Ramah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185807301,
-    "wof:lastmodified":1449007016,
+    "wof:lastmodified":1466699363,
     "wof:name":"Stagecoach Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.484789,35.121281,-108.484789,35.121281],
-  "geometry": {"coordinates":[-108.484789,35.121281],"type":"Point"}
+  "bbox": [
+    -108.484789,
+    35.121281,
+    -108.484789,
+    35.121281
+],
+  "geometry": {"coordinates":[-108.48478900000001,35.121281],"type":"Point"}
 }

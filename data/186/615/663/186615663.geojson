@@ -2,13 +2,14 @@
   "id": 186615663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.943654,32.91513,-105.943654,32.91513",
     "geom:latitude":32.91513,
     "geom:longitude":-105.943654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1516 Indian Wells Rd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186615663,
-    "wof:lastmodified":1449051233,
+    "wof:lastmodified":1466700686,
     "wof:name":"Safety Institute The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-105.943654,32.91513,-105.943654,32.91513],
+  "bbox": [
+    -105.943654,
+    32.91513,
+    -105.943654,
+    32.91513
+],
   "geometry": {"coordinates":[-105.943654,32.91513],"type":"Point"}
 }

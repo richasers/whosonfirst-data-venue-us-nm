@@ -2,13 +2,14 @@
   "id": 186412193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.675566,34.805837,-106.675566,34.805837",
     "geom:latitude":34.805837,
     "geom:longitude":-106.675566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Gilgrease Rd",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186412193,
-    "wof:lastmodified":1449050952,
+    "wof:lastmodified":1466699885,
     "wof:name":"Daniel Gutierrez Custom Cbnts",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-106.675566,34.805837,-106.675566,34.805837],
+  "bbox": [
+    -106.675566,
+    34.805837,
+    -106.675566,
+    34.805837
+],
   "geometry": {"coordinates":[-106.675566,34.805837],"type":"Point"}
 }

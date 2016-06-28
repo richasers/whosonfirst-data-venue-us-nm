@@ -2,13 +2,14 @@
   "id": 169833021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.952324,32.925181,-105.952324,32.925181",
     "geom:latitude":32.925181,
     "geom:longitude":-105.952324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2721 N Florida Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169833021,
-    "wof:lastmodified":1449033107,
+    "wof:lastmodified":1466699437,
     "wof:name":"Nm Martial Arts Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "instruction"
     ]
 },
-  "bbox": [-105.952324,32.925181,-105.952324,32.925181],
+  "bbox": [
+    -105.952324,
+    32.925181,
+    -105.952324,
+    32.925181
+],
   "geometry": {"coordinates":[-105.952324,32.925181],"type":"Point"}
 }

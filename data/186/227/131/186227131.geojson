@@ -2,13 +2,14 @@
   "id": 186227131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.568808,35.094238,-106.568808,35.094238",
     "geom:latitude":35.094238,
     "geom:longitude":-106.568808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 Louisiana Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186227131,
-    "wof:lastmodified":1449050981,
+    "wof:lastmodified":1466698359,
     "wof:name":"Bob & Debra Sugar Counseling",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-106.568808,35.094238,-106.568808,35.094238],
+  "bbox": [
+    -106.568808,
+    35.094238,
+    -106.568808,
+    35.094238
+],
   "geometry": {"coordinates":[-106.568808,35.094238],"type":"Point"}
 }

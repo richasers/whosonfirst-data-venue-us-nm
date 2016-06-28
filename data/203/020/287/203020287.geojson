@@ -2,13 +2,14 @@
   "id": 203020287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.2171,36.721227,-108.2171,36.721227",
     "geom:latitude":36.721227,
     "geom:longitude":-108.2171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 S Lake St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203020287,
-    "wof:lastmodified":1449025797,
+    "wof:lastmodified":1466697821,
     "wof:name":"Fedex Freight East Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-108.2171,36.721227,-108.2171,36.721227],
+  "bbox": [
+    -108.2171,
+    36.721227,
+    -108.2171,
+    36.721227
+],
   "geometry": {"coordinates":[-108.2171,36.721227],"type":"Point"}
 }

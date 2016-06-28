@@ -2,13 +2,14 @@
   "id": 353964307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.734488,35.037284,-106.734488,35.037284",
     "geom:latitude":35.037284,
     "geom:longitude":-106.734488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9504 Hondo Valley Pl SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":353964307,
-    "wof:lastmodified":1449020176,
+    "wof:lastmodified":1466698861,
     "wof:name":"1 Fit Chick",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "physical"
     ]
 },
-  "bbox": [-106.734488,35.037284,-106.734488,35.037284],
+  "bbox": [
+    -106.734488,
+    35.037284,
+    -106.734488,
+    35.037284
+],
   "geometry": {"coordinates":[-106.734488,35.037284],"type":"Point"}
 }

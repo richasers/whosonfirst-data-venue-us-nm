@@ -2,13 +2,14 @@
   "id": 186640927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.202981,36.757702,-108.202981,36.757702",
     "geom:latitude":36.757702,
     "geom:longitude":-108.202981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 32nd St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186640927,
-    "wof:lastmodified":1449051536,
+    "wof:lastmodified":1466700868,
     "wof:name":"Mlw Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transportation"
     ]
 },
-  "bbox": [-108.202981,36.757702,-108.202981,36.757702],
-  "geometry": {"coordinates":[-108.202981,36.757702],"type":"Point"}
+  "bbox": [
+    -108.202981,
+    36.757702,
+    -108.202981,
+    36.757702
+],
+  "geometry": {"coordinates":[-108.20298099999999,36.757702],"type":"Point"}
 }

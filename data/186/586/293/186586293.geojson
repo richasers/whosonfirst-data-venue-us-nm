@@ -2,13 +2,14 @@
   "id": 186586293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.503634,35.110854,-106.503634,35.110854",
     "geom:latitude":35.110854,
     "geom:longitude":-106.503634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2517 Landman Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186586293,
-    "wof:lastmodified":1449052712,
+    "wof:lastmodified":1466700711,
     "wof:name":"Heaven's Best Carpet Cleaning",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-106.503634,35.110854,-106.503634,35.110854],
-  "geometry": {"coordinates":[-106.503634,35.110854],"type":"Point"}
+  "bbox": [
+    -106.503634,
+    35.110854,
+    -106.503634,
+    35.110854
+],
+  "geometry": {"coordinates":[-106.50363400000001,35.110854],"type":"Point"}
 }

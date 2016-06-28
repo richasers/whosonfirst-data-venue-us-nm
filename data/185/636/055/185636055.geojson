@@ -2,13 +2,14 @@
   "id": 185636055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.712579,35.073198,-106.712579,35.073198",
     "geom:latitude":35.073198,
     "geom:longitude":-106.712579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6900 Gonzales Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185636055,
-    "wof:lastmodified":1449007257,
+    "wof:lastmodified":1466697992,
     "wof:name":"S W Valley Clinic",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.712579,35.073198,-106.712579,35.073198],
-  "geometry": {"coordinates":[-106.712579,35.073198],"type":"Point"}
+  "bbox": [
+    -106.712579,
+    35.073198,
+    -106.712579,
+    35.073198
+],
+  "geometry": {"coordinates":[-106.71257900000001,35.073198],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185877615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.494577,35.069227,-106.494577,35.069227",
     "geom:latitude":35.069227,
     "geom:longitude":-106.494577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Monte Alto Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185877615,
-    "wof:lastmodified":1449007729,
+    "wof:lastmodified":1466698288,
     "wof:name":"Freedom Floors",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carpet"
     ]
 },
-  "bbox": [-106.494577,35.069227,-106.494577,35.069227],
-  "geometry": {"coordinates":[-106.494577,35.069227],"type":"Point"}
+  "bbox": [
+    -106.494577,
+    35.069227,
+    -106.494577,
+    35.069227
+],
+  "geometry": {"coordinates":[-106.49457700000001,35.069227],"type":"Point"}
 }

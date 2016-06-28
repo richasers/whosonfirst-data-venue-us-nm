@@ -2,13 +2,14 @@
   "id": 169698541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.162841,36.747209,-108.162841,36.747209",
     "geom:latitude":36.747209,
     "geom:longitude":-108.162841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3024 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169698541,
-    "wof:lastmodified":1449035755,
+    "wof:lastmodified":1466697649,
     "wof:name":"Sun Country Credit Union Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-108.162841,36.747209,-108.162841,36.747209],
+  "bbox": [
+    -108.162841,
+    36.747209,
+    -108.162841,
+    36.747209
+],
   "geometry": {"coordinates":[-108.162841,36.747209],"type":"Point"}
 }

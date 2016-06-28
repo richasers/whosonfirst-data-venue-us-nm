@@ -2,13 +2,14 @@
   "id": 202472015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.99108,35.652593,-105.99108,35.652593",
     "geom:latitude":35.652593,
     "geom:longitude":-105.99108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Cll la Resolana",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202472015,
-    "wof:lastmodified":1449060309,
+    "wof:lastmodified":1466699437,
     "wof:name":"B & G Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [-105.99108,35.652593,-105.99108,35.652593],
+  "bbox": [
+    -105.99108,
+    35.652593,
+    -105.99108,
+    35.652593
+],
   "geometry": {"coordinates":[-105.99108,35.652593],"type":"Point"}
 }

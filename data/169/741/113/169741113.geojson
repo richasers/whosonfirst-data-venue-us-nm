@@ -2,13 +2,14 @@
   "id": 169741113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.741414,35.528352,-108.741414,35.528352",
     "geom:latitude":35.528352,
     "geom:longitude":-108.741414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S 1st St",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169741113,
-    "wof:lastmodified":1449032864,
+    "wof:lastmodified":1466698002,
     "wof:name":"Fraziers Home Care",
     "wof:parent_id":85802855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-108.741414,35.528352,-108.741414,35.528352],
-  "geometry": {"coordinates":[-108.741414,35.528352],"type":"Point"}
+  "bbox": [
+    -108.741414,
+    35.528352,
+    -108.741414,
+    35.528352
+],
+  "geometry": {"coordinates":[-108.74141400000001,35.528352],"type":"Point"}
 }

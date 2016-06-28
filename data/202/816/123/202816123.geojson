@@ -2,13 +2,14 @@
   "id": 202816123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.522986,33.436252,-104.522986,33.436252",
     "geom:latitude":33.436252,
     "geom:longitude":-104.522986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 E Linda Vista Blvd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202816123,
-    "wof:lastmodified":1449061594,
+    "wof:lastmodified":1466699906,
     "wof:name":"Broad Horizons Nursing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "registry"
     ]
 },
-  "bbox": [-104.522986,33.436252,-104.522986,33.436252],
+  "bbox": [
+    -104.522986,
+    33.436252,
+    -104.522986,
+    33.436252
+],
   "geometry": {"coordinates":[-104.522986,33.436252],"type":"Point"}
 }

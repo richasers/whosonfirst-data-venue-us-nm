@@ -2,13 +2,14 @@
   "id": 186387069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.752057,35.049215,-106.752057,35.049215",
     "geom:latitude":35.049215,
     "geom:longitude":-106.752057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10705 Anaya St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186387069,
-    "wof:lastmodified":1449052655,
+    "wof:lastmodified":1466699910,
     "wof:name":"Patricia Varay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-106.752057,35.049215,-106.752057,35.049215],
-  "geometry": {"coordinates":[-106.752057,35.049215],"type":"Point"}
+  "bbox": [
+    -106.752057,
+    35.049215,
+    -106.752057,
+    35.049215
+],
+  "geometry": {"coordinates":[-106.75205699999999,35.049215],"type":"Point"}
 }

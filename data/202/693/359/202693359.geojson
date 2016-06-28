@@ -2,13 +2,14 @@
   "id": 202693359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.780296,32.300687,-106.780296,32.300687",
     "geom:latitude":32.300687,
     "geom:longitude":-106.780296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 W Brown Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202693359,
-    "wof:lastmodified":1449060251,
+    "wof:lastmodified":1466699588,
     "wof:name":"Software Services Company",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "custom"
     ]
 },
-  "bbox": [-106.780296,32.300687,-106.780296,32.300687],
-  "geometry": {"coordinates":[-106.780296,32.300687],"type":"Point"}
+  "bbox": [
+    -106.780296,
+    32.300687,
+    -106.780296,
+    32.300687
+],
+  "geometry": {"coordinates":[-106.78029600000001,32.300687],"type":"Point"}
 }

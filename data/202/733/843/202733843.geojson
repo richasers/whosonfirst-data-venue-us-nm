@@ -2,13 +2,14 @@
   "id": 202733843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.201538,34.419312,-103.201538,34.419312",
     "geom:latitude":34.419312,
     "geom:longitude":-103.201538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W 21st St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202733843,
-    "wof:lastmodified":1449060455,
+    "wof:lastmodified":1466699733,
     "wof:name":"14 K Hair & Nail Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.201538,34.419312,-103.201538,34.419312],
+  "bbox": [
+    -103.201538,
+    34.419312,
+    -103.201538,
+    34.419312
+],
   "geometry": {"coordinates":[-103.201538,34.419312],"type":"Point"}
 }

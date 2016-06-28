@@ -2,13 +2,14 @@
   "id": 185631803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.924554,32.282805,-106.924554,32.282805",
     "geom:latitude":32.282805,
     "geom:longitude":-106.924554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9050 Zia Blvd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185631803,
-    "wof:lastmodified":1449007105,
+    "wof:lastmodified":1466697953,
     "wof:name":"Southwest Aviation Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-106.924554,32.282805,-106.924554,32.282805],
+  "bbox": [
+    -106.924554,
+    32.282805,
+    -106.924554,
+    32.282805
+],
   "geometry": {"coordinates":[-106.924554,32.282805],"type":"Point"}
 }

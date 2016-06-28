@@ -2,13 +2,14 @@
   "id": 186202985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.215519,34.43143,-103.215519,34.43143",
     "geom:latitude":34.43143,
     "geom:longitude":-103.215519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 Collins Ave",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186202985,
-    "wof:lastmodified":1449052666,
+    "wof:lastmodified":1466698066,
     "wof:name":"R V Doctor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-103.215519,34.43143,-103.215519,34.43143],
+  "bbox": [
+    -103.215519,
+    34.43143,
+    -103.215519,
+    34.43143
+],
   "geometry": {"coordinates":[-103.215519,34.43143],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186337193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.716797,32.265553,-106.716797,32.265553",
     "geom:latitude":32.265553,
     "geom:longitude":-106.716797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5135 Cll Bellisima",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186337193,
-    "wof:lastmodified":1449051640,
+    "wof:lastmodified":1466699616,
     "wof:name":"Broenen Fine Art",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.716797,32.265553,-106.716797,32.265553],
+  "bbox": [
+    -106.716797,
+    32.265553,
+    -106.716797,
+    32.265553
+],
   "geometry": {"coordinates":[-106.716797,32.265553],"type":"Point"}
 }

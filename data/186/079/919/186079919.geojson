@@ -2,13 +2,14 @@
   "id": 186079919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550224,31.798199,-106.550224,31.798199",
     "geom:latitude":31.798199,
     "geom:longitude":-106.550224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 McNutt Rd",
     "sg:city":"Sunland Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186079919,
-    "wof:lastmodified":1449052558,
+    "wof:lastmodified":1466698641,
     "wof:name":"Motor Vehicle Div",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-106.550224,31.798199,-106.550224,31.798199],
+  "bbox": [
+    -106.550224,
+    31.798199,
+    -106.550224,
+    31.798199
+],
   "geometry": {"coordinates":[-106.550224,31.798199],"type":"Point"}
 }

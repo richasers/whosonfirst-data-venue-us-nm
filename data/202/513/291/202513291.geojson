@@ -2,13 +2,14 @@
   "id": 202513291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.181985,36.751465,-108.181985,36.751465",
     "geom:latitude":36.751465,
     "geom:longitude":-108.181985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 Schofield Ln",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202513291,
-    "wof:lastmodified":1449061764,
+    "wof:lastmodified":1466699220,
     "wof:name":"Mr Rooter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.181985,36.751465,-108.181985,36.751465],
+  "bbox": [
+    -108.181985,
+    36.751465,
+    -108.181985,
+    36.751465
+],
   "geometry": {"coordinates":[-108.181985,36.751465],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185943419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.537695,35.188861,-106.537695,35.188861",
     "geom:latitude":35.188861,
     "geom:longitude":-106.537695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9401 Modesto Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185943419,
-    "wof:lastmodified":1449007038,
+    "wof:lastmodified":1466699122,
     "wof:name":"D S Property Investments",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-106.537695,35.188861,-106.537695,35.188861],
+  "bbox": [
+    -106.537695,
+    35.188861,
+    -106.537695,
+    35.188861
+],
   "geometry": {"coordinates":[-106.537695,35.188861],"type":"Point"}
 }

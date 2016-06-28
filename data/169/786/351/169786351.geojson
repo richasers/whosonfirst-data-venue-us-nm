@@ -2,13 +2,14 @@
   "id": 169786351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.504476,35.086383,-106.504476,35.086383",
     "geom:latitude":35.086383,
     "geom:longitude":-106.504476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12836 Lomas Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169786351,
-    "wof:lastmodified":1449033117,
+    "wof:lastmodified":1466698406,
     "wof:name":"TNJ Construction",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "project"
     ]
 },
-  "bbox": [-106.504476,35.086383,-106.504476,35.086383],
+  "bbox": [
+    -106.504476,
+    35.086383,
+    -106.504476,
+    35.086383
+],
   "geometry": {"coordinates":[-106.504476,35.086383],"type":"Point"}
 }

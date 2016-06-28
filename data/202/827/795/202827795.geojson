@@ -2,13 +2,14 @@
   "id": 202827795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.949383,35.657051,-105.949383,35.657051",
     "geom:latitude":35.657051,
     "geom:longitude":-105.949383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Brunn School Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202827795,
-    "wof:lastmodified":1449061016,
+    "wof:lastmodified":1466700233,
     "wof:name":"Janet Mandell",
     "wof:parent_id":85880859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-105.949383,35.657051,-105.949383,35.657051],
+  "bbox": [
+    -105.949383,
+    35.657051,
+    -105.949383,
+    35.657051
+],
   "geometry": {"coordinates":[-105.949383,35.657051],"type":"Point"}
 }

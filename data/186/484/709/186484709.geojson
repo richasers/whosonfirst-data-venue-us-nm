@@ -2,13 +2,14 @@
   "id": 186484709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.39686,32.833405,-104.39686,32.833405",
     "geom:latitude":32.833405,
     "geom:longitude":-104.39686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 S 1st St",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186484709,
-    "wof:lastmodified":1449052877,
+    "wof:lastmodified":1466700284,
     "wof:name":"B & R Motors",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-104.39686,32.833405,-104.39686,32.833405],
+  "bbox": [
+    -104.39686,
+    32.833405,
+    -104.39686,
+    32.833405
+],
   "geometry": {"coordinates":[-104.39686,32.833405],"type":"Point"}
 }

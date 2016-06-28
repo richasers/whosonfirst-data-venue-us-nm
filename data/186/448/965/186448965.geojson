@@ -2,13 +2,14 @@
   "id": 186448965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.733247,35.192327,-106.733247,35.192327",
     "geom:latitude":35.192327,
     "geom:longitude":-106.733247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6912 Hartford Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186448965,
-    "wof:lastmodified":1449052912,
+    "wof:lastmodified":1466700032,
     "wof:name":"Eeep Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.733247,35.192327,-106.733247,35.192327],
-  "geometry": {"coordinates":[-106.733247,35.192327],"type":"Point"}
+  "bbox": [
+    -106.733247,
+    35.192327,
+    -106.733247,
+    35.192327
+],
+  "geometry": {"coordinates":[-106.73324700000001,35.192327],"type":"Point"}
 }

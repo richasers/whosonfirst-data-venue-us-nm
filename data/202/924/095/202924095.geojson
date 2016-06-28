@@ -2,13 +2,14 @@
   "id": 202924095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.755097,34.805234,-106.755097,34.805234",
     "geom:latitude":34.805234,
     "geom:longitude":-106.755097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Hillside Dr",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202924095,
-    "wof:lastmodified":1449060824,
+    "wof:lastmodified":1466700446,
     "wof:name":"Advanced Locksmith & Security",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.755097,34.805234,-106.755097,34.805234],
-  "geometry": {"coordinates":[-106.755097,34.805234],"type":"Point"}
+  "bbox": [
+    -106.755097,
+    34.805234,
+    -106.755097,
+    34.805234
+],
+  "geometry": {"coordinates":[-106.75509700000001,34.805234],"type":"Point"}
 }

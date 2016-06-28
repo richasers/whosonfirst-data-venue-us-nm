@@ -2,13 +2,14 @@
   "id": 185633537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.576229,35.135775,-106.576229,35.135775",
     "geom:latitude":35.135775,
     "geom:longitude":-106.576229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4303 Topke Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185633537,
-    "wof:lastmodified":1449008183,
+    "wof:lastmodified":1466697964,
     "wof:name":"Quality Appliance Svc",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-106.576229,35.135775,-106.576229,35.135775],
+  "bbox": [
+    -106.576229,
+    35.135775,
+    -106.576229,
+    35.135775
+],
   "geometry": {"coordinates":[-106.576229,35.135775],"type":"Point"}
 }

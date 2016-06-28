@@ -2,13 +2,14 @@
   "id": 353947579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.551748,35.099685,-106.551748,35.099685",
     "geom:latitude":35.099685,
     "geom:longitude":-106.551748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Wisconsin St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353947579,
-    "wof:lastmodified":1449020089,
+    "wof:lastmodified":1466698498,
     "wof:name":"Reliable Heating & Cooling",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "engineer"
     ]
 },
-  "bbox": [-106.551748,35.099685,-106.551748,35.099685],
+  "bbox": [
+    -106.551748,
+    35.099685,
+    -106.551748,
+    35.099685
+],
   "geometry": {"coordinates":[-106.551748,35.099685],"type":"Point"}
 }

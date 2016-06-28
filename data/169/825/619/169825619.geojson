@@ -2,13 +2,14 @@
   "id": 169825619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.710126,35.157898,-106.710126,35.157898",
     "geom:latitude":35.157898,
     "geom:longitude":-106.710126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6155 Mojave St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169825619,
-    "wof:lastmodified":1449032816,
+    "wof:lastmodified":1466698769,
     "wof:name":"Gymnastics Center",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.710126,35.157898,-106.710126,35.157898],
+  "bbox": [
+    -106.710126,
+    35.157898,
+    -106.710126,
+    35.157898
+],
   "geometry": {"coordinates":[-106.710126,35.157898],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185746047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.702083,34.841862,-106.702083,34.841862",
     "geom:latitude":34.841862,
     "geom:longitude":-106.702083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2260 Margaret Dr",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185746047,
-    "wof:lastmodified":1449006583,
+    "wof:lastmodified":1466699107,
     "wof:name":"M & M Clerical Support",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-106.702083,34.841862,-106.702083,34.841862],
+  "bbox": [
+    -106.702083,
+    34.841862,
+    -106.702083,
+    34.841862
+],
   "geometry": {"coordinates":[-106.702083,34.841862],"type":"Point"}
 }

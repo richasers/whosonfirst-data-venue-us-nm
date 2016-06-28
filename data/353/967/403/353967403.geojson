@@ -2,13 +2,14 @@
   "id": 353967403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.503418,35.068802,-106.503418,35.068802",
     "geom:latitude":35.068802,
     "geom:longitude":-106.503418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12999 Central Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353967403,
-    "wof:lastmodified":1449020615,
+    "wof:lastmodified":1466698948,
     "wof:name":"Americas Best Value Inn Suites",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "lodging"
     ]
 },
-  "bbox": [-106.503418,35.068802,-106.503418,35.068802],
+  "bbox": [
+    -106.503418,
+    35.068802,
+    -106.503418,
+    35.068802
+],
   "geometry": {"coordinates":[-106.503418,35.068802],"type":"Point"}
 }

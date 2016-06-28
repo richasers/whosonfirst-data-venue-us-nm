@@ -2,13 +2,14 @@
   "id": 185883233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.120875,32.728482,-103.120875,32.728482",
     "geom:latitude":32.728482,
     "geom:longitude":-103.120875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 E Silver Dr",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185883233,
-    "wof:lastmodified":1449007852,
+    "wof:lastmodified":1466698349,
     "wof:name":"Walker Piano Tuning & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.120875,32.728482,-103.120875,32.728482],
+  "bbox": [
+    -103.120875,
+    32.728482,
+    -103.120875,
+    32.728482
+],
   "geometry": {"coordinates":[-103.120875,32.728482],"type":"Point"}
 }

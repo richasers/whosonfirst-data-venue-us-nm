@@ -2,13 +2,14 @@
   "id": 202653273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.994567,36.823331,-107.994567,36.823331",
     "geom:latitude":36.823331,
     "geom:longitude":-107.994567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 N Main Ave",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202653273,
-    "wof:lastmodified":1449060294,
+    "wof:lastmodified":1466699184,
     "wof:name":"Aztec UFO Information Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-107.994567,36.823331,-107.994567,36.823331],
+  "bbox": [
+    -107.994567,
+    36.823331,
+    -107.994567,
+    36.823331
+],
   "geometry": {"coordinates":[-107.994567,36.823331],"type":"Point"}
 }

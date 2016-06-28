@@ -2,13 +2,14 @@
   "id": 186621699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615417,35.092513,-106.615417,35.092513",
     "geom:latitude":35.092513,
     "geom:longitude":-106.615417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 Princeton Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186621699,
-    "wof:lastmodified":1449052694,
+    "wof:lastmodified":1466700712,
     "wof:name":"Randals Co",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-106.615417,35.092513,-106.615417,35.092513],
-  "geometry": {"coordinates":[-106.615417,35.092513],"type":"Point"}
+  "bbox": [
+    -106.615417,
+    35.092513,
+    -106.615417,
+    35.092513
+],
+  "geometry": {"coordinates":[-106.61541699999999,35.092513],"type":"Point"}
 }

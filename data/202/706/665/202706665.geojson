@@ -2,13 +2,14 @@
   "id": 202706665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.196562,34.434555,-103.196562,34.434555",
     "geom:latitude":34.434555,
     "geom:longitude":-103.196562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3520 N Prince St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202706665,
-    "wof:lastmodified":1449060291,
+    "wof:lastmodified":1466699627,
     "wof:name":"Taco Villa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-103.196562,34.434555,-103.196562,34.434555],
+  "bbox": [
+    -103.196562,
+    34.434555,
+    -103.196562,
+    34.434555
+],
   "geometry": {"coordinates":[-103.196562,34.434555],"type":"Point"}
 }

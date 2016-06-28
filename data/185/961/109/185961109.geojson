@@ -2,13 +2,14 @@
   "id": 185961109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.225729,32.455157,-104.225729,32.455157",
     "geom:latitude":32.455157,
     "geom:longitude":-104.225729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 Gwenda Dr",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185961109,
-    "wof:lastmodified":1449008158,
+    "wof:lastmodified":1466699390,
     "wof:name":"Fitch Construction",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.225729,32.455157,-104.225729,32.455157],
+  "bbox": [
+    -104.225729,
+    32.455157,
+    -104.225729,
+    32.455157
+],
   "geometry": {"coordinates":[-104.225729,32.455157],"type":"Point"}
 }

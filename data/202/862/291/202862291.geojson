@@ -2,13 +2,14 @@
   "id": 202862291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.925004,35.680389,-105.925004,35.680389",
     "geom:latitude":35.680389,
     "geom:longitude":-105.925004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Canyon Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202862291,
-    "wof:lastmodified":1449062733,
+    "wof:lastmodified":1466700320,
     "wof:name":"Chiaroscuro Gallery LLC",
     "wof:parent_id":85880803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gallery"
     ]
 },
-  "bbox": [-105.925004,35.680389,-105.925004,35.680389],
+  "bbox": [
+    -105.925004,
+    35.680389,
+    -105.925004,
+    35.680389
+],
   "geometry": {"coordinates":[-105.925004,35.680389],"type":"Point"}
 }

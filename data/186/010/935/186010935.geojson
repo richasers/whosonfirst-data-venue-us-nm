@@ -2,13 +2,14 @@
   "id": 186010935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.441063,36.901353,-104.441063,36.901353",
     "geom:latitude":36.901353,
     "geom:longitude":-104.441063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Cook Ave",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186010935,
-    "wof:lastmodified":1449052038,
+    "wof:lastmodified":1466697815,
     "wof:name":"Kastler Law Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-104.441063,36.901353,-104.441063,36.901353],
+  "bbox": [
+    -104.441063,
+    36.901353,
+    -104.441063,
+    36.901353
+],
   "geometry": {"coordinates":[-104.441063,36.901353],"type":"Point"}
 }

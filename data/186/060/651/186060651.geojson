@@ -2,13 +2,14 @@
   "id": 186060651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.563325,35.112829,-106.563325,35.112829",
     "geom:latitude":35.112829,
     "geom:longitude":-106.563325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 Claremont Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186060651,
-    "wof:lastmodified":1449052777,
+    "wof:lastmodified":1466698381,
     "wof:name":"Gourmet To Go Catering Inc",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-106.563325,35.112829,-106.563325,35.112829],
-  "geometry": {"coordinates":[-106.563325,35.112829],"type":"Point"}
+  "bbox": [
+    -106.563325,
+    35.112829,
+    -106.563325,
+    35.112829
+],
+  "geometry": {"coordinates":[-106.56332500000001,35.112829],"type":"Point"}
 }

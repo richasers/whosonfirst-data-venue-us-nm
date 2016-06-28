@@ -2,13 +2,14 @@
   "id": 186392431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.288291,32.420669,-104.288291,32.420669",
     "geom:latitude":32.420669,
     "geom:longitude":-104.288291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Carter St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186392431,
-    "wof:lastmodified":1449052477,
+    "wof:lastmodified":1466699808,
     "wof:name":"Chevron Pipeline Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "company"
     ]
 },
-  "bbox": [-104.288291,32.420669,-104.288291,32.420669],
+  "bbox": [
+    -104.288291,
+    32.420669,
+    -104.288291,
+    32.420669
+],
   "geometry": {"coordinates":[-104.288291,32.420669],"type":"Point"}
 }

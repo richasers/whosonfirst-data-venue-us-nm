@@ -2,13 +2,14 @@
   "id": 186516467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960427,32.896547,-105.960427,32.896547",
     "geom:latitude":32.896547,
     "geom:longitude":-105.960427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 US Hwy 70",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186516467,
-    "wof:lastmodified":1449050919,
+    "wof:lastmodified":1466700180,
     "wof:name":"Divers 2 Dive Center Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.960427,32.896547,-105.960427,32.896547],
+  "bbox": [
+    -105.960427,
+    32.896547,
+    -105.960427,
+    32.896547
+],
   "geometry": {"coordinates":[-105.960427,32.896547],"type":"Point"}
 }

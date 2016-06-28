@@ -2,13 +2,14 @@
   "id": 202787067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.539345,35.110236,-106.539345,35.110236",
     "geom:latitude":35.110236,
     "geom:longitude":-106.539345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9010 Cordova Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202787067,
-    "wof:lastmodified":1449061274,
+    "wof:lastmodified":1466700039,
     "wof:name":"G & A Heating & Cooling",
     "wof:parent_id":85825849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.539345,35.110236,-106.539345,35.110236],
+  "bbox": [
+    -106.539345,
+    35.110236,
+    -106.539345,
+    35.110236
+],
   "geometry": {"coordinates":[-106.539345,35.110236],"type":"Point"}
 }

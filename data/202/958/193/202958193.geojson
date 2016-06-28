@@ -2,13 +2,14 @@
   "id": 202958193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.77009,34.651437,-106.77009,34.651437",
     "geom:latitude":34.651437,
     "geom:longitude":-106.77009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 S 1st St",
     "sg:city":"Moriarty",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202958193,
-    "wof:lastmodified":1449062098,
+    "wof:lastmodified":1466700503,
     "wof:name":"Torrance County Maternal-Child",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.77009,34.651437,-106.77009,34.651437],
+  "bbox": [
+    -106.77009,
+    34.651437,
+    -106.77009,
+    34.651437
+],
   "geometry": {"coordinates":[-106.77009,34.651437],"type":"Point"}
 }

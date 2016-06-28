@@ -2,13 +2,14 @@
   "id": 202836183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.653606,33.356279,-105.653606,33.356279",
     "geom:latitude":33.356279,
     "geom:longitude":-105.653606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Snowcap Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202836183,
-    "wof:lastmodified":1449061759,
+    "wof:lastmodified":1466700123,
     "wof:name":"Photographic Soc Lincoln Cnty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lab"
     ]
 },
-  "bbox": [-105.653606,33.356279,-105.653606,33.356279],
+  "bbox": [
+    -105.653606,
+    33.356279,
+    -105.653606,
+    33.356279
+],
   "geometry": {"coordinates":[-105.653606,33.356279],"type":"Point"}
 }

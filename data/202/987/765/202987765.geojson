@@ -2,13 +2,14 @@
   "id": 202987765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.205434,34.403673,-103.205434,34.403673",
     "geom:latitude":34.403673,
     "geom:longitude":-103.205434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 N Main St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202987765,
-    "wof:lastmodified":1449061522,
+    "wof:lastmodified":1466700745,
     "wof:name":"Sports Angle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.205434,34.403673,-103.205434,34.403673],
+  "bbox": [
+    -103.205434,
+    34.403673,
+    -103.205434,
+    34.403673
+],
   "geometry": {"coordinates":[-103.205434,34.403673],"type":"Point"}
 }

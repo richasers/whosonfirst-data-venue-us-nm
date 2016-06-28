@@ -2,13 +2,14 @@
   "id": 353980789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.196449,34.436199,-103.196449,34.436199",
     "geom:latitude":34.436199,
     "geom:longitude":-103.196449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Arizona St Ste A",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353980789,
-    "wof:lastmodified":1449018430,
+    "wof:lastmodified":1466699100,
     "wof:name":"Trinity Family Medicine PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-103.196449,34.436199,-103.196449,34.436199],
+  "bbox": [
+    -103.196449,
+    34.436199,
+    -103.196449,
+    34.436199
+],
   "geometry": {"coordinates":[-103.196449,34.436199],"type":"Point"}
 }

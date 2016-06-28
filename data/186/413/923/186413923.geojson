@@ -2,13 +2,14 @@
   "id": 186413923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.955686,32.897735,-105.955686,32.897735",
     "geom:latitude":32.897735,
     "geom:longitude":-105.955686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 Virginia Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186413923,
-    "wof:lastmodified":1449050823,
+    "wof:lastmodified":1466700016,
     "wof:name":"Hairitage Invironmental Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-105.955686,32.897735,-105.955686,32.897735],
+  "bbox": [
+    -105.955686,
+    32.897735,
+    -105.955686,
+    32.897735
+],
   "geometry": {"coordinates":[-105.955686,32.897735],"type":"Point"}
 }

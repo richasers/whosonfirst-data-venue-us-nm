@@ -2,13 +2,14 @@
   "id": 202935683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781945,32.309038,-106.781945,32.309038",
     "geom:latitude":32.309038,
     "geom:longitude":-106.781945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 W Griggs Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202935683,
-    "wof:lastmodified":1449062213,
+    "wof:lastmodified":1466700596,
     "wof:name":"David Taylor",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "art"
     ]
 },
-  "bbox": [-106.781945,32.309038,-106.781945,32.309038],
-  "geometry": {"coordinates":[-106.781945,32.309038],"type":"Point"}
+  "bbox": [
+    -106.781945,
+    32.309038,
+    -106.781945,
+    32.309038
+],
+  "geometry": {"coordinates":[-106.78194499999999,32.309038],"type":"Point"}
 }

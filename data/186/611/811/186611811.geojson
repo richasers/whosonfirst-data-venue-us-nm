@@ -2,13 +2,14 @@
   "id": 186611811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.569216,35.169351,-106.569216,35.169351",
     "geom:latitude":35.169351,
     "geom:longitude":-106.569216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7712 Leanne St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186611811,
-    "wof:lastmodified":1449052442,
+    "wof:lastmodified":1466700558,
     "wof:name":"Fes Enterprises",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.569216,35.169351,-106.569216,35.169351],
+  "bbox": [
+    -106.569216,
+    35.169351,
+    -106.569216,
+    35.169351
+],
   "geometry": {"coordinates":[-106.569216,35.169351],"type":"Point"}
 }

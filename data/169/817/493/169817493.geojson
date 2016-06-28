@@ -2,13 +2,14 @@
   "id": 169817493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.174115,36.752324,-108.174115,36.752324",
     "geom:latitude":36.752324,
     "geom:longitude":-108.174115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Cliffside Dr",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169817493,
-    "wof:lastmodified":1449035313,
+    "wof:lastmodified":1466698726,
     "wof:name":"Dempsey Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.174115,36.752324,-108.174115,36.752324],
+  "bbox": [
+    -108.174115,
+    36.752324,
+    -108.174115,
+    36.752324
+],
   "geometry": {"coordinates":[-108.174115,36.752324],"type":"Point"}
 }

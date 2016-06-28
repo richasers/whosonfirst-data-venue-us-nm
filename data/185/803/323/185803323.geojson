@@ -2,13 +2,14 @@
   "id": 185803323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.551679,35.123624,-106.551679,35.123624",
     "geom:latitude":35.123624,
     "geom:longitude":-106.551679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8333 Comanche Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185803323,
-    "wof:lastmodified":1449008225,
+    "wof:lastmodified":1466699352,
     "wof:name":"Dinkels Painting Co",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.551679,35.123624,-106.551679,35.123624],
-  "geometry": {"coordinates":[-106.551679,35.123624],"type":"Point"}
+  "bbox": [
+    -106.551679,
+    35.123624,
+    -106.551679,
+    35.123624
+],
+  "geometry": {"coordinates":[-106.55167899999999,35.123624],"type":"Point"}
 }

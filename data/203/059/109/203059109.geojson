@@ -2,13 +2,14 @@
   "id": 203059109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.492852,35.115498,-106.492852,35.115498",
     "geom:latitude":35.115498,
     "geom:longitude":-106.492852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2909 Candelita Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203059109,
-    "wof:lastmodified":1449025427,
+    "wof:lastmodified":1466698226,
     "wof:name":"Cactus Roses Of New Mexico",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.492852,35.115498,-106.492852,35.115498],
+  "bbox": [
+    -106.492852,
+    35.115498,
+    -106.492852,
+    35.115498
+],
   "geometry": {"coordinates":[-106.492852,35.115498],"type":"Point"}
 }

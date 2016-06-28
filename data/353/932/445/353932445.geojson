@@ -2,13 +2,14 @@
   "id": 353932445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.657673,35.113756,-106.657673,35.113756",
     "geom:latitude":35.113756,
     "geom:longitude":-106.657673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2913 12th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353932445,
-    "wof:lastmodified":1449019205,
+    "wof:lastmodified":1466698074,
     "wof:name":"Solis Shop",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-106.657673,35.113756,-106.657673,35.113756],
+  "bbox": [
+    -106.657673,
+    35.113756,
+    -106.657673,
+    35.113756
+],
   "geometry": {"coordinates":[-106.657673,35.113756],"type":"Point"}
 }

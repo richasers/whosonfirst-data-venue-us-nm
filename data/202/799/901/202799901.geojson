@@ -2,13 +2,14 @@
   "id": 202799901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.901524,35.595351,-105.901524,35.595351",
     "geom:latitude":35.595351,
     "geom:longitude":-105.901524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Calimo Cir",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202799901,
-    "wof:lastmodified":1449062656,
+    "wof:lastmodified":1466699976,
     "wof:name":"Jake Rodriguez Architects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.901524,35.595351,-105.901524,35.595351],
-  "geometry": {"coordinates":[-105.901524,35.595351],"type":"Point"}
+  "bbox": [
+    -105.901524,
+    35.595351,
+    -105.901524,
+    35.595351
+],
+  "geometry": {"coordinates":[-105.90152399999999,35.595351],"type":"Point"}
 }

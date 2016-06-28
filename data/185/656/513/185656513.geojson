@@ -2,13 +2,14 @@
   "id": 185656513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.157255,32.772476,-108.157255,32.772476",
     "geom:latitude":32.772476,
     "geom:longitude":-108.157255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 New St",
     "sg:city":"Bayard",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185656513,
-    "wof:lastmodified":1449007647,
+    "wof:lastmodified":1466698202,
     "wof:name":"Taxes Notary & Bookkeeping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-108.157255,32.772476,-108.157255,32.772476],
-  "geometry": {"coordinates":[-108.157255,32.772476],"type":"Point"}
+  "bbox": [
+    -108.157255,
+    32.772476,
+    -108.157255,
+    32.772476
+],
+  "geometry": {"coordinates":[-108.15725500000001,32.772476],"type":"Point"}
 }

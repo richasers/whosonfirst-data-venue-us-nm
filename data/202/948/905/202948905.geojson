@@ -2,13 +2,14 @@
   "id": 202948905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.678951,35.206997,-106.678951,35.206997",
     "geom:latitude":35.206997,
     "geom:longitude":-106.678951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4824 McMahon Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202948905,
-    "wof:lastmodified":1449062140,
+    "wof:lastmodified":1466700550,
     "wof:name":"New Mexico Physical Therapists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-106.678951,35.206997,-106.678951,35.206997],
+  "bbox": [
+    -106.678951,
+    35.206997,
+    -106.678951,
+    35.206997
+],
   "geometry": {"coordinates":[-106.678951,35.206997],"type":"Point"}
 }

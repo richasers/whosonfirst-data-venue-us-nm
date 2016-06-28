@@ -2,13 +2,14 @@
   "id": 169703439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.729971,35.536433,-108.729971,35.536433",
     "geom:latitude":35.536433,
     "geom:longitude":-108.729971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 E Wilson Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169703439,
-    "wof:lastmodified":1449033687,
+    "wof:lastmodified":1466697625,
     "wof:name":"Harold Runnels Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "swimming"
     ]
 },
-  "bbox": [-108.729971,35.536433,-108.729971,35.536433],
-  "geometry": {"coordinates":[-108.729971,35.536433],"type":"Point"}
+  "bbox": [
+    -108.729971,
+    35.536433,
+    -108.729971,
+    35.536433
+],
+  "geometry": {"coordinates":[-108.72997100000001,35.536433],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202680821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.262135,32.784814,-108.262135,32.784814",
     "geom:latitude":32.784814,
     "geom:longitude":-108.262135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 Silver Heights Blvd",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202680821,
-    "wof:lastmodified":1449061872,
+    "wof:lastmodified":1466699535,
     "wof:name":"Adobe Springs Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.262135,32.784814,-108.262135,32.784814],
+  "bbox": [
+    -108.262135,
+    32.784814,
+    -108.262135,
+    32.784814
+],
   "geometry": {"coordinates":[-108.262135,32.784814],"type":"Point"}
 }

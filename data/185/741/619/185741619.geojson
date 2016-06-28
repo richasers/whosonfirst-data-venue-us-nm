@@ -2,13 +2,14 @@
   "id": 185741619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.598751,35.08008,-106.598751,35.08008",
     "geom:latitude":35.08008,
     "geom:longitude":-106.598751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4010 Copper Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185741619,
-    "wof:lastmodified":1449006668,
+    "wof:lastmodified":1466699079,
     "wof:name":"Wemagination Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.598751,35.08008,-106.598751,35.08008],
-  "geometry": {"coordinates":[-106.598751,35.08008],"type":"Point"}
+  "bbox": [
+    -106.598751,
+    35.08008,
+    -106.598751,
+    35.08008
+],
+  "geometry": {"coordinates":[-106.59875099999999,35.08008],"type":"Point"}
 }

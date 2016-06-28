@@ -2,13 +2,14 @@
   "id": 202430105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.594839,35.188428,-106.594839,35.188428",
     "geom:latitude":35.188428,
     "geom:longitude":-106.594839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8905 Washington St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202430105,
-    "wof:lastmodified":1449061701,
+    "wof:lastmodified":1466698309,
     "wof:name":"Grant & Associates Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.594839,35.188428,-106.594839,35.188428],
-  "geometry": {"coordinates":[-106.594839,35.188428],"type":"Point"}
+  "bbox": [
+    -106.594839,
+    35.188428,
+    -106.594839,
+    35.188428
+],
+  "geometry": {"coordinates":[-106.59483899999999,35.188428],"type":"Point"}
 }

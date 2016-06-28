@@ -2,13 +2,14 @@
   "id": 185651227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.136177,32.692174,-103.136177,32.692174",
     "geom:latitude":32.692174,
     "geom:longitude":-103.136177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 S Turner St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185651227,
-    "wof:lastmodified":1449006931,
+    "wof:lastmodified":1466698146,
     "wof:name":"LA Carreta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.136177,32.692174,-103.136177,32.692174],
+  "bbox": [
+    -103.136177,
+    32.692174,
+    -103.136177,
+    32.692174
+],
   "geometry": {"coordinates":[-103.136177,32.692174],"type":"Point"}
 }

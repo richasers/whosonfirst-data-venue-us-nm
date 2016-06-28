@@ -2,13 +2,14 @@
   "id": 202474585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.215317,36.727169,-108.215317,36.727169",
     "geom:latitude":36.727169,
     "geom:longitude":-108.215317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"726 W Animas St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202474585,
-    "wof:lastmodified":1449060203,
+    "wof:lastmodified":1466698881,
     "wof:name":"Bolt Masters Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "bolt"
     ]
 },
-  "bbox": [-108.215317,36.727169,-108.215317,36.727169],
+  "bbox": [
+    -108.215317,
+    36.727169,
+    -108.215317,
+    36.727169
+],
   "geometry": {"coordinates":[-108.215317,36.727169],"type":"Point"}
 }

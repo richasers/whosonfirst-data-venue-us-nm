@@ -2,13 +2,14 @@
   "id": 169771953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.543322,35.110009,-106.543322,35.110009",
     "geom:latitude":35.110009,
     "geom:longitude":-106.543322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8918 Woodland Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169771953,
-    "wof:lastmodified":1449034485,
+    "wof:lastmodified":1466698278,
     "wof:name":"Charm Senses",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.543322,35.110009,-106.543322,35.110009],
+  "bbox": [
+    -106.543322,
+    35.110009,
+    -106.543322,
+    35.110009
+],
   "geometry": {"coordinates":[-106.543322,35.110009],"type":"Point"}
 }

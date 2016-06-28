@@ -2,13 +2,14 @@
   "id": 185605215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.565505,35.067432,-106.565505,35.067432",
     "geom:latitude":35.067432,
     "geom:longitude":-106.565505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 Mesilla St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185605215,
-    "wof:lastmodified":1449007415,
+    "wof:lastmodified":1466697636,
     "wof:name":"Casa Mesilla Apartments",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-106.565505,35.067432,-106.565505,35.067432],
+  "bbox": [
+    -106.565505,
+    35.067432,
+    -106.565505,
+    35.067432
+],
   "geometry": {"coordinates":[-106.565505,35.067432],"type":"Point"}
 }

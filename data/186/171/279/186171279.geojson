@@ -2,13 +2,14 @@
   "id": 186171279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.344157,34.181058,-103.344157,34.181058",
     "geom:latitude":34.181058,
     "geom:longitude":-103.344157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 W 2nd St",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186171279,
-    "wof:lastmodified":1449053042,
+    "wof:lastmodified":1466697652,
     "wof:name":"College Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plant"
     ]
 },
-  "bbox": [-103.344157,34.181058,-103.344157,34.181058],
+  "bbox": [
+    -103.344157,
+    34.181058,
+    -103.344157,
+    34.181058
+],
   "geometry": {"coordinates":[-103.344157,34.181058],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185614547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.581901,35.077374,-106.581901,35.077374",
     "geom:latitude":35.077374,
     "geom:longitude":-106.581901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5715 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185614547,
-    "wof:lastmodified":1449008269,
+    "wof:lastmodified":1466697752,
     "wof:name":"Tewa Motor Lodge",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-106.581901,35.077374,-106.581901,35.077374],
+  "bbox": [
+    -106.581901,
+    35.077374,
+    -106.581901,
+    35.077374
+],
   "geometry": {"coordinates":[-106.581901,35.077374],"type":"Point"}
 }

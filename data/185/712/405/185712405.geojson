@@ -2,13 +2,14 @@
   "id": 185712405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.76001,32.275749,-106.76001,32.275749",
     "geom:latitude":32.275749,
     "geom:longitude":-106.76001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3950 Stern Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185712405,
-    "wof:lastmodified":1449007300,
+    "wof:lastmodified":1466698771,
     "wof:name":"Mission Bautista Westside",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.76001,32.275749,-106.76001,32.275749],
-  "geometry": {"coordinates":[-106.76001,32.275749],"type":"Point"}
+  "bbox": [
+    -106.76001,
+    32.275749,
+    -106.76001,
+    32.275749
+],
+  "geometry": {"coordinates":[-106.76000999999999,32.275749],"type":"Point"}
 }

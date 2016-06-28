@@ -2,13 +2,14 @@
   "id": 202946073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.020446,36.680904,-108.020446,36.680904",
     "geom:latitude":36.680904,
     "geom:longitude":-108.020446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Rd 5185",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202946073,
-    "wof:lastmodified":1449062344,
+    "wof:lastmodified":1466700533,
     "wof:name":"Genesis Dump Truck & Backhoe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-108.020446,36.680904,-108.020446,36.680904],
-  "geometry": {"coordinates":[-108.020446,36.680904],"type":"Point"}
+  "bbox": [
+    -108.020446,
+    36.680904,
+    -108.020446,
+    36.680904
+],
+  "geometry": {"coordinates":[-108.02044600000001,36.680904],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186049319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.171984,36.719231,-108.171984,36.719231",
     "geom:latitude":36.719231,
     "geom:longitude":-108.171984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Bloomfield Hwy",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186049319,
-    "wof:lastmodified":1449051705,
+    "wof:lastmodified":1466698245,
     "wof:name":"Star B Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-108.171984,36.719231,-108.171984,36.719231],
-  "geometry": {"coordinates":[-108.171984,36.719231],"type":"Point"}
+  "bbox": [
+    -108.171984,
+    36.719231,
+    -108.171984,
+    36.719231
+],
+  "geometry": {"coordinates":[-108.17198399999999,36.719231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186531463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.621668,35.118684,-106.621668,35.118684",
     "geom:latitude":35.118684,
     "geom:longitude":-106.621668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3324 Columbia Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186531463,
-    "wof:lastmodified":1449051038,
+    "wof:lastmodified":1466700329,
     "wof:name":"Mattress Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-106.621668,35.118684,-106.621668,35.118684],
+  "bbox": [
+    -106.621668,
+    35.118684,
+    -106.621668,
+    35.118684
+],
   "geometry": {"coordinates":[-106.621668,35.118684],"type":"Point"}
 }

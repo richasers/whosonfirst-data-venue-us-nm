@@ -2,13 +2,14 @@
   "id": 185908071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.74368,35.061731,-106.74368,35.061731",
     "geom:latitude":35.061731,
     "geom:longitude":-106.74368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 Terracotta Pl SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":185908071,
-    "wof:lastmodified":1449007519,
+    "wof:lastmodified":1466698632,
     "wof:name":"Pimentel Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.74368,35.061731,-106.74368,35.061731],
+  "bbox": [
+    -106.74368,
+    35.061731,
+    -106.74368,
+    35.061731
+],
   "geometry": {"coordinates":[-106.74368,35.061731],"type":"Point"}
 }

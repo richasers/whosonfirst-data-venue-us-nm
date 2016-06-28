@@ -2,13 +2,14 @@
   "id": 202686397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.5508,35.095878,-106.5508,35.095878",
     "geom:latitude":35.095878,
     "geom:longitude":-106.5508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1453 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202686397,
-    "wof:lastmodified":1449062037,
+    "wof:lastmodified":1466699545,
     "wof:name":"Lifetouch National Schl Studio",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.5508,35.095878,-106.5508,35.095878],
+  "bbox": [
+    -106.5508,
+    35.095878,
+    -106.5508,
+    35.095878
+],
   "geometry": {"coordinates":[-106.5508,35.095878],"type":"Point"}
 }

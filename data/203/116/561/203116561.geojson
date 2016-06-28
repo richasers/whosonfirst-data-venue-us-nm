@@ -2,13 +2,14 @@
   "id": 203116561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.513992,35.132385,-106.513992,35.132385",
     "geom:latitude":35.132385,
     "geom:longitude":-106.513992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11219 Nassau Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203116561,
-    "wof:lastmodified":1449025211,
+    "wof:lastmodified":1466698907,
     "wof:name":"Miss Debras Daycare",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.513992,35.132385,-106.513992,35.132385],
+  "bbox": [
+    -106.513992,
+    35.132385,
+    -106.513992,
+    35.132385
+],
   "geometry": {"coordinates":[-106.513992,35.132385],"type":"Point"}
 }

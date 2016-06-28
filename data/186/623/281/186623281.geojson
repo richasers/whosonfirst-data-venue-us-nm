@@ -2,13 +2,14 @@
   "id": 186623281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.542427,35.068516,-106.542427,35.068516",
     "geom:latitude":35.068516,
     "geom:longitude":-106.542427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 General Somervell St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186623281,
-    "wof:lastmodified":1449052241,
+    "wof:lastmodified":1466700606,
     "wof:name":"Air Rep Co",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-106.542427,35.068516,-106.542427,35.068516],
+  "bbox": [
+    -106.542427,
+    35.068516,
+    -106.542427,
+    35.068516
+],
   "geometry": {"coordinates":[-106.542427,35.068516],"type":"Point"}
 }

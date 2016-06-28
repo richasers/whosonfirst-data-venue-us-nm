@@ -2,13 +2,14 @@
   "id": 186190901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.829631,32.385721,-106.829631,32.385721",
     "geom:latitude":32.385721,
     "geom:longitude":-106.829631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5757 Leasburg Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186190901,
-    "wof:lastmodified":1449052860,
+    "wof:lastmodified":1466697907,
     "wof:name":"Archaeological Research Cons",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "archaeological"
     ]
 },
-  "bbox": [-106.829631,32.385721,-106.829631,32.385721],
-  "geometry": {"coordinates":[-106.829631,32.385721],"type":"Point"}
+  "bbox": [
+    -106.829631,
+    32.385721,
+    -106.829631,
+    32.385721
+],
+  "geometry": {"coordinates":[-106.82963100000001,32.385721],"type":"Point"}
 }

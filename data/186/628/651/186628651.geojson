@@ -2,13 +2,14 @@
   "id": 186628651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.141844,32.71969,-103.141844,32.71969",
     "geom:latitude":32.71969,
     "geom:longitude":-103.141844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1937 N Turner St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186628651,
-    "wof:lastmodified":1449052503,
+    "wof:lastmodified":1466700815,
     "wof:name":"Karnival Snow Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-103.141844,32.71969,-103.141844,32.71969],
-  "geometry": {"coordinates":[-103.141844,32.71969],"type":"Point"}
+  "bbox": [
+    -103.141844,
+    32.71969,
+    -103.141844,
+    32.71969
+],
+  "geometry": {"coordinates":[-103.14184400000001,32.71969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202859081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.987614,32.876066,-105.987614,32.876066",
     "geom:latitude":32.876066,
     "geom:longitude":-105.987614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Zuni Dr",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202859081,
-    "wof:lastmodified":1449061911,
+    "wof:lastmodified":1466700088,
     "wof:name":"General Hydronics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.987614,32.876066,-105.987614,32.876066],
-  "geometry": {"coordinates":[-105.987614,32.876066],"type":"Point"}
+  "bbox": [
+    -105.987614,
+    32.876066,
+    -105.987614,
+    32.876066
+],
+  "geometry": {"coordinates":[-105.98761399999999,32.876066],"type":"Point"}
 }

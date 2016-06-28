@@ -2,13 +2,14 @@
   "id": 185641419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.611822,35.071192,-106.611822,35.071192",
     "geom:latitude":35.071192,
     "geom:longitude":-106.611822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2912 Monterey Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185641419,
-    "wof:lastmodified":1449007844,
+    "wof:lastmodified":1466698050,
     "wof:name":"Insanity House Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.611822,35.071192,-106.611822,35.071192],
+  "bbox": [
+    -106.611822,
+    35.071192,
+    -106.611822,
+    35.071192
+],
   "geometry": {"coordinates":[-106.611822,35.071192],"type":"Point"}
 }

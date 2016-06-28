@@ -2,13 +2,14 @@
   "id": 185740581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649041,35.011477,-106.649041,35.011477",
     "geom:latitude":35.011477,
     "geom:longitude":-106.649041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4330 Broadway Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185740581,
-    "wof:lastmodified":1449007350,
+    "wof:lastmodified":1466699081,
     "wof:name":"S A Autosales",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.649041,35.011477,-106.649041,35.011477],
+  "bbox": [
+    -106.649041,
+    35.011477,
+    -106.649041,
+    35.011477
+],
   "geometry": {"coordinates":[-106.649041,35.011477],"type":"Point"}
 }

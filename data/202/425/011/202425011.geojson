@@ -2,13 +2,14 @@
   "id": 202425011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.196608,34.409738,-103.196608,34.409738",
     "geom:latitude":34.409738,
     "geom:longitude":-103.196608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 N Prince St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202425011,
-    "wof:lastmodified":1449060998,
+    "wof:lastmodified":1466699415,
     "wof:name":"H2O Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "company"
     ]
 },
-  "bbox": [-103.196608,34.409738,-103.196608,34.409738],
+  "bbox": [
+    -103.196608,
+    34.409738,
+    -103.196608,
+    34.409738
+],
   "geometry": {"coordinates":[-103.196608,34.409738],"type":"Point"}
 }

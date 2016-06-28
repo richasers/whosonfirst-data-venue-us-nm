@@ -2,13 +2,14 @@
   "id": 185976789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.948316,35.661922,-105.948316,35.661922",
     "geom:latitude":35.661922,
     "geom:longitude":-105.948316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1651 Hospital Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185976789,
-    "wof:lastmodified":1449007269,
+    "wof:lastmodified":1466699466,
     "wof:name":"St Vincent Hospital Pain Mgmt",
     "wof:parent_id":85880837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-105.948316,35.661922,-105.948316,35.661922],
-  "geometry": {"coordinates":[-105.948316,35.661922],"type":"Point"}
+  "bbox": [
+    -105.948316,
+    35.661922,
+    -105.948316,
+    35.661922
+],
+  "geometry": {"coordinates":[-105.94831600000001,35.661922],"type":"Point"}
 }

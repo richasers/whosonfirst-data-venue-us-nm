@@ -2,13 +2,14 @@
   "id": 203031737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.768441,32.287922,-106.768441,32.287922",
     "geom:latitude":32.287922,
     "geom:longitude":-106.768441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"460 Farney Ln",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203031737,
-    "wof:lastmodified":1449025620,
+    "wof:lastmodified":1466697942,
     "wof:name":"Las Cruces Tree Svc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-106.768441,32.287922,-106.768441,32.287922],
+  "bbox": [
+    -106.768441,
+    32.287922,
+    -106.768441,
+    32.287922
+],
   "geometry": {"coordinates":[-106.768441,32.287922],"type":"Point"}
 }

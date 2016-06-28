@@ -2,13 +2,14 @@
   "id": 169768105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.75808,34.748006,-106.75808,34.748006",
     "geom:latitude":34.748006,
     "geom:longitude":-106.75808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"544 Peyton Rd",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169768105,
-    "wof:lastmodified":1449033953,
+    "wof:lastmodified":1466699415,
     "wof:name":"TA Gonzales Trucking",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-106.75808,34.748006,-106.75808,34.748006],
-  "geometry": {"coordinates":[-106.75808,34.748006],"type":"Point"}
+  "bbox": [
+    -106.75808,
+    34.748006,
+    -106.75808,
+    34.748006
+],
+  "geometry": {"coordinates":[-106.75808000000001,34.748006],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219794435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.625871,31.862406,-106.625871,31.862406",
     "geom:latitude":31.862406,
     "geom:longitude":-106.625871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5630 Westside Dr",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219794435,
-    "wof:lastmodified":1449072090,
+    "wof:lastmodified":1466699174,
     "wof:name":"Foote Investments Ltd",
     "wof:parent_id":85839675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-106.625871,31.862406,-106.625871,31.862406],
+  "bbox": [
+    -106.625871,
+    31.862406,
+    -106.625871,
+    31.862406
+],
   "geometry": {"coordinates":[-106.625871,31.862406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185871493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.575029,35.148156,-106.575029,35.148156",
     "geom:latitude":35.148156,
     "geom:longitude":-106.575029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6437 Cathy Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185871493,
-    "wof:lastmodified":1449007118,
+    "wof:lastmodified":1466698225,
     "wof:name":"Cheyenne Welding",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-106.575029,35.148156,-106.575029,35.148156],
+  "bbox": [
+    -106.575029,
+    35.148156,
+    -106.575029,
+    35.148156
+],
   "geometry": {"coordinates":[-106.575029,35.148156],"type":"Point"}
 }

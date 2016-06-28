@@ -2,13 +2,14 @@
   "id": 202772743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.948559,35.681847,-105.948559,35.681847",
     "geom:latitude":35.681847,
     "geom:longitude":-105.948559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 Pso de Peralta",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202772743,
-    "wof:lastmodified":1449061266,
+    "wof:lastmodified":1466699853,
     "wof:name":"Box Gallery",
     "wof:parent_id":85880805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.948559,35.681847,-105.948559,35.681847],
+  "bbox": [
+    -105.948559,
+    35.681847,
+    -105.948559,
+    35.681847
+],
   "geometry": {"coordinates":[-105.948559,35.681847],"type":"Point"}
 }

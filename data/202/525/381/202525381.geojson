@@ -2,13 +2,14 @@
   "id": 202525381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.917597,35.693511,-105.917597,35.693511",
     "geom:latitude":35.693511,
     "geom:longitude":-105.917597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 Ave Castellano",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202525381,
-    "wof:lastmodified":1449062133,
+    "wof:lastmodified":1466699274,
     "wof:name":"Cliff Joslyn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "computer"
     ]
 },
-  "bbox": [-105.917597,35.693511,-105.917597,35.693511],
+  "bbox": [
+    -105.917597,
+    35.693511,
+    -105.917597,
+    35.693511
+],
   "geometry": {"coordinates":[-105.917597,35.693511],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185653401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.775086,32.323737,-106.775086,32.323737",
     "geom:latitude":32.323737,
     "geom:longitude":-106.775086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 N Solano Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185653401,
-    "wof:lastmodified":1449006722,
+    "wof:lastmodified":1466698166,
     "wof:name":"Rivers Academy",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.775086,32.323737,-106.775086,32.323737],
+  "bbox": [
+    -106.775086,
+    32.323737,
+    -106.775086,
+    32.323737
+],
   "geometry": {"coordinates":[-106.775086,32.323737],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353966385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.554359,35.181493,-106.554359,35.181493",
     "geom:latitude":35.181493,
     "geom:longitude":-106.554359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7801 Wilshire Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353966385,
-    "wof:lastmodified":1449018279,
+    "wof:lastmodified":1466698917,
     "wof:name":"La Cueva High School",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "high"
     ]
 },
-  "bbox": [-106.554359,35.181493,-106.554359,35.181493],
-  "geometry": {"coordinates":[-106.554359,35.181493],"type":"Point"}
+  "bbox": [
+    -106.554359,
+    35.181493,
+    -106.554359,
+    35.181493
+],
+  "geometry": {"coordinates":[-106.55435900000001,35.181493],"type":"Point"}
 }

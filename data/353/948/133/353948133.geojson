@@ -2,13 +2,14 @@
   "id": 353948133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.517311,35.14185,-106.517311,35.14185",
     "geom:latitude":35.14185,
     "geom:longitude":-106.517311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11000 Spain Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353948133,
-    "wof:lastmodified":1449020296,
+    "wof:lastmodified":1466698514,
     "wof:name":"duLin Loyce LMT. CLT. Lic. # 275",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reflexology"
     ]
 },
-  "bbox": [-106.517311,35.14185,-106.517311,35.14185],
-  "geometry": {"coordinates":[-106.517311,35.14185],"type":"Point"}
+  "bbox": [
+    -106.517311,
+    35.14185,
+    -106.517311,
+    35.14185
+],
+  "geometry": {"coordinates":[-106.51731100000001,35.14185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202867977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.727115,34.811534,-106.727115,34.811534",
     "geom:latitude":34.811534,
     "geom:longitude":-106.727115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 Los Lentes Rd NE",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202867977,
-    "wof:lastmodified":1449061215,
+    "wof:lastmodified":1466700340,
     "wof:name":"Christian Fellowship",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.727115,34.811534,-106.727115,34.811534],
+  "bbox": [
+    -106.727115,
+    34.811534,
+    -106.727115,
+    34.811534
+],
   "geometry": {"coordinates":[-106.727115,34.811534],"type":"Point"}
 }

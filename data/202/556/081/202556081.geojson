@@ -2,13 +2,14 @@
   "id": 202556081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.85997,33.681247,-108.85997,33.681247",
     "geom:latitude":33.681247,
     "geom:longitude":-108.85997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Juniper St",
     "sg:city":"Reserve",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202556081,
-    "wof:lastmodified":1449060745,
+    "wof:lastmodified":1466697730,
     "wof:name":"Roper Debbra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-108.85997,33.681247,-108.85997,33.681247],
+  "bbox": [
+    -108.85997,
+    33.681247,
+    -108.85997,
+    33.681247
+],
   "geometry": {"coordinates":[-108.85997,33.681247],"type":"Point"}
 }

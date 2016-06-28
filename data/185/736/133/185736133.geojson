@@ -2,13 +2,14 @@
   "id": 185736133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.019964,35.94091,-106.019964,35.94091",
     "geom:latitude":35.94091,
     "geom:longitude":-106.019964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Meyers Rd",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185736133,
-    "wof:lastmodified":1449008172,
+    "wof:lastmodified":1466699035,
     "wof:name":"Bluewter Arbans-Angela Tilford",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.019964,35.94091,-106.019964,35.94091],
+  "bbox": [
+    -106.019964,
+    35.94091,
+    -106.019964,
+    35.94091
+],
   "geometry": {"coordinates":[-106.019964,35.94091],"type":"Point"}
 }

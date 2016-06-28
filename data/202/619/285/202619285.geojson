@@ -2,13 +2,14 @@
   "id": 202619285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.520039,35.144989,-106.520039,35.144989",
     "geom:latitude":35.144989,
     "geom:longitude":-106.520039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5809 Juan Tabo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202619285,
-    "wof:lastmodified":1449060559,
+    "wof:lastmodified":1466698663,
     "wof:name":"Leishmann Interiors",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "decorator"
     ]
 },
-  "bbox": [-106.520039,35.144989,-106.520039,35.144989],
+  "bbox": [
+    -106.520039,
+    35.144989,
+    -106.520039,
+    35.144989
+],
   "geometry": {"coordinates":[-106.520039,35.144989],"type":"Point"}
 }

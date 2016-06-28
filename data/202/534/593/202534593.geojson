@@ -2,13 +2,14 @@
   "id": 202534593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.318952,35.155895,-106.318952,35.155895",
     "geom:latitude":35.155895,
     "geom:longitude":-106.318952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Bobcat Hill Rd",
     "sg:city":"Sandia Park",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202534593,
-    "wof:lastmodified":1449060775,
+    "wof:lastmodified":1466699294,
     "wof:name":"Moore Tech Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.318952,35.155895,-106.318952,35.155895],
+  "bbox": [
+    -106.318952,
+    35.155895,
+    -106.318952,
+    35.155895
+],
   "geometry": {"coordinates":[-106.318952,35.155895],"type":"Point"}
 }

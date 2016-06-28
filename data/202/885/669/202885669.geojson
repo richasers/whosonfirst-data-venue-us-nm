@@ -2,13 +2,14 @@
   "id": 202885669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.563029,35.168271,-106.563029,35.168271",
     "geom:latitude":35.168271,
     "geom:longitude":-106.563029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7227 Gallinas Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202885669,
-    "wof:lastmodified":1449061455,
+    "wof:lastmodified":1466700297,
     "wof:name":"Hope For Tommorrow",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sales"
     ]
 },
-  "bbox": [-106.563029,35.168271,-106.563029,35.168271],
+  "bbox": [
+    -106.563029,
+    35.168271,
+    -106.563029,
+    35.168271
+],
   "geometry": {"coordinates":[-106.563029,35.168271],"type":"Point"}
 }

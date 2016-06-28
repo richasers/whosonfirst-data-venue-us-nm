@@ -2,13 +2,14 @@
   "id": 202493129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.519073,33.374047,-104.519073,33.374047",
     "geom:latitude":33.374047,
     "geom:longitude":-104.519073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1612 SE Main St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202493129,
-    "wof:lastmodified":1449060913,
+    "wof:lastmodified":1466699078,
     "wof:name":"Terrace Hills Miniature Golf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "golf"
     ]
 },
-  "bbox": [-104.519073,33.374047,-104.519073,33.374047],
-  "geometry": {"coordinates":[-104.519073,33.374047],"type":"Point"}
+  "bbox": [
+    -104.519073,
+    33.374047,
+    -104.519073,
+    33.374047
+],
+  "geometry": {"coordinates":[-104.51907300000001,33.374047],"type":"Point"}
 }

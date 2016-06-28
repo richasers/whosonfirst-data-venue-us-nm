@@ -2,13 +2,14 @@
   "id": 202572589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.616624,35.170377,-106.616624,35.170377",
     "geom:latitude":35.170377,
     "geom:longitude":-106.616624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7933 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202572589,
-    "wof:lastmodified":1449061676,
+    "wof:lastmodified":1466697975,
     "wof:name":"Sealant Specialists Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.616624,35.170377,-106.616624,35.170377],
+  "bbox": [
+    -106.616624,
+    35.170377,
+    -106.616624,
+    35.170377
+],
   "geometry": {"coordinates":[-106.616624,35.170377],"type":"Point"}
 }

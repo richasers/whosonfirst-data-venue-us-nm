@@ -2,13 +2,14 @@
   "id": 186518859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615685,35.244637,-106.615685,35.244637",
     "geom:latitude":35.244637,
     "geom:longitude":-106.615685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Pauline Ct",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186518859,
-    "wof:lastmodified":1449051897,
+    "wof:lastmodified":1466700201,
     "wof:name":"Valiant Air Conditioning",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.615685,35.244637,-106.615685,35.244637],
+  "bbox": [
+    -106.615685,
+    35.244637,
+    -106.615685,
+    35.244637
+],
   "geometry": {"coordinates":[-106.615685,35.244637],"type":"Point"}
 }

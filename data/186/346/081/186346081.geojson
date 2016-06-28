@@ -2,13 +2,14 @@
   "id": 186346081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.77488,32.34196,-106.77488,32.34196",
     "geom:latitude":32.34196,
     "geom:longitude":-106.77488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 N Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186346081,
-    "wof:lastmodified":1449050240,
+    "wof:lastmodified":1466699663,
     "wof:name":"Country Club Shell Self-Serve",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-106.77488,32.34196,-106.77488,32.34196],
+  "bbox": [
+    -106.77488,
+    32.34196,
+    -106.77488,
+    32.34196
+],
   "geometry": {"coordinates":[-106.77488,32.34196],"type":"Point"}
 }

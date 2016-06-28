@@ -2,13 +2,14 @@
   "id": 185950177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.577643,35.105035,-106.577643,35.105035",
     "geom:latitude":35.105035,
     "geom:longitude":-106.577643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2325 San Pedro Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185950177,
-    "wof:lastmodified":1449007252,
+    "wof:lastmodified":1466699221,
     "wof:name":"Shockwave Defense",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instr"
     ]
 },
-  "bbox": [-106.577643,35.105035,-106.577643,35.105035],
-  "geometry": {"coordinates":[-106.577643,35.105035],"type":"Point"}
+  "bbox": [
+    -106.577643,
+    35.105035,
+    -106.577643,
+    35.105035
+],
+  "geometry": {"coordinates":[-106.57764299999999,35.105035],"type":"Point"}
 }

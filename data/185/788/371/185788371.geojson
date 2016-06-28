@@ -2,13 +2,14 @@
   "id": 185788371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.192554,36.733502,-108.192554,36.733502",
     "geom:latitude":36.733502,
     "geom:longitude":-108.192554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185788371,
-    "wof:lastmodified":1449007459,
+    "wof:lastmodified":1466699298,
     "wof:name":"Latin Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-108.192554,36.733502,-108.192554,36.733502],
+  "bbox": [
+    -108.192554,
+    36.733502,
+    -108.192554,
+    36.733502
+],
   "geometry": {"coordinates":[-108.192554,36.733502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202625225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.795628,32.30415,-106.795628,32.30415",
     "geom:latitude":32.30415,
     "geom:longitude":-106.795628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 W Amador Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202625225,
-    "wof:lastmodified":1449062695,
+    "wof:lastmodified":1466698760,
     "wof:name":"Casey Carpets Of Las Cruces",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-106.795628,32.30415,-106.795628,32.30415],
-  "geometry": {"coordinates":[-106.795628,32.30415],"type":"Point"}
+  "bbox": [
+    -106.795628,
+    32.30415,
+    -106.795628,
+    32.30415
+],
+  "geometry": {"coordinates":[-106.79562799999999,32.30415],"type":"Point"}
 }

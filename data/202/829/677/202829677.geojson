@@ -2,13 +2,14 @@
   "id": 202829677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.007653,32.954029,-106.007653,32.954029",
     "geom:latitude":32.954029,
     "geom:longitude":-106.007653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Country Ln",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202829677,
-    "wof:lastmodified":1449062477,
+    "wof:lastmodified":1466700108,
     "wof:name":"Waggin' Tails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sitting"
     ]
 },
-  "bbox": [-106.007653,32.954029,-106.007653,32.954029],
+  "bbox": [
+    -106.007653,
+    32.954029,
+    -106.007653,
+    32.954029
+],
   "geometry": {"coordinates":[-106.007653,32.954029],"type":"Point"}
 }

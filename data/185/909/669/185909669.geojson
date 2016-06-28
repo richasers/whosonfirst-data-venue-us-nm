@@ -2,13 +2,14 @@
   "id": 185909669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.96031,32.892919,-105.96031,32.892919",
     "geom:latitude":32.892919,
     "geom:longitude":-105.96031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185909669,
-    "wof:lastmodified":1449007816,
+    "wof:lastmodified":1466698655,
     "wof:name":"Claxton's Electronic Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-105.96031,32.892919,-105.96031,32.892919],
-  "geometry": {"coordinates":[-105.96031,32.892919],"type":"Point"}
+  "bbox": [
+    -105.96031,
+    32.892919,
+    -105.96031,
+    32.892919
+],
+  "geometry": {"coordinates":[-105.96031000000001,32.892919],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203061013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.401323,36.706275,-105.401323,36.706275",
     "geom:latitude":36.706275,
     "geom:longitude":-105.401323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 E High St",
     "sg:city":"Red River",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203061013,
-    "wof:lastmodified":1449026338,
+    "wof:lastmodified":1466699415,
     "wof:name":"Erik's Workshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.401323,36.706275,-105.401323,36.706275],
+  "bbox": [
+    -105.401323,
+    36.706275,
+    -105.401323,
+    36.706275
+],
   "geometry": {"coordinates":[-105.401323,36.706275],"type":"Point"}
 }

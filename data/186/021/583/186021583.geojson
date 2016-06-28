@@ -2,13 +2,14 @@
   "id": 186021583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.253231,33.129446,-107.253231,33.129446",
     "geom:latitude":33.129446,
     "geom:longitude":-107.253231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Jones St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186021583,
-    "wof:lastmodified":1449052063,
+    "wof:lastmodified":1466697928,
     "wof:name":"El Rio Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "cassette"
     ]
 },
-  "bbox": [-107.253231,33.129446,-107.253231,33.129446],
+  "bbox": [
+    -107.253231,
+    33.129446,
+    -107.253231,
+    33.129446
+],
   "geometry": {"coordinates":[-107.253231,33.129446],"type":"Point"}
 }

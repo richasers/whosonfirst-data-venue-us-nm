@@ -2,13 +2,14 @@
   "id": 169862777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.537758,35.175645,-106.537758,35.175645",
     "geom:latitude":35.175645,
     "geom:longitude":-106.537758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9400 Holly Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169862777,
-    "wof:lastmodified":1449036045,
+    "wof:lastmodified":1466698958,
     "wof:name":"Trinity Real Estate",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.537758,35.175645,-106.537758,35.175645],
+  "bbox": [
+    -106.537758,
+    35.175645,
+    -106.537758,
+    35.175645
+],
   "geometry": {"coordinates":[-106.537758,35.175645],"type":"Point"}
 }

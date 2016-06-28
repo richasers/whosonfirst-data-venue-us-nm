@@ -2,13 +2,14 @@
   "id": 186223835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.13938,32.711098,-103.13938,32.711098",
     "geom:latitude":32.711098,
     "geom:longitude":-103.13938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 W Sanger St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186223835,
-    "wof:lastmodified":1449050438,
+    "wof:lastmodified":1466698318,
     "wof:name":"Sharp Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "appliance"
     ]
 },
-  "bbox": [-103.13938,32.711098,-103.13938,32.711098],
+  "bbox": [
+    -103.13938,
+    32.711098,
+    -103.13938,
+    32.711098
+],
   "geometry": {"coordinates":[-103.13938,32.711098],"type":"Point"}
 }

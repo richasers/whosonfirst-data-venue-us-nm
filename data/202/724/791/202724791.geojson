@@ -2,13 +2,14 @@
   "id": 202724791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.718636,35.009175,-106.718636,35.009175",
     "geom:latitude":35.009175,
     "geom:longitude":-106.718636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2922 Don Pablito Pl SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202724791,
-    "wof:lastmodified":1449062576,
+    "wof:lastmodified":1466699821,
     "wof:name":"Walker Home Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "deck"
     ]
 },
-  "bbox": [-106.718636,35.009175,-106.718636,35.009175],
+  "bbox": [
+    -106.718636,
+    35.009175,
+    -106.718636,
+    35.009175
+],
   "geometry": {"coordinates":[-106.718636,35.009175],"type":"Point"}
 }

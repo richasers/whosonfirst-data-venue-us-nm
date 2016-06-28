@@ -2,13 +2,14 @@
   "id": 353928297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.616762,35.08094,-106.616762,35.08094",
     "geom:latitude":35.08094,
     "geom:longitude":-106.616762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2622 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353928297,
-    "wof:lastmodified":1449020454,
+    "wof:lastmodified":1466697955,
     "wof:name":"Sahara Middle Eastern Eatery",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "eastern"
     ]
 },
-  "bbox": [-106.616762,35.08094,-106.616762,35.08094],
-  "geometry": {"coordinates":[-106.616762,35.08094],"type":"Point"}
+  "bbox": [
+    -106.616762,
+    35.08094,
+    -106.616762,
+    35.08094
+],
+  "geometry": {"coordinates":[-106.61676199999999,35.08094],"type":"Point"}
 }

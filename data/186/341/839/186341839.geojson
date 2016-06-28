@@ -2,13 +2,14 @@
   "id": 186341839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.144765,32.720131,-103.144765,32.720131",
     "geom:latitude":32.720131,
     "geom:longitude":-103.144765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1902 N Grimes St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186341839,
-    "wof:lastmodified":1449052919,
+    "wof:lastmodified":1466699491,
     "wof:name":"Lea County Truck and Auto Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-103.144765,32.720131,-103.144765,32.720131],
-  "geometry": {"coordinates":[-103.144765,32.720131],"type":"Point"}
+  "bbox": [
+    -103.144765,
+    32.720131,
+    -103.144765,
+    32.720131
+],
+  "geometry": {"coordinates":[-103.14476500000001,32.720131],"type":"Point"}
 }

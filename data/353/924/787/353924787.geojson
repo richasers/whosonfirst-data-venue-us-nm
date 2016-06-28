@@ -2,13 +2,14 @@
   "id": 353924787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.712269,34.971335,-106.712269,34.971335",
     "geom:latitude":34.971335,
     "geom:longitude":-106.712269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 Halcon Pl SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353924787,
-    "wof:lastmodified":1449018975,
+    "wof:lastmodified":1466697859,
     "wof:name":"Rice Enterprise Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.712269,34.971335,-106.712269,34.971335],
-  "geometry": {"coordinates":[-106.712269,34.971335],"type":"Point"}
+  "bbox": [
+    -106.712269,
+    34.971335,
+    -106.712269,
+    34.971335
+],
+  "geometry": {"coordinates":[-106.71226900000001,34.971335],"type":"Point"}
 }

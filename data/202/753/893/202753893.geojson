@@ -2,13 +2,14 @@
   "id": 202753893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.953588,36.711939,-107.953588,36.711939",
     "geom:latitude":36.711939,
     "geom:longitude":-107.953588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Palamino Ln",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202753893,
-    "wof:lastmodified":1449060406,
+    "wof:lastmodified":1466699799,
     "wof:name":"Jbd Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-107.953588,36.711939,-107.953588,36.711939],
+  "bbox": [
+    -107.953588,
+    36.711939,
+    -107.953588,
+    36.711939
+],
   "geometry": {"coordinates":[-107.953588,36.711939],"type":"Point"}
 }

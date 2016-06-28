@@ -2,13 +2,14 @@
   "id": 186075817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.220872,35.576488,-105.220872,35.576488",
     "geom:latitude":35.576488,
     "geom:longitude":-105.220872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 New Mexico Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186075817,
-    "wof:lastmodified":1449051840,
+    "wof:lastmodified":1466698578,
     "wof:name":"A Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-105.220872,35.576488,-105.220872,35.576488],
+  "bbox": [
+    -105.220872,
+    35.576488,
+    -105.220872,
+    35.576488
+],
   "geometry": {"coordinates":[-105.220872,35.576488],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186413109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.707632,35.080544,-106.707632,35.080544",
     "geom:latitude":35.080544,
     "geom:longitude":-106.707632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6314 Central Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186413109,
-    "wof:lastmodified":1449050812,
+    "wof:lastmodified":1466699887,
     "wof:name":"Joe Ortiz Transmissions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "automatic"
     ]
 },
-  "bbox": [-106.707632,35.080544,-106.707632,35.080544],
+  "bbox": [
+    -106.707632,
+    35.080544,
+    -106.707632,
+    35.080544
+],
   "geometry": {"coordinates":[-106.707632,35.080544],"type":"Point"}
 }

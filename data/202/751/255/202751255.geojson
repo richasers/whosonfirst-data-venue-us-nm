@@ -2,13 +2,14 @@
   "id": 202751255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.162111,32.725087,-103.162111,32.725087",
     "geom:latitude":32.725087,
     "geom:longitude":-103.162111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2139 N French Dr",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202751255,
-    "wof:lastmodified":1449060246,
+    "wof:lastmodified":1466699785,
     "wof:name":"Bighorn Investments Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-103.162111,32.725087,-103.162111,32.725087],
+  "bbox": [
+    -103.162111,
+    32.725087,
+    -103.162111,
+    32.725087
+],
   "geometry": {"coordinates":[-103.162111,32.725087],"type":"Point"}
 }

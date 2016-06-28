@@ -2,13 +2,14 @@
   "id": 186593797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.274301,32.775388,-108.274301,32.775388",
     "geom:latitude":32.775388,
     "geom:longitude":-108.274301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 N Hudson St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186593797,
-    "wof:lastmodified":1449052145,
+    "wof:lastmodified":1466700616,
     "wof:name":"Rhonda K Van Dran OD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.274301,32.775388,-108.274301,32.775388],
-  "geometry": {"coordinates":[-108.274301,32.775388],"type":"Point"}
+  "bbox": [
+    -108.274301,
+    32.775388,
+    -108.274301,
+    32.775388
+],
+  "geometry": {"coordinates":[-108.27430099999999,32.775388],"type":"Point"}
 }

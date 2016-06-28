@@ -2,13 +2,14 @@
   "id": 202933741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.631668,35.153612,-106.631668,35.153612",
     "geom:latitude":35.153612,
     "geom:longitude":-106.631668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6608 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202933741,
-    "wof:lastmodified":1449060629,
+    "wof:lastmodified":1466700493,
     "wof:name":"Kirkpatrick & Assoc",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-106.631668,35.153612,-106.631668,35.153612],
+  "bbox": [
+    -106.631668,
+    35.153612,
+    -106.631668,
+    35.153612
+],
   "geometry": {"coordinates":[-106.631668,35.153612],"type":"Point"}
 }

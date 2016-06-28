@@ -2,13 +2,14 @@
   "id": 185946007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.116314,32.723846,-103.116314,32.723846",
     "geom:latitude":32.723846,
     "geom:longitude":-103.116314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1709 E Rose Ln",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185946007,
-    "wof:lastmodified":1449008029,
+    "wof:lastmodified":1466699158,
     "wof:name":"Jamie Patterson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-103.116314,32.723846,-103.116314,32.723846],
+  "bbox": [
+    -103.116314,
+    32.723846,
+    -103.116314,
+    32.723846
+],
   "geometry": {"coordinates":[-103.116314,32.723846],"type":"Point"}
 }

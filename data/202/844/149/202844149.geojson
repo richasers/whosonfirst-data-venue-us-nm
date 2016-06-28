@@ -2,13 +2,14 @@
   "id": 202844149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.21799,35.614164,-105.21799,35.614164",
     "geom:latitude":35.614164,
     "geom:longitude":-105.21799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Christine Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202844149,
-    "wof:lastmodified":1449061193,
+    "wof:lastmodified":1466700149,
     "wof:name":"Taicherts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "sportswear"
     ]
 },
-  "bbox": [-105.21799,35.614164,-105.21799,35.614164],
+  "bbox": [
+    -105.21799,
+    35.614164,
+    -105.21799,
+    35.614164
+],
   "geometry": {"coordinates":[-105.21799,35.614164],"type":"Point"}
 }

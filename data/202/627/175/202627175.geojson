@@ -2,13 +2,14 @@
   "id": 202627175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.496995,35.093169,-106.496995,35.093169",
     "geom:latitude":35.093169,
     "geom:longitude":-106.496995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 Jewett Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202627175,
-    "wof:lastmodified":1449062719,
+    "wof:lastmodified":1466698790,
     "wof:name":"She Sales",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.496995,35.093169,-106.496995,35.093169],
+  "bbox": [
+    -106.496995,
+    35.093169,
+    -106.496995,
+    35.093169
+],
   "geometry": {"coordinates":[-106.496995,35.093169],"type":"Point"}
 }

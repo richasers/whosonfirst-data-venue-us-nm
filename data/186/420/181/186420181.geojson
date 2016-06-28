@@ -2,13 +2,14 @@
   "id": 186420181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.659339,35.088078,-106.659339,35.088078",
     "geom:latitude":35.088078,
     "geom:longitude":-106.659339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Tijeras Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186420181,
-    "wof:lastmodified":1449051664,
+    "wof:lastmodified":1466700028,
     "wof:name":"Center For Holistic Resource",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "org"
     ]
 },
-  "bbox": [-106.659339,35.088078,-106.659339,35.088078],
+  "bbox": [
+    -106.659339,
+    35.088078,
+    -106.659339,
+    35.088078
+],
   "geometry": {"coordinates":[-106.659339,35.088078],"type":"Point"}
 }

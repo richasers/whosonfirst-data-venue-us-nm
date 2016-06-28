@@ -2,13 +2,14 @@
   "id": 186590393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.011863,36.826695,-108.011863,36.826695",
     "geom:latitude":36.826695,
     "geom:longitude":-108.011863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1524 W Aztec Blvd",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186590393,
-    "wof:lastmodified":1449051965,
+    "wof:lastmodified":1466700608,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.011863,36.826695,-108.011863,36.826695],
-  "geometry": {"coordinates":[-108.011863,36.826695],"type":"Point"}
+  "bbox": [
+    -108.011863,
+    36.826695,
+    -108.011863,
+    36.826695
+],
+  "geometry": {"coordinates":[-108.01186300000001,36.826695],"type":"Point"}
 }

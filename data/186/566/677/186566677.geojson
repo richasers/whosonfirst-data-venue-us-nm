@@ -2,13 +2,14 @@
   "id": 186566677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.596185,35.124063,-106.596185,35.124063",
     "geom:latitude":35.124063,
     "geom:longitude":-106.596185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 Palo Duro Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":186566677,
-    "wof:lastmodified":1449050318,
+    "wof:lastmodified":1466700531,
     "wof:name":"Casias Louise Typeset & Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "typesetting"
     ]
 },
-  "bbox": [-106.596185,35.124063,-106.596185,35.124063],
-  "geometry": {"coordinates":[-106.596185,35.124063],"type":"Point"}
+  "bbox": [
+    -106.596185,
+    35.124063,
+    -106.596185,
+    35.124063
+],
+  "geometry": {"coordinates":[-106.59618500000001,35.124063],"type":"Point"}
 }

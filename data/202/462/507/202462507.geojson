@@ -2,13 +2,14 @@
   "id": 202462507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.704325,35.074187,-106.704325,35.074187",
     "geom:latitude":35.074187,
     "geom:longitude":-106.704325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6220 Trujillo Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202462507,
-    "wof:lastmodified":1449062541,
+    "wof:lastmodified":1466698651,
     "wof:name":"Complete Carpet & Tile",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-106.704325,35.074187,-106.704325,35.074187],
+  "bbox": [
+    -106.704325,
+    35.074187,
+    -106.704325,
+    35.074187
+],
   "geometry": {"coordinates":[-106.704325,35.074187],"type":"Point"}
 }

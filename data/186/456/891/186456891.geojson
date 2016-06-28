@@ -2,13 +2,14 @@
   "id": 186456891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.826895,35.537763,-105.826895,35.537763",
     "geom:latitude":35.537763,
     "geom:longitude":-105.826895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Old Canoncito Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186456891,
-    "wof:lastmodified":1449051173,
+    "wof:lastmodified":1466699967,
     "wof:name":"Southwest Environments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "soil"
     ]
 },
-  "bbox": [-105.826895,35.537763,-105.826895,35.537763],
-  "geometry": {"coordinates":[-105.826895,35.537763],"type":"Point"}
+  "bbox": [
+    -105.826895,
+    35.537763,
+    -105.826895,
+    35.537763
+],
+  "geometry": {"coordinates":[-105.82689499999999,35.537763],"type":"Point"}
 }

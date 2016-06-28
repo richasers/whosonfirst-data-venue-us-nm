@@ -2,13 +2,14 @@
   "id": 202795707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.318588,34.267047,-103.318588,34.267047",
     "geom:latitude":34.267047,
     "geom:longitude":-103.318588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"493 State Hwy 467",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202795707,
-    "wof:lastmodified":1449061611,
+    "wof:lastmodified":1466700065,
     "wof:name":"4 Way Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.318588,34.267047,-103.318588,34.267047],
-  "geometry": {"coordinates":[-103.318588,34.267047],"type":"Point"}
+  "bbox": [
+    -103.318588,
+    34.267047,
+    -103.318588,
+    34.267047
+],
+  "geometry": {"coordinates":[-103.31858800000001,34.267047],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186360411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.889609,35.589556,-105.889609,35.589556",
     "geom:latitude":35.589556,
     "geom:longitude":-105.889609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Bob Cat Trl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186360411,
-    "wof:lastmodified":1449052389,
+    "wof:lastmodified":1466699582,
     "wof:name":"Dessauer Building Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.889609,35.589556,-105.889609,35.589556],
-  "geometry": {"coordinates":[-105.889609,35.589556],"type":"Point"}
+  "bbox": [
+    -105.889609,
+    35.589556,
+    -105.889609,
+    35.589556
+],
+  "geometry": {"coordinates":[-105.88960899999999,35.589556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186064867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.767856,34.686878,-106.767856,34.686878",
     "geom:latitude":34.686878,
     "geom:longitude":-106.767856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19381 State Hwy 314",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186064867,
-    "wof:lastmodified":1449051335,
+    "wof:lastmodified":1466698458,
     "wof:name":"Belen Middle School",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.767856,34.686878,-106.767856,34.686878],
-  "geometry": {"coordinates":[-106.767856,34.686878],"type":"Point"}
+  "bbox": [
+    -106.767856,
+    34.686878,
+    -106.767856,
+    34.686878
+],
+  "geometry": {"coordinates":[-106.76785599999999,34.686878],"type":"Point"}
 }

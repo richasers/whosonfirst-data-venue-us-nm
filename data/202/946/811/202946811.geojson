@@ -2,13 +2,14 @@
   "id": 202946811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.720498,35.149869,-106.720498,35.149869",
     "geom:latitude":35.149869,
     "geom:longitude":-106.720498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7307 Keel Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202946811,
-    "wof:lastmodified":1449062345,
+    "wof:lastmodified":1466700541,
     "wof:name":"De Benedettos",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.720498,35.149869,-106.720498,35.149869],
-  "geometry": {"coordinates":[-106.720498,35.149869],"type":"Point"}
+  "bbox": [
+    -106.720498,
+    35.149869,
+    -106.720498,
+    35.149869
+],
+  "geometry": {"coordinates":[-106.72049800000001,35.149869],"type":"Point"}
 }

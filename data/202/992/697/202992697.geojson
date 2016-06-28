@@ -2,13 +2,14 @@
   "id": 202992697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.011303,36.82669,-108.011303,36.82669",
     "geom:latitude":36.82669,
     "geom:longitude":-108.011303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 W Aztec Blvd",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202992697,
-    "wof:lastmodified":1449061317,
+    "wof:lastmodified":1466700755,
     "wof:name":"Discount Trailer Mfg Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trailer"
     ]
 },
-  "bbox": [-108.011303,36.82669,-108.011303,36.82669],
+  "bbox": [
+    -108.011303,
+    36.82669,
+    -108.011303,
+    36.82669
+],
   "geometry": {"coordinates":[-108.011303,36.82669],"type":"Point"}
 }

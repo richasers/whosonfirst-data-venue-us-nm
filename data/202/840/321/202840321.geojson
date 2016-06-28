@@ -2,13 +2,14 @@
   "id": 202840321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.775107,32.312684,-106.775107,32.312684",
     "geom:latitude":32.312684,
     "geom:longitude":-106.775107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 N Mesquite St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202840321,
-    "wof:lastmodified":1449062085,
+    "wof:lastmodified":1466700030,
     "wof:name":"Matts Valley Pawn Shop",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.775107,32.312684,-106.775107,32.312684],
-  "geometry": {"coordinates":[-106.775107,32.312684],"type":"Point"}
+  "bbox": [
+    -106.775107,
+    32.312684,
+    -106.775107,
+    32.312684
+],
+  "geometry": {"coordinates":[-106.77510700000001,32.312684],"type":"Point"}
 }

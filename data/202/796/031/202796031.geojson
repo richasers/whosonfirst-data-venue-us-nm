@@ -2,13 +2,14 @@
   "id": 202796031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.136137,32.706964,-103.136137,32.706964",
     "geom:latitude":32.706964,
     "geom:longitude":-103.136137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 N Turner St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202796031,
-    "wof:lastmodified":1449061319,
+    "wof:lastmodified":1466699968,
     "wof:name":"Fire & Ice Karate & Boxin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "instruction"
     ]
 },
-  "bbox": [-103.136137,32.706964,-103.136137,32.706964],
-  "geometry": {"coordinates":[-103.136137,32.706964],"type":"Point"}
+  "bbox": [
+    -103.136137,
+    32.706964,
+    -103.136137,
+    32.706964
+],
+  "geometry": {"coordinates":[-103.13613700000001,32.706964],"type":"Point"}
 }

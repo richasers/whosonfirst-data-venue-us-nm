@@ -2,13 +2,14 @@
   "id": 186580383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.671203,35.524469,-108.671203,35.524469",
     "geom:latitude":35.524469,
     "geom:longitude":-108.671203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Aztec Ct",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186580383,
-    "wof:lastmodified":1449052178,
+    "wof:lastmodified":1466700444,
     "wof:name":"Paula H Sayers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "reader"
     ]
 },
-  "bbox": [-108.671203,35.524469,-108.671203,35.524469],
-  "geometry": {"coordinates":[-108.671203,35.524469],"type":"Point"}
+  "bbox": [
+    -108.671203,
+    35.524469,
+    -108.671203,
+    35.524469
+],
+  "geometry": {"coordinates":[-108.67120300000001,35.524469],"type":"Point"}
 }

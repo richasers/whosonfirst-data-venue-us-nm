@@ -2,13 +2,14 @@
   "id": 185767715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.595515,35.131001,-106.595515,35.131001",
     "geom:latitude":35.131001,
     "geom:longitude":-106.595515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4213 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185767715,
-    "wof:lastmodified":1449007079,
+    "wof:lastmodified":1466699223,
     "wof:name":"Nea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "teacher"
     ]
 },
-  "bbox": [-106.595515,35.131001,-106.595515,35.131001],
-  "geometry": {"coordinates":[-106.595515,35.131001],"type":"Point"}
+  "bbox": [
+    -106.595515,
+    35.131001,
+    -106.595515,
+    35.131001
+],
+  "geometry": {"coordinates":[-106.59551500000001,35.131001],"type":"Point"}
 }

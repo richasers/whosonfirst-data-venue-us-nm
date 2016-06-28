@@ -2,13 +2,14 @@
   "id": 185954065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.212583,36.728074,-108.212583,36.728074",
     "geom:latitude":36.728074,
     "geom:longitude":-108.212583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"636 W Broadway",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185954065,
-    "wof:lastmodified":1449008015,
+    "wof:lastmodified":1466699282,
     "wof:name":"Tanco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "award"
     ]
 },
-  "bbox": [-108.212583,36.728074,-108.212583,36.728074],
+  "bbox": [
+    -108.212583,
+    36.728074,
+    -108.212583,
+    36.728074
+],
   "geometry": {"coordinates":[-108.212583,36.728074],"type":"Point"}
 }

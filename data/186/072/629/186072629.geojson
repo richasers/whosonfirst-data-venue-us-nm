@@ -2,13 +2,14 @@
   "id": 186072629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.002577,35.646922,-106.002577,35.646922",
     "geom:latitude":35.646922,
     "geom:longitude":-106.002577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1439 Ave de Las America",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186072629,
-    "wof:lastmodified":1449051790,
+    "wof:lastmodified":1466698551,
     "wof:name":"LA Guardia Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-106.002577,35.646922,-106.002577,35.646922],
+  "bbox": [
+    -106.002577,
+    35.646922,
+    -106.002577,
+    35.646922
+],
   "geometry": {"coordinates":[-106.002577,35.646922],"type":"Point"}
 }

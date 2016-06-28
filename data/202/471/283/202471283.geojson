@@ -2,13 +2,14 @@
   "id": 202471283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.519094,35.139554,-106.519094,35.139554",
     "geom:latitude":35.139554,
     "geom:longitude":-106.519094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4912 Edwards Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202471283,
-    "wof:lastmodified":1449061131,
+    "wof:lastmodified":1466698817,
     "wof:name":"Discount Store Inc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-106.519094,35.139554,-106.519094,35.139554],
+  "bbox": [
+    -106.519094,
+    35.139554,
+    -106.519094,
+    35.139554
+],
   "geometry": {"coordinates":[-106.519094,35.139554],"type":"Point"}
 }

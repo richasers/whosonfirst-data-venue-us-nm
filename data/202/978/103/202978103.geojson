@@ -2,13 +2,14 @@
   "id": 202978103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.546927,35.309104,-106.546927,35.309104",
     "geom:latitude":35.309104,
     "geom:longitude":-106.546927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 Cam del Pueblo",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202978103,
-    "wof:lastmodified":1449061571,
+    "wof:lastmodified":1466700691,
     "wof:name":"Juvenile Probation Parole Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institution"
     ]
 },
-  "bbox": [-106.546927,35.309104,-106.546927,35.309104],
+  "bbox": [
+    -106.546927,
+    35.309104,
+    -106.546927,
+    35.309104
+],
   "geometry": {"coordinates":[-106.546927,35.309104],"type":"Point"}
 }

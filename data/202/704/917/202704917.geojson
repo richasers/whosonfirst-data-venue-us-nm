@@ -2,13 +2,14 @@
   "id": 202704917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.928473,32.900719,-105.928473,32.900719",
     "geom:latitude":32.900719,
     "geom:longitude":-105.928473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 Scenic Dr",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202704917,
-    "wof:lastmodified":1449060780,
+    "wof:lastmodified":1466699627,
     "wof:name":"Michelle's Custom Clothing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-105.928473,32.900719,-105.928473,32.900719],
+  "bbox": [
+    -105.928473,
+    32.900719,
+    -105.928473,
+    32.900719
+],
   "geometry": {"coordinates":[-105.928473,32.900719],"type":"Point"}
 }

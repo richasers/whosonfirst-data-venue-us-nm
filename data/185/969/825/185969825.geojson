@@ -2,13 +2,14 @@
   "id": 185969825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.296627,35.879852,-106.296627,35.879852",
     "geom:latitude":35.879852,
     "geom:longitude":-106.296627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Trinity Dr",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185969825,
-    "wof:lastmodified":1449006998,
+    "wof:lastmodified":1466699567,
     "wof:name":"Veriscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.296627,35.879852,-106.296627,35.879852],
+  "bbox": [
+    -106.296627,
+    35.879852,
+    -106.296627,
+    35.879852
+],
   "geometry": {"coordinates":[-106.296627,35.879852],"type":"Point"}
 }

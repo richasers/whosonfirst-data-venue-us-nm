@@ -2,13 +2,14 @@
   "id": 186505619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.677691,34.448543,-103.677691,34.448543",
     "geom:latitude":34.448543,
     "geom:longitude":-103.677691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3753 Co Rd 13",
     "sg:city":"Melrose",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186505619,
-    "wof:lastmodified":1449052567,
+    "wof:lastmodified":1466700248,
     "wof:name":"Dan Younger Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-103.677691,34.448543,-103.677691,34.448543],
+  "bbox": [
+    -103.677691,
+    34.448543,
+    -103.677691,
+    34.448543
+],
   "geometry": {"coordinates":[-103.677691,34.448543],"type":"Point"}
 }

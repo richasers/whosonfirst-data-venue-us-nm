@@ -2,13 +2,14 @@
   "id": 185783109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586547,35.124015,-106.586547,35.124015",
     "geom:latitude":35.124015,
     "geom:longitude":-106.586547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3621 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185783109,
-    "wof:lastmodified":1449006630,
+    "wof:lastmodified":1466699272,
     "wof:name":"Derheid Inc",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-106.586547,35.124015,-106.586547,35.124015],
+  "bbox": [
+    -106.586547,
+    35.124015,
+    -106.586547,
+    35.124015
+],
   "geometry": {"coordinates":[-106.586547,35.124015],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202784827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.152676,36.764963,-108.152676,36.764963",
     "geom:latitude":36.764963,
     "geom:longitude":-108.152676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4540 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202784827,
-    "wof:lastmodified":1449061779,
+    "wof:lastmodified":1466699800,
     "wof:name":"Garcia & Co Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-108.152676,36.764963,-108.152676,36.764963],
+  "bbox": [
+    -108.152676,
+    36.764963,
+    -108.152676,
+    36.764963
+],
   "geometry": {"coordinates":[-108.152676,36.764963],"type":"Point"}
 }

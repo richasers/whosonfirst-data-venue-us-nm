@@ -2,13 +2,14 @@
   "id": 202803761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.727147,35.512472,-108.727147,35.512472",
     "geom:latitude":35.512472,
     "geom:longitude":-108.727147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 Redrock Dr",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202803761,
-    "wof:lastmodified":1449062686,
+    "wof:lastmodified":1466699989,
     "wof:name":"High Desert Imaging  PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "medical"
     ]
 },
-  "bbox": [-108.727147,35.512472,-108.727147,35.512472],
+  "bbox": [
+    -108.727147,
+    35.512472,
+    -108.727147,
+    35.512472
+],
   "geometry": {"coordinates":[-108.727147,35.512472],"type":"Point"}
 }

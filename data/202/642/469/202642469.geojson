@@ -2,13 +2,14 @@
   "id": 202642469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.762119,32.325032,-106.762119,32.325032",
     "geom:latitude":32.325032,
     "geom:longitude":-106.762119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Spruce Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202642469,
-    "wof:lastmodified":1449060257,
+    "wof:lastmodified":1466699022,
     "wof:name":"Sierra Middle School",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "secondary"
     ]
 },
-  "bbox": [-106.762119,32.325032,-106.762119,32.325032],
+  "bbox": [
+    -106.762119,
+    32.325032,
+    -106.762119,
+    32.325032
+],
   "geometry": {"coordinates":[-106.762119,32.325032],"type":"Point"}
 }

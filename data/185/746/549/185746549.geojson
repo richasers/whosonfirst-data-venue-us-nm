@@ -2,13 +2,14 @@
   "id": 185746549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.024744,35.637324,-106.024744,35.637324",
     "geom:latitude":35.637324,
     "geom:longitude":-106.024744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4350 Center Pl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185746549,
-    "wof:lastmodified":1449006582,
+    "wof:lastmodified":1466699112,
     "wof:name":"B & G Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-106.024744,35.637324,-106.024744,35.637324],
+  "bbox": [
+    -106.024744,
+    35.637324,
+    -106.024744,
+    35.637324
+],
   "geometry": {"coordinates":[-106.024744,35.637324],"type":"Point"}
 }

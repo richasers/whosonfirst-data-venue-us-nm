@@ -2,13 +2,14 @@
   "id": 353933269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.639086,35.112136,-106.639086,35.112136",
     "geom:latitude":35.112136,
     "geom:longitude":-106.639086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2731 Broadway Blvd NE Ste E",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353933269,
-    "wof:lastmodified":1449018778,
+    "wof:lastmodified":1466698097,
     "wof:name":"ABQ Jump",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "amusement"
     ]
 },
-  "bbox": [-106.639086,35.112136,-106.639086,35.112136],
-  "geometry": {"coordinates":[-106.639086,35.112136],"type":"Point"}
+  "bbox": [
+    -106.639086,
+    35.112136,
+    -106.639086,
+    35.112136
+],
+  "geometry": {"coordinates":[-106.63908600000001,35.112136],"type":"Point"}
 }

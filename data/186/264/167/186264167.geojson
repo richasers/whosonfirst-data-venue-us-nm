@@ -2,13 +2,14 @@
   "id": 186264167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.183184,36.452021,-103.183184,36.452021",
     "geom:latitude":36.452021,
     "geom:longitude":-103.183184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Main St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186264167,
-    "wof:lastmodified":1449052114,
+    "wof:lastmodified":1466698842,
     "wof:name":"Imperial Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.183184,36.452021,-103.183184,36.452021],
+  "bbox": [
+    -103.183184,
+    36.452021,
+    -103.183184,
+    36.452021
+],
   "geometry": {"coordinates":[-103.183184,36.452021],"type":"Point"}
 }

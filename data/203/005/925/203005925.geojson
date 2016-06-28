@@ -2,13 +2,14 @@
   "id": 203005925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614243,35.225185,-106.614243,35.225185",
     "geom:latitude":35.225185,
     "geom:longitude":-106.614243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4512 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203005925,
-    "wof:lastmodified":1449026708,
+    "wof:lastmodified":1466697646,
     "wof:name":"Hannah & Nate's",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.614243,35.225185,-106.614243,35.225185],
+  "bbox": [
+    -106.614243,
+    35.225185,
+    -106.614243,
+    35.225185
+],
   "geometry": {"coordinates":[-106.614243,35.225185],"type":"Point"}
 }

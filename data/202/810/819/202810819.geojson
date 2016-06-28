@@ -2,13 +2,14 @@
   "id": 202810819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.86776,35.591662,-105.86776,35.591662",
     "geom:latitude":35.591662,
     "geom:longitude":-105.86776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7727 Old Santa Fe Trl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202810819,
-    "wof:lastmodified":1449060858,
+    "wof:lastmodified":1466700105,
     "wof:name":"Santa Fe Trail Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.86776,35.591662,-105.86776,35.591662],
+  "bbox": [
+    -105.86776,
+    35.591662,
+    -105.86776,
+    35.591662
+],
   "geometry": {"coordinates":[-105.86776,35.591662],"type":"Point"}
 }

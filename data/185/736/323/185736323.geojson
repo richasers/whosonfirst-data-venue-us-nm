@@ -2,13 +2,14 @@
   "id": 185736323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.517551,35.116268,-106.517551,35.116268",
     "geom:latitude":35.116268,
     "geom:longitude":-106.517551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11000 Candelaria Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185736323,
-    "wof:lastmodified":1449008169,
+    "wof:lastmodified":1466699036,
     "wof:name":"Interstate Distributor Co",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-106.517551,35.116268,-106.517551,35.116268],
+  "bbox": [
+    -106.517551,
+    35.116268,
+    -106.517551,
+    35.116268
+],
   "geometry": {"coordinates":[-106.517551,35.116268],"type":"Point"}
 }

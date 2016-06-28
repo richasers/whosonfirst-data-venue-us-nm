@@ -2,13 +2,14 @@
   "id": 353953447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.506561,35.112679,-106.506561,35.112679",
     "geom:latitude":35.112679,
     "geom:longitude":-106.506561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Chelwood Park Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353953447,
-    "wof:lastmodified":1449019996,
+    "wof:lastmodified":1466698677,
     "wof:name":"Querbach Rentals",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-106.506561,35.112679,-106.506561,35.112679],
+  "bbox": [
+    -106.506561,
+    35.112679,
+    -106.506561,
+    35.112679
+],
   "geometry": {"coordinates":[-106.506561,35.112679],"type":"Point"}
 }

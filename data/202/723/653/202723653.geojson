@@ -2,13 +2,14 @@
   "id": 202723653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.946283,32.935255,-105.946283,32.935255",
     "geom:latitude":32.935255,
     "geom:longitude":-105.946283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Garden Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202723653,
-    "wof:lastmodified":1449061598,
+    "wof:lastmodified":1466699704,
     "wof:name":"Aviation Technical Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "school"
     ]
 },
-  "bbox": [-105.946283,32.935255,-105.946283,32.935255],
-  "geometry": {"coordinates":[-105.946283,32.935255],"type":"Point"}
+  "bbox": [
+    -105.946283,
+    32.935255,
+    -105.946283,
+    32.935255
+],
+  "geometry": {"coordinates":[-105.94628299999999,32.935255],"type":"Point"}
 }

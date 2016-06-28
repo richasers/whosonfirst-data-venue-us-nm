@@ -2,13 +2,14 @@
   "id": 202378973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.321301,33.251646,-103.321301,33.251646",
     "geom:latitude":33.251646,
     "geom:longitude":-103.321301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 S Ave C",
     "sg:city":"Tatum",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202378973,
-    "wof:lastmodified":1449061804,
+    "wof:lastmodified":1466697658,
     "wof:name":"Marsha Hilburn Beauty Consultn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "perfume"
     ]
 },
-  "bbox": [-103.321301,33.251646,-103.321301,33.251646],
-  "geometry": {"coordinates":[-103.321301,33.251646],"type":"Point"}
+  "bbox": [
+    -103.321301,
+    33.251646,
+    -103.321301,
+    33.251646
+],
+  "geometry": {"coordinates":[-103.32130100000001,33.251646],"type":"Point"}
 }

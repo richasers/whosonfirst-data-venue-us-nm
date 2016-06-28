@@ -2,13 +2,14 @@
   "id": 202546383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.975677,35.661842,-105.975677,35.661842",
     "geom:latitude":35.661842,
     "geom:longitude":-105.975677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2021 Pinon St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202546383,
-    "wof:lastmodified":1449060106,
+    "wof:lastmodified":1466699473,
     "wof:name":"Sidda Yoga Meditation Ctr",
     "wof:parent_id":85880779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "instruction"
     ]
 },
-  "bbox": [-105.975677,35.661842,-105.975677,35.661842],
+  "bbox": [
+    -105.975677,
+    35.661842,
+    -105.975677,
+    35.661842
+],
   "geometry": {"coordinates":[-105.975677,35.661842],"type":"Point"}
 }

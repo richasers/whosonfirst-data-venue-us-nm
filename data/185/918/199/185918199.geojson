@@ -2,13 +2,14 @@
   "id": 185918199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.322314,35.10597,-106.322314,35.10597",
     "geom:latitude":35.10597,
     "geom:longitude":-106.322314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Oso Dr",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185918199,
-    "wof:lastmodified":1449007678,
+    "wof:lastmodified":1466698777,
     "wof:name":"Joseph A Sholtiz Jr Priv Cnsl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "private"
     ]
 },
-  "bbox": [-106.322314,35.10597,-106.322314,35.10597],
-  "geometry": {"coordinates":[-106.322314,35.10597],"type":"Point"}
+  "bbox": [
+    -106.322314,
+    35.10597,
+    -106.322314,
+    35.10597
+],
+  "geometry": {"coordinates":[-106.32231400000001,35.10597],"type":"Point"}
 }

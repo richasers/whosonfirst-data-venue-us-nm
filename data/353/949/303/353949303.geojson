@@ -2,13 +2,14 @@
   "id": 353949303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.532942,35.132552,-106.532942,35.132552",
     "geom:latitude":35.132552,
     "geom:longitude":-106.532942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9708 Lagrima de Oro Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353949303,
-    "wof:lastmodified":1449019849,
+    "wof:lastmodified":1466698550,
     "wof:name":"Neuma Books",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-106.532942,35.132552,-106.532942,35.132552],
-  "geometry": {"coordinates":[-106.532942,35.132552],"type":"Point"}
+  "bbox": [
+    -106.532942,
+    35.132552,
+    -106.532942,
+    35.132552
+],
+  "geometry": {"coordinates":[-106.53294200000001,35.132552],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185790291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.594769,35.188355,-106.594769,35.188355",
     "geom:latitude":35.188355,
     "geom:longitude":-106.594769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8900 Washington St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185790291,
-    "wof:lastmodified":1449007857,
+    "wof:lastmodified":1466699307,
     "wof:name":"Calvert Menicucci",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.594769,35.188355,-106.594769,35.188355],
+  "bbox": [
+    -106.594769,
+    35.188355,
+    -106.594769,
+    35.188355
+],
   "geometry": {"coordinates":[-106.594769,35.188355],"type":"Point"}
 }

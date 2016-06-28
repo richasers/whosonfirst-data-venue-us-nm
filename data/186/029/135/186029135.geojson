@@ -2,13 +2,14 @@
   "id": 186029135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.695465,36.176691,-105.695465,36.176691",
     "geom:latitude":36.176691,
     "geom:longitude":-105.695465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15066 Hwy 75",
     "sg:city":"Penasco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186029135,
-    "wof:lastmodified":1449051508,
+    "wof:lastmodified":1466698012,
     "wof:name":"U-Haul Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leasing"
     ]
 },
-  "bbox": [-105.695465,36.176691,-105.695465,36.176691],
+  "bbox": [
+    -105.695465,
+    36.176691,
+    -105.695465,
+    36.176691
+],
   "geometry": {"coordinates":[-105.695465,36.176691],"type":"Point"}
 }

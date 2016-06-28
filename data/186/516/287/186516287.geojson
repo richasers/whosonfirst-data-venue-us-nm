@@ -2,13 +2,14 @@
   "id": 186516287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.505434,35.126406,-106.505434,35.126406",
     "geom:latitude":35.126406,
     "geom:longitude":-106.505434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3820 Valerie Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186516287,
-    "wof:lastmodified":1449050917,
+    "wof:lastmodified":1466700282,
     "wof:name":"Weller Web Design",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-106.505434,35.126406,-106.505434,35.126406],
-  "geometry": {"coordinates":[-106.505434,35.126406],"type":"Point"}
+  "bbox": [
+    -106.505434,
+    35.126406,
+    -106.505434,
+    35.126406
+],
+  "geometry": {"coordinates":[-106.50543399999999,35.126406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186160101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.056563,34.758202,-106.056563,34.758202",
     "geom:latitude":34.758202,
     "geom:longitude":-106.056563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Williams Ave",
     "sg:city":"Estancia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186160101,
-    "wof:lastmodified":1449052577,
+    "wof:lastmodified":1466699350,
     "wof:name":"Sturges Road Runner Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-106.056563,34.758202,-106.056563,34.758202],
+  "bbox": [
+    -106.056563,
+    34.758202,
+    -106.056563,
+    34.758202
+],
   "geometry": {"coordinates":[-106.056563,34.758202],"type":"Point"}
 }

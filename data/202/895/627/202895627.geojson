@@ -2,13 +2,14 @@
   "id": 202895627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.579284,36.395835,-105.579284,36.395835",
     "geom:latitude":36.395835,
     "geom:longitude":-105.579284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202895627,
-    "wof:lastmodified":1449061192,
+    "wof:lastmodified":1466700333,
     "wof:name":"Creative Framing & Crating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "frame"
     ]
 },
-  "bbox": [-105.579284,36.395835,-105.579284,36.395835],
+  "bbox": [
+    -105.579284,
+    36.395835,
+    -105.579284,
+    36.395835
+],
   "geometry": {"coordinates":[-105.579284,36.395835],"type":"Point"}
 }

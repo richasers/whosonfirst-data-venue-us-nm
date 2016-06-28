@@ -2,13 +2,14 @@
   "id": 202746577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.17442,36.753718,-108.17442,36.753718",
     "geom:latitude":36.753718,
     "geom:longitude":-108.17442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2604 N Fairview Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202746577,
-    "wof:lastmodified":1449060093,
+    "wof:lastmodified":1466699653,
     "wof:name":"Tres Rios Coffee Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-108.17442,36.753718,-108.17442,36.753718],
+  "bbox": [
+    -108.17442,
+    36.753718,
+    -108.17442,
+    36.753718
+],
   "geometry": {"coordinates":[-108.17442,36.753718],"type":"Point"}
 }

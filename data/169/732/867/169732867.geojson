@@ -2,13 +2,14 @@
   "id": 169732867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.494994,35.093495,-106.494994,35.093495",
     "geom:latitude":35.093495,
     "geom:longitude":-106.494994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13132 Verbena Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169732867,
-    "wof:lastmodified":1449036070,
+    "wof:lastmodified":1466697915,
     "wof:name":"Rex Publications",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-106.494994,35.093495,-106.494994,35.093495],
-  "geometry": {"coordinates":[-106.494994,35.093495],"type":"Point"}
+  "bbox": [
+    -106.494994,
+    35.093495,
+    -106.494994,
+    35.093495
+],
+  "geometry": {"coordinates":[-106.49499400000001,35.093495],"type":"Point"}
 }

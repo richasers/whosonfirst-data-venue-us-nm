@@ -2,13 +2,14 @@
   "id": 202775493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.610708,35.079484,-106.610708,35.079484",
     "geom:latitude":35.079484,
     "geom:longitude":-106.610708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Richmond Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202775493,
-    "wof:lastmodified":1449061978,
+    "wof:lastmodified":1466699858,
     "wof:name":"New Mexico School For Deaf",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.610708,35.079484,-106.610708,35.079484],
+  "bbox": [
+    -106.610708,
+    35.079484,
+    -106.610708,
+    35.079484
+],
   "geometry": {"coordinates":[-106.610708,35.079484],"type":"Point"}
 }

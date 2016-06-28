@@ -2,13 +2,14 @@
   "id": 203101409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.73654,34.626684,-106.73654,34.626684",
     "geom:latitude":34.626684,
     "geom:longitude":-106.73654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2190 State Hwy 304",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203101409,
-    "wof:lastmodified":1449025941,
+    "wof:lastmodified":1466698746,
     "wof:name":"Irrigation Services",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.73654,34.626684,-106.73654,34.626684],
-  "geometry": {"coordinates":[-106.73654,34.626684],"type":"Point"}
+  "bbox": [
+    -106.73654,
+    34.626684,
+    -106.73654,
+    34.626684
+],
+  "geometry": {"coordinates":[-106.73654000000001,34.626684],"type":"Point"}
 }

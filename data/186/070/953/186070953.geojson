@@ -2,13 +2,14 @@
   "id": 186070953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.514895,35.171329,-106.514895,35.171329",
     "geom:latitude":35.171329,
     "geom:longitude":-106.514895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11301 San Bernardino Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186070953,
-    "wof:lastmodified":1449051681,
+    "wof:lastmodified":1466698550,
     "wof:name":"M&D Property Group Inc",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.514895,35.171329,-106.514895,35.171329],
+  "bbox": [
+    -106.514895,
+    35.171329,
+    -106.514895,
+    35.171329
+],
   "geometry": {"coordinates":[-106.514895,35.171329],"type":"Point"}
 }

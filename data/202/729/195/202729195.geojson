@@ -2,13 +2,14 @@
   "id": 202729195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.523103,33.427652,-104.523103,33.427652",
     "geom:latitude":33.427652,
     "geom:longitude":-104.523103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2810 N Main St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202729195,
-    "wof:lastmodified":1449061402,
+    "wof:lastmodified":1466699716,
     "wof:name":"Smoker's Discount South",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-104.523103,33.427652,-104.523103,33.427652],
-  "geometry": {"coordinates":[-104.523103,33.427652],"type":"Point"}
+  "bbox": [
+    -104.523103,
+    33.427652,
+    -104.523103,
+    33.427652
+],
+  "geometry": {"coordinates":[-104.52310300000001,33.427652],"type":"Point"}
 }

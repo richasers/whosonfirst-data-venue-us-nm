@@ -2,13 +2,14 @@
   "id": 169747107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960535,32.900648,-105.960535,32.900648",
     "geom:latitude":32.900648,
     "geom:longitude":-105.960535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 US Hwy 70",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169747107,
-    "wof:lastmodified":1449033289,
+    "wof:lastmodified":1466698050,
     "wof:name":"Alamogordo Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.960535,32.900648,-105.960535,32.900648],
-  "geometry": {"coordinates":[-105.960535,32.900648],"type":"Point"}
+  "bbox": [
+    -105.960535,
+    32.900648,
+    -105.960535,
+    32.900648
+],
+  "geometry": {"coordinates":[-105.96053499999999,32.900648],"type":"Point"}
 }

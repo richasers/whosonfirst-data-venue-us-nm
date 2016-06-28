@@ -2,13 +2,14 @@
   "id": 353928277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.622078,35.069569,-106.622078,35.069569",
     "geom:latitude":35.069569,
     "geom:longitude":-106.622078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Yale Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":353928277,
-    "wof:lastmodified":1449020449,
+    "wof:lastmodified":1466697955,
     "wof:name":"Guerrilla Graphix & Resume",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.622078,35.069569,-106.622078,35.069569],
+  "bbox": [
+    -106.622078,
+    35.069569,
+    -106.622078,
+    35.069569
+],
   "geometry": {"coordinates":[-106.622078,35.069569],"type":"Point"}
 }

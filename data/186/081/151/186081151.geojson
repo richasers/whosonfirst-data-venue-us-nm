@@ -2,13 +2,14 @@
   "id": 186081151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.256862,33.124203,-107.256862,33.124203",
     "geom:latitude":33.124203,
     "geom:longitude":-107.256862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Wyona St",
     "sg:city":"Truth Or Consequences",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186081151,
-    "wof:lastmodified":1449051208,
+    "wof:lastmodified":1466698638,
     "wof:name":"Callahans Auto Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-107.256862,33.124203,-107.256862,33.124203],
+  "bbox": [
+    -107.256862,
+    33.124203,
+    -107.256862,
+    33.124203
+],
   "geometry": {"coordinates":[-107.256862,33.124203],"type":"Point"}
 }

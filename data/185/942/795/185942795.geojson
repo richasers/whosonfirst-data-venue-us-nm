@@ -2,13 +2,14 @@
   "id": 185942795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.361797,32.943863,-103.361797,32.943863",
     "geom:latitude":32.943863,
     "geom:longitude":-103.361797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 W Ave D",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185942795,
-    "wof:lastmodified":1449007355,
+    "wof:lastmodified":1466699114,
     "wof:name":"Ann's Hair Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.361797,32.943863,-103.361797,32.943863],
+  "bbox": [
+    -103.361797,
+    32.943863,
+    -103.361797,
+    32.943863
+],
   "geometry": {"coordinates":[-103.361797,32.943863],"type":"Point"}
 }

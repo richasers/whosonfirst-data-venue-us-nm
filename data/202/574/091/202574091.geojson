@@ -2,13 +2,14 @@
   "id": 202574091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.686709,35.241508,-106.686709,35.241508",
     "geom:latitude":35.241508,
     "geom:longitude":-106.686709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2502 Southern Blvd SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202574091,
-    "wof:lastmodified":1449060092,
+    "wof:lastmodified":1466697998,
     "wof:name":"Ogden Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.686709,35.241508,-106.686709,35.241508],
-  "geometry": {"coordinates":[-106.686709,35.241508],"type":"Point"}
+  "bbox": [
+    -106.686709,
+    35.241508,
+    -106.686709,
+    35.241508
+],
+  "geometry": {"coordinates":[-106.68670899999999,35.241508],"type":"Point"}
 }

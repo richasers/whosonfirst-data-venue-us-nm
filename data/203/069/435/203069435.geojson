@@ -2,13 +2,14 @@
   "id": 203069435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.544711,35.31852,-106.544711,35.31852",
     "geom:latitude":35.31852,
     "geom:longitude":-106.544711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E Hwy 44",
     "sg:city":"Counselor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203069435,
-    "wof:lastmodified":1449026162,
+    "wof:lastmodified":1466698334,
     "wof:name":"M & M Production & Operation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-106.544711,35.31852,-106.544711,35.31852],
-  "geometry": {"coordinates":[-106.544711,35.31852],"type":"Point"}
+  "bbox": [
+    -106.544711,
+    35.31852,
+    -106.544711,
+    35.31852
+],
+  "geometry": {"coordinates":[-106.54471100000001,35.31852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186220231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.65976,35.07703,-106.65976,35.07703",
     "geom:latitude":35.07703,
     "geom:longitude":-106.65976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Atlantic Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186220231,
-    "wof:lastmodified":1449052939,
+    "wof:lastmodified":1466698274,
     "wof:name":"Albuquerque Pub Sch Cafeteria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.65976,35.07703,-106.65976,35.07703],
-  "geometry": {"coordinates":[-106.65976,35.07703],"type":"Point"}
+  "bbox": [
+    -106.65976,
+    35.07703,
+    -106.65976,
+    35.07703
+],
+  "geometry": {"coordinates":[-106.65976000000001,35.07703],"type":"Point"}
 }

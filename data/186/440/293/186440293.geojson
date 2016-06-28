@@ -2,13 +2,14 @@
   "id": 186440293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.97234,35.665245,-105.97234,35.665245",
     "geom:latitude":35.665245,
     "geom:longitude":-105.97234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1803 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186440293,
-    "wof:lastmodified":1449051344,
+    "wof:lastmodified":1466700102,
     "wof:name":"California Tire",
     "wof:parent_id":85880811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.97234,35.665245,-105.97234,35.665245],
+  "bbox": [
+    -105.97234,
+    35.665245,
+    -105.97234,
+    35.665245
+],
   "geometry": {"coordinates":[-105.97234,35.665245],"type":"Point"}
 }

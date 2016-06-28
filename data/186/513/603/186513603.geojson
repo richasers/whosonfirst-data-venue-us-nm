@@ -2,13 +2,14 @@
   "id": 186513603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.837997,32.353627,-106.837997,32.353627",
     "geom:latitude":32.353627,
     "geom:longitude":-106.837997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4665 Riverwood Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186513603,
-    "wof:lastmodified":1449052143,
+    "wof:lastmodified":1466700151,
     "wof:name":"Ned Tutor Builders Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.837997,32.353627,-106.837997,32.353627],
+  "bbox": [
+    -106.837997,
+    32.353627,
+    -106.837997,
+    32.353627
+],
   "geometry": {"coordinates":[-106.837997,32.353627],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185694317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.537875,35.312571,-106.537875,35.312571",
     "geom:latitude":35.312571,
     "geom:longitude":-106.537875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 S Hill Rd",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185694317,
-    "wof:lastmodified":1449007059,
+    "wof:lastmodified":1466698599,
     "wof:name":"Coronado Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "special"
     ]
 },
-  "bbox": [-106.537875,35.312571,-106.537875,35.312571],
+  "bbox": [
+    -106.537875,
+    35.312571,
+    -106.537875,
+    35.312571
+],
   "geometry": {"coordinates":[-106.537875,35.312571],"type":"Point"}
 }

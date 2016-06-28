@@ -2,13 +2,14 @@
   "id": 169730385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.990086,35.62661,-105.990086,35.62661",
     "geom:latitude":35.62661,
     "geom:longitude":-105.990086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3012 Pueblo Puye",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169730385,
-    "wof:lastmodified":1449035429,
+    "wof:lastmodified":1466697893,
     "wof:name":"M J Construction Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-105.990086,35.62661,-105.990086,35.62661],
-  "geometry": {"coordinates":[-105.990086,35.62661],"type":"Point"}
+  "bbox": [
+    -105.990086,
+    35.62661,
+    -105.990086,
+    35.62661
+],
+  "geometry": {"coordinates":[-105.99008600000001,35.62661],"type":"Point"}
 }

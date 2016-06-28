@@ -2,13 +2,14 @@
   "id": 186015413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.020125,35.702248,-106.020125,35.702248",
     "geom:latitude":35.702248,
     "geom:longitude":-106.020125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Wildflower Way",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186015413,
-    "wof:lastmodified":1449051010,
+    "wof:lastmodified":1466697852,
     "wof:name":"Spirit of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.020125,35.702248,-106.020125,35.702248],
-  "geometry": {"coordinates":[-106.020125,35.702248],"type":"Point"}
+  "bbox": [
+    -106.020125,
+    35.702248,
+    -106.020125,
+    35.702248
+],
+  "geometry": {"coordinates":[-106.02012499999999,35.702248],"type":"Point"}
 }

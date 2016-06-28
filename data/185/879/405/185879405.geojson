@@ -2,13 +2,14 @@
   "id": 185879405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.574224,35.096101,-106.574224,35.096101",
     "geom:latitude":35.096101,
     "geom:longitude":-106.574224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1821 Dakota St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185879405,
-    "wof:lastmodified":1449006614,
+    "wof:lastmodified":1466698306,
     "wof:name":"Clayground",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.574224,35.096101,-106.574224,35.096101],
+  "bbox": [
+    -106.574224,
+    35.096101,
+    -106.574224,
+    35.096101
+],
   "geometry": {"coordinates":[-106.574224,35.096101],"type":"Point"}
 }

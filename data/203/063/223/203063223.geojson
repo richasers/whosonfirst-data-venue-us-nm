@@ -2,13 +2,14 @@
   "id": 203063223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.914081,35.678176,-105.914081,35.678176",
     "geom:latitude":35.678176,
     "geom:longitude":-105.914081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"433 Apodaca Hill St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203063223,
-    "wof:lastmodified":1449025098,
+    "wof:lastmodified":1466698269,
     "wof:name":"Drake Mountain Maps Inc",
     "wof:parent_id":85880777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "map"
     ]
 },
-  "bbox": [-105.914081,35.678176,-105.914081,35.678176],
+  "bbox": [
+    -105.914081,
+    35.678176,
+    -105.914081,
+    35.678176
+],
   "geometry": {"coordinates":[-105.914081,35.678176],"type":"Point"}
 }

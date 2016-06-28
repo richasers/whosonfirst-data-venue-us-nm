@@ -2,13 +2,14 @@
   "id": 185740343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.16501,32.725604,-103.16501,32.725604",
     "geom:latitude":32.725604,
     "geom:longitude":-103.16501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 W Bender Blvd",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185740343,
-    "wof:lastmodified":1449007352,
+    "wof:lastmodified":1466699076,
     "wof:name":"Hobbs Diesel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [-103.16501,32.725604,-103.16501,32.725604],
+  "bbox": [
+    -103.16501,
+    32.725604,
+    -103.16501,
+    32.725604
+],
   "geometry": {"coordinates":[-103.16501,32.725604],"type":"Point"}
 }

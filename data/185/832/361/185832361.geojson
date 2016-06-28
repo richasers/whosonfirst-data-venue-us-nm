@@ -2,13 +2,14 @@
   "id": 185832361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.701576,35.119836,-106.701576,35.119836",
     "geom:latitude":35.119836,
     "geom:longitude":-106.701576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3250 Coors Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185832361,
-    "wof:lastmodified":1449006602,
+    "wof:lastmodified":1466697817,
     "wof:name":"Pure Elegance Full Svc Salon",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.701576,35.119836,-106.701576,35.119836],
+  "bbox": [
+    -106.701576,
+    35.119836,
+    -106.701576,
+    35.119836
+],
   "geometry": {"coordinates":[-106.701576,35.119836],"type":"Point"}
 }

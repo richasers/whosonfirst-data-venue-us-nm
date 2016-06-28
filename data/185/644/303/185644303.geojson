@@ -2,13 +2,14 @@
   "id": 185644303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.679272,35.043908,-106.679272,35.043908",
     "geom:latitude":35.043908,
     "geom:longitude":-106.679272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2108 Isleta Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185644303,
-    "wof:lastmodified":1449007518,
+    "wof:lastmodified":1466698071,
     "wof:name":"Pena's Distributing",
     "wof:parent_id":85892585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-106.679272,35.043908,-106.679272,35.043908],
+  "bbox": [
+    -106.679272,
+    35.043908,
+    -106.679272,
+    35.043908
+],
   "geometry": {"coordinates":[-106.679272,35.043908],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202898945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.144976,32.747073,-103.144976,32.747073",
     "geom:latitude":32.747073,
     "geom:longitude":-103.144976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4314 N Grimes St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202898945,
-    "wof:lastmodified":1449060056,
+    "wof:lastmodified":1466700349,
     "wof:name":"City Of Hobbs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-103.144976,32.747073,-103.144976,32.747073],
+  "bbox": [
+    -103.144976,
+    32.747073,
+    -103.144976,
+    32.747073
+],
   "geometry": {"coordinates":[-103.144976,32.747073],"type":"Point"}
 }

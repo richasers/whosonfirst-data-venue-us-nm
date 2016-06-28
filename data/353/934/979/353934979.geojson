@@ -2,13 +2,14 @@
   "id": 353934979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.583009,35.058408,-106.583009,35.058408",
     "geom:latitude":35.058408,
     "geom:longitude":-106.583009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5315 Gibson Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":353934979,
-    "wof:lastmodified":1449018372,
+    "wof:lastmodified":1466698139,
     "wof:name":"99 Banh Oriental Supermarket",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "super"
     ]
 },
-  "bbox": [-106.583009,35.058408,-106.583009,35.058408],
+  "bbox": [
+    -106.583009,
+    35.058408,
+    -106.583009,
+    35.058408
+],
   "geometry": {"coordinates":[-106.583009,35.058408],"type":"Point"}
 }

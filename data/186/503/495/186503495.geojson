@@ -2,13 +2,14 @@
   "id": 186503495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.2306,32.797891,-103.2306,32.797891",
     "geom:latitude":32.797891,
     "geom:longitude":-103.2306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8313 N Dairy St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186503495,
-    "wof:lastmodified":1449053038,
+    "wof:lastmodified":1466700242,
     "wof:name":"Beetstra Family Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.2306,32.797891,-103.2306,32.797891],
+  "bbox": [
+    -103.2306,
+    32.797891,
+    -103.2306,
+    32.797891
+],
   "geometry": {"coordinates":[-103.2306,32.797891],"type":"Point"}
 }

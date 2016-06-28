@@ -2,13 +2,14 @@
   "id": 353919795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649257,35.084151,-106.649257,35.084151",
     "geom:latitude":35.084151,
     "geom:longitude":-106.649257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 2nd St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353919795,
-    "wof:lastmodified":1449020186,
+    "wof:lastmodified":1466697718,
     "wof:name":"Loughran Court Reporting",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "reporters-court"
     ]
 },
-  "bbox": [-106.649257,35.084151,-106.649257,35.084151],
-  "geometry": {"coordinates":[-106.649257,35.084151],"type":"Point"}
+  "bbox": [
+    -106.649257,
+    35.084151,
+    -106.649257,
+    35.084151
+],
+  "geometry": {"coordinates":[-106.64925700000001,35.084151],"type":"Point"}
 }

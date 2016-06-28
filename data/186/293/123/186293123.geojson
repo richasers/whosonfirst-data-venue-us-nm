@@ -2,13 +2,14 @@
   "id": 186293123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.979084,32.853642,-105.979084,32.853642",
     "geom:latitude":32.853642,
     "geom:longitude":-105.979084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"873 Wright Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186293123,
-    "wof:lastmodified":1449050936,
+    "wof:lastmodified":1466699241,
     "wof:name":"Opportunity Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "experience"
     ]
 },
-  "bbox": [-105.979084,32.853642,-105.979084,32.853642],
+  "bbox": [
+    -105.979084,
+    32.853642,
+    -105.979084,
+    32.853642
+],
   "geometry": {"coordinates":[-105.979084,32.853642],"type":"Point"}
 }

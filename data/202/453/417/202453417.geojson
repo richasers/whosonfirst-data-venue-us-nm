@@ -2,13 +2,14 @@
   "id": 202453417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.205708,36.721257,-108.205708,36.721257",
     "geom:latitude":36.721257,
     "geom:longitude":-108.205708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Quince St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202453417,
-    "wof:lastmodified":1449062012,
+    "wof:lastmodified":1466698573,
     "wof:name":"Bullocks Express Trnsp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-108.205708,36.721257,-108.205708,36.721257],
+  "bbox": [
+    -108.205708,
+    36.721257,
+    -108.205708,
+    36.721257
+],
   "geometry": {"coordinates":[-108.205708,36.721257],"type":"Point"}
 }

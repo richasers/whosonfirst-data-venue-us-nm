@@ -2,13 +2,14 @@
   "id": 186491537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.778116,34.663049,-106.778116,34.663049",
     "geom:latitude":34.663049,
     "geom:longitude":-106.778116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Reinken Ave",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186491537,
-    "wof:lastmodified":1449050191,
+    "wof:lastmodified":1466700294,
     "wof:name":"Craigs Fleet Auto & Trans Rpr",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-106.778116,34.663049,-106.778116,34.663049],
+  "bbox": [
+    -106.778116,
+    34.663049,
+    -106.778116,
+    34.663049
+],
   "geometry": {"coordinates":[-106.778116,34.663049],"type":"Point"}
 }

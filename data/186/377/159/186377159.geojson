@@ -2,13 +2,14 @@
   "id": 186377159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.583932,35.123235,-106.583932,35.123235",
     "geom:latitude":35.123235,
     "geom:longitude":-106.583932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5216 Comanche Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186377159,
-    "wof:lastmodified":1449051386,
+    "wof:lastmodified":1466699653,
     "wof:name":"Woods Communications Corp",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-106.583932,35.123235,-106.583932,35.123235],
+  "bbox": [
+    -106.583932,
+    35.123235,
+    -106.583932,
+    35.123235
+],
   "geometry": {"coordinates":[-106.583932,35.123235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202512985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.835265,32.366862,-106.835265,32.366862",
     "geom:latitude":32.366862,
     "geom:longitude":-106.835265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5248 Singer Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202512985,
-    "wof:lastmodified":1449061947,
+    "wof:lastmodified":1466699221,
     "wof:name":"Zks Stern Management",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.835265,32.366862,-106.835265,32.366862],
-  "geometry": {"coordinates":[-106.835265,32.366862],"type":"Point"}
+  "bbox": [
+    -106.835265,
+    32.366862,
+    -106.835265,
+    32.366862
+],
+  "geometry": {"coordinates":[-106.83526500000001,32.366862],"type":"Point"}
 }

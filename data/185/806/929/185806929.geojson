@@ -2,13 +2,14 @@
   "id": 185806929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.281016,36.446652,-105.281016,36.446652",
     "geom:latitude":36.446652,
     "geom:longitude":-105.281016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27736 US Hwy 64",
     "sg:city":"Angel Fire",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":185806929,
-    "wof:lastmodified":1449006592,
+    "wof:lastmodified":1466699369,
     "wof:name":"Angel Nest Apartments LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "operator"
     ]
 },
-  "bbox": [-105.281016,36.446652,-105.281016,36.446652],
-  "geometry": {"coordinates":[-105.281016,36.446652],"type":"Point"}
+  "bbox": [
+    -105.281016,
+    36.446652,
+    -105.281016,
+    36.446652
+],
+  "geometry": {"coordinates":[-105.28101599999999,36.446652],"type":"Point"}
 }

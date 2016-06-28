@@ -2,13 +2,14 @@
   "id": 202619037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.681211,33.333757,-105.681211,33.333757",
     "geom:latitude":33.333757,
     "geom:longitude":-105.681211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2819 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202619037,
-    "wof:lastmodified":1449060560,
+    "wof:lastmodified":1466698658,
     "wof:name":"William H Brogan Attorney",
     "wof:parent_id":85842645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-105.681211,33.333757,-105.681211,33.333757],
+  "bbox": [
+    -105.681211,
+    33.333757,
+    -105.681211,
+    33.333757
+],
   "geometry": {"coordinates":[-105.681211,33.333757],"type":"Point"}
 }

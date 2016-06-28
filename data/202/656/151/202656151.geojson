@@ -2,13 +2,14 @@
   "id": 202656151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.585632,35.167496,-106.585632,35.167496",
     "geom:latitude":35.167496,
     "geom:longitude":-106.585632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7447 Pan American Fwy",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202656151,
-    "wof:lastmodified":1449061737,
+    "wof:lastmodified":1466699226,
     "wof:name":"National Trim & Cabinet Supply",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "building"
     ]
 },
-  "bbox": [-106.585632,35.167496,-106.585632,35.167496],
+  "bbox": [
+    -106.585632,
+    35.167496,
+    -106.585632,
+    35.167496
+],
   "geometry": {"coordinates":[-106.585632,35.167496],"type":"Point"}
 }

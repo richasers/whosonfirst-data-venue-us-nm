@@ -2,13 +2,14 @@
   "id": 186632885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.136976,36.775456,-108.136976,36.775456",
     "geom:latitude":36.775456,
     "geom:longitude":-108.136976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 Ravella Dr",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186632885,
-    "wof:lastmodified":1449052091,
+    "wof:lastmodified":1466700764,
     "wof:name":"Matco Tools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-108.136976,36.775456,-108.136976,36.775456],
+  "bbox": [
+    -108.136976,
+    36.775456,
+    -108.136976,
+    36.775456
+],
   "geometry": {"coordinates":[-108.136976,36.775456],"type":"Point"}
 }

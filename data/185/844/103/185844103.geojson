@@ -2,13 +2,14 @@
   "id": 185844103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.137549,32.732567,-103.137549,32.732567",
     "geom:latitude":32.732567,
     "geom:longitude":-103.137549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 W Coal Ave",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185844103,
-    "wof:lastmodified":1449007292,
+    "wof:lastmodified":1466697944,
     "wof:name":"About Face",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-103.137549,32.732567,-103.137549,32.732567],
-  "geometry": {"coordinates":[-103.137549,32.732567],"type":"Point"}
+  "bbox": [
+    -103.137549,
+    32.732567,
+    -103.137549,
+    32.732567
+],
+  "geometry": {"coordinates":[-103.13754900000001,32.732567],"type":"Point"}
 }

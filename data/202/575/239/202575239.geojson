@@ -2,13 +2,14 @@
   "id": 202575239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.656131,35.185795,-106.656131,35.185795",
     "geom:latitude":35.185795,
     "geom:longitude":-106.656131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 Lyria Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202575239,
-    "wof:lastmodified":1449060854,
+    "wof:lastmodified":1466698015,
     "wof:name":"Bond Review Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.656131,35.185795,-106.656131,35.185795],
+  "bbox": [
+    -106.656131,
+    35.185795,
+    -106.656131,
+    35.185795
+],
   "geometry": {"coordinates":[-106.656131,35.185795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202479843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.556537,35.111021,-106.556537,35.111021",
     "geom:latitude":35.111021,
     "geom:longitude":-106.556537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7800 Phoenix Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202479843,
-    "wof:lastmodified":1449061821,
+    "wof:lastmodified":1466698968,
     "wof:name":"Cashequest",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-106.556537,35.111021,-106.556537,35.111021],
-  "geometry": {"coordinates":[-106.556537,35.111021],"type":"Point"}
+  "bbox": [
+    -106.556537,
+    35.111021,
+    -106.556537,
+    35.111021
+],
+  "geometry": {"coordinates":[-106.55653700000001,35.111021],"type":"Point"}
 }

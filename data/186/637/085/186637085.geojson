@@ -2,13 +2,14 @@
   "id": 186637085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.694183,32.255148,-107.694183,32.255148",
     "geom:latitude":32.255148,
     "geom:longitude":-107.694183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5330 Guernsey Rd SE",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186637085,
-    "wof:lastmodified":1449050253,
+    "wof:lastmodified":1466700773,
     "wof:name":"Kachina Mail Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.694183,32.255148,-107.694183,32.255148],
+  "bbox": [
+    -107.694183,
+    32.255148,
+    -107.694183,
+    32.255148
+],
   "geometry": {"coordinates":[-107.694183,32.255148],"type":"Point"}
 }

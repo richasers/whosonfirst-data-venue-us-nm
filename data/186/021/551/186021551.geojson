@@ -2,13 +2,14 @@
   "id": 186021551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.656503,35.236028,-106.656503,35.236028",
     "geom:latitude":35.236028,
     "geom:longitude":-106.656503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 Deborah Rd SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186021551,
-    "wof:lastmodified":1449052061,
+    "wof:lastmodified":1466697927,
     "wof:name":"Best Friends Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-106.656503,35.236028,-106.656503,35.236028],
+  "bbox": [
+    -106.656503,
+    35.236028,
+    -106.656503,
+    35.236028
+],
   "geometry": {"coordinates":[-106.656503,35.236028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202794871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.200208,36.752735,-108.200208,36.752735",
     "geom:latitude":36.752735,
     "geom:longitude":-108.200208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2375 N Suntuoso Ct",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202794871,
-    "wof:lastmodified":1449061347,
+    "wof:lastmodified":1466699848,
     "wof:name":"Children Inc-American Indian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-108.200208,36.752735,-108.200208,36.752735],
+  "bbox": [
+    -108.200208,
+    36.752735,
+    -108.200208,
+    36.752735
+],
   "geometry": {"coordinates":[-108.200208,36.752735],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202453255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.102577,36.747095,-108.102577,36.747095",
     "geom:latitude":36.747095,
     "geom:longitude":-108.102577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Rd 3773",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202453255,
-    "wof:lastmodified":1449062017,
+    "wof:lastmodified":1466698571,
     "wof:name":"Ethels Income Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-108.102577,36.747095,-108.102577,36.747095],
+  "bbox": [
+    -108.102577,
+    36.747095,
+    -108.102577,
+    36.747095
+],
   "geometry": {"coordinates":[-108.102577,36.747095],"type":"Point"}
 }

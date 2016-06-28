@@ -2,13 +2,14 @@
   "id": 203018395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.535471,35.067369,-106.535471,35.067369",
     "geom:latitude":35.067369,
     "geom:longitude":-106.535471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9901 Southern Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203018395,
-    "wof:lastmodified":1449025878,
+    "wof:lastmodified":1466697804,
     "wof:name":"Artistry Of Iron Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-106.535471,35.067369,-106.535471,35.067369],
+  "bbox": [
+    -106.535471,
+    35.067369,
+    -106.535471,
+    35.067369
+],
   "geometry": {"coordinates":[-106.535471,35.067369],"type":"Point"}
 }

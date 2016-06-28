@@ -2,13 +2,14 @@
   "id": 203014455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.712564,35.086319,-106.712564,35.086319",
     "geom:latitude":35.086319,
     "geom:longitude":-106.712564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7001 Bluewater Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203014455,
-    "wof:lastmodified":1449025851,
+    "wof:lastmodified":1466697758,
     "wof:name":"Diamondback Graphic Images",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-106.712564,35.086319,-106.712564,35.086319],
+  "bbox": [
+    -106.712564,
+    35.086319,
+    -106.712564,
+    35.086319
+],
   "geometry": {"coordinates":[-106.712564,35.086319],"type":"Point"}
 }

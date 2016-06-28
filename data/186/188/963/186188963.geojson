@@ -2,13 +2,14 @@
   "id": 186188963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.058388,36.817196,-108.058388,36.817196",
     "geom:latitude":36.817196,
     "geom:longitude":-108.058388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Hwy 516",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186188963,
-    "wof:lastmodified":1449051709,
+    "wof:lastmodified":1466697878,
     "wof:name":"E Z Shade",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.058388,36.817196,-108.058388,36.817196],
-  "geometry": {"coordinates":[-108.058388,36.817196],"type":"Point"}
+  "bbox": [
+    -108.058388,
+    36.817196,
+    -108.058388,
+    36.817196
+],
+  "geometry": {"coordinates":[-108.05838799999999,36.817196],"type":"Point"}
 }

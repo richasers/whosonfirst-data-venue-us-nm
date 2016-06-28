@@ -2,13 +2,14 @@
   "id": 185649847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.397524,32.842765,-104.397524,32.842765",
     "geom:latitude":32.842765,
     "geom:longitude":-104.397524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 N 1st St",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185649847,
-    "wof:lastmodified":1449007686,
+    "wof:lastmodified":1466698126,
     "wof:name":"Eddy County Assessors Office",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [-104.397524,32.842765,-104.397524,32.842765],
+  "bbox": [
+    -104.397524,
+    32.842765,
+    -104.397524,
+    32.842765
+],
   "geometry": {"coordinates":[-104.397524,32.842765],"type":"Point"}
 }

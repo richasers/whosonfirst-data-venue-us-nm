@@ -2,13 +2,14 @@
   "id": 202863941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.361396,35.101142,-106.361396,35.101142",
     "geom:latitude":35.101142,
     "geom:longitude":-106.361396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Shady Oak Cir",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202863941,
-    "wof:lastmodified":1449061841,
+    "wof:lastmodified":1466700325,
     "wof:name":"DML Inc",
     "wof:parent_id":85892613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "court"
     ]
 },
-  "bbox": [-106.361396,35.101142,-106.361396,35.101142],
+  "bbox": [
+    -106.361396,
+    35.101142,
+    -106.361396,
+    35.101142
+],
   "geometry": {"coordinates":[-106.361396,35.101142],"type":"Point"}
 }

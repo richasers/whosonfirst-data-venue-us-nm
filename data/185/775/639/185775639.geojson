@@ -2,13 +2,14 @@
   "id": 185775639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.939693,32.886201,-105.939693,32.886201",
     "geom:latitude":32.886201,
     "geom:longitude":-105.939693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 S Canyon Rd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185775639,
-    "wof:lastmodified":1449007789,
+    "wof:lastmodified":1466699247,
     "wof:name":"N A L C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.939693,32.886201,-105.939693,32.886201],
-  "geometry": {"coordinates":[-105.939693,32.886201],"type":"Point"}
+  "bbox": [
+    -105.939693,
+    32.886201,
+    -105.939693,
+    32.886201
+],
+  "geometry": {"coordinates":[-105.93969300000001,32.886201],"type":"Point"}
 }

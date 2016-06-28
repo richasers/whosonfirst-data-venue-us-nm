@@ -2,13 +2,14 @@
   "id": 202411979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.204388,36.729093,-108.204388,36.729093",
     "geom:latitude":36.729093,
     "geom:longitude":-108.204388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202411979,
-    "wof:lastmodified":1449060217,
+    "wof:lastmodified":1466698098,
     "wof:name":"Fetterolfs Mens Wear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "special"
     ]
 },
-  "bbox": [-108.204388,36.729093,-108.204388,36.729093],
-  "geometry": {"coordinates":[-108.204388,36.729093],"type":"Point"}
+  "bbox": [
+    -108.204388,
+    36.729093,
+    -108.204388,
+    36.729093
+],
+  "geometry": {"coordinates":[-108.20438799999999,36.729093],"type":"Point"}
 }

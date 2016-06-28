@@ -2,13 +2,14 @@
   "id": 186493579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.526499,35.087064,-106.526499,35.087064",
     "geom:latitude":35.087064,
     "geom:longitude":-106.526499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10801 Lomas Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":186493579,
-    "wof:lastmodified":1449051237,
+    "wof:lastmodified":1466700294,
     "wof:name":"America's Massage",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.526499,35.087064,-106.526499,35.087064],
+  "bbox": [
+    -106.526499,
+    35.087064,
+    -106.526499,
+    35.087064
+],
   "geometry": {"coordinates":[-106.526499,35.087064],"type":"Point"}
 }

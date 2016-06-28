@@ -2,13 +2,14 @@
   "id": 186426033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.83029,32.35908,-106.83029,32.35908",
     "geom:latitude":32.35908,
     "geom:longitude":-106.83029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4625 Northwind Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186426033,
-    "wof:lastmodified":1449050974,
+    "wof:lastmodified":1466699949,
     "wof:name":"Services In Coxco Agricultural",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-106.83029,32.35908,-106.83029,32.35908],
-  "geometry": {"coordinates":[-106.83029,32.35908],"type":"Point"}
+  "bbox": [
+    -106.83029,
+    32.35908,
+    -106.83029,
+    32.35908
+],
+  "geometry": {"coordinates":[-106.83029000000001,32.35908],"type":"Point"}
 }

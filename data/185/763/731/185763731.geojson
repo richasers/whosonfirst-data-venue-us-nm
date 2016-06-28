@@ -2,13 +2,14 @@
   "id": 185763731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.25706,33.130064,-107.25706,33.130064",
     "geom:latitude":33.130064,
     "geom:longitude":-107.25706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"595 Main St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185763731,
-    "wof:lastmodified":1449008203,
+    "wof:lastmodified":1466699212,
     "wof:name":"Motor Manor Motel & Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-107.25706,33.130064,-107.25706,33.130064],
+  "bbox": [
+    -107.25706,
+    33.130064,
+    -107.25706,
+    33.130064
+],
   "geometry": {"coordinates":[-107.25706,33.130064],"type":"Point"}
 }

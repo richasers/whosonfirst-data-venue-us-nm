@@ -2,13 +2,14 @@
   "id": 186480413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.213924,36.72249,-108.213924,36.72249",
     "geom:latitude":36.72249,
     "geom:longitude":-108.213924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 S Drake Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186480413,
-    "wof:lastmodified":1449051266,
+    "wof:lastmodified":1466700038,
     "wof:name":"San Juan Medical Foundations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.213924,36.72249,-108.213924,36.72249],
-  "geometry": {"coordinates":[-108.213924,36.72249],"type":"Point"}
+  "bbox": [
+    -108.213924,
+    36.72249,
+    -108.213924,
+    36.72249
+],
+  "geometry": {"coordinates":[-108.21392400000001,36.72249],"type":"Point"}
 }

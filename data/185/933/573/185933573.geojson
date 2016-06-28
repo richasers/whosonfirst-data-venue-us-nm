@@ -2,13 +2,14 @@
   "id": 185933573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.783776,32.328022,-106.783776,32.328022",
     "geom:latitude":32.328022,
     "geom:longitude":-106.783776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2475 N Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185933573,
-    "wof:lastmodified":1449006946,
+    "wof:lastmodified":1466698989,
     "wof:name":"American Liberty National Mtg",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-106.783776,32.328022,-106.783776,32.328022],
+  "bbox": [
+    -106.783776,
+    32.328022,
+    -106.783776,
+    32.328022
+],
   "geometry": {"coordinates":[-106.783776,32.328022],"type":"Point"}
 }

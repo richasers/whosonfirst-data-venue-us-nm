@@ -2,13 +2,14 @@
   "id": 202783407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.743393,35.069142,-106.743393,35.069142",
     "geom:latitude":35.069142,
     "geom:longitude":-106.743393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9809 Lauren Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202783407,
-    "wof:lastmodified":1449060174,
+    "wof:lastmodified":1466699787,
     "wof:name":"Longford Homes Of New Mexico",
     "wof:parent_id":85892581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-106.743393,35.069142,-106.743393,35.069142],
+  "bbox": [
+    -106.743393,
+    35.069142,
+    -106.743393,
+    35.069142
+],
   "geometry": {"coordinates":[-106.743393,35.069142],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186094705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.750232,32.308392,-106.750232,32.308392",
     "geom:latitude":32.308392,
     "geom:longitude":-106.750232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2330 Nevada Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186094705,
-    "wof:lastmodified":1449052052,
+    "wof:lastmodified":1466698835,
     "wof:name":"911 Contract Svc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-106.750232,32.308392,-106.750232,32.308392],
+  "bbox": [
+    -106.750232,
+    32.308392,
+    -106.750232,
+    32.308392
+],
   "geometry": {"coordinates":[-106.750232,32.308392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202661695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.275583,35.89048,-106.275583,35.89048",
     "geom:latitude":35.89048,
     "geom:longitude":-106.275583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Sioux St",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202661695,
-    "wof:lastmodified":1449062373,
+    "wof:lastmodified":1466699309,
     "wof:name":"Buschman Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.275583,35.89048,-106.275583,35.89048],
+  "bbox": [
+    -106.275583,
+    35.89048,
+    -106.275583,
+    35.89048
+],
   "geometry": {"coordinates":[-106.275583,35.89048],"type":"Point"}
 }

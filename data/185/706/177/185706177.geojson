@@ -2,13 +2,14 @@
   "id": 185706177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.225632,35.604045,-105.225632,35.604045",
     "geom:latitude":35.604045,
     "geom:longitude":-105.225632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 Mills Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185706177,
-    "wof:lastmodified":1449006718,
+    "wof:lastmodified":1466698700,
     "wof:name":"Bright Smiles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-105.225632,35.604045,-105.225632,35.604045],
+  "bbox": [
+    -105.225632,
+    35.604045,
+    -105.225632,
+    35.604045
+],
   "geometry": {"coordinates":[-105.225632,35.604045],"type":"Point"}
 }

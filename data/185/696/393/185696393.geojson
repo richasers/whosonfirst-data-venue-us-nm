@@ -2,13 +2,14 @@
   "id": 185696393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.758196,32.29535,-106.758196,32.29535",
     "geom:latitude":32.29535,
     "geom:longitude":-106.758196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1546 Missouri Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185696393,
-    "wof:lastmodified":1449006727,
+    "wof:lastmodified":1466698610,
     "wof:name":"A K Products",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.758196,32.29535,-106.758196,32.29535],
+  "bbox": [
+    -106.758196,
+    32.29535,
+    -106.758196,
+    32.29535
+],
   "geometry": {"coordinates":[-106.758196,32.29535],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202507297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.04116,36.706834,-108.04116,36.706834",
     "geom:latitude":36.706834,
     "geom:longitude":-108.04116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Rd 5151",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202507297,
-    "wof:lastmodified":1449061422,
+    "wof:lastmodified":1466699192,
     "wof:name":"Cactus Mobile Home Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-108.04116,36.706834,-108.04116,36.706834],
+  "bbox": [
+    -108.04116,
+    36.706834,
+    -108.04116,
+    36.706834
+],
   "geometry": {"coordinates":[-108.04116,36.706834],"type":"Point"}
 }

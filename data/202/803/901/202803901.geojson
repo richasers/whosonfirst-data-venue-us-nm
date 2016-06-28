@@ -2,13 +2,14 @@
   "id": 202803901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.783362,32.326984,-106.783362,32.326984",
     "geom:latitude":32.326984,
     "geom:longitude":-106.783362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2180 N Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202803901,
-    "wof:lastmodified":1449062683,
+    "wof:lastmodified":1466699990,
     "wof:name":"Watermill Express",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "company"
     ]
 },
-  "bbox": [-106.783362,32.326984,-106.783362,32.326984],
+  "bbox": [
+    -106.783362,
+    32.326984,
+    -106.783362,
+    32.326984
+],
   "geometry": {"coordinates":[-106.783362,32.326984],"type":"Point"}
 }

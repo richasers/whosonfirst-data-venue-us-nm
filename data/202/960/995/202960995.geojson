@@ -2,13 +2,14 @@
   "id": 202960995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.774422,32.342656,-106.774422,32.342656",
     "geom:latitude":32.342656,
     "geom:longitude":-106.774422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3111 N Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202960995,
-    "wof:lastmodified":1449061924,
+    "wof:lastmodified":1466700611,
     "wof:name":"Las Cruces Recycling Ctr",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-106.774422,32.342656,-106.774422,32.342656],
+  "bbox": [
+    -106.774422,
+    32.342656,
+    -106.774422,
+    32.342656
+],
   "geometry": {"coordinates":[-106.774422,32.342656],"type":"Point"}
 }

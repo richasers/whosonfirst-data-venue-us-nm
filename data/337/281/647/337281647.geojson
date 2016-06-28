@@ -2,13 +2,14 @@
   "id": 337281647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.950343,32.921787,-105.950343,32.921787",
     "geom:latitude":32.921787,
     "geom:longitude":-105.950343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2503 Hawaii Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337281647,
-    "wof:lastmodified":1449027614,
+    "wof:lastmodified":1466697648,
     "wof:name":"B&B Concrete Sawing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.950343,32.921787,-105.950343,32.921787],
+  "bbox": [
+    -105.950343,
+    32.921787,
+    -105.950343,
+    32.921787
+],
   "geometry": {"coordinates":[-105.950343,32.921787],"type":"Point"}
 }

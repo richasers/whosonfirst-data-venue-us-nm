@@ -2,13 +2,14 @@
   "id": 203005981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.643694,35.149433,-106.643694,35.149433",
     "geom:latitude":35.149433,
     "geom:longitude":-106.643694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Cam Espanol NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203005981,
-    "wof:lastmodified":1449026712,
+    "wof:lastmodified":1466697647,
     "wof:name":"Collaborative Leadership Sol",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "educational"
     ]
 },
-  "bbox": [-106.643694,35.149433,-106.643694,35.149433],
+  "bbox": [
+    -106.643694,
+    35.149433,
+    -106.643694,
+    35.149433
+],
   "geometry": {"coordinates":[-106.643694,35.149433],"type":"Point"}
 }

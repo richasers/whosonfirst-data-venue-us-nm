@@ -2,13 +2,14 @@
   "id": 186524471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.621261,31.846798,-106.621261,31.846798",
     "geom:latitude":31.846798,
     "geom:longitude":-106.621261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5357 Crawford Rd",
     "sg:city":"Santa Teresa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186524471,
-    "wof:lastmodified":1449050226,
+    "wof:lastmodified":1466700442,
     "wof:name":"Marco A Cuaron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-106.621261,31.846798,-106.621261,31.846798],
+  "bbox": [
+    -106.621261,
+    31.846798,
+    -106.621261,
+    31.846798
+],
   "geometry": {"coordinates":[-106.621261,31.846798],"type":"Point"}
 }

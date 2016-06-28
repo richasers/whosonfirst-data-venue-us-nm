@@ -2,13 +2,14 @@
   "id": 203059985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.708249,35.163635,-106.708249,35.163635",
     "geom:latitude":35.163635,
     "geom:longitude":-106.708249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6012 Open Sky Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203059985,
-    "wof:lastmodified":1449025427,
+    "wof:lastmodified":1466698239,
     "wof:name":"JOB",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "disc"
     ]
 },
-  "bbox": [-106.708249,35.163635,-106.708249,35.163635],
+  "bbox": [
+    -106.708249,
+    35.163635,
+    -106.708249,
+    35.163635
+],
   "geometry": {"coordinates":[-106.708249,35.163635],"type":"Point"}
 }

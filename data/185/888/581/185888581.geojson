@@ -2,13 +2,14 @@
   "id": 185888581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.9409,32.911735,-105.9409,32.911735",
     "geom:latitude":32.911735,
     "geom:longitude":-105.9409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1828 Corte del Ranchero",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185888581,
-    "wof:lastmodified":1449007611,
+    "wof:lastmodified":1466698406,
     "wof:name":"Woven Stitch Crochet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-105.9409,32.911735,-105.9409,32.911735],
+  "bbox": [
+    -105.9409,
+    32.911735,
+    -105.9409,
+    32.911735
+],
   "geometry": {"coordinates":[-105.9409,32.911735],"type":"Point"}
 }

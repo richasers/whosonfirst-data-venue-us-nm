@@ -2,13 +2,14 @@
   "id": 185833023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.609438,35.079386,-106.609438,35.079386",
     "geom:latitude":35.079386,
     "geom:longitude":-106.609438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Bryn Mawr Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185833023,
-    "wof:lastmodified":1449006807,
+    "wof:lastmodified":1466697825,
     "wof:name":"Kristin L Roush PHD",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.609438,35.079386,-106.609438,35.079386],
+  "bbox": [
+    -106.609438,
+    35.079386,
+    -106.609438,
+    35.079386
+],
   "geometry": {"coordinates":[-106.609438,35.079386],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202410811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.434777,33.285214,-104.434777,33.285214",
     "geom:latitude":33.285214,
     "geom:longitude":-104.434777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 E Darby Rd",
     "sg:city":"Dexter",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202410811,
-    "wof:lastmodified":1449060141,
+    "wof:lastmodified":1466698087,
     "wof:name":"Tedros Dairy Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.434777,33.285214,-104.434777,33.285214],
+  "bbox": [
+    -104.434777,
+    33.285214,
+    -104.434777,
+    33.285214
+],
   "geometry": {"coordinates":[-104.434777,33.285214],"type":"Point"}
 }

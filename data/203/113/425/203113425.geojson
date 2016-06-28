@@ -2,13 +2,14 @@
   "id": 203113425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.95692,32.890085,-105.95692,32.890085",
     "geom:latitude":32.890085,
     "geom:longitude":-105.95692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 1st St",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203113425,
-    "wof:lastmodified":1449026701,
+    "wof:lastmodified":1466698900,
     "wof:name":"Alamo School Bus Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "line"
     ]
 },
-  "bbox": [-105.95692,32.890085,-105.95692,32.890085],
+  "bbox": [
+    -105.95692,
+    32.890085,
+    -105.95692,
+    32.890085
+],
   "geometry": {"coordinates":[-105.95692,32.890085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185706545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.020663,36.825072,-108.020663,36.825072",
     "geom:latitude":36.825072,
     "geom:longitude":-108.020663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 S Oliver Ave",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185706545,
-    "wof:lastmodified":1449006716,
+    "wof:lastmodified":1466698704,
     "wof:name":"Pepsi-Cola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.020663,36.825072,-108.020663,36.825072],
+  "bbox": [
+    -108.020663,
+    36.825072,
+    -108.020663,
+    36.825072
+],
   "geometry": {"coordinates":[-108.020663,36.825072],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186516011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.249094,32.440344,-104.249094,32.440344",
     "geom:latitude":32.440344,
     "geom:longitude":-104.249094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 Landsun Dr",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186516011,
-    "wof:lastmodified":1449050921,
+    "wof:lastmodified":1466700175,
     "wof:name":"Landsun Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "builder"
     ]
 },
-  "bbox": [-104.249094,32.440344,-104.249094,32.440344],
+  "bbox": [
+    -104.249094,
+    32.440344,
+    -104.249094,
+    32.440344
+],
   "geometry": {"coordinates":[-104.249094,32.440344],"type":"Point"}
 }

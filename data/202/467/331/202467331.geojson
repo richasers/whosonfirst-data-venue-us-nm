@@ -2,13 +2,14 @@
   "id": 202467331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.087049,36.004956,-106.087049,36.004956",
     "geom:latitude":36.004956,
     "geom:longitude":-106.087049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 N Pso de Onate",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202467331,
-    "wof:lastmodified":1449062111,
+    "wof:lastmodified":1466698736,
     "wof:name":"Delta Bar",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.087049,36.004956,-106.087049,36.004956],
-  "geometry": {"coordinates":[-106.087049,36.004956],"type":"Point"}
+  "bbox": [
+    -106.087049,
+    36.004956,
+    -106.087049,
+    36.004956
+],
+  "geometry": {"coordinates":[-106.08704899999999,36.004956],"type":"Point"}
 }

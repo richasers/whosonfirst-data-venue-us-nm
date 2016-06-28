@@ -2,13 +2,14 @@
   "id": 353918023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.389957,35.079226,-106.389957,35.079226",
     "geom:latitude":35.079226,
     "geom:longitude":-106.389957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandia Ranger District 11776 Highway 337",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":353918023,
-    "wof:lastmodified":1449019975,
+    "wof:lastmodified":1466697671,
     "wof:name":"Doc Long Picnic Area",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "local"
     ]
 },
-  "bbox": [-106.389957,35.079226,-106.389957,35.079226],
+  "bbox": [
+    -106.389957,
+    35.079226,
+    -106.389957,
+    35.079226
+],
   "geometry": {"coordinates":[-106.389957,35.079226],"type":"Point"}
 }

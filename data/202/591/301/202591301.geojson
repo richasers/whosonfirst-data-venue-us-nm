@@ -2,13 +2,14 @@
   "id": 202591301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.742251,32.307344,-106.742251,32.307344",
     "geom:latitude":32.307344,
     "geom:longitude":-106.742251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1141 Mall Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202591301,
-    "wof:lastmodified":1449061469,
+    "wof:lastmodified":1466698258,
     "wof:name":"Dr Ting",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-106.742251,32.307344,-106.742251,32.307344],
+  "bbox": [
+    -106.742251,
+    32.307344,
+    -106.742251,
+    32.307344
+],
   "geometry": {"coordinates":[-106.742251,32.307344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186478473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781543,32.312857,-106.781543,32.312857",
     "geom:latitude":32.312857,
     "geom:longitude":-106.781543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 W Hadley Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186478473,
-    "wof:lastmodified":1449050355,
+    "wof:lastmodified":1466700147,
     "wof:name":"Medius Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.781543,32.312857,-106.781543,32.312857],
+  "bbox": [
+    -106.781543,
+    32.312857,
+    -106.781543,
+    32.312857
+],
   "geometry": {"coordinates":[-106.781543,32.312857],"type":"Point"}
 }

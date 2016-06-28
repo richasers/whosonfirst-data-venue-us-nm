@@ -2,13 +2,14 @@
   "id": 202808167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.714416,34.870144,-106.714416,34.870144",
     "geom:latitude":34.870144,
     "geom:longitude":-106.714416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 Braught Rd",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202808167,
-    "wof:lastmodified":1449060222,
+    "wof:lastmodified":1466699997,
     "wof:name":"Farco Construction",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.714416,34.870144,-106.714416,34.870144],
+  "bbox": [
+    -106.714416,
+    34.870144,
+    -106.714416,
+    34.870144
+],
   "geometry": {"coordinates":[-106.714416,34.870144],"type":"Point"}
 }

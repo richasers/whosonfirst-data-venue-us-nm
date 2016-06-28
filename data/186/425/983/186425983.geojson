@@ -2,13 +2,14 @@
   "id": 186425983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.127625,32.721455,-103.127625,32.721455",
     "geom:latitude":32.721455,
     "geom:longitude":-103.127625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 N Dal Paso St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186425983,
-    "wof:lastmodified":1449051340,
+    "wof:lastmodified":1466699822,
     "wof:name":"Desert Medical Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-103.127625,32.721455,-103.127625,32.721455],
-  "geometry": {"coordinates":[-103.127625,32.721455],"type":"Point"}
+  "bbox": [
+    -103.127625,
+    32.721455,
+    -103.127625,
+    32.721455
+],
+  "geometry": {"coordinates":[-103.12762499999999,32.721455],"type":"Point"}
 }

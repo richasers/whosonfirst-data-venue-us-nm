@@ -2,13 +2,14 @@
   "id": 186299749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.524487,35.113217,-106.524487,35.113217",
     "geom:latitude":35.113217,
     "geom:longitude":-106.524487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 Stevens Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186299749,
-    "wof:lastmodified":1449051076,
+    "wof:lastmodified":1466699331,
     "wof:name":"Desert Gorilla",
     "wof:parent_id":85871891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.524487,35.113217,-106.524487,35.113217],
-  "geometry": {"coordinates":[-106.524487,35.113217],"type":"Point"}
+  "bbox": [
+    -106.524487,
+    35.113217,
+    -106.524487,
+    35.113217
+],
+  "geometry": {"coordinates":[-106.52448699999999,35.113217],"type":"Point"}
 }

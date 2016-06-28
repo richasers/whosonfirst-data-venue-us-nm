@@ -2,13 +2,14 @@
   "id": 203099065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.894158,34.056447,-106.894158,34.056447",
     "geom:latitude":34.056447,
     "geom:longitude":-106.894158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Garfield Ave",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203099065,
-    "wof:lastmodified":1449026217,
+    "wof:lastmodified":1466698721,
     "wof:name":"John R Gerbracht",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.894158,34.056447,-106.894158,34.056447],
+  "bbox": [
+    -106.894158,
+    34.056447,
+    -106.894158,
+    34.056447
+],
   "geometry": {"coordinates":[-106.894158,34.056447],"type":"Point"}
 }

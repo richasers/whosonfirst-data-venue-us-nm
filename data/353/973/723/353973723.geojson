@@ -2,13 +2,14 @@
   "id": 353973723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.444253,32.03805,-106.444253,32.03805",
     "geom:latitude":32.03805,
     "geom:longitude":-106.444253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"595 Katydid Ln",
     "sg:city":"Chaparral",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353973723,
-    "wof:lastmodified":1449019805,
+    "wof:lastmodified":1466699455,
     "wof:name":"G & C Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "sheet"
     ]
 },
-  "bbox": [-106.444253,32.03805,-106.444253,32.03805],
+  "bbox": [
+    -106.444253,
+    32.03805,
+    -106.444253,
+    32.03805
+],
   "geometry": {"coordinates":[-106.444253,32.03805],"type":"Point"}
 }

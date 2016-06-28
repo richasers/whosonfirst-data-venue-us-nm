@@ -2,13 +2,14 @@
   "id": 185780297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.582048,35.097928,-106.582048,35.097928",
     "geom:latitude":35.097928,
     "geom:longitude":-106.582048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1923 Alvarado Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185780297,
-    "wof:lastmodified":1449007812,
+    "wof:lastmodified":1466699260,
     "wof:name":"Aa",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-106.582048,35.097928,-106.582048,35.097928],
+  "bbox": [
+    -106.582048,
+    35.097928,
+    -106.582048,
+    35.097928
+],
   "geometry": {"coordinates":[-106.582048,35.097928],"type":"Point"}
 }

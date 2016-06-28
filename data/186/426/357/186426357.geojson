@@ -2,13 +2,14 @@
   "id": 186426357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.650966,35.094016,-106.650966,35.094016",
     "geom:latitude":35.094016,
     "geom:longitude":-106.650966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 5th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186426357,
-    "wof:lastmodified":1449050976,
+    "wof:lastmodified":1466699950,
     "wof:name":"Giron Law Office",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.650966,35.094016,-106.650966,35.094016],
+  "bbox": [
+    -106.650966,
+    35.094016,
+    -106.650966,
+    35.094016
+],
   "geometry": {"coordinates":[-106.650966,35.094016],"type":"Point"}
 }

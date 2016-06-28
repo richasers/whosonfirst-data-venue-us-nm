@@ -2,13 +2,14 @@
   "id": 186521577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.742541,35.192032,-106.742541,35.192032",
     "geom:latitude":35.192032,
     "geom:longitude":-106.742541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9912 Ashland St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186521577,
-    "wof:lastmodified":1449052910,
+    "wof:lastmodified":1466700434,
     "wof:name":"Nagel Const",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.742541,35.192032,-106.742541,35.192032],
+  "bbox": [
+    -106.742541,
+    35.192032,
+    -106.742541,
+    35.192032
+],
   "geometry": {"coordinates":[-106.742541,35.192032],"type":"Point"}
 }

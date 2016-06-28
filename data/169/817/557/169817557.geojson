@@ -2,13 +2,14 @@
   "id": 169817557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.513254,35.148078,-106.513254,35.148078",
     "geom:latitude":35.148078,
     "geom:longitude":-106.513254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6012 Nasci Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169817557,
-    "wof:lastmodified":1449035314,
+    "wof:lastmodified":1466698728,
     "wof:name":"Rio Grande Studios",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rental"
     ]
 },
-  "bbox": [-106.513254,35.148078,-106.513254,35.148078],
+  "bbox": [
+    -106.513254,
+    35.148078,
+    -106.513254,
+    35.148078
+],
   "geometry": {"coordinates":[-106.513254,35.148078],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185961453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.210816,35.61813,-105.210816,35.61813",
     "geom:latitude":35.61813,
     "geom:longitude":-105.210816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2362 East Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185961453,
-    "wof:lastmodified":1449008158,
+    "wof:lastmodified":1466699393,
     "wof:name":"East Drive Baptist Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-105.210816,35.61813,-105.210816,35.61813],
-  "geometry": {"coordinates":[-105.210816,35.61813],"type":"Point"}
+  "bbox": [
+    -105.210816,
+    35.61813,
+    -105.210816,
+    35.61813
+],
+  "geometry": {"coordinates":[-105.21081599999999,35.61813],"type":"Point"}
 }

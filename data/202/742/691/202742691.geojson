@@ -2,13 +2,14 @@
   "id": 202742691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.545956,35.069126,-106.545956,35.069126",
     "geom:latitude":35.069126,
     "geom:longitude":-106.545956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9000 Trumbull Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202742691,
-    "wof:lastmodified":1449060273,
+    "wof:lastmodified":1466699754,
     "wof:name":"Wyoming Plaza & Ter MBL HM Pk",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "site"
     ]
 },
-  "bbox": [-106.545956,35.069126,-106.545956,35.069126],
+  "bbox": [
+    -106.545956,
+    35.069126,
+    -106.545956,
+    35.069126
+],
   "geometry": {"coordinates":[-106.545956,35.069126],"type":"Point"}
 }

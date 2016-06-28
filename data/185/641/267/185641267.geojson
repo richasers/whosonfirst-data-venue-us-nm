@@ -2,13 +2,14 @@
   "id": 185641267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.574282,36.40445,-105.574282,36.40445",
     "geom:latitude":36.40445,
     "geom:longitude":-105.574282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185641267,
-    "wof:lastmodified":1449007842,
+    "wof:lastmodified":1466698047,
     "wof:name":"Oliver K Mc Crary MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physician"
     ]
 },
-  "bbox": [-105.574282,36.40445,-105.574282,36.40445],
+  "bbox": [
+    -105.574282,
+    36.40445,
+    -105.574282,
+    36.40445
+],
   "geometry": {"coordinates":[-105.574282,36.40445],"type":"Point"}
 }

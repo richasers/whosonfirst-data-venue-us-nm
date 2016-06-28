@@ -2,13 +2,14 @@
   "id": 169762177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.564182,35.159747,-106.564182,35.159747",
     "geom:latitude":35.159747,
     "geom:longitude":-106.564182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7340 San Antonio Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169762177,
-    "wof:lastmodified":1449035009,
+    "wof:lastmodified":1466698181,
     "wof:name":"Premier Tire and Service Inc",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-106.564182,35.159747,-106.564182,35.159747],
+  "bbox": [
+    -106.564182,
+    35.159747,
+    -106.564182,
+    35.159747
+],
   "geometry": {"coordinates":[-106.564182,35.159747],"type":"Point"}
 }

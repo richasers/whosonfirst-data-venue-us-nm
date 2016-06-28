@@ -2,13 +2,14 @@
   "id": 185727343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.534609,35.139995,-106.534609,35.139995",
     "geom:latitude":35.139995,
     "geom:longitude":-106.534609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9636 Villa del Rey NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185727343,
-    "wof:lastmodified":1449006852,
+    "wof:lastmodified":1466698941,
     "wof:name":"Kharyn Cover CPA",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-106.534609,35.139995,-106.534609,35.139995],
+  "bbox": [
+    -106.534609,
+    35.139995,
+    -106.534609,
+    35.139995
+],
   "geometry": {"coordinates":[-106.534609,35.139995],"type":"Point"}
 }

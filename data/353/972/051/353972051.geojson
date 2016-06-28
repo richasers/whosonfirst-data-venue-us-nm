@@ -2,13 +2,14 @@
   "id": 353972051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.655998,31.9533,-106.655998,31.9533",
     "geom:latitude":31.9533,
     "geom:longitude":-106.655998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"875 Mercantil Ave",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353972051,
-    "wof:lastmodified":1449019541,
+    "wof:lastmodified":1466699577,
     "wof:name":"La Union Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "elementary"
     ]
 },
-  "bbox": [-106.655998,31.9533,-106.655998,31.9533],
+  "bbox": [
+    -106.655998,
+    31.9533,
+    -106.655998,
+    31.9533
+],
   "geometry": {"coordinates":[-106.655998,31.9533],"type":"Point"}
 }

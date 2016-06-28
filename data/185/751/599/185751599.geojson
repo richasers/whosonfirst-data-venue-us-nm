@@ -2,13 +2,14 @@
   "id": 185751599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960192,32.878177,-105.960192,32.878177",
     "geom:latitude":32.878177,
     "geom:longitude":-105.960192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 S White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185751599,
-    "wof:lastmodified":1449006677,
+    "wof:lastmodified":1466699159,
     "wof:name":"Blue Stone The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "jeweler"
     ]
 },
-  "bbox": [-105.960192,32.878177,-105.960192,32.878177],
-  "geometry": {"coordinates":[-105.960192,32.878177],"type":"Point"}
+  "bbox": [
+    -105.960192,
+    32.878177,
+    -105.960192,
+    32.878177
+],
+  "geometry": {"coordinates":[-105.96019200000001,32.878177],"type":"Point"}
 }

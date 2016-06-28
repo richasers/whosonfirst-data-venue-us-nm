@@ -2,13 +2,14 @@
   "id": 186594127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.214097,34.409892,-103.214097,34.409892",
     "geom:latitude":34.409892,
     "geom:longitude":-103.214097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 N Thornton St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186594127,
-    "wof:lastmodified":1449050753,
+    "wof:lastmodified":1466700620,
     "wof:name":"Bob's Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-103.214097,34.409892,-103.214097,34.409892],
+  "bbox": [
+    -103.214097,
+    34.409892,
+    -103.214097,
+    34.409892
+],
   "geometry": {"coordinates":[-103.214097,34.409892],"type":"Point"}
 }

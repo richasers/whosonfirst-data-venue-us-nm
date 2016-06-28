@@ -2,13 +2,14 @@
   "id": 185892473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.557505,35.120462,-106.557505,35.120462",
     "geom:latitude":35.120462,
     "geom:longitude":-106.557505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3107 Texas St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185892473,
-    "wof:lastmodified":1449006844,
+    "wof:lastmodified":1466698438,
     "wof:name":"Lightning Lock & Key",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-106.557505,35.120462,-106.557505,35.120462],
-  "geometry": {"coordinates":[-106.557505,35.120462],"type":"Point"}
+  "bbox": [
+    -106.557505,
+    35.120462,
+    -106.557505,
+    35.120462
+],
+  "geometry": {"coordinates":[-106.55750500000001,35.120462],"type":"Point"}
 }

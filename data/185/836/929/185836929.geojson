@@ -2,13 +2,14 @@
   "id": 185836929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.226613,36.727563,-108.226613,36.727563",
     "geom:latitude":36.727563,
     "geom:longitude":-108.226613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1332 W Murray Dr",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185836929,
-    "wof:lastmodified":1449007663,
+    "wof:lastmodified":1466697862,
     "wof:name":"Ross Wes Electrical Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.226613,36.727563,-108.226613,36.727563],
+  "bbox": [
+    -108.226613,
+    36.727563,
+    -108.226613,
+    36.727563
+],
   "geometry": {"coordinates":[-108.226613,36.727563],"type":"Point"}
 }

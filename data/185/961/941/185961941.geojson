@@ -2,13 +2,14 @@
   "id": 185961941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.029743,35.622423,-106.029743,35.622423",
     "geom:latitude":35.622423,
     "geom:longitude":-106.029743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 Ocate Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185961941,
-    "wof:lastmodified":1449008158,
+    "wof:lastmodified":1466699398,
     "wof:name":"Al's Rv Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.029743,35.622423,-106.029743,35.622423],
+  "bbox": [
+    -106.029743,
+    35.622423,
+    -106.029743,
+    35.622423
+],
   "geometry": {"coordinates":[-106.029743,35.622423],"type":"Point"}
 }

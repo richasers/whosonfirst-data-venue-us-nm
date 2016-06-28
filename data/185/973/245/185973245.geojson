@@ -2,13 +2,14 @@
   "id": 185973245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.340651,34.183904,-103.340651,34.183904",
     "geom:latitude":34.183904,
     "geom:longitude":-103.340651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S Ave D",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185973245,
-    "wof:lastmodified":1449007580,
+    "wof:lastmodified":1466699575,
     "wof:name":"All About You & Auto Detailing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-103.340651,34.183904,-103.340651,34.183904],
-  "geometry": {"coordinates":[-103.340651,34.183904],"type":"Point"}
+  "bbox": [
+    -103.340651,
+    34.183904,
+    -103.340651,
+    34.183904
+],
+  "geometry": {"coordinates":[-103.34065099999999,34.183904],"type":"Point"}
 }

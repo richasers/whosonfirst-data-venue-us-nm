@@ -2,13 +2,14 @@
   "id": 185913793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.345343,34.180942,-103.345343,34.180942",
     "geom:latitude":34.180942,
     "geom:longitude":-103.345343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 W 2nd St",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185913793,
-    "wof:lastmodified":1449007233,
+    "wof:lastmodified":1466698712,
     "wof:name":"Vardemans Cleaners & Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plant"
     ]
 },
-  "bbox": [-103.345343,34.180942,-103.345343,34.180942],
+  "bbox": [
+    -103.345343,
+    34.180942,
+    -103.345343,
+    34.180942
+],
   "geometry": {"coordinates":[-103.345343,34.180942],"type":"Point"}
 }

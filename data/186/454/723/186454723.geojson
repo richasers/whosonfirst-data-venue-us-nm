@@ -2,13 +2,14 @@
   "id": 186454723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.727854,35.102671,-106.727854,35.102671",
     "geom:latitude":35.102671,
     "geom:longitude":-106.727854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Market St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186454723,
-    "wof:lastmodified":1449052769,
+    "wof:lastmodified":1466700188,
     "wof:name":"Canon De Arrowhead",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-106.727854,35.102671,-106.727854,35.102671],
-  "geometry": {"coordinates":[-106.727854,35.102671],"type":"Point"}
+  "bbox": [
+    -106.727854,
+    35.102671,
+    -106.727854,
+    35.102671
+],
+  "geometry": {"coordinates":[-106.72785399999999,35.102671],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186392981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.651857,35.083675,-106.651857,35.083675",
     "geom:latitude":35.083675,
     "geom:longitude":-106.651857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 4th St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186392981,
-    "wof:lastmodified":1449052483,
+    "wof:lastmodified":1466699814,
     "wof:name":"Caravan Of Dreams Dance Studio",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-106.651857,35.083675,-106.651857,35.083675],
-  "geometry": {"coordinates":[-106.651857,35.083675],"type":"Point"}
+  "bbox": [
+    -106.651857,
+    35.083675,
+    -106.651857,
+    35.083675
+],
+  "geometry": {"coordinates":[-106.65185700000001,35.083675],"type":"Point"}
 }

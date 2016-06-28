@@ -2,13 +2,14 @@
   "id": 202667091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.706385,35.101702,-106.706385,35.101702",
     "geom:latitude":35.101702,
     "geom:longitude":-106.706385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 Coors Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202667091,
-    "wof:lastmodified":1449061739,
+    "wof:lastmodified":1466699477,
     "wof:name":"Trinity Broadcasting Affilate",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "co"
     ]
 },
-  "bbox": [-106.706385,35.101702,-106.706385,35.101702],
+  "bbox": [
+    -106.706385,
+    35.101702,
+    -106.706385,
+    35.101702
+],
   "geometry": {"coordinates":[-106.706385,35.101702],"type":"Point"}
 }

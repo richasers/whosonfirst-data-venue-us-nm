@@ -2,13 +2,14 @@
   "id": 202926315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.06301,34.759109,-106.06301,34.759109",
     "geom:latitude":34.759109,
     "geom:longitude":-106.06301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Allen Ave",
     "sg:city":"Estancia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202926315,
-    "wof:lastmodified":1449060990,
+    "wof:lastmodified":1466700448,
     "wof:name":"Valencia Counseling Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-106.06301,34.759109,-106.06301,34.759109],
-  "geometry": {"coordinates":[-106.06301,34.759109],"type":"Point"}
+  "bbox": [
+    -106.06301,
+    34.759109,
+    -106.06301,
+    34.759109
+],
+  "geometry": {"coordinates":[-106.06301000000001,34.759109],"type":"Point"}
 }

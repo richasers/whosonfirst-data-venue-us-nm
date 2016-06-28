@@ -2,13 +2,14 @@
   "id": 203121485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.548991,35.303308,-106.548991,35.303308",
     "geom:latitude":35.303308,
     "geom:longitude":-106.548991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"168 E Cll Don Francisco",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203121485,
-    "wof:lastmodified":1449026415,
+    "wof:lastmodified":1466698950,
     "wof:name":"Chile Guy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-106.548991,35.303308,-106.548991,35.303308],
+  "bbox": [
+    -106.548991,
+    35.303308,
+    -106.548991,
+    35.303308
+],
   "geometry": {"coordinates":[-106.548991,35.303308],"type":"Point"}
 }

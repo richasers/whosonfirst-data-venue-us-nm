@@ -2,13 +2,14 @@
   "id": 185940259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.799041,32.355849,-106.799041,32.355849",
     "geom:latitude":32.355849,
     "geom:longitude":-106.799041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 San Ysidro Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185940259,
-    "wof:lastmodified":1449007009,
+    "wof:lastmodified":1466699081,
     "wof:name":"Tunie's",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-106.799041,32.355849,-106.799041,32.355849],
+  "bbox": [
+    -106.799041,
+    32.355849,
+    -106.799041,
+    32.355849
+],
   "geometry": {"coordinates":[-106.799041,32.355849],"type":"Point"}
 }

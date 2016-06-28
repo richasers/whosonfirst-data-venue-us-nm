@@ -2,13 +2,14 @@
   "id": 185671619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.618097,35.109271,-106.618097,35.109271",
     "geom:latitude":35.109271,
     "geom:longitude":-106.618097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2325 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":185671619,
-    "wof:lastmodified":1449006982,
+    "wof:lastmodified":1466698372,
     "wof:name":"Climate Equipment & Distrg Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "conditioning"
     ]
 },
-  "bbox": [-106.618097,35.109271,-106.618097,35.109271],
-  "geometry": {"coordinates":[-106.618097,35.109271],"type":"Point"}
+  "bbox": [
+    -106.618097,
+    35.109271,
+    -106.618097,
+    35.109271
+],
+  "geometry": {"coordinates":[-106.61809700000001,35.109271],"type":"Point"}
 }

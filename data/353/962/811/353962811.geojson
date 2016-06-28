@@ -2,13 +2,14 @@
   "id": 353962811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.701549,35.119769,-106.701549,35.119769",
     "geom:latitude":35.119769,
     "geom:longitude":-106.701549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3296 Coors Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":353962811,
-    "wof:lastmodified":1449019769,
+    "wof:lastmodified":1466698821,
     "wof:name":"Allstate Insurance Company - Larry Gaylord",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-106.701549,35.119769,-106.701549,35.119769],
+  "bbox": [
+    -106.701549,
+    35.119769,
+    -106.701549,
+    35.119769
+],
   "geometry": {"coordinates":[-106.701549,35.119769],"type":"Point"}
 }

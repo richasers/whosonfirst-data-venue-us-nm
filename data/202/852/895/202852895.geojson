@@ -2,13 +2,14 @@
   "id": 202852895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.199704,32.775921,-103.199704,32.775921",
     "geom:latitude":32.775921,
     "geom:longitude":-103.199704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5001 Jack Gomez Blvd",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202852895,
-    "wof:lastmodified":1449062230,
+    "wof:lastmodified":1466700204,
     "wof:name":"Hobbs City Of Maintenance Bldg",
     "wof:parent_id":85802515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.199704,32.775921,-103.199704,32.775921],
+  "bbox": [
+    -103.199704,
+    32.775921,
+    -103.199704,
+    32.775921
+],
   "geometry": {"coordinates":[-103.199704,32.775921],"type":"Point"}
 }

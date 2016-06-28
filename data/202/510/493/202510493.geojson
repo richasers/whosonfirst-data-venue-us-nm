@@ -2,13 +2,14 @@
   "id": 202510493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.429399,36.903128,-104.429399,36.903128",
     "geom:latitude":36.903128,
     "geom:longitude":-104.429399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Buena Vista St",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202510493,
-    "wof:lastmodified":1449061649,
+    "wof:lastmodified":1466699201,
     "wof:name":"St Patrick-St Joseph Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-104.429399,36.903128,-104.429399,36.903128],
+  "bbox": [
+    -104.429399,
+    36.903128,
+    -104.429399,
+    36.903128
+],
   "geometry": {"coordinates":[-104.429399,36.903128],"type":"Point"}
 }

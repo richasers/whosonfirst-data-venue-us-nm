@@ -2,13 +2,14 @@
   "id": 202814641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.592182,35.142076,-106.592182,35.142076",
     "geom:latitude":35.142076,
     "geom:longitude":-106.592182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Lincoln Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202814641,
-    "wof:lastmodified":1449060572,
+    "wof:lastmodified":1466699886,
     "wof:name":"Albuquerque Dna Testing Sw",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-106.592182,35.142076,-106.592182,35.142076],
-  "geometry": {"coordinates":[-106.592182,35.142076],"type":"Point"}
+  "bbox": [
+    -106.592182,
+    35.142076,
+    -106.592182,
+    35.142076
+],
+  "geometry": {"coordinates":[-106.59218199999999,35.142076],"type":"Point"}
 }

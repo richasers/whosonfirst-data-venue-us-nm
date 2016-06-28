@@ -2,13 +2,14 @@
   "id": 203066007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.642399,35.13226,-106.642399,35.13226",
     "geom:latitude":35.13226,
     "geom:longitude":-106.642399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4924 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203066007,
-    "wof:lastmodified":1449025458,
+    "wof:lastmodified":1466699417,
     "wof:name":"Rodney D Young Insurance",
     "wof:parent_id":85892593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.642399,35.13226,-106.642399,35.13226],
+  "bbox": [
+    -106.642399,
+    35.13226,
+    -106.642399,
+    35.13226
+],
   "geometry": {"coordinates":[-106.642399,35.13226],"type":"Point"}
 }

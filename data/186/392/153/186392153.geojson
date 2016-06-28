@@ -2,13 +2,14 @@
   "id": 186392153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.74747,32.34639,-106.74747,32.34639",
     "geom:latitude":32.34639,
     "geom:longitude":-106.74747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2871 Lookout Ridge Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186392153,
-    "wof:lastmodified":1449052479,
+    "wof:lastmodified":1466699699,
     "wof:name":"Insight Home Inspections",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.74747,32.34639,-106.74747,32.34639],
-  "geometry": {"coordinates":[-106.74747,32.34639],"type":"Point"}
+  "bbox": [
+    -106.74747,
+    32.34639,
+    -106.74747,
+    32.34639
+],
+  "geometry": {"coordinates":[-106.74747000000001,32.34639],"type":"Point"}
 }

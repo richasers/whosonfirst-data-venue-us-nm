@@ -2,13 +2,14 @@
   "id": 202615955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.612969,35.099601,-106.612969,35.099601",
     "geom:latitude":35.099601,
     "geom:longitude":-106.612969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 Girard Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202615955,
-    "wof:lastmodified":1449060911,
+    "wof:lastmodified":1466698612,
     "wof:name":"A B Dick Co",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "copying"
     ]
 },
-  "bbox": [-106.612969,35.099601,-106.612969,35.099601],
-  "geometry": {"coordinates":[-106.612969,35.099601],"type":"Point"}
+  "bbox": [
+    -106.612969,
+    35.099601,
+    -106.612969,
+    35.099601
+],
+  "geometry": {"coordinates":[-106.61296900000001,35.099601],"type":"Point"}
 }

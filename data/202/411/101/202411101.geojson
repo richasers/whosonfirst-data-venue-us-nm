@@ -2,13 +2,14 @@
   "id": 202411101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.273801,32.778266,-108.273801,32.778266",
     "geom:latitude":32.778266,
     "geom:longitude":-108.273801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 N Hudson St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202411101,
-    "wof:lastmodified":1449060216,
+    "wof:lastmodified":1466698089,
     "wof:name":"Furrs Floral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.273801,32.778266,-108.273801,32.778266],
-  "geometry": {"coordinates":[-108.273801,32.778266],"type":"Point"}
+  "bbox": [
+    -108.273801,
+    32.778266,
+    -108.273801,
+    32.778266
+],
+  "geometry": {"coordinates":[-108.27380100000001,32.778266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203111437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614815,35.095768,-106.614815,35.095768",
     "geom:latitude":35.095768,
     "geom:longitude":-106.614815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1340 Princeton Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203111437,
-    "wof:lastmodified":1449026904,
+    "wof:lastmodified":1466698880,
     "wof:name":"Limmany Electric Inc",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.614815,35.095768,-106.614815,35.095768],
-  "geometry": {"coordinates":[-106.614815,35.095768],"type":"Point"}
+  "bbox": [
+    -106.614815,
+    35.095768,
+    -106.614815,
+    35.095768
+],
+  "geometry": {"coordinates":[-106.61481499999999,35.095768],"type":"Point"}
 }

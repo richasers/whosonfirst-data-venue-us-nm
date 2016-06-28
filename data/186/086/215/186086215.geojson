@@ -2,13 +2,14 @@
   "id": 186086215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781936,32.308885,-106.781936,32.308885",
     "geom:latitude":32.308885,
     "geom:longitude":-106.781936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 W Griggs Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186086215,
-    "wof:lastmodified":1449052167,
+    "wof:lastmodified":1466698710,
     "wof:name":"White Raven Studios & Art",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.781936,32.308885,-106.781936,32.308885],
+  "bbox": [
+    -106.781936,
+    32.308885,
+    -106.781936,
+    32.308885
+],
   "geometry": {"coordinates":[-106.781936,32.308885],"type":"Point"}
 }

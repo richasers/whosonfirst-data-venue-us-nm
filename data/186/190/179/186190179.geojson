@@ -2,13 +2,14 @@
   "id": 186190179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.795325,32.282912,-106.795325,32.282912",
     "geom:latitude":32.282912,
     "geom:longitude":-106.795325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1799 Ave de Mesilla",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186190179,
-    "wof:lastmodified":1449052862,
+    "wof:lastmodified":1466697898,
     "wof:name":"Red Mesa Mortgage",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-106.795325,32.282912,-106.795325,32.282912],
-  "geometry": {"coordinates":[-106.795325,32.282912],"type":"Point"}
+  "bbox": [
+    -106.795325,
+    32.282912,
+    -106.795325,
+    32.282912
+],
+  "geometry": {"coordinates":[-106.79532500000001,32.282912],"type":"Point"}
 }

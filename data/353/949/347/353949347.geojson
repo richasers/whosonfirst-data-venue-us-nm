@@ -2,13 +2,14 @@
   "id": 353949347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.53655,35.15006,-106.53655,35.15006",
     "geom:latitude":35.15006,
     "geom:longitude":-106.53655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9509 Admiral Dewey Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353949347,
-    "wof:lastmodified":1449019854,
+    "wof:lastmodified":1466698552,
     "wof:name":"Professional Coating Company",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "stucco"
     ]
 },
-  "bbox": [-106.53655,35.15006,-106.53655,35.15006],
-  "geometry": {"coordinates":[-106.53655,35.15006],"type":"Point"}
+  "bbox": [
+    -106.53655,
+    35.15006,
+    -106.53655,
+    35.15006
+],
+  "geometry": {"coordinates":[-106.53655000000001,35.15006],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185818753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.485586,35.1934,-106.485586,35.1934",
     "geom:latitude":35.1934,
     "geom:longitude":-106.485586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Rock Ridge Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185818753,
-    "wof:lastmodified":1449007410,
+    "wof:lastmodified":1466697668,
     "wof:name":"Universal Tetrographic",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "thin"
     ]
 },
-  "bbox": [-106.485586,35.1934,-106.485586,35.1934],
+  "bbox": [
+    -106.485586,
+    35.1934,
+    -106.485586,
+    35.1934
+],
   "geometry": {"coordinates":[-106.485586,35.1934],"type":"Point"}
 }

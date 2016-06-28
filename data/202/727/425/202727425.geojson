@@ -2,13 +2,14 @@
   "id": 202727425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.371031,33.196728,-104.371031,33.196728",
     "geom:latitude":33.196728,
     "geom:longitude":-104.371031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Lincoln Rd",
     "sg:city":"Dexter",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202727425,
-    "wof:lastmodified":1449060489,
+    "wof:lastmodified":1466699581,
     "wof:name":"Dexter Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.371031,33.196728,-104.371031,33.196728],
+  "bbox": [
+    -104.371031,
+    33.196728,
+    -104.371031,
+    33.196728
+],
   "geometry": {"coordinates":[-104.371031,33.196728],"type":"Point"}
 }

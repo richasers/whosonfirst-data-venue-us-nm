@@ -2,13 +2,14 @@
   "id": 186037225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.020738,33.071267,-106.020738,33.071267",
     "geom:latitude":33.071267,
     "geom:longitude":-106.020738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 7th St",
     "sg:city":"Tularosa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186037225,
-    "wof:lastmodified":1449053071,
+    "wof:lastmodified":1466698103,
     "wof:name":"G Squared Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.020738,33.071267,-106.020738,33.071267],
-  "geometry": {"coordinates":[-106.020738,33.071267],"type":"Point"}
+  "bbox": [
+    -106.020738,
+    33.071267,
+    -106.020738,
+    33.071267
+],
+  "geometry": {"coordinates":[-106.02073799999999,33.071267],"type":"Point"}
 }

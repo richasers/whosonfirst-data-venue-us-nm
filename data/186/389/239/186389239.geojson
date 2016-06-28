@@ -2,13 +2,14 @@
   "id": 186389239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.983445,35.887924,-105.983445,35.887924",
     "geom:latitude":35.887924,
     "geom:longitude":-105.983445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17746 US Hwy 84/285",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186389239,
-    "wof:lastmodified":1449052459,
+    "wof:lastmodified":1466699802,
     "wof:name":"Pjoaque Gaming",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-105.983445,35.887924,-105.983445,35.887924],
+  "bbox": [
+    -105.983445,
+    35.887924,
+    -105.983445,
+    35.887924
+],
   "geometry": {"coordinates":[-105.983445,35.887924],"type":"Point"}
 }

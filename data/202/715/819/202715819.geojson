@@ -2,13 +2,14 @@
   "id": 202715819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.583555,36.38862,-105.583555,36.38862",
     "geom:latitude":36.38862,
     "geom:longitude":-105.583555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202715819,
-    "wof:lastmodified":1449062153,
+    "wof:lastmodified":1466699509,
     "wof:name":"Douglas G Scott Lmft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-105.583555,36.38862,-105.583555,36.38862],
+  "bbox": [
+    -105.583555,
+    36.38862,
+    -105.583555,
+    36.38862
+],
   "geometry": {"coordinates":[-105.583555,36.38862],"type":"Point"}
 }

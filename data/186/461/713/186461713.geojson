@@ -2,13 +2,14 @@
   "id": 186461713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.210574,36.731474,-108.210574,36.731474",
     "geom:latitude":36.731474,
     "geom:longitude":-108.210574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 N Auburn Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186461713,
-    "wof:lastmodified":1449051396,
+    "wof:lastmodified":1466700077,
     "wof:name":"Moffett & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-108.210574,36.731474,-108.210574,36.731474],
-  "geometry": {"coordinates":[-108.210574,36.731474],"type":"Point"}
+  "bbox": [
+    -108.210574,
+    36.731474,
+    -108.210574,
+    36.731474
+],
+  "geometry": {"coordinates":[-108.21057399999999,36.731474],"type":"Point"}
 }

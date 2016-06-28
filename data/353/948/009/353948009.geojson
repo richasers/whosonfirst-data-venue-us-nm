@@ -2,13 +2,14 @@
   "id": 353948009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.526026,35.153208,-106.526026,35.153208",
     "geom:latitude":35.153208,
     "geom:longitude":-106.526026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10320 Las Casitas St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353948009,
-    "wof:lastmodified":1449020302,
+    "wof:lastmodified":1466698512,
     "wof:name":"Duke City Exterminating",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-106.526026,35.153208,-106.526026,35.153208],
+  "bbox": [
+    -106.526026,
+    35.153208,
+    -106.526026,
+    35.153208
+],
   "geometry": {"coordinates":[-106.526026,35.153208],"type":"Point"}
 }

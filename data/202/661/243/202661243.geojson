@@ -2,13 +2,14 @@
   "id": 202661243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.640334,35.143718,-106.640334,35.143718",
     "geom:latitude":35.143718,
     "geom:longitude":-106.640334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5919 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202661243,
-    "wof:lastmodified":1449062374,
+    "wof:lastmodified":1466699303,
     "wof:name":"Allied Plumbing",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.640334,35.143718,-106.640334,35.143718],
+  "bbox": [
+    -106.640334,
+    35.143718,
+    -106.640334,
+    35.143718
+],
   "geometry": {"coordinates":[-106.640334,35.143718],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353933143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.620396,35.128833,-106.620396,35.128833",
     "geom:latitude":35.128833,
     "geom:longitude":-106.620396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 Alexander Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":353933143,
-    "wof:lastmodified":1449018780,
+    "wof:lastmodified":1466698094,
     "wof:name":"Albuquerque Tortilla Company, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "products-wholesale"
     ]
 },
-  "bbox": [-106.620396,35.128833,-106.620396,35.128833],
+  "bbox": [
+    -106.620396,
+    35.128833,
+    -106.620396,
+    35.128833
+],
   "geometry": {"coordinates":[-106.620396,35.128833],"type":"Point"}
 }

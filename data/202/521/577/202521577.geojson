@@ -2,13 +2,14 @@
   "id": 202521577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.5609,35.093357,-106.5609,35.093357",
     "geom:latitude":35.093357,
     "geom:longitude":-106.5609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7624 Winter Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202521577,
-    "wof:lastmodified":1449062522,
+    "wof:lastmodified":1466699264,
     "wof:name":"Galleria Mobile Homes",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.5609,35.093357,-106.5609,35.093357],
+  "bbox": [
+    -106.5609,
+    35.093357,
+    -106.5609,
+    35.093357
+],
   "geometry": {"coordinates":[-106.5609,35.093357],"type":"Point"}
 }

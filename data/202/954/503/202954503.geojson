@@ -2,13 +2,14 @@
   "id": 202954503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.755598,35.532162,-108.755598,35.532162",
     "geom:latitude":35.532162,
     "geom:longitude":-108.755598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 W Lincoln Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202954503,
-    "wof:lastmodified":1449062332,
+    "wof:lastmodified":1466700464,
     "wof:name":"B-Mikes Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.755598,35.532162,-108.755598,35.532162],
-  "geometry": {"coordinates":[-108.755598,35.532162],"type":"Point"}
+  "bbox": [
+    -108.755598,
+    35.532162,
+    -108.755598,
+    35.532162
+],
+  "geometry": {"coordinates":[-108.75559800000001,35.532162],"type":"Point"}
 }

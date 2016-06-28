@@ -2,13 +2,14 @@
   "id": 202667393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.233041,35.598232,-105.233041,35.598232",
     "geom:latitude":35.598232,
     "geom:longitude":-105.233041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 San Miguel St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202667393,
-    "wof:lastmodified":1449061740,
+    "wof:lastmodified":1466699386,
     "wof:name":"Jesus L Lopez",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-105.233041,35.598232,-105.233041,35.598232],
+  "bbox": [
+    -105.233041,
+    35.598232,
+    -105.233041,
+    35.598232
+],
   "geometry": {"coordinates":[-105.233041,35.598232],"type":"Point"}
 }

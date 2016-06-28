@@ -2,13 +2,14 @@
   "id": 202383743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.558346,35.1364,-106.558346,35.1364",
     "geom:latitude":35.1364,
     "geom:longitude":-106.558346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7621 Arroyo del Oso Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202383743,
-    "wof:lastmodified":1449061188,
+    "wof:lastmodified":1466697731,
     "wof:name":"Durso & Assoc",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.558346,35.1364,-106.558346,35.1364],
+  "bbox": [
+    -106.558346,
+    35.1364,
+    -106.558346,
+    35.1364
+],
   "geometry": {"coordinates":[-106.558346,35.1364],"type":"Point"}
 }

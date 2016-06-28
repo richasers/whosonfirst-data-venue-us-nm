@@ -2,13 +2,14 @@
   "id": 353967159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.501961,35.045717,-106.501961,35.045717",
     "geom:latitude":35.045717,
     "geom:longitude":-106.501961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1026 Santa Ana Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353967159,
-    "wof:lastmodified":1449020613,
+    "wof:lastmodified":1466698941,
     "wof:name":"Total Locators",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "assistant"
     ]
 },
-  "bbox": [-106.501961,35.045717,-106.501961,35.045717],
-  "geometry": {"coordinates":[-106.501961,35.045717],"type":"Point"}
+  "bbox": [
+    -106.501961,
+    35.045717,
+    -106.501961,
+    35.045717
+],
+  "geometry": {"coordinates":[-106.50196099999999,35.045717],"type":"Point"}
 }

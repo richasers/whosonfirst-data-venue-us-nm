@@ -2,13 +2,14 @@
   "id": 186104645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.335002,36.736319,-108.335002,36.736319",
     "geom:latitude":36.736319,
     "geom:longitude":-108.335002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4336 US Hwy 64",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186104645,
-    "wof:lastmodified":1449051482,
+    "wof:lastmodified":1466698967,
     "wof:name":"Paramount Rv & Mh Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-108.335002,36.736319,-108.335002,36.736319],
+  "bbox": [
+    -108.335002,
+    36.736319,
+    -108.335002,
+    36.736319
+],
   "geometry": {"coordinates":[-108.335002,36.736319],"type":"Point"}
 }

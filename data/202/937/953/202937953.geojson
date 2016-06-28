@@ -2,13 +2,14 @@
   "id": 202937953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.541662,35.164045,-106.541662,35.164045",
     "geom:latitude":35.164045,
     "geom:longitude":-106.541662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7309 General Kearny Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202937953,
-    "wof:lastmodified":1449060590,
+    "wof:lastmodified":1466700371,
     "wof:name":"Jkc Imports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-106.541662,35.164045,-106.541662,35.164045],
+  "bbox": [
+    -106.541662,
+    35.164045,
+    -106.541662,
+    35.164045
+],
   "geometry": {"coordinates":[-106.541662,35.164045],"type":"Point"}
 }

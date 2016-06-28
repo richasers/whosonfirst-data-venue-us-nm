@@ -2,13 +2,14 @@
   "id": 185763983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.238711,35.624025,-105.238711,35.624025",
     "geom:latitude":35.624025,
     "geom:longitude":-105.238711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 Kay Lynn Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185763983,
-    "wof:lastmodified":1449008203,
+    "wof:lastmodified":1466699214,
     "wof:name":"Woodmen of World Omaha",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-105.238711,35.624025,-105.238711,35.624025],
+  "bbox": [
+    -105.238711,
+    35.624025,
+    -105.238711,
+    35.624025
+],
   "geometry": {"coordinates":[-105.238711,35.624025],"type":"Point"}
 }

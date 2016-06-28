@@ -2,13 +2,14 @@
   "id": 186082681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.594365,35.186241,-106.594365,35.186241",
     "geom:latitude":35.186241,
     "geom:longitude":-106.594365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8916 Adams St",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186082681,
-    "wof:lastmodified":1449050334,
+    "wof:lastmodified":1466698685,
     "wof:name":"Mark Goodwin & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-106.594365,35.186241,-106.594365,35.186241],
+  "bbox": [
+    -106.594365,
+    35.186241,
+    -106.594365,
+    35.186241
+],
   "geometry": {"coordinates":[-106.594365,35.186241],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203082043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649608,35.220054,-106.649608,35.220054",
     "geom:latitude":35.220054,
     "geom:longitude":-106.649608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 San Juan Trl",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203082043,
-    "wof:lastmodified":1449024998,
+    "wof:lastmodified":1466698477,
     "wof:name":"Law Enforcement Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "executive"
     ]
 },
-  "bbox": [-106.649608,35.220054,-106.649608,35.220054],
+  "bbox": [
+    -106.649608,
+    35.220054,
+    -106.649608,
+    35.220054
+],
   "geometry": {"coordinates":[-106.649608,35.220054],"type":"Point"}
 }

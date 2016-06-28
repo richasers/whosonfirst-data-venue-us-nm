@@ -2,13 +2,14 @@
   "id": 186440205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.547332,35.164115,-106.547332,35.164115",
     "geom:latitude":35.164115,
     "geom:longitude":-106.547332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8626 Plymouth Rock Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186440205,
-    "wof:lastmodified":1449051344,
+    "wof:lastmodified":1466700004,
     "wof:name":"D-3 Productions Inc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-106.547332,35.164115,-106.547332,35.164115],
+  "bbox": [
+    -106.547332,
+    35.164115,
+    -106.547332,
+    35.164115
+],
   "geometry": {"coordinates":[-106.547332,35.164115],"type":"Point"}
 }

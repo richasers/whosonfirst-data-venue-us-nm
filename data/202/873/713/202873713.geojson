@@ -2,13 +2,14 @@
   "id": 202873713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.641512,35.176901,-106.641512,35.176901",
     "geom:latitude":35.176901,
     "geom:longitude":-106.641512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"737 Alondra Ln NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202873713,
-    "wof:lastmodified":1449060649,
+    "wof:lastmodified":1466700341,
     "wof:name":"Frank B Feather Consultant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-106.641512,35.176901,-106.641512,35.176901],
-  "geometry": {"coordinates":[-106.641512,35.176901],"type":"Point"}
+  "bbox": [
+    -106.641512,
+    35.176901,
+    -106.641512,
+    35.176901
+],
+  "geometry": {"coordinates":[-106.64151200000001,35.176901],"type":"Point"}
 }

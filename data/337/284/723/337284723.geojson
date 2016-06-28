@@ -2,13 +2,14 @@
   "id": 337284723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.757194,32.267622,-107.757194,32.267622",
     "geom:latitude":32.267622,
     "geom:longitude":-107.757194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 S Silver Ave",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337284723,
-    "wof:lastmodified":1449027457,
+    "wof:lastmodified":1466697699,
     "wof:name":"Children's Medical Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government"
     ]
 },
-  "bbox": [-107.757194,32.267622,-107.757194,32.267622],
+  "bbox": [
+    -107.757194,
+    32.267622,
+    -107.757194,
+    32.267622
+],
   "geometry": {"coordinates":[-107.757194,32.267622],"type":"Point"}
 }

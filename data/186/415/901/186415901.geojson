@@ -2,13 +2,14 @@
   "id": 186415901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.664512,35.085115,-106.664512,35.085115",
     "geom:latitude":35.085115,
     "geom:longitude":-106.664512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 Gold Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186415901,
-    "wof:lastmodified":1449052290,
+    "wof:lastmodified":1466699909,
     "wof:name":"Decor By Charlene Coplen",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.664512,35.085115,-106.664512,35.085115],
+  "bbox": [
+    -106.664512,
+    35.085115,
+    -106.664512,
+    35.085115
+],
   "geometry": {"coordinates":[-106.664512,35.085115],"type":"Point"}
 }

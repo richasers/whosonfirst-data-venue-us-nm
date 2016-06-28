@@ -2,13 +2,14 @@
   "id": 202831589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.626338,35.213172,-106.626338,35.213172",
     "geom:latitude":35.213172,
     "geom:longitude":-106.626338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Cam de Las Brisas",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202831589,
-    "wof:lastmodified":1449061603,
+    "wof:lastmodified":1466700113,
     "wof:name":"Cody Unser First Step Fndtn",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "philanthropic"
     ]
 },
-  "bbox": [-106.626338,35.213172,-106.626338,35.213172],
+  "bbox": [
+    -106.626338,
+    35.213172,
+    -106.626338,
+    35.213172
+],
   "geometry": {"coordinates":[-106.626338,35.213172],"type":"Point"}
 }

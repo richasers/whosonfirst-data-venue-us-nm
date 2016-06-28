@@ -2,13 +2,14 @@
   "id": 185818147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.653879,35.085744,-106.653879,35.085744",
     "geom:latitude":35.085744,
     "geom:longitude":-106.653879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 6th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185818147,
-    "wof:lastmodified":1449007412,
+    "wof:lastmodified":1466697660,
     "wof:name":"Aero Colours Of Albuquerque",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-106.653879,35.085744,-106.653879,35.085744],
+  "bbox": [
+    -106.653879,
+    35.085744,
+    -106.653879,
+    35.085744
+],
   "geometry": {"coordinates":[-106.653879,35.085744],"type":"Point"}
 }

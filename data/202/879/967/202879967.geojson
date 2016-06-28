@@ -2,13 +2,14 @@
   "id": 202879967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.171787,34.404948,-103.171787,34.404948",
     "geom:latitude":34.404948,
     "geom:longitude":-103.171787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 E 7th St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202879967,
-    "wof:lastmodified":1449060136,
+    "wof:lastmodified":1466700280,
     "wof:name":"Southwest Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-103.171787,34.404948,-103.171787,34.404948],
-  "geometry": {"coordinates":[-103.171787,34.404948],"type":"Point"}
+  "bbox": [
+    -103.171787,
+    34.404948,
+    -103.171787,
+    34.404948
+],
+  "geometry": {"coordinates":[-103.17178699999999,34.404948],"type":"Point"}
 }

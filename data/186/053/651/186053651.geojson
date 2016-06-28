@@ -2,13 +2,14 @@
   "id": 186053651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.145989,32.700895,-103.145989,32.700895",
     "geom:latitude":32.700895,
     "geom:longitude":-103.145989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 W Broadway St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186053651,
-    "wof:lastmodified":1449050909,
+    "wof:lastmodified":1466698291,
     "wof:name":"Pre Mac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-103.145989,32.700895,-103.145989,32.700895],
+  "bbox": [
+    -103.145989,
+    32.700895,
+    -103.145989,
+    32.700895
+],
   "geometry": {"coordinates":[-103.145989,32.700895],"type":"Point"}
 }

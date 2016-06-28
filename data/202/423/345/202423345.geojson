@@ -2,13 +2,14 @@
   "id": 202423345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.764515,32.309815,-106.764515,32.309815",
     "geom:latitude":32.309815,
     "geom:longitude":-106.764515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 E Amador Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202423345,
-    "wof:lastmodified":1449060521,
+    "wof:lastmodified":1466698233,
     "wof:name":"Deals On Wheels",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-106.764515,32.309815,-106.764515,32.309815],
+  "bbox": [
+    -106.764515,
+    32.309815,
+    -106.764515,
+    32.309815
+],
   "geometry": {"coordinates":[-106.764515,32.309815],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202514027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.833112,32.949762,-105.833112,32.949762",
     "geom:latitude":32.949762,
     "geom:longitude":-105.833112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Old Firehouse Rd",
     "sg:city":"High Rolls Mountain Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202514027,
-    "wof:lastmodified":1449061395,
+    "wof:lastmodified":1466699224,
     "wof:name":"Eidenbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "noncommercial"
     ]
 },
-  "bbox": [-105.833112,32.949762,-105.833112,32.949762],
+  "bbox": [
+    -105.833112,
+    32.949762,
+    -105.833112,
+    32.949762
+],
   "geometry": {"coordinates":[-105.833112,32.949762],"type":"Point"}
 }

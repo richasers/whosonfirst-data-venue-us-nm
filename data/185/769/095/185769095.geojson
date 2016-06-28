@@ -2,13 +2,14 @@
   "id": 185769095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.128973,32.719024,-103.128973,32.719024",
     "geom:latitude":32.719024,
     "geom:longitude":-103.128973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 E Baja Dr",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185769095,
-    "wof:lastmodified":1449007128,
+    "wof:lastmodified":1466699217,
     "wof:name":"Forrest Painting Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-103.128973,32.719024,-103.128973,32.719024],
+  "bbox": [
+    -103.128973,
+    32.719024,
+    -103.128973,
+    32.719024
+],
   "geometry": {"coordinates":[-103.128973,32.719024],"type":"Point"}
 }

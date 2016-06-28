@@ -2,13 +2,14 @@
   "id": 185803705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.177177,35.077094,-106.177177,35.077094",
     "geom:latitude":35.077094,
     "geom:longitude":-106.177177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Maria Ln",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185803705,
-    "wof:lastmodified":1449008228,
+    "wof:lastmodified":1466699358,
     "wof:name":"Mike Hanseman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-106.177177,35.077094,-106.177177,35.077094],
+  "bbox": [
+    -106.177177,
+    35.077094,
+    -106.177177,
+    35.077094
+],
   "geometry": {"coordinates":[-106.177177,35.077094],"type":"Point"}
 }

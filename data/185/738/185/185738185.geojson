@@ -2,13 +2,14 @@
   "id": 185738185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.485256,35.316278,-106.485256,35.316278",
     "geom:latitude":35.316278,
     "geom:longitude":-106.485256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Cll Final",
     "sg:city":"Placitas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185738185,
-    "wof:lastmodified":1449007765,
+    "wof:lastmodified":1466699063,
     "wof:name":"Agramed Consulting Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.485256,35.316278,-106.485256,35.316278],
-  "geometry": {"coordinates":[-106.485256,35.316278],"type":"Point"}
+  "bbox": [
+    -106.485256,
+    35.316278,
+    -106.485256,
+    35.316278
+],
+  "geometry": {"coordinates":[-106.48525600000001,35.316278],"type":"Point"}
 }

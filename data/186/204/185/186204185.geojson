@@ -2,13 +2,14 @@
   "id": 186204185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.246843,35.12166,-106.246843,35.12166",
     "geom:latitude":35.12166,
     "geom:longitude":-106.246843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Digby Ln",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186204185,
-    "wof:lastmodified":1449053095,
+    "wof:lastmodified":1466698079,
     "wof:name":"Indian Wells Maine Coons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.246843,35.12166,-106.246843,35.12166],
+  "bbox": [
+    -106.246843,
+    35.12166,
+    -106.246843,
+    35.12166
+],
   "geometry": {"coordinates":[-106.246843,35.12166],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202432287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586245,35.110585,-106.586245,35.110585",
     "geom:latitude":35.110585,
     "geom:longitude":-106.586245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2622 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202432287,
-    "wof:lastmodified":1449060063,
+    "wof:lastmodified":1466698333,
     "wof:name":"Care More Chiropractic Centers",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.586245,35.110585,-106.586245,35.110585],
-  "geometry": {"coordinates":[-106.586245,35.110585],"type":"Point"}
+  "bbox": [
+    -106.586245,
+    35.110585,
+    -106.586245,
+    35.110585
+],
+  "geometry": {"coordinates":[-106.58624500000001,35.110585],"type":"Point"}
 }

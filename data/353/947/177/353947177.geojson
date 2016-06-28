@@ -2,13 +2,14 @@
   "id": 353947177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.58632,35.091122,-106.58632,35.091122",
     "geom:latitude":35.091122,
     "geom:longitude":-106.58632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 San Mateo Blvd NE B",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353947177,
-    "wof:lastmodified":1449020091,
+    "wof:lastmodified":1466698485,
     "wof:name":"N V Sthwest Designs Order Dept",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "plastics-foam"
     ]
 },
-  "bbox": [-106.58632,35.091122,-106.58632,35.091122],
+  "bbox": [
+    -106.58632,
+    35.091122,
+    -106.58632,
+    35.091122
+],
   "geometry": {"coordinates":[-106.58632,35.091122],"type":"Point"}
 }

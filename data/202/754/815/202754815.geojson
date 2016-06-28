@@ -2,13 +2,14 @@
   "id": 202754815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.599403,35.286856,-106.599403,35.286856",
     "geom:latitude":35.286856,
     "geom:longitude":-106.599403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 Hudson River Rd NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202754815,
-    "wof:lastmodified":1449061746,
+    "wof:lastmodified":1466699697,
     "wof:name":"Abby West Office Services",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-106.599403,35.286856,-106.599403,35.286856],
+  "bbox": [
+    -106.599403,
+    35.286856,
+    -106.599403,
+    35.286856
+],
   "geometry": {"coordinates":[-106.599403,35.286856],"type":"Point"}
 }

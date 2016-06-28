@@ -2,13 +2,14 @@
   "id": 202533591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.198038,35.825213,-106.198038,35.825213",
     "geom:latitude":35.825213,
     "geom:longitude":-106.198038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Cheryl Ave",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202533591,
-    "wof:lastmodified":1449060079,
+    "wof:lastmodified":1466699295,
     "wof:name":"Desert Ridge Consulting LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.198038,35.825213,-106.198038,35.825213],
+  "bbox": [
+    -106.198038,
+    35.825213,
+    -106.198038,
+    35.825213
+],
   "geometry": {"coordinates":[-106.198038,35.825213],"type":"Point"}
 }

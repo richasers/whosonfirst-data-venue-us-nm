@@ -2,13 +2,14 @@
   "id": 186421215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.917213,35.688163,-105.917213,35.688163",
     "geom:latitude":35.688163,
     "geom:longitude":-105.917213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1343 Barranca de Oro",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186421215,
-    "wof:lastmodified":1449052081,
+    "wof:lastmodified":1466699934,
     "wof:name":"Design One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "landscape"
     ]
 },
-  "bbox": [-105.917213,35.688163,-105.917213,35.688163],
+  "bbox": [
+    -105.917213,
+    35.688163,
+    -105.917213,
+    35.688163
+],
   "geometry": {"coordinates":[-105.917213,35.688163],"type":"Point"}
 }

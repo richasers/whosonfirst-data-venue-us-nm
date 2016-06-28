@@ -2,13 +2,14 @@
   "id": 353967965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.514042,35.07785,-106.514042,35.07785",
     "geom:latitude":35.07785,
     "geom:longitude":-106.514042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Paisano St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":353967965,
-    "wof:lastmodified":1449020614,
+    "wof:lastmodified":1466698964,
     "wof:name":"Americas Best Value Inn",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.514042,35.07785,-106.514042,35.07785],
+  "bbox": [
+    -106.514042,
+    35.07785,
+    -106.514042,
+    35.07785
+],
   "geometry": {"coordinates":[-106.514042,35.07785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186515557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.627459,35.139308,-106.627459,35.139308",
     "geom:latitude":35.139308,
     "geom:longitude":-106.627459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5811 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186515557,
-    "wof:lastmodified":1449051027,
+    "wof:lastmodified":1466700170,
     "wof:name":"Western Group/Southwest",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wire"
     ]
 },
-  "bbox": [-106.627459,35.139308,-106.627459,35.139308],
+  "bbox": [
+    -106.627459,
+    35.139308,
+    -106.627459,
+    35.139308
+],
   "geometry": {"coordinates":[-106.627459,35.139308],"type":"Point"}
 }

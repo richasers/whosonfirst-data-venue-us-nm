@@ -2,13 +2,14 @@
   "id": 202515997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.128712,32.707174,-103.128712,32.707174",
     "geom:latitude":32.707174,
     "geom:longitude":-103.128712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 E Clinton St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202515997,
-    "wof:lastmodified":1449060696,
+    "wof:lastmodified":1466699240,
     "wof:name":"Opportunity House Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-103.128712,32.707174,-103.128712,32.707174],
-  "geometry": {"coordinates":[-103.128712,32.707174],"type":"Point"}
+  "bbox": [
+    -103.128712,
+    32.707174,
+    -103.128712,
+    32.707174
+],
+  "geometry": {"coordinates":[-103.12871199999999,32.707174],"type":"Point"}
 }

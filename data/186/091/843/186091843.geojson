@@ -2,13 +2,14 @@
   "id": 186091843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.262148,32.784807,-108.262148,32.784807",
     "geom:latitude":32.784807,
     "geom:longitude":-108.262148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1619 Silver Heights Blvd",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186091843,
-    "wof:lastmodified":1449050506,
+    "wof:lastmodified":1466698786,
     "wof:name":"Anderson Appraisal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-108.262148,32.784807,-108.262148,32.784807],
+  "bbox": [
+    -108.262148,
+    32.784807,
+    -108.262148,
+    32.784807
+],
   "geometry": {"coordinates":[-108.262148,32.784807],"type":"Point"}
 }

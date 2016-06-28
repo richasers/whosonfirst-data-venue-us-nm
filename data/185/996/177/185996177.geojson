@@ -2,13 +2,14 @@
   "id": 185996177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.76065,32.309638,-106.76065,32.309638",
     "geom:latitude":32.309638,
     "geom:longitude":-106.76065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 E Lohman Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185996177,
-    "wof:lastmodified":1449007048,
+    "wof:lastmodified":1466699641,
     "wof:name":"East Lohman Veterinary Clinic",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "animal"
     ]
 },
-  "bbox": [-106.76065,32.309638,-106.76065,32.309638],
+  "bbox": [
+    -106.76065,
+    32.309638,
+    -106.76065,
+    32.309638
+],
   "geometry": {"coordinates":[-106.76065,32.309638],"type":"Point"}
 }

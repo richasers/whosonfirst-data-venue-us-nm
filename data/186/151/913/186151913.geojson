@@ -2,13 +2,14 @@
   "id": 186151913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.57355,36.406667,-105.57355,36.406667",
     "geom:latitude":36.406667,
     "geom:longitude":-105.57355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186151913,
-    "wof:lastmodified":1449050282,
+    "wof:lastmodified":1466699337,
     "wof:name":"Historic 802",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.57355,36.406667,-105.57355,36.406667],
+  "bbox": [
+    -105.57355,
+    36.406667,
+    -105.57355,
+    36.406667
+],
   "geometry": {"coordinates":[-105.57355,36.406667],"type":"Point"}
 }

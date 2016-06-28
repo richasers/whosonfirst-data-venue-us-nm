@@ -2,13 +2,14 @@
   "id": 185738411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.58645,35.063875,-106.58645,35.063875",
     "geom:latitude":35.063875,
     "geom:longitude":-106.58645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 San Mateo Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185738411,
-    "wof:lastmodified":1449007765,
+    "wof:lastmodified":1466699065,
     "wof:name":"Computer Surviellance Sytems",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-106.58645,35.063875,-106.58645,35.063875],
+  "bbox": [
+    -106.58645,
+    35.063875,
+    -106.58645,
+    35.063875
+],
   "geometry": {"coordinates":[-106.58645,35.063875],"type":"Point"}
 }

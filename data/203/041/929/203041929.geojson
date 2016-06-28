@@ -2,13 +2,14 @@
   "id": 203041929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.765606,32.343685,-106.765606,32.343685",
     "geom:latitude":32.343685,
     "geom:longitude":-106.765606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2103 Telshor Ct",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203041929,
-    "wof:lastmodified":1449025596,
+    "wof:lastmodified":1466698059,
     "wof:name":"Robert C Garey DDS",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-106.765606,32.343685,-106.765606,32.343685],
-  "geometry": {"coordinates":[-106.765606,32.343685],"type":"Point"}
+  "bbox": [
+    -106.765606,
+    32.343685,
+    -106.765606,
+    32.343685
+],
+  "geometry": {"coordinates":[-106.76560600000001,32.343685],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185832097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.187832,36.73336,-108.187832,36.73336",
     "geom:latitude":36.73336,
     "geom:longitude":-108.187832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 San Juan Blvd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185832097,
-    "wof:lastmodified":1449006600,
+    "wof:lastmodified":1466697814,
     "wof:name":"Easy Buy Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-108.187832,36.73336,-108.187832,36.73336],
+  "bbox": [
+    -108.187832,
+    36.73336,
+    -108.187832,
+    36.73336
+],
   "geometry": {"coordinates":[-108.187832,36.73336],"type":"Point"}
 }

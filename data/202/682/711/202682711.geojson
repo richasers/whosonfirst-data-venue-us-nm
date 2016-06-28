@@ -2,13 +2,14 @@
   "id": 202682711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.646363,35.907063,-106.646363,35.907063",
     "geom:latitude":35.907063,
     "geom:longitude":-106.646363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"384 Turkey Trl",
     "sg:city":"Jemez Springs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202682711,
-    "wof:lastmodified":1449060542,
+    "wof:lastmodified":1466699549,
     "wof:name":"Thompson Ridge Water Coop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.646363,35.907063,-106.646363,35.907063],
-  "geometry": {"coordinates":[-106.646363,35.907063],"type":"Point"}
+  "bbox": [
+    -106.646363,
+    35.907063,
+    -106.646363,
+    35.907063
+],
+  "geometry": {"coordinates":[-106.64636299999999,35.907063],"type":"Point"}
 }

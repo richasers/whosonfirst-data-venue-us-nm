@@ -2,13 +2,14 @@
   "id": 186602075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.590917,35.083576,-106.590917,35.083576",
     "geom:latitude":35.083576,
     "geom:longitude":-106.590917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4814 Marquette Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186602075,
-    "wof:lastmodified":1449051644,
+    "wof:lastmodified":1466700740,
     "wof:name":"X Connect Telecom",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.590917,35.083576,-106.590917,35.083576],
+  "bbox": [
+    -106.590917,
+    35.083576,
+    -106.590917,
+    35.083576
+],
   "geometry": {"coordinates":[-106.590917,35.083576],"type":"Point"}
 }

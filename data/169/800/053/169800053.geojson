@@ -2,13 +2,14 @@
   "id": 169800053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.387719,35.065228,-106.387719,35.065228",
     "geom:latitude":35.065228,
     "geom:longitude":-106.387719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Los Alamitos Dr",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169800053,
-    "wof:lastmodified":1449032937,
+    "wof:lastmodified":1466698586,
     "wof:name":"Forestry West LLC",
     "wof:parent_id":85892615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.387719,35.065228,-106.387719,35.065228],
+  "bbox": [
+    -106.387719,
+    35.065228,
+    -106.387719,
+    35.065228
+],
   "geometry": {"coordinates":[-106.387719,35.065228],"type":"Point"}
 }

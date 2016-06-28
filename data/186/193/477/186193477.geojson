@@ -2,13 +2,14 @@
   "id": 186193477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.642886,35.115246,-106.642886,35.115246",
     "geom:latitude":35.115246,
     "geom:longitude":-106.642886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186193477,
-    "wof:lastmodified":1449050846,
+    "wof:lastmodified":1466697940,
     "wof:name":"Albuquerque Tents & Event",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camping"
     ]
 },
-  "bbox": [-106.642886,35.115246,-106.642886,35.115246],
+  "bbox": [
+    -106.642886,
+    35.115246,
+    -106.642886,
+    35.115246
+],
   "geometry": {"coordinates":[-106.642886,35.115246],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186600925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.578609,35.089304,-106.578609,35.089304",
     "geom:latitude":35.089304,
     "geom:longitude":-106.578609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6101 Marble Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186600925,
-    "wof:lastmodified":1449050480,
+    "wof:lastmodified":1466700636,
     "wof:name":"POV",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-106.578609,35.089304,-106.578609,35.089304],
+  "bbox": [
+    -106.578609,
+    35.089304,
+    -106.578609,
+    35.089304
+],
   "geometry": {"coordinates":[-106.578609,35.089304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186367031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.49693,33.473352,-104.49693,33.473352",
     "geom:latitude":33.473352,
     "geom:longitude":-104.49693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6297 Old Clovis Hwy",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186367031,
-    "wof:lastmodified":1449051954,
+    "wof:lastmodified":1466699829,
     "wof:name":"Daniel Paint & Paper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.49693,33.473352,-104.49693,33.473352],
-  "geometry": {"coordinates":[-104.49693,33.473352],"type":"Point"}
+  "bbox": [
+    -104.49693,
+    33.473352,
+    -104.49693,
+    33.473352
+],
+  "geometry": {"coordinates":[-104.49693000000001,33.473352],"type":"Point"}
 }

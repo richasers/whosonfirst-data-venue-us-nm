@@ -2,13 +2,14 @@
   "id": 186482127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.650718,35.095185,-106.650718,35.095185",
     "geom:latitude":35.095185,
     "geom:longitude":-106.650718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 5th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186482127,
-    "wof:lastmodified":1449051349,
+    "wof:lastmodified":1466700167,
     "wof:name":"Gleria & Gathings",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.650718,35.095185,-106.650718,35.095185],
+  "bbox": [
+    -106.650718,
+    35.095185,
+    -106.650718,
+    35.095185
+],
   "geometry": {"coordinates":[-106.650718,35.095185],"type":"Point"}
 }

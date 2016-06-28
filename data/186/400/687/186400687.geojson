@@ -2,13 +2,14 @@
   "id": 186400687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.712435,35.153556,-106.712435,35.153556",
     "geom:latitude":35.153556,
     "geom:longitude":-106.712435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6116 Whiteman Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186400687,
-    "wof:lastmodified":1449050502,
+    "wof:lastmodified":1466699857,
     "wof:name":"Casitas Deortiz Construction",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.712435,35.153556,-106.712435,35.153556],
+  "bbox": [
+    -106.712435,
+    35.153556,
+    -106.712435,
+    35.153556
+],
   "geometry": {"coordinates":[-106.712435,35.153556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185702851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.933768,35.686616,-105.933768,35.686616",
     "geom:latitude":35.686616,
     "geom:longitude":-105.933768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 E Palace Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185702851,
-    "wof:lastmodified":1449007430,
+    "wof:lastmodified":1466698661,
     "wof:name":"Hedrick Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.933768,35.686616,-105.933768,35.686616],
+  "bbox": [
+    -105.933768,
+    35.686616,
+    -105.933768,
+    35.686616
+],
   "geometry": {"coordinates":[-105.933768,35.686616],"type":"Point"}
 }

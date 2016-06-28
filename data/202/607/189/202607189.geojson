@@ -2,13 +2,14 @@
   "id": 202607189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.692703,35.169296,-106.692703,35.169296",
     "geom:latitude":35.169296,
     "geom:longitude":-106.692703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7512 Wells Fargo Trl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202607189,
-    "wof:lastmodified":1449060441,
+    "wof:lastmodified":1466698478,
     "wof:name":"Bernier Design",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-106.692703,35.169296,-106.692703,35.169296],
-  "geometry": {"coordinates":[-106.692703,35.169296],"type":"Point"}
+  "bbox": [
+    -106.692703,
+    35.169296,
+    -106.692703,
+    35.169296
+],
+  "geometry": {"coordinates":[-106.69270299999999,35.169296],"type":"Point"}
 }

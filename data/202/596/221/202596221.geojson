@@ -2,13 +2,14 @@
   "id": 202596221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.715799,35.528519,-108.715799,35.528519",
     "geom:latitude":35.528519,
     "geom:longitude":-108.715799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 E Aztec Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202596221,
-    "wof:lastmodified":1449061414,
+    "wof:lastmodified":1466698329,
     "wof:name":"Motor Vehicle Division 13a",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-108.715799,35.528519,-108.715799,35.528519],
+  "bbox": [
+    -108.715799,
+    35.528519,
+    -108.715799,
+    35.528519
+],
   "geometry": {"coordinates":[-108.715799,35.528519],"type":"Point"}
 }

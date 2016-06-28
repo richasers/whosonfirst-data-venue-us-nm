@@ -2,13 +2,14 @@
   "id": 202375815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.73289,35.054012,-106.73289,35.054012",
     "geom:latitude":35.054012,
     "geom:longitude":-106.73289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8810 Sonya Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202375815,
-    "wof:lastmodified":1449060186,
+    "wof:lastmodified":1466697628,
     "wof:name":"West Gate Little League",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "baseball"
     ]
 },
-  "bbox": [-106.73289,35.054012,-106.73289,35.054012],
+  "bbox": [
+    -106.73289,
+    35.054012,
+    -106.73289,
+    35.054012
+],
   "geometry": {"coordinates":[-106.73289,35.054012],"type":"Point"}
 }

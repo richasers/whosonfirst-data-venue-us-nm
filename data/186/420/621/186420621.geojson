@@ -2,13 +2,14 @@
   "id": 186420621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.74118,36.266086,-107.74118,36.266086",
     "geom:latitude":36.266086,
     "geom:longitude":-107.74118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6344 US Hwy 550",
     "sg:city":"Cuba",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186420621,
-    "wof:lastmodified":1449051665,
+    "wof:lastmodified":1466699936,
     "wof:name":"Cuba Community Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.74118,36.266086,-107.74118,36.266086],
+  "bbox": [
+    -107.74118,
+    36.266086,
+    -107.74118,
+    36.266086
+],
   "geometry": {"coordinates":[-107.74118,36.266086],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186083337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.849992,35.151591,-107.849992,35.151591",
     "geom:latitude":35.151591,
     "geom:longitude":-107.849992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 2nd St",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186083337,
-    "wof:lastmodified":1449051652,
+    "wof:lastmodified":1466698682,
     "wof:name":"Michael Toby Attorney At Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-107.849992,35.151591,-107.849992,35.151591],
+  "bbox": [
+    -107.849992,
+    35.151591,
+    -107.849992,
+    35.151591
+],
   "geometry": {"coordinates":[-107.849992,35.151591],"type":"Point"}
 }

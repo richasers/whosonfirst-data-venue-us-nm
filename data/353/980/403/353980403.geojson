@@ -2,13 +2,14 @@
   "id": 353980403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.20536,34.40088,-103.20536,34.40088",
     "geom:latitude":34.40088,
     "geom:longitude":-103.20536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 N Main St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":353980403,
-    "wof:lastmodified":1449018434,
+    "wof:lastmodified":1466699095,
     "wof:name":"The New You",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.20536,34.40088,-103.20536,34.40088],
+  "bbox": [
+    -103.20536,
+    34.40088,
+    -103.20536,
+    34.40088
+],
   "geometry": {"coordinates":[-103.20536,34.40088],"type":"Point"}
 }

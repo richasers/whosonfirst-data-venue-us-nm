@@ -2,13 +2,14 @@
   "id": 203071787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781427,32.370668,-106.781427,32.370668",
     "geom:latitude":32.370668,
     "geom:longitude":-106.781427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4310 del Rey Blvd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203071787,
-    "wof:lastmodified":1449026153,
+    "wof:lastmodified":1466698370,
     "wof:name":"Thurston Homes",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-106.781427,32.370668,-106.781427,32.370668],
-  "geometry": {"coordinates":[-106.781427,32.370668],"type":"Point"}
+  "bbox": [
+    -106.781427,
+    32.370668,
+    -106.781427,
+    32.370668
+],
+  "geometry": {"coordinates":[-106.78142699999999,32.370668],"type":"Point"}
 }

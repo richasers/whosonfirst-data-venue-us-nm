@@ -2,13 +2,14 @@
   "id": 202471291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586896,35.058765,-106.586896,35.058765",
     "geom:latitude":35.058765,
     "geom:longitude":-106.586896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 Ridgecrest Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202471291,
-    "wof:lastmodified":1449061132,
+    "wof:lastmodified":1466698817,
     "wof:name":"Alamosa-Vocos",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.586896,35.058765,-106.586896,35.058765],
+  "bbox": [
+    -106.586896,
+    35.058765,
+    -106.586896,
+    35.058765
+],
   "geometry": {"coordinates":[-106.586896,35.058765],"type":"Point"}
 }

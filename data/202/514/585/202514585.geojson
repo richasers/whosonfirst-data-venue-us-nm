@@ -2,13 +2,14 @@
   "id": 202514585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.568691,35.074837,-106.568691,35.074837",
     "geom:latitude":35.074837,
     "geom:longitude":-106.568691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Louisiana Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202514585,
-    "wof:lastmodified":1449061397,
+    "wof:lastmodified":1466699233,
     "wof:name":"Sam Goody 676",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "audio"
     ]
 },
-  "bbox": [-106.568691,35.074837,-106.568691,35.074837],
+  "bbox": [
+    -106.568691,
+    35.074837,
+    -106.568691,
+    35.074837
+],
   "geometry": {"coordinates":[-106.568691,35.074837],"type":"Point"}
 }

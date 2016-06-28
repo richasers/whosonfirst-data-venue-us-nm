@@ -2,13 +2,14 @@
   "id": 202810319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.937796,35.683781,-105.937796,35.683781",
     "geom:latitude":35.683781,
     "geom:longitude":-105.937796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Old Santa Fe Trl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202810319,
-    "wof:lastmodified":1449060856,
+    "wof:lastmodified":1466700006,
     "wof:name":"Silver Bear Inc",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.937796,35.683781,-105.937796,35.683781],
-  "geometry": {"coordinates":[-105.937796,35.683781],"type":"Point"}
+  "bbox": [
+    -105.937796,
+    35.683781,
+    -105.937796,
+    35.683781
+],
+  "geometry": {"coordinates":[-105.93779600000001,35.683781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186642763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.214932,35.594318,-105.214932,35.594318",
     "geom:latitude":35.594318,
     "geom:longitude":-105.214932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 6th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186642763,
-    "wof:lastmodified":1449050423,
+    "wof:lastmodified":1466700876,
     "wof:name":"Paint Ball Land",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sport"
     ]
 },
-  "bbox": [-105.214932,35.594318,-105.214932,35.594318],
+  "bbox": [
+    -105.214932,
+    35.594318,
+    -105.214932,
+    35.594318
+],
   "geometry": {"coordinates":[-105.214932,35.594318],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185924723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.228331,32.42025,-104.228331,32.42025",
     "geom:latitude":32.42025,
     "geom:longitude":-104.228331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 W Mermod St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185924723,
-    "wof:lastmodified":1449007052,
+    "wof:lastmodified":1466698873,
     "wof:name":"Montgomery Agency Inc Nights",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-104.228331,32.42025,-104.228331,32.42025],
+  "bbox": [
+    -104.228331,
+    32.42025,
+    -104.228331,
+    32.42025
+],
   "geometry": {"coordinates":[-104.228331,32.42025],"type":"Point"}
 }

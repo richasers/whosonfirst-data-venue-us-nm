@@ -2,13 +2,14 @@
   "id": 186637015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.995523,36.822456,-107.995523,36.822456",
     "geom:latitude":36.822456,
     "geom:longitude":-107.995523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W Chaco St",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186637015,
-    "wof:lastmodified":1449050252,
+    "wof:lastmodified":1466700674,
     "wof:name":"Dusenbery's Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-107.995523,36.822456,-107.995523,36.822456],
-  "geometry": {"coordinates":[-107.995523,36.822456],"type":"Point"}
+  "bbox": [
+    -107.995523,
+    36.822456,
+    -107.995523,
+    36.822456
+],
+  "geometry": {"coordinates":[-107.99552300000001,36.822456],"type":"Point"}
 }

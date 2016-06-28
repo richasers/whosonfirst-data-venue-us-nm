@@ -2,13 +2,14 @@
   "id": 202961977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.492616,35.092226,-106.492616,35.092226",
     "geom:latitude":35.092226,
     "geom:longitude":-106.492616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 Monte Largo Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202961977,
-    "wof:lastmodified":1449062585,
+    "wof:lastmodified":1466700612,
     "wof:name":"Fire Shop",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "ornamental"
     ]
 },
-  "bbox": [-106.492616,35.092226,-106.492616,35.092226],
+  "bbox": [
+    -106.492616,
+    35.092226,
+    -106.492616,
+    35.092226
+],
   "geometry": {"coordinates":[-106.492616,35.092226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186519697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.70152,35.160625,-106.70152,35.160625",
     "geom:latitude":35.160625,
     "geom:longitude":-106.70152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5520 Gold Rush Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186519697,
-    "wof:lastmodified":1449052856,
+    "wof:lastmodified":1466700424,
     "wof:name":"LGS Construction",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.70152,35.160625,-106.70152,35.160625],
+  "bbox": [
+    -106.70152,
+    35.160625,
+    -106.70152,
+    35.160625
+],
   "geometry": {"coordinates":[-106.70152,35.160625],"type":"Point"}
 }

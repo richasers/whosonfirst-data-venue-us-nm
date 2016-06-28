@@ -2,13 +2,14 @@
   "id": 202876219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.326985,34.392443,-103.326985,34.392443",
     "geom:latitude":34.392443,
     "geom:longitude":-103.326985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 E Sextant Ave",
     "sg:city":"Cannon Afb",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202876219,
-    "wof:lastmodified":1449060626,
+    "wof:lastmodified":1466700141,
     "wof:name":"Cannon Air Force Base",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-103.326985,34.392443,-103.326985,34.392443],
-  "geometry": {"coordinates":[-103.326985,34.392443],"type":"Point"}
+  "bbox": [
+    -103.326985,
+    34.392443,
+    -103.326985,
+    34.392443
+],
+  "geometry": {"coordinates":[-103.32698499999999,34.392443],"type":"Point"}
 }

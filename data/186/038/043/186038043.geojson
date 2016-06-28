@@ -2,13 +2,14 @@
   "id": 186038043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.004787,35.647455,-106.004787,35.647455",
     "geom:latitude":35.647455,
     "geom:longitude":-106.004787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2351 Fox Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186038043,
-    "wof:lastmodified":1449052101,
+    "wof:lastmodified":1466698114,
     "wof:name":"Judd Designs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shutter"
     ]
 },
-  "bbox": [-106.004787,35.647455,-106.004787,35.647455],
-  "geometry": {"coordinates":[-106.004787,35.647455],"type":"Point"}
+  "bbox": [
+    -106.004787,
+    35.647455,
+    -106.004787,
+    35.647455
+],
+  "geometry": {"coordinates":[-106.00478699999999,35.647455],"type":"Point"}
 }

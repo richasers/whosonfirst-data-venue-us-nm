@@ -2,13 +2,14 @@
   "id": 353957943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.748751,35.199412,-106.748751,35.199412",
     "geom:latitude":35.199412,
     "geom:longitude":-106.748751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10408 Rayner Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353957943,
-    "wof:lastmodified":1449020437,
+    "wof:lastmodified":1466698744,
     "wof:name":"Albuquerque Trolley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [-106.748751,35.199412,-106.748751,35.199412],
+  "bbox": [
+    -106.748751,
+    35.199412,
+    -106.748751,
+    35.199412
+],
   "geometry": {"coordinates":[-106.748751,35.199412],"type":"Point"}
 }

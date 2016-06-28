@@ -2,13 +2,14 @@
   "id": 186551065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.754414,32.268477,-106.754414,32.268477",
     "geom:latitude":32.268477,
     "geom:longitude":-106.754414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 Paroquia St",
     "sg:city":"Mesilla Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186551065,
-    "wof:lastmodified":1449050946,
+    "wof:lastmodified":1466700444,
     "wof:name":"Our Lady Of Guadalupe Shrine",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.754414,32.268477,-106.754414,32.268477],
+  "bbox": [
+    -106.754414,
+    32.268477,
+    -106.754414,
+    32.268477
+],
   "geometry": {"coordinates":[-106.754414,32.268477],"type":"Point"}
 }

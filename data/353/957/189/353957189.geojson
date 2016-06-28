@@ -2,13 +2,14 @@
   "id": 353957189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.658648,35.207129,-106.658648,35.207129",
     "geom:latitude":35.207129,
     "geom:longitude":-106.658648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10420B Coors Byp NW Suite 105",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353957189,
-    "wof:lastmodified":1449020438,
+    "wof:lastmodified":1466698735,
     "wof:name":"Mark Pardo Hair Skin Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "stylist"
     ]
 },
-  "bbox": [-106.658648,35.207129,-106.658648,35.207129],
+  "bbox": [
+    -106.658648,
+    35.207129,
+    -106.658648,
+    35.207129
+],
   "geometry": {"coordinates":[-106.658648,35.207129],"type":"Point"}
 }

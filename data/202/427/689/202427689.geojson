@@ -2,13 +2,14 @@
   "id": 202427689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.644879,35.100885,-106.644879,35.100885",
     "geom:latitude":35.100885,
     "geom:longitude":-106.644879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 1st St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202427689,
-    "wof:lastmodified":1449060877,
+    "wof:lastmodified":1466698283,
     "wof:name":"First Svc Inc Ontario Canada",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distributor"
     ]
 },
-  "bbox": [-106.644879,35.100885,-106.644879,35.100885],
+  "bbox": [
+    -106.644879,
+    35.100885,
+    -106.644879,
+    35.100885
+],
   "geometry": {"coordinates":[-106.644879,35.100885],"type":"Point"}
 }

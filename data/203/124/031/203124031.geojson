@@ -2,13 +2,14 @@
   "id": 203124031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.789801,32.26983,-106.789801,32.26983",
     "geom:latitude":32.26983,
     "geom:longitude":-106.789801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 S Hwy 28",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203124031,
-    "wof:lastmodified":1449026725,
+    "wof:lastmodified":1466699443,
     "wof:name":"All About Cakes",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-106.789801,32.26983,-106.789801,32.26983],
+  "bbox": [
+    -106.789801,
+    32.26983,
+    -106.789801,
+    32.26983
+],
   "geometry": {"coordinates":[-106.789801,32.26983],"type":"Point"}
 }

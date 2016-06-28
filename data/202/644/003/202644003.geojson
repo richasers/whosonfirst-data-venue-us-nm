@@ -2,13 +2,14 @@
   "id": 202644003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.512832,33.379876,-104.512832,33.379876",
     "geom:latitude":33.379876,
     "geom:longitude":-104.512832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 E McGaffey St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202644003,
-    "wof:lastmodified":1449061552,
+    "wof:lastmodified":1466699049,
     "wof:name":"Humane Society Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "humane"
     ]
 },
-  "bbox": [-104.512832,33.379876,-104.512832,33.379876],
+  "bbox": [
+    -104.512832,
+    33.379876,
+    -104.512832,
+    33.379876
+],
   "geometry": {"coordinates":[-104.512832,33.379876],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186525673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.681304,33.33428,-105.681304,33.33428",
     "geom:latitude":33.33428,
     "geom:longitude":-105.681304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Mechem Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186525673,
-    "wof:lastmodified":1449052449,
+    "wof:lastmodified":1466700317,
     "wof:name":"Sevilla's Day Spa",
     "wof:parent_id":85842645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-105.681304,33.33428,-105.681304,33.33428],
+  "bbox": [
+    -105.681304,
+    33.33428,
+    -105.681304,
+    33.33428
+],
   "geometry": {"coordinates":[-105.681304,33.33428],"type":"Point"}
 }

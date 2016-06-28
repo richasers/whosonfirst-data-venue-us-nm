@@ -2,13 +2,14 @@
   "id": 202665085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.696096,31.864428,-106.696096,31.864428",
     "geom:latitude":31.864428,
     "geom:longitude":-106.696096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Earhardt Way",
     "sg:city":"Santa Teresa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202665085,
-    "wof:lastmodified":1449060888,
+    "wof:lastmodified":1466699360,
     "wof:name":"Acme Mills Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.696096,31.864428,-106.696096,31.864428],
+  "bbox": [
+    -106.696096,
+    31.864428,
+    -106.696096,
+    31.864428
+],
   "geometry": {"coordinates":[-106.696096,31.864428],"type":"Point"}
 }

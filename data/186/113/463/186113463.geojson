@@ -2,13 +2,14 @@
   "id": 186113463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.196555,34.437261,-103.196555,34.437261",
     "geom:latitude":34.437261,
     "geom:longitude":-103.196555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3720 N Prince St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186113463,
-    "wof:lastmodified":1449052803,
+    "wof:lastmodified":1466699035,
     "wof:name":"North Pointe Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-103.196555,34.437261,-103.196555,34.437261],
+  "bbox": [
+    -103.196555,
+    34.437261,
+    -103.196555,
+    34.437261
+],
   "geometry": {"coordinates":[-103.196555,34.437261],"type":"Point"}
 }

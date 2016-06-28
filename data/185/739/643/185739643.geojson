@@ -2,13 +2,14 @@
   "id": 185739643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.148935,36.768472,-108.148935,36.768472",
     "geom:latitude":36.768472,
     "geom:longitude":-108.148935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 English Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185739643,
-    "wof:lastmodified":1449007285,
+    "wof:lastmodified":1466699079,
     "wof:name":"Walker Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.148935,36.768472,-108.148935,36.768472],
-  "geometry": {"coordinates":[-108.148935,36.768472],"type":"Point"}
+  "bbox": [
+    -108.148935,
+    36.768472,
+    -108.148935,
+    36.768472
+],
+  "geometry": {"coordinates":[-108.14893499999999,36.768472],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202557505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.69957,35.11689,-106.69957,35.11689",
     "geom:latitude":35.11689,
     "geom:longitude":-106.69957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3008 Corona Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202557505,
-    "wof:lastmodified":1449061907,
+    "wof:lastmodified":1466697752,
     "wof:name":"E B Distr",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-106.69957,35.11689,-106.69957,35.11689],
-  "geometry": {"coordinates":[-106.69957,35.11689],"type":"Point"}
+  "bbox": [
+    -106.69957,
+    35.11689,
+    -106.69957,
+    35.11689
+],
+  "geometry": {"coordinates":[-106.69956999999999,35.11689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202881805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.752117,35.04989,-106.752117,35.04989",
     "geom:latitude":35.04989,
     "geom:longitude":-106.752117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Delgado Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202881805,
-    "wof:lastmodified":1449061583,
+    "wof:lastmodified":1466700285,
     "wof:name":"West Gate Heights Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-106.752117,35.04989,-106.752117,35.04989],
+  "bbox": [
+    -106.752117,
+    35.04989,
+    -106.752117,
+    35.04989
+],
   "geometry": {"coordinates":[-106.752117,35.04989],"type":"Point"}
 }

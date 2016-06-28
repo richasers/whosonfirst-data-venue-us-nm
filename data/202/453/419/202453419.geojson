@@ -2,13 +2,14 @@
   "id": 202453419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.531706,33.395291,-104.531706,33.395291",
     "geom:latitude":33.395291,
     "geom:longitude":-104.531706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 N Washington Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202453419,
-    "wof:lastmodified":1449062016,
+    "wof:lastmodified":1466698574,
     "wof:name":"Nameste Child & Family Dev Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-104.531706,33.395291,-104.531706,33.395291],
+  "bbox": [
+    -104.531706,
+    33.395291,
+    -104.531706,
+    33.395291
+],
   "geometry": {"coordinates":[-104.531706,33.395291],"type":"Point"}
 }

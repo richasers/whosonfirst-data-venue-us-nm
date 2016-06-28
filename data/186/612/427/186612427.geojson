@@ -2,13 +2,14 @@
   "id": 186612427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.626998,35.183837,-106.626998,35.183837",
     "geom:latitude":35.183837,
     "geom:longitude":-106.626998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8901 6th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186612427,
-    "wof:lastmodified":1449051561,
+    "wof:lastmodified":1466700674,
     "wof:name":"A American Key & Lock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-106.626998,35.183837,-106.626998,35.183837],
+  "bbox": [
+    -106.626998,
+    35.183837,
+    -106.626998,
+    35.183837
+],
   "geometry": {"coordinates":[-106.626998,35.183837],"type":"Point"}
 }

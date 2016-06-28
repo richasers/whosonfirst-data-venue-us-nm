@@ -2,13 +2,14 @@
   "id": 185854421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.522774,33.377694,-104.522774,33.377694",
     "geom:latitude":33.377694,
     "geom:longitude":-104.522774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 S Main St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185854421,
-    "wof:lastmodified":1449008133,
+    "wof:lastmodified":1466698059,
     "wof:name":"Southside",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-104.522774,33.377694,-104.522774,33.377694],
+  "bbox": [
+    -104.522774,
+    33.377694,
+    -104.522774,
+    33.377694
+],
   "geometry": {"coordinates":[-104.522774,33.377694],"type":"Point"}
 }

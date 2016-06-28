@@ -2,13 +2,14 @@
   "id": 186500501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.952556,35.695755,-105.952556,35.695755",
     "geom:latitude":35.695755,
     "geom:longitude":-105.952556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Fiesta St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186500501,
-    "wof:lastmodified":1449051062,
+    "wof:lastmodified":1466700087,
     "wof:name":"Guaranteed Roofing Service",
     "wof:parent_id":85880797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-105.952556,35.695755,-105.952556,35.695755],
+  "bbox": [
+    -105.952556,
+    35.695755,
+    -105.952556,
+    35.695755
+],
   "geometry": {"coordinates":[-105.952556,35.695755],"type":"Point"}
 }

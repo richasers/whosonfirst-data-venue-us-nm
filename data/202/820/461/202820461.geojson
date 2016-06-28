@@ -2,13 +2,14 @@
   "id": 202820461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.702393,35.145971,-106.702393,35.145971",
     "geom:latitude":35.145971,
     "geom:longitude":-106.702393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5509 Cll Quieta NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202820461,
-    "wof:lastmodified":1449061432,
+    "wof:lastmodified":1466700044,
     "wof:name":"S & S Vending",
     "wof:parent_id":85865321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.702393,35.145971,-106.702393,35.145971],
+  "bbox": [
+    -106.702393,
+    35.145971,
+    -106.702393,
+    35.145971
+],
   "geometry": {"coordinates":[-106.702393,35.145971],"type":"Point"}
 }

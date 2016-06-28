@@ -2,13 +2,14 @@
   "id": 185822963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.672289,33.331698,-105.672289,33.331698",
     "geom:latitude":33.331698,
     "geom:longitude":-105.672289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2530 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185822963,
-    "wof:lastmodified":1449008138,
+    "wof:lastmodified":1466697712,
     "wof:name":"Mountain Arts Gallery Framing",
     "wof:parent_id":85842645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.672289,33.331698,-105.672289,33.331698],
-  "geometry": {"coordinates":[-105.672289,33.331698],"type":"Point"}
+  "bbox": [
+    -105.672289,
+    33.331698,
+    -105.672289,
+    33.331698
+],
+  "geometry": {"coordinates":[-105.67228900000001,33.331698],"type":"Point"}
 }

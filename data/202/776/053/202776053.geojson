@@ -2,13 +2,14 @@
   "id": 202776053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.498776,35.15241,-106.498776,35.15241",
     "geom:latitude":35.15241,
     "geom:longitude":-106.498776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12241 Academy Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202776053,
-    "wof:lastmodified":1449060678,
+    "wof:lastmodified":1466699854,
     "wof:name":"A T Wireless",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-106.498776,35.15241,-106.498776,35.15241],
-  "geometry": {"coordinates":[-106.498776,35.15241],"type":"Point"}
+  "bbox": [
+    -106.498776,
+    35.15241,
+    -106.498776,
+    35.15241
+],
+  "geometry": {"coordinates":[-106.49877600000001,35.15241],"type":"Point"}
 }

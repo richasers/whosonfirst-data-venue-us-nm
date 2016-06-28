@@ -2,13 +2,14 @@
   "id": 186563675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.127507,32.685083,-103.127507,32.685083",
     "geom:latitude":32.685083,
     "geom:longitude":-103.127507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1628 S Dal Paso St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186563675,
-    "wof:lastmodified":1449050300,
+    "wof:lastmodified":1466700390,
     "wof:name":"Onda-Lay Pipe Rental Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pipe"
     ]
 },
-  "bbox": [-103.127507,32.685083,-103.127507,32.685083],
-  "geometry": {"coordinates":[-103.127507,32.685083],"type":"Point"}
+  "bbox": [
+    -103.127507,
+    32.685083,
+    -103.127507,
+    32.685083
+],
+  "geometry": {"coordinates":[-103.12750699999999,32.685083],"type":"Point"}
 }

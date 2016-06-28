@@ -2,13 +2,14 @@
   "id": 186115049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.309417,35.882179,-106.309417,35.882179",
     "geom:latitude":35.882179,
     "geom:longitude":-106.309417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3055 Trinity Dr",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186115049,
-    "wof:lastmodified":1449050230,
+    "wof:lastmodified":1466699456,
     "wof:name":"Quality Firearms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.309417,35.882179,-106.309417,35.882179],
+  "bbox": [
+    -106.309417,
+    35.882179,
+    -106.309417,
+    35.882179
+],
   "geometry": {"coordinates":[-106.309417,35.882179],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186056855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.533706,35.161422,-106.533706,35.161422",
     "geom:latitude":35.161422,
     "geom:longitude":-106.533706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9417 Bent Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186056855,
-    "wof:lastmodified":1449051140,
+    "wof:lastmodified":1466698335,
     "wof:name":"SDS Consulting Inc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.533706,35.161422,-106.533706,35.161422],
+  "bbox": [
+    -106.533706,
+    35.161422,
+    -106.533706,
+    35.161422
+],
   "geometry": {"coordinates":[-106.533706,35.161422],"type":"Point"}
 }

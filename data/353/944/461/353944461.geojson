@@ -2,13 +2,14 @@
   "id": 353944461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586366,35.095196,-106.586366,35.095196",
     "geom:latitude":35.095196,
     "geom:longitude":-106.586366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1829 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353944461,
-    "wof:lastmodified":1449019539,
+    "wof:lastmodified":1466698407,
     "wof:name":"Liu Chiropractic Acupuncture",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-106.586366,35.095196,-106.586366,35.095196],
+  "bbox": [
+    -106.586366,
+    35.095196,
+    -106.586366,
+    35.095196
+],
   "geometry": {"coordinates":[-106.586366,35.095196],"type":"Point"}
 }

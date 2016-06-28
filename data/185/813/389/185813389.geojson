@@ -2,13 +2,14 @@
   "id": 185813389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.716652,34.642579,-106.716652,34.642579",
     "geom:latitude":34.642579,
     "geom:longitude":-106.716652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 Cll del Sol",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185813389,
-    "wof:lastmodified":1449007022,
+    "wof:lastmodified":1466697605,
     "wof:name":"Charlie's Carpet Cleaning",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-106.716652,34.642579,-106.716652,34.642579],
+  "bbox": [
+    -106.716652,
+    34.642579,
+    -106.716652,
+    34.642579
+],
   "geometry": {"coordinates":[-106.716652,34.642579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186300341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.337137,35.109623,-106.337137,35.109623",
     "geom:latitude":35.109623,
     "geom:longitude":-106.337137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 N Zamora Rd",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186300341,
-    "wof:lastmodified":1449051895,
+    "wof:lastmodified":1466699341,
     "wof:name":"Bayless Trucking & Excavating",
     "wof:parent_id":85892617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.337137,35.109623,-106.337137,35.109623],
+  "bbox": [
+    -106.337137,
+    35.109623,
+    -106.337137,
+    35.109623
+],
   "geometry": {"coordinates":[-106.337137,35.109623],"type":"Point"}
 }

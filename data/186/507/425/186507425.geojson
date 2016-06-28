@@ -2,13 +2,14 @@
   "id": 186507425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.734634,32.30603,-106.734634,32.30603",
     "geom:latitude":32.30603,
     "geom:longitude":-106.734634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3003 Hillrise Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186507425,
-    "wof:lastmodified":1449051746,
+    "wof:lastmodified":1466700327,
     "wof:name":"USA Beverages Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beverage"
     ]
 },
-  "bbox": [-106.734634,32.30603,-106.734634,32.30603],
+  "bbox": [
+    -106.734634,
+    32.30603,
+    -106.734634,
+    32.30603
+],
   "geometry": {"coordinates":[-106.734634,32.30603],"type":"Point"}
 }

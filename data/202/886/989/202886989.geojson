@@ -2,13 +2,14 @@
   "id": 202886989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.940376,32.902143,-105.940376,32.902143",
     "geom:latitude":32.902143,
     "geom:longitude":-105.940376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 Monroe Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202886989,
-    "wof:lastmodified":1449061510,
+    "wof:lastmodified":1466700302,
     "wof:name":"Alamo Trophy Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-105.940376,32.902143,-105.940376,32.902143],
+  "bbox": [
+    -105.940376,
+    32.902143,
+    -105.940376,
+    32.902143
+],
   "geometry": {"coordinates":[-105.940376,32.902143],"type":"Point"}
 }

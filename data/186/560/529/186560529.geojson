@@ -2,13 +2,14 @@
   "id": 186560529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.944397,35.682825,-105.944397,35.682825",
     "geom:latitude":35.682825,
     "geom:longitude":-105.944397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186560529,
-    "wof:lastmodified":1449052374,
+    "wof:lastmodified":1466700360,
     "wof:name":"EATME Foods",
     "wof:parent_id":85880805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "product"
     ]
 },
-  "bbox": [-105.944397,35.682825,-105.944397,35.682825],
+  "bbox": [
+    -105.944397,
+    35.682825,
+    -105.944397,
+    35.682825
+],
   "geometry": {"coordinates":[-105.944397,35.682825],"type":"Point"}
 }

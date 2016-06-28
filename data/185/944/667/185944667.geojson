@@ -2,13 +2,14 @@
   "id": 185944667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.761775,32.297891,-106.761775,32.297891",
     "geom:latitude":32.297891,
     "geom:longitude":-106.761775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1292 E Foster Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185944667,
-    "wof:lastmodified":1449007434,
+    "wof:lastmodified":1466699138,
     "wof:name":"Sewing Machines Distributors",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewing"
     ]
 },
-  "bbox": [-106.761775,32.297891,-106.761775,32.297891],
+  "bbox": [
+    -106.761775,
+    32.297891,
+    -106.761775,
+    32.297891
+],
   "geometry": {"coordinates":[-106.761775,32.297891],"type":"Point"}
 }

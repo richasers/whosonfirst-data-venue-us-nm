@@ -2,13 +2,14 @@
   "id": 202450439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.533665,33.379779,-104.533665,33.379779",
     "geom:latitude":33.379779,
     "geom:longitude":-104.533665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 W McGaffey St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202450439,
-    "wof:lastmodified":1449062270,
+    "wof:lastmodified":1466698535,
     "wof:name":"Durb's Fruit Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-104.533665,33.379779,-104.533665,33.379779],
+  "bbox": [
+    -104.533665,
+    33.379779,
+    -104.533665,
+    33.379779
+],
   "geometry": {"coordinates":[-104.533665,33.379779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202706401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.051029,35.629663,-106.051029,35.629663",
     "geom:latitude":35.629663,
     "geom:longitude":-106.051029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Country Club Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202706401,
-    "wof:lastmodified":1449060292,
+    "wof:lastmodified":1466699623,
     "wof:name":"Woodmen-The World Santa Fe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.051029,35.629663,-106.051029,35.629663],
+  "bbox": [
+    -106.051029,
+    35.629663,
+    -106.051029,
+    35.629663
+],
   "geometry": {"coordinates":[-106.051029,35.629663],"type":"Point"}
 }

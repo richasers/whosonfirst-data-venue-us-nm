@@ -2,13 +2,14 @@
   "id": 202546205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.565395,35.133405,-106.565395,35.133405",
     "geom:latitude":35.133405,
     "geom:longitude":-106.565395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4165 Chama St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202546205,
-    "wof:lastmodified":1449060105,
+    "wof:lastmodified":1466699375,
     "wof:name":"Creative Audio Works Inc",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "audio"
     ]
 },
-  "bbox": [-106.565395,35.133405,-106.565395,35.133405],
+  "bbox": [
+    -106.565395,
+    35.133405,
+    -106.565395,
+    35.133405
+],
   "geometry": {"coordinates":[-106.565395,35.133405],"type":"Point"}
 }

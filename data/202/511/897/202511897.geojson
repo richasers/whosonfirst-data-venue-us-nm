@@ -2,13 +2,14 @@
   "id": 202511897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.753886,32.270172,-107.753886,32.270172",
     "geom:latitude":32.270172,
     "geom:longitude":-107.753886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N Ruby St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202511897,
-    "wof:lastmodified":1449061295,
+    "wof:lastmodified":1466699207,
     "wof:name":"Hat Creek Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-107.753886,32.270172,-107.753886,32.270172],
-  "geometry": {"coordinates":[-107.753886,32.270172],"type":"Point"}
+  "bbox": [
+    -107.753886,
+    32.270172,
+    -107.753886,
+    32.270172
+],
+  "geometry": {"coordinates":[-107.75388599999999,32.270172],"type":"Point"}
 }

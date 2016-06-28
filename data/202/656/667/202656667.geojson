@@ -2,13 +2,14 @@
   "id": 202656667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.278843,32.773997,-108.278843,32.773997",
     "geom:latitude":32.773997,
     "geom:longitude":-108.278843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 N Bayard St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202656667,
-    "wof:lastmodified":1449061738,
+    "wof:lastmodified":1466699236,
     "wof:name":"Littlejohn Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-108.278843,32.773997,-108.278843,32.773997],
-  "geometry": {"coordinates":[-108.278843,32.773997],"type":"Point"}
+  "bbox": [
+    -108.278843,
+    32.773997,
+    -108.278843,
+    32.773997
+],
+  "geometry": {"coordinates":[-108.27884299999999,32.773997],"type":"Point"}
 }

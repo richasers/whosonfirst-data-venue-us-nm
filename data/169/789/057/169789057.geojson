@@ -2,13 +2,14 @@
   "id": 169789057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.722127,35.106069,-106.722127,35.106069",
     "geom:latitude":35.106069,
     "geom:longitude":-106.722127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7600 Mesquite Wood Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169789057,
-    "wof:lastmodified":1449034160,
+    "wof:lastmodified":1466698456,
     "wof:name":"Enchantment Kickball",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "amusement"
     ]
 },
-  "bbox": [-106.722127,35.106069,-106.722127,35.106069],
+  "bbox": [
+    -106.722127,
+    35.106069,
+    -106.722127,
+    35.106069
+],
   "geometry": {"coordinates":[-106.722127,35.106069],"type":"Point"}
 }

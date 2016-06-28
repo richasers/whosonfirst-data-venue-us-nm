@@ -2,13 +2,14 @@
   "id": 186203615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.906813,35.598559,-105.906813,35.598559",
     "geom:latitude":35.598559,
     "geom:longitude":-105.906813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Cam Nevoso",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186203615,
-    "wof:lastmodified":1449051566,
+    "wof:lastmodified":1466698075,
     "wof:name":"Aradi Investments Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "closed"
     ]
 },
-  "bbox": [-105.906813,35.598559,-105.906813,35.598559],
+  "bbox": [
+    -105.906813,
+    35.598559,
+    -105.906813,
+    35.598559
+],
   "geometry": {"coordinates":[-105.906813,35.598559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186512421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.559737,34.346365,-103.559737,34.346365",
     "geom:latitude":34.346365,
     "geom:longitude":-103.559737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3199 Curry Rd 7",
     "sg:city":"Melrose",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186512421,
-    "wof:lastmodified":1449052307,
+    "wof:lastmodified":1466700267,
     "wof:name":"Pinnell Cattle Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "livestock"
     ]
 },
-  "bbox": [-103.559737,34.346365,-103.559737,34.346365],
+  "bbox": [
+    -103.559737,
+    34.346365,
+    -103.559737,
+    34.346365
+],
   "geometry": {"coordinates":[-103.559737,34.346365],"type":"Point"}
 }

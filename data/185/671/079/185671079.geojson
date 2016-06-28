@@ -2,13 +2,14 @@
   "id": 185671079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.182014,36.746931,-108.182014,36.746931",
     "geom:latitude":36.746931,
     "geom:longitude":-108.182014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 Schofield Ln",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185671079,
-    "wof:lastmodified":1449006983,
+    "wof:lastmodified":1466698366,
     "wof:name":"Animas Sheet Metal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.182014,36.746931,-108.182014,36.746931],
+  "bbox": [
+    -108.182014,
+    36.746931,
+    -108.182014,
+    36.746931
+],
   "geometry": {"coordinates":[-108.182014,36.746931],"type":"Point"}
 }

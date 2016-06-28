@@ -2,13 +2,14 @@
   "id": 185945673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.6401,35.144695,-106.6401,35.144695",
     "geom:latitude":35.144695,
     "geom:longitude":-106.6401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6132 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185945673,
-    "wof:lastmodified":1449006742,
+    "wof:lastmodified":1466699154,
     "wof:name":"Exhale Bar & Grill",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.6401,35.144695,-106.6401,35.144695],
+  "bbox": [
+    -106.6401,
+    35.144695,
+    -106.6401,
+    35.144695
+],
   "geometry": {"coordinates":[-106.6401,35.144695],"type":"Point"}
 }

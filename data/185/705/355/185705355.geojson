@@ -2,13 +2,14 @@
   "id": 185705355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.502603,35.126547,-106.502603,35.126547",
     "geom:latitude":35.126547,
     "geom:longitude":-106.502603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3830 Blue Ridge Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185705355,
-    "wof:lastmodified":1449008218,
+    "wof:lastmodified":1466698684,
     "wof:name":"American Sportsman",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.502603,35.126547,-106.502603,35.126547],
-  "geometry": {"coordinates":[-106.502603,35.126547],"type":"Point"}
+  "bbox": [
+    -106.502603,
+    35.126547,
+    -106.502603,
+    35.126547
+],
+  "geometry": {"coordinates":[-106.50260299999999,35.126547],"type":"Point"}
 }

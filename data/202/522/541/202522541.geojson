@@ -2,13 +2,14 @@
   "id": 202522541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.965423,35.659438,-105.965423,35.659438",
     "geom:latitude":35.659438,
     "geom:longitude":-105.965423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"851 Saint Michaels Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202522541,
-    "wof:lastmodified":1449061331,
+    "wof:lastmodified":1466699265,
     "wof:name":"Kokopelli Rafting Adventures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tour"
     ]
 },
-  "bbox": [-105.965423,35.659438,-105.965423,35.659438],
+  "bbox": [
+    -105.965423,
+    35.659438,
+    -105.965423,
+    35.659438
+],
   "geometry": {"coordinates":[-105.965423,35.659438],"type":"Point"}
 }

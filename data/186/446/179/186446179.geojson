@@ -2,13 +2,14 @@
   "id": 186446179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.152314,32.330867,-104.152314,32.330867",
     "geom:latitude":32.330867,
     "geom:longitude":-104.152314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6505 Porter Rd",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186446179,
-    "wof:lastmodified":1449052795,
+    "wof:lastmodified":1466700024,
     "wof:name":"Loving Gin Inc",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ginning"
     ]
 },
-  "bbox": [-104.152314,32.330867,-104.152314,32.330867],
+  "bbox": [
+    -104.152314,
+    32.330867,
+    -104.152314,
+    32.330867
+],
   "geometry": {"coordinates":[-104.152314,32.330867],"type":"Point"}
 }

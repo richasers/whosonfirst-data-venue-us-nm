@@ -2,13 +2,14 @@
   "id": 202541583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.340678,34.183935,-103.340678,34.183935",
     "geom:latitude":34.183935,
     "geom:longitude":-103.340678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 S Ave D",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202541583,
-    "wof:lastmodified":1449060389,
+    "wof:lastmodified":1466699316,
     "wof:name":"First Baptist Church Mother's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "church"
     ]
 },
-  "bbox": [-103.340678,34.183935,-103.340678,34.183935],
+  "bbox": [
+    -103.340678,
+    34.183935,
+    -103.340678,
+    34.183935
+],
   "geometry": {"coordinates":[-103.340678,34.183935],"type":"Point"}
 }

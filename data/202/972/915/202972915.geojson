@@ -2,13 +2,14 @@
   "id": 202972915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.544609,35.119651,-106.544609,35.119651",
     "geom:latitude":35.119651,
     "geom:longitude":-106.544609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8913 Aztec Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202972915,
-    "wof:lastmodified":1449061396,
+    "wof:lastmodified":1466700558,
     "wof:name":"Tribute Development LLC",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.544609,35.119651,-106.544609,35.119651],
-  "geometry": {"coordinates":[-106.544609,35.119651],"type":"Point"}
+  "bbox": [
+    -106.544609,
+    35.119651,
+    -106.544609,
+    35.119651
+],
+  "geometry": {"coordinates":[-106.54460899999999,35.119651],"type":"Point"}
 }

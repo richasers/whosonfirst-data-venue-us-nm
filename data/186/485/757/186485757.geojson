@@ -2,13 +2,14 @@
   "id": 186485757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.278613,32.780861,-108.278613,32.780861",
     "geom:latitude":32.780861,
     "geom:longitude":-108.278613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 US Hwy 180 W",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186485757,
-    "wof:lastmodified":1449051997,
+    "wof:lastmodified":1466700283,
     "wof:name":"Western Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.278613,32.780861,-108.278613,32.780861],
-  "geometry": {"coordinates":[-108.278613,32.780861],"type":"Point"}
+  "bbox": [
+    -108.278613,
+    32.780861,
+    -108.278613,
+    32.780861
+],
+  "geometry": {"coordinates":[-108.27861300000001,32.780861],"type":"Point"}
 }

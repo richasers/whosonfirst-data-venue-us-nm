@@ -2,13 +2,14 @@
   "id": 353962685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.717246,35.148994,-106.717246,35.148994",
     "geom:latitude":35.148994,
     "geom:longitude":-106.717246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6910 Minehead Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353962685,
-    "wof:lastmodified":1449019771,
+    "wof:lastmodified":1466698819,
     "wof:name":"Jamie Kortan",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "assistant"
     ]
 },
-  "bbox": [-106.717246,35.148994,-106.717246,35.148994],
+  "bbox": [
+    -106.717246,
+    35.148994,
+    -106.717246,
+    35.148994
+],
   "geometry": {"coordinates":[-106.717246,35.148994],"type":"Point"}
 }

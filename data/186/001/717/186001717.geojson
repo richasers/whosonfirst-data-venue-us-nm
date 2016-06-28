@@ -2,13 +2,14 @@
   "id": 186001717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.263217,36.55399,-105.263217,36.55399",
     "geom:latitude":36.55399,
     "geom:longitude":-105.263217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 US Hwy 64",
     "sg:city":"Eagle Nest",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186001717,
-    "wof:lastmodified":1449051005,
+    "wof:lastmodified":1466697694,
     "wof:name":"International Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.263217,36.55399,-105.263217,36.55399],
+  "bbox": [
+    -105.263217,
+    36.55399,
+    -105.263217,
+    36.55399
+],
   "geometry": {"coordinates":[-105.263217,36.55399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186368745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.276612,33.121559,-107.276612,33.121559",
     "geom:latitude":33.121559,
     "geom:longitude":-107.276612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2007 S Broadway St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186368745,
-    "wof:lastmodified":1449051020,
+    "wof:lastmodified":1466699601,
     "wof:name":"Hasty's Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [-107.276612,33.121559,-107.276612,33.121559],
+  "bbox": [
+    -107.276612,
+    33.121559,
+    -107.276612,
+    33.121559
+],
   "geometry": {"coordinates":[-107.276612,33.121559],"type":"Point"}
 }

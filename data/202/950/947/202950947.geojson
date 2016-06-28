@@ -2,13 +2,14 @@
   "id": 202950947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.583919,36.388388,-105.583919,36.388388",
     "geom:latitude":36.388388,
     "geom:longitude":-105.583919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"822 Pso del Pueblo Norte",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202950947,
-    "wof:lastmodified":1449061111,
+    "wof:lastmodified":1466700669,
     "wof:name":"Silvas Tire Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tire"
     ]
 },
-  "bbox": [-105.583919,36.388388,-105.583919,36.388388],
-  "geometry": {"coordinates":[-105.583919,36.388388],"type":"Point"}
+  "bbox": [
+    -105.583919,
+    36.388388,
+    -105.583919,
+    36.388388
+],
+  "geometry": {"coordinates":[-105.58391899999999,36.388388],"type":"Point"}
 }

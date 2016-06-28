@@ -2,13 +2,14 @@
   "id": 203027705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.53444,33.399198,-104.53444,33.399198",
     "geom:latitude":33.399198,
     "geom:longitude":-104.53444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Riverside Dr",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203027705,
-    "wof:lastmodified":1449025292,
+    "wof:lastmodified":1466697905,
     "wof:name":"D Oil & Gas Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "lease"
     ]
 },
-  "bbox": [-104.53444,33.399198,-104.53444,33.399198],
+  "bbox": [
+    -104.53444,
+    33.399198,
+    -104.53444,
+    33.399198
+],
   "geometry": {"coordinates":[-104.53444,33.399198],"type":"Point"}
 }

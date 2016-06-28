@@ -2,13 +2,14 @@
   "id": 185659421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.9633,35.674792,-105.9633,35.674792",
     "geom:latitude":35.674792,
     "geom:longitude":-105.9633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 Baca St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185659421,
-    "wof:lastmodified":1449006781,
+    "wof:lastmodified":1466698229,
     "wof:name":"Baca Street Yoga",
     "wof:parent_id":85880783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "yoga"
     ]
 },
-  "bbox": [-105.9633,35.674792,-105.9633,35.674792],
+  "bbox": [
+    -105.9633,
+    35.674792,
+    -105.9633,
+    35.674792
+],
   "geometry": {"coordinates":[-105.9633,35.674792],"type":"Point"}
 }

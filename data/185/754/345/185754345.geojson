@@ -2,13 +2,14 @@
   "id": 185754345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.49677,35.13666,-106.49677,35.13666",
     "geom:latitude":35.13666,
     "geom:longitude":-106.49677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5027 Cll de Carino",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185754345,
-    "wof:lastmodified":1449007657,
+    "wof:lastmodified":1466699165,
     "wof:name":"Real Estate Consulting",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-106.49677,35.13666,-106.49677,35.13666],
+  "bbox": [
+    -106.49677,
+    35.13666,
+    -106.49677,
+    35.13666
+],
   "geometry": {"coordinates":[-106.49677,35.13666],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185911375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.603538,35.062187,-106.603538,35.062187",
     "geom:latitude":35.062187,
     "geom:longitude":-106.603538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1319 Hermosa Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185911375,
-    "wof:lastmodified":1449007968,
+    "wof:lastmodified":1466698675,
     "wof:name":"Communitas Foundation",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.603538,35.062187,-106.603538,35.062187],
+  "bbox": [
+    -106.603538,
+    35.062187,
+    -106.603538,
+    35.062187
+],
   "geometry": {"coordinates":[-106.603538,35.062187],"type":"Point"}
 }

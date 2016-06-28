@@ -2,13 +2,14 @@
   "id": 202793735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.94805,35.672045,-105.94805,35.672045",
     "geom:latitude":35.672045,
     "geom:longitude":-105.94805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 W Cordova Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202793735,
-    "wof:lastmodified":1449061508,
+    "wof:lastmodified":1466699834,
     "wof:name":"Straight Shooting Computing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.94805,35.672045,-105.94805,35.672045],
-  "geometry": {"coordinates":[-105.94805,35.672045],"type":"Point"}
+  "bbox": [
+    -105.94805,
+    35.672045,
+    -105.94805,
+    35.672045
+],
+  "geometry": {"coordinates":[-105.94804999999999,35.672045],"type":"Point"}
 }

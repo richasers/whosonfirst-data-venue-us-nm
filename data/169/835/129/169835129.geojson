@@ -2,13 +2,14 @@
   "id": 169835129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.36098,34.179629,-103.36098,34.179629",
     "geom:latitude":34.179629,
     "geom:longitude":-103.36098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 W Aspen St",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169835129,
-    "wof:lastmodified":1449033162,
+    "wof:lastmodified":1466698831,
     "wof:name":"Tlh Supermarkets Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.36098,34.179629,-103.36098,34.179629],
+  "bbox": [
+    -103.36098,
+    34.179629,
+    -103.36098,
+    34.179629
+],
   "geometry": {"coordinates":[-103.36098,34.179629],"type":"Point"}
 }

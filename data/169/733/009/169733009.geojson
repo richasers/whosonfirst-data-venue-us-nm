@@ -2,13 +2,14 @@
   "id": 169733009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.548336,35.074986,-106.548336,35.074986",
     "geom:latitude":35.074986,
     "geom:longitude":-106.548336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 General Bradley St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169733009,
-    "wof:lastmodified":1449033151,
+    "wof:lastmodified":1466699399,
     "wof:name":"YDI Chico & General Bradley",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.548336,35.074986,-106.548336,35.074986],
-  "geometry": {"coordinates":[-106.548336,35.074986],"type":"Point"}
+  "bbox": [
+    -106.548336,
+    35.074986,
+    -106.548336,
+    35.074986
+],
+  "geometry": {"coordinates":[-106.54833600000001,35.074986],"type":"Point"}
 }

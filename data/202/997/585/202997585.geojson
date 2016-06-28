@@ -2,13 +2,14 @@
   "id": 202997585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.980741,35.644335,-105.980741,35.644335",
     "geom:latitude":35.644335,
     "geom:longitude":-105.980741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2335 Cam Rancho Siringo",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202997585,
-    "wof:lastmodified":1449062220,
+    "wof:lastmodified":1466700842,
     "wof:name":"Don Wolvington Certified Rllr",
     "wof:parent_id":85880829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.980741,35.644335,-105.980741,35.644335],
-  "geometry": {"coordinates":[-105.980741,35.644335],"type":"Point"}
+  "bbox": [
+    -105.980741,
+    35.644335,
+    -105.980741,
+    35.644335
+],
+  "geometry": {"coordinates":[-105.98074099999999,35.644335],"type":"Point"}
 }

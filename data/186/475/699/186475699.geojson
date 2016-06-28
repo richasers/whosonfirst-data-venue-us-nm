@@ -2,13 +2,14 @@
   "id": 186475699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.280309,32.76975,-108.280309,32.76975",
     "geom:latitude":32.76975,
     "geom:longitude":-108.280309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Cooper St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186475699,
-    "wof:lastmodified":1449051490,
+    "wof:lastmodified":1466700139,
     "wof:name":"Cienega Spa Salon & Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.280309,32.76975,-108.280309,32.76975],
+  "bbox": [
+    -108.280309,
+    32.76975,
+    -108.280309,
+    32.76975
+],
   "geometry": {"coordinates":[-108.280309,32.76975],"type":"Point"}
 }

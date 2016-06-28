@@ -2,13 +2,14 @@
   "id": 169806395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.957328,32.919041,-105.957328,32.919041",
     "geom:latitude":32.919041,
     "geom:longitude":-105.957328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 24th St",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169806395,
-    "wof:lastmodified":1449032676,
+    "wof:lastmodified":1466698664,
     "wof:name":"Testing Laboratories Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-105.957328,32.919041,-105.957328,32.919041],
+  "bbox": [
+    -105.957328,
+    32.919041,
+    -105.957328,
+    32.919041
+],
   "geometry": {"coordinates":[-105.957328,32.919041],"type":"Point"}
 }

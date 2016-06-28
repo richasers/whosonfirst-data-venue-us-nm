@@ -2,13 +2,14 @@
   "id": 202689705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.195108,32.781547,-108.195108,32.781547",
     "geom:latitude":32.781547,
     "geom:longitude":-108.195108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11787 US Hwy 180 E",
     "sg:city":"Arenas Valley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202689705,
-    "wof:lastmodified":1449062238,
+    "wof:lastmodified":1466699566,
     "wof:name":"Mtn Right Feed Suppy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.195108,32.781547,-108.195108,32.781547],
+  "bbox": [
+    -108.195108,
+    32.781547,
+    -108.195108,
+    32.781547
+],
   "geometry": {"coordinates":[-108.195108,32.781547],"type":"Point"}
 }

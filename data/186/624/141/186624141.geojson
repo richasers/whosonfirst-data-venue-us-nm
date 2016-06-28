@@ -2,13 +2,14 @@
   "id": 186624141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.208119,36.733899,-108.208119,36.733899",
     "geom:latitude":36.733899,
     "geom:longitude":-108.208119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 N Behrend Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186624141,
-    "wof:lastmodified":1449052212,
+    "wof:lastmodified":1466700728,
     "wof:name":"Rocky Mountain Landscape Dsgn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "landscape"
     ]
 },
-  "bbox": [-108.208119,36.733899,-108.208119,36.733899],
+  "bbox": [
+    -108.208119,
+    36.733899,
+    -108.208119,
+    36.733899
+],
   "geometry": {"coordinates":[-108.208119,36.733899],"type":"Point"}
 }

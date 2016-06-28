@@ -2,13 +2,14 @@
   "id": 202553803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.927865,35.681434,-105.927865,35.681434",
     "geom:latitude":35.681434,
     "geom:longitude":-105.927865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"652 Canyon Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202553803,
-    "wof:lastmodified":1449060125,
+    "wof:lastmodified":1466697695,
     "wof:name":"Thirteen Moons Gallery",
     "wof:parent_id":85880803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-105.927865,35.681434,-105.927865,35.681434],
+  "bbox": [
+    -105.927865,
+    35.681434,
+    -105.927865,
+    35.681434
+],
   "geometry": {"coordinates":[-105.927865,35.681434],"type":"Point"}
 }

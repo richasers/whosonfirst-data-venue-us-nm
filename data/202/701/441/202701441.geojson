@@ -2,13 +2,14 @@
   "id": 202701441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.723988,35.04104,-106.723988,35.04104",
     "geom:latitude":35.04104,
     "geom:longitude":-106.723988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2624 Wendell Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202701441,
-    "wof:lastmodified":1449062130,
+    "wof:lastmodified":1466699611,
     "wof:name":"Alternative Staffng Services",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "assisted"
     ]
 },
-  "bbox": [-106.723988,35.04104,-106.723988,35.04104],
-  "geometry": {"coordinates":[-106.723988,35.04104],"type":"Point"}
+  "bbox": [
+    -106.723988,
+    35.04104,
+    -106.723988,
+    35.04104
+],
+  "geometry": {"coordinates":[-106.72398800000001,35.04104],"type":"Point"}
 }

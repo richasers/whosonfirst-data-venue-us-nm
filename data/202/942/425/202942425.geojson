@@ -2,13 +2,14 @@
   "id": 202942425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.675847,35.059402,-106.675847,35.059402",
     "geom:latitude":35.059402,
     "geom:longitude":-106.675847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1281 Sunset Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202942425,
-    "wof:lastmodified":1449061282,
+    "wof:lastmodified":1466700528,
     "wof:name":"Desert Star Sales Co",
     "wof:parent_id":85892585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-106.675847,35.059402,-106.675847,35.059402],
+  "bbox": [
+    -106.675847,
+    35.059402,
+    -106.675847,
+    35.059402
+],
   "geometry": {"coordinates":[-106.675847,35.059402],"type":"Point"}
 }

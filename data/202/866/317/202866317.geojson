@@ -2,13 +2,14 @@
   "id": 202866317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.595739,36.704551,-105.595739,36.704551",
     "geom:latitude":36.704551,
     "geom:longitude":-105.595739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2438 Hwy 522",
     "sg:city":"Questa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202866317,
-    "wof:lastmodified":1449061330,
+    "wof:lastmodified":1466700250,
     "wof:name":"Questa Accounting Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-105.595739,36.704551,-105.595739,36.704551],
-  "geometry": {"coordinates":[-105.595739,36.704551],"type":"Point"}
+  "bbox": [
+    -105.595739,
+    36.704551,
+    -105.595739,
+    36.704551
+],
+  "geometry": {"coordinates":[-105.59573899999999,36.704551],"type":"Point"}
 }

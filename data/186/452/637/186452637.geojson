@@ -2,13 +2,14 @@
   "id": 186452637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.067706,35.049849,-106.067706,35.049849",
     "geom:latitude":35.049849,
     "geom:longitude":-106.067706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 King Farm Rd",
     "sg:city":"Moriarty",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186452637,
-    "wof:lastmodified":1449051030,
+    "wof:lastmodified":1466699955,
     "wof:name":"Construction Industries Div",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "program"
     ]
 },
-  "bbox": [-106.067706,35.049849,-106.067706,35.049849],
+  "bbox": [
+    -106.067706,
+    35.049849,
+    -106.067706,
+    35.049849
+],
   "geometry": {"coordinates":[-106.067706,35.049849],"type":"Point"}
 }

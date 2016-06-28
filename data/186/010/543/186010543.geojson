@@ -2,13 +2,14 @@
   "id": 186010543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.209333,34.420398,-103.209333,34.420398",
     "geom:latitude":34.420398,
     "geom:longitude":-103.209333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Mitchell St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186010543,
-    "wof:lastmodified":1449052037,
+    "wof:lastmodified":1466697811,
     "wof:name":"Mission Elders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.209333,34.420398,-103.209333,34.420398],
+  "bbox": [
+    -103.209333,
+    34.420398,
+    -103.209333,
+    34.420398
+],
   "geometry": {"coordinates":[-103.209333,34.420398],"type":"Point"}
 }

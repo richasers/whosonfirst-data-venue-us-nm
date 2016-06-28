@@ -2,13 +2,14 @@
   "id": 169705549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.6273,35.229989,-106.6273,35.229989",
     "geom:latitude":35.229989,
     "geom:longitude":-106.6273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"249 Old Church Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169705549,
-    "wof:lastmodified":1449035990,
+    "wof:lastmodified":1466697638,
     "wof:name":"Demar Machines",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.6273,35.229989,-106.6273,35.229989],
-  "geometry": {"coordinates":[-106.6273,35.229989],"type":"Point"}
+  "bbox": [
+    -106.6273,
+    35.229989,
+    -106.6273,
+    35.229989
+],
+  "geometry": {"coordinates":[-106.62730000000001,35.229989],"type":"Point"}
 }

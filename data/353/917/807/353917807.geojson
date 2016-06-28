@@ -2,13 +2,14 @@
   "id": 353917807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.380997,35.087898,-106.380997,35.087898",
     "geom:latitude":35.087898,
     "geom:longitude":-106.380997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11896 State Highway 14 N",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353917807,
-    "wof:lastmodified":1449020470,
+    "wof:lastmodified":1466697668,
     "wof:name":"Boyden Joe Construction",
     "wof:parent_id":85892613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.380997,35.087898,-106.380997,35.087898],
-  "geometry": {"coordinates":[-106.380997,35.087898],"type":"Point"}
+  "bbox": [
+    -106.380997,
+    35.087898,
+    -106.380997,
+    35.087898
+],
+  "geometry": {"coordinates":[-106.38099699999999,35.087898],"type":"Point"}
 }

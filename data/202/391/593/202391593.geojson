@@ -2,13 +2,14 @@
   "id": 202391593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.950925,35.691303,-105.950925,35.691303",
     "geom:latitude":35.691303,
     "geom:longitude":-105.950925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"173 Pso de Peralta",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202391593,
-    "wof:lastmodified":1449061711,
+    "wof:lastmodified":1466697840,
     "wof:name":"Santa Fe Beeswax Candle Co",
     "wof:parent_id":85880797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-105.950925,35.691303,-105.950925,35.691303],
+  "bbox": [
+    -105.950925,
+    35.691303,
+    -105.950925,
+    35.691303
+],
   "geometry": {"coordinates":[-105.950925,35.691303],"type":"Point"}
 }

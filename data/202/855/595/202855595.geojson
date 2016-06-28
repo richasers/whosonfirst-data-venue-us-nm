@@ -2,13 +2,14 @@
   "id": 202855595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.067687,34.302594,-103.067687,34.302594",
     "geom:latitude":34.302594,
     "geom:longitude":-103.067687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Roosevelt Road 3n",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202855595,
-    "wof:lastmodified":1449061972,
+    "wof:lastmodified":1466700078,
     "wof:name":"Cooper Legacy Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.067687,34.302594,-103.067687,34.302594],
-  "geometry": {"coordinates":[-103.067687,34.302594],"type":"Point"}
+  "bbox": [
+    -103.067687,
+    34.302594,
+    -103.067687,
+    34.302594
+],
+  "geometry": {"coordinates":[-103.06768700000001,34.302594],"type":"Point"}
 }

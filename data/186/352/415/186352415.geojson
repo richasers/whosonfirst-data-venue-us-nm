@@ -2,13 +2,14 @@
   "id": 186352415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.228801,32.387594,-104.228801,32.387594",
     "geom:latitude":32.387594,
     "geom:longitude":-104.228801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3122 San Jose Blvd",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186352415,
-    "wof:lastmodified":1449052010,
+    "wof:lastmodified":1466699683,
     "wof:name":"Tina's Cafe",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-104.228801,32.387594,-104.228801,32.387594],
+  "bbox": [
+    -104.228801,
+    32.387594,
+    -104.228801,
+    32.387594
+],
   "geometry": {"coordinates":[-104.228801,32.387594],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186294131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.697852,34.986854,-106.697852,34.986854",
     "geom:latitude":34.986854,
     "geom:longitude":-106.697852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2108 Pajarito Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186294131,
-    "wof:lastmodified":1449052269,
+    "wof:lastmodified":1466699254,
     "wof:name":"Scannell Surveying Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.697852,34.986854,-106.697852,34.986854],
+  "bbox": [
+    -106.697852,
+    34.986854,
+    -106.697852,
+    34.986854
+],
   "geometry": {"coordinates":[-106.697852,34.986854],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186409085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.015951,35.63296,-106.015951,35.63296",
     "geom:latitude":35.63296,
     "geom:longitude":-106.015951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 Office Ct",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186409085,
-    "wof:lastmodified":1449051478,
+    "wof:lastmodified":1466699768,
     "wof:name":"M Power",
     "wof:parent_id":85880823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financial"
     ]
 },
-  "bbox": [-106.015951,35.63296,-106.015951,35.63296],
+  "bbox": [
+    -106.015951,
+    35.63296,
+    -106.015951,
+    35.63296
+],
   "geometry": {"coordinates":[-106.015951,35.63296],"type":"Point"}
 }

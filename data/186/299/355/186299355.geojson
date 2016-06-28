@@ -2,13 +2,14 @@
   "id": 186299355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.068436,35.629641,-106.068436,35.629641",
     "geom:latitude":35.629641,
     "geom:longitude":-106.068436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7554 Kachina Loop",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186299355,
-    "wof:lastmodified":1449051076,
+    "wof:lastmodified":1466699324,
     "wof:name":"Eek Enterprises LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.068436,35.629641,-106.068436,35.629641],
-  "geometry": {"coordinates":[-106.068436,35.629641],"type":"Point"}
+  "bbox": [
+    -106.068436,
+    35.629641,
+    -106.068436,
+    35.629641
+],
+  "geometry": {"coordinates":[-106.06843600000001,35.629641],"type":"Point"}
 }

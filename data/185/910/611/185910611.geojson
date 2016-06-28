@@ -2,13 +2,14 @@
   "id": 185910611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.681769,35.173791,-106.681769,35.173791",
     "geom:latitude":35.173791,
     "geom:longitude":-106.681769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4131 Rancho Encanto Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185910611,
-    "wof:lastmodified":1449007275,
+    "wof:lastmodified":1466698668,
     "wof:name":"Home Sweet Home Builders LLC",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.681769,35.173791,-106.681769,35.173791],
+  "bbox": [
+    -106.681769,
+    35.173791,
+    -106.681769,
+    35.173791
+],
   "geometry": {"coordinates":[-106.681769,35.173791],"type":"Point"}
 }

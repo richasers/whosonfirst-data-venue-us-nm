@@ -2,13 +2,14 @@
   "id": 169730301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.645078,31.955672,-106.645078,31.955672",
     "geom:latitude":31.955672,
     "geom:longitude":-106.645078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3116 S Hwy 28",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169730301,
-    "wof:lastmodified":1449035430,
+    "wof:lastmodified":1466697891,
     "wof:name":"Gallery 28",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.645078,31.955672,-106.645078,31.955672],
+  "bbox": [
+    -106.645078,
+    31.955672,
+    -106.645078,
+    31.955672
+],
   "geometry": {"coordinates":[-106.645078,31.955672],"type":"Point"}
 }

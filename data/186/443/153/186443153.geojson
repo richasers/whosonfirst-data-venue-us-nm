@@ -2,13 +2,14 @@
   "id": 186443153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.677131,35.053595,-106.677131,35.053595",
     "geom:latitude":35.053595,
     "geom:longitude":-106.677131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Arenal Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186443153,
-    "wof:lastmodified":1449052516,
+    "wof:lastmodified":1466700010,
     "wof:name":"Smiths",
     "wof:parent_id":85892585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.677131,35.053595,-106.677131,35.053595],
+  "bbox": [
+    -106.677131,
+    35.053595,
+    -106.677131,
+    35.053595
+],
   "geometry": {"coordinates":[-106.677131,35.053595],"type":"Point"}
 }

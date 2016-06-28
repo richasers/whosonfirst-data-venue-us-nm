@@ -2,13 +2,14 @@
   "id": 186500463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.28326,32.78728,-108.28326,32.78728",
     "geom:latitude":32.78728,
     "geom:longitude":-108.28326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Pioneer Rd",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186500463,
-    "wof:lastmodified":1449051064,
+    "wof:lastmodified":1466700087,
     "wof:name":"Gila Valley Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.28326,32.78728,-108.28326,32.78728],
+  "bbox": [
+    -108.28326,
+    32.78728,
+    -108.28326,
+    32.78728
+],
   "geometry": {"coordinates":[-108.28326,32.78728],"type":"Point"}
 }

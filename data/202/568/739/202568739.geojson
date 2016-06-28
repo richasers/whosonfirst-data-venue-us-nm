@@ -2,13 +2,14 @@
   "id": 202568739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.935864,35.7079,-105.935864,35.7079",
     "geom:latitude":35.7079,
     "geom:longitude":-105.935864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 Cll Arco",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202568739,
-    "wof:lastmodified":1449060047,
+    "wof:lastmodified":1466697919,
     "wof:name":"Stephen Merdler-Ecotect",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "design"
     ]
 },
-  "bbox": [-105.935864,35.7079,-105.935864,35.7079],
+  "bbox": [
+    -105.935864,
+    35.7079,
+    -105.935864,
+    35.7079
+],
   "geometry": {"coordinates":[-105.935864,35.7079],"type":"Point"}
 }

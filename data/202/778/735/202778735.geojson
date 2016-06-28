@@ -2,13 +2,14 @@
   "id": 202778735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.639985,35.08312,-106.639985,35.08312",
     "geom:latitude":35.08312,
     "geom:longitude":-106.639985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202778735,
-    "wof:lastmodified":1449060155,
+    "wof:lastmodified":1466699873,
     "wof:name":"Coronado Boot & Shoe Repair",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parlor"
     ]
 },
-  "bbox": [-106.639985,35.08312,-106.639985,35.08312],
+  "bbox": [
+    -106.639985,
+    35.08312,
+    -106.639985,
+    35.08312
+],
   "geometry": {"coordinates":[-106.639985,35.08312],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202583953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614922,35.224075,-106.614922,35.224075",
     "geom:latitude":35.224075,
     "geom:longitude":-106.614922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4448 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202583953,
-    "wof:lastmodified":1449062128,
+    "wof:lastmodified":1466698150,
     "wof:name":"Dos Manos Natural Therapeutics",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "homeopath"
     ]
 },
-  "bbox": [-106.614922,35.224075,-106.614922,35.224075],
-  "geometry": {"coordinates":[-106.614922,35.224075],"type":"Point"}
+  "bbox": [
+    -106.614922,
+    35.224075,
+    -106.614922,
+    35.224075
+],
+  "geometry": {"coordinates":[-106.61492200000001,35.224075],"type":"Point"}
 }

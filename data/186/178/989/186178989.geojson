@@ -2,13 +2,14 @@
   "id": 186178989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586593,35.096597,-106.586593,35.096597",
     "geom:latitude":35.096597,
     "geom:longitude":-106.586593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5122 Aspen Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186178989,
-    "wof:lastmodified":1449052285,
+    "wof:lastmodified":1466697753,
     "wof:name":"Stephen Leslie Maint Pain",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.586593,35.096597,-106.586593,35.096597],
-  "geometry": {"coordinates":[-106.586593,35.096597],"type":"Point"}
+  "bbox": [
+    -106.586593,
+    35.096597,
+    -106.586593,
+    35.096597
+],
+  "geometry": {"coordinates":[-106.58659299999999,35.096597],"type":"Point"}
 }

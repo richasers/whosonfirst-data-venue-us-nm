@@ -2,13 +2,14 @@
   "id": 202479655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.242848,34.471804,-104.242848,34.471804",
     "geom:latitude":34.471804,
     "geom:longitude":-104.242848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Ave C",
     "sg:city":"Fort Sumner",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":202479655,
-    "wof:lastmodified":1449061823,
+    "wof:lastmodified":1466698966,
     "wof:name":"De Baca County Clerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-104.242848,34.471804,-104.242848,34.471804],
+  "bbox": [
+    -104.242848,
+    34.471804,
+    -104.242848,
+    34.471804
+],
   "geometry": {"coordinates":[-104.242848,34.471804],"type":"Point"}
 }

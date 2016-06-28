@@ -2,13 +2,14 @@
   "id": 186430739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.551427,35.083558,-106.551427,35.083558",
     "geom:latitude":35.083558,
     "geom:longitude":-106.551427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Wisconsin St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186430739,
-    "wof:lastmodified":1449052088,
+    "wof:lastmodified":1466699966,
     "wof:name":"Rf Services- NM",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-106.551427,35.083558,-106.551427,35.083558],
+  "bbox": [
+    -106.551427,
+    35.083558,
+    -106.551427,
+    35.083558
+],
   "geometry": {"coordinates":[-106.551427,35.083558],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202686371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.674112,35.054471,-106.674112,35.054471",
     "geom:latitude":35.054471,
     "geom:longitude":-106.674112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 Isleta Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202686371,
-    "wof:lastmodified":1449062041,
+    "wof:lastmodified":1466699544,
     "wof:name":"Tri City Mobile Home Movers",
     "wof:parent_id":85892585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mover"
     ]
 },
-  "bbox": [-106.674112,35.054471,-106.674112,35.054471],
-  "geometry": {"coordinates":[-106.674112,35.054471],"type":"Point"}
+  "bbox": [
+    -106.674112,
+    35.054471,
+    -106.674112,
+    35.054471
+],
+  "geometry": {"coordinates":[-106.67411199999999,35.054471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202979459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.632304,35.202552,-106.632304,35.202552",
     "geom:latitude":35.202552,
     "geom:longitude":-106.632304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10035 Riverside Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202979459,
-    "wof:lastmodified":1449061888,
+    "wof:lastmodified":1466700579,
     "wof:name":"First Place Cars Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-106.632304,35.202552,-106.632304,35.202552],
+  "bbox": [
+    -106.632304,
+    35.202552,
+    -106.632304,
+    35.202552
+],
   "geometry": {"coordinates":[-106.632304,35.202552],"type":"Point"}
 }

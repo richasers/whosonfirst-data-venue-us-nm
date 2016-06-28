@@ -2,13 +2,14 @@
   "id": 185973743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.448291,36.891499,-104.448291,36.891499",
     "geom:latitude":36.891499,
     "geom:longitude":-104.448291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 S 5th St",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185973743,
-    "wof:lastmodified":1449007580,
+    "wof:lastmodified":1466699708,
     "wof:name":"Mr Cs Catering LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-104.448291,36.891499,-104.448291,36.891499],
+  "bbox": [
+    -104.448291,
+    36.891499,
+    -104.448291,
+    36.891499
+],
   "geometry": {"coordinates":[-104.448291,36.891499],"type":"Point"}
 }

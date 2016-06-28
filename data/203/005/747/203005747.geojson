@@ -2,13 +2,14 @@
   "id": 203005747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.672524,35.21407,-106.672524,35.21407",
     "geom:latitude":35.21407,
     "geom:longitude":-106.672524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10901 Farola Dr NW",
     "sg:city":"Alameda",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203005747,
-    "wof:lastmodified":1449026709,
+    "wof:lastmodified":1466697644,
     "wof:name":"Classy Glass Window Covering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "blind"
     ]
 },
-  "bbox": [-106.672524,35.21407,-106.672524,35.21407],
+  "bbox": [
+    -106.672524,
+    35.21407,
+    -106.672524,
+    35.21407
+],
   "geometry": {"coordinates":[-106.672524,35.21407],"type":"Point"}
 }

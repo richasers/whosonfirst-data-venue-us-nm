@@ -2,13 +2,14 @@
   "id": 186506877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.650023,33.37796,-105.650023,33.37796",
     "geom:latitude":33.37796,
     "geom:longitude":-105.650023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 White Mountain Meadows Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186506877,
-    "wof:lastmodified":1449050323,
+    "wof:lastmodified":1466700249,
     "wof:name":"Central New Mexico Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.650023,33.37796,-105.650023,33.37796],
+  "bbox": [
+    -105.650023,
+    33.37796,
+    -105.650023,
+    33.37796
+],
   "geometry": {"coordinates":[-105.650023,33.37796],"type":"Point"}
 }

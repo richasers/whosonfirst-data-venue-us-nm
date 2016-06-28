@@ -2,13 +2,14 @@
   "id": 185714205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.698663,34.823862,-106.698663,34.823862",
     "geom:latitude":34.823862,
     "geom:longitude":-106.698663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Guadalupe Dr",
     "sg:city":"Peralta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185714205,
-    "wof:lastmodified":1449007420,
+    "wof:lastmodified":1466698772,
     "wof:name":"Mitas",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.698663,34.823862,-106.698663,34.823862],
+  "bbox": [
+    -106.698663,
+    34.823862,
+    -106.698663,
+    34.823862
+],
   "geometry": {"coordinates":[-106.698663,34.823862],"type":"Point"}
 }

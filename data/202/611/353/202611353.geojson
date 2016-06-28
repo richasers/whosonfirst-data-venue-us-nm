@@ -2,13 +2,14 @@
   "id": 202611353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.796563,32.308062,-106.796563,32.308062",
     "geom:latitude":32.308062,
     "geom:longitude":-106.796563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 N Archuleta Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202611353,
-    "wof:lastmodified":1449062122,
+    "wof:lastmodified":1466698535,
     "wof:name":"Southwest Engineering Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-106.796563,32.308062,-106.796563,32.308062],
-  "geometry": {"coordinates":[-106.796563,32.308062],"type":"Point"}
+  "bbox": [
+    -106.796563,
+    32.308062,
+    -106.796563,
+    32.308062
+],
+  "geometry": {"coordinates":[-106.79656300000001,32.308062],"type":"Point"}
 }

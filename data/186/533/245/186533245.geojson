@@ -2,13 +2,14 @@
   "id": 186533245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.632738,35.124216,-106.632738,35.124216",
     "geom:latitude":35.124216,
     "geom:longitude":-106.632738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4404 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186533245,
-    "wof:lastmodified":1449050213,
+    "wof:lastmodified":1466700333,
     "wof:name":"American Marine",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-106.632738,35.124216,-106.632738,35.124216],
+  "bbox": [
+    -106.632738,
+    35.124216,
+    -106.632738,
+    35.124216
+],
   "geometry": {"coordinates":[-106.632738,35.124216],"type":"Point"}
 }

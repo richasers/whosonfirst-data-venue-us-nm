@@ -2,13 +2,14 @@
   "id": 202694389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550461,35.08328,-106.550461,35.08328",
     "geom:latitude":35.08328,
     "geom:longitude":-106.550461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202694389,
-    "wof:lastmodified":1449060836,
+    "wof:lastmodified":1466699599,
     "wof:name":"Jarvis Pet Salon",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.550461,35.08328,-106.550461,35.08328],
+  "bbox": [
+    -106.550461,
+    35.08328,
+    -106.550461,
+    35.08328
+],
   "geometry": {"coordinates":[-106.550461,35.08328],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202455227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.5241,35.175646,-106.5241,35.175646",
     "geom:latitude":35.175646,
     "geom:longitude":-106.5241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10401 Holly Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202455227,
-    "wof:lastmodified":1449062257,
+    "wof:lastmodified":1466698590,
     "wof:name":"Bernalillo County Sheriff Dept",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-106.5241,35.175646,-106.5241,35.175646],
+  "bbox": [
+    -106.5241,
+    35.175646,
+    -106.5241,
+    35.175646
+],
   "geometry": {"coordinates":[-106.5241,35.175646],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169749001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.751538,34.814437,-106.751538,34.814437",
     "geom:latitude":34.814437,
     "geom:longitude":-106.751538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Main St NW",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169749001,
-    "wof:lastmodified":1449033619,
+    "wof:lastmodified":1466699407,
     "wof:name":"Valley Tattoo & Novelties",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-106.751538,34.814437,-106.751538,34.814437],
+  "bbox": [
+    -106.751538,
+    34.814437,
+    -106.751538,
+    34.814437
+],
   "geometry": {"coordinates":[-106.751538,34.814437],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186051011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.915799,34.164478,-106.915799,34.164478",
     "geom:latitude":34.164478,
     "geom:longitude":-106.915799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Chambon Rd",
     "sg:city":"Lemitar",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186051011,
-    "wof:lastmodified":1449052023,
+    "wof:lastmodified":1466699415,
     "wof:name":"Southwest Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-106.915799,34.164478,-106.915799,34.164478],
-  "geometry": {"coordinates":[-106.915799,34.164478],"type":"Point"}
+  "bbox": [
+    -106.915799,
+    34.164478,
+    -106.915799,
+    34.164478
+],
+  "geometry": {"coordinates":[-106.91579900000001,34.164478],"type":"Point"}
 }

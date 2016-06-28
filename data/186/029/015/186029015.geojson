@@ -2,13 +2,14 @@
   "id": 186029015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.927894,32.915193,-105.927894,32.915193",
     "geom:latitude":32.915193,
     "geom:longitude":-105.927894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2832 Indian Wells Rd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186029015,
-    "wof:lastmodified":1449051507,
+    "wof:lastmodified":1466698010,
     "wof:name":"Anthony J Warren DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.927894,32.915193,-105.927894,32.915193],
-  "geometry": {"coordinates":[-105.927894,32.915193],"type":"Point"}
+  "bbox": [
+    -105.927894,
+    32.915193,
+    -105.927894,
+    32.915193
+],
+  "geometry": {"coordinates":[-105.92789399999999,32.915193],"type":"Point"}
 }

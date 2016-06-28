@@ -2,13 +2,14 @@
   "id": 203024267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.800053,32.312261,-106.800053,32.312261",
     "geom:latitude":32.312261,
     "geom:longitude":-106.800053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1765 W Picacho Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203024267,
-    "wof:lastmodified":1449025828,
+    "wof:lastmodified":1466697860,
     "wof:name":"Desert Oasis Inn",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.800053,32.312261,-106.800053,32.312261],
-  "geometry": {"coordinates":[-106.800053,32.312261],"type":"Point"}
+  "bbox": [
+    -106.800053,
+    32.312261,
+    -106.800053,
+    32.312261
+],
+  "geometry": {"coordinates":[-106.80005300000001,32.312261],"type":"Point"}
 }

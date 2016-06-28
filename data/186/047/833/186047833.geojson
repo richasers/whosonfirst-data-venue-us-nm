@@ -2,13 +2,14 @@
   "id": 186047833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.594028,35.089105,-106.594028,35.089105",
     "geom:latitude":35.089105,
     "geom:longitude":-106.594028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 Adams St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":186047833,
-    "wof:lastmodified":1449052102,
+    "wof:lastmodified":1466698226,
     "wof:name":"Food Town",
     "wof:parent_id":85871899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-106.594028,35.089105,-106.594028,35.089105],
-  "geometry": {"coordinates":[-106.594028,35.089105],"type":"Point"}
+  "bbox": [
+    -106.594028,
+    35.089105,
+    -106.594028,
+    35.089105
+],
+  "geometry": {"coordinates":[-106.59402799999999,35.089105],"type":"Point"}
 }

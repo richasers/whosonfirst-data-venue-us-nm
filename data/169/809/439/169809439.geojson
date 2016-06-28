@@ -2,13 +2,14 @@
   "id": 169809439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.945278,35.679871,-105.945278,35.679871",
     "geom:latitude":35.679871,
     "geom:longitude":-105.945278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Rael Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169809439,
-    "wof:lastmodified":1449035370,
+    "wof:lastmodified":1466698672,
     "wof:name":"Linda Todd Baca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-105.945278,35.679871,-105.945278,35.679871],
+  "bbox": [
+    -105.945278,
+    35.679871,
+    -105.945278,
+    35.679871
+],
   "geometry": {"coordinates":[-105.945278,35.679871],"type":"Point"}
 }

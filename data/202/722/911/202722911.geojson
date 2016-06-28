@@ -2,13 +2,14 @@
   "id": 202722911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.590593,35.179612,-106.590593,35.179612",
     "geom:latitude":35.179612,
     "geom:longitude":-106.590593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8401 Firestone Ln NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202722911,
-    "wof:lastmodified":1449060995,
+    "wof:lastmodified":1466699817,
     "wof:name":"Michael S Rich Contractors Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.590593,35.179612,-106.590593,35.179612],
+  "bbox": [
+    -106.590593,
+    35.179612,
+    -106.590593,
+    35.179612
+],
   "geometry": {"coordinates":[-106.590593,35.179612],"type":"Point"}
 }

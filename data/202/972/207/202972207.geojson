@@ -2,13 +2,14 @@
   "id": 202972207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.225263,33.194578,-107.225263,33.194578",
     "geom:latitude":33.194578,
     "geom:longitude":-107.225263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 State Hwy 195",
     "sg:city":"Elephant Butte",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202972207,
-    "wof:lastmodified":1449061394,
+    "wof:lastmodified":1466700663,
     "wof:name":"Hodges Corner Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.225263,33.194578,-107.225263,33.194578],
+  "bbox": [
+    -107.225263,
+    33.194578,
+    -107.225263,
+    33.194578
+],
   "geometry": {"coordinates":[-107.225263,33.194578],"type":"Point"}
 }

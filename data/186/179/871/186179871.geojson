@@ -2,13 +2,14 @@
   "id": 186179871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.167525,36.733292,-108.167525,36.733292",
     "geom:latitude":36.733292,
     "geom:longitude":-108.167525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Browning Pkwy",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186179871,
-    "wof:lastmodified":1449052742,
+    "wof:lastmodified":1466697763,
     "wof:name":"Chaco Concrete Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "block"
     ]
 },
-  "bbox": [-108.167525,36.733292,-108.167525,36.733292],
+  "bbox": [
+    -108.167525,
+    36.733292,
+    -108.167525,
+    36.733292
+],
   "geometry": {"coordinates":[-108.167525,36.733292],"type":"Point"}
 }

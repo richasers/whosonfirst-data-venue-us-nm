@@ -2,13 +2,14 @@
   "id": 202576119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.560015,35.160306,-106.560015,35.160306",
     "geom:latitude":35.160306,
     "geom:longitude":-106.560015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7101 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202576119,
-    "wof:lastmodified":1449062080,
+    "wof:lastmodified":1466698029,
     "wof:name":"Rice Garden",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.560015,35.160306,-106.560015,35.160306],
-  "geometry": {"coordinates":[-106.560015,35.160306],"type":"Point"}
+  "bbox": [
+    -106.560015,
+    35.160306,
+    -106.560015,
+    35.160306
+],
+  "geometry": {"coordinates":[-106.56001500000001,35.160306],"type":"Point"}
 }

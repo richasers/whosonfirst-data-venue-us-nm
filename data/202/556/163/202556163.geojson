@@ -2,13 +2,14 @@
   "id": 202556163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.926257,35.681022,-105.926257,35.681022",
     "geom:latitude":35.681022,
     "geom:longitude":-105.926257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 Canyon Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202556163,
-    "wof:lastmodified":1449060745,
+    "wof:lastmodified":1466697731,
     "wof:name":"Geronimo Corporate Office",
     "wof:parent_id":85880803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.926257,35.681022,-105.926257,35.681022],
-  "geometry": {"coordinates":[-105.926257,35.681022],"type":"Point"}
+  "bbox": [
+    -105.926257,
+    35.681022,
+    -105.926257,
+    35.681022
+],
+  "geometry": {"coordinates":[-105.92625700000001,35.681022],"type":"Point"}
 }

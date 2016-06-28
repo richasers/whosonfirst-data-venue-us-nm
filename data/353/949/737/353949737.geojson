@@ -2,13 +2,14 @@
   "id": 353949737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.524033,35.130743,-106.524033,35.130743",
     "geom:latitude":35.130743,
     "geom:longitude":-106.524033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10433 Montgomery Pkwy NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":353949737,
-    "wof:lastmodified":1449019850,
+    "wof:lastmodified":1466698561,
     "wof:name":"Angela Romero Insurance",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -98,6 +100,11 @@
         "pension"
     ]
 },
-  "bbox": [-106.524033,35.130743,-106.524033,35.130743],
+  "bbox": [
+    -106.524033,
+    35.130743,
+    -106.524033,
+    35.130743
+],
   "geometry": {"coordinates":[-106.524033,35.130743],"type":"Point"}
 }

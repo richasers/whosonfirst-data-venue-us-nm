@@ -2,13 +2,14 @@
   "id": 186497851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.60299,35.266218,-106.60299,35.266218",
     "geom:latitude":35.266218,
     "geom:longitude":-106.60299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7596 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186497851,
-    "wof:lastmodified":1449052998,
+    "wof:lastmodified":1466700226,
     "wof:name":"Corrales Classic Farms",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-106.60299,35.266218,-106.60299,35.266218],
-  "geometry": {"coordinates":[-106.60299,35.266218],"type":"Point"}
+  "bbox": [
+    -106.60299,
+    35.266218,
+    -106.60299,
+    35.266218
+],
+  "geometry": {"coordinates":[-106.60299000000001,35.266218],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203135961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.593338,35.158165,-106.593338,35.158165",
     "geom:latitude":35.158165,
     "geom:longitude":-106.593338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6801 Jefferson St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203135961,
-    "wof:lastmodified":1449025648,
+    "wof:lastmodified":1466699062,
     "wof:name":"Sandia Food Management Inc",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-106.593338,35.158165,-106.593338,35.158165],
+  "bbox": [
+    -106.593338,
+    35.158165,
+    -106.593338,
+    35.158165
+],
   "geometry": {"coordinates":[-106.593338,35.158165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202543089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.583952,36.388323,-105.583952,36.388323",
     "geom:latitude":36.388323,
     "geom:longitude":-105.583952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"824 Pso del Pueblo Norte",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202543089,
-    "wof:lastmodified":1449060606,
+    "wof:lastmodified":1466699470,
     "wof:name":"Essential Massage Spa Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.583952,36.388323,-105.583952,36.388323],
+  "bbox": [
+    -105.583952,
+    36.388323,
+    -105.583952,
+    36.388323
+],
   "geometry": {"coordinates":[-105.583952,36.388323],"type":"Point"}
 }

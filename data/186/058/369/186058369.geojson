@@ -2,13 +2,14 @@
   "id": 186058369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.55165,35.073948,-106.55165,35.073948",
     "geom:latitude":35.073948,
     "geom:longitude":-106.55165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8504 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186058369,
-    "wof:lastmodified":1449050788,
+    "wof:lastmodified":1466698358,
     "wof:name":"Credit Express Auto",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.55165,35.073948,-106.55165,35.073948],
+  "bbox": [
+    -106.55165,
+    35.073948,
+    -106.55165,
+    35.073948
+],
   "geometry": {"coordinates":[-106.55165,35.073948],"type":"Point"}
 }

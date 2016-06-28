@@ -2,13 +2,14 @@
   "id": 186335107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.194752,35.102747,-106.194752,35.102747",
     "geom:latitude":35.102747,
     "geom:longitude":-106.194752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Serrania Dr",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186335107,
-    "wof:lastmodified":1449052133,
+    "wof:lastmodified":1466699593,
     "wof:name":"S Thompson Enterprises LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.194752,35.102747,-106.194752,35.102747],
-  "geometry": {"coordinates":[-106.194752,35.102747],"type":"Point"}
+  "bbox": [
+    -106.194752,
+    35.102747,
+    -106.194752,
+    35.102747
+],
+  "geometry": {"coordinates":[-106.19475199999999,35.102747],"type":"Point"}
 }

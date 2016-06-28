@@ -2,13 +2,14 @@
   "id": 169793305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.679747,35.15739,-106.679747,35.15739",
     "geom:latitude":35.15739,
     "geom:longitude":-106.679747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 Riverside Plaza Ln NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169793305,
-    "wof:lastmodified":1449034505,
+    "wof:lastmodified":1466698526,
     "wof:name":"Around The Corner Custom Frmng",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "frame"
     ]
 },
-  "bbox": [-106.679747,35.15739,-106.679747,35.15739],
-  "geometry": {"coordinates":[-106.679747,35.15739],"type":"Point"}
+  "bbox": [
+    -106.679747,
+    35.15739,
+    -106.679747,
+    35.15739
+],
+  "geometry": {"coordinates":[-106.67974700000001,35.15739],"type":"Point"}
 }

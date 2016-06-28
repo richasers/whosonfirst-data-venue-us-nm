@@ -2,13 +2,14 @@
   "id": 202570295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.681253,35.101977,-106.681253,35.101977",
     "geom:latitude":35.101977,
     "geom:longitude":-106.681253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 Lulac Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202570295,
-    "wof:lastmodified":1449061614,
+    "wof:lastmodified":1466697941,
     "wof:name":"P & B Ice Cream",
     "wof:parent_id":85839415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.681253,35.101977,-106.681253,35.101977],
+  "bbox": [
+    -106.681253,
+    35.101977,
+    -106.681253,
+    35.101977
+],
   "geometry": {"coordinates":[-106.681253,35.101977],"type":"Point"}
 }

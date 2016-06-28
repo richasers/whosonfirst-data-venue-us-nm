@@ -2,13 +2,14 @@
   "id": 186610753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.930495,35.675008,-105.930495,35.675008",
     "geom:latitude":35.675008,
     "geom:longitude":-105.930495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"660 E Garcia St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186610753,
-    "wof:lastmodified":1449052987,
+    "wof:lastmodified":1466700765,
     "wof:name":"School Of American Research",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "school"
     ]
 },
-  "bbox": [-105.930495,35.675008,-105.930495,35.675008],
-  "geometry": {"coordinates":[-105.930495,35.675008],"type":"Point"}
+  "bbox": [
+    -105.930495,
+    35.675008,
+    -105.930495,
+    35.675008
+],
+  "geometry": {"coordinates":[-105.93049499999999,35.675008],"type":"Point"}
 }

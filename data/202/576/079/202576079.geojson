@@ -2,13 +2,14 @@
   "id": 202576079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.001019,35.896052,-106.001019,35.896052",
     "geom:latitude":35.896052,
     "geom:longitude":-106.001019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 State Rd 503",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202576079,
-    "wof:lastmodified":1449062080,
+    "wof:lastmodified":1466698027,
     "wof:name":"Jusrite Landscaping",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.001019,35.896052,-106.001019,35.896052],
+  "bbox": [
+    -106.001019,
+    35.896052,
+    -106.001019,
+    35.896052
+],
   "geometry": {"coordinates":[-106.001019,35.896052],"type":"Point"}
 }

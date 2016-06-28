@@ -2,13 +2,14 @@
   "id": 186511493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.522709,33.408558,-104.522709,33.408558",
     "geom:latitude":33.408558,
     "geom:longitude":-104.522709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 N Main St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186511493,
-    "wof:lastmodified":1449051611,
+    "wof:lastmodified":1466700264,
     "wof:name":"Farley's Food Fun & Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.522709,33.408558,-104.522709,33.408558],
-  "geometry": {"coordinates":[-104.522709,33.408558],"type":"Point"}
+  "bbox": [
+    -104.522709,
+    33.408558,
+    -104.522709,
+    33.408558
+],
+  "geometry": {"coordinates":[-104.52270900000001,33.408558],"type":"Point"}
 }

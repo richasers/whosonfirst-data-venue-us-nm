@@ -2,13 +2,14 @@
   "id": 185674159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.368328,36.74563,-108.368328,36.74563",
     "geom:latitude":36.74563,
     "geom:longitude":-108.368328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4140 US Hwy 64",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185674159,
-    "wof:lastmodified":1449007804,
+    "wof:lastmodified":1466698399,
     "wof:name":"Malouff Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-108.368328,36.74563,-108.368328,36.74563],
-  "geometry": {"coordinates":[-108.368328,36.74563],"type":"Point"}
+  "bbox": [
+    -108.368328,
+    36.74563,
+    -108.368328,
+    36.74563
+],
+  "geometry": {"coordinates":[-108.36832800000001,36.74563],"type":"Point"}
 }

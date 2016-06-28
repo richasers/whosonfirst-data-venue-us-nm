@@ -2,13 +2,14 @@
   "id": 169824693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.702944,35.124574,-106.702944,35.124574",
     "geom:latitude":35.124574,
     "geom:longitude":-106.702944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"174 Cll Loma Parda NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169824693,
-    "wof:lastmodified":1449033863,
+    "wof:lastmodified":1466698767,
     "wof:name":"Beth R Blakeman",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "journalist"
     ]
 },
-  "bbox": [-106.702944,35.124574,-106.702944,35.124574],
+  "bbox": [
+    -106.702944,
+    35.124574,
+    -106.702944,
+    35.124574
+],
   "geometry": {"coordinates":[-106.702944,35.124574],"type":"Point"}
 }

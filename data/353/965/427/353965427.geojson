@@ -2,13 +2,14 @@
   "id": 353965427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.74755,35.048566,-106.74755,35.048566",
     "geom:latitude":35.048566,
     "geom:longitude":-106.74755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10418 Valtierra Pl SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353965427,
-    "wof:lastmodified":1449020027,
+    "wof:lastmodified":1466698890,
     "wof:name":"AAA Same Day Appliance Repair",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-106.74755,35.048566,-106.74755,35.048566],
+  "bbox": [
+    -106.74755,
+    35.048566,
+    -106.74755,
+    35.048566
+],
   "geometry": {"coordinates":[-106.74755,35.048566],"type":"Point"}
 }

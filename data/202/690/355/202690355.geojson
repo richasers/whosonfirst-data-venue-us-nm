@@ -2,13 +2,14 @@
   "id": 202690355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.658202,35.027161,-106.658202,35.027161",
     "geom:latitude":35.027161,
     "geom:longitude":-106.658202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 2nd St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202690355,
-    "wof:lastmodified":1449061449,
+    "wof:lastmodified":1466699448,
     "wof:name":"Drb Electric Inc",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.658202,35.027161,-106.658202,35.027161],
+  "bbox": [
+    -106.658202,
+    35.027161,
+    -106.658202,
+    35.027161
+],
   "geometry": {"coordinates":[-106.658202,35.027161],"type":"Point"}
 }

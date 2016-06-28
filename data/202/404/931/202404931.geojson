@@ -2,13 +2,14 @@
   "id": 202404931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.665074,35.112476,-106.665074,35.112476",
     "geom:latitude":35.112476,
     "geom:longitude":-106.665074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 Towner Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202404931,
-    "wof:lastmodified":1449061772,
+    "wof:lastmodified":1466697997,
     "wof:name":"Roybals Tractor Co",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.665074,35.112476,-106.665074,35.112476],
+  "bbox": [
+    -106.665074,
+    35.112476,
+    -106.665074,
+    35.112476
+],
   "geometry": {"coordinates":[-106.665074,35.112476],"type":"Point"}
 }

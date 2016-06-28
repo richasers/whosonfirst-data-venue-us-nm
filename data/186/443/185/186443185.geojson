@@ -2,13 +2,14 @@
   "id": 186443185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.196304,34.441238,-103.196304,34.441238",
     "geom:latitude":34.441238,
     "geom:longitude":-103.196304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4205 N Prince St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186443185,
-    "wof:lastmodified":1449052515,
+    "wof:lastmodified":1466700010,
     "wof:name":"Cannon Federal Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.196304,34.441238,-103.196304,34.441238],
+  "bbox": [
+    -103.196304,
+    34.441238,
+    -103.196304,
+    34.441238
+],
   "geometry": {"coordinates":[-103.196304,34.441238],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202525411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.206935,36.73278,-108.206935,36.73278",
     "geom:latitude":36.73278,
     "geom:longitude":-108.206935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N Allen Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202525411,
-    "wof:lastmodified":1449062133,
+    "wof:lastmodified":1466699274,
     "wof:name":"Northwest New Mexico Pubg Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "newspaper"
     ]
 },
-  "bbox": [-108.206935,36.73278,-108.206935,36.73278],
+  "bbox": [
+    -108.206935,
+    36.73278,
+    -108.206935,
+    36.73278
+],
   "geometry": {"coordinates":[-108.206935,36.73278],"type":"Point"}
 }

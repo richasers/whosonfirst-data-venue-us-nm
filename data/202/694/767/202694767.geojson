@@ -2,13 +2,14 @@
   "id": 202694767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.603355,35.130973,-106.603355,35.130973",
     "geom:latitude":35.130973,
     "geom:longitude":-106.603355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4105 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202694767,
-    "wof:lastmodified":1449060836,
+    "wof:lastmodified":1466699602,
     "wof:name":"Clearwaves PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.603355,35.130973,-106.603355,35.130973],
-  "geometry": {"coordinates":[-106.603355,35.130973],"type":"Point"}
+  "bbox": [
+    -106.603355,
+    35.130973,
+    -106.603355,
+    35.130973
+],
+  "geometry": {"coordinates":[-106.60335499999999,35.130973],"type":"Point"}
 }

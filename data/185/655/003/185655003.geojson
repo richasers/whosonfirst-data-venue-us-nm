@@ -2,13 +2,14 @@
   "id": 185655003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.27563,32.779885,-108.27563,32.779885",
     "geom:latitude":32.779885,
     "geom:longitude":-108.27563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 US Hwy 180 W",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185655003,
-    "wof:lastmodified":1449007529,
+    "wof:lastmodified":1466699412,
     "wof:name":"New Tex Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-108.27563,32.779885,-108.27563,32.779885],
-  "geometry": {"coordinates":[-108.27563,32.779885],"type":"Point"}
+  "bbox": [
+    -108.27563,
+    32.779885,
+    -108.27563,
+    32.779885
+],
+  "geometry": {"coordinates":[-108.27563000000001,32.779885],"type":"Point"}
 }

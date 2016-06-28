@@ -2,13 +2,14 @@
   "id": 186245935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.996222,35.662219,-105.996222,35.662219",
     "geom:latitude":35.662219,
     "geom:longitude":-105.996222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1137 Siler Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186245935,
-    "wof:lastmodified":1449052948,
+    "wof:lastmodified":1466698608,
     "wof:name":"Hope Lumber & Building Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-105.996222,35.662219,-105.996222,35.662219],
+  "bbox": [
+    -105.996222,
+    35.662219,
+    -105.996222,
+    35.662219
+],
   "geometry": {"coordinates":[-105.996222,35.662219],"type":"Point"}
 }

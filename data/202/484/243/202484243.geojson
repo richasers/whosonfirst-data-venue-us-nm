@@ -2,13 +2,14 @@
   "id": 202484243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.530801,35.074104,-106.530801,35.074104",
     "geom:latitude":35.074104,
     "geom:longitude":-106.530801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10520 Schenley Park Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202484243,
-    "wof:lastmodified":1449062500,
+    "wof:lastmodified":1466699013,
     "wof:name":"Quality Sporting Goods",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.530801,35.074104,-106.530801,35.074104],
+  "bbox": [
+    -106.530801,
+    35.074104,
+    -106.530801,
+    35.074104
+],
   "geometry": {"coordinates":[-106.530801,35.074104],"type":"Point"}
 }

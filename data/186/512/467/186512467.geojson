@@ -2,13 +2,14 @@
   "id": 186512467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.546494,33.390685,-104.546494,33.390685",
     "geom:latitude":33.390685,
     "geom:longitude":-104.546494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 W Alameda St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186512467,
-    "wof:lastmodified":1449052307,
+    "wof:lastmodified":1466700142,
     "wof:name":"Bettys Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.546494,33.390685,-104.546494,33.390685],
+  "bbox": [
+    -104.546494,
+    33.390685,
+    -104.546494,
+    33.390685
+],
   "geometry": {"coordinates":[-104.546494,33.390685],"type":"Point"}
 }

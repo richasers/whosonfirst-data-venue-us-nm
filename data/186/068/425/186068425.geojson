@@ -2,13 +2,14 @@
   "id": 186068425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.849935,35.073595,-108.849935,35.073595",
     "geom:latitude":35.073595,
     "geom:longitude":-108.849935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Twin Buttes Dr",
     "sg:city":"Zuni",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186068425,
-    "wof:lastmodified":1449051752,
+    "wof:lastmodified":1466698505,
     "wof:name":"Zuni School District Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.849935,35.073595,-108.849935,35.073595],
+  "bbox": [
+    -108.849935,
+    35.073595,
+    -108.849935,
+    35.073595
+],
   "geometry": {"coordinates":[-108.849935,35.073595],"type":"Point"}
 }

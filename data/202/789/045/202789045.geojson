@@ -2,13 +2,14 @@
   "id": 202789045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.931406,35.690217,-105.931406,35.690217",
     "geom:latitude":35.690217,
     "geom:longitude":-105.931406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Kearney Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202789045,
-    "wof:lastmodified":1449061274,
+    "wof:lastmodified":1466699819,
     "wof:name":"Santa Fe Adobe Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.931406,35.690217,-105.931406,35.690217],
+  "bbox": [
+    -105.931406,
+    35.690217,
+    -105.931406,
+    35.690217
+],
   "geometry": {"coordinates":[-105.931406,35.690217],"type":"Point"}
 }

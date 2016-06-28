@@ -2,13 +2,14 @@
   "id": 185774893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586451,35.10925,-106.586451,35.10925",
     "geom:latitude":35.10925,
     "geom:longitude":-106.586451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5113 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185774893,
-    "wof:lastmodified":1449007243,
+    "wof:lastmodified":1466699246,
     "wof:name":"Adans Hair Studio",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.586451,35.10925,-106.586451,35.10925],
+  "bbox": [
+    -106.586451,
+    35.10925,
+    -106.586451,
+    35.10925
+],
   "geometry": {"coordinates":[-106.586451,35.10925],"type":"Point"}
 }

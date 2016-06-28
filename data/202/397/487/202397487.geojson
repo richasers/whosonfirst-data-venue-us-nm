@@ -2,13 +2,14 @@
   "id": 202397487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.90444,34.648627,-103.90444,34.648627",
     "geom:latitude":34.648627,
     "geom:longitude":-103.90444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2180 State Hwy 252",
     "sg:city":"House",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202397487,
-    "wof:lastmodified":1449061127,
+    "wof:lastmodified":1466697909,
     "wof:name":"Mike Baca Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-103.90444,34.648627,-103.90444,34.648627],
-  "geometry": {"coordinates":[-103.90444,34.648627],"type":"Point"}
+  "bbox": [
+    -103.90444,
+    34.648627,
+    -103.90444,
+    34.648627
+],
+  "geometry": {"coordinates":[-103.90443999999999,34.648627],"type":"Point"}
 }

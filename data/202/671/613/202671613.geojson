@@ -2,13 +2,14 @@
   "id": 202671613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.218202,36.726388,-108.218202,36.726388",
     "geom:latitude":36.726388,
     "geom:longitude":-108.218202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 S Lake St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202671613,
-    "wof:lastmodified":1449060692,
+    "wof:lastmodified":1466699489,
     "wof:name":"Rivers In The Desert Eye Clnc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.218202,36.726388,-108.218202,36.726388],
-  "geometry": {"coordinates":[-108.218202,36.726388],"type":"Point"}
+  "bbox": [
+    -108.218202,
+    36.726388,
+    -108.218202,
+    36.726388
+],
+  "geometry": {"coordinates":[-108.21820200000001,36.726388],"type":"Point"}
 }

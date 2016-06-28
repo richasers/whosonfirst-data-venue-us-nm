@@ -2,13 +2,14 @@
   "id": 169721281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.537602,35.122386,-106.537602,35.122386",
     "geom:latitude":35.122386,
     "geom:longitude":-106.537602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Parsifal St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169721281,
-    "wof:lastmodified":1449035959,
+    "wof:lastmodified":1466697804,
     "wof:name":"Island Style Dance Co",
     "wof:parent_id":85825849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-106.537602,35.122386,-106.537602,35.122386],
-  "geometry": {"coordinates":[-106.537602,35.122386],"type":"Point"}
+  "bbox": [
+    -106.537602,
+    35.122386,
+    -106.537602,
+    35.122386
+],
+  "geometry": {"coordinates":[-106.53760200000001,35.122386],"type":"Point"}
 }

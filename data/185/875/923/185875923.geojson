@@ -2,13 +2,14 @@
   "id": 185875923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.530797,35.125529,-106.530797,35.125529",
     "geom:latitude":35.125529,
     "geom:longitude":-106.530797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9916 Dorothy Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185875923,
-    "wof:lastmodified":1449007798,
+    "wof:lastmodified":1466698272,
     "wof:name":"Select Carpet Care",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-106.530797,35.125529,-106.530797,35.125529],
-  "geometry": {"coordinates":[-106.530797,35.125529],"type":"Point"}
+  "bbox": [
+    -106.530797,
+    35.125529,
+    -106.530797,
+    35.125529
+],
+  "geometry": {"coordinates":[-106.53079700000001,35.125529],"type":"Point"}
 }

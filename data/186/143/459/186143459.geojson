@@ -2,13 +2,14 @@
   "id": 186143459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.608129,35.066127,-106.608129,35.066127",
     "geom:latitude":35.066127,
     "geom:longitude":-106.608129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3033 San Joaquin Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186143459,
-    "wof:lastmodified":1449052553,
+    "wof:lastmodified":1466699224,
     "wof:name":"Ecs Associates Ltd",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.608129,35.066127,-106.608129,35.066127],
-  "geometry": {"coordinates":[-106.608129,35.066127],"type":"Point"}
+  "bbox": [
+    -106.608129,
+    35.066127,
+    -106.608129,
+    35.066127
+],
+  "geometry": {"coordinates":[-106.60812900000001,35.066127],"type":"Point"}
 }

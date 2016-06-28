@@ -2,13 +2,14 @@
   "id": 353922459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.655151,35.085011,-106.655151,35.085011",
     "geom:latitude":35.085011,
     "geom:longitude":-106.655151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Central Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -82,10 +83,11 @@
         }
     ],
     "wof:id":353922459,
-    "wof:lastmodified":1449018490,
+    "wof:lastmodified":1466697794,
     "wof:name":"Downtown Tire & Automotive Service",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -107,6 +109,11 @@
         "injection"
     ]
 },
-  "bbox": [-106.655151,35.085011,-106.655151,35.085011],
+  "bbox": [
+    -106.655151,
+    35.085011,
+    -106.655151,
+    35.085011
+],
   "geometry": {"coordinates":[-106.655151,35.085011],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202902083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.715129,35.032847,-106.715129,35.032847",
     "geom:latitude":35.032847,
     "geom:longitude":-106.715129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3809 Coors Pl SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":202902083,
-    "wof:lastmodified":1449061986,
+    "wof:lastmodified":1466700372,
     "wof:name":"Sam's Honey Wagon",
     "wof:parent_id":85892591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-106.715129,35.032847,-106.715129,35.032847],
+  "bbox": [
+    -106.715129,
+    35.032847,
+    -106.715129,
+    35.032847
+],
   "geometry": {"coordinates":[-106.715129,35.032847],"type":"Point"}
 }

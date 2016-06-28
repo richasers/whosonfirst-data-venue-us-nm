@@ -2,13 +2,14 @@
   "id": 185682527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.931238,32.914291,-105.931238,32.914291",
     "geom:latitude":32.914291,
     "geom:longitude":-105.931238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Juniper Dr",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185682527,
-    "wof:lastmodified":1449006893,
+    "wof:lastmodified":1466698461,
     "wof:name":"New Mexico Works Project",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.931238,32.914291,-105.931238,32.914291],
-  "geometry": {"coordinates":[-105.931238,32.914291],"type":"Point"}
+  "bbox": [
+    -105.931238,
+    32.914291,
+    -105.931238,
+    32.914291
+],
+  "geometry": {"coordinates":[-105.93123799999999,32.914291],"type":"Point"}
 }

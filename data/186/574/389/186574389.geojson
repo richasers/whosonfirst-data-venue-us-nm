@@ -2,13 +2,14 @@
   "id": 186574389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.704235,35.159728,-106.704235,35.159728",
     "geom:latitude":35.159728,
     "geom:longitude":-106.704235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6601 Keeling St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186574389,
-    "wof:lastmodified":1449050237,
+    "wof:lastmodified":1466700545,
     "wof:name":"New Sun Dawning & Associates",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.704235,35.159728,-106.704235,35.159728],
+  "bbox": [
+    -106.704235,
+    35.159728,
+    -106.704235,
+    35.159728
+],
   "geometry": {"coordinates":[-106.704235,35.159728],"type":"Point"}
 }

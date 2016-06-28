@@ -2,13 +2,14 @@
   "id": 169805309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.537489,33.394115,-104.537489,33.394115",
     "geom:latitude":33.394115,
     "geom:longitude":-104.537489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Delaware Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169805309,
-    "wof:lastmodified":1449033788,
+    "wof:lastmodified":1466698659,
     "wof:name":"LA Posta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-104.537489,33.394115,-104.537489,33.394115],
-  "geometry": {"coordinates":[-104.537489,33.394115],"type":"Point"}
+  "bbox": [
+    -104.537489,
+    33.394115,
+    -104.537489,
+    33.394115
+],
+  "geometry": {"coordinates":[-104.53748899999999,33.394115],"type":"Point"}
 }

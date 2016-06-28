@@ -2,13 +2,14 @@
   "id": 202758459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.141658,32.725808,-103.141658,32.725808",
     "geom:latitude":32.725808,
     "geom:longitude":-103.141658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2324 N Kingsley Dr",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202758459,
-    "wof:lastmodified":1449060879,
+    "wof:lastmodified":1466699825,
     "wof:name":"Jarrett & Jarrett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-103.141658,32.725808,-103.141658,32.725808],
-  "geometry": {"coordinates":[-103.141658,32.725808],"type":"Point"}
+  "bbox": [
+    -103.141658,
+    32.725808,
+    -103.141658,
+    32.725808
+],
+  "geometry": {"coordinates":[-103.14165800000001,32.725808],"type":"Point"}
 }

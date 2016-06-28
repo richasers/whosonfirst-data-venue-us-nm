@@ -2,13 +2,14 @@
   "id": 186019941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.131017,35.55967,-106.131017,35.55967",
     "geom:latitude":35.55967,
     "geom:longitude":-106.131017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Pso C de Baca",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186019941,
-    "wof:lastmodified":1449051923,
+    "wof:lastmodified":1466697905,
     "wof:name":"Lawrence Larragoite DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-106.131017,35.55967,-106.131017,35.55967],
+  "bbox": [
+    -106.131017,
+    35.55967,
+    -106.131017,
+    35.55967
+],
   "geometry": {"coordinates":[-106.131017,35.55967],"type":"Point"}
 }

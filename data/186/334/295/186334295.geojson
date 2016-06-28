@@ -2,13 +2,14 @@
   "id": 186334295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.860411,35.60076,-105.860411,35.60076",
     "geom:latitude":35.60076,
     "geom:longitude":-105.860411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Quartz Trl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186334295,
-    "wof:lastmodified":1449051160,
+    "wof:lastmodified":1466699733,
     "wof:name":"Coutney Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.860411,35.60076,-105.860411,35.60076],
+  "bbox": [
+    -105.860411,
+    35.60076,
+    -105.860411,
+    35.60076
+],
   "geometry": {"coordinates":[-105.860411,35.60076],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185762933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.068567,32.283668,-104.068567,32.283668",
     "geom:latitude":32.283668,
     "geom:longitude":-104.068567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 W Ash Rd",
     "sg:city":"Loving",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185762933,
-    "wof:lastmodified":1449007738,
+    "wof:lastmodified":1466699200,
     "wof:name":"Tarvin's Radiator Shop",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "radiator"
     ]
 },
-  "bbox": [-104.068567,32.283668,-104.068567,32.283668],
+  "bbox": [
+    -104.068567,
+    32.283668,
+    -104.068567,
+    32.283668
+],
   "geometry": {"coordinates":[-104.068567,32.283668],"type":"Point"}
 }

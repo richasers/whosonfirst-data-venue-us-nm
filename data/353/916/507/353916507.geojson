@@ -2,13 +2,14 @@
   "id": 353916507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.609901,35.251881,-106.609901,35.251881",
     "geom:latitude":35.251881,
     "geom:longitude":-106.609901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Doolittle Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353916507,
-    "wof:lastmodified":1449019662,
+    "wof:lastmodified":1466699387,
     "wof:name":"Alta Cruz Pottery",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-106.609901,35.251881,-106.609901,35.251881],
-  "geometry": {"coordinates":[-106.609901,35.251881],"type":"Point"}
+  "bbox": [
+    -106.609901,
+    35.251881,
+    -106.609901,
+    35.251881
+],
+  "geometry": {"coordinates":[-106.60990099999999,35.251881],"type":"Point"}
 }

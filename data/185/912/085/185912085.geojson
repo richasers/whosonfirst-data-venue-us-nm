@@ -2,13 +2,14 @@
   "id": 185912085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.583114,35.146173,-106.583114,35.146173",
     "geom:latitude":35.146173,
     "geom:longitude":-106.583114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6100 Seagull St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185912085,
-    "wof:lastmodified":1449007421,
+    "wof:lastmodified":1466698686,
     "wof:name":"Pathfinding Counseling Service",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.583114,35.146173,-106.583114,35.146173],
-  "geometry": {"coordinates":[-106.583114,35.146173],"type":"Point"}
+  "bbox": [
+    -106.583114,
+    35.146173,
+    -106.583114,
+    35.146173
+],
+  "geometry": {"coordinates":[-106.58311399999999,35.146173],"type":"Point"}
 }

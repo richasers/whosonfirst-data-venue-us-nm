@@ -2,13 +2,14 @@
   "id": 186539849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.527357,33.408644,-104.527357,33.408644",
     "geom:latitude":33.408644,
     "geom:longitude":-104.527357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 W College Blvd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186539849,
-    "wof:lastmodified":1449053074,
+    "wof:lastmodified":1466700272,
     "wof:name":"Racket Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-104.527357,33.408644,-104.527357,33.408644],
-  "geometry": {"coordinates":[-104.527357,33.408644],"type":"Point"}
+  "bbox": [
+    -104.527357,
+    33.408644,
+    -104.527357,
+    33.408644
+],
+  "geometry": {"coordinates":[-104.52735699999999,33.408644],"type":"Point"}
 }

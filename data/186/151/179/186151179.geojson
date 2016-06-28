@@ -2,13 +2,14 @@
   "id": 186151179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.7701,33.158747,-105.7701,33.158747",
     "geom:latitude":33.158747,
     "geom:longitude":-105.7701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 War Bonnet Dr",
     "sg:city":"Mescalero",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186151179,
-    "wof:lastmodified":1449050283,
+    "wof:lastmodified":1466699327,
     "wof:name":"US Indian Affairs Bureau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.7701,33.158747,-105.7701,33.158747],
+  "bbox": [
+    -105.7701,
+    33.158747,
+    -105.7701,
+    33.158747
+],
   "geometry": {"coordinates":[-105.7701,33.158747],"type":"Point"}
 }

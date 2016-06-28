@@ -2,13 +2,14 @@
   "id": 202417447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.514061,35.07474,-106.514061,35.07474",
     "geom:latitude":35.07474,
     "geom:longitude":-106.514061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Paisano St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202417447,
-    "wof:lastmodified":1449061149,
+    "wof:lastmodified":1466698164,
     "wof:name":"Roller King",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.514061,35.07474,-106.514061,35.07474],
+  "bbox": [
+    -106.514061,
+    35.07474,
+    -106.514061,
+    35.07474
+],
   "geometry": {"coordinates":[-106.514061,35.07474],"type":"Point"}
 }

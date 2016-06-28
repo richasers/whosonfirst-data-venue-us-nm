@@ -2,13 +2,14 @@
   "id": 202933697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.557046,35.094498,-106.557046,35.094498",
     "geom:latitude":35.094498,
     "geom:longitude":-106.557046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7900 Constitution Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202933697,
-    "wof:lastmodified":1449060631,
+    "wof:lastmodified":1466700493,
     "wof:name":"Manorcare Health Services",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-106.557046,35.094498,-106.557046,35.094498],
+  "bbox": [
+    -106.557046,
+    35.094498,
+    -106.557046,
+    35.094498
+],
   "geometry": {"coordinates":[-106.557046,35.094498],"type":"Point"}
 }

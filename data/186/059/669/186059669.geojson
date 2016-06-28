@@ -2,13 +2,14 @@
   "id": 186059669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.795305,32.283186,-106.795305,32.283186",
     "geom:latitude":32.283186,
     "geom:longitude":-106.795305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 Ave de Mesilla",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186059669,
-    "wof:lastmodified":1449051119,
+    "wof:lastmodified":1466698372,
     "wof:name":"Trails W Senior MBL HM Cmnty",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "park"
     ]
 },
-  "bbox": [-106.795305,32.283186,-106.795305,32.283186],
+  "bbox": [
+    -106.795305,
+    32.283186,
+    -106.795305,
+    32.283186
+],
   "geometry": {"coordinates":[-106.795305,32.283186],"type":"Point"}
 }

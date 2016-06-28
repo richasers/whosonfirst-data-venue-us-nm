@@ -2,13 +2,14 @@
   "id": 202848139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.672691,35.196453,-106.672691,35.196453",
     "geom:latitude":35.196453,
     "geom:longitude":-106.672691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4349 Irving Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202848139,
-    "wof:lastmodified":1449060461,
+    "wof:lastmodified":1466700170,
     "wof:name":"Rowland Nurseries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-106.672691,35.196453,-106.672691,35.196453],
+  "bbox": [
+    -106.672691,
+    35.196453,
+    -106.672691,
+    35.196453
+],
   "geometry": {"coordinates":[-106.672691,35.196453],"type":"Point"}
 }

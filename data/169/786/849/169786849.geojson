@@ -2,13 +2,14 @@
   "id": 169786849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.61211,35.077368,-106.61211,35.077368",
     "geom:latitude":35.077368,
     "geom:longitude":-106.61211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Dartmouth Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169786849,
-    "wof:lastmodified":1449033115,
+    "wof:lastmodified":1466698411,
     "wof:name":"John M Fredrickson MD",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-106.61211,35.077368,-106.61211,35.077368],
+  "bbox": [
+    -106.61211,
+    35.077368,
+    -106.61211,
+    35.077368
+],
   "geometry": {"coordinates":[-106.61211,35.077368],"type":"Point"}
 }

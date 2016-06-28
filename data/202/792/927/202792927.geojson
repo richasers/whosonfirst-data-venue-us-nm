@@ -2,13 +2,14 @@
   "id": 202792927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.726005,35.512553,-108.726005,35.512553",
     "geom:latitude":35.512553,
     "geom:longitude":-108.726005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 Linda Dr",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202792927,
-    "wof:lastmodified":1449060667,
+    "wof:lastmodified":1466700050,
     "wof:name":"Blackshear Piano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.726005,35.512553,-108.726005,35.512553],
+  "bbox": [
+    -108.726005,
+    35.512553,
+    -108.726005,
+    35.512553
+],
   "geometry": {"coordinates":[-108.726005,35.512553],"type":"Point"}
 }

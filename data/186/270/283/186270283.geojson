@@ -2,13 +2,14 @@
   "id": 186270283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.395974,32.828303,-104.395974,32.828303",
     "geom:latitude":32.828303,
     "geom:longitude":-104.395974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 S 1st St",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186270283,
-    "wof:lastmodified":1449050894,
+    "wof:lastmodified":1466698919,
     "wof:name":"Manemann Distributing",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-104.395974,32.828303,-104.395974,32.828303],
+  "bbox": [
+    -104.395974,
+    32.828303,
+    -104.395974,
+    32.828303
+],
   "geometry": {"coordinates":[-104.395974,32.828303],"type":"Point"}
 }

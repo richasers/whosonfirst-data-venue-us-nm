@@ -2,13 +2,14 @@
   "id": 202674197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.245379,32.428635,-104.245379,32.428635",
     "geom:latitude":32.428635,
     "geom:longitude":-104.245379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1503 W Church St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202674197,
-    "wof:lastmodified":1449062000,
+    "wof:lastmodified":1466699395,
     "wof:name":"Banister's Air Conditioning",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "air"
     ]
 },
-  "bbox": [-104.245379,32.428635,-104.245379,32.428635],
+  "bbox": [
+    -104.245379,
+    32.428635,
+    -104.245379,
+    32.428635
+],
   "geometry": {"coordinates":[-104.245379,32.428635],"type":"Point"}
 }

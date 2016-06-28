@@ -2,13 +2,14 @@
   "id": 202535513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.964991,32.936679,-105.964991,32.936679",
     "geom:latitude":32.936679,
     "geom:longitude":-105.964991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 N White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202535513,
-    "wof:lastmodified":1449060563,
+    "wof:lastmodified":1466699298,
     "wof:name":"84 Lumber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-105.964991,32.936679,-105.964991,32.936679],
+  "bbox": [
+    -105.964991,
+    32.936679,
+    -105.964991,
+    32.936679
+],
   "geometry": {"coordinates":[-105.964991,32.936679],"type":"Point"}
 }

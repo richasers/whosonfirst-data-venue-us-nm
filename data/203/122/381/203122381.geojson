@@ -2,13 +2,14 @@
   "id": 203122381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.647961,35.05353,-106.647961,35.05353",
     "geom:latitude":35.05353,
     "geom:longitude":-106.647961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Bethel Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203122381,
-    "wof:lastmodified":1449026022,
+    "wof:lastmodified":1466698950,
     "wof:name":"Church Of God Seventh Day",
     "wof:parent_id":85846885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.647961,35.05353,-106.647961,35.05353],
+  "bbox": [
+    -106.647961,
+    35.05353,
+    -106.647961,
+    35.05353
+],
   "geometry": {"coordinates":[-106.647961,35.05353],"type":"Point"}
 }

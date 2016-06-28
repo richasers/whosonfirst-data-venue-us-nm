@@ -2,13 +2,14 @@
   "id": 202457197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.728817,32.305935,-106.728817,32.305935",
     "geom:latitude":32.305935,
     "geom:longitude":-106.728817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1589 Imperial Ridge St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202457197,
-    "wof:lastmodified":1449061791,
+    "wof:lastmodified":1466698603,
     "wof:name":"Baskets N Bags",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-106.728817,32.305935,-106.728817,32.305935],
-  "geometry": {"coordinates":[-106.728817,32.305935],"type":"Point"}
+  "bbox": [
+    -106.728817,
+    32.305935,
+    -106.728817,
+    32.305935
+],
+  "geometry": {"coordinates":[-106.72881700000001,32.305935],"type":"Point"}
 }

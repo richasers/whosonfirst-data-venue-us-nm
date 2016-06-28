@@ -2,13 +2,14 @@
   "id": 186495081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586264,35.081482,-106.586264,35.081482",
     "geom:latitude":35.081482,
     "geom:longitude":-106.586264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"429 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186495081,
-    "wof:lastmodified":1449051556,
+    "wof:lastmodified":1466700301,
     "wof:name":"Dickinson Enterprises",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-106.586264,35.081482,-106.586264,35.081482],
+  "bbox": [
+    -106.586264,
+    35.081482,
+    -106.586264,
+    35.081482
+],
   "geometry": {"coordinates":[-106.586264,35.081482],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185898571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.319345,34.475627,-103.319345,34.475627",
     "geom:latitude":34.475627,
     "geom:longitude":-103.319345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 State Hwy 311",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185898571,
-    "wof:lastmodified":1449006571,
+    "wof:lastmodified":1466698489,
     "wof:name":"Wordpros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-103.319345,34.475627,-103.319345,34.475627],
+  "bbox": [
+    -103.319345,
+    34.475627,
+    -103.319345,
+    34.475627
+],
   "geometry": {"coordinates":[-103.319345,34.475627],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185966835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.504212,35.083722,-106.504212,35.083722",
     "geom:latitude":35.083722,
     "geom:longitude":-106.504212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12727 San Juan Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185966835,
-    "wof:lastmodified":1449006602,
+    "wof:lastmodified":1466699426,
     "wof:name":"O W Tallant Construction",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.504212,35.083722,-106.504212,35.083722],
+  "bbox": [
+    -106.504212,
+    35.083722,
+    -106.504212,
+    35.083722
+],
   "geometry": {"coordinates":[-106.504212,35.083722],"type":"Point"}
 }

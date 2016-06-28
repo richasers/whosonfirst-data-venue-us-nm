@@ -2,13 +2,14 @@
   "id": 186573937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.789353,34.668241,-106.789353,34.668241",
     "geom:latitude":34.668241,
     "geom:longitude":-106.789353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 Edith Dr",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186573937,
-    "wof:lastmodified":1449052331,
+    "wof:lastmodified":1466700663,
     "wof:name":"Elite Mobile Power Wash",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-106.789353,34.668241,-106.789353,34.668241],
-  "geometry": {"coordinates":[-106.789353,34.668241],"type":"Point"}
+  "bbox": [
+    -106.789353,
+    34.668241,
+    -106.789353,
+    34.668241
+],
+  "geometry": {"coordinates":[-106.78935300000001,34.668241],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185790905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.563315,35.075322,-106.563315,35.075322",
     "geom:latitude":35.075322,
     "geom:longitude":-106.563315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7500 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185790905,
-    "wof:lastmodified":1449007857,
+    "wof:lastmodified":1466699314,
     "wof:name":"Jacobo's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.563315,35.075322,-106.563315,35.075322],
+  "bbox": [
+    -106.563315,
+    35.075322,
+    -106.563315,
+    35.075322
+],
   "geometry": {"coordinates":[-106.563315,35.075322],"type":"Point"}
 }

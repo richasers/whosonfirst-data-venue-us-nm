@@ -2,13 +2,14 @@
   "id": 203081137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.81514,32.396729,-106.81514,32.396729",
     "geom:latitude":32.396729,
     "geom:longitude":-106.81514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5720 Vanegas Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203081137,
-    "wof:lastmodified":1449025499,
+    "wof:lastmodified":1466698474,
     "wof:name":"Dona Ana Lock & Key",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.81514,32.396729,-106.81514,32.396729],
+  "bbox": [
+    -106.81514,
+    32.396729,
+    -106.81514,
+    32.396729
+],
   "geometry": {"coordinates":[-106.81514,32.396729],"type":"Point"}
 }

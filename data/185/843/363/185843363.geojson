@@ -2,13 +2,14 @@
   "id": 185843363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.628657,31.85057,-106.628657,31.85057",
     "geom:latitude":31.85057,
     "geom:longitude":-106.628657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5305 McNutt Rd",
     "sg:city":"Santa Teresa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185843363,
-    "wof:lastmodified":1449006747,
+    "wof:lastmodified":1466697935,
     "wof:name":"Southwest Vista Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.628657,31.85057,-106.628657,31.85057],
+  "bbox": [
+    -106.628657,
+    31.85057,
+    -106.628657,
+    31.85057
+],
   "geometry": {"coordinates":[-106.628657,31.85057],"type":"Point"}
 }

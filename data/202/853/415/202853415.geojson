@@ -2,13 +2,14 @@
   "id": 202853415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.487503,35.047674,-106.487503,35.047674",
     "geom:latitude":35.047674,
     "geom:longitude":-106.487503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Cam Cerrito SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202853415,
-    "wof:lastmodified":1449061136,
+    "wof:lastmodified":1466700070,
     "wof:name":"Roland D Swamson",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "background"
     ]
 },
-  "bbox": [-106.487503,35.047674,-106.487503,35.047674],
+  "bbox": [
+    -106.487503,
+    35.047674,
+    -106.487503,
+    35.047674
+],
   "geometry": {"coordinates":[-106.487503,35.047674],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202847705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.772503,32.295464,-106.772503,32.295464",
     "geom:latitude":32.295464,
     "geom:longitude":-106.772503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 E Foster Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202847705,
-    "wof:lastmodified":1449061032,
+    "wof:lastmodified":1466700177,
     "wof:name":"Tip Top Beauty Salon",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.772503,32.295464,-106.772503,32.295464],
+  "bbox": [
+    -106.772503,
+    32.295464,
+    -106.772503,
+    32.295464
+],
   "geometry": {"coordinates":[-106.772503,32.295464],"type":"Point"}
 }

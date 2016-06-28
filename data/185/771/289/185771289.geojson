@@ -2,13 +2,14 @@
   "id": 185771289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.303393,35.116649,-106.303393,35.116649",
     "geom:latitude":35.116649,
     "geom:longitude":-106.303393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Mirkwood Rd",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185771289,
-    "wof:lastmodified":1449007486,
+    "wof:lastmodified":1466699231,
     "wof:name":"Clayton Aviation Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.303393,35.116649,-106.303393,35.116649],
+  "bbox": [
+    -106.303393,
+    35.116649,
+    -106.303393,
+    35.116649
+],
   "geometry": {"coordinates":[-106.303393,35.116649],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185789703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.772856,34.46331,-106.772856,34.46331",
     "geom:latitude":34.46331,
     "geom:longitude":-106.772856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"977 State Rte 304",
     "sg:city":"Veguita",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185789703,
-    "wof:lastmodified":1449007343,
+    "wof:lastmodified":1466699304,
     "wof:name":"Pat's Electrical Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.772856,34.46331,-106.772856,34.46331],
+  "bbox": [
+    -106.772856,
+    34.46331,
+    -106.772856,
+    34.46331
+],
   "geometry": {"coordinates":[-106.772856,34.46331],"type":"Point"}
 }

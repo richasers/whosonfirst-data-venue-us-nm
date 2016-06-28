@@ -2,13 +2,14 @@
   "id": 185798967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.129888,32.710137,-103.129888,32.710137",
     "geom:latitude":32.710137,
     "geom:longitude":-103.129888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 E Corbett St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185798967,
-    "wof:lastmodified":1449006922,
+    "wof:lastmodified":1466699340,
     "wof:name":"Avazz Records Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.129888,32.710137,-103.129888,32.710137],
-  "geometry": {"coordinates":[-103.129888,32.710137],"type":"Point"}
+  "bbox": [
+    -103.129888,
+    32.710137,
+    -103.129888,
+    32.710137
+],
+  "geometry": {"coordinates":[-103.12988799999999,32.710137],"type":"Point"}
 }

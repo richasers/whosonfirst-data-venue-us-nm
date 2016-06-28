@@ -2,13 +2,14 @@
   "id": 353950611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.548431,35.13995,-106.548431,35.13995",
     "geom:latitude":35.13995,
     "geom:longitude":-106.548431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8401 Spain Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":353950611,
-    "wof:lastmodified":1449019267,
+    "wof:lastmodified":1466698589,
     "wof:name":"Two K Investments",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"
     ]
 },
-  "bbox": [-106.548431,35.13995,-106.548431,35.13995],
-  "geometry": {"coordinates":[-106.548431,35.13995],"type":"Point"}
+  "bbox": [
+    -106.548431,
+    35.13995,
+    -106.548431,
+    35.13995
+],
+  "geometry": {"coordinates":[-106.54843099999999,35.13995],"type":"Point"}
 }

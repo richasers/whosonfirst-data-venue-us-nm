@@ -2,13 +2,14 @@
   "id": 202766619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.621754,36.431046,-105.621754,36.431046",
     "geom:latitude":36.431046,
     "geom:longitude":-105.621754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Cam Coyote",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202766619,
-    "wof:lastmodified":1449060073,
+    "wof:lastmodified":1466699844,
     "wof:name":"Clarke Design Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-105.621754,36.431046,-105.621754,36.431046],
+  "bbox": [
+    -105.621754,
+    36.431046,
+    -105.621754,
+    36.431046
+],
   "geometry": {"coordinates":[-105.621754,36.431046],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353920557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.645625,35.096802,-106.645625,35.096802",
     "geom:latitude":35.096802,
     "geom:longitude":-106.645625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1423 1st St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353920557,
-    "wof:lastmodified":1449020242,
+    "wof:lastmodified":1466697739,
     "wof:name":"Expert Collision Repair",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "repairing"
     ]
 },
-  "bbox": [-106.645625,35.096802,-106.645625,35.096802],
+  "bbox": [
+    -106.645625,
+    35.096802,
+    -106.645625,
+    35.096802
+],
   "geometry": {"coordinates":[-106.645625,35.096802],"type":"Point"}
 }

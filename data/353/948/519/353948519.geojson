@@ -2,13 +2,14 @@
   "id": 353948519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550941,35.137489,-106.550941,35.137489",
     "geom:latitude":35.137489,
     "geom:longitude":-106.550941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8401 Osuna Rd NE Ste C",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353948519,
-    "wof:lastmodified":1449020301,
+    "wof:lastmodified":1466698526,
     "wof:name":"Robert C Supple Dmd",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "oral"
     ]
 },
-  "bbox": [-106.550941,35.137489,-106.550941,35.137489],
-  "geometry": {"coordinates":[-106.550941,35.137489],"type":"Point"}
+  "bbox": [
+    -106.550941,
+    35.137489,
+    -106.550941,
+    35.137489
+],
+  "geometry": {"coordinates":[-106.55094099999999,35.137489],"type":"Point"}
 }

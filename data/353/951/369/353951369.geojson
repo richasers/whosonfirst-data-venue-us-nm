@@ -2,13 +2,14 @@
   "id": 353951369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.490289,35.115096,-106.490289,35.115096",
     "geom:latitude":35.115096,
     "geom:longitude":-106.490289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Vista del Rey NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353951369,
-    "wof:lastmodified":1449018353,
+    "wof:lastmodified":1466698611,
     "wof:name":"Real Light Radio",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast"
     ]
 },
-  "bbox": [-106.490289,35.115096,-106.490289,35.115096],
+  "bbox": [
+    -106.490289,
+    35.115096,
+    -106.490289,
+    35.115096
+],
   "geometry": {"coordinates":[-106.490289,35.115096],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185648893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.943396,35.688264,-105.943396,35.688264",
     "geom:latitude":35.688264,
     "geom:longitude":-105.943396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"433 W San Francisco St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185648893,
-    "wof:lastmodified":1449007050,
+    "wof:lastmodified":1466698116,
     "wof:name":"Mc Dowell Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.943396,35.688264,-105.943396,35.688264],
-  "geometry": {"coordinates":[-105.943396,35.688264],"type":"Point"}
+  "bbox": [
+    -105.943396,
+    35.688264,
+    -105.943396,
+    35.688264
+],
+  "geometry": {"coordinates":[-105.94339600000001,35.688264],"type":"Point"}
 }

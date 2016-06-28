@@ -2,13 +2,14 @@
   "id": 185949059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.685285,35.118067,-106.685285,35.118067",
     "geom:latitude":35.118067,
     "geom:longitude":-106.685285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3219 el Toboso Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185949059,
-    "wof:lastmodified":1449007603,
+    "wof:lastmodified":1466699202,
     "wof:name":"J W Hall Pe",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.685285,35.118067,-106.685285,35.118067],
-  "geometry": {"coordinates":[-106.685285,35.118067],"type":"Point"}
+  "bbox": [
+    -106.685285,
+    35.118067,
+    -106.685285,
+    35.118067
+],
+  "geometry": {"coordinates":[-106.68528499999999,35.118067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186039229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.555879,35.080019,-106.555879,35.080019",
     "geom:latitude":35.080019,
     "geom:longitude":-106.555879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Texas St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186039229,
-    "wof:lastmodified":1449052681,
+    "wof:lastmodified":1466698122,
     "wof:name":"Francisco's Landscaping",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.555879,35.080019,-106.555879,35.080019],
+  "bbox": [
+    -106.555879,
+    35.080019,
+    -106.555879,
+    35.080019
+],
   "geometry": {"coordinates":[-106.555879,35.080019],"type":"Point"}
 }

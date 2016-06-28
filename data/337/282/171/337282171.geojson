@@ -2,13 +2,14 @@
   "id": 337282171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.714468,32.348391,-108.714468,32.348391",
     "geom:latitude":32.348391,
     "geom:longitude":-108.714468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 W 5th St",
     "sg:city":"Lordsburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337282171,
-    "wof:lastmodified":1449027463,
+    "wof:lastmodified":1466697653,
     "wof:name":"Mimbres Christian Camp Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-108.714468,32.348391,-108.714468,32.348391],
+  "bbox": [
+    -108.714468,
+    32.348391,
+    -108.714468,
+    32.348391
+],
   "geometry": {"coordinates":[-108.714468,32.348391],"type":"Point"}
 }

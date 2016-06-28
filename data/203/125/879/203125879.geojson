@@ -2,13 +2,14 @@
   "id": 203125879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.576708,35.145802,-106.576708,35.145802",
     "geom:latitude":35.145802,
     "geom:longitude":-106.576708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Cll Playa del Sol NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203125879,
-    "wof:lastmodified":1449026804,
+    "wof:lastmodified":1466698984,
     "wof:name":"Reveille Corp",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "design"
     ]
 },
-  "bbox": [-106.576708,35.145802,-106.576708,35.145802],
+  "bbox": [
+    -106.576708,
+    35.145802,
+    -106.576708,
+    35.145802
+],
   "geometry": {"coordinates":[-106.576708,35.145802],"type":"Point"}
 }

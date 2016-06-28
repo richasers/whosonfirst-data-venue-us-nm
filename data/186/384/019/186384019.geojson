@@ -2,13 +2,14 @@
   "id": 186384019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.689359,35.17368,-106.689359,35.17368",
     "geom:latitude":35.17368,
     "geom:longitude":-106.689359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7820 Snowberry St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186384019,
-    "wof:lastmodified":1449050629,
+    "wof:lastmodified":1466699902,
     "wof:name":"Four Star Mechanical Svc Inc",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.689359,35.17368,-106.689359,35.17368],
+  "bbox": [
+    -106.689359,
+    35.17368,
+    -106.689359,
+    35.17368
+],
   "geometry": {"coordinates":[-106.689359,35.17368],"type":"Point"}
 }

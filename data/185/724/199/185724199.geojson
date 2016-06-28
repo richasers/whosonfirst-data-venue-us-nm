@@ -2,13 +2,14 @@
   "id": 185724199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.297568,32.806227,-108.297568,32.806227",
     "geom:latitude":32.806227,
     "geom:longitude":-108.297568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Onyx Dr",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185724199,
-    "wof:lastmodified":1449008154,
+    "wof:lastmodified":1466698891,
     "wof:name":"Erdmann Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.297568,32.806227,-108.297568,32.806227],
+  "bbox": [
+    -108.297568,
+    32.806227,
+    -108.297568,
+    32.806227
+],
   "geometry": {"coordinates":[-108.297568,32.806227],"type":"Point"}
 }

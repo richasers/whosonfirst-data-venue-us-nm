@@ -2,13 +2,14 @@
   "id": 169811249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.658512,35.08532,-106.658512,35.08532",
     "geom:latitude":35.08532,
     "geom:longitude":-106.658512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"924 Park Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169811249,
-    "wof:lastmodified":1449034271,
+    "wof:lastmodified":1466698673,
     "wof:name":"Central Park Sw LLC",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.658512,35.08532,-106.658512,35.08532],
+  "bbox": [
+    -106.658512,
+    35.08532,
+    -106.658512,
+    35.08532
+],
   "geometry": {"coordinates":[-106.658512,35.08532],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185720637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.540995,35.162619,-106.540995,35.162619",
     "geom:latitude":35.162619,
     "geom:longitude":-106.540995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9112 Onate St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185720637,
-    "wof:lastmodified":1449006992,
+    "wof:lastmodified":1466698869,
     "wof:name":"Kea Statistical Consulting",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.540995,35.162619,-106.540995,35.162619],
+  "bbox": [
+    -106.540995,
+    35.162619,
+    -106.540995,
+    35.162619
+],
   "geometry": {"coordinates":[-106.540995,35.162619],"type":"Point"}
 }

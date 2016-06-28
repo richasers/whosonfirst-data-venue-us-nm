@@ -2,13 +2,14 @@
   "id": 202907275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.082347,35.568782,-106.082347,35.568782",
     "geom:latitude":35.568782,
     "geom:longitude":-106.082347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Bataan Blvd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202907275,
-    "wof:lastmodified":1449062456,
+    "wof:lastmodified":1466700378,
     "wof:name":"US Army Reserve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "security"
     ]
 },
-  "bbox": [-106.082347,35.568782,-106.082347,35.568782],
+  "bbox": [
+    -106.082347,
+    35.568782,
+    -106.082347,
+    35.568782
+],
   "geometry": {"coordinates":[-106.082347,35.568782],"type":"Point"}
 }

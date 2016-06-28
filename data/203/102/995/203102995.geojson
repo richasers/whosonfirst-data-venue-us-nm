@@ -2,13 +2,14 @@
   "id": 203102995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.291975,33.115306,-107.291975,33.115306",
     "geom:latitude":33.115306,
     "geom:longitude":-107.291975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 del Rio St",
     "sg:city":"Williamsburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203102995,
-    "wof:lastmodified":1449026731,
+    "wof:lastmodified":1466698756,
     "wof:name":"Carolyn Horttor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.291975,33.115306,-107.291975,33.115306],
-  "geometry": {"coordinates":[-107.291975,33.115306],"type":"Point"}
+  "bbox": [
+    -107.291975,
+    33.115306,
+    -107.291975,
+    33.115306
+],
+  "geometry": {"coordinates":[-107.29197499999999,33.115306],"type":"Point"}
 }

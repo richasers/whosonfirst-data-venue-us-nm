@@ -2,13 +2,14 @@
   "id": 203138589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.124471,32.725777,-103.124471,32.725777",
     "geom:latitude":32.725777,
     "geom:longitude":-103.124471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1036 E Bender Blvd",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203138589,
-    "wof:lastmodified":1449025448,
+    "wof:lastmodified":1466699068,
     "wof:name":"Richards Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-103.124471,32.725777,-103.124471,32.725777],
+  "bbox": [
+    -103.124471,
+    32.725777,
+    -103.124471,
+    32.725777
+],
   "geometry": {"coordinates":[-103.124471,32.725777],"type":"Point"}
 }

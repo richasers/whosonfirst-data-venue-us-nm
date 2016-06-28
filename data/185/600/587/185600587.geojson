@@ -2,13 +2,14 @@
   "id": 185600587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.653809,33.32404,-105.653809,33.32404",
     "geom:latitude":33.32404,
     "geom:longitude":-105.653809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185600587,
-    "wof:lastmodified":1449006759,
+    "wof:lastmodified":1466697611,
     "wof:name":"Ruidoso Valley Chamber-Commerc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [-105.653809,33.32404,-105.653809,33.32404],
+  "bbox": [
+    -105.653809,
+    33.32404,
+    -105.653809,
+    33.32404
+],
   "geometry": {"coordinates":[-105.653809,33.32404],"type":"Point"}
 }

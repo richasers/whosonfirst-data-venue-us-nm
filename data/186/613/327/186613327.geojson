@@ -2,13 +2,14 @@
   "id": 186613327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.976106,35.663128,-105.976106,35.663128",
     "geom:latitude":35.663128,
     "geom:longitude":-105.976106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1966 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186613327,
-    "wof:lastmodified":1449051624,
+    "wof:lastmodified":1466700563,
     "wof:name":"Dean Caussey Automart",
     "wof:parent_id":85880811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-105.976106,35.663128,-105.976106,35.663128],
+  "bbox": [
+    -105.976106,
+    35.663128,
+    -105.976106,
+    35.663128
+],
   "geometry": {"coordinates":[-105.976106,35.663128],"type":"Point"}
 }

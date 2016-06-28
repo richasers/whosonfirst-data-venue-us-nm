@@ -2,13 +2,14 @@
   "id": 202922707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.689758,35.241658,-106.689758,35.241658",
     "geom:latitude":35.241658,
     "geom:longitude":-106.689758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 Southern Blvd SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202922707,
-    "wof:lastmodified":1449060346,
+    "wof:lastmodified":1466700454,
     "wof:name":"Factory Direct Cigars & Imprts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.689758,35.241658,-106.689758,35.241658],
+  "bbox": [
+    -106.689758,
+    35.241658,
+    -106.689758,
+    35.241658
+],
   "geometry": {"coordinates":[-106.689758,35.241658],"type":"Point"}
 }

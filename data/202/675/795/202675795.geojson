@@ -2,13 +2,14 @@
   "id": 202675795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.613452,33.532888,-105.613452,33.532888",
     "geom:latitude":33.532888,
     "geom:longitude":-105.613452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Anna Dr",
     "sg:city":"Capitan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202675795,
-    "wof:lastmodified":1449061412,
+    "wof:lastmodified":1466699661,
     "wof:name":"Kendall Price Construction LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-105.613452,33.532888,-105.613452,33.532888],
+  "bbox": [
+    -105.613452,
+    33.532888,
+    -105.613452,
+    33.532888
+],
   "geometry": {"coordinates":[-105.613452,33.532888],"type":"Point"}
 }

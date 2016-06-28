@@ -2,13 +2,14 @@
   "id": 353980897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.18766,34.397449,-103.18766,34.397449",
     "geom:latitude":34.397449,
     "geom:longitude":-103.18766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Mabry Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353980897,
-    "wof:lastmodified":1449018435,
+    "wof:lastmodified":1466699101,
     "wof:name":"Quality Used Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-103.18766,34.397449,-103.18766,34.397449],
-  "geometry": {"coordinates":[-103.18766,34.397449],"type":"Point"}
+  "bbox": [
+    -103.18766,
+    34.397449,
+    -103.18766,
+    34.397449
+],
+  "geometry": {"coordinates":[-103.18765999999999,34.397449],"type":"Point"}
 }

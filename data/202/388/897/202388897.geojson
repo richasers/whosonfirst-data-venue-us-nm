@@ -2,13 +2,14 @@
   "id": 202388897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.576141,36.436365,-105.576141,36.436365",
     "geom:latitude":36.436365,
     "geom:longitude":-105.576141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1470 Pso del Pueblo Norte",
     "sg:city":"El Prado",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202388897,
-    "wof:lastmodified":1449060192,
+    "wof:lastmodified":1466697789,
     "wof:name":"Southwestern Environmental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ecological"
     ]
 },
-  "bbox": [-105.576141,36.436365,-105.576141,36.436365],
-  "geometry": {"coordinates":[-105.576141,36.436365],"type":"Point"}
+  "bbox": [
+    -105.576141,
+    36.436365,
+    -105.576141,
+    36.436365
+],
+  "geometry": {"coordinates":[-105.57614100000001,36.436365],"type":"Point"}
 }

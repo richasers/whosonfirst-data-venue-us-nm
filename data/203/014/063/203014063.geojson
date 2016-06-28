@@ -2,13 +2,14 @@
   "id": 203014063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.66979,33.331466,-105.66979,33.331466",
     "geom:latitude":33.331466,
     "geom:longitude":-105.66979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2314 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203014063,
-    "wof:lastmodified":1449025848,
+    "wof:lastmodified":1466699392,
     "wof:name":"Zuni",
     "wof:parent_id":85842645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-105.66979,33.331466,-105.66979,33.331466],
-  "geometry": {"coordinates":[-105.66979,33.331466],"type":"Point"}
+  "bbox": [
+    -105.66979,
+    33.331466,
+    -105.66979,
+    33.331466
+],
+  "geometry": {"coordinates":[-105.66979000000001,33.331466],"type":"Point"}
 }

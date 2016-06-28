@@ -2,13 +2,14 @@
   "id": 202468431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.639533,35.079062,-106.639533,35.079062",
     "geom:latitude":35.079062,
     "geom:longitude":-106.639533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 Coal Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202468431,
-    "wof:lastmodified":1449061914,
+    "wof:lastmodified":1466698766,
     "wof:name":"M & C Cleaning Svc",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-106.639533,35.079062,-106.639533,35.079062],
+  "bbox": [
+    -106.639533,
+    35.079062,
+    -106.639533,
+    35.079062
+],
   "geometry": {"coordinates":[-106.639533,35.079062],"type":"Point"}
 }

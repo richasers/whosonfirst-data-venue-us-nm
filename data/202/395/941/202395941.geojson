@@ -2,13 +2,14 @@
   "id": 202395941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.645248,35.117969,-106.645248,35.117969",
     "geom:latitude":35.117969,
     "geom:longitude":-106.645248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3527 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202395941,
-    "wof:lastmodified":1449062288,
+    "wof:lastmodified":1466697884,
     "wof:name":"All Pro Heating Air Cond",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.645248,35.117969,-106.645248,35.117969],
+  "bbox": [
+    -106.645248,
+    35.117969,
+    -106.645248,
+    35.117969
+],
   "geometry": {"coordinates":[-106.645248,35.117969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186058927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.565627,35.110944,-106.565627,35.110944",
     "geom:latitude":35.110944,
     "geom:longitude":-106.565627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7010 Phoenix Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186058927,
-    "wof:lastmodified":1449050786,
+    "wof:lastmodified":1466698368,
     "wof:name":"Branding Iron Bar Bq",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.565627,35.110944,-106.565627,35.110944],
-  "geometry": {"coordinates":[-106.565627,35.110944],"type":"Point"}
+  "bbox": [
+    -106.565627,
+    35.110944,
+    -106.565627,
+    35.110944
+],
+  "geometry": {"coordinates":[-106.56562700000001,35.110944],"type":"Point"}
 }

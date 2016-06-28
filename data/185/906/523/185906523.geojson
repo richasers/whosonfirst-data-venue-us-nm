@@ -2,13 +2,14 @@
   "id": 185906523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.681065,35.208752,-106.681065,35.208752",
     "geom:latitude":35.208752,
     "geom:longitude":-106.681065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10538 Steward St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185906523,
-    "wof:lastmodified":1449007218,
+    "wof:lastmodified":1466698611,
     "wof:name":"Dream Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "project"
     ]
 },
-  "bbox": [-106.681065,35.208752,-106.681065,35.208752],
+  "bbox": [
+    -106.681065,
+    35.208752,
+    -106.681065,
+    35.208752
+],
   "geometry": {"coordinates":[-106.681065,35.208752],"type":"Point"}
 }

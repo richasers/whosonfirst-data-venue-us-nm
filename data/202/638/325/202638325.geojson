@@ -2,13 +2,14 @@
   "id": 202638325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.736015,34.800583,-106.736015,34.800583",
     "geom:latitude":34.800583,
     "geom:longitude":-106.736015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"267 Courthouse Rd SW",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202638325,
-    "wof:lastmodified":1449060241,
+    "wof:lastmodified":1466698964,
     "wof:name":"Native Air Co",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.736015,34.800583,-106.736015,34.800583],
-  "geometry": {"coordinates":[-106.736015,34.800583],"type":"Point"}
+  "bbox": [
+    -106.736015,
+    34.800583,
+    -106.736015,
+    34.800583
+],
+  "geometry": {"coordinates":[-106.73601499999999,34.800583],"type":"Point"}
 }

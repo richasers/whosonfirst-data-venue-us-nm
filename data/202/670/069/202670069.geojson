@@ -2,13 +2,14 @@
   "id": 202670069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.93122,35.692087,-105.93122,35.692087",
     "geom:latitude":35.692087,
     "geom:longitude":-105.93122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Artist Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202670069,
-    "wof:lastmodified":1449060483,
+    "wof:lastmodified":1466699643,
     "wof:name":"Ionesco Design Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-105.93122,35.692087,-105.93122,35.692087],
+  "bbox": [
+    -105.93122,
+    35.692087,
+    -105.93122,
+    35.692087
+],
   "geometry": {"coordinates":[-105.93122,35.692087],"type":"Point"}
 }

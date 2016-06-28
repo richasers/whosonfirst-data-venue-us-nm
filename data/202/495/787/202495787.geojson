@@ -2,13 +2,14 @@
   "id": 202495787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.53524,35.16235,-106.53524,35.16235",
     "geom:latitude":35.16235,
     "geom:longitude":-106.53524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9641 Bolack Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202495787,
-    "wof:lastmodified":1449061241,
+    "wof:lastmodified":1466699096,
     "wof:name":"All This & More Inc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-106.53524,35.16235,-106.53524,35.16235],
+  "bbox": [
+    -106.53524,
+    35.16235,
+    -106.53524,
+    35.16235
+],
   "geometry": {"coordinates":[-106.53524,35.16235],"type":"Point"}
 }

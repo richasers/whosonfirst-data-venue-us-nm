@@ -2,13 +2,14 @@
   "id": 353954711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.598763,35.180519,-106.598763,35.180519",
     "geom:latitude":35.180519,
     "geom:longitude":-106.598763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8420 Washington Pl NE A",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":353954711,
-    "wof:lastmodified":1449020478,
+    "wof:lastmodified":1466698700,
     "wof:name":"Wm Carroll",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-106.598763,35.180519,-106.598763,35.180519],
-  "geometry": {"coordinates":[-106.598763,35.180519],"type":"Point"}
+  "bbox": [
+    -106.598763,
+    35.180519,
+    -106.598763,
+    35.180519
+],
+  "geometry": {"coordinates":[-106.59876300000001,35.180519],"type":"Point"}
 }

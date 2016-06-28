@@ -2,13 +2,14 @@
   "id": 185963965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.754169,32.27026,-107.754169,32.27026",
     "geom:latitude":32.27026,
     "geom:longitude":-107.754169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 E Cedar St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185963965,
-    "wof:lastmodified":1449006768,
+    "wof:lastmodified":1466699511,
     "wof:name":"Mimbres Shell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-107.754169,32.27026,-107.754169,32.27026],
+  "bbox": [
+    -107.754169,
+    32.27026,
+    -107.754169,
+    32.27026
+],
   "geometry": {"coordinates":[-107.754169,32.27026],"type":"Point"}
 }

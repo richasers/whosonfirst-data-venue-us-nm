@@ -2,13 +2,14 @@
   "id": 186377959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.121048,35.4353,-106.121048,35.4353",
     "geom:latitude":35.4353,
     "geom:longitude":-106.121048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Main St",
     "sg:city":"Cerrillos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186377959,
-    "wof:lastmodified":1449051391,
+    "wof:lastmodified":1466699661,
     "wof:name":"Ortiz Mountain Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.121048,35.4353,-106.121048,35.4353],
+  "bbox": [
+    -106.121048,
+    35.4353,
+    -106.121048,
+    35.4353
+],
   "geometry": {"coordinates":[-106.121048,35.4353],"type":"Point"}
 }

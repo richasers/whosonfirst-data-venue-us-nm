@@ -2,13 +2,14 @@
   "id": 186390299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.789756,35.630127,-108.789756,35.630127",
     "geom:latitude":35.630127,
     "geom:longitude":-108.789756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 S Ola Dr",
     "sg:city":"Yatahey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186390299,
-    "wof:lastmodified":1449053053,
+    "wof:lastmodified":1466699808,
     "wof:name":"Gozales Livestock & Feedstock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-108.789756,35.630127,-108.789756,35.630127],
+  "bbox": [
+    -108.789756,
+    35.630127,
+    -108.789756,
+    35.630127
+],
   "geometry": {"coordinates":[-108.789756,35.630127],"type":"Point"}
 }

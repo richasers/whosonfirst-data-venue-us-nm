@@ -2,13 +2,14 @@
   "id": 202558571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.524649,35.174217,-106.524649,35.174217",
     "geom:latitude":35.174217,
     "geom:longitude":-106.524649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8100 Hamilton St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202558571,
-    "wof:lastmodified":1449060812,
+    "wof:lastmodified":1466697768,
     "wof:name":"St Peters Anglican Church",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.524649,35.174217,-106.524649,35.174217],
+  "bbox": [
+    -106.524649,
+    35.174217,
+    -106.524649,
+    35.174217
+],
   "geometry": {"coordinates":[-106.524649,35.174217],"type":"Point"}
 }

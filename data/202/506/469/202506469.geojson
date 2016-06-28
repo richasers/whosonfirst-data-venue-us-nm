@@ -2,13 +2,14 @@
   "id": 202506469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.648714,35.175118,-106.648714,35.175118",
     "geom:latitude":35.175118,
     "geom:longitude":-106.648714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7925 Bosque St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202506469,
-    "wof:lastmodified":1449060162,
+    "wof:lastmodified":1466699185,
     "wof:name":"Juno Architects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.648714,35.175118,-106.648714,35.175118],
+  "bbox": [
+    -106.648714,
+    35.175118,
+    -106.648714,
+    35.175118
+],
   "geometry": {"coordinates":[-106.648714,35.175118],"type":"Point"}
 }

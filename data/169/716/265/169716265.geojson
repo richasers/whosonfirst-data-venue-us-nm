@@ -2,13 +2,14 @@
   "id": 169716265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.542905,35.317992,-106.542905,35.317992",
     "geom:latitude":35.317992,
     "geom:longitude":-106.542905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"296 E Hwy 44",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169716265,
-    "wof:lastmodified":1449033156,
+    "wof:lastmodified":1466697729,
     "wof:name":"Lota Burger 32",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.542905,35.317992,-106.542905,35.317992],
+  "bbox": [
+    -106.542905,
+    35.317992,
+    -106.542905,
+    35.317992
+],
   "geometry": {"coordinates":[-106.542905,35.317992],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202510985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.651661,35.165415,-106.651661,35.165415",
     "geom:latitude":35.165415,
     "geom:longitude":-106.651661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7028 Rio Grande Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202510985,
-    "wof:lastmodified":1449061649,
+    "wof:lastmodified":1466699207,
     "wof:name":"NM Museum of Military History",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-106.651661,35.165415,-106.651661,35.165415],
+  "bbox": [
+    -106.651661,
+    35.165415,
+    -106.651661,
+    35.165415
+],
   "geometry": {"coordinates":[-106.651661,35.165415],"type":"Point"}
 }

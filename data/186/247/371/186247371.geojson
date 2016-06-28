@@ -2,13 +2,14 @@
   "id": 186247371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.746958,35.52483,-108.746958,35.52483",
     "geom:latitude":35.52483,
     "geom:longitude":-108.746958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 W Aztec Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186247371,
-    "wof:lastmodified":1449051942,
+    "wof:lastmodified":1466698629,
     "wof:name":"Gallup Monuments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-108.746958,35.52483,-108.746958,35.52483],
-  "geometry": {"coordinates":[-108.746958,35.52483],"type":"Point"}
+  "bbox": [
+    -108.746958,
+    35.52483,
+    -108.746958,
+    35.52483
+],
+  "geometry": {"coordinates":[-108.74695800000001,35.52483],"type":"Point"}
 }

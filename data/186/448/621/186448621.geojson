@@ -2,13 +2,14 @@
   "id": 186448621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.665387,35.081203,-106.665387,35.081203",
     "geom:latitude":35.081203,
     "geom:longitude":-106.665387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Iron Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186448621,
-    "wof:lastmodified":1449052913,
+    "wof:lastmodified":1466700030,
     "wof:name":"Rio Grande Swimming Pool",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-106.665387,35.081203,-106.665387,35.081203],
+  "bbox": [
+    -106.665387,
+    35.081203,
+    -106.665387,
+    35.081203
+],
   "geometry": {"coordinates":[-106.665387,35.081203],"type":"Point"}
 }

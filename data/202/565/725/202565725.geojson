@@ -2,13 +2,14 @@
   "id": 202565725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.655148,35.087532,-106.655148,35.087532",
     "geom:latitude":35.087532,
     "geom:longitude":-106.655148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 Tijeras Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202565725,
-    "wof:lastmodified":1449062427,
+    "wof:lastmodified":1466697876,
     "wof:name":"Downtown Printing Co",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-106.655148,35.087532,-106.655148,35.087532],
+  "bbox": [
+    -106.655148,
+    35.087532,
+    -106.655148,
+    35.087532
+],
   "geometry": {"coordinates":[-106.655148,35.087532],"type":"Point"}
 }

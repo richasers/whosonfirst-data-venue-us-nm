@@ -2,13 +2,14 @@
   "id": 202560267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.796592,32.275706,-106.796592,32.275706",
     "geom:latitude":32.275706,
     "geom:longitude":-106.796592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2226 Cll de Guadalupe",
     "sg:city":"Mesilla",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202560267,
-    "wof:lastmodified":1449062059,
+    "wof:lastmodified":1466697797,
     "wof:name":"ADS Nationwide",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-106.796592,32.275706,-106.796592,32.275706],
+  "bbox": [
+    -106.796592,
+    32.275706,
+    -106.796592,
+    32.275706
+],
   "geometry": {"coordinates":[-106.796592,32.275706],"type":"Point"}
 }

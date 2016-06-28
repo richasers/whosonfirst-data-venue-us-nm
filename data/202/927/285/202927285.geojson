@@ -2,13 +2,14 @@
   "id": 202927285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.522986,35.092765,-106.522986,35.092765",
     "geom:latitude":35.092765,
     "geom:longitude":-106.522986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 June St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202927285,
-    "wof:lastmodified":1449062377,
+    "wof:lastmodified":1466700319,
     "wof:name":"KARI Cole Research Svc",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.522986,35.092765,-106.522986,35.092765],
+  "bbox": [
+    -106.522986,
+    35.092765,
+    -106.522986,
+    35.092765
+],
   "geometry": {"coordinates":[-106.522986,35.092765],"type":"Point"}
 }

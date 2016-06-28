@@ -2,13 +2,14 @@
   "id": 202776641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960188,35.690306,-105.960188,35.690306",
     "geom:latitude":35.690306,
     "geom:longitude":-105.960188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Sereno Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202776641,
-    "wof:lastmodified":1449060680,
+    "wof:lastmodified":1466699861,
     "wof:name":"Francine Friedman",
     "wof:parent_id":85880785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychotherapist"
     ]
 },
-  "bbox": [-105.960188,35.690306,-105.960188,35.690306],
+  "bbox": [
+    -105.960188,
+    35.690306,
+    -105.960188,
+    35.690306
+],
   "geometry": {"coordinates":[-105.960188,35.690306],"type":"Point"}
 }

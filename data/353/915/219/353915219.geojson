@@ -2,13 +2,14 @@
   "id": 353915219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.371002,35.119701,-106.371002,35.119701",
     "geom:latitude":35.119701,
     "geom:longitude":-106.371002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12147 State Highway 14 N",
     "sg:city":"Cedar Crest",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353915219,
-    "wof:lastmodified":1449020755,
+    "wof:lastmodified":1466697635,
     "wof:name":"Charter Mortgage Co",
     "wof:parent_id":85892613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-106.371002,35.119701,-106.371002,35.119701],
+  "bbox": [
+    -106.371002,
+    35.119701,
+    -106.371002,
+    35.119701
+],
   "geometry": {"coordinates":[-106.371002,35.119701],"type":"Point"}
 }

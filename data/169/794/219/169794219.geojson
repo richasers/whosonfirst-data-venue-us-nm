@@ -2,13 +2,14 @@
   "id": 169794219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.681339,35.528503,-108.681339,35.528503",
     "geom:latitude":35.528503,
     "geom:longitude":-108.681339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3407 Church Rock St",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169794219,
-    "wof:lastmodified":1449034268,
+    "wof:lastmodified":1466698539,
     "wof:name":"Hosanna Tape Library & Sp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.681339,35.528503,-108.681339,35.528503],
-  "geometry": {"coordinates":[-108.681339,35.528503],"type":"Point"}
+  "bbox": [
+    -108.681339,
+    35.528503,
+    -108.681339,
+    35.528503
+],
+  "geometry": {"coordinates":[-108.68133899999999,35.528503],"type":"Point"}
 }

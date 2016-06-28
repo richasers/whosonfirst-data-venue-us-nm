@@ -2,13 +2,14 @@
   "id": 185706583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.333797,34.187219,-103.333797,34.187219",
     "geom:latitude":34.187219,
     "geom:longitude":-103.333797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 E 2nd St",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185706583,
-    "wof:lastmodified":1449006719,
+    "wof:lastmodified":1466698705,
     "wof:name":"B & M Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-103.333797,34.187219,-103.333797,34.187219],
+  "bbox": [
+    -103.333797,
+    34.187219,
+    -103.333797,
+    34.187219
+],
   "geometry": {"coordinates":[-103.333797,34.187219],"type":"Point"}
 }

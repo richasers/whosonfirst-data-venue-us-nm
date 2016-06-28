@@ -2,13 +2,14 @@
   "id": 169787767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.221379,32.431041,-104.221379,32.431041",
     "geom:latitude":32.431041,
     "geom:longitude":-104.221379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 E Riverside Dr",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169787767,
-    "wof:lastmodified":1449034163,
+    "wof:lastmodified":1466698412,
     "wof:name":"Cottage Pre-School",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-104.221379,32.431041,-104.221379,32.431041],
+  "bbox": [
+    -104.221379,
+    32.431041,
+    -104.221379,
+    32.431041
+],
   "geometry": {"coordinates":[-104.221379,32.431041],"type":"Point"}
 }

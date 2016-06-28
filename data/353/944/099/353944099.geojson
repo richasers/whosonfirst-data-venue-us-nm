@@ -2,13 +2,14 @@
   "id": 353944099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.557503,35.090919,-106.557503,35.090919",
     "geom:latitude":35.090919,
     "geom:longitude":-106.557503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8010 Mountain Rd NE Ste C",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353944099,
-    "wof:lastmodified":1449019540,
+    "wof:lastmodified":1466698396,
     "wof:name":"Southwest Retina",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "ophthalmology"
     ]
 },
-  "bbox": [-106.557503,35.090919,-106.557503,35.090919],
+  "bbox": [
+    -106.557503,
+    35.090919,
+    -106.557503,
+    35.090919
+],
   "geometry": {"coordinates":[-106.557503,35.090919],"type":"Point"}
 }

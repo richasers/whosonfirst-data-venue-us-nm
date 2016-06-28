@@ -2,13 +2,14 @@
   "id": 185811427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.707394,32.34825,-108.707394,32.34825",
     "geom:latitude":32.34825,
     "geom:longitude":-108.707394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E 3rd St",
     "sg:city":"Lordsburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185811427,
-    "wof:lastmodified":1449007396,
+    "wof:lastmodified":1466699376,
     "wof:name":"RTS Lordsburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-108.707394,32.34825,-108.707394,32.34825],
-  "geometry": {"coordinates":[-108.707394,32.34825],"type":"Point"}
+  "bbox": [
+    -108.707394,
+    32.34825,
+    -108.707394,
+    32.34825
+],
+  "geometry": {"coordinates":[-108.70739399999999,32.34825],"type":"Point"}
 }

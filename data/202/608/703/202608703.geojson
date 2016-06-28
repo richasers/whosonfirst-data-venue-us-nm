@@ -2,13 +2,14 @@
   "id": 202608703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.691636,35.056629,-106.691636,35.056629",
     "geom:latitude":35.056629,
     "geom:longitude":-106.691636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2288 Kelly Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202608703,
-    "wof:lastmodified":1449061200,
+    "wof:lastmodified":1466698498,
     "wof:name":"Suzanne Seymour",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-106.691636,35.056629,-106.691636,35.056629],
+  "bbox": [
+    -106.691636,
+    35.056629,
+    -106.691636,
+    35.056629
+],
   "geometry": {"coordinates":[-106.691636,35.056629],"type":"Point"}
 }

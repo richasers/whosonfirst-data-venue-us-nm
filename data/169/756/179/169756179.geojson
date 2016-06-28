@@ -2,13 +2,14 @@
   "id": 169756179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.232718,34.402386,-103.232718,34.402386",
     "geom:latitude":34.402386,
     "geom:longitude":-103.232718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 Robles St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169756179,
-    "wof:lastmodified":1449034664,
+    "wof:lastmodified":1466698129,
     "wof:name":"Clovis Handyman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-103.232718,34.402386,-103.232718,34.402386],
-  "geometry": {"coordinates":[-103.232718,34.402386],"type":"Point"}
+  "bbox": [
+    -103.232718,
+    34.402386,
+    -103.232718,
+    34.402386
+],
+  "geometry": {"coordinates":[-103.23271800000001,34.402386],"type":"Point"}
 }

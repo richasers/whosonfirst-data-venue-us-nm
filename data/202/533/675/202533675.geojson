@@ -2,13 +2,14 @@
   "id": 202533675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.505385,35.141883,-106.505385,35.141883",
     "geom:latitude":35.141883,
     "geom:longitude":-106.505385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12108 Cam Arbustos NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202533675,
-    "wof:lastmodified":1449060081,
+    "wof:lastmodified":1466699296,
     "wof:name":"Design By Evelyn",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.505385,35.141883,-106.505385,35.141883],
+  "bbox": [
+    -106.505385,
+    35.141883,
+    -106.505385,
+    35.141883
+],
   "geometry": {"coordinates":[-106.505385,35.141883],"type":"Point"}
 }

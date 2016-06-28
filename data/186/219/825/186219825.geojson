@@ -2,13 +2,14 @@
   "id": 186219825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.980369,35.677194,-105.980369,35.677194",
     "geom:latitude":35.677194,
     "geom:longitude":-105.980369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 Medio",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186219825,
-    "wof:lastmodified":1449052926,
+    "wof:lastmodified":1466698271,
     "wof:name":"New Grub Street Graphic Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-105.980369,35.677194,-105.980369,35.677194],
+  "bbox": [
+    -105.980369,
+    35.677194,
+    -105.980369,
+    35.677194
+],
   "geometry": {"coordinates":[-105.980369,35.677194],"type":"Point"}
 }

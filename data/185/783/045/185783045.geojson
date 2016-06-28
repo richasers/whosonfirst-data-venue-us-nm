@@ -2,13 +2,14 @@
   "id": 185783045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.495533,35.102903,-106.495533,35.102903",
     "geom:latitude":35.102903,
     "geom:longitude":-106.495533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 Father Sky St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185783045,
-    "wof:lastmodified":1449006632,
+    "wof:lastmodified":1466699467,
     "wof:name":"Ls Knisley Enterprises Inc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.495533,35.102903,-106.495533,35.102903],
-  "geometry": {"coordinates":[-106.495533,35.102903],"type":"Point"}
+  "bbox": [
+    -106.495533,
+    35.102903,
+    -106.495533,
+    35.102903
+],
+  "geometry": {"coordinates":[-106.49553299999999,35.102903],"type":"Point"}
 }

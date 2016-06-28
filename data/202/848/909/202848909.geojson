@@ -2,13 +2,14 @@
   "id": 202848909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.754773,32.259235,-107.754773,32.259235",
     "geom:latitude":32.259235,
     "geom:longitude":-107.754773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 E Olive St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202848909,
-    "wof:lastmodified":1449060462,
+    "wof:lastmodified":1466700175,
     "wof:name":"Vegas Hair Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-107.754773,32.259235,-107.754773,32.259235],
+  "bbox": [
+    -107.754773,
+    32.259235,
+    -107.754773,
+    32.259235
+],
   "geometry": {"coordinates":[-107.754773,32.259235],"type":"Point"}
 }

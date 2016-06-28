@@ -2,13 +2,14 @@
   "id": 186190651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.253006,33.126678,-107.253006,33.126678",
     "geom:latitude":33.126678,
     "geom:longitude":-107.253006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Marr St",
     "sg:city":"Truth Or Consequences",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186190651,
-    "wof:lastmodified":1449052860,
+    "wof:lastmodified":1466697904,
     "wof:name":"Artesian Bath House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "site"
     ]
 },
-  "bbox": [-107.253006,33.126678,-107.253006,33.126678],
+  "bbox": [
+    -107.253006,
+    33.126678,
+    -107.253006,
+    33.126678
+],
   "geometry": {"coordinates":[-107.253006,33.126678],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185816323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.760878,35.522108,-108.760878,35.522108",
     "geom:latitude":35.522108,
     "geom:longitude":-108.760878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Clark St",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185816323,
-    "wof:lastmodified":1449007545,
+    "wof:lastmodified":1466697638,
     "wof:name":"Frontier Motor Company Inc",
     "wof:parent_id":85802855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.760878,35.522108,-108.760878,35.522108],
-  "geometry": {"coordinates":[-108.760878,35.522108],"type":"Point"}
+  "bbox": [
+    -108.760878,
+    35.522108,
+    -108.760878,
+    35.522108
+],
+  "geometry": {"coordinates":[-108.76087800000001,35.522108],"type":"Point"}
 }

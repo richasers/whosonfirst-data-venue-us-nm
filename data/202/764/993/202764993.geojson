@@ -2,13 +2,14 @@
   "id": 202764993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.538891,33.39413,-104.538891,33.39413",
     "geom:latitude":33.39413,
     "geom:longitude":-104.538891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 W 2nd St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202764993,
-    "wof:lastmodified":1449062529,
+    "wof:lastmodified":1466699964,
     "wof:name":"Kustom Kreations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "radio"
     ]
 },
-  "bbox": [-104.538891,33.39413,-104.538891,33.39413],
-  "geometry": {"coordinates":[-104.538891,33.39413],"type":"Point"}
+  "bbox": [
+    -104.538891,
+    33.39413,
+    -104.538891,
+    33.39413
+],
+  "geometry": {"coordinates":[-104.53889100000001,33.39413],"type":"Point"}
 }

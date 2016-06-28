@@ -2,13 +2,14 @@
   "id": 169711201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.761326,32.298149,-106.761326,32.298149",
     "geom:latitude":32.298149,
     "geom:longitude":-106.761326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 S Solano Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169711201,
-    "wof:lastmodified":1449035355,
+    "wof:lastmodified":1466697680,
     "wof:name":"G&D Capital Investments",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "banking"
     ]
 },
-  "bbox": [-106.761326,32.298149,-106.761326,32.298149],
+  "bbox": [
+    -106.761326,
+    32.298149,
+    -106.761326,
+    32.298149
+],
   "geometry": {"coordinates":[-106.761326,32.298149],"type":"Point"}
 }

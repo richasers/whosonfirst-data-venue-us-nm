@@ -2,13 +2,14 @@
   "id": 203116741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.629448,35.123097,-106.629448,35.123097",
     "geom:latitude":35.123097,
     "geom:longitude":-106.629448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Rankin Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":203116741,
-    "wof:lastmodified":1449025208,
+    "wof:lastmodified":1466698911,
     "wof:name":"Secor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "prod"
     ]
 },
-  "bbox": [-106.629448,35.123097,-106.629448,35.123097],
+  "bbox": [
+    -106.629448,
+    35.123097,
+    -106.629448,
+    35.123097
+],
   "geometry": {"coordinates":[-106.629448,35.123097],"type":"Point"}
 }

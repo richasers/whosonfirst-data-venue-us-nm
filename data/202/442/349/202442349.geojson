@@ -2,13 +2,14 @@
   "id": 202442349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.583937,35.18153,-106.583937,35.18153",
     "geom:latitude":35.18153,
     "geom:longitude":-106.583937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5604 Wilshire Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202442349,
-    "wof:lastmodified":1449061235,
+    "wof:lastmodified":1466698446,
     "wof:name":"TFS Technologies",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "devices"
     ]
 },
-  "bbox": [-106.583937,35.18153,-106.583937,35.18153],
-  "geometry": {"coordinates":[-106.583937,35.18153],"type":"Point"}
+  "bbox": [
+    -106.583937,
+    35.18153,
+    -106.583937,
+    35.18153
+],
+  "geometry": {"coordinates":[-106.58393700000001,35.18153],"type":"Point"}
 }

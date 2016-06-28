@@ -2,13 +2,14 @@
   "id": 186638741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.254855,34.748815,-103.254855,34.748815",
     "geom:latitude":34.748815,
     "geom:longitude":-103.254855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1331 Co Rd 34",
     "sg:city":"Grady",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186638741,
-    "wof:lastmodified":1449050414,
+    "wof:lastmodified":1466700689,
     "wof:name":"Bailey Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.254855,34.748815,-103.254855,34.748815],
-  "geometry": {"coordinates":[-103.254855,34.748815],"type":"Point"}
+  "bbox": [
+    -103.254855,
+    34.748815,
+    -103.254855,
+    34.748815
+],
+  "geometry": {"coordinates":[-103.25485500000001,34.748815],"type":"Point"}
 }

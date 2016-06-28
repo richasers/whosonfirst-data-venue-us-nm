@@ -2,13 +2,14 @@
   "id": 202598185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.557752,35.130733,-106.557752,35.130733",
     "geom:latitude":35.130733,
     "geom:longitude":-106.557752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7600 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202598185,
-    "wof:lastmodified":1449060232,
+    "wof:lastmodified":1466698356,
     "wof:name":"Dancing Scimitar Magick Goods",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.557752,35.130733,-106.557752,35.130733],
-  "geometry": {"coordinates":[-106.557752,35.130733],"type":"Point"}
+  "bbox": [
+    -106.557752,
+    35.130733,
+    -106.557752,
+    35.130733
+],
+  "geometry": {"coordinates":[-106.55775199999999,35.130733],"type":"Point"}
 }

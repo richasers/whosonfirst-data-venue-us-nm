@@ -2,13 +2,14 @@
   "id": 202930631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.144766,32.719295,-103.144766,32.719295",
     "geom:latitude":32.719295,
     "geom:longitude":-103.144766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1718 N Grimes St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202930631,
-    "wof:lastmodified":1449060921,
+    "wof:lastmodified":1466700477,
     "wof:name":"Nunn Electric Supply Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-103.144766,32.719295,-103.144766,32.719295],
+  "bbox": [
+    -103.144766,
+    32.719295,
+    -103.144766,
+    32.719295
+],
   "geometry": {"coordinates":[-103.144766,32.719295],"type":"Point"}
 }

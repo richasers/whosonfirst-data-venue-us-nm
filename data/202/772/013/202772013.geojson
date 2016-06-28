@@ -2,13 +2,14 @@
   "id": 202772013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.834998,35.171816,-107.834998,35.171816",
     "geom:latitude":35.171816,
     "geom:longitude":-107.834998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Golden Dr",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202772013,
-    "wof:lastmodified":1449061263,
+    "wof:lastmodified":1466699968,
     "wof:name":"Taylor Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-107.834998,35.171816,-107.834998,35.171816],
+  "bbox": [
+    -107.834998,
+    35.171816,
+    -107.834998,
+    35.171816
+],
   "geometry": {"coordinates":[-107.834998,35.171816],"type":"Point"}
 }

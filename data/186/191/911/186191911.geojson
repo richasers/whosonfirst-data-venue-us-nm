@@ -2,13 +2,14 @@
   "id": 186191911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.54212,35.19168,-106.54212,35.19168",
     "geom:latitude":35.19168,
     "geom:longitude":-106.54212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9100 Florence Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186191911,
-    "wof:lastmodified":1449051985,
+    "wof:lastmodified":1466697920,
     "wof:name":"Rutledge Custom Homes-Rosemary",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.54212,35.19168,-106.54212,35.19168],
+  "bbox": [
+    -106.54212,
+    35.19168,
+    -106.54212,
+    35.19168
+],
   "geometry": {"coordinates":[-106.54212,35.19168],"type":"Point"}
 }

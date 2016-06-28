@@ -2,13 +2,14 @@
   "id": 186033803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.702504,35.081847,-106.702504,35.081847",
     "geom:latitude":35.081847,
     "geom:longitude":-106.702504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5809 Central Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186033803,
-    "wof:lastmodified":1449050960,
+    "wof:lastmodified":1466698062,
     "wof:name":"Brass Elephant LLC",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.702504,35.081847,-106.702504,35.081847],
+  "bbox": [
+    -106.702504,
+    35.081847,
+    -106.702504,
+    35.081847
+],
   "geometry": {"coordinates":[-106.702504,35.081847],"type":"Point"}
 }

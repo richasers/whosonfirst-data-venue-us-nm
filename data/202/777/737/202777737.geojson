@@ -2,13 +2,14 @@
   "id": 202777737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.945809,35.686567,-105.945809,35.686567",
     "geom:latitude":35.686567,
     "geom:longitude":-105.945809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 Agua Fria St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202777737,
-    "wof:lastmodified":1449061444,
+    "wof:lastmodified":1466699868,
     "wof:name":"San Estevan Cafe",
     "wof:parent_id":85880805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-105.945809,35.686567,-105.945809,35.686567],
+  "bbox": [
+    -105.945809,
+    35.686567,
+    -105.945809,
+    35.686567
+],
   "geometry": {"coordinates":[-105.945809,35.686567],"type":"Point"}
 }

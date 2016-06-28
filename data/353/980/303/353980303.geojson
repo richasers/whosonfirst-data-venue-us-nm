@@ -2,13 +2,14 @@
   "id": 353980303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.20624,34.398571,-103.20624,34.398571",
     "geom:latitude":34.398571,
     "geom:longitude":-103.20624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 W 1st St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353980303,
-    "wof:lastmodified":1449018429,
+    "wof:lastmodified":1466699094,
     "wof:name":"Art's Automotive Paint & Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "repairing"
     ]
 },
-  "bbox": [-103.20624,34.398571,-103.20624,34.398571],
-  "geometry": {"coordinates":[-103.20624,34.398571],"type":"Point"}
+  "bbox": [
+    -103.20624,
+    34.398571,
+    -103.20624,
+    34.398571
+],
+  "geometry": {"coordinates":[-103.20623999999999,34.398571],"type":"Point"}
 }

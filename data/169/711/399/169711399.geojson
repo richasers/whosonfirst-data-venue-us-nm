@@ -2,13 +2,14 @@
   "id": 169711399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.626217,35.192998,-106.626217,35.192998",
     "geom:latitude":35.192998,
     "geom:longitude":-106.626217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9636 Guadalupe Trl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169711399,
-    "wof:lastmodified":1449035353,
+    "wof:lastmodified":1466697682,
     "wof:name":"La Alameta Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "publishing"
     ]
 },
-  "bbox": [-106.626217,35.192998,-106.626217,35.192998],
+  "bbox": [
+    -106.626217,
+    35.192998,
+    -106.626217,
+    35.192998
+],
   "geometry": {"coordinates":[-106.626217,35.192998],"type":"Point"}
 }

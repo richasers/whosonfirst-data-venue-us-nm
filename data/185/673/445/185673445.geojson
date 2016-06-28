@@ -2,13 +2,14 @@
   "id": 185673445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.639345,35.24961,-106.639345,35.24961",
     "geom:latitude":35.24961,
     "geom:longitude":-106.639345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4801 Palmas Altas Dr SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185673445,
-    "wof:lastmodified":1449007239,
+    "wof:lastmodified":1466698390,
     "wof:name":"Creative Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-106.639345,35.24961,-106.639345,35.24961],
-  "geometry": {"coordinates":[-106.639345,35.24961],"type":"Point"}
+  "bbox": [
+    -106.639345,
+    35.24961,
+    -106.639345,
+    35.24961
+],
+  "geometry": {"coordinates":[-106.63934500000001,35.24961],"type":"Point"}
 }

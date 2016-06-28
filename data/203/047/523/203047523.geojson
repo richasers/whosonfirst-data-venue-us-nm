@@ -2,13 +2,14 @@
   "id": 203047523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.630845,35.130072,-106.630845,35.130072",
     "geom:latitude":35.130072,
     "geom:longitude":-106.630845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5001 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203047523,
-    "wof:lastmodified":1449026195,
+    "wof:lastmodified":1466698113,
     "wof:name":"Janco Sheet Metal Inc",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.630845,35.130072,-106.630845,35.130072],
-  "geometry": {"coordinates":[-106.630845,35.130072],"type":"Point"}
+  "bbox": [
+    -106.630845,
+    35.130072,
+    -106.630845,
+    35.130072
+],
+  "geometry": {"coordinates":[-106.63084499999999,35.130072],"type":"Point"}
 }

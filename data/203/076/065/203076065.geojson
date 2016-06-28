@@ -2,13 +2,14 @@
   "id": 203076065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.922105,35.592835,-105.922105,35.592835",
     "geom:latitude":35.592835,
     "geom:longitude":-105.922105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Cam Pacifico",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203076065,
-    "wof:lastmodified":1449026431,
+    "wof:lastmodified":1466699423,
     "wof:name":"Sunlit Hills Water System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sewage"
     ]
 },
-  "bbox": [-105.922105,35.592835,-105.922105,35.592835],
+  "bbox": [
+    -105.922105,
+    35.592835,
+    -105.922105,
+    35.592835
+],
   "geometry": {"coordinates":[-105.922105,35.592835],"type":"Point"}
 }

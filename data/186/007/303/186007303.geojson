@@ -2,13 +2,14 @@
   "id": 186007303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.651502,35.085496,-106.651502,35.085496",
     "geom:latitude":35.085496,
     "geom:longitude":-106.651502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186007303,
-    "wof:lastmodified":1449052548,
+    "wof:lastmodified":1466697771,
     "wof:name":"First Street NW",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.651502,35.085496,-106.651502,35.085496],
-  "geometry": {"coordinates":[-106.651502,35.085496],"type":"Point"}
+  "bbox": [
+    -106.651502,
+    35.085496,
+    -106.651502,
+    35.085496
+],
+  "geometry": {"coordinates":[-106.65150199999999,35.085496],"type":"Point"}
 }

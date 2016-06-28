@@ -2,13 +2,14 @@
   "id": 353980555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.183414,34.396631,-103.183414,34.396631",
     "geom:latitude":34.396631,
     "geom:longitude":-103.183414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 Mabry Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353980555,
-    "wof:lastmodified":1449018436,
+    "wof:lastmodified":1466699097,
     "wof:name":"1 Value Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "lodging"
     ]
 },
-  "bbox": [-103.183414,34.396631,-103.183414,34.396631],
+  "bbox": [
+    -103.183414,
+    34.396631,
+    -103.183414,
+    34.396631
+],
   "geometry": {"coordinates":[-103.183414,34.396631],"type":"Point"}
 }

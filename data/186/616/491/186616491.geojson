@@ -2,13 +2,14 @@
   "id": 186616491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.991961,35.854108,-105.991961,35.854108",
     "geom:latitude":35.854108,
     "geom:longitude":-105.991961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Vis del Rey",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186616491,
-    "wof:lastmodified":1449052325,
+    "wof:lastmodified":1466700691,
     "wof:name":"Baca & Marino Real Estate Co",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.991961,35.854108,-105.991961,35.854108],
+  "bbox": [
+    -105.991961,
+    35.854108,
+    -105.991961,
+    35.854108
+],
   "geometry": {"coordinates":[-105.991961,35.854108],"type":"Point"}
 }

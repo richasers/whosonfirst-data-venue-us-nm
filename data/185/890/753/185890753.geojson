@@ -2,13 +2,14 @@
   "id": 185890753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.52742,33.436099,-104.52742,33.436099",
     "geom:latitude":33.436099,
     "geom:longitude":-104.52742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 N Kentucky Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185890753,
-    "wof:lastmodified":1449006971,
+    "wof:lastmodified":1466698425,
     "wof:name":"Coronado Mobile Home Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "site"
     ]
 },
-  "bbox": [-104.52742,33.436099,-104.52742,33.436099],
-  "geometry": {"coordinates":[-104.52742,33.436099],"type":"Point"}
+  "bbox": [
+    -104.52742,
+    33.436099,
+    -104.52742,
+    33.436099
+],
+  "geometry": {"coordinates":[-104.52742000000001,33.436099],"type":"Point"}
 }

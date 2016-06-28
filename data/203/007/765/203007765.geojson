@@ -2,13 +2,14 @@
   "id": 203007765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.632138,35.088014,-106.632138,35.088014",
     "geom:latitude":35.088014,
     "geom:longitude":-106.632138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 Encino Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203007765,
-    "wof:lastmodified":1449026518,
+    "wof:lastmodified":1466697671,
     "wof:name":"Albuquerque Urology Assoc PA",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "urologist"
     ]
 },
-  "bbox": [-106.632138,35.088014,-106.632138,35.088014],
+  "bbox": [
+    -106.632138,
+    35.088014,
+    -106.632138,
+    35.088014
+],
   "geometry": {"coordinates":[-106.632138,35.088014],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185768885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.735632,35.530107,-108.735632,35.530107",
     "geom:latitude":35.530107,
     "geom:longitude":-108.735632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Hst Rte 66",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185768885,
-    "wof:lastmodified":1449007231,
+    "wof:lastmodified":1466699227,
     "wof:name":"Metro Finance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-108.735632,35.530107,-108.735632,35.530107],
+  "bbox": [
+    -108.735632,
+    35.530107,
+    -108.735632,
+    35.530107
+],
   "geometry": {"coordinates":[-108.735632,35.530107],"type":"Point"}
 }

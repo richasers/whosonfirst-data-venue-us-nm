@@ -2,13 +2,14 @@
   "id": 186588623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.646325,35.112663,-106.646325,35.112663",
     "geom:latitude":35.112663,
     "geom:longitude":-106.646325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2715 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186588623,
-    "wof:lastmodified":1449052483,
+    "wof:lastmodified":1466700599,
     "wof:name":"Guss Auto Sales",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.646325,35.112663,-106.646325,35.112663],
+  "bbox": [
+    -106.646325,
+    35.112663,
+    -106.646325,
+    35.112663
+],
   "geometry": {"coordinates":[-106.646325,35.112663],"type":"Point"}
 }

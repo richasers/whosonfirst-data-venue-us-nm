@@ -2,13 +2,14 @@
   "id": 185655707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.957202,32.860714,-105.957202,32.860714",
     "geom:latitude":32.860714,
     "geom:longitude":-105.957202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2266 Cherry Hills Loop",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185655707,
-    "wof:lastmodified":1449007530,
+    "wof:lastmodified":1466698191,
     "wof:name":"Berry Brothers & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "piece"
     ]
 },
-  "bbox": [-105.957202,32.860714,-105.957202,32.860714],
+  "bbox": [
+    -105.957202,
+    32.860714,
+    -105.957202,
+    32.860714
+],
   "geometry": {"coordinates":[-105.957202,32.860714],"type":"Point"}
 }

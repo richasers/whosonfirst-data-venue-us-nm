@@ -2,13 +2,14 @@
   "id": 186631359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.989582,35.659168,-105.989582,35.659168",
     "geom:latitude":35.659168,
     "geom:longitude":-105.989582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2850 Rufina St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186631359,
-    "wof:lastmodified":1449051205,
+    "wof:lastmodified":1466700751,
     "wof:name":"Karma Works LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.989582,35.659168,-105.989582,35.659168],
+  "bbox": [
+    -105.989582,
+    35.659168,
+    -105.989582,
+    35.659168
+],
   "geometry": {"coordinates":[-105.989582,35.659168],"type":"Point"}
 }

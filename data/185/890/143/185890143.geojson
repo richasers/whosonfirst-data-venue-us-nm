@@ -2,13 +2,14 @@
   "id": 185890143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.173237,34.417649,-103.173237,34.417649",
     "geom:latitude":34.417649,
     "geom:longitude":-103.173237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 Janeway St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185890143,
-    "wof:lastmodified":1449006974,
+    "wof:lastmodified":1466698421,
     "wof:name":"Bridinger's Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-103.173237,34.417649,-103.173237,34.417649],
+  "bbox": [
+    -103.173237,
+    34.417649,
+    -103.173237,
+    34.417649
+],
   "geometry": {"coordinates":[-103.173237,34.417649],"type":"Point"}
 }

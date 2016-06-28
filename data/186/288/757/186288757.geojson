@@ -2,13 +2,14 @@
   "id": 186288757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.532403,35.077773,-106.532403,35.077773",
     "geom:latitude":35.077773,
     "geom:longitude":-106.532403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186288757,
-    "wof:lastmodified":1449050528,
+    "wof:lastmodified":1466699183,
     "wof:name":"First Payday Loans",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-106.532403,35.077773,-106.532403,35.077773],
+  "bbox": [
+    -106.532403,
+    35.077773,
+    -106.532403,
+    35.077773
+],
   "geometry": {"coordinates":[-106.532403,35.077773],"type":"Point"}
 }

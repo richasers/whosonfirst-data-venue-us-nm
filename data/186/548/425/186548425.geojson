@@ -2,13 +2,14 @@
   "id": 186548425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.930121,35.678056,-105.930121,35.678056",
     "geom:latitude":35.678056,
     "geom:longitude":-105.930121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 San Antonio St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186548425,
-    "wof:lastmodified":1449052223,
+    "wof:lastmodified":1466700301,
     "wof:name":"Darrell Dawson",
     "wof:parent_id":85880803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-105.930121,35.678056,-105.930121,35.678056],
+  "bbox": [
+    -105.930121,
+    35.678056,
+    -105.930121,
+    35.678056
+],
   "geometry": {"coordinates":[-105.930121,35.678056],"type":"Point"}
 }

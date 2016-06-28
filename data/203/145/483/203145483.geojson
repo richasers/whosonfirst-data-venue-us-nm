@@ -2,13 +2,14 @@
   "id": 203145483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.381129,35.09362,-106.381129,35.09362",
     "geom:latitude":35.09362,
     "geom:longitude":-106.381129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Matterhorn Dr",
     "sg:city":"Cedar Crest",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203145483,
-    "wof:lastmodified":1449025489,
+    "wof:lastmodified":1466699124,
     "wof:name":"J & J Automotive Equipment",
     "wof:parent_id":85892613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-106.381129,35.09362,-106.381129,35.09362],
+  "bbox": [
+    -106.381129,
+    35.09362,
+    -106.381129,
+    35.09362
+],
   "geometry": {"coordinates":[-106.381129,35.09362],"type":"Point"}
 }

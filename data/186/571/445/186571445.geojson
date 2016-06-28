@@ -2,13 +2,14 @@
   "id": 186571445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.617413,35.115376,-106.617413,35.115376",
     "geom:latitude":35.115376,
     "geom:longitude":-106.617413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Candelaria Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186571445,
-    "wof:lastmodified":1449052201,
+    "wof:lastmodified":1466700658,
     "wof:name":"EPS Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "patrol"
     ]
 },
-  "bbox": [-106.617413,35.115376,-106.617413,35.115376],
+  "bbox": [
+    -106.617413,
+    35.115376,
+    -106.617413,
+    35.115376
+],
   "geometry": {"coordinates":[-106.617413,35.115376],"type":"Point"}
 }

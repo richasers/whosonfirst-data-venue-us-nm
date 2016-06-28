@@ -2,13 +2,14 @@
   "id": 186583839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.762604,34.751203,-106.762604,34.751203",
     "geom:latitude":34.751203,
     "geom:longitude":-106.762604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5128 Juan P Sanchez Rd",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186583839,
-    "wof:lastmodified":1449052447,
+    "wof:lastmodified":1466700470,
     "wof:name":"Pete's Electrical Handyman",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.762604,34.751203,-106.762604,34.751203],
+  "bbox": [
+    -106.762604,
+    34.751203,
+    -106.762604,
+    34.751203
+],
   "geometry": {"coordinates":[-106.762604,34.751203],"type":"Point"}
 }

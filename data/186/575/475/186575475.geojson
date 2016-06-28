@@ -2,13 +2,14 @@
   "id": 186575475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.556447,35.294259,-106.556447,35.294259",
     "geom:latitude":35.294259,
     "geom:longitude":-106.556447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Cll Industrial",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186575475,
-    "wof:lastmodified":1449051151,
+    "wof:lastmodified":1466700552,
     "wof:name":"Murray Drilling Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "drilling"
     ]
 },
-  "bbox": [-106.556447,35.294259,-106.556447,35.294259],
-  "geometry": {"coordinates":[-106.556447,35.294259],"type":"Point"}
+  "bbox": [
+    -106.556447,
+    35.294259,
+    -106.556447,
+    35.294259
+],
+  "geometry": {"coordinates":[-106.55644700000001,35.294259],"type":"Point"}
 }

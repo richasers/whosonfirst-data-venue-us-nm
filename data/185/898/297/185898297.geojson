@@ -2,13 +2,14 @@
   "id": 185898297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.178823,36.734924,-108.178823,36.734924",
     "geom:latitude":36.734924,
     "geom:longitude":-108.178823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 River Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185898297,
-    "wof:lastmodified":1449006571,
+    "wof:lastmodified":1466698481,
     "wof:name":"San Juan Compression LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "compressor"
     ]
 },
-  "bbox": [-108.178823,36.734924,-108.178823,36.734924],
-  "geometry": {"coordinates":[-108.178823,36.734924],"type":"Point"}
+  "bbox": [
+    -108.178823,
+    36.734924,
+    -108.178823,
+    36.734924
+],
+  "geometry": {"coordinates":[-108.17882299999999,36.734924],"type":"Point"}
 }

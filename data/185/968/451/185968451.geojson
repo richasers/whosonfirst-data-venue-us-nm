@@ -2,13 +2,14 @@
   "id": 185968451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.155985,36.719017,-108.155985,36.719017",
     "geom:latitude":36.719017,
     "geom:longitude":-108.155985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 Monroe Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185968451,
-    "wof:lastmodified":1449006698,
+    "wof:lastmodified":1466699554,
     "wof:name":"Lufkin Industries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gear"
     ]
 },
-  "bbox": [-108.155985,36.719017,-108.155985,36.719017],
+  "bbox": [
+    -108.155985,
+    36.719017,
+    -108.155985,
+    36.719017
+],
   "geometry": {"coordinates":[-108.155985,36.719017],"type":"Point"}
 }

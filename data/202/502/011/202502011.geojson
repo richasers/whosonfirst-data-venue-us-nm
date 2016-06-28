@@ -2,13 +2,14 @@
   "id": 202502011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.934722,35.674659,-105.934722,35.674659",
     "geom:latitude":35.674659,
     "geom:longitude":-105.934722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"832 Old Santa Fe Trl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202502011,
-    "wof:lastmodified":1449061290,
+    "wof:lastmodified":1466699461,
     "wof:name":"Balink's Studio",
     "wof:parent_id":85880793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.934722,35.674659,-105.934722,35.674659],
-  "geometry": {"coordinates":[-105.934722,35.674659],"type":"Point"}
+  "bbox": [
+    -105.934722,
+    35.674659,
+    -105.934722,
+    35.674659
+],
+  "geometry": {"coordinates":[-105.93472199999999,35.674659],"type":"Point"}
 }

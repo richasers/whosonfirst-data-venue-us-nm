@@ -2,13 +2,14 @@
   "id": 202803517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.601533,35.260437,-106.601533,35.260437",
     "geom:latitude":35.260437,
     "geom:longitude":-106.601533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7227 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202803517,
-    "wof:lastmodified":1449062683,
+    "wof:lastmodified":1466699987,
     "wof:name":"Milagro International",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-106.601533,35.260437,-106.601533,35.260437],
+  "bbox": [
+    -106.601533,
+    35.260437,
+    -106.601533,
+    35.260437
+],
   "geometry": {"coordinates":[-106.601533,35.260437],"type":"Point"}
 }

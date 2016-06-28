@@ -2,13 +2,14 @@
   "id": 202647517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.602137,35.109293,-106.602137,35.109293",
     "geom:latitude":35.109293,
     "geom:longitude":-106.602137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3621 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":202647517,
-    "wof:lastmodified":1449061326,
+    "wof:lastmodified":1466699103,
     "wof:name":"Style America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.602137,35.109293,-106.602137,35.109293],
+  "bbox": [
+    -106.602137,
+    35.109293,
+    -106.602137,
+    35.109293
+],
   "geometry": {"coordinates":[-106.602137,35.109293],"type":"Point"}
 }

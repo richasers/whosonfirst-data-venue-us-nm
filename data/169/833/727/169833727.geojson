@@ -2,13 +2,14 @@
   "id": 169833727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.241647,34.520285,-106.241647,34.520285",
     "geom:latitude":34.520285,
     "geom:longitude":-106.241647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 US Hwy 60",
     "sg:city":"Mountainair",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169833727,
-    "wof:lastmodified":1449033106,
+    "wof:lastmodified":1466698818,
     "wof:name":"Hair Enchantment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.241647,34.520285,-106.241647,34.520285],
+  "bbox": [
+    -106.241647,
+    34.520285,
+    -106.241647,
+    34.520285
+],
   "geometry": {"coordinates":[-106.241647,34.520285],"type":"Point"}
 }

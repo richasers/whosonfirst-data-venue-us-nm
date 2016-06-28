@@ -2,13 +2,14 @@
   "id": 186635057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.247131,36.74339,-108.247131,36.74339",
     "geom:latitude":36.74339,
     "geom:longitude":-108.247131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2805 Inland St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186635057,
-    "wof:lastmodified":1449051528,
+    "wof:lastmodified":1466700765,
     "wof:name":"Hoerbiger Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.247131,36.74339,-108.247131,36.74339],
+  "bbox": [
+    -108.247131,
+    36.74339,
+    -108.247131,
+    36.74339
+],
   "geometry": {"coordinates":[-108.247131,36.74339],"type":"Point"}
 }

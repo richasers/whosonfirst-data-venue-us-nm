@@ -2,13 +2,14 @@
   "id": 202778751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.554578,35.146839,-106.554578,35.146839",
     "geom:latitude":35.146839,
     "geom:longitude":-106.554578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5901 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202778751,
-    "wof:lastmodified":1449060147,
+    "wof:lastmodified":1466699766,
     "wof:name":"Carolyn Groff Appraisal",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-106.554578,35.146839,-106.554578,35.146839],
-  "geometry": {"coordinates":[-106.554578,35.146839],"type":"Point"}
+  "bbox": [
+    -106.554578,
+    35.146839,
+    -106.554578,
+    35.146839
+],
+  "geometry": {"coordinates":[-106.55457800000001,35.146839],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185961365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.700309,35.106342,-106.700309,35.106342",
     "geom:latitude":35.106342,
     "geom:longitude":-106.700309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Atrisco Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185961365,
-    "wof:lastmodified":1449008155,
+    "wof:lastmodified":1466699392,
     "wof:name":"SEED Graduate Institute",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-106.700309,35.106342,-106.700309,35.106342],
+  "bbox": [
+    -106.700309,
+    35.106342,
+    -106.700309,
+    35.106342
+],
   "geometry": {"coordinates":[-106.700309,35.106342],"type":"Point"}
 }

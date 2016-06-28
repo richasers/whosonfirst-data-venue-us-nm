@@ -2,13 +2,14 @@
   "id": 185960219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.934343,35.688339,-105.934343,35.688339",
     "geom:latitude":35.688339,
     "geom:longitude":-105.934343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 E Marcy Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185960219,
-    "wof:lastmodified":1449007750,
+    "wof:lastmodified":1466699475,
     "wof:name":"Vervelabs Santa Fe LLC",
     "wof:parent_id":85880807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-105.934343,35.688339,-105.934343,35.688339],
+  "bbox": [
+    -105.934343,
+    35.688339,
+    -105.934343,
+    35.688339
+],
   "geometry": {"coordinates":[-105.934343,35.688339],"type":"Point"}
 }

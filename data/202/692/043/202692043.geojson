@@ -2,13 +2,14 @@
   "id": 202692043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781968,32.311253,-106.781968,32.311253",
     "geom:latitude":32.311253,
     "geom:longitude":-106.781968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"337 N Alameda Blvd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202692043,
-    "wof:lastmodified":1449060791,
+    "wof:lastmodified":1466699451,
     "wof:name":"W K Studio-Hair & Skin Care",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skin"
     ]
 },
-  "bbox": [-106.781968,32.311253,-106.781968,32.311253],
-  "geometry": {"coordinates":[-106.781968,32.311253],"type":"Point"}
+  "bbox": [
+    -106.781968,
+    32.311253,
+    -106.781968,
+    32.311253
+],
+  "geometry": {"coordinates":[-106.78196800000001,32.311253],"type":"Point"}
 }

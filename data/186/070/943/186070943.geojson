@@ -2,13 +2,14 @@
   "id": 186070943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.194807,34.423008,-103.194807,34.423008",
     "geom:latitude":34.423008,
     "geom:longitude":-103.194807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 Parkland Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186070943,
-    "wof:lastmodified":1449051680,
+    "wof:lastmodified":1466698549,
     "wof:name":"Brian A Zarikta DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.194807,34.423008,-103.194807,34.423008],
+  "bbox": [
+    -103.194807,
+    34.423008,
+    -103.194807,
+    34.423008
+],
   "geometry": {"coordinates":[-103.194807,34.423008],"type":"Point"}
 }

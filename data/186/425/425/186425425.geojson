@@ -2,13 +2,14 @@
   "id": 186425425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.820878,32.379265,-106.820878,32.379265",
     "geom:latitude":32.379265,
     "geom:longitude":-106.820878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5369 Dona Ana Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186425425,
-    "wof:lastmodified":1449051339,
+    "wof:lastmodified":1466699819,
     "wof:name":"Clean-Cut Lawn Svc Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "grounds"
     ]
 },
-  "bbox": [-106.820878,32.379265,-106.820878,32.379265],
-  "geometry": {"coordinates":[-106.820878,32.379265],"type":"Point"}
+  "bbox": [
+    -106.820878,
+    32.379265,
+    -106.820878,
+    32.379265
+],
+  "geometry": {"coordinates":[-106.82087799999999,32.379265],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185766427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.945272,35.691273,-105.945272,35.691273",
     "geom:latitude":35.691273,
     "geom:longitude":-105.945272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N Guadalupe St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185766427,
-    "wof:lastmodified":1449006577,
+    "wof:lastmodified":1466699219,
     "wof:name":"Allsup's Convenience Store",
     "wof:parent_id":85880833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.945272,35.691273,-105.945272,35.691273],
+  "bbox": [
+    -105.945272,
+    35.691273,
+    -105.945272,
+    35.691273
+],
   "geometry": {"coordinates":[-105.945272,35.691273],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353948313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.546204,35.146149,-106.546204,35.146149",
     "geom:latitude":35.146149,
     "geom:longitude":-106.546204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 Moon St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353948313,
-    "wof:lastmodified":1449020295,
+    "wof:lastmodified":1466698522,
     "wof:name":"La Paloma",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "finder"
     ]
 },
-  "bbox": [-106.546204,35.146149,-106.546204,35.146149],
+  "bbox": [
+    -106.546204,
+    35.146149,
+    -106.546204,
+    35.146149
+],
   "geometry": {"coordinates":[-106.546204,35.146149],"type":"Point"}
 }

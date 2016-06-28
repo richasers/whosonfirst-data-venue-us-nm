@@ -2,13 +2,14 @@
   "id": 202916145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.764486,32.275715,-106.764486,32.275715",
     "geom:latitude":32.275715,
     "geom:longitude":-106.764486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Union Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202916145,
-    "wof:lastmodified":1449061501,
+    "wof:lastmodified":1466700409,
     "wof:name":"A & R Home Products",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.764486,32.275715,-106.764486,32.275715],
-  "geometry": {"coordinates":[-106.764486,32.275715],"type":"Point"}
+  "bbox": [
+    -106.764486,
+    32.275715,
+    -106.764486,
+    32.275715
+],
+  "geometry": {"coordinates":[-106.76448600000001,32.275715],"type":"Point"}
 }

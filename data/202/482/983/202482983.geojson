@@ -2,13 +2,14 @@
   "id": 202482983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.264669,32.783584,-108.264669,32.783584",
     "geom:latitude":32.783584,
     "geom:longitude":-108.264669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Silver Heights Blvd",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202482983,
-    "wof:lastmodified":1449061005,
+    "wof:lastmodified":1466699012,
     "wof:name":"Ace T V Rentals 415",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.264669,32.783584,-108.264669,32.783584],
+  "bbox": [
+    -108.264669,
+    32.783584,
+    -108.264669,
+    32.783584
+],
   "geometry": {"coordinates":[-108.264669,32.783584],"type":"Point"}
 }

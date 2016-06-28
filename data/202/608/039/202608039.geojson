@@ -2,13 +2,14 @@
   "id": 202608039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.530549,33.403437,-104.530549,33.403437",
     "geom:latitude":33.403437,
     "geom:longitude":-104.530549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 W 10th St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202608039,
-    "wof:lastmodified":1449061202,
+    "wof:lastmodified":1466698487,
     "wof:name":"Hanagans House of Hair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-104.530549,33.403437,-104.530549,33.403437],
-  "geometry": {"coordinates":[-104.530549,33.403437],"type":"Point"}
+  "bbox": [
+    -104.530549,
+    33.403437,
+    -104.530549,
+    33.403437
+],
+  "geometry": {"coordinates":[-104.53054899999999,33.403437],"type":"Point"}
 }

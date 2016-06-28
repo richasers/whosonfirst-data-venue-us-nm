@@ -2,13 +2,14 @@
   "id": 186073289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.592648,35.064628,-106.592648,35.064628",
     "geom:latitude":35.064628,
     "geom:longitude":-106.592648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 Jefferson St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186073289,
-    "wof:lastmodified":1449050724,
+    "wof:lastmodified":1466698552,
     "wof:name":"All of Above",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.592648,35.064628,-106.592648,35.064628],
+  "bbox": [
+    -106.592648,
+    35.064628,
+    -106.592648,
+    35.064628
+],
   "geometry": {"coordinates":[-106.592648,35.064628],"type":"Point"}
 }

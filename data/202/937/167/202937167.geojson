@@ -2,13 +2,14 @@
   "id": 202937167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.153286,32.773057,-108.153286,32.773057",
     "geom:latitude":32.773057,
     "geom:longitude":-108.153286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Mill St",
     "sg:city":"Santa Clara",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202937167,
-    "wof:lastmodified":1449060590,
+    "wof:lastmodified":1466700366,
     "wof:name":"Kirker's Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "upholstery"
     ]
 },
-  "bbox": [-108.153286,32.773057,-108.153286,32.773057],
-  "geometry": {"coordinates":[-108.153286,32.773057],"type":"Point"}
+  "bbox": [
+    -108.153286,
+    32.773057,
+    -108.153286,
+    32.773057
+],
+  "geometry": {"coordinates":[-108.15328599999999,32.773057],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202712777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.958848,32.92177,-105.958848,32.92177",
     "geom:latitude":32.92177,
     "geom:longitude":-105.958848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 Lawrence Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202712777,
-    "wof:lastmodified":1449061204,
+    "wof:lastmodified":1466699654,
     "wof:name":"New Mxico Mtrcylce Safety Inst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "motorcycle"
     ]
 },
-  "bbox": [-105.958848,32.92177,-105.958848,32.92177],
+  "bbox": [
+    -105.958848,
+    32.92177,
+    -105.958848,
+    32.92177
+],
   "geometry": {"coordinates":[-105.958848,32.92177],"type":"Point"}
 }

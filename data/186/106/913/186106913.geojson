@@ -2,13 +2,14 @@
   "id": 186106913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.95164,35.667808,-105.95164,35.667808",
     "geom:latitude":35.667808,
     "geom:longitude":-105.95164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 Luisa Ct",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186106913,
-    "wof:lastmodified":1449050203,
+    "wof:lastmodified":1466698987,
     "wof:name":"Purely Skin & Hair Inc",
     "wof:parent_id":85880837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-105.95164,35.667808,-105.95164,35.667808],
+  "bbox": [
+    -105.95164,
+    35.667808,
+    -105.95164,
+    35.667808
+],
   "geometry": {"coordinates":[-105.95164,35.667808],"type":"Point"}
 }

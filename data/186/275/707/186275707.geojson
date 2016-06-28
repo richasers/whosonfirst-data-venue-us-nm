@@ -2,13 +2,14 @@
   "id": 186275707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.206392,34.401755,-103.206392,34.401755",
     "geom:latitude":34.401755,
     "geom:longitude":-103.206392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 W 4th St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186275707,
-    "wof:lastmodified":1449051252,
+    "wof:lastmodified":1466698999,
     "wof:name":"Harbinger Environmental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.206392,34.401755,-103.206392,34.401755],
-  "geometry": {"coordinates":[-103.206392,34.401755],"type":"Point"}
+  "bbox": [
+    -103.206392,
+    34.401755,
+    -103.206392,
+    34.401755
+],
+  "geometry": {"coordinates":[-103.20639199999999,34.401755],"type":"Point"}
 }

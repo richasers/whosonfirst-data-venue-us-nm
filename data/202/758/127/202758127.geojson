@@ -2,13 +2,14 @@
   "id": 202758127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.348466,32.842658,-104.348466,32.842658",
     "geom:latitude":32.842658,
     "geom:longitude":-104.348466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11032 Lovington Hwy",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202758127,
-    "wof:lastmodified":1449060881,
+    "wof:lastmodified":1466699824,
     "wof:name":"Steves 4 Wheel Drive",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "repair"
     ]
 },
-  "bbox": [-104.348466,32.842658,-104.348466,32.842658],
+  "bbox": [
+    -104.348466,
+    32.842658,
+    -104.348466,
+    32.842658
+],
   "geometry": {"coordinates":[-104.348466,32.842658],"type":"Point"}
 }

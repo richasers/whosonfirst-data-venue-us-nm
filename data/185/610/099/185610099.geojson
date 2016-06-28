@@ -2,13 +2,14 @@
   "id": 185610099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.595052,35.141449,-106.595052,35.141449",
     "geom:latitude":35.141449,
     "geom:longitude":-106.595052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5310 Pan American Fwy",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185610099,
-    "wof:lastmodified":1449008168,
+    "wof:lastmodified":1466697694,
     "wof:name":"Backyard Sports",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.595052,35.141449,-106.595052,35.141449],
+  "bbox": [
+    -106.595052,
+    35.141449,
+    -106.595052,
+    35.141449
+],
   "geometry": {"coordinates":[-106.595052,35.141449],"type":"Point"}
 }

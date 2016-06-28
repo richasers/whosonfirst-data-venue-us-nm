@@ -2,13 +2,14 @@
   "id": 185606575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.585867,35.181551,-106.585867,35.181551",
     "geom:latitude":35.181551,
     "geom:longitude":-106.585867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 Wilshire Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185606575,
-    "wof:lastmodified":1449006860,
+    "wof:lastmodified":1466697653,
     "wof:name":"MBC Lawn & Landscaping Svc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.585867,35.181551,-106.585867,35.181551],
-  "geometry": {"coordinates":[-106.585867,35.181551],"type":"Point"}
+  "bbox": [
+    -106.585867,
+    35.181551,
+    -106.585867,
+    35.181551
+],
+  "geometry": {"coordinates":[-106.58586699999999,35.181551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186040735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.522825,33.395337,-104.522825,33.395337",
     "geom:latitude":33.395337,
     "geom:longitude":-104.522825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 N Main St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186040735,
-    "wof:lastmodified":1449052963,
+    "wof:lastmodified":1466698143,
     "wof:name":"Alienspacecraft Ufo Research",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "t"
     ]
 },
-  "bbox": [-104.522825,33.395337,-104.522825,33.395337],
+  "bbox": [
+    -104.522825,
+    33.395337,
+    -104.522825,
+    33.395337
+],
   "geometry": {"coordinates":[-104.522825,33.395337],"type":"Point"}
 }

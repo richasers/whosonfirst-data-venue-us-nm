@@ -2,13 +2,14 @@
   "id": 185973771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.674049,33.342286,-105.674049,33.342286",
     "geom:latitude":33.342286,
     "geom:longitude":-105.674049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Mechem Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185973771,
-    "wof:lastmodified":1449007577,
+    "wof:lastmodified":1466699582,
     "wof:name":"White Mountain Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.674049,33.342286,-105.674049,33.342286],
+  "bbox": [
+    -105.674049,
+    33.342286,
+    -105.674049,
+    33.342286
+],
   "geometry": {"coordinates":[-105.674049,33.342286],"type":"Point"}
 }

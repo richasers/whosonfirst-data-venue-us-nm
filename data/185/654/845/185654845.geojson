@@ -2,13 +2,14 @@
   "id": 185654845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.585821,35.144817,-106.585821,35.144817",
     "geom:latitude":35.144817,
     "geom:longitude":-106.585821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5736 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185654845,
-    "wof:lastmodified":1449007142,
+    "wof:lastmodified":1466698180,
     "wof:name":"Velasquez Enterprises",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.585821,35.144817,-106.585821,35.144817],
+  "bbox": [
+    -106.585821,
+    35.144817,
+    -106.585821,
+    35.144817
+],
   "geometry": {"coordinates":[-106.585821,35.144817],"type":"Point"}
 }

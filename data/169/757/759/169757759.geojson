@@ -2,13 +2,14 @@
   "id": 169757759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.706495,35.110965,-106.706495,35.110965",
     "geom:latitude":35.110965,
     "geom:longitude":-106.706495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2415 Tompiro Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169757759,
-    "wof:lastmodified":1449034552,
+    "wof:lastmodified":1466698145,
     "wof:name":"Adoption Connection",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.706495,35.110965,-106.706495,35.110965],
+  "bbox": [
+    -106.706495,
+    35.110965,
+    -106.706495,
+    35.110965
+],
   "geometry": {"coordinates":[-106.706495,35.110965],"type":"Point"}
 }

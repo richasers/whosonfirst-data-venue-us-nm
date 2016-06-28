@@ -2,13 +2,14 @@
   "id": 186126753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.436385,35.066936,-106.436385,35.066936",
     "geom:latitude":35.066936,
     "geom:longitude":-106.436385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Atanacio Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186126753,
-    "wof:lastmodified":1449051371,
+    "wof:lastmodified":1466699147,
     "wof:name":"Sandia Die & Cartridge",
     "wof:parent_id":85892573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.436385,35.066936,-106.436385,35.066936],
+  "bbox": [
+    -106.436385,
+    35.066936,
+    -106.436385,
+    35.066936
+],
   "geometry": {"coordinates":[-106.436385,35.066936],"type":"Point"}
 }

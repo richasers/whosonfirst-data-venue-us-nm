@@ -2,13 +2,14 @@
   "id": 186447227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.182981,36.451758,-103.182981,36.451758",
     "geom:latitude":36.451758,
     "geom:longitude":-103.182981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Walnut St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186447227,
-    "wof:lastmodified":1449052244,
+    "wof:lastmodified":1466699919,
     "wof:name":"Golden Spread Rural Frontier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.182981,36.451758,-103.182981,36.451758],
+  "bbox": [
+    -103.182981,
+    36.451758,
+    -103.182981,
+    36.451758
+],
   "geometry": {"coordinates":[-103.182981,36.451758],"type":"Point"}
 }

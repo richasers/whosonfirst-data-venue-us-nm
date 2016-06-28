@@ -2,13 +2,14 @@
   "id": 202790247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.159435,36.756752,-108.159435,36.756752",
     "geom:latitude":36.756752,
     "geom:longitude":-108.159435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3310 Edgecliff Dr",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202790247,
-    "wof:lastmodified":1449062071,
+    "wof:lastmodified":1466699953,
     "wof:name":"Mr Tax",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-108.159435,36.756752,-108.159435,36.756752],
+  "bbox": [
+    -108.159435,
+    36.756752,
+    -108.159435,
+    36.756752
+],
   "geometry": {"coordinates":[-108.159435,36.756752],"type":"Point"}
 }

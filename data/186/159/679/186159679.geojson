@@ -2,13 +2,14 @@
   "id": 186159679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.771756,32.263394,-106.771756,32.263394",
     "geom:latitude":32.263394,
     "geom:longitude":-106.771756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 Cll de Las Margaritas",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186159679,
-    "wof:lastmodified":1449050592,
+    "wof:lastmodified":1466699359,
     "wof:name":"Skoshi Mobile Manor",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-106.771756,32.263394,-106.771756,32.263394],
+  "bbox": [
+    -106.771756,
+    32.263394,
+    -106.771756,
+    32.263394
+],
   "geometry": {"coordinates":[-106.771756,32.263394],"type":"Point"}
 }

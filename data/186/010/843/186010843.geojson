@@ -2,13 +2,14 @@
   "id": 186010843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.679182,35.107667,-106.679182,35.107667",
     "geom:latitude":35.107667,
     "geom:longitude":-106.679182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2812 San Marcial St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186010843,
-    "wof:lastmodified":1449052037,
+    "wof:lastmodified":1466697812,
     "wof:name":"Mobile X Ray",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "x"
     ]
 },
-  "bbox": [-106.679182,35.107667,-106.679182,35.107667],
+  "bbox": [
+    -106.679182,
+    35.107667,
+    -106.679182,
+    35.107667
+],
   "geometry": {"coordinates":[-106.679182,35.107667],"type":"Point"}
 }

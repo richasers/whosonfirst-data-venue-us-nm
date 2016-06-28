@@ -2,13 +2,14 @@
   "id": 169702921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.191459,35.062367,-106.191459,35.062367",
     "geom:latitude":35.062367,
     "geom:longitude":-106.191459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 State Rd 344",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169702921,
-    "wof:lastmodified":1449034339,
+    "wof:lastmodified":1466697629,
     "wof:name":"Home Run Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.191459,35.062367,-106.191459,35.062367],
-  "geometry": {"coordinates":[-106.191459,35.062367],"type":"Point"}
+  "bbox": [
+    -106.191459,
+    35.062367,
+    -106.191459,
+    35.062367
+],
+  "geometry": {"coordinates":[-106.19145899999999,35.062367],"type":"Point"}
 }

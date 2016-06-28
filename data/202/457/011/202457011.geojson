@@ -2,13 +2,14 @@
   "id": 202457011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.643371,35.07568,-106.643371,35.07568",
     "geom:latitude":35.07568,
     "geom:longitude":-106.643371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Santa Fe Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202457011,
-    "wof:lastmodified":1449061791,
+    "wof:lastmodified":1466699428,
     "wof:name":"Joy Light Church God In Christ",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.643371,35.07568,-106.643371,35.07568],
+  "bbox": [
+    -106.643371,
+    35.07568,
+    -106.643371,
+    35.07568
+],
   "geometry": {"coordinates":[-106.643371,35.07568],"type":"Point"}
 }

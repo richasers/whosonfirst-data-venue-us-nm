@@ -2,13 +2,14 @@
   "id": 186013565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.127545,32.72029,-103.127545,32.72029",
     "geom:latitude":32.72029,
     "geom:longitude":-103.127545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 N Dal Paso St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186013565,
-    "wof:lastmodified":1449052186,
+    "wof:lastmodified":1466697847,
     "wof:name":"Occupational Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "safety"
     ]
 },
-  "bbox": [-103.127545,32.72029,-103.127545,32.72029],
+  "bbox": [
+    -103.127545,
+    32.72029,
+    -103.127545,
+    32.72029
+],
   "geometry": {"coordinates":[-103.127545,32.72029],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185823271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.714374,32.342416,-108.714374,32.342416",
     "geom:latitude":32.342416,
     "geom:longitude":-108.714374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Maple St",
     "sg:city":"Lordsburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185823271,
-    "wof:lastmodified":1449008179,
+    "wof:lastmodified":1466697715,
     "wof:name":"El Tapatio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.714374,32.342416,-108.714374,32.342416],
-  "geometry": {"coordinates":[-108.714374,32.342416],"type":"Point"}
+  "bbox": [
+    -108.714374,
+    32.342416,
+    -108.714374,
+    32.342416
+],
+  "geometry": {"coordinates":[-108.71437400000001,32.342416],"type":"Point"}
 }

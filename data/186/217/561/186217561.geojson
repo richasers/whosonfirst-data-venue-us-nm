@@ -2,13 +2,14 @@
   "id": 186217561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.990439,35.651269,-105.990439,35.651269",
     "geom:latitude":35.651269,
     "geom:longitude":-105.990439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Cll la Resolana",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186217561,
-    "wof:lastmodified":1449052871,
+    "wof:lastmodified":1466698242,
     "wof:name":"Practically Speaking",
     "wof:parent_id":85880845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.990439,35.651269,-105.990439,35.651269],
-  "geometry": {"coordinates":[-105.990439,35.651269],"type":"Point"}
+  "bbox": [
+    -105.990439,
+    35.651269,
+    -105.990439,
+    35.651269
+],
+  "geometry": {"coordinates":[-105.99043899999999,35.651269],"type":"Point"}
 }

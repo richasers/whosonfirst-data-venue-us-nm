@@ -2,13 +2,14 @@
   "id": 186204387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.637452,35.158701,-106.637452,35.158701",
     "geom:latitude":35.158701,
     "geom:longitude":-106.637452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6777 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186204387,
-    "wof:lastmodified":1449053100,
+    "wof:lastmodified":1466698081,
     "wof:name":"C A Transmissions Inc",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-106.637452,35.158701,-106.637452,35.158701],
+  "bbox": [
+    -106.637452,
+    35.158701,
+    -106.637452,
+    35.158701
+],
   "geometry": {"coordinates":[-106.637452,35.158701],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186534989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.993156,35.59327,-105.993156,35.59327",
     "geom:latitude":35.59327,
     "geom:longitude":-105.993156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Basket Maker Ct",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186534989,
-    "wof:lastmodified":1449051091,
+    "wof:lastmodified":1466700263,
     "wof:name":"Rancho Viejo Master Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.993156,35.59327,-105.993156,35.59327],
+  "bbox": [
+    -105.993156,
+    35.59327,
+    -105.993156,
+    35.59327
+],
   "geometry": {"coordinates":[-105.993156,35.59327],"type":"Point"}
 }

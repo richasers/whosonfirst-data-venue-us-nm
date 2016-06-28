@@ -2,13 +2,14 @@
   "id": 202580521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.531015,33.377635,-104.531015,33.377635",
     "geom:latitude":33.377635,
     "geom:longitude":-104.531015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 S Missouri Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202580521,
-    "wof:lastmodified":1449061801,
+    "wof:lastmodified":1466698094,
     "wof:name":"TLC Carpet Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.531015,33.377635,-104.531015,33.377635],
+  "bbox": [
+    -104.531015,
+    33.377635,
+    -104.531015,
+    33.377635
+],
   "geometry": {"coordinates":[-104.531015,33.377635],"type":"Point"}
 }

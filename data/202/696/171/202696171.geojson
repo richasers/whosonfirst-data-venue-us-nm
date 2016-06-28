@@ -2,13 +2,14 @@
   "id": 202696171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.52193,35.145961,-106.52193,35.145961",
     "geom:latitude":35.145961,
     "geom:longitude":-106.52193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10408 Manzanillo Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202696171,
-    "wof:lastmodified":1449060304,
+    "wof:lastmodified":1466699603,
     "wof:name":"All Trades Constrution",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.52193,35.145961,-106.52193,35.145961],
+  "bbox": [
+    -106.52193,
+    35.145961,
+    -106.52193,
+    35.145961
+],
   "geometry": {"coordinates":[-106.52193,35.145961],"type":"Point"}
 }

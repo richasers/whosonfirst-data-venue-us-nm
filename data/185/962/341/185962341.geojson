@@ -2,13 +2,14 @@
   "id": 185962341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.558202,35.090043,-106.558202,35.090043",
     "geom:latitude":35.090043,
     "geom:longitude":-106.558202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7900 Pennsylvania Cir NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185962341,
-    "wof:lastmodified":1449007563,
+    "wof:lastmodified":1466699496,
     "wof:name":"James Cindy A CPA",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-106.558202,35.090043,-106.558202,35.090043],
-  "geometry": {"coordinates":[-106.558202,35.090043],"type":"Point"}
+  "bbox": [
+    -106.558202,
+    35.090043,
+    -106.558202,
+    35.090043
+],
+  "geometry": {"coordinates":[-106.55820199999999,35.090043],"type":"Point"}
 }

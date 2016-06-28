@@ -2,13 +2,14 @@
   "id": 186302795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.138686,32.698623,-103.138686,32.698623",
     "geom:latitude":32.698623,
     "geom:longitude":-103.138686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 W White St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186302795,
-    "wof:lastmodified":1449051291,
+    "wof:lastmodified":1466699374,
     "wof:name":"New Image Auto Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "body"
     ]
 },
-  "bbox": [-103.138686,32.698623,-103.138686,32.698623],
-  "geometry": {"coordinates":[-103.138686,32.698623],"type":"Point"}
+  "bbox": [
+    -103.138686,
+    32.698623,
+    -103.138686,
+    32.698623
+],
+  "geometry": {"coordinates":[-103.13868600000001,32.698623],"type":"Point"}
 }

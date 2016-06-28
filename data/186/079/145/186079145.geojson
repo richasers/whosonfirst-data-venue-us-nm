@@ -2,13 +2,14 @@
   "id": 186079145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.337109,36.731324,-108.337109,36.731324",
     "geom:latitude":36.731324,
     "geom:longitude":-108.337109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Rd 6285",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186079145,
-    "wof:lastmodified":1449052555,
+    "wof:lastmodified":1466698628,
     "wof:name":"Robbins Remodeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.337109,36.731324,-108.337109,36.731324],
+  "bbox": [
+    -108.337109,
+    36.731324,
+    -108.337109,
+    36.731324
+],
   "geometry": {"coordinates":[-108.337109,36.731324],"type":"Point"}
 }

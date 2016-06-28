@@ -2,13 +2,14 @@
   "id": 202979181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.594963,36.372133,-105.594963,36.372133",
     "geom:latitude":36.372133,
     "geom:longitude":-105.594963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1033 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202979181,
-    "wof:lastmodified":1449061892,
+    "wof:lastmodified":1466700698,
     "wof:name":"Adventure Ski Shops",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "skiing"
     ]
 },
-  "bbox": [-105.594963,36.372133,-105.594963,36.372133],
-  "geometry": {"coordinates":[-105.594963,36.372133],"type":"Point"}
+  "bbox": [
+    -105.594963,
+    36.372133,
+    -105.594963,
+    36.372133
+],
+  "geometry": {"coordinates":[-105.59496300000001,36.372133],"type":"Point"}
 }

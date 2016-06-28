@@ -2,13 +2,14 @@
   "id": 186241007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.620316,35.109706,-106.620316,35.109706",
     "geom:latitude":35.109706,
     "geom:longitude":-106.620316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2412 Princeton Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186241007,
-    "wof:lastmodified":1449052969,
+    "wof:lastmodified":1466698541,
     "wof:name":"Flexible Liner Undgrd Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "facility"
     ]
 },
-  "bbox": [-106.620316,35.109706,-106.620316,35.109706],
+  "bbox": [
+    -106.620316,
+    35.109706,
+    -106.620316,
+    35.109706
+],
   "geometry": {"coordinates":[-106.620316,35.109706],"type":"Point"}
 }

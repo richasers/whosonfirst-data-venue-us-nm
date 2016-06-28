@@ -2,13 +2,14 @@
   "id": 169834609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.587424,35.138646,-106.587424,35.138646",
     "geom:latitude":35.138646,
     "geom:longitude":-106.587424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4815 McLeod Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169834609,
-    "wof:lastmodified":1449032973,
+    "wof:lastmodified":1466698828,
     "wof:name":"Enchantment Carpet Company",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rug"
     ]
 },
-  "bbox": [-106.587424,35.138646,-106.587424,35.138646],
+  "bbox": [
+    -106.587424,
+    35.138646,
+    -106.587424,
+    35.138646
+],
   "geometry": {"coordinates":[-106.587424,35.138646],"type":"Point"}
 }

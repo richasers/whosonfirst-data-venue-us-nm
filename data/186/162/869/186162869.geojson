@@ -2,13 +2,14 @@
   "id": 186162869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.090645,34.448299,-103.090645,34.448299",
     "geom:latitude":34.448299,
     "geom:longitude":-103.090645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1244 C R D",
     "sg:city":"Texico",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186162869,
-    "wof:lastmodified":1449052624,
+    "wof:lastmodified":1466699368,
     "wof:name":"Desperado Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.090645,34.448299,-103.090645,34.448299],
-  "geometry": {"coordinates":[-103.090645,34.448299],"type":"Point"}
+  "bbox": [
+    -103.090645,
+    34.448299,
+    -103.090645,
+    34.448299
+],
+  "geometry": {"coordinates":[-103.09064499999999,34.448299],"type":"Point"}
 }

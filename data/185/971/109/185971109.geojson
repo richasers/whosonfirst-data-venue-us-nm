@@ -2,13 +2,14 @@
   "id": 185971109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.706191,35.115653,-106.706191,35.115653",
     "geom:latitude":35.115653,
     "geom:longitude":-106.706191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5905 Prenda de Oro Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185971109,
-    "wof:lastmodified":1449007446,
+    "wof:lastmodified":1466699562,
     "wof:name":"Duke City Movers Inc",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-106.706191,35.115653,-106.706191,35.115653],
+  "bbox": [
+    -106.706191,
+    35.115653,
+    -106.706191,
+    35.115653
+],
   "geometry": {"coordinates":[-106.706191,35.115653],"type":"Point"}
 }

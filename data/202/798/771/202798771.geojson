@@ -2,13 +2,14 @@
   "id": 202798771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.582031,33.332617,-105.582031,33.332617",
     "geom:latitude":33.332617,
     "geom:longitude":-105.582031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Canyon Rd",
     "sg:city":"Ruidoso Downs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202798771,
-    "wof:lastmodified":1449060580,
+    "wof:lastmodified":1466699977,
     "wof:name":"Maldonado Dry Wall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.582031,33.332617,-105.582031,33.332617],
+  "bbox": [
+    -105.582031,
+    33.332617,
+    -105.582031,
+    33.332617
+],
   "geometry": {"coordinates":[-105.582031,33.332617],"type":"Point"}
 }

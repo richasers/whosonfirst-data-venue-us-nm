@@ -2,13 +2,14 @@
   "id": 202424657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.725571,34.820951,-106.725571,34.820951",
     "geom:latitude":34.820951,
     "geom:longitude":-106.725571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 Los Lentes Rd NE",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202424657,
-    "wof:lastmodified":1449062488,
+    "wof:lastmodified":1466698248,
     "wof:name":"Sun Shelter Construction Co",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-106.725571,34.820951,-106.725571,34.820951],
+  "bbox": [
+    -106.725571,
+    34.820951,
+    -106.725571,
+    34.820951
+],
   "geometry": {"coordinates":[-106.725571,34.820951],"type":"Point"}
 }

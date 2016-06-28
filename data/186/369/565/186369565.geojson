@@ -2,13 +2,14 @@
   "id": 186369565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.710199,34.979154,-106.710199,34.979154",
     "geom:latitude":34.979154,
     "geom:longitude":-106.710199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2406 Raymac Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186369565,
-    "wof:lastmodified":1449052905,
+    "wof:lastmodified":1466699610,
     "wof:name":"Collabrotive Planning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.710199,34.979154,-106.710199,34.979154],
+  "bbox": [
+    -106.710199,
+    34.979154,
+    -106.710199,
+    34.979154
+],
   "geometry": {"coordinates":[-106.710199,34.979154],"type":"Point"}
 }

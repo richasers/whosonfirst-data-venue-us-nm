@@ -2,13 +2,14 @@
   "id": 186486681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.689711,35.166599,-106.689711,35.166599",
     "geom:latitude":35.166599,
     "geom:longitude":-106.689711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Homestead Trl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186486681,
-    "wof:lastmodified":1449051876,
+    "wof:lastmodified":1466700184,
     "wof:name":"David Orwat Real Estate",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.689711,35.166599,-106.689711,35.166599],
+  "bbox": [
+    -106.689711,
+    35.166599,
+    -106.689711,
+    35.166599
+],
   "geometry": {"coordinates":[-106.689711,35.166599],"type":"Point"}
 }

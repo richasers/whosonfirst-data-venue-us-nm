@@ -2,13 +2,14 @@
   "id": 202879019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.993112,36.807986,-107.993112,36.807986",
     "geom:latitude":36.807986,
     "geom:longitude":-107.993112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Legion Rd",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202879019,
-    "wof:lastmodified":1449060136,
+    "wof:lastmodified":1466700163,
     "wof:name":"Aztec Speedway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.993112,36.807986,-107.993112,36.807986],
+  "bbox": [
+    -107.993112,
+    36.807986,
+    -107.993112,
+    36.807986
+],
   "geometry": {"coordinates":[-107.993112,36.807986],"type":"Point"}
 }

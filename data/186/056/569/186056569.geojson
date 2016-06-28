@@ -2,13 +2,14 @@
   "id": 186056569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.160395,32.696535,-103.160395,32.696535",
     "geom:latitude":32.696535,
     "geom:longitude":-103.160395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1909 W Marland St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186056569,
-    "wof:lastmodified":1449051141,
+    "wof:lastmodified":1466698330,
     "wof:name":"Flint Energy Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.160395,32.696535,-103.160395,32.696535],
-  "geometry": {"coordinates":[-103.160395,32.696535],"type":"Point"}
+  "bbox": [
+    -103.160395,
+    32.696535,
+    -103.160395,
+    32.696535
+],
+  "geometry": {"coordinates":[-103.16039499999999,32.696535],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203073683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.564282,35.296709,-106.564282,35.296709",
     "geom:latitude":35.296709,
     "geom:longitude":-106.564282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Acosta Ln",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203073683,
-    "wof:lastmodified":1449025201,
+    "wof:lastmodified":1466698390,
     "wof:name":"Daves Bobcat Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.564282,35.296709,-106.564282,35.296709],
-  "geometry": {"coordinates":[-106.564282,35.296709],"type":"Point"}
+  "bbox": [
+    -106.564282,
+    35.296709,
+    -106.564282,
+    35.296709
+],
+  "geometry": {"coordinates":[-106.56428200000001,35.296709],"type":"Point"}
 }

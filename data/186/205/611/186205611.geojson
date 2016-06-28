@@ -2,13 +2,14 @@
   "id": 186205611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.976537,35.663091,-105.976537,35.663091",
     "geom:latitude":35.663091,
     "geom:longitude":-105.976537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2029 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186205611,
-    "wof:lastmodified":1449051980,
+    "wof:lastmodified":1466698098,
     "wof:name":"Alpha Graphics",
     "wof:parent_id":85880779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "print"
     ]
 },
-  "bbox": [-105.976537,35.663091,-105.976537,35.663091],
-  "geometry": {"coordinates":[-105.976537,35.663091],"type":"Point"}
+  "bbox": [
+    -105.976537,
+    35.663091,
+    -105.976537,
+    35.663091
+],
+  "geometry": {"coordinates":[-105.97653699999999,35.663091],"type":"Point"}
 }

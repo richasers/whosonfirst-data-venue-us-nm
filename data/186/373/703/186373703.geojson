@@ -2,13 +2,14 @@
   "id": 186373703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.59143,35.066944,-106.59143,35.066944",
     "geom:latitude":35.066944,
     "geom:longitude":-106.59143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Monroe St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186373703,
-    "wof:lastmodified":1449051754,
+    "wof:lastmodified":1466699852,
     "wof:name":"Rio Grande Leasing Inc",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.59143,35.066944,-106.59143,35.066944],
+  "bbox": [
+    -106.59143,
+    35.066944,
+    -106.59143,
+    35.066944
+],
   "geometry": {"coordinates":[-106.59143,35.066944],"type":"Point"}
 }

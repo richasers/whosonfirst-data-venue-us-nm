@@ -2,13 +2,14 @@
   "id": 202761861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.677874,35.059056,-106.677874,35.059056",
     "geom:latitude":35.059056,
     "geom:longitude":-106.677874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 Beverly Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202761861,
-    "wof:lastmodified":1449062055,
+    "wof:lastmodified":1466699839,
     "wof:name":"J A Jr Job Site Clean Up Svc",
     "wof:parent_id":85892585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-106.677874,35.059056,-106.677874,35.059056],
+  "bbox": [
+    -106.677874,
+    35.059056,
+    -106.677874,
+    35.059056
+],
   "geometry": {"coordinates":[-106.677874,35.059056],"type":"Point"}
 }

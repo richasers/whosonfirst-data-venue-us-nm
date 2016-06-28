@@ -2,13 +2,14 @@
   "id": 185717695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.75679,32.291623,-106.75679,32.291623",
     "geom:latitude":32.291623,
     "geom:longitude":-106.75679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 S Solano Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185717695,
-    "wof:lastmodified":1449006622,
+    "wof:lastmodified":1466698807,
     "wof:name":"William T Baker DO",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.75679,32.291623,-106.75679,32.291623],
+  "bbox": [
+    -106.75679,
+    32.291623,
+    -106.75679,
+    32.291623
+],
   "geometry": {"coordinates":[-106.75679,32.291623],"type":"Point"}
 }

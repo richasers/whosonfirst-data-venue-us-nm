@@ -2,13 +2,14 @@
   "id": 186220327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.62607,35.267271,-106.62607,35.267271",
     "geom:latitude":35.267271,
     "geom:longitude":-106.62607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Rio Rancho Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186220327,
-    "wof:lastmodified":1449052938,
+    "wof:lastmodified":1466698276,
     "wof:name":"Thompson Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-106.62607,35.267271,-106.62607,35.267271],
+  "bbox": [
+    -106.62607,
+    35.267271,
+    -106.62607,
+    35.267271
+],
   "geometry": {"coordinates":[-106.62607,35.267271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185933551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.18211,36.740152,-108.18211,36.740152",
     "geom:latitude":36.740152,
     "geom:longitude":-108.18211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1041 Schofield Ln",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185933551,
-    "wof:lastmodified":1449006942,
+    "wof:lastmodified":1466698988,
     "wof:name":"New Pathways Christian Counsel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-108.18211,36.740152,-108.18211,36.740152],
-  "geometry": {"coordinates":[-108.18211,36.740152],"type":"Point"}
+  "bbox": [
+    -108.18211,
+    36.740152,
+    -108.18211,
+    36.740152
+],
+  "geometry": {"coordinates":[-108.18210999999999,36.740152],"type":"Point"}
 }

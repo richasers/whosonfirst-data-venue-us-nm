@@ -2,13 +2,14 @@
   "id": 185704979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.890707,35.522134,-105.890707,35.522134",
     "geom:latitude":35.522134,
     "geom:longitude":-105.890707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 N Chamisa Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185704979,
-    "wof:lastmodified":1449007028,
+    "wof:lastmodified":1466698690,
     "wof:name":"Plumbing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.890707,35.522134,-105.890707,35.522134],
-  "geometry": {"coordinates":[-105.890707,35.522134],"type":"Point"}
+  "bbox": [
+    -105.890707,
+    35.522134,
+    -105.890707,
+    35.522134
+],
+  "geometry": {"coordinates":[-105.89070700000001,35.522134],"type":"Point"}
 }

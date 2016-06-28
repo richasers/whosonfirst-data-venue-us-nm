@@ -2,13 +2,14 @@
   "id": 186151219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.062616,35.481038,-106.062616,35.481038",
     "geom:latitude":35.481038,
     "geom:longitude":-106.062616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Arroyo Coyote Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186151219,
-    "wof:lastmodified":1449050284,
+    "wof:lastmodified":1466699328,
     "wof:name":"Stockton Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.062616,35.481038,-106.062616,35.481038],
-  "geometry": {"coordinates":[-106.062616,35.481038],"type":"Point"}
+  "bbox": [
+    -106.062616,
+    35.481038,
+    -106.062616,
+    35.481038
+],
+  "geometry": {"coordinates":[-106.06261600000001,35.481038],"type":"Point"}
 }

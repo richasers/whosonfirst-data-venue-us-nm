@@ -2,13 +2,14 @@
   "id": 169760271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.780681,32.317172,-106.780681,32.317172",
     "geom:latitude":32.317172,
     "geom:longitude":-106.780681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"960 N Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169760271,
-    "wof:lastmodified":1449035837,
+    "wof:lastmodified":1466698161,
     "wof:name":"Hairitage",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.780681,32.317172,-106.780681,32.317172],
+  "bbox": [
+    -106.780681,
+    32.317172,
+    -106.780681,
+    32.317172
+],
   "geometry": {"coordinates":[-106.780681,32.317172],"type":"Point"}
 }

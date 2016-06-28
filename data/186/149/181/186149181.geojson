@@ -2,13 +2,14 @@
   "id": 186149181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.506932,33.395902,-104.506932,33.395902",
     "geom:latitude":33.395902,
     "geom:longitude":-104.506932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 E Plum St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186149181,
-    "wof:lastmodified":1449050262,
+    "wof:lastmodified":1466699313,
     "wof:name":"Med Equip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.506932,33.395902,-104.506932,33.395902],
-  "geometry": {"coordinates":[-104.506932,33.395902],"type":"Point"}
+  "bbox": [
+    -104.506932,
+    33.395902,
+    -104.506932,
+    33.395902
+],
+  "geometry": {"coordinates":[-104.50693200000001,33.395902],"type":"Point"}
 }

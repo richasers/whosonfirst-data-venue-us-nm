@@ -2,13 +2,14 @@
   "id": 202782071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.16197,32.66671,-107.16197,32.66671",
     "geom:latitude":32.66671,
     "geom:longitude":-107.16197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 W Hall St",
     "sg:city":"Hatch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202782071,
-    "wof:lastmodified":1449060097,
+    "wof:lastmodified":1466699882,
     "wof:name":"CNC Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-107.16197,32.66671,-107.16197,32.66671],
+  "bbox": [
+    -107.16197,
+    32.66671,
+    -107.16197,
+    32.66671
+],
   "geometry": {"coordinates":[-107.16197,32.66671],"type":"Point"}
 }

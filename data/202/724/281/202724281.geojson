@@ -2,13 +2,14 @@
   "id": 202724281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.991826,35.659893,-105.991826,35.659893",
     "geom:latitude":35.659893,
     "geom:longitude":-105.991826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2804 Siler Ln",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202724281,
-    "wof:lastmodified":1449062577,
+    "wof:lastmodified":1466699708,
     "wof:name":"Santa Fe Brake and Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "diagnostic"
     ]
 },
-  "bbox": [-105.991826,35.659893,-105.991826,35.659893],
+  "bbox": [
+    -105.991826,
+    35.659893,
+    -105.991826,
+    35.659893
+],
   "geometry": {"coordinates":[-105.991826,35.659893],"type":"Point"}
 }

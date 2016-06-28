@@ -2,13 +2,14 @@
   "id": 203008459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.260631,33.127239,-107.260631,33.127239",
     "geom:latitude":33.127239,
     "geom:longitude":-107.260631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 S Broadway St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203008459,
-    "wof:lastmodified":1449025507,
+    "wof:lastmodified":1466697680,
     "wof:name":"Recovery House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-107.260631,33.127239,-107.260631,33.127239],
+  "bbox": [
+    -107.260631,
+    33.127239,
+    -107.260631,
+    33.127239
+],
   "geometry": {"coordinates":[-107.260631,33.127239],"type":"Point"}
 }

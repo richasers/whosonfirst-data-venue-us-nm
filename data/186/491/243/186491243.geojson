@@ -2,13 +2,14 @@
   "id": 186491243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.269648,35.887512,-106.269648,35.887512",
     "geom:latitude":35.887512,
     "geom:longitude":-106.269648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1322 Big Rock Loop",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186491243,
-    "wof:lastmodified":1449050190,
+    "wof:lastmodified":1466700200,
     "wof:name":"Shafer Ann Msw Acsw Lisw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.269648,35.887512,-106.269648,35.887512],
+  "bbox": [
+    -106.269648,
+    35.887512,
+    -106.269648,
+    35.887512
+],
   "geometry": {"coordinates":[-106.269648,35.887512],"type":"Point"}
 }

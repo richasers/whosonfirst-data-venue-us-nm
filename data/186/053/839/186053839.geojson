@@ -2,13 +2,14 @@
   "id": 186053839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.648428,35.075733,-106.648428,35.075733",
     "geom:latitude":35.075733,
     "geom:longitude":-106.648428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Commercial St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186053839,
-    "wof:lastmodified":1449050912,
+    "wof:lastmodified":1466698294,
     "wof:name":"Duke City Detail",
     "wof:parent_id":85804483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-106.648428,35.075733,-106.648428,35.075733],
+  "bbox": [
+    -106.648428,
+    35.075733,
+    -106.648428,
+    35.075733
+],
   "geometry": {"coordinates":[-106.648428,35.075733],"type":"Point"}
 }

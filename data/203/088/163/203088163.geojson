@@ -2,13 +2,14 @@
   "id": 203088163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.646285,35.107262,-106.646285,35.107262",
     "geom:latitude":35.107262,
     "geom:longitude":-106.646285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Arvada Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203088163,
-    "wof:lastmodified":1449026414,
+    "wof:lastmodified":1466698548,
     "wof:name":"Santa Fe Plus Limousines",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-106.646285,35.107262,-106.646285,35.107262],
-  "geometry": {"coordinates":[-106.646285,35.107262],"type":"Point"}
+  "bbox": [
+    -106.646285,
+    35.107262,
+    -106.646285,
+    35.107262
+],
+  "geometry": {"coordinates":[-106.64628500000001,35.107262],"type":"Point"}
 }

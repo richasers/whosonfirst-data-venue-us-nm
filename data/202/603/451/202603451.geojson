@@ -2,13 +2,14 @@
   "id": 202603451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.797238,32.273639,-106.797238,32.273639",
     "geom:latitude":32.273639,
     "geom:longitude":-106.797238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2251 Cll de Santiago",
     "sg:city":"Mesilla",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202603451,
-    "wof:lastmodified":1449062266,
+    "wof:lastmodified":1466698425,
     "wof:name":"Teen Court",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.797238,32.273639,-106.797238,32.273639],
-  "geometry": {"coordinates":[-106.797238,32.273639],"type":"Point"}
+  "bbox": [
+    -106.797238,
+    32.273639,
+    -106.797238,
+    32.273639
+],
+  "geometry": {"coordinates":[-106.79723799999999,32.273639],"type":"Point"}
 }

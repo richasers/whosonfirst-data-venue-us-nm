@@ -2,13 +2,14 @@
   "id": 353944291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.565992,35.102116,-106.565992,35.102116",
     "geom:latitude":35.102116,
     "geom:longitude":-106.565992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 Uptown Loop NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353944291,
-    "wof:lastmodified":1449019538,
+    "wof:lastmodified":1466698400,
     "wof:name":"Abq Uptown Village",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "community"
     ]
 },
-  "bbox": [-106.565992,35.102116,-106.565992,35.102116],
-  "geometry": {"coordinates":[-106.565992,35.102116],"type":"Point"}
+  "bbox": [
+    -106.565992,
+    35.102116,
+    -106.565992,
+    35.102116
+],
+  "geometry": {"coordinates":[-106.56599199999999,35.102116],"type":"Point"}
 }

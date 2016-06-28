@@ -2,13 +2,14 @@
   "id": 169838413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781521,32.330495,-106.781521,32.330495",
     "geom:latitude":32.330495,
     "geom:longitude":-106.781521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2391 N Mesquite St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169838413,
-    "wof:lastmodified":1449033081,
+    "wof:lastmodified":1466698848,
     "wof:name":"R B Design & Printing",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-106.781521,32.330495,-106.781521,32.330495],
+  "bbox": [
+    -106.781521,
+    32.330495,
+    -106.781521,
+    32.330495
+],
   "geometry": {"coordinates":[-106.781521,32.330495],"type":"Point"}
 }

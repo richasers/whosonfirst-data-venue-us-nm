@@ -2,13 +2,14 @@
   "id": 185834075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.188368,36.748163,-108.188368,36.748163",
     "geom:latitude":36.748163,
     "geom:longitude":-108.188368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 E 20th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185834075,
-    "wof:lastmodified":1449006764,
+    "wof:lastmodified":1466697835,
     "wof:name":"Overzenia Ojuri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-108.188368,36.748163,-108.188368,36.748163],
+  "bbox": [
+    -108.188368,
+    36.748163,
+    -108.188368,
+    36.748163
+],
   "geometry": {"coordinates":[-108.188368,36.748163],"type":"Point"}
 }

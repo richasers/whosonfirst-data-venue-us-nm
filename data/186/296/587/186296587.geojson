@@ -2,13 +2,14 @@
   "id": 186296587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.63829,35.11803,-106.63829,35.11803",
     "geom:latitude":35.11803,
     "geom:longitude":-106.63829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Candelaria Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186296587,
-    "wof:lastmodified":1449052513,
+    "wof:lastmodified":1466699289,
     "wof:name":"All Makes Automotive",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.63829,35.11803,-106.63829,35.11803],
+  "bbox": [
+    -106.63829,
+    35.11803,
+    -106.63829,
+    35.11803
+],
   "geometry": {"coordinates":[-106.63829,35.11803],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353928347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.624222,35.056481,-106.624222,35.056481",
     "geom:latitude":35.056481,
     "geom:longitude":-106.624222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2309 Renard Pl SE Ste 103",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353928347,
-    "wof:lastmodified":1449020453,
+    "wof:lastmodified":1466697956,
     "wof:name":"Lovelace Clinic Foundation",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "medical"
     ]
 },
-  "bbox": [-106.624222,35.056481,-106.624222,35.056481],
+  "bbox": [
+    -106.624222,
+    35.056481,
+    -106.624222,
+    35.056481
+],
   "geometry": {"coordinates":[-106.624222,35.056481],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202842029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.635826,33.322617,-105.635826,33.322617",
     "geom:latitude":33.322617,
     "geom:longitude":-105.635826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"332 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202842029,
-    "wof:lastmodified":1449060299,
+    "wof:lastmodified":1466700147,
     "wof:name":"Ruidoso Guns & Sportsman Sups",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sporting"
     ]
 },
-  "bbox": [-105.635826,33.322617,-105.635826,33.322617],
-  "geometry": {"coordinates":[-105.635826,33.322617],"type":"Point"}
+  "bbox": [
+    -105.635826,
+    33.322617,
+    -105.635826,
+    33.322617
+],
+  "geometry": {"coordinates":[-105.63582599999999,33.322617],"type":"Point"}
 }

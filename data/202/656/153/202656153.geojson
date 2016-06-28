@@ -2,13 +2,14 @@
   "id": 202656153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.656448,35.112754,-106.656448,35.112754",
     "geom:latitude":35.112754,
     "geom:longitude":-106.656448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Woodland Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202656153,
-    "wof:lastmodified":1449061740,
+    "wof:lastmodified":1466699227,
     "wof:name":"Dillon Real Estate Inc",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-106.656448,35.112754,-106.656448,35.112754],
+  "bbox": [
+    -106.656448,
+    35.112754,
+    -106.656448,
+    35.112754
+],
   "geometry": {"coordinates":[-106.656448,35.112754],"type":"Point"}
 }

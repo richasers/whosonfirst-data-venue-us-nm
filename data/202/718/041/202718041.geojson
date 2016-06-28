@@ -2,13 +2,14 @@
   "id": 202718041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.561433,35.18107,-106.561433,35.18107",
     "geom:latitude":35.18107,
     "geom:longitude":-106.561433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7520 Tricia Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202718041,
-    "wof:lastmodified":1449060667,
+    "wof:lastmodified":1466699685,
     "wof:name":"Kevin J Fuller Co",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.561433,35.18107,-106.561433,35.18107],
-  "geometry": {"coordinates":[-106.561433,35.18107],"type":"Point"}
+  "bbox": [
+    -106.561433,
+    35.18107,
+    -106.561433,
+    35.18107
+],
+  "geometry": {"coordinates":[-106.56143299999999,35.18107],"type":"Point"}
 }

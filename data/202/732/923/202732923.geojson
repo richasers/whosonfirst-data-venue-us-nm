@@ -2,13 +2,14 @@
   "id": 202732923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.695388,32.16798,-106.695388,32.16798",
     "geom:latitude":32.16798,
     "geom:longitude":-106.695388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Tawa Ave",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202732923,
-    "wof:lastmodified":1449062753,
+    "wof:lastmodified":1466699828,
     "wof:name":"Alma Del Valle Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.695388,32.16798,-106.695388,32.16798],
-  "geometry": {"coordinates":[-106.695388,32.16798],"type":"Point"}
+  "bbox": [
+    -106.695388,
+    32.16798,
+    -106.695388,
+    32.16798
+],
+  "geometry": {"coordinates":[-106.69538799999999,32.16798],"type":"Point"}
 }

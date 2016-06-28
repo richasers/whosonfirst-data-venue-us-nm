@@ -2,13 +2,14 @@
   "id": 186494797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.687398,34.819476,-106.687398,34.819476",
     "geom:latitude":34.819476,
     "geom:longitude":-106.687398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Tomato Farm Rd",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186494797,
-    "wof:lastmodified":1449052726,
+    "wof:lastmodified":1466700210,
     "wof:name":"Bosque Tree Farm",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tree"
     ]
 },
-  "bbox": [-106.687398,34.819476,-106.687398,34.819476],
+  "bbox": [
+    -106.687398,
+    34.819476,
+    -106.687398,
+    34.819476
+],
   "geometry": {"coordinates":[-106.687398,34.819476],"type":"Point"}
 }

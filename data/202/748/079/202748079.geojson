@@ -2,13 +2,14 @@
   "id": 202748079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.760763,32.301451,-106.760763,32.301451",
     "geom:latitude":32.301451,
     "geom:longitude":-106.760763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 Pecos St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202748079,
-    "wof:lastmodified":1449062012,
+    "wof:lastmodified":1466699765,
     "wof:name":"S J Mechanical",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.760763,32.301451,-106.760763,32.301451],
+  "bbox": [
+    -106.760763,
+    32.301451,
+    -106.760763,
+    32.301451
+],
   "geometry": {"coordinates":[-106.760763,32.301451],"type":"Point"}
 }

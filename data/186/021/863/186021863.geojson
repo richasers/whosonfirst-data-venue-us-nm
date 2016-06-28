@@ -2,13 +2,14 @@
   "id": 186021863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.707175,32.349074,-108.707175,32.349074",
     "geom:latitude":32.349074,
     "geom:longitude":-108.707175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 E 2nd St",
     "sg:city":"Lordsburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186021863,
-    "wof:lastmodified":1449052062,
+    "wof:lastmodified":1466697931,
     "wof:name":"Hildalgo County Sheriff Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-108.707175,32.349074,-108.707175,32.349074],
-  "geometry": {"coordinates":[-108.707175,32.349074],"type":"Point"}
+  "bbox": [
+    -108.707175,
+    32.349074,
+    -108.707175,
+    32.349074
+],
+  "geometry": {"coordinates":[-108.70717500000001,32.349074],"type":"Point"}
 }

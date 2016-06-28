@@ -2,13 +2,14 @@
   "id": 169831023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.521284,35.06049,-106.521284,35.06049",
     "geom:latitude":35.06049,
     "geom:longitude":-106.521284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11305 Kings Canyon Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169831023,
-    "wof:lastmodified":1449034628,
+    "wof:lastmodified":1466699437,
     "wof:name":"Petra Spillman Marketing Cnslt",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [-106.521284,35.06049,-106.521284,35.06049],
-  "geometry": {"coordinates":[-106.521284,35.06049],"type":"Point"}
+  "bbox": [
+    -106.521284,
+    35.06049,
+    -106.521284,
+    35.06049
+],
+  "geometry": {"coordinates":[-106.52128399999999,35.06049],"type":"Point"}
 }

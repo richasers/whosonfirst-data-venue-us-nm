@@ -2,13 +2,14 @@
   "id": 186335639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.962881,32.932075,-105.962881,32.932075",
     "geom:latitude":32.932075,
     "geom:longitude":-105.962881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Glacier Dr",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186335639,
-    "wof:lastmodified":1449052138,
+    "wof:lastmodified":1466699600,
     "wof:name":"Raceway Park Go Karts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.962881,32.932075,-105.962881,32.932075],
+  "bbox": [
+    -105.962881,
+    32.932075,
+    -105.962881,
+    32.932075
+],
   "geometry": {"coordinates":[-105.962881,32.932075],"type":"Point"}
 }

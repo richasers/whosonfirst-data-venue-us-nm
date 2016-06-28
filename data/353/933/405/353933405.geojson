@@ -2,13 +2,14 @@
   "id": 353933405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.646,35.113789,-106.646,35.113789",
     "geom:latitude":35.113789,
     "geom:longitude":-106.646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2919 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353933405,
-    "wof:lastmodified":1449018780,
+    "wof:lastmodified":1466698100,
     "wof:name":"Direct Cremation & Burial Svc",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.646,35.113789,-106.646,35.113789],
+  "bbox": [
+    -106.646,
+    35.113789,
+    -106.646,
+    35.113789
+],
   "geometry": {"coordinates":[-106.646,35.113789],"type":"Point"}
 }

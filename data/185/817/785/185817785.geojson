@@ -2,13 +2,14 @@
   "id": 185817785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.621736,35.280388,-106.621736,35.280388",
     "geom:latitude":35.280388,
     "geom:longitude":-106.621736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 Acapulco Rd NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185817785,
-    "wof:lastmodified":1449007906,
+    "wof:lastmodified":1466697656,
     "wof:name":"Creative Computer Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.621736,35.280388,-106.621736,35.280388],
+  "bbox": [
+    -106.621736,
+    35.280388,
+    -106.621736,
+    35.280388
+],
   "geometry": {"coordinates":[-106.621736,35.280388],"type":"Point"}
 }

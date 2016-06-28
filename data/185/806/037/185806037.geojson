@@ -2,13 +2,14 @@
   "id": 185806037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.028963,35.892001,-106.028963,35.892001",
     "geom:latitude":35.892001,
     "geom:longitude":-106.028963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rio Way",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185806037,
-    "wof:lastmodified":1449006595,
+    "wof:lastmodified":1466699471,
     "wof:name":"Rio En Medion Senior Ctr",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "citizen"
     ]
 },
-  "bbox": [-106.028963,35.892001,-106.028963,35.892001],
+  "bbox": [
+    -106.028963,
+    35.892001,
+    -106.028963,
+    35.892001
+],
   "geometry": {"coordinates":[-106.028963,35.892001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169765645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.629917,33.319781,-105.629917,33.319781",
     "geom:latitude":33.319781,
     "geom:longitude":-105.629917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 el Paso Rd",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169765645,
-    "wof:lastmodified":1449034594,
+    "wof:lastmodified":1466698222,
     "wof:name":"Southwest Urology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-105.629917,33.319781,-105.629917,33.319781],
-  "geometry": {"coordinates":[-105.629917,33.319781],"type":"Point"}
+  "bbox": [
+    -105.629917,
+    33.319781,
+    -105.629917,
+    33.319781
+],
+  "geometry": {"coordinates":[-105.62991700000001,33.319781],"type":"Point"}
 }

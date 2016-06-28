@@ -2,13 +2,14 @@
   "id": 186576769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.641776,35.091218,-106.641776,35.091218",
     "geom:latitude":35.091218,
     "geom:longitude":-106.641776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"828 Arno St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186576769,
-    "wof:lastmodified":1449052383,
+    "wof:lastmodified":1466700559,
     "wof:name":"Beck 'n Coll Dog World",
     "wof:parent_id":85871877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kennel"
     ]
 },
-  "bbox": [-106.641776,35.091218,-106.641776,35.091218],
-  "geometry": {"coordinates":[-106.641776,35.091218],"type":"Point"}
+  "bbox": [
+    -106.641776,
+    35.091218,
+    -106.641776,
+    35.091218
+],
+  "geometry": {"coordinates":[-106.64177599999999,35.091218],"type":"Point"}
 }

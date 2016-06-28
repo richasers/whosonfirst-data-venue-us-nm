@@ -2,13 +2,14 @@
   "id": 185979323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.921623,35.522661,-105.921623,35.522661",
     "geom:latitude":35.522661,
     "geom:longitude":-105.921623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Reno Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185979323,
-    "wof:lastmodified":1449007733,
+    "wof:lastmodified":1466699634,
     "wof:name":"Delmanquestel Assoc Inc",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.921623,35.522661,-105.921623,35.522661],
+  "bbox": [
+    -105.921623,
+    35.522661,
+    -105.921623,
+    35.522661
+],
   "geometry": {"coordinates":[-105.921623,35.522661],"type":"Point"}
 }

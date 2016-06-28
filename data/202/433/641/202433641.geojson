@@ -2,13 +2,14 @@
   "id": 202433641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.201382,36.712377,-108.201382,36.712377",
     "geom:latitude":36.712377,
     "geom:longitude":-108.201382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Ouray Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202433641,
-    "wof:lastmodified":1449060400,
+    "wof:lastmodified":1466698349,
     "wof:name":"TNT Roofing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.201382,36.712377,-108.201382,36.712377],
+  "bbox": [
+    -108.201382,
+    36.712377,
+    -108.201382,
+    36.712377
+],
   "geometry": {"coordinates":[-108.201382,36.712377],"type":"Point"}
 }

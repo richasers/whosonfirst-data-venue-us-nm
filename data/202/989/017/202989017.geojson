@@ -2,13 +2,14 @@
   "id": 202989017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.957639,35.679875,-105.957639,35.679875",
     "geom:latitude":35.679875,
     "geom:longitude":-105.957639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 Kathryn Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202989017,
-    "wof:lastmodified":1449061956,
+    "wof:lastmodified":1466700650,
     "wof:name":"Terpsichore Design Inc",
     "wof:parent_id":85880841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.957639,35.679875,-105.957639,35.679875],
+  "bbox": [
+    -105.957639,
+    35.679875,
+    -105.957639,
+    35.679875
+],
   "geometry": {"coordinates":[-105.957639,35.679875],"type":"Point"}
 }

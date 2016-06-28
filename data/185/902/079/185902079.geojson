@@ -2,13 +2,14 @@
   "id": 185902079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.674718,35.071023,-106.674718,35.071023",
     "geom:latitude":35.071023,
     "geom:longitude":-106.674718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Sunset Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185902079,
-    "wof:lastmodified":1449007794,
+    "wof:lastmodified":1466698549,
     "wof:name":"Alpha Tax & Accounting Service",
     "wof:parent_id":85892605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-106.674718,35.071023,-106.674718,35.071023],
+  "bbox": [
+    -106.674718,
+    35.071023,
+    -106.674718,
+    35.071023
+],
   "geometry": {"coordinates":[-106.674718,35.071023],"type":"Point"}
 }

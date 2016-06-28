@@ -2,13 +2,14 @@
   "id": 186073565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.942888,35.688217,-105.942888,35.688217",
     "geom:latitude":35.688217,
     "geom:longitude":-105.942888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 W San Francisco St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186073565,
-    "wof:lastmodified":1449050726,
+    "wof:lastmodified":1466698558,
     "wof:name":"Convergence Gallery",
     "wof:parent_id":85880833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-105.942888,35.688217,-105.942888,35.688217],
+  "bbox": [
+    -105.942888,
+    35.688217,
+    -105.942888,
+    35.688217
+],
   "geometry": {"coordinates":[-105.942888,35.688217],"type":"Point"}
 }

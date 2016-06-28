@@ -2,13 +2,14 @@
   "id": 203040929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.61483,35.224196,-106.61483,35.224196",
     "geom:latitude":35.224196,
     "geom:longitude":-106.61483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4436 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203040929,
-    "wof:lastmodified":1449026824,
+    "wof:lastmodified":1466698045,
     "wof:name":"Corrales Chiropractic",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.61483,35.224196,-106.61483,35.224196],
+  "bbox": [
+    -106.61483,
+    35.224196,
+    -106.61483,
+    35.224196
+],
   "geometry": {"coordinates":[-106.61483,35.224196],"type":"Point"}
 }

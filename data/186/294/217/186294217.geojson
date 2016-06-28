@@ -2,13 +2,14 @@
   "id": 186294217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.20002,32.348865,-104.20002,32.348865",
     "geom:latitude":32.348865,
     "geom:longitude":-104.20002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1322 Hopi Rd",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186294217,
-    "wof:lastmodified":1449052271,
+    "wof:lastmodified":1466699258,
     "wof:name":"McKibben Trucking",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-104.20002,32.348865,-104.20002,32.348865],
-  "geometry": {"coordinates":[-104.20002,32.348865],"type":"Point"}
+  "bbox": [
+    -104.20002,
+    32.348865,
+    -104.20002,
+    32.348865
+],
+  "geometry": {"coordinates":[-104.20001999999999,32.348865],"type":"Point"}
 }

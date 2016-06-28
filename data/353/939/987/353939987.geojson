@@ -2,13 +2,14 @@
   "id": 353939987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.568738,35.170143,-106.568738,35.170143",
     "geom:latitude":35.170143,
     "geom:longitude":-106.568738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7817 Louisiana Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353939987,
-    "wof:lastmodified":1449019018,
+    "wof:lastmodified":1466698275,
     "wof:name":"Louisiana Purchase Condos",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.568738,35.170143,-106.568738,35.170143],
+  "bbox": [
+    -106.568738,
+    35.170143,
+    -106.568738,
+    35.170143
+],
   "geometry": {"coordinates":[-106.568738,35.170143],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353930297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.640402,35.143109,-106.640402,35.143109",
     "geom:latitude":35.143109,
     "geom:longitude":-106.640402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5937 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353930297,
-    "wof:lastmodified":1449019078,
+    "wof:lastmodified":1466698013,
     "wof:name":"Dion's Pizza",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.640402,35.143109,-106.640402,35.143109],
-  "geometry": {"coordinates":[-106.640402,35.143109],"type":"Point"}
+  "bbox": [
+    -106.640402,
+    35.143109,
+    -106.640402,
+    35.143109
+],
+  "geometry": {"coordinates":[-106.64040199999999,35.143109],"type":"Point"}
 }

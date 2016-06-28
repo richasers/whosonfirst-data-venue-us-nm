@@ -2,13 +2,14 @@
   "id": 202518593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.140972,32.702855,-103.140972,32.702855",
     "geom:latitude":32.702855,
     "geom:longitude":-103.140972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 W Cain St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202518593,
-    "wof:lastmodified":1449061536,
+    "wof:lastmodified":1466699249,
     "wof:name":"Nova Mud Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "additive"
     ]
 },
-  "bbox": [-103.140972,32.702855,-103.140972,32.702855],
+  "bbox": [
+    -103.140972,
+    32.702855,
+    -103.140972,
+    32.702855
+],
   "geometry": {"coordinates":[-103.140972,32.702855],"type":"Point"}
 }

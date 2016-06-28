@@ -2,13 +2,14 @@
   "id": 186123725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.020827,36.826784,-108.020827,36.826784",
     "geom:latitude":36.826784,
     "geom:longitude":-108.020827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Oliver Dr",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186123725,
-    "wof:lastmodified":1449051179,
+    "wof:lastmodified":1466699136,
     "wof:name":"San Juan County Housing Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-108.020827,36.826784,-108.020827,36.826784],
+  "bbox": [
+    -108.020827,
+    36.826784,
+    -108.020827,
+    36.826784
+],
   "geometry": {"coordinates":[-108.020827,36.826784],"type":"Point"}
 }

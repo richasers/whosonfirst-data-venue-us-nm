@@ -2,13 +2,14 @@
   "id": 202422939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.721086,34.781935,-106.721086,34.781935",
     "geom:latitude":34.781935,
     "geom:longitude":-106.721086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Edeal Rd",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202422939,
-    "wof:lastmodified":1449060284,
+    "wof:lastmodified":1466698231,
     "wof:name":"Discount Financial",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.721086,34.781935,-106.721086,34.781935],
+  "bbox": [
+    -106.721086,
+    34.781935,
+    -106.721086,
+    34.781935
+],
   "geometry": {"coordinates":[-106.721086,34.781935],"type":"Point"}
 }

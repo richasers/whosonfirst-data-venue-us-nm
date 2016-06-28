@@ -2,13 +2,14 @@
   "id": 186080629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.696811,35.098477,-106.696811,35.098477",
     "geom:latitude":35.098477,
     "geom:longitude":-106.696811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3814 Riverview Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186080629,
-    "wof:lastmodified":1449052964,
+    "wof:lastmodified":1466698638,
     "wof:name":"Family Life Insurance Co",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "guarantee"
     ]
 },
-  "bbox": [-106.696811,35.098477,-106.696811,35.098477],
+  "bbox": [
+    -106.696811,
+    35.098477,
+    -106.696811,
+    35.098477
+],
   "geometry": {"coordinates":[-106.696811,35.098477],"type":"Point"}
 }

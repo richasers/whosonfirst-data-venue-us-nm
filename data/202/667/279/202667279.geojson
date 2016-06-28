@@ -2,13 +2,14 @@
   "id": 202667279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.832847,35.141807,-107.832847,35.141807",
     "geom:latitude":35.141807,
     "geom:longitude":-107.832847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 E Santa Fe Ave",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202667279,
-    "wof:lastmodified":1449061741,
+    "wof:lastmodified":1466699477,
     "wof:name":"Gallegos Tony Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.832847,35.141807,-107.832847,35.141807],
+  "bbox": [
+    -107.832847,
+    35.141807,
+    -107.832847,
+    35.141807
+],
   "geometry": {"coordinates":[-107.832847,35.141807],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353984919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.189667,36.449249,-103.189667,36.449249",
     "geom:latitude":36.449249,
     "geom:longitude":-103.189667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Court St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353984919,
-    "wof:lastmodified":1449019704,
+    "wof:lastmodified":1466699149,
     "wof:name":"Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "medicine"
     ]
 },
-  "bbox": [-103.189667,36.449249,-103.189667,36.449249],
+  "bbox": [
+    -103.189667,
+    36.449249,
+    -103.189667,
+    36.449249
+],
   "geometry": {"coordinates":[-103.189667,36.449249],"type":"Point"}
 }

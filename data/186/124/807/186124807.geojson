@@ -2,13 +2,14 @@
   "id": 186124807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.969427,35.659209,-105.969427,35.659209",
     "geom:latitude":35.659209,
     "geom:longitude":-105.969427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Saint Michaels Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":186124807,
-    "wof:lastmodified":1449052821,
+    "wof:lastmodified":1466699140,
     "wof:name":"Probation & Parole Dist Office",
     "wof:parent_id":85880809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "probation"
     ]
 },
-  "bbox": [-105.969427,35.659209,-105.969427,35.659209],
+  "bbox": [
+    -105.969427,
+    35.659209,
+    -105.969427,
+    35.659209
+],
   "geometry": {"coordinates":[-105.969427,35.659209],"type":"Point"}
 }

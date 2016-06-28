@@ -2,13 +2,14 @@
   "id": 202558975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.861693,35.155427,-107.861693,35.155427",
     "geom:latitude":35.155427,
     "geom:longitude":-107.861693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Wayne Ave",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202558975,
-    "wof:lastmodified":1449060813,
+    "wof:lastmodified":1466697774,
     "wof:name":"Operations Management Intl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewage"
     ]
 },
-  "bbox": [-107.861693,35.155427,-107.861693,35.155427],
+  "bbox": [
+    -107.861693,
+    35.155427,
+    -107.861693,
+    35.155427
+],
   "geometry": {"coordinates":[-107.861693,35.155427],"type":"Point"}
 }

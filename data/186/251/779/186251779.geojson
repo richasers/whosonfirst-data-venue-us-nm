@@ -2,13 +2,14 @@
   "id": 186251779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.532579,35.055423,-106.532579,35.055423",
     "geom:latitude":35.055423,
     "geom:longitude":-106.532579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Eubank Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186251779,
-    "wof:lastmodified":1449050312,
+    "wof:lastmodified":1466698688,
     "wof:name":"Tech Reps Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "scientific"
     ]
 },
-  "bbox": [-106.532579,35.055423,-106.532579,35.055423],
+  "bbox": [
+    -106.532579,
+    35.055423,
+    -106.532579,
+    35.055423
+],
   "geometry": {"coordinates":[-106.532579,35.055423],"type":"Point"}
 }

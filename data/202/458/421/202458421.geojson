@@ -2,13 +2,14 @@
   "id": 202458421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.543736,35.168988,-106.543736,35.168988",
     "geom:latitude":35.168988,
     "geom:longitude":-106.543736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7704 Executive Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202458421,
-    "wof:lastmodified":1449061904,
+    "wof:lastmodified":1466698613,
     "wof:name":"Blair Holdings LLC",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "holding"
     ]
 },
-  "bbox": [-106.543736,35.168988,-106.543736,35.168988],
+  "bbox": [
+    -106.543736,
+    35.168988,
+    -106.543736,
+    35.168988
+],
   "geometry": {"coordinates":[-106.543736,35.168988],"type":"Point"}
 }

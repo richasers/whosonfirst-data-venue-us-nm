@@ -2,13 +2,14 @@
   "id": 169713923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.568141,36.411831,-105.568141,36.411831",
     "geom:latitude":36.411831,
     "geom:longitude":-105.568141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Brooks St",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169713923,
-    "wof:lastmodified":1449035651,
+    "wof:lastmodified":1466697713,
     "wof:name":"Brooks Street Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-105.568141,36.411831,-105.568141,36.411831],
+  "bbox": [
+    -105.568141,
+    36.411831,
+    -105.568141,
+    36.411831
+],
   "geometry": {"coordinates":[-105.568141,36.411831],"type":"Point"}
 }

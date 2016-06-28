@@ -2,13 +2,14 @@
   "id": 185761839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.939243,35.991632,-105.939243,35.991632",
     "geom:latitude":35.991632,
     "geom:longitude":-105.939243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Co Rd 94A",
     "sg:city":"Chimayo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185761839,
-    "wof:lastmodified":1449007847,
+    "wof:lastmodified":1466699194,
     "wof:name":"Cree Studios",
     "wof:parent_id":85880787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "restoring"
     ]
 },
-  "bbox": [-105.939243,35.991632,-105.939243,35.991632],
+  "bbox": [
+    -105.939243,
+    35.991632,
+    -105.939243,
+    35.991632
+],
   "geometry": {"coordinates":[-105.939243,35.991632],"type":"Point"}
 }

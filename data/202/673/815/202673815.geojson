@@ -2,13 +2,14 @@
   "id": 202673815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.541472,35.070008,-106.541472,35.070008",
     "geom:latitude":35.070008,
     "geom:longitude":-106.541472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Moon St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202673815,
-    "wof:lastmodified":1449061100,
+    "wof:lastmodified":1466699493,
     "wof:name":"Cactus Mobile Home Court",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-106.541472,35.070008,-106.541472,35.070008],
+  "bbox": [
+    -106.541472,
+    35.070008,
+    -106.541472,
+    35.070008
+],
   "geometry": {"coordinates":[-106.541472,35.070008],"type":"Point"}
 }

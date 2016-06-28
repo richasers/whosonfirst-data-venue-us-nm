@@ -2,13 +2,14 @@
   "id": 186423745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.834179,35.163859,-107.834179,35.163859",
     "geom:latitude":35.163859,
     "geom:longitude":-107.834179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Goltz Dr",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186423745,
-    "wof:lastmodified":1449050857,
+    "wof:lastmodified":1466699942,
     "wof:name":"Roberta's Place Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "treatment"
     ]
 },
-  "bbox": [-107.834179,35.163859,-107.834179,35.163859],
-  "geometry": {"coordinates":[-107.834179,35.163859],"type":"Point"}
+  "bbox": [
+    -107.834179,
+    35.163859,
+    -107.834179,
+    35.163859
+],
+  "geometry": {"coordinates":[-107.83417900000001,35.163859],"type":"Point"}
 }

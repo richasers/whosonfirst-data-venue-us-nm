@@ -2,13 +2,14 @@
   "id": 185961029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.590225,35.137529,-106.590225,35.137529",
     "geom:latitude":35.137529,
     "geom:longitude":-106.590225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4610 McLeod Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185961029,
-    "wof:lastmodified":1449008158,
+    "wof:lastmodified":1466699390,
     "wof:name":"Integrated Machining Company",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "precision"
     ]
 },
-  "bbox": [-106.590225,35.137529,-106.590225,35.137529],
+  "bbox": [
+    -106.590225,
+    35.137529,
+    -106.590225,
+    35.137529
+],
   "geometry": {"coordinates":[-106.590225,35.137529],"type":"Point"}
 }

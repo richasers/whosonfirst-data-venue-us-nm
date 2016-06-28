@@ -2,13 +2,14 @@
   "id": 185707479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.337061,34.186551,-103.337061,34.186551",
     "geom:latitude":34.186551,
     "geom:longitude":-103.337061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S Main Ave",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185707479,
-    "wof:lastmodified":1449007982,
+    "wof:lastmodified":1466698714,
     "wof:name":"Prestige Carpets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rug"
     ]
 },
-  "bbox": [-103.337061,34.186551,-103.337061,34.186551],
-  "geometry": {"coordinates":[-103.337061,34.186551],"type":"Point"}
+  "bbox": [
+    -103.337061,
+    34.186551,
+    -103.337061,
+    34.186551
+],
+  "geometry": {"coordinates":[-103.33706100000001,34.186551],"type":"Point"}
 }

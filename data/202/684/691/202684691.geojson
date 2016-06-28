@@ -2,13 +2,14 @@
   "id": 202684691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.276699,35.877868,-106.276699,35.877868",
     "geom:latitude":35.877868,
     "geom:longitude":-106.276699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"264 Dp Rd",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202684691,
-    "wof:lastmodified":1449060750,
+    "wof:lastmodified":1466699551,
     "wof:name":"Jona Machining Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.276699,35.877868,-106.276699,35.877868],
-  "geometry": {"coordinates":[-106.276699,35.877868],"type":"Point"}
+  "bbox": [
+    -106.276699,
+    35.877868,
+    -106.276699,
+    35.877868
+],
+  "geometry": {"coordinates":[-106.27669899999999,35.877868],"type":"Point"}
 }

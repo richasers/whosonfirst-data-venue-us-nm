@@ -2,13 +2,14 @@
   "id": 203012905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.484089,35.133892,-106.484089,35.133892",
     "geom:latitude":35.133892,
     "geom:longitude":-106.484089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13450 Desert Hills Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203012905,
-    "wof:lastmodified":1449026677,
+    "wof:lastmodified":1466697737,
     "wof:name":"Classico Wall Design",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-106.484089,35.133892,-106.484089,35.133892],
+  "bbox": [
+    -106.484089,
+    35.133892,
+    -106.484089,
+    35.133892
+],
   "geometry": {"coordinates":[-106.484089,35.133892],"type":"Point"}
 }

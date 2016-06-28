@@ -2,13 +2,14 @@
   "id": 169865665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.674363,33.372007,-105.674363,33.372007",
     "geom:latitude":33.372007,
     "geom:longitude":-105.674363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Kaibab Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169865665,
-    "wof:lastmodified":1449035151,
+    "wof:lastmodified":1466698993,
     "wof:name":"Advantage Building Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-105.674363,33.372007,-105.674363,33.372007],
+  "bbox": [
+    -105.674363,
+    33.372007,
+    -105.674363,
+    33.372007
+],
   "geometry": {"coordinates":[-105.674363,33.372007],"type":"Point"}
 }

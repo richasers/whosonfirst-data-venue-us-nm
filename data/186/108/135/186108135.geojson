@@ -2,13 +2,14 @@
   "id": 186108135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.183888,36.451013,-103.183888,36.451013",
     "geom:latitude":36.451013,
     "geom:longitude":-103.183888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S 1st St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186108135,
-    "wof:lastmodified":1449050308,
+    "wof:lastmodified":1466699004,
     "wof:name":"Driftwood Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-103.183888,36.451013,-103.183888,36.451013],
+  "bbox": [
+    -103.183888,
+    36.451013,
+    -103.183888,
+    36.451013
+],
   "geometry": {"coordinates":[-103.183888,36.451013],"type":"Point"}
 }

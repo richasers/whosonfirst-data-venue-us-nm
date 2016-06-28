@@ -2,13 +2,14 @@
   "id": 169775493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.540294,35.069087,-106.540294,35.069087",
     "geom:latitude":35.069087,
     "geom:longitude":-106.540294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9701 Trumbull Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169775493,
-    "wof:lastmodified":1449035118,
+    "wof:lastmodified":1466698312,
     "wof:name":"Mc Clintic RDM Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.540294,35.069087,-106.540294,35.069087],
+  "bbox": [
+    -106.540294,
+    35.069087,
+    -106.540294,
+    35.069087
+],
   "geometry": {"coordinates":[-106.540294,35.069087],"type":"Point"}
 }

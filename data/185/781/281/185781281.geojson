@@ -2,13 +2,14 @@
   "id": 185781281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.533368,35.123925,-106.533368,35.123925",
     "geom:latitude":35.123925,
     "geom:longitude":-106.533368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3711 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":185781281,
-    "wof:lastmodified":1449006925,
+    "wof:lastmodified":1466699265,
     "wof:name":"Susan F Erbe Inc",
     "wof:parent_id":85825849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "representative"
     ]
 },
-  "bbox": [-106.533368,35.123925,-106.533368,35.123925],
+  "bbox": [
+    -106.533368,
+    35.123925,
+    -106.533368,
+    35.123925
+],
   "geometry": {"coordinates":[-106.533368,35.123925],"type":"Point"}
 }

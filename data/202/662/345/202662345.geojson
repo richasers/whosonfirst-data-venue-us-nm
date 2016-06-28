@@ -2,13 +2,14 @@
   "id": 202662345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.629939,35.111347,-106.629939,35.111347",
     "geom:latitude":35.111347,
     "geom:longitude":-106.629939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 Broadbent Pkwy NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202662345,
-    "wof:lastmodified":1449061806,
+    "wof:lastmodified":1466699320,
     "wof:name":"Entravision Communications Co",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "co"
     ]
 },
-  "bbox": [-106.629939,35.111347,-106.629939,35.111347],
-  "geometry": {"coordinates":[-106.629939,35.111347],"type":"Point"}
+  "bbox": [
+    -106.629939,
+    35.111347,
+    -106.629939,
+    35.111347
+],
+  "geometry": {"coordinates":[-106.62993899999999,35.111347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202486485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.64287,35.086039,-106.64287,35.086039",
     "geom:latitude":35.086039,
     "geom:longitude":-106.64287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Dr Martin Luther King Jr Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202486485,
-    "wof:lastmodified":1449061519,
+    "wof:lastmodified":1466699024,
     "wof:name":"US Drug Enforcement Adm",
     "wof:parent_id":85871877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-106.64287,35.086039,-106.64287,35.086039],
+  "bbox": [
+    -106.64287,
+    35.086039,
+    -106.64287,
+    35.086039
+],
   "geometry": {"coordinates":[-106.64287,35.086039],"type":"Point"}
 }

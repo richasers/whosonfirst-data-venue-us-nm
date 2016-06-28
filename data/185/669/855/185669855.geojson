@@ -2,13 +2,14 @@
   "id": 185669855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.948392,35.673351,-105.948392,35.673351",
     "geom:latitude":35.673351,
     "geom:longitude":-105.948392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1043 Don Diego Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185669855,
-    "wof:lastmodified":1449006790,
+    "wof:lastmodified":1466698343,
     "wof:name":"Michael L Tate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-105.948392,35.673351,-105.948392,35.673351],
+  "bbox": [
+    -105.948392,
+    35.673351,
+    -105.948392,
+    35.673351
+],
   "geometry": {"coordinates":[-105.948392,35.673351],"type":"Point"}
 }

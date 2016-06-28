@@ -2,13 +2,14 @@
   "id": 202579547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.757745,32.27805,-107.757745,32.27805",
     "geom:latitude":32.27805,
     "geom:longitude":-107.757745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 N Platinum Ave",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202579547,
-    "wof:lastmodified":1449060916,
+    "wof:lastmodified":1466698081,
     "wof:name":"Maria Villegas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.757745,32.27805,-107.757745,32.27805],
+  "bbox": [
+    -107.757745,
+    32.27805,
+    -107.757745,
+    32.27805
+],
   "geometry": {"coordinates":[-107.757745,32.27805],"type":"Point"}
 }

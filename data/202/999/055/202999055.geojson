@@ -2,13 +2,14 @@
   "id": 202999055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.616766,35.115494,-106.616766,35.115494",
     "geom:latitude":35.115494,
     "geom:longitude":-106.616766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2412 Candelaria Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202999055,
-    "wof:lastmodified":1449062341,
+    "wof:lastmodified":1466700756,
     "wof:name":"Leather Factory Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "findings"
     ]
 },
-  "bbox": [-106.616766,35.115494,-106.616766,35.115494],
+  "bbox": [
+    -106.616766,
+    35.115494,
+    -106.616766,
+    35.115494
+],
   "geometry": {"coordinates":[-106.616766,35.115494],"type":"Point"}
 }

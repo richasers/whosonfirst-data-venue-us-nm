@@ -2,13 +2,14 @@
   "id": 353946647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.577477,35.089373,-106.577477,35.089373",
     "geom:latitude":35.089373,
     "geom:longitude":-106.577477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 San Pedro Dr NE #130",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353946647,
-    "wof:lastmodified":1449020498,
+    "wof:lastmodified":1466698471,
     "wof:name":"Planning your memories",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "event"
     ]
 },
-  "bbox": [-106.577477,35.089373,-106.577477,35.089373],
+  "bbox": [
+    -106.577477,
+    35.089373,
+    -106.577477,
+    35.089373
+],
   "geometry": {"coordinates":[-106.577477,35.089373],"type":"Point"}
 }

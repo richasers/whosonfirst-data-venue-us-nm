@@ -2,13 +2,14 @@
   "id": 202546693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.212844,36.754255,-108.212844,36.754255",
     "geom:latitude":36.754255,
     "geom:longitude":-108.212844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 W 27th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202546693,
-    "wof:lastmodified":1449060103,
+    "wof:lastmodified":1466699382,
     "wof:name":"Chuck's Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-108.212844,36.754255,-108.212844,36.754255],
+  "bbox": [
+    -108.212844,
+    36.754255,
+    -108.212844,
+    36.754255
+],
   "geometry": {"coordinates":[-108.212844,36.754255],"type":"Point"}
 }

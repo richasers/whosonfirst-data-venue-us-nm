@@ -2,13 +2,14 @@
   "id": 202621309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.656284,31.999294,-106.656284,31.999294",
     "geom:latitude":31.999294,
     "geom:longitude":-106.656284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 Hwy 28",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202621309,
-    "wof:lastmodified":1449062349,
+    "wof:lastmodified":1466698694,
     "wof:name":"Gadsden High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.656284,31.999294,-106.656284,31.999294],
+  "bbox": [
+    -106.656284,
+    31.999294,
+    -106.656284,
+    31.999294
+],
   "geometry": {"coordinates":[-106.656284,31.999294],"type":"Point"}
 }

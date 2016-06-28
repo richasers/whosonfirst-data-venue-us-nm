@@ -2,13 +2,14 @@
   "id": 186568543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.987124,36.828267,-107.987124,36.828267",
     "geom:latitude":36.828267,
     "geom:longitude":-107.987124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Maddox Ave",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186568543,
-    "wof:lastmodified":1449050174,
+    "wof:lastmodified":1466700654,
     "wof:name":"Country & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-107.987124,36.828267,-107.987124,36.828267],
-  "geometry": {"coordinates":[-107.987124,36.828267],"type":"Point"}
+  "bbox": [
+    -107.987124,
+    36.828267,
+    -107.987124,
+    36.828267
+],
+  "geometry": {"coordinates":[-107.98712399999999,36.828267],"type":"Point"}
 }

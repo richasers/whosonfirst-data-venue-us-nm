@@ -2,13 +2,14 @@
   "id": 353945989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.55323,35.094601,-106.55323,35.094601",
     "geom:latitude":35.094601,
     "geom:longitude":-106.55323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8300 Constitution Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":353945989,
-    "wof:lastmodified":1449018473,
+    "wof:lastmodified":1466698451,
     "wof:name":"New Mexico Pain & Spine Institute",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.55323,35.094601,-106.55323,35.094601],
+  "bbox": [
+    -106.55323,
+    35.094601,
+    -106.55323,
+    35.094601
+],
   "geometry": {"coordinates":[-106.55323,35.094601],"type":"Point"}
 }

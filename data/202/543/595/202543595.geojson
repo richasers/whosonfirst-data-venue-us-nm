@@ -2,13 +2,14 @@
   "id": 202543595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.942468,35.684283,-105.942468,35.684283",
     "geom:latitude":35.684283,
     "geom:longitude":-105.942468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Montezuma Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202543595,
-    "wof:lastmodified":1449060610,
+    "wof:lastmodified":1466699330,
     "wof:name":"Saveur",
     "wof:parent_id":85880805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-105.942468,35.684283,-105.942468,35.684283],
-  "geometry": {"coordinates":[-105.942468,35.684283],"type":"Point"}
+  "bbox": [
+    -105.942468,
+    35.684283,
+    -105.942468,
+    35.684283
+],
+  "geometry": {"coordinates":[-105.94246800000001,35.684283],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186532853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.575703,36.406879,-105.575703,36.406879",
     "geom:latitude":36.406879,
     "geom:longitude":-105.575703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Cam de la Placita",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186532853,
-    "wof:lastmodified":1449051285,
+    "wof:lastmodified":1466700248,
     "wof:name":"David Art & Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-105.575703,36.406879,-105.575703,36.406879],
+  "bbox": [
+    -105.575703,
+    36.406879,
+    -105.575703,
+    36.406879
+],
   "geometry": {"coordinates":[-105.575703,36.406879],"type":"Point"}
 }

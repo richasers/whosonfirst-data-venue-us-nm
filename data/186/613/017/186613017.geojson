@@ -2,13 +2,14 @@
   "id": 186613017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.185795,32.718677,-103.185795,32.718677",
     "geom:latitude":32.718677,
     "geom:longitude":-103.185795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2131 Carr Ln",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186613017,
-    "wof:lastmodified":1449051627,
+    "wof:lastmodified":1466700562,
     "wof:name":"Hobbs Wholesale Growers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.185795,32.718677,-103.185795,32.718677],
+  "bbox": [
+    -103.185795,
+    32.718677,
+    -103.185795,
+    32.718677
+],
   "geometry": {"coordinates":[-103.185795,32.718677],"type":"Point"}
 }

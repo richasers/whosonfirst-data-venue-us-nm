@@ -2,13 +2,14 @@
   "id": 353942723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.570953,35.109039,-106.570953,35.109039",
     "geom:latitude":35.109039,
     "geom:longitude":-106.570953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":353942723,
-    "wof:lastmodified":1449019423,
+    "wof:lastmodified":1466698355,
     "wof:name":"Sears Auto Center",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-106.570953,35.109039,-106.570953,35.109039],
+  "bbox": [
+    -106.570953,
+    35.109039,
+    -106.570953,
+    35.109039
+],
   "geometry": {"coordinates":[-106.570953,35.109039],"type":"Point"}
 }

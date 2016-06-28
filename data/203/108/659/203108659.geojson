@@ -2,13 +2,14 @@
   "id": 203108659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.670158,35.116861,-106.670158,35.116861",
     "geom:latitude":35.116861,
     "geom:longitude":-106.670158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2133 Francella Dr",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203108659,
-    "wof:lastmodified":1449024977,
+    "wof:lastmodified":1466698818,
     "wof:name":"Penguin Enterprises",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.670158,35.116861,-106.670158,35.116861],
+  "bbox": [
+    -106.670158,
+    35.116861,
+    -106.670158,
+    35.116861
+],
   "geometry": {"coordinates":[-106.670158,35.116861],"type":"Point"}
 }

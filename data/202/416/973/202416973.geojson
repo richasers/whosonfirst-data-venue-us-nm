@@ -2,13 +2,14 @@
   "id": 202416973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.198753,35.8162,-106.198753,35.8162",
     "geom:latitude":35.8162,
     "geom:longitude":-106.198753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Rover Blvd",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202416973,
-    "wof:lastmodified":1449061270,
+    "wof:lastmodified":1466698159,
     "wof:name":"Crisis Center Of New Mexico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "intervention"
     ]
 },
-  "bbox": [-106.198753,35.8162,-106.198753,35.8162],
+  "bbox": [
+    -106.198753,
+    35.8162,
+    -106.198753,
+    35.8162
+],
   "geometry": {"coordinates":[-106.198753,35.8162],"type":"Point"}
 }

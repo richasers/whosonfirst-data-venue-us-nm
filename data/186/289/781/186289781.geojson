@@ -2,13 +2,14 @@
   "id": 186289781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.76791,32.29415,-106.76791,32.29415",
     "geom:latitude":32.29415,
     "geom:longitude":-106.76791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 el Paseo Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186289781,
-    "wof:lastmodified":1449052560,
+    "wof:lastmodified":1466699197,
     "wof:name":"Its Burger Time Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.76791,32.29415,-106.76791,32.29415],
+  "bbox": [
+    -106.76791,
+    32.29415,
+    -106.76791,
+    32.29415
+],
   "geometry": {"coordinates":[-106.76791,32.29415],"type":"Point"}
 }

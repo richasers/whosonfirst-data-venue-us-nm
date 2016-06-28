@@ -2,13 +2,14 @@
   "id": 203078483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.727914,34.805575,-106.727914,34.805575",
     "geom:latitude":34.805575,
     "geom:longitude":-106.727914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Main St NE",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203078483,
-    "wof:lastmodified":1449026554,
+    "wof:lastmodified":1466698446,
     "wof:name":"Huning Livestock",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "livestock"
     ]
 },
-  "bbox": [-106.727914,34.805575,-106.727914,34.805575],
+  "bbox": [
+    -106.727914,
+    34.805575,
+    -106.727914,
+    34.805575
+],
   "geometry": {"coordinates":[-106.727914,34.805575],"type":"Point"}
 }

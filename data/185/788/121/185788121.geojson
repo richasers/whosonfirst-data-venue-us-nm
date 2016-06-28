@@ -2,13 +2,14 @@
   "id": 185788121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.47031,35.324272,-106.47031,35.324272",
     "geom:latitude":35.324272,
     "geom:longitude":-106.47031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Cienega Canyon Rd",
     "sg:city":"Placitas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185788121,
-    "wof:lastmodified":1449007459,
+    "wof:lastmodified":1466699296,
     "wof:name":"Zoe Isabel Botanic Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.47031,35.324272,-106.47031,35.324272],
+  "bbox": [
+    -106.47031,
+    35.324272,
+    -106.47031,
+    35.324272
+],
   "geometry": {"coordinates":[-106.47031,35.324272],"type":"Point"}
 }

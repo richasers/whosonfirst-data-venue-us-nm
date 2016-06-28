@@ -2,13 +2,14 @@
   "id": 185606035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.227721,32.423721,-104.227721,32.423721",
     "geom:latitude":32.423721,
     "geom:longitude":-104.227721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 N Canyon St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185606035,
-    "wof:lastmodified":1449006862,
+    "wof:lastmodified":1466697645,
     "wof:name":"Carlsbad Insurance",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.227721,32.423721,-104.227721,32.423721],
+  "bbox": [
+    -104.227721,
+    32.423721,
+    -104.227721,
+    32.423721
+],
   "geometry": {"coordinates":[-104.227721,32.423721],"type":"Point"}
 }

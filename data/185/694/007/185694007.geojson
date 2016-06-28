@@ -2,13 +2,14 @@
   "id": 185694007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.721965,35.17167,-103.721965,35.17167",
     "geom:latitude":35.17167,
     "geom:longitude":-103.721965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 E Tucumcari Blvd",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185694007,
-    "wof:lastmodified":1449007061,
+    "wof:lastmodified":1466699428,
     "wof:name":"New Life Auto Detail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-103.721965,35.17167,-103.721965,35.17167],
+  "bbox": [
+    -103.721965,
+    35.17167,
+    -103.721965,
+    35.17167
+],
   "geometry": {"coordinates":[-103.721965,35.17167],"type":"Point"}
 }

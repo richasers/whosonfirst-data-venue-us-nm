@@ -2,13 +2,14 @@
   "id": 202636345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.681186,35.03323,-106.681186,35.03323",
     "geom:latitude":35.03323,
     "geom:longitude":-106.681186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1749 Shadyside Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202636345,
-    "wof:lastmodified":1449061126,
+    "wof:lastmodified":1466698930,
     "wof:name":"Night Spirits Art",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-106.681186,35.03323,-106.681186,35.03323],
+  "bbox": [
+    -106.681186,
+    35.03323,
+    -106.681186,
+    35.03323
+],
   "geometry": {"coordinates":[-106.681186,35.03323],"type":"Point"}
 }

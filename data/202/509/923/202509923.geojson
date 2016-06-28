@@ -2,13 +2,14 @@
   "id": 202509923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.061402,35.629995,-106.061402,35.629995",
     "geom:latitude":35.629995,
     "geom:longitude":-106.061402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4140 Cheyenne Cir",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202509923,
-    "wof:lastmodified":1449060202,
+    "wof:lastmodified":1466699204,
     "wof:name":"Sena Lura Occptonal Therapist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.061402,35.629995,-106.061402,35.629995],
+  "bbox": [
+    -106.061402,
+    35.629995,
+    -106.061402,
+    35.629995
+],
   "geometry": {"coordinates":[-106.061402,35.629995],"type":"Point"}
 }

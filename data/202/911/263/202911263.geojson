@@ -2,13 +2,14 @@
   "id": 202911263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.582042,36.893345,-106.582042,36.893345",
     "geom:latitude":36.893345,
     "geom:longitude":-106.582042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2332 State Hwy 17",
     "sg:city":"Chama",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202911263,
-    "wof:lastmodified":1449062248,
+    "wof:lastmodified":1466700398,
     "wof:name":"Rio Arriba Magistrate Court",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-106.582042,36.893345,-106.582042,36.893345],
+  "bbox": [
+    -106.582042,
+    36.893345,
+    -106.582042,
+    36.893345
+],
   "geometry": {"coordinates":[-106.582042,36.893345],"type":"Point"}
 }

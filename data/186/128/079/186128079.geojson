@@ -2,13 +2,14 @@
   "id": 186128079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.174308,32.769371,-108.174308,32.769371",
     "geom:latitude":32.769371,
     "geom:longitude":-108.174308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Cam Verde",
     "sg:city":"Arenas Valley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186128079,
-    "wof:lastmodified":1449051410,
+    "wof:lastmodified":1466699139,
     "wof:name":"Delta Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.174308,32.769371,-108.174308,32.769371],
+  "bbox": [
+    -108.174308,
+    32.769371,
+    -108.174308,
+    32.769371
+],
   "geometry": {"coordinates":[-108.174308,32.769371],"type":"Point"}
 }

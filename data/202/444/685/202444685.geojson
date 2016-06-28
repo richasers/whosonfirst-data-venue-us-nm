@@ -2,13 +2,14 @@
   "id": 202444685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.724006,35.101833,-106.724006,35.101833",
     "geom:latitude":35.101833,
     "geom:longitude":-106.724006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7701 Sandlewood Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":202444685,
-    "wof:lastmodified":1449062309,
+    "wof:lastmodified":1466698478,
     "wof:name":"Harry Wright",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.724006,35.101833,-106.724006,35.101833],
+  "bbox": [
+    -106.724006,
+    35.101833,
+    -106.724006,
+    35.101833
+],
   "geometry": {"coordinates":[-106.724006,35.101833],"type":"Point"}
 }

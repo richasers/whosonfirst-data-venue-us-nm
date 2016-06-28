@@ -2,13 +2,14 @@
   "id": 202793053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.5521,33.424889,-104.5521,33.424889",
     "geom:latitude":33.424889,
     "geom:longitude":-104.5521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2604 N Spruce Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202793053,
-    "wof:lastmodified":1449061504,
+    "wof:lastmodified":1466699953,
     "wof:name":"Fox Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-104.5521,33.424889,-104.5521,33.424889],
+  "bbox": [
+    -104.5521,
+    33.424889,
+    -104.5521,
+    33.424889
+],
   "geometry": {"coordinates":[-104.5521,33.424889],"type":"Point"}
 }

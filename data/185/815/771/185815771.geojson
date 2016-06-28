@@ -2,13 +2,14 @@
   "id": 185815771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.708939,35.038172,-106.708939,35.038172",
     "geom:latitude":35.038172,
     "geom:longitude":-106.708939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 Pimlico Pl SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":185815771,
-    "wof:lastmodified":1449007406,
+    "wof:lastmodified":1466697631,
     "wof:name":"7 Bar Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.708939,35.038172,-106.708939,35.038172],
+  "bbox": [
+    -106.708939,
+    35.038172,
+    -106.708939,
+    35.038172
+],
   "geometry": {"coordinates":[-106.708939,35.038172],"type":"Point"}
 }

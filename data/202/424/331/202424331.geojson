@@ -2,13 +2,14 @@
   "id": 202424331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.854377,35.153776,-107.854377,35.153776",
     "geom:latitude":35.153776,
     "geom:longitude":-107.854377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 W High St",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202424331,
-    "wof:lastmodified":1449062486,
+    "wof:lastmodified":1466698244,
     "wof:name":"Trends Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-107.854377,35.153776,-107.854377,35.153776],
+  "bbox": [
+    -107.854377,
+    35.153776,
+    -107.854377,
+    35.153776
+],
   "geometry": {"coordinates":[-107.854377,35.153776],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186429909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.338493,35.568143,-106.338493,35.568143",
     "geom:latitude":35.568143,
     "geom:longitude":-106.338493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"780 Hwy 22",
     "sg:city":"Pena Blanca",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186429909,
-    "wof:lastmodified":1449052895,
+    "wof:lastmodified":1466699965,
     "wof:name":"William H Hall Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.338493,35.568143,-106.338493,35.568143],
+  "bbox": [
+    -106.338493,
+    35.568143,
+    -106.338493,
+    35.568143
+],
   "geometry": {"coordinates":[-106.338493,35.568143],"type":"Point"}
 }

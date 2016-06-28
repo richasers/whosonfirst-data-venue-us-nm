@@ -2,13 +2,14 @@
   "id": 186075793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.707248,35.139777,-106.707248,35.139777",
     "geom:latitude":35.139777,
     "geom:longitude":-106.707248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4923 Story Rock St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186075793,
-    "wof:lastmodified":1449051840,
+    "wof:lastmodified":1466698577,
     "wof:name":"Big Shot Photography",
     "wof:parent_id":85865321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-106.707248,35.139777,-106.707248,35.139777],
-  "geometry": {"coordinates":[-106.707248,35.139777],"type":"Point"}
+  "bbox": [
+    -106.707248,
+    35.139777,
+    -106.707248,
+    35.139777
+],
+  "geometry": {"coordinates":[-106.70724800000001,35.139777],"type":"Point"}
 }

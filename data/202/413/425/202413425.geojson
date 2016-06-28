@@ -2,13 +2,14 @@
   "id": 202413425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.624019,35.048497,-106.624019,35.048497",
     "geom:latitude":35.048497,
     "geom:longitude":-106.624019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 George Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202413425,
-    "wof:lastmodified":1449060510,
+    "wof:lastmodified":1466698114,
     "wof:name":"SCIS Air Security",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-106.624019,35.048497,-106.624019,35.048497],
+  "bbox": [
+    -106.624019,
+    35.048497,
+    -106.624019,
+    35.048497
+],
   "geometry": {"coordinates":[-106.624019,35.048497],"type":"Point"}
 }

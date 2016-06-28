@@ -2,13 +2,14 @@
   "id": 202843801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.973617,35.681678,-105.973617,35.681678",
     "geom:latitude":35.681678,
     "geom:longitude":-105.973617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 Siri Dharma Ct",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202843801,
-    "wof:lastmodified":1449060337,
+    "wof:lastmodified":1466700158,
     "wof:name":"Lisa Neela Ba Cht Manis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.973617,35.681678,-105.973617,35.681678],
+  "bbox": [
+    -105.973617,
+    35.681678,
+    -105.973617,
+    35.681678
+],
   "geometry": {"coordinates":[-105.973617,35.681678],"type":"Point"}
 }

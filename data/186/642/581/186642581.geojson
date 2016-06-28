@@ -2,13 +2,14 @@
   "id": 186642581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.972453,32.869752,-105.972453,32.869752",
     "geom:latitude":32.869752,
     "geom:longitude":-105.972453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 US Hwy 82",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186642581,
-    "wof:lastmodified":1449050419,
+    "wof:lastmodified":1466700784,
     "wof:name":"Moore's Trading Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hand"
     ]
 },
-  "bbox": [-105.972453,32.869752,-105.972453,32.869752],
+  "bbox": [
+    -105.972453,
+    32.869752,
+    -105.972453,
+    32.869752
+],
   "geometry": {"coordinates":[-105.972453,32.869752],"type":"Point"}
 }

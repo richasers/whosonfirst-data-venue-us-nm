@@ -2,13 +2,14 @@
   "id": 186498511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.216515,34.398771,-103.216515,34.398771",
     "geom:latitude":34.398771,
     "geom:longitude":-103.216515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 L Cassillas Blvd",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186498511,
-    "wof:lastmodified":1449052356,
+    "wof:lastmodified":1466700305,
     "wof:name":"Guadalajara Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.216515,34.398771,-103.216515,34.398771],
+  "bbox": [
+    -103.216515,
+    34.398771,
+    -103.216515,
+    34.398771
+],
   "geometry": {"coordinates":[-103.216515,34.398771],"type":"Point"}
 }

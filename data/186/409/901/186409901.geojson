@@ -2,13 +2,14 @@
   "id": 186409901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.971489,36.039276,-106.971489,36.039276",
     "geom:latitude":36.039276,
     "geom:longitude":-106.971489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 W Ranger Ln",
     "sg:city":"Mountainair",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186409901,
-    "wof:lastmodified":1449051479,
+    "wof:lastmodified":1466699879,
     "wof:name":"US Ranger Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.971489,36.039276,-106.971489,36.039276],
-  "geometry": {"coordinates":[-106.971489,36.039276],"type":"Point"}
+  "bbox": [
+    -106.971489,
+    36.039276,
+    -106.971489,
+    36.039276
+],
+  "geometry": {"coordinates":[-106.97148900000001,36.039276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186345759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.991887,35.65841,-105.991887,35.65841",
     "geom:latitude":35.65841,
     "geom:longitude":-105.991887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2902 Rufina St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186345759,
-    "wof:lastmodified":1449052817,
+    "wof:lastmodified":1466699669,
     "wof:name":"Water Man",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "company"
     ]
 },
-  "bbox": [-105.991887,35.65841,-105.991887,35.65841],
-  "geometry": {"coordinates":[-105.991887,35.65841],"type":"Point"}
+  "bbox": [
+    -105.991887,
+    35.65841,
+    -105.991887,
+    35.65841
+],
+  "geometry": {"coordinates":[-105.99188700000001,35.65841],"type":"Point"}
 }

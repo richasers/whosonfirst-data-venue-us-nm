@@ -2,13 +2,14 @@
   "id": 186559043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.609489,35.071166,-106.609489,35.071166",
     "geom:latitude":35.071166,
     "geom:longitude":-106.609489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3220 Monterey Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186559043,
-    "wof:lastmodified":1449052418,
+    "wof:lastmodified":1466700593,
     "wof:name":"Special Care Inc",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "disability"
     ]
 },
-  "bbox": [-106.609489,35.071166,-106.609489,35.071166],
+  "bbox": [
+    -106.609489,
+    35.071166,
+    -106.609489,
+    35.071166
+],
   "geometry": {"coordinates":[-106.609489,35.071166],"type":"Point"}
 }

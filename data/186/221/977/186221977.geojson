@@ -2,13 +2,14 @@
   "id": 186221977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.026438,35.624395,-106.026438,35.624395",
     "geom:latitude":35.624395,
     "geom:longitude":-106.026438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6800 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186221977,
-    "wof:lastmodified":1449051556,
+    "wof:lastmodified":1466698295,
     "wof:name":"Santa Fe Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.026438,35.624395,-106.026438,35.624395],
+  "bbox": [
+    -106.026438,
+    35.624395,
+    -106.026438,
+    35.624395
+],
   "geometry": {"coordinates":[-106.026438,35.624395],"type":"Point"}
 }

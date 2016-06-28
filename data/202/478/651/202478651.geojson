@@ -2,13 +2,14 @@
   "id": 202478651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.162832,36.720324,-108.162832,36.720324",
     "geom:latitude":36.720324,
     "geom:longitude":-108.162832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 Hillside Dr",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202478651,
-    "wof:lastmodified":1449060177,
+    "wof:lastmodified":1466698951,
     "wof:name":"Osborne's Industrial Engines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-108.162832,36.720324,-108.162832,36.720324],
-  "geometry": {"coordinates":[-108.162832,36.720324],"type":"Point"}
+  "bbox": [
+    -108.162832,
+    36.720324,
+    -108.162832,
+    36.720324
+],
+  "geometry": {"coordinates":[-108.16283199999999,36.720324],"type":"Point"}
 }

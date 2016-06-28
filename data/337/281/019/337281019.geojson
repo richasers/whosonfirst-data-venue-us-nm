@@ -2,13 +2,14 @@
   "id": 337281019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.77902,35.547456,-106.77902,35.547456",
     "geom:latitude":35.547456,
     "geom:longitude":-106.77902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23238 State Hwy 44",
     "sg:city":"San Ysidro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337281019,
-    "wof:lastmodified":1449027614,
+    "wof:lastmodified":1466697637,
     "wof:name":"Thriftway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.77902,35.547456,-106.77902,35.547456],
+  "bbox": [
+    -106.77902,
+    35.547456,
+    -106.77902,
+    35.547456
+],
   "geometry": {"coordinates":[-106.77902,35.547456],"type":"Point"}
 }

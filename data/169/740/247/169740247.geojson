@@ -2,13 +2,14 @@
   "id": 169740247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.62512,35.230942,-106.62512,35.230942",
     "geom:latitude":35.230942,
     "geom:longitude":-106.62512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"376 Old Church Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169740247,
-    "wof:lastmodified":1449034167,
+    "wof:lastmodified":1466697993,
     "wof:name":"Mass Perfection Inc",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "flue"
     ]
 },
-  "bbox": [-106.62512,35.230942,-106.62512,35.230942],
+  "bbox": [
+    -106.62512,
+    35.230942,
+    -106.62512,
+    35.230942
+],
   "geometry": {"coordinates":[-106.62512,35.230942],"type":"Point"}
 }

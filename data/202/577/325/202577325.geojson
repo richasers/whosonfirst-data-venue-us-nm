@@ -2,13 +2,14 @@
   "id": 202577325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.439894,36.88314,-104.439894,36.88314",
     "geom:latitude":36.88314,
     "geom:longitude":-104.439894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 S 2nd St",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202577325,
-    "wof:lastmodified":1449062746,
+    "wof:lastmodified":1466698050,
     "wof:name":"Jrs Country Store Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tape"
     ]
 },
-  "bbox": [-104.439894,36.88314,-104.439894,36.88314],
+  "bbox": [
+    -104.439894,
+    36.88314,
+    -104.439894,
+    36.88314
+],
   "geometry": {"coordinates":[-104.439894,36.88314],"type":"Point"}
 }

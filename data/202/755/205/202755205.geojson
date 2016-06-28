@@ -2,13 +2,14 @@
   "id": 202755205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.506004,35.142897,-106.506004,35.142897",
     "geom:latitude":35.142897,
     "geom:longitude":-106.506004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11900 Arroyo de Vis NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202755205,
-    "wof:lastmodified":1449060840,
+    "wof:lastmodified":1466699938,
     "wof:name":"Bales Aube Inc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-106.506004,35.142897,-106.506004,35.142897],
+  "bbox": [
+    -106.506004,
+    35.142897,
+    -106.506004,
+    35.142897
+],
   "geometry": {"coordinates":[-106.506004,35.142897],"type":"Point"}
 }

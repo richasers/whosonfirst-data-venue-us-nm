@@ -2,13 +2,14 @@
   "id": 185777441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.945967,35.684224,-105.945967,35.684224",
     "geom:latitude":35.684224,
     "geom:longitude":-105.945967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S Guadalupe St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185777441,
-    "wof:lastmodified":1449007470,
+    "wof:lastmodified":1466699250,
     "wof:name":"Santa Kilim",
     "wof:parent_id":85880805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.945967,35.684224,-105.945967,35.684224],
+  "bbox": [
+    -105.945967,
+    35.684224,
+    -105.945967,
+    35.684224
+],
   "geometry": {"coordinates":[-105.945967,35.684224],"type":"Point"}
 }

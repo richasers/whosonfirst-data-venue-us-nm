@@ -2,13 +2,14 @@
   "id": 203053757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.966226,35.669589,-105.966226,35.669589",
     "geom:latitude":35.669589,
     "geom:longitude":-105.966226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203053757,
-    "wof:lastmodified":1449025295,
+    "wof:lastmodified":1466698181,
     "wof:name":"American General Finance Corp",
     "wof:parent_id":85880783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-105.966226,35.669589,-105.966226,35.669589],
-  "geometry": {"coordinates":[-105.966226,35.669589],"type":"Point"}
+  "bbox": [
+    -105.966226,
+    35.669589,
+    -105.966226,
+    35.669589
+],
+  "geometry": {"coordinates":[-105.96622600000001,35.669589],"type":"Point"}
 }

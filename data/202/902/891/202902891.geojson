@@ -2,13 +2,14 @@
   "id": 202902891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.696162,34.97187,-106.696162,34.97187",
     "geom:latitude":34.97187,
     "geom:longitude":-106.696162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6715 Isleta Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":202902891,
-    "wof:lastmodified":1449061985,
+    "wof:lastmodified":1466700383,
     "wof:name":"Del Sol Equestrian Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-106.696162,34.97187,-106.696162,34.97187],
+  "bbox": [
+    -106.696162,
+    34.97187,
+    -106.696162,
+    34.97187
+],
   "geometry": {"coordinates":[-106.696162,34.97187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203101385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.699447,34.998764,-106.699447,34.998764",
     "geom:latitude":34.998764,
     "geom:longitude":-106.699447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2213 Muniz Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203101385,
-    "wof:lastmodified":1449025941,
+    "wof:lastmodified":1466698745,
     "wof:name":"Right Air Heating Air Coo",
     "wof:parent_id":85892575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.699447,34.998764,-106.699447,34.998764],
-  "geometry": {"coordinates":[-106.699447,34.998764],"type":"Point"}
+  "bbox": [
+    -106.699447,
+    34.998764,
+    -106.699447,
+    34.998764
+],
+  "geometry": {"coordinates":[-106.69944700000001,34.998764],"type":"Point"}
 }

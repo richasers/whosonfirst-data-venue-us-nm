@@ -2,13 +2,14 @@
   "id": 185868841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.552123,33.394062,-104.552123,33.394062",
     "geom:latitude":33.394062,
     "geom:longitude":-104.552123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1914 W 2nd St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185868841,
-    "wof:lastmodified":1449006646,
+    "wof:lastmodified":1466698202,
     "wof:name":"Environment Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-104.552123,33.394062,-104.552123,33.394062],
-  "geometry": {"coordinates":[-104.552123,33.394062],"type":"Point"}
+  "bbox": [
+    -104.552123,
+    33.394062,
+    -104.552123,
+    33.394062
+],
+  "geometry": {"coordinates":[-104.55212299999999,33.394062],"type":"Point"}
 }

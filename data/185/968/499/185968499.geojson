@@ -2,13 +2,14 @@
   "id": 185968499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.641729,35.162025,-106.641729,35.162025",
     "geom:latitude":35.162025,
     "geom:longitude":-106.641729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 Bledsoe Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185968499,
-    "wof:lastmodified":1449006699,
+    "wof:lastmodified":1466699433,
     "wof:name":"Veeco Plumbing and Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.641729,35.162025,-106.641729,35.162025],
+  "bbox": [
+    -106.641729,
+    35.162025,
+    -106.641729,
+    35.162025
+],
   "geometry": {"coordinates":[-106.641729,35.162025],"type":"Point"}
 }

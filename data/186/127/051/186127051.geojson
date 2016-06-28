@@ -2,13 +2,14 @@
   "id": 186127051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.192554,36.733502,-108.192554,36.733502",
     "geom:latitude":36.733502,
     "geom:longitude":-108.192554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"635 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186127051,
-    "wof:lastmodified":1449052808,
+    "wof:lastmodified":1466699460,
     "wof:name":"A To Z New & Used",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-108.192554,36.733502,-108.192554,36.733502],
+  "bbox": [
+    -108.192554,
+    36.733502,
+    -108.192554,
+    36.733502
+],
   "geometry": {"coordinates":[-108.192554,36.733502],"type":"Point"}
 }

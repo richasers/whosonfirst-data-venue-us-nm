@@ -2,13 +2,14 @@
   "id": 169784219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.710655,35.082979,-106.710655,35.082979",
     "geom:latitude":35.082979,
     "geom:longitude":-106.710655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Coors Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":169784219,
-    "wof:lastmodified":1449034897,
+    "wof:lastmodified":1466698385,
     "wof:name":"Advantage Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-106.710655,35.082979,-106.710655,35.082979],
+  "bbox": [
+    -106.710655,
+    35.082979,
+    -106.710655,
+    35.082979
+],
   "geometry": {"coordinates":[-106.710655,35.082979],"type":"Point"}
 }

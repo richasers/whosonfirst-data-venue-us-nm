@@ -2,13 +2,14 @@
   "id": 202721425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.756444,32.270083,-107.756444,32.270083",
     "geom:latitude":32.270083,
     "geom:longitude":-107.756444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N Platinum Ave",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202721425,
-    "wof:lastmodified":1449062639,
+    "wof:lastmodified":1466699564,
     "wof:name":"El Reys Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-107.756444,32.270083,-107.756444,32.270083],
+  "bbox": [
+    -107.756444,
+    32.270083,
+    -107.756444,
+    32.270083
+],
   "geometry": {"coordinates":[-107.756444,32.270083],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353968283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.536335,35.072374,-106.536335,35.072374",
     "geom:latitude":35.072374,
     "geom:longitude":-106.536335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10700 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353968283,
-    "wof:lastmodified":1449018417,
+    "wof:lastmodified":1466698973,
     "wof:name":"Duke City Automotive Svc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "accessory"
     ]
 },
-  "bbox": [-106.536335,35.072374,-106.536335,35.072374],
-  "geometry": {"coordinates":[-106.536335,35.072374],"type":"Point"}
+  "bbox": [
+    -106.536335,
+    35.072374,
+    -106.536335,
+    35.072374
+],
+  "geometry": {"coordinates":[-106.53633499999999,35.072374],"type":"Point"}
 }

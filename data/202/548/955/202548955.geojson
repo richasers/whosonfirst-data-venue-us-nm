@@ -2,13 +2,14 @@
   "id": 202548955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.514119,35.073592,-106.514119,35.073592",
     "geom:latitude":35.073592,
     "geom:longitude":-106.514119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Paisano St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202548955,
-    "wof:lastmodified":1449061844,
+    "wof:lastmodified":1466697629,
     "wof:name":"Garza & Garza Auto Body Inc",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "painting"
     ]
 },
-  "bbox": [-106.514119,35.073592,-106.514119,35.073592],
-  "geometry": {"coordinates":[-106.514119,35.073592],"type":"Point"}
+  "bbox": [
+    -106.514119,
+    35.073592,
+    -106.514119,
+    35.073592
+],
+  "geometry": {"coordinates":[-106.51411899999999,35.073592],"type":"Point"}
 }

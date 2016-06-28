@@ -2,13 +2,14 @@
   "id": 203058377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.55182,35.179019,-106.55182,35.179019",
     "geom:latitude":35.179019,
     "geom:longitude":-106.55182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8429 Joseph Sharp Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203058377,
-    "wof:lastmodified":1449025214,
+    "wof:lastmodified":1466698217,
     "wof:name":"American Medical Security",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.55182,35.179019,-106.55182,35.179019],
-  "geometry": {"coordinates":[-106.55182,35.179019],"type":"Point"}
+  "bbox": [
+    -106.55182,
+    35.179019,
+    -106.55182,
+    35.179019
+],
+  "geometry": {"coordinates":[-106.55182000000001,35.179019],"type":"Point"}
 }

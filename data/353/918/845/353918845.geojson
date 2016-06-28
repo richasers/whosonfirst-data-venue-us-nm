@@ -2,13 +2,14 @@
   "id": 353918845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.655435,35.089488,-106.655435,35.089488",
     "geom:latitude":35.089488,
     "geom:longitude":-106.655435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Roma Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353918845,
-    "wof:lastmodified":1449019973,
+    "wof:lastmodified":1466697693,
     "wof:name":"Fine Hand Weavings By Nancy",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.655435,35.089488,-106.655435,35.089488],
+  "bbox": [
+    -106.655435,
+    35.089488,
+    -106.655435,
+    35.089488
+],
   "geometry": {"coordinates":[-106.655435,35.089488],"type":"Point"}
 }

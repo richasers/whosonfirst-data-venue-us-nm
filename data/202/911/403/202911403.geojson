@@ -2,13 +2,14 @@
   "id": 202911403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.481843,35.133232,-106.481843,35.133232",
     "geom:latitude":35.133232,
     "geom:longitude":-106.481843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4725 Paso del Puma Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202911403,
-    "wof:lastmodified":1449062248,
+    "wof:lastmodified":1466700399,
     "wof:name":"LA Barge Landscaping",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.481843,35.133232,-106.481843,35.133232],
+  "bbox": [
+    -106.481843,
+    35.133232,
+    -106.481843,
+    35.133232
+],
   "geometry": {"coordinates":[-106.481843,35.133232],"type":"Point"}
 }

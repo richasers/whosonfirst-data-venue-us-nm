@@ -2,13 +2,14 @@
   "id": 202883935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.455818,33.428414,-104.455818,33.428414",
     "geom:latitude":33.428414,
     "geom:longitude":-104.455818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3684 Greenfield Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202883935,
-    "wof:lastmodified":1449062063,
+    "wof:lastmodified":1466700195,
     "wof:name":"Tripp Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.455818,33.428414,-104.455818,33.428414],
-  "geometry": {"coordinates":[-104.455818,33.428414],"type":"Point"}
+  "bbox": [
+    -104.455818,
+    33.428414,
+    -104.455818,
+    33.428414
+],
+  "geometry": {"coordinates":[-104.45581799999999,33.428414],"type":"Point"}
 }

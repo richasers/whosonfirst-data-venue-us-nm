@@ -2,13 +2,14 @@
   "id": 203035035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.782438,32.287337,-106.782438,32.287337",
     "geom:latitude":32.287337,
     "geom:longitude":-106.782438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W Boutz Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203035035,
-    "wof:lastmodified":1449026475,
+    "wof:lastmodified":1466697966,
     "wof:name":"Reed Elliott Photography",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-106.782438,32.287337,-106.782438,32.287337],
+  "bbox": [
+    -106.782438,
+    32.287337,
+    -106.782438,
+    32.287337
+],
   "geometry": {"coordinates":[-106.782438,32.287337],"type":"Point"}
 }

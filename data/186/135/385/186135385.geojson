@@ -2,13 +2,14 @@
   "id": 186135385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.639253,35.148328,-106.639253,35.148328",
     "geom:latitude":35.148328,
     "geom:longitude":-106.639253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"334 Vineyard Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186135385,
-    "wof:lastmodified":1449051406,
+    "wof:lastmodified":1466699181,
     "wof:name":"G S Co",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-106.639253,35.148328,-106.639253,35.148328],
+  "bbox": [
+    -106.639253,
+    35.148328,
+    -106.639253,
+    35.148328
+],
   "geometry": {"coordinates":[-106.639253,35.148328],"type":"Point"}
 }

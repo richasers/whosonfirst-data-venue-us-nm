@@ -2,13 +2,14 @@
   "id": 186496421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.070904,36.808178,-108.070904,36.808178",
     "geom:latitude":36.808178,
     "geom:longitude":-108.070904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"289 Rd 3050",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186496421,
-    "wof:lastmodified":1449052604,
+    "wof:lastmodified":1466700079,
     "wof:name":"Family Styling Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.070904,36.808178,-108.070904,36.808178],
+  "bbox": [
+    -108.070904,
+    36.808178,
+    -108.070904,
+    36.808178
+],
   "geometry": {"coordinates":[-108.070904,36.808178],"type":"Point"}
 }

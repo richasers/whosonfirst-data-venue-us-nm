@@ -2,13 +2,14 @@
   "id": 186633511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.549943,35.171849,-106.549943,35.171849",
     "geom:latitude":35.171849,
     "geom:longitude":-106.549943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8508 Liberty Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186633511,
-    "wof:lastmodified":1449053012,
+    "wof:lastmodified":1466700768,
     "wof:name":"Fleming Webb Co",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-106.549943,35.171849,-106.549943,35.171849],
+  "bbox": [
+    -106.549943,
+    35.171849,
+    -106.549943,
+    35.171849
+],
   "geometry": {"coordinates":[-106.549943,35.171849],"type":"Point"}
 }

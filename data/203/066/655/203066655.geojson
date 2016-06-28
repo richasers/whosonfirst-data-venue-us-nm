@@ -2,13 +2,14 @@
   "id": 203066655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.4846,35.156176,-106.4846,35.156176",
     "geom:latitude":35.156176,
     "geom:longitude":-106.4846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13412 Quaking Aspen Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203066655,
-    "wof:lastmodified":1449025456,
+    "wof:lastmodified":1466698304,
     "wof:name":"Dennis Monroe",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.4846,35.156176,-106.4846,35.156176],
+  "bbox": [
+    -106.4846,
+    35.156176,
+    -106.4846,
+    35.156176
+],
   "geometry": {"coordinates":[-106.4846,35.156176],"type":"Point"}
 }

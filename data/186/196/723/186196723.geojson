@@ -2,13 +2,14 @@
   "id": 186196723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.968697,35.641975,-105.968697,35.641975",
     "geom:latitude":35.641975,
     "geom:longitude":-105.968697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2420 Cam Capitan",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186196723,
-    "wof:lastmodified":1449051003,
+    "wof:lastmodified":1466697981,
     "wof:name":"Sisneros Environmental Corp",
     "wof:parent_id":85880775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-105.968697,35.641975,-105.968697,35.641975],
-  "geometry": {"coordinates":[-105.968697,35.641975],"type":"Point"}
+  "bbox": [
+    -105.968697,
+    35.641975,
+    -105.968697,
+    35.641975
+],
+  "geometry": {"coordinates":[-105.96869700000001,35.641975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202919903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.84376,35.157563,-107.84376,35.157563",
     "geom:latitude":35.157563,
     "geom:longitude":-107.84376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 1st St",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202919903,
-    "wof:lastmodified":1449062033,
+    "wof:lastmodified":1466700552,
     "wof:name":"Grants Novelty Co & Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.84376,35.157563,-107.84376,35.157563],
+  "bbox": [
+    -107.84376,
+    35.157563,
+    -107.84376,
+    35.157563
+],
   "geometry": {"coordinates":[-107.84376,35.157563],"type":"Point"}
 }

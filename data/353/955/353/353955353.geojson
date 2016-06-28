@@ -2,13 +2,14 @@
   "id": 353955353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.579144,35.182964,-106.579144,35.182964",
     "geom:latitude":35.182964,
     "geom:longitude":-106.579144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5811 Signal Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":353955353,
-    "wof:lastmodified":1449020010,
+    "wof:lastmodified":1466698709,
     "wof:name":"Comfort Inn & Suites North Albuquerque",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.579144,35.182964,-106.579144,35.182964],
+  "bbox": [
+    -106.579144,
+    35.182964,
+    -106.579144,
+    35.182964
+],
   "geometry": {"coordinates":[-106.579144,35.182964],"type":"Point"}
 }

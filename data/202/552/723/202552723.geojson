@@ -2,13 +2,14 @@
   "id": 202552723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.508503,35.136394,-106.508503,35.136394",
     "geom:latitude":35.136394,
     "geom:longitude":-106.508503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11511 Manitoba Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202552723,
-    "wof:lastmodified":1449061174,
+    "wof:lastmodified":1466697681,
     "wof:name":"Thomas Wielands Sharpening Rpr",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sharpening"
     ]
 },
-  "bbox": [-106.508503,35.136394,-106.508503,35.136394],
+  "bbox": [
+    -106.508503,
+    35.136394,
+    -106.508503,
+    35.136394
+],
   "geometry": {"coordinates":[-106.508503,35.136394],"type":"Point"}
 }

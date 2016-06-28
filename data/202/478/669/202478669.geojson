@@ -2,13 +2,14 @@
   "id": 202478669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.846032,32.303982,-106.846032,32.303982",
     "geom:latitude":32.303982,
     "geom:longitude":-106.846032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 W Picacho Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202478669,
-    "wof:lastmodified":1449060176,
+    "wof:lastmodified":1466698952,
     "wof:name":"Fairacres Elementary School",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.846032,32.303982,-106.846032,32.303982],
-  "geometry": {"coordinates":[-106.846032,32.303982],"type":"Point"}
+  "bbox": [
+    -106.846032,
+    32.303982,
+    -106.846032,
+    32.303982
+],
+  "geometry": {"coordinates":[-106.84603199999999,32.303982],"type":"Point"}
 }

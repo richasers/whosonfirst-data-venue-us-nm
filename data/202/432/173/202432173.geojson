@@ -2,13 +2,14 @@
   "id": 202432173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.703624,32.116073,-106.703624,32.116073",
     "geom:latitude":32.116073,
     "geom:longitude":-106.703624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15705 State Rte 28",
     "sg:city":"La Mesa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202432173,
-    "wof:lastmodified":1449060065,
+    "wof:lastmodified":1466698332,
     "wof:name":"Meza's Welding Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-106.703624,32.116073,-106.703624,32.116073],
+  "bbox": [
+    -106.703624,
+    32.116073,
+    -106.703624,
+    32.116073
+],
   "geometry": {"coordinates":[-106.703624,32.116073],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186382239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.946523,32.905851,-105.946523,32.905851",
     "geom:latitude":32.905851,
     "geom:longitude":-105.946523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Beverly Ln",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186382239,
-    "wof:lastmodified":1449051095,
+    "wof:lastmodified":1466699786,
     "wof:name":"Lang's Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-105.946523,32.905851,-105.946523,32.905851],
+  "bbox": [
+    -105.946523,
+    32.905851,
+    -105.946523,
+    32.905851
+],
   "geometry": {"coordinates":[-105.946523,32.905851],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202632131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.214053,36.730719,-108.214053,36.730719",
     "geom:latitude":36.730719,
     "geom:longitude":-108.214053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 N Schwartz Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202632131,
-    "wof:lastmodified":1449061706,
+    "wof:lastmodified":1466698863,
     "wof:name":"Cardin & Parmley PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.214053,36.730719,-108.214053,36.730719],
-  "geometry": {"coordinates":[-108.214053,36.730719],"type":"Point"}
+  "bbox": [
+    -108.214053,
+    36.730719,
+    -108.214053,
+    36.730719
+],
+  "geometry": {"coordinates":[-108.21405300000001,36.730719],"type":"Point"}
 }

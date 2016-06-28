@@ -2,13 +2,14 @@
   "id": 186363223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.243359,32.435766,-104.243359,32.435766",
     "geom:latitude":32.435766,
     "geom:longitude":-104.243359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 W Pierce St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186363223,
-    "wof:lastmodified":1449052691,
+    "wof:lastmodified":1466699717,
     "wof:name":"Master Lube",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-104.243359,32.435766,-104.243359,32.435766],
+  "bbox": [
+    -104.243359,
+    32.435766,
+    -104.243359,
+    32.435766
+],
   "geometry": {"coordinates":[-104.243359,32.435766],"type":"Point"}
 }

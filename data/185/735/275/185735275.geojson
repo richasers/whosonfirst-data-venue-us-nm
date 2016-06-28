@@ -2,13 +2,14 @@
   "id": 185735275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.765012,32.308787,-106.765012,32.308787",
     "geom:latitude":32.308787,
     "geom:longitude":-106.765012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 S Solano Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185735275,
-    "wof:lastmodified":1449008147,
+    "wof:lastmodified":1466699035,
     "wof:name":"Brake Masters",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brake"
     ]
 },
-  "bbox": [-106.765012,32.308787,-106.765012,32.308787],
+  "bbox": [
+    -106.765012,
+    32.308787,
+    -106.765012,
+    32.308787
+],
   "geometry": {"coordinates":[-106.765012,32.308787],"type":"Point"}
 }

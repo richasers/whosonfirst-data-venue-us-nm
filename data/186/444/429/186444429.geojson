@@ -2,13 +2,14 @@
   "id": 186444429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.158682,32.737083,-103.158682,32.737083",
     "geom:latitude":32.737083,
     "geom:longitude":-103.158682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3425 Industrial Dr",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186444429,
-    "wof:lastmodified":1449052652,
+    "wof:lastmodified":1466699895,
     "wof:name":"C D I Axelson Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "field"
     ]
 },
-  "bbox": [-103.158682,32.737083,-103.158682,32.737083],
+  "bbox": [
+    -103.158682,
+    32.737083,
+    -103.158682,
+    32.737083
+],
   "geometry": {"coordinates":[-103.158682,32.737083],"type":"Point"}
 }

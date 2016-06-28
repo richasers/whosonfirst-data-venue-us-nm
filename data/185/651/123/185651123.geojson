@@ -2,13 +2,14 @@
   "id": 185651123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.582596,35.157058,-106.582596,35.157058",
     "geom:latitude":35.157058,
     "geom:longitude":-106.582596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6701 Barnhart St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185651123,
-    "wof:lastmodified":1449006931,
+    "wof:lastmodified":1466698146,
     "wof:name":"Integrity Designs Mfg",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-106.582596,35.157058,-106.582596,35.157058],
+  "bbox": [
+    -106.582596,
+    35.157058,
+    -106.582596,
+    35.157058
+],
   "geometry": {"coordinates":[-106.582596,35.157058],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202794659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.993904,35.658135,-105.993904,35.658135",
     "geom:latitude":35.658135,
     "geom:longitude":-105.993904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2922 Rufina Ct",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202794659,
-    "wof:lastmodified":1449061346,
+    "wof:lastmodified":1466699966,
     "wof:name":"Crist Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-105.993904,35.658135,-105.993904,35.658135],
+  "bbox": [
+    -105.993904,
+    35.658135,
+    -105.993904,
+    35.658135
+],
   "geometry": {"coordinates":[-105.993904,35.658135],"type":"Point"}
 }

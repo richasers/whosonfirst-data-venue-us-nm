@@ -2,13 +2,14 @@
   "id": 186456437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.941022,35.687557,-105.941022,35.687557",
     "geom:latitude":35.687557,
     "geom:longitude":-105.941022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 W San Francisco St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186456437,
-    "wof:lastmodified":1449051176,
+    "wof:lastmodified":1466699964,
     "wof:name":"Indian Trader West",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-105.941022,35.687557,-105.941022,35.687557],
+  "bbox": [
+    -105.941022,
+    35.687557,
+    -105.941022,
+    35.687557
+],
   "geometry": {"coordinates":[-105.941022,35.687557],"type":"Point"}
 }

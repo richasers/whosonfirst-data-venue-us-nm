@@ -2,13 +2,14 @@
   "id": 186011837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.055184,35.638312,-106.055184,35.638312",
     "geom:latitude":35.638312,
     "geom:longitude":-106.055184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5969 Agua Fria St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186011837,
-    "wof:lastmodified":1449052520,
+    "wof:lastmodified":1466697828,
     "wof:name":"Santa Fe Roof Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.055184,35.638312,-106.055184,35.638312],
+  "bbox": [
+    -106.055184,
+    35.638312,
+    -106.055184,
+    35.638312
+],
   "geometry": {"coordinates":[-106.055184,35.638312],"type":"Point"}
 }

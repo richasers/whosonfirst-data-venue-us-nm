@@ -2,13 +2,14 @@
   "id": 185977353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.174919,36.934915,-108.174919,36.934915",
     "geom:latitude":36.934915,
     "geom:longitude":-108.174919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Rd 1300",
     "sg:city":"La Plata",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185977353,
-    "wof:lastmodified":1449008258,
+    "wof:lastmodified":1466699608,
     "wof:name":"Blanco Water Users Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-108.174919,36.934915,-108.174919,36.934915],
+  "bbox": [
+    -108.174919,
+    36.934915,
+    -108.174919,
+    36.934915
+],
   "geometry": {"coordinates":[-108.174919,36.934915],"type":"Point"}
 }

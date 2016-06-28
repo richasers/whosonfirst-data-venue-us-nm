@@ -2,13 +2,14 @@
   "id": 337286435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.539079,35.169711,-106.539079,35.169711",
     "geom:latitude":35.169711,
     "geom:longitude":-106.539079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7722 Quintana Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337286435,
-    "wof:lastmodified":1449027149,
+    "wof:lastmodified":1466697753,
     "wof:name":"Gloria Schwartz Design",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-106.539079,35.169711,-106.539079,35.169711],
+  "bbox": [
+    -106.539079,
+    35.169711,
+    -106.539079,
+    35.169711
+],
   "geometry": {"coordinates":[-106.539079,35.169711],"type":"Point"}
 }

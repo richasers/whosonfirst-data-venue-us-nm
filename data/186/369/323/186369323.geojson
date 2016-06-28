@@ -2,13 +2,14 @@
   "id": 186369323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.995053,36.822413,-107.995053,36.822413",
     "geom:latitude":36.822413,
     "geom:longitude":-107.995053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Main Ave",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186369323,
-    "wof:lastmodified":1449052902,
+    "wof:lastmodified":1466699608,
     "wof:name":"Aztec Media",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-107.995053,36.822413,-107.995053,36.822413],
+  "bbox": [
+    -107.995053,
+    36.822413,
+    -107.995053,
+    36.822413
+],
   "geometry": {"coordinates":[-107.995053,36.822413],"type":"Point"}
 }

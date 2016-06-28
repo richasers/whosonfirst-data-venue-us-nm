@@ -2,13 +2,14 @@
   "id": 202597113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.782171,32.321956,-106.782171,32.321956",
     "geom:latitude":32.321956,
     "geom:longitude":-106.782171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1323 N Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202597113,
-    "wof:lastmodified":1449062603,
+    "wof:lastmodified":1466698342,
     "wof:name":"Patron's Upolstery & Gift",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.782171,32.321956,-106.782171,32.321956],
-  "geometry": {"coordinates":[-106.782171,32.321956],"type":"Point"}
+  "bbox": [
+    -106.782171,
+    32.321956,
+    -106.782171,
+    32.321956
+],
+  "geometry": {"coordinates":[-106.78217100000001,32.321956],"type":"Point"}
 }

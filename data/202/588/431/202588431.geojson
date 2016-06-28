@@ -2,13 +2,14 @@
   "id": 202588431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.177377,32.701396,-103.177377,32.701396",
     "geom:latitude":32.701396,
     "geom:longitude":-103.177377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 NW County Rd",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202588431,
-    "wof:lastmodified":1449062163,
+    "wof:lastmodified":1466698215,
     "wof:name":"Baker Oil Tools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-103.177377,32.701396,-103.177377,32.701396],
-  "geometry": {"coordinates":[-103.177377,32.701396],"type":"Point"}
+  "bbox": [
+    -103.177377,
+    32.701396,
+    -103.177377,
+    32.701396
+],
+  "geometry": {"coordinates":[-103.17737700000001,32.701396],"type":"Point"}
 }

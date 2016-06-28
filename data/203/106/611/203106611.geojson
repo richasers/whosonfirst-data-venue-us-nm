@@ -2,13 +2,14 @@
   "id": 203106611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.210391,36.728126,-108.210391,36.728126",
     "geom:latitude":36.728126,
     "geom:longitude":-108.210391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 W Broadway St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203106611,
-    "wof:lastmodified":1449024919,
+    "wof:lastmodified":1466698808,
     "wof:name":"Farmington Child & Family Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-108.210391,36.728126,-108.210391,36.728126],
+  "bbox": [
+    -108.210391,
+    36.728126,
+    -108.210391,
+    36.728126
+],
   "geometry": {"coordinates":[-108.210391,36.728126],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202972537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.673203,35.141165,-106.673203,35.141165",
     "geom:latitude":35.141165,
     "geom:longitude":-106.673203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4136 Dietz Farm Cir NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202972537,
-    "wof:lastmodified":1449061392,
+    "wof:lastmodified":1466700555,
     "wof:name":"LA Esperanza Cattle Co",
     "wof:parent_id":85892593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "livestock"
     ]
 },
-  "bbox": [-106.673203,35.141165,-106.673203,35.141165],
+  "bbox": [
+    -106.673203,
+    35.141165,
+    -106.673203,
+    35.141165
+],
   "geometry": {"coordinates":[-106.673203,35.141165],"type":"Point"}
 }

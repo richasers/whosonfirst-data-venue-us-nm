@@ -2,13 +2,14 @@
   "id": 186480317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.53609,33.425173,-104.53609,33.425173",
     "geom:latitude":33.425173,
     "geom:longitude":-104.53609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2805 Coronado Dr",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186480317,
-    "wof:lastmodified":1449051266,
+    "wof:lastmodified":1466700161,
     "wof:name":"RPM Investments LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-104.53609,33.425173,-104.53609,33.425173],
+  "bbox": [
+    -104.53609,
+    33.425173,
+    -104.53609,
+    33.425173
+],
   "geometry": {"coordinates":[-104.53609,33.425173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169711129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.158894,36.758884,-108.158894,36.758884",
     "geom:latitude":36.758884,
     "geom:longitude":-108.158894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3539 E 30th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169711129,
-    "wof:lastmodified":1449035356,
+    "wof:lastmodified":1466697678,
     "wof:name":"San Juan College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "child"
     ]
 },
-  "bbox": [-108.158894,36.758884,-108.158894,36.758884],
+  "bbox": [
+    -108.158894,
+    36.758884,
+    -108.158894,
+    36.758884
+],
   "geometry": {"coordinates":[-108.158894,36.758884],"type":"Point"}
 }

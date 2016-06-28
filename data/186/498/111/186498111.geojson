@@ -2,13 +2,14 @@
   "id": 186498111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.940709,35.682842,-105.940709,35.682842",
     "geom:latitude":35.682842,
     "geom:longitude":-105.940709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Don Gaspar Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186498111,
-    "wof:lastmodified":1449052359,
+    "wof:lastmodified":1466700305,
     "wof:name":"Instructional Materials",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "program"
     ]
 },
-  "bbox": [-105.940709,35.682842,-105.940709,35.682842],
+  "bbox": [
+    -105.940709,
+    35.682842,
+    -105.940709,
+    35.682842
+],
   "geometry": {"coordinates":[-105.940709,35.682842],"type":"Point"}
 }

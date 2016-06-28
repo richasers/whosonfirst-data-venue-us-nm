@@ -2,13 +2,14 @@
   "id": 202954789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.791431,32.195825,-107.791431,32.195825",
     "geom:latitude":32.195825,
     "geom:longitude":-107.791431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3050 Rockhound Rd SW",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202954789,
-    "wof:lastmodified":1449062327,
+    "wof:lastmodified":1466700467,
     "wof:name":"O'Kelley Sand & Gravel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gravel"
     ]
 },
-  "bbox": [-107.791431,32.195825,-107.791431,32.195825],
+  "bbox": [
+    -107.791431,
+    32.195825,
+    -107.791431,
+    32.195825
+],
   "geometry": {"coordinates":[-107.791431,32.195825],"type":"Point"}
 }

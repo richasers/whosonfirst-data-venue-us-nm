@@ -2,13 +2,14 @@
   "id": 185816977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.947698,35.66525,-105.947698,35.66525",
     "geom:latitude":35.66525,
     "geom:longitude":-105.947698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1651 Galisteo St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185816977,
-    "wof:lastmodified":1449007551,
+    "wof:lastmodified":1466697648,
     "wof:name":"Omnisleep LLC",
     "wof:parent_id":85880837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-105.947698,35.66525,-105.947698,35.66525],
+  "bbox": [
+    -105.947698,
+    35.66525,
+    -105.947698,
+    35.66525
+],
   "geometry": {"coordinates":[-105.947698,35.66525],"type":"Point"}
 }

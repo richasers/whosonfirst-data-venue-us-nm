@@ -2,13 +2,14 @@
   "id": 186399583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.669916,33.331334,-105.669916,33.331334",
     "geom:latitude":33.331334,
     "geom:longitude":-105.669916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2309 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186399583,
-    "wof:lastmodified":1449050892,
+    "wof:lastmodified":1466699857,
     "wof:name":"Native America",
     "wof:parent_id":85842645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.669916,33.331334,-105.669916,33.331334],
+  "bbox": [
+    -105.669916,
+    33.331334,
+    -105.669916,
+    33.331334
+],
   "geometry": {"coordinates":[-105.669916,33.331334],"type":"Point"}
 }

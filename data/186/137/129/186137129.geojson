@@ -2,13 +2,14 @@
   "id": 186137129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.815377,32.308642,-106.815377,32.308642",
     "geom:latitude":32.308642,
     "geom:longitude":-106.815377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"760 N Motel Blvd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186137129,
-    "wof:lastmodified":1449052648,
+    "wof:lastmodified":1466699189,
     "wof:name":"Prevention & Intervention Div",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.815377,32.308642,-106.815377,32.308642],
+  "bbox": [
+    -106.815377,
+    32.308642,
+    -106.815377,
+    32.308642
+],
   "geometry": {"coordinates":[-106.815377,32.308642],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203061835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.224169,35.587348,-105.224169,35.587348",
     "geom:latitude":35.587348,
     "geom:longitude":-105.224169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 S Pacific St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203061835,
-    "wof:lastmodified":1449026334,
+    "wof:lastmodified":1466698255,
     "wof:name":"Cedric B Simpson MD PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-105.224169,35.587348,-105.224169,35.587348],
+  "bbox": [
+    -105.224169,
+    35.587348,
+    -105.224169,
+    35.587348
+],
   "geometry": {"coordinates":[-105.224169,35.587348],"type":"Point"}
 }

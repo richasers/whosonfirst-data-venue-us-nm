@@ -2,13 +2,14 @@
   "id": 203097513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.721123,35.118332,-106.721123,35.118332",
     "geom:latitude":35.118332,
     "geom:longitude":-106.721123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3039 Prenda de Plata NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203097513,
-    "wof:lastmodified":1449025659,
+    "wof:lastmodified":1466698723,
     "wof:name":"Clara's Catering Co",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-106.721123,35.118332,-106.721123,35.118332],
-  "geometry": {"coordinates":[-106.721123,35.118332],"type":"Point"}
+  "bbox": [
+    -106.721123,
+    35.118332,
+    -106.721123,
+    35.118332
+],
+  "geometry": {"coordinates":[-106.72112300000001,35.118332],"type":"Point"}
 }

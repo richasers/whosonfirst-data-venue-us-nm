@@ -2,13 +2,14 @@
   "id": 186415517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.486842,35.190794,-106.486842,35.190794",
     "geom:latitude":35.190794,
     "geom:longitude":-106.486842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Tramway Loop NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186415517,
-    "wof:lastmodified":1449052289,
+    "wof:lastmodified":1466699905,
     "wof:name":"Santa Fe Ski Area",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "skiing"
     ]
 },
-  "bbox": [-106.486842,35.190794,-106.486842,35.190794],
+  "bbox": [
+    -106.486842,
+    35.190794,
+    -106.486842,
+    35.190794
+],
   "geometry": {"coordinates":[-106.486842,35.190794],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202489307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.257604,32.78644,-108.257604,32.78644",
     "geom:latitude":32.78644,
     "geom:longitude":-108.257604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 US Hwy 180 E",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202489307,
-    "wof:lastmodified":1449061495,
+    "wof:lastmodified":1466699047,
     "wof:name":"Atv Mountain Cycle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.257604,32.78644,-108.257604,32.78644],
+  "bbox": [
+    -108.257604,
+    32.78644,
+    -108.257604,
+    32.78644
+],
   "geometry": {"coordinates":[-108.257604,32.78644],"type":"Point"}
 }

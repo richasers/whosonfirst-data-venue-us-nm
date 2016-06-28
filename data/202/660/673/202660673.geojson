@@ -2,13 +2,14 @@
   "id": 202660673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.208937,35.613293,-105.208937,35.613293",
     "geom:latitude":35.613293,
     "geom:longitude":-105.208937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1902 N Grand Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202660673,
-    "wof:lastmodified":1449062381,
+    "wof:lastmodified":1466699294,
     "wof:name":"A Lazy 6 Trucking & Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-105.208937,35.613293,-105.208937,35.613293],
-  "geometry": {"coordinates":[-105.208937,35.613293],"type":"Point"}
+  "bbox": [
+    -105.208937,
+    35.613293,
+    -105.208937,
+    35.613293
+],
+  "geometry": {"coordinates":[-105.20893700000001,35.613293],"type":"Point"}
 }

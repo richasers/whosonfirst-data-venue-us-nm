@@ -2,13 +2,14 @@
   "id": 202846763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.620466,35.109697,-106.620466,35.109697",
     "geom:latitude":35.109697,
     "geom:longitude":-106.620466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2415 Princeton Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202846763,
-    "wof:lastmodified":1449062092,
+    "wof:lastmodified":1466700166,
     "wof:name":"Advantage Truck Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "trucking"
     ]
 },
-  "bbox": [-106.620466,35.109697,-106.620466,35.109697],
-  "geometry": {"coordinates":[-106.620466,35.109697],"type":"Point"}
+  "bbox": [
+    -106.620466,
+    35.109697,
+    -106.620466,
+    35.109697
+],
+  "geometry": {"coordinates":[-106.62046599999999,35.109697],"type":"Point"}
 }

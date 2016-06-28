@@ -2,13 +2,14 @@
   "id": 186024427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.750851,35.523626,-108.750851,35.523626",
     "geom:latitude":35.523626,
     "geom:longitude":-108.750851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 W Aztec Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186024427,
-    "wof:lastmodified":1449051669,
+    "wof:lastmodified":1466697957,
     "wof:name":"Racher's Office Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.750851,35.523626,-108.750851,35.523626],
+  "bbox": [
+    -108.750851,
+    35.523626,
+    -108.750851,
+    35.523626
+],
   "geometry": {"coordinates":[-108.750851,35.523626],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186477457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.941391,35.6801,-105.941391,35.6801",
     "geom:latitude":35.6801,
     "geom:longitude":-105.941391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 Don Gaspar Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186477457,
-    "wof:lastmodified":1449050873,
+    "wof:lastmodified":1466700147,
     "wof:name":"Enchantment Magazine",
     "wof:parent_id":85880793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-105.941391,35.6801,-105.941391,35.6801],
+  "bbox": [
+    -105.941391,
+    35.6801,
+    -105.941391,
+    35.6801
+],
   "geometry": {"coordinates":[-105.941391,35.6801],"type":"Point"}
 }

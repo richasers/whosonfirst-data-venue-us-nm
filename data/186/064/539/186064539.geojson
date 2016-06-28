@@ -2,13 +2,14 @@
   "id": 186064539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.587015,35.130864,-106.587015,35.130864",
     "geom:latitude":35.130864,
     "geom:longitude":-106.587015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4770 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186064539,
-    "wof:lastmodified":1449051338,
+    "wof:lastmodified":1466698451,
     "wof:name":"Full Spectrum II",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.587015,35.130864,-106.587015,35.130864],
-  "geometry": {"coordinates":[-106.587015,35.130864],"type":"Point"}
+  "bbox": [
+    -106.587015,
+    35.130864,
+    -106.587015,
+    35.130864
+],
+  "geometry": {"coordinates":[-106.58701499999999,35.130864],"type":"Point"}
 }

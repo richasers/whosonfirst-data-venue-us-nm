@@ -2,13 +2,14 @@
   "id": 186093713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.954728,32.915866,-105.954728,32.915866",
     "geom:latitude":32.915866,
     "geom:longitude":-105.954728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 E Canal St",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186093713,
-    "wof:lastmodified":1449050260,
+    "wof:lastmodified":1466698827,
     "wof:name":"Appliance Service Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-105.954728,32.915866,-105.954728,32.915866],
+  "bbox": [
+    -105.954728,
+    32.915866,
+    -105.954728,
+    32.915866
+],
   "geometry": {"coordinates":[-105.954728,32.915866],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185838767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.714373,35.144061,-106.714373,35.144061",
     "geom:latitude":35.144061,
     "geom:longitude":-106.714373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6623 Azuelo Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185838767,
-    "wof:lastmodified":1449006795,
+    "wof:lastmodified":1466697885,
     "wof:name":"Amy Goetz Canvas",
     "wof:parent_id":85865321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "raising"
     ]
 },
-  "bbox": [-106.714373,35.144061,-106.714373,35.144061],
-  "geometry": {"coordinates":[-106.714373,35.144061],"type":"Point"}
+  "bbox": [
+    -106.714373,
+    35.144061,
+    -106.714373,
+    35.144061
+],
+  "geometry": {"coordinates":[-106.71437299999999,35.144061],"type":"Point"}
 }

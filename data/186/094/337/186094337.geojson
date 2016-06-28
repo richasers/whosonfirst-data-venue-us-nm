@@ -2,13 +2,14 @@
   "id": 186094337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.530567,33.415747,-104.530567,33.415747",
     "geom:latitude":33.415747,
     "geom:longitude":-104.530567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1817 N Maryland Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186094337,
-    "wof:lastmodified":1449052050,
+    "wof:lastmodified":1466698828,
     "wof:name":"Surface Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-104.530567,33.415747,-104.530567,33.415747],
+  "bbox": [
+    -104.530567,
+    33.415747,
+    -104.530567,
+    33.415747
+],
   "geometry": {"coordinates":[-104.530567,33.415747],"type":"Point"}
 }

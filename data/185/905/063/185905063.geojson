@@ -2,13 +2,14 @@
   "id": 185905063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.963366,32.932398,-105.963366,32.932398",
     "geom:latitude":32.932398,
     "geom:longitude":-105.963366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3203 N White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":185905063,
-    "wof:lastmodified":1449007251,
+    "wof:lastmodified":1466698593,
     "wof:name":"Sally Beauty Supply 596",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-105.963366,32.932398,-105.963366,32.932398],
-  "geometry": {"coordinates":[-105.963366,32.932398],"type":"Point"}
+  "bbox": [
+    -105.963366,
+    32.932398,
+    -105.963366,
+    32.932398
+],
+  "geometry": {"coordinates":[-105.96336599999999,32.932398],"type":"Point"}
 }

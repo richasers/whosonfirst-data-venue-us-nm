@@ -2,13 +2,14 @@
   "id": 202543775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.954722,36.020796,-106.954722,36.020796",
     "geom:latitude":36.020796,
     "geom:longitude":-106.954722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Mesa Vista Rd",
     "sg:city":"Cuba",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202543775,
-    "wof:lastmodified":1449060607,
+    "wof:lastmodified":1466699332,
     "wof:name":"Pnm Gas Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-106.954722,36.020796,-106.954722,36.020796],
+  "bbox": [
+    -106.954722,
+    36.020796,
+    -106.954722,
+    36.020796
+],
   "geometry": {"coordinates":[-106.954722,36.020796],"type":"Point"}
 }

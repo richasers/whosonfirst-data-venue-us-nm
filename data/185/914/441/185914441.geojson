@@ -2,13 +2,14 @@
   "id": 185914441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.557952,35.090859,-106.557952,35.090859",
     "geom:latitude":35.090859,
     "geom:longitude":-106.557952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7920 Mountain Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185914441,
-    "wof:lastmodified":1449007219,
+    "wof:lastmodified":1466698724,
     "wof:name":"NM Conf United Methdst Inc",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.557952,35.090859,-106.557952,35.090859],
+  "bbox": [
+    -106.557952,
+    35.090859,
+    -106.557952,
+    35.090859
+],
   "geometry": {"coordinates":[-106.557952,35.090859],"type":"Point"}
 }

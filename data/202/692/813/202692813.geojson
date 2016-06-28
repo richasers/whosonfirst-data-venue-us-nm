@@ -2,13 +2,14 @@
   "id": 202692813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.73806,32.304209,-106.73806,32.304209",
     "geom:latitude":32.304209,
     "geom:longitude":-106.73806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2903 Hillrise Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202692813,
-    "wof:lastmodified":1449060789,
+    "wof:lastmodified":1466699456,
     "wof:name":"Southwest Retina Consultants",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.73806,32.304209,-106.73806,32.304209],
+  "bbox": [
+    -106.73806,
+    32.304209,
+    -106.73806,
+    32.304209
+],
   "geometry": {"coordinates":[-106.73806,32.304209],"type":"Point"}
 }

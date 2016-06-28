@@ -2,13 +2,14 @@
   "id": 202961499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.520994,35.064148,-106.520994,35.064148",
     "geom:latitude":35.064148,
     "geom:longitude":-106.520994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11227 Kaibab Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202961499,
-    "wof:lastmodified":1449062578,
+    "wof:lastmodified":1466700604,
     "wof:name":"J & M Home Inspection Reports",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-106.520994,35.064148,-106.520994,35.064148],
+  "bbox": [
+    -106.520994,
+    35.064148,
+    -106.520994,
+    35.064148
+],
   "geometry": {"coordinates":[-106.520994,35.064148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186605393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.259355,32.442318,-104.259355,32.442318",
     "geom:latitude":32.442318,
     "geom:longitude":-104.259355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2420 W Pierce St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186605393,
-    "wof:lastmodified":1449051677,
+    "wof:lastmodified":1466700649,
     "wof:name":"J Kent Raney MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-104.259355,32.442318,-104.259355,32.442318],
+  "bbox": [
+    -104.259355,
+    32.442318,
+    -104.259355,
+    32.442318
+],
   "geometry": {"coordinates":[-104.259355,32.442318],"type":"Point"}
 }

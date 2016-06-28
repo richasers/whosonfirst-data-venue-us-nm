@@ -2,13 +2,14 @@
   "id": 202637247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.131275,32.69659,-103.131275,32.69659",
     "geom:latitude":32.69659,
     "geom:longitude":-103.131275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 E Marland St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202637247,
-    "wof:lastmodified":1449060116,
+    "wof:lastmodified":1466698946,
     "wof:name":"George's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-103.131275,32.69659,-103.131275,32.69659],
+  "bbox": [
+    -103.131275,
+    32.69659,
+    -103.131275,
+    32.69659
+],
   "geometry": {"coordinates":[-103.131275,32.69659],"type":"Point"}
 }

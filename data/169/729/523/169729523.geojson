@@ -2,13 +2,14 @@
   "id": 169729523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.962925,35.643679,-105.962925,35.643679",
     "geom:latitude":35.643679,
     "geom:longitude":-105.962925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1911 Cam Lumbre",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169729523,
-    "wof:lastmodified":1449034347,
+    "wof:lastmodified":1466697885,
     "wof:name":"EMK International",
     "wof:parent_id":85880775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-105.962925,35.643679,-105.962925,35.643679],
+  "bbox": [
+    -105.962925,
+    35.643679,
+    -105.962925,
+    35.643679
+],
   "geometry": {"coordinates":[-105.962925,35.643679],"type":"Point"}
 }

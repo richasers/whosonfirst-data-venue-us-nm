@@ -2,13 +2,14 @@
   "id": 202794259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.60896,35.155839,-106.60896,35.155839",
     "geom:latitude":35.155839,
     "geom:longitude":-106.60896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6801 Cll Laguna NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202794259,
-    "wof:lastmodified":1449061347,
+    "wof:lastmodified":1466699841,
     "wof:name":"Thomas Thorpe",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "relations"
     ]
 },
-  "bbox": [-106.60896,35.155839,-106.60896,35.155839],
+  "bbox": [
+    -106.60896,
+    35.155839,
+    -106.60896,
+    35.155839
+],
   "geometry": {"coordinates":[-106.60896,35.155839],"type":"Point"}
 }

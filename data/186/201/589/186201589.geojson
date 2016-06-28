@@ -2,13 +2,14 @@
   "id": 186201589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.196415,34.457223,-103.196415,34.457223",
     "geom:latitude":34.457223,
     "geom:longitude":-103.196415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5108 N Prince St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186201589,
-    "wof:lastmodified":1449052657,
+    "wof:lastmodified":1466698050,
     "wof:name":"Custom Golf Club Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-103.196415,34.457223,-103.196415,34.457223],
+  "bbox": [
+    -103.196415,
+    34.457223,
+    -103.196415,
+    34.457223
+],
   "geometry": {"coordinates":[-103.196415,34.457223],"type":"Point"}
 }

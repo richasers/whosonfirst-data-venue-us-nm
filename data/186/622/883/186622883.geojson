@@ -2,13 +2,14 @@
   "id": 186622883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.541974,35.071243,-106.541974,35.071243",
     "geom:latitude":35.071243,
     "geom:longitude":-106.541974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 James Moore St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186622883,
-    "wof:lastmodified":1449052529,
+    "wof:lastmodified":1466700598,
     "wof:name":"Advanced Tech Integrators LLC",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "robotics"
     ]
 },
-  "bbox": [-106.541974,35.071243,-106.541974,35.071243],
+  "bbox": [
+    -106.541974,
+    35.071243,
+    -106.541974,
+    35.071243
+],
   "geometry": {"coordinates":[-106.541974,35.071243],"type":"Point"}
 }

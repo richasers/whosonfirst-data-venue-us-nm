@@ -2,13 +2,14 @@
   "id": 186399817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.554978,35.130732,-106.554978,35.130732",
     "geom:latitude":35.130732,
     "geom:longitude":-106.554978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8000 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186399817,
-    "wof:lastmodified":1449050891,
+    "wof:lastmodified":1466699860,
     "wof:name":"Bombay Express Inc",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.554978,35.130732,-106.554978,35.130732],
-  "geometry": {"coordinates":[-106.554978,35.130732],"type":"Point"}
+  "bbox": [
+    -106.554978,
+    35.130732,
+    -106.554978,
+    35.130732
+],
+  "geometry": {"coordinates":[-106.55497800000001,35.130732],"type":"Point"}
 }

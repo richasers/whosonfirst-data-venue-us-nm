@@ -2,13 +2,14 @@
   "id": 203029485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.610699,35.160629,-106.610699,35.160629",
     "geom:latitude":35.160629,
     "geom:longitude":-106.610699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7101 Santa Rita Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203029485,
-    "wof:lastmodified":1449025724,
+    "wof:lastmodified":1466697920,
     "wof:name":"Mr Clean Power Wash",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "deck"
     ]
 },
-  "bbox": [-106.610699,35.160629,-106.610699,35.160629],
+  "bbox": [
+    -106.610699,
+    35.160629,
+    -106.610699,
+    35.160629
+],
   "geometry": {"coordinates":[-106.610699,35.160629],"type":"Point"}
 }

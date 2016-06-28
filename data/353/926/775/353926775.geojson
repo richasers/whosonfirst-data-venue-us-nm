@@ -2,13 +2,14 @@
   "id": 353926775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.618107,35.087539,-106.618107,35.087539",
     "geom:latitude":35.087539,
     "geom:longitude":-106.618107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 Lomas Blvd NE Ste Acc4w",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":353926775,
-    "wof:lastmodified":1449019145,
+    "wof:lastmodified":1466697913,
     "wof:name":"University Of Nm-Emergency Med",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "surgery-general"
     ]
 },
-  "bbox": [-106.618107,35.087539,-106.618107,35.087539],
-  "geometry": {"coordinates":[-106.618107,35.087539],"type":"Point"}
+  "bbox": [
+    -106.618107,
+    35.087539,
+    -106.618107,
+    35.087539
+],
+  "geometry": {"coordinates":[-106.61810699999999,35.087539],"type":"Point"}
 }

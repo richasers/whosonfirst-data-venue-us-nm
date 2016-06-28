@@ -2,13 +2,14 @@
   "id": 185747429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.775384,34.66444,-106.775384,34.66444",
     "geom:latitude":34.66444,
     "geom:longitude":-106.775384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 N Main St",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185747429,
-    "wof:lastmodified":1449006907,
+    "wof:lastmodified":1466699127,
     "wof:name":"Rutilio's New Mexican Foods",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.775384,34.66444,-106.775384,34.66444],
+  "bbox": [
+    -106.775384,
+    34.66444,
+    -106.775384,
+    34.66444
+],
   "geometry": {"coordinates":[-106.775384,34.66444],"type":"Point"}
 }

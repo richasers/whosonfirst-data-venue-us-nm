@@ -2,13 +2,14 @@
   "id": 202443907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.521409,35.155553,-106.521409,35.155553",
     "geom:latitude":35.155553,
     "geom:longitude":-106.521409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10608 Royal Birkdale NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202443907,
-    "wof:lastmodified":1449062198,
+    "wof:lastmodified":1466698476,
     "wof:name":"Bobby John Consulting",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-106.521409,35.155553,-106.521409,35.155553],
-  "geometry": {"coordinates":[-106.521409,35.155553],"type":"Point"}
+  "bbox": [
+    -106.521409,
+    35.155553,
+    -106.521409,
+    35.155553
+],
+  "geometry": {"coordinates":[-106.52140900000001,35.155553],"type":"Point"}
 }

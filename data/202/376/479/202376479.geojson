@@ -2,13 +2,14 @@
   "id": 202376479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.523389,33.408605,-104.523389,33.408605",
     "geom:latitude":33.408605,
     "geom:longitude":-104.523389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W College Blvd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202376479,
-    "wof:lastmodified":1449060977,
+    "wof:lastmodified":1466697626,
     "wof:name":"PVT Networks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-104.523389,33.408605,-104.523389,33.408605],
-  "geometry": {"coordinates":[-104.523389,33.408605],"type":"Point"}
+  "bbox": [
+    -104.523389,
+    33.408605,
+    -104.523389,
+    33.408605
+],
+  "geometry": {"coordinates":[-104.52338899999999,33.408605],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203096723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.424125,36.915748,-104.424125,36.915748",
     "geom:latitude":36.915748,
     "geom:longitude":-104.424125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 Cll del Sol",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203096723,
-    "wof:lastmodified":1449025533,
+    "wof:lastmodified":1466698708,
     "wof:name":"Airr02 Medical Supply & Diag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "home"
     ]
 },
-  "bbox": [-104.424125,36.915748,-104.424125,36.915748],
+  "bbox": [
+    -104.424125,
+    36.915748,
+    -104.424125,
+    36.915748
+],
   "geometry": {"coordinates":[-104.424125,36.915748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202674163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.59206,35.124031,-106.59206,35.124031",
     "geom:latitude":35.124031,
     "geom:longitude":-106.59206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4508 Palo Duro Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":202674163,
-    "wof:lastmodified":1449062000,
+    "wof:lastmodified":1466699485,
     "wof:name":"Santa Fe Decor Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.59206,35.124031,-106.59206,35.124031],
+  "bbox": [
+    -106.59206,
+    35.124031,
+    -106.59206,
+    35.124031
+],
   "geometry": {"coordinates":[-106.59206,35.124031],"type":"Point"}
 }

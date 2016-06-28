@@ -2,13 +2,14 @@
   "id": 186528093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.090539,35.590094,-106.090539,35.590094",
     "geom:latitude":35.590094,
     "geom:longitude":-106.090539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Cll del Arroyo",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186528093,
-    "wof:lastmodified":1449051099,
+    "wof:lastmodified":1466700458,
     "wof:name":"Southwest Tile Setters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.090539,35.590094,-106.090539,35.590094],
-  "geometry": {"coordinates":[-106.090539,35.590094],"type":"Point"}
+  "bbox": [
+    -106.090539,
+    35.590094,
+    -106.090539,
+    35.590094
+],
+  "geometry": {"coordinates":[-106.09053900000001,35.590094],"type":"Point"}
 }

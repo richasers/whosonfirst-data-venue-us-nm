@@ -2,13 +2,14 @@
   "id": 203059519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638546,35.235712,-106.638546,35.235712",
     "geom:latitude":35.235712,
     "geom:longitude":-106.638546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"378 Sereno Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203059519,
-    "wof:lastmodified":1449025428,
+    "wof:lastmodified":1466698232,
     "wof:name":"Softa Lee's Automotive",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-106.638546,35.235712,-106.638546,35.235712],
-  "geometry": {"coordinates":[-106.638546,35.235712],"type":"Point"}
+  "bbox": [
+    -106.638546,
+    35.235712,
+    -106.638546,
+    35.235712
+],
+  "geometry": {"coordinates":[-106.63854600000001,35.235712],"type":"Point"}
 }

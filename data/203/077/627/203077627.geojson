@@ -2,13 +2,14 @@
   "id": 203077627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.714918,35.14126,-106.714918,35.14126",
     "geom:latitude":35.14126,
     "geom:longitude":-106.714918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4917 Bond Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203077627,
-    "wof:lastmodified":1449025238,
+    "wof:lastmodified":1466698451,
     "wof:name":"A J Pacheco Trucking",
     "wof:parent_id":85865321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-106.714918,35.14126,-106.714918,35.14126],
+  "bbox": [
+    -106.714918,
+    35.14126,
+    -106.714918,
+    35.14126
+],
   "geometry": {"coordinates":[-106.714918,35.14126],"type":"Point"}
 }

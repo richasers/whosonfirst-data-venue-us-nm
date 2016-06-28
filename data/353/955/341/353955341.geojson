@@ -2,13 +2,14 @@
   "id": 353955341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.559978,35.17502,-106.559978,35.17502",
     "geom:latitude":35.17502,
     "geom:longitude":-106.559978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8100 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353955341,
-    "wof:lastmodified":1449020015,
+    "wof:lastmodified":1466698708,
     "wof:name":"Applied Automation & Soun",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "supplies-wholesale"
     ]
 },
-  "bbox": [-106.559978,35.17502,-106.559978,35.17502],
+  "bbox": [
+    -106.559978,
+    35.17502,
+    -106.559978,
+    35.17502
+],
   "geometry": {"coordinates":[-106.559978,35.17502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186080213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.727383,35.15708,-103.727383,35.15708",
     "geom:latitude":35.15708,
     "geom:longitude":-103.727383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2324 S 3rd St",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186080213,
-    "wof:lastmodified":1449052963,
+    "wof:lastmodified":1466698629,
     "wof:name":"Tucumcari Alumni Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.727383,35.15708,-103.727383,35.15708],
+  "bbox": [
+    -103.727383,
+    35.15708,
+    -103.727383,
+    35.15708
+],
   "geometry": {"coordinates":[-103.727383,35.15708],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202857409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.92159,35.524922,-105.92159,35.524922",
     "geom:latitude":35.524922,
     "geom:longitude":-105.92159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Reno Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202857409,
-    "wof:lastmodified":1449061733,
+    "wof:lastmodified":1466700228,
     "wof:name":"Odds & Errands",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "errand"
     ]
 },
-  "bbox": [-105.92159,35.524922,-105.92159,35.524922],
-  "geometry": {"coordinates":[-105.92159,35.524922],"type":"Point"}
+  "bbox": [
+    -105.92159,
+    35.524922,
+    -105.92159,
+    35.524922
+],
+  "geometry": {"coordinates":[-105.92158999999999,35.524922],"type":"Point"}
 }

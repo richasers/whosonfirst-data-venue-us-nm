@@ -2,13 +2,14 @@
   "id": 202886711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.745751,35.063241,-106.745751,35.063241",
     "geom:latitude":35.063241,
     "geom:longitude":-106.745751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10304 Andretti Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202886711,
-    "wof:lastmodified":1449061509,
+    "wof:lastmodified":1466700301,
     "wof:name":"Expo Audio Visual",
     "wof:parent_id":85892581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-106.745751,35.063241,-106.745751,35.063241],
+  "bbox": [
+    -106.745751,
+    35.063241,
+    -106.745751,
+    35.063241
+],
   "geometry": {"coordinates":[-106.745751,35.063241],"type":"Point"}
 }

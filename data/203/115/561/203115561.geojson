@@ -2,13 +2,14 @@
   "id": 203115561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.595361,35.074977,-106.595361,35.074977",
     "geom:latitude":35.074977,
     "geom:longitude":-106.595361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 Lead Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203115561,
-    "wof:lastmodified":1449024928,
+    "wof:lastmodified":1466698904,
     "wof:name":"Langford Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-106.595361,35.074977,-106.595361,35.074977],
+  "bbox": [
+    -106.595361,
+    35.074977,
+    -106.595361,
+    35.074977
+],
   "geometry": {"coordinates":[-106.595361,35.074977],"type":"Point"}
 }

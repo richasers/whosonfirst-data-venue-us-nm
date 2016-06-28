@@ -2,13 +2,14 @@
   "id": 169770343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.185266,36.734445,-108.185266,36.734445",
     "geom:latitude":36.734445,
     "geom:longitude":-108.185266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 San Juan Blvd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169770343,
-    "wof:lastmodified":1449036036,
+    "wof:lastmodified":1466698260,
     "wof:name":"PERFORMANCE Buick Pontiac GMC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-108.185266,36.734445,-108.185266,36.734445],
+  "bbox": [
+    -108.185266,
+    36.734445,
+    -108.185266,
+    36.734445
+],
   "geometry": {"coordinates":[-108.185266,36.734445],"type":"Point"}
 }

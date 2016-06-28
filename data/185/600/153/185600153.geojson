@@ -2,13 +2,14 @@
   "id": 185600153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.27692,32.767032,-108.27692,32.767032",
     "geom:latitude":32.767032,
     "geom:longitude":-108.27692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Bullard St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185600153,
-    "wof:lastmodified":1449006759,
+    "wof:lastmodified":1466697604,
     "wof:name":"Black Diamond Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-108.27692,32.767032,-108.27692,32.767032],
+  "bbox": [
+    -108.27692,
+    32.767032,
+    -108.27692,
+    32.767032
+],
   "geometry": {"coordinates":[-108.27692,32.767032],"type":"Point"}
 }

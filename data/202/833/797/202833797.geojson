@@ -2,13 +2,14 @@
   "id": 202833797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.629855,35.07335,-106.629855,35.07335",
     "geom:latitude":35.07335,
     "geom:longitude":-106.629855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"851 University Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202833797,
-    "wof:lastmodified":1449060431,
+    "wof:lastmodified":1466700119,
     "wof:name":"Rio Grande Technology Foundtn",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.629855,35.07335,-106.629855,35.07335],
-  "geometry": {"coordinates":[-106.629855,35.07335],"type":"Point"}
+  "bbox": [
+    -106.629855,
+    35.07335,
+    -106.629855,
+    35.07335
+],
+  "geometry": {"coordinates":[-106.62985500000001,35.07335],"type":"Point"}
 }

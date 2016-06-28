@@ -2,13 +2,14 @@
   "id": 186573711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.34728,34.170234,-103.34728,34.170234",
     "geom:latitude":34.170234,
     "geom:longitude":-103.34728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Texas Dr",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186573711,
-    "wof:lastmodified":1449052333,
+    "wof:lastmodified":1466700661,
     "wof:name":"Ultraworks Paint Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-103.34728,34.170234,-103.34728,34.170234],
+  "bbox": [
+    -103.34728,
+    34.170234,
+    -103.34728,
+    34.170234
+],
   "geometry": {"coordinates":[-103.34728,34.170234],"type":"Point"}
 }

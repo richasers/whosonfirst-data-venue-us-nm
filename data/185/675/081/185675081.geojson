@@ -2,13 +2,14 @@
   "id": 185675081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.181635,35.057525,-106.181635,35.057525",
     "geom:latitude":35.057525,
     "geom:longitude":-106.181635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 Hwy 333",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185675081,
-    "wof:lastmodified":1449007456,
+    "wof:lastmodified":1466698403,
     "wof:name":"Independent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-106.181635,35.057525,-106.181635,35.057525],
+  "bbox": [
+    -106.181635,
+    35.057525,
+    -106.181635,
+    35.057525
+],
   "geometry": {"coordinates":[-106.181635,35.057525],"type":"Point"}
 }

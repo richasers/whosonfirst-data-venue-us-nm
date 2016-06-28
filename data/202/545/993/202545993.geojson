@@ -2,13 +2,14 @@
   "id": 202545993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.78024,32.2969,-106.78024,32.2969",
     "geom:latitude":32.2969,
     "geom:longitude":-106.78024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1765 S Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202545993,
-    "wof:lastmodified":1449060723,
+    "wof:lastmodified":1466699473,
     "wof:name":"Hidden Forest",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.78024,32.2969,-106.78024,32.2969],
-  "geometry": {"coordinates":[-106.78024,32.2969],"type":"Point"}
+  "bbox": [
+    -106.78024,
+    32.2969,
+    -106.78024,
+    32.2969
+],
+  "geometry": {"coordinates":[-106.78024000000001,32.2969],"type":"Point"}
 }

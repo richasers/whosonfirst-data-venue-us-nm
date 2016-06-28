@@ -2,13 +2,14 @@
   "id": 185624347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.618143,35.132556,-106.618143,35.132556",
     "geom:latitude":35.132556,
     "geom:longitude":-106.618143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4520 Alexander Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,16 +64,22 @@
         }
     ],
     "wof:id":185624347,
-    "wof:lastmodified":1449007691,
+    "wof:lastmodified":1466697864,
     "wof:name":"Woodcraft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-106.618143,35.132556,-106.618143,35.132556],
+  "bbox": [
+    -106.618143,
+    35.132556,
+    -106.618143,
+    35.132556
+],
   "geometry": {"coordinates":[-106.618143,35.132556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203007741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.619211,35.109112,-106.619211,35.109112",
     "geom:latitude":35.109112,
     "geom:longitude":-106.619211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2440 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":203007741,
-    "wof:lastmodified":1449026518,
+    "wof:lastmodified":1466697670,
     "wof:name":"Dashcovers Southwest Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "trimmings"
     ]
 },
-  "bbox": [-106.619211,35.109112,-106.619211,35.109112],
-  "geometry": {"coordinates":[-106.619211,35.109112],"type":"Point"}
+  "bbox": [
+    -106.619211,
+    35.109112,
+    -106.619211,
+    35.109112
+],
+  "geometry": {"coordinates":[-106.61921100000001,35.109112],"type":"Point"}
 }

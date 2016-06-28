@@ -2,13 +2,14 @@
   "id": 202431199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.709308,32.348662,-108.709308,32.348662",
     "geom:latitude":32.348662,
     "geom:longitude":-108.709308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Main St",
     "sg:city":"Lordsburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202431199,
-    "wof:lastmodified":1449060446,
+    "wof:lastmodified":1466698324,
     "wof:name":"Cottage House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.709308,32.348662,-108.709308,32.348662],
-  "geometry": {"coordinates":[-108.709308,32.348662],"type":"Point"}
+  "bbox": [
+    -108.709308,
+    32.348662,
+    -108.709308,
+    32.348662
+],
+  "geometry": {"coordinates":[-108.70930799999999,32.348662],"type":"Point"}
 }

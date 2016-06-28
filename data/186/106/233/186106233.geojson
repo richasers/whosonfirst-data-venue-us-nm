@@ -2,13 +2,14 @@
   "id": 186106233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.934294,32.89592,-105.934294,32.89592",
     "geom:latitude":32.89592,
     "geom:longitude":-105.934294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2410 Telles Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186106233,
-    "wof:lastmodified":1449050211,
+    "wof:lastmodified":1466698976,
     "wof:name":"Southwest Accounting Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.934294,32.89592,-105.934294,32.89592],
-  "geometry": {"coordinates":[-105.934294,32.89592],"type":"Point"}
+  "bbox": [
+    -105.934294,
+    32.89592,
+    -105.934294,
+    32.89592
+],
+  "geometry": {"coordinates":[-105.93429399999999,32.89592],"type":"Point"}
 }

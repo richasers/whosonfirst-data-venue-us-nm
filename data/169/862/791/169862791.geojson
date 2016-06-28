@@ -2,13 +2,14 @@
   "id": 169862791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.045174,35.501099,-106.045174,35.501099",
     "geom:latitude":35.501099,
     "geom:longitude":-106.045174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Vis Alondra",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169862791,
-    "wof:lastmodified":1449036047,
+    "wof:lastmodified":1466698959,
     "wof:name":"High Desert Landscape Mntnc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "grounds"
     ]
 },
-  "bbox": [-106.045174,35.501099,-106.045174,35.501099],
+  "bbox": [
+    -106.045174,
+    35.501099,
+    -106.045174,
+    35.501099
+],
   "geometry": {"coordinates":[-106.045174,35.501099],"type":"Point"}
 }

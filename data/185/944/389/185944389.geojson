@@ -2,13 +2,14 @@
   "id": 185944389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.627268,35.241869,-106.627268,35.241869",
     "geom:latitude":35.241869,
     "geom:longitude":-106.627268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"588 Hollywood Blvd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185944389,
-    "wof:lastmodified":1449007434,
+    "wof:lastmodified":1466699134,
     "wof:name":"Ed's Masonry",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.627268,35.241869,-106.627268,35.241869],
+  "bbox": [
+    -106.627268,
+    35.241869,
+    -106.627268,
+    35.241869
+],
   "geometry": {"coordinates":[-106.627268,35.241869],"type":"Point"}
 }

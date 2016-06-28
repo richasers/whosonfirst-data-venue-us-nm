@@ -2,13 +2,14 @@
   "id": 185880749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.68905,35.208162,-106.68905,35.208162",
     "geom:latitude":35.208162,
     "geom:longitude":-106.68905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10516 Vecchio Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185880749,
-    "wof:lastmodified":1449008221,
+    "wof:lastmodified":1466698321,
     "wof:name":"G Q Disc Jockey Entertainment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "music"
     ]
 },
-  "bbox": [-106.68905,35.208162,-106.68905,35.208162],
-  "geometry": {"coordinates":[-106.68905,35.208162],"type":"Point"}
+  "bbox": [
+    -106.68905,
+    35.208162,
+    -106.68905,
+    35.208162
+],
+  "geometry": {"coordinates":[-106.68904999999999,35.208162],"type":"Point"}
 }

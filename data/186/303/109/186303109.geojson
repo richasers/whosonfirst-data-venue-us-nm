@@ -2,13 +2,14 @@
   "id": 186303109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.314171,35.895513,-106.314171,35.895513",
     "geom:latitude":35.895513,
     "geom:longitude":-106.314171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2126 34th St",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":186303109,
-    "wof:lastmodified":1449050278,
+    "wof:lastmodified":1466699378,
     "wof:name":"Los Alamos Landscaping & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.314171,35.895513,-106.314171,35.895513],
+  "bbox": [
+    -106.314171,
+    35.895513,
+    -106.314171,
+    35.895513
+],
   "geometry": {"coordinates":[-106.314171,35.895513],"type":"Point"}
 }

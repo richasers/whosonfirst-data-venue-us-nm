@@ -2,13 +2,14 @@
   "id": 185789973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.208091,36.726617,-108.208091,36.726617",
     "geom:latitude":36.726617,
     "geom:longitude":-108.208091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 W Cedar St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185789973,
-    "wof:lastmodified":1449007343,
+    "wof:lastmodified":1466699307,
     "wof:name":"Marquez Indus Rentl & Repr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tool"
     ]
 },
-  "bbox": [-108.208091,36.726617,-108.208091,36.726617],
+  "bbox": [
+    -108.208091,
+    36.726617,
+    -108.208091,
+    36.726617
+],
   "geometry": {"coordinates":[-108.208091,36.726617],"type":"Point"}
 }

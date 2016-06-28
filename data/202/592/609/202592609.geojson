@@ -2,13 +2,14 @@
   "id": 202592609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.71248,34.983388,-106.71248,34.983388",
     "geom:latitude":34.983388,
     "geom:longitude":-106.71248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 Los Pinos Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202592609,
-    "wof:lastmodified":1449061557,
+    "wof:lastmodified":1466698278,
     "wof:name":"Thin King Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-106.71248,34.983388,-106.71248,34.983388],
+  "bbox": [
+    -106.71248,
+    34.983388,
+    -106.71248,
+    34.983388
+],
   "geometry": {"coordinates":[-106.71248,34.983388],"type":"Point"}
 }

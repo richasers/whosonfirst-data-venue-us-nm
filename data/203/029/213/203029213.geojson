@@ -2,13 +2,14 @@
   "id": 203029213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.49713,35.079251,-106.49713,35.079251",
     "geom:latitude":35.079251,
     "geom:longitude":-106.49713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Tramway Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203029213,
-    "wof:lastmodified":1449025722,
+    "wof:lastmodified":1466697917,
     "wof:name":"Sandia Vista Apartments",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-106.49713,35.079251,-106.49713,35.079251],
+  "bbox": [
+    -106.49713,
+    35.079251,
+    -106.49713,
+    35.079251
+],
   "geometry": {"coordinates":[-106.49713,35.079251],"type":"Point"}
 }

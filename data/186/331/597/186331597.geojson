@@ -2,13 +2,14 @@
   "id": 186331597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.629876,35.132443,-106.629876,35.132443",
     "geom:latitude":35.132443,
     "geom:longitude":-106.629876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5045 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186331597,
-    "wof:lastmodified":1449051995,
+    "wof:lastmodified":1466699597,
     "wof:name":"Gemtech Builders Inc",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-106.629876,35.132443,-106.629876,35.132443],
+  "bbox": [
+    -106.629876,
+    35.132443,
+    -106.629876,
+    35.132443
+],
   "geometry": {"coordinates":[-106.629876,35.132443],"type":"Point"}
 }

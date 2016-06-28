@@ -2,13 +2,14 @@
   "id": 202703559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.58445,31.799539,-106.58445,31.799539",
     "geom:latitude":31.799539,
     "geom:longitude":-106.58445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 Linda Vista Dr",
     "sg:city":"Sunland Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202703559,
-    "wof:lastmodified":1449060887,
+    "wof:lastmodified":1466699741,
     "wof:name":"Atlas Distributing Co Airez E",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-106.58445,31.799539,-106.58445,31.799539],
+  "bbox": [
+    -106.58445,
+    31.799539,
+    -106.58445,
+    31.799539
+],
   "geometry": {"coordinates":[-106.58445,31.799539],"type":"Point"}
 }

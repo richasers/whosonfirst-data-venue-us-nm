@@ -2,13 +2,14 @@
   "id": 186119151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.284506,32.775297,-108.284506,32.775297",
     "geom:latitude":32.775297,
     "geom:longitude":-108.284506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 W College Ave",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186119151,
-    "wof:lastmodified":1449052276,
+    "wof:lastmodified":1466699095,
     "wof:name":"Western New Mexico University",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "school"
     ]
 },
-  "bbox": [-108.284506,32.775297,-108.284506,32.775297],
-  "geometry": {"coordinates":[-108.284506,32.775297],"type":"Point"}
+  "bbox": [
+    -108.284506,
+    32.775297,
+    -108.284506,
+    32.775297
+],
+  "geometry": {"coordinates":[-108.28450599999999,32.775297],"type":"Point"}
 }

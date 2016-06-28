@@ -2,13 +2,14 @@
   "id": 186549179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.673495,35.111838,-106.673495,35.111838",
     "geom:latitude":35.111838,
     "geom:longitude":-106.673495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Rio Grande Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186549179,
-    "wof:lastmodified":1449051124,
+    "wof:lastmodified":1466700307,
     "wof:name":"Desert Medical Corp",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.673495,35.111838,-106.673495,35.111838],
+  "bbox": [
+    -106.673495,
+    35.111838,
+    -106.673495,
+    35.111838
+],
   "geometry": {"coordinates":[-106.673495,35.111838],"type":"Point"}
 }

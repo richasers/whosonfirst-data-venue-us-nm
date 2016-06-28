@@ -2,13 +2,14 @@
   "id": 186461749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.347372,32.94404,-103.347372,32.94404",
     "geom:latitude":32.94404,
     "geom:longitude":-103.347372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 E Ave D",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186461749,
-    "wof:lastmodified":1449051392,
+    "wof:lastmodified":1466699978,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.347372,32.94404,-103.347372,32.94404],
-  "geometry": {"coordinates":[-103.347372,32.94404],"type":"Point"}
+  "bbox": [
+    -103.347372,
+    32.94404,
+    -103.347372,
+    32.94404
+],
+  "geometry": {"coordinates":[-103.34737199999999,32.94404],"type":"Point"}
 }

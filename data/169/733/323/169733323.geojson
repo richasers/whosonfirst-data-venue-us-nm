@@ -2,13 +2,14 @@
   "id": 169733323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.700379,35.199104,-106.700379,35.199104",
     "geom:latitude":35.199104,
     "geom:longitude":-106.700379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10131 Taft Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169733323,
-    "wof:lastmodified":1449033147,
+    "wof:lastmodified":1466697921,
     "wof:name":"Infotech Support Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [-106.700379,35.199104,-106.700379,35.199104],
+  "bbox": [
+    -106.700379,
+    35.199104,
+    -106.700379,
+    35.199104
+],
   "geometry": {"coordinates":[-106.700379,35.199104],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185967863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.528082,35.163396,-106.528082,35.163396",
     "geom:latitude":35.163396,
     "geom:longitude":-106.528082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7320 Anton Cir NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185967863,
-    "wof:lastmodified":1449008098,
+    "wof:lastmodified":1466699543,
     "wof:name":"Leadership Group",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.528082,35.163396,-106.528082,35.163396],
+  "bbox": [
+    -106.528082,
+    35.163396,
+    -106.528082,
+    35.163396
+],
   "geometry": {"coordinates":[-106.528082,35.163396],"type":"Point"}
 }

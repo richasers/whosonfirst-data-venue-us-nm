@@ -2,13 +2,14 @@
   "id": 185662235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.519825,35.109749,-106.519825,35.109749",
     "geom:latitude":35.109749,
     "geom:longitude":-106.519825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10900 Woodland Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185662235,
-    "wof:lastmodified":1449007675,
+    "wof:lastmodified":1466698254,
     "wof:name":"Dave Abrams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-106.519825,35.109749,-106.519825,35.109749],
+  "bbox": [
+    -106.519825,
+    35.109749,
+    -106.519825,
+    35.109749
+],
   "geometry": {"coordinates":[-106.519825,35.109749],"type":"Point"}
 }

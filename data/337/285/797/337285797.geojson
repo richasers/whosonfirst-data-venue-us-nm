@@ -2,13 +2,14 @@
   "id": 337285797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.579494,36.395376,-105.579494,36.395376",
     "geom:latitude":36.395376,
     "geom:longitude":-105.579494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337285797,
-    "wof:lastmodified":1449026958,
+    "wof:lastmodified":1466697732,
     "wof:name":"Crossroads Realty & Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.579494,36.395376,-105.579494,36.395376],
+  "bbox": [
+    -105.579494,
+    36.395376,
+    -105.579494,
+    36.395376
+],
   "geometry": {"coordinates":[-105.579494,36.395376],"type":"Point"}
 }

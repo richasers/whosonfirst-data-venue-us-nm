@@ -2,13 +2,14 @@
   "id": 202906453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615932,35.222882,-106.615932,35.222882",
     "geom:latitude":35.222882,
     "geom:longitude":-106.615932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4320 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202906453,
-    "wof:lastmodified":1449061080,
+    "wof:lastmodified":1466700378,
     "wof:name":"Corrales Senior Ctr",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.615932,35.222882,-106.615932,35.222882],
+  "bbox": [
+    -106.615932,
+    35.222882,
+    -106.615932,
+    35.222882
+],
   "geometry": {"coordinates":[-106.615932,35.222882],"type":"Point"}
 }

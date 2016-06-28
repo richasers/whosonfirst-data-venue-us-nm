@@ -2,13 +2,14 @@
   "id": 186087055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.959602,35.666593,-105.959602,35.666593",
     "geom:latitude":35.666593,
     "geom:longitude":-105.959602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 Pacheco St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186087055,
-    "wof:lastmodified":1449051614,
+    "wof:lastmodified":1466698731,
     "wof:name":"Zia Gymnastic Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.959602,35.666593,-105.959602,35.666593],
+  "bbox": [
+    -105.959602,
+    35.666593,
+    -105.959602,
+    35.666593
+],
   "geometry": {"coordinates":[-105.959602,35.666593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185628261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.867371,32.311203,-106.867371,32.311203",
     "geom:latitude":32.311203,
     "geom:longitude":-106.867371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Vis del Monte",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185628261,
-    "wof:lastmodified":1449007917,
+    "wof:lastmodified":1466697913,
     "wof:name":"Lifetime Solutions",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.867371,32.311203,-106.867371,32.311203],
-  "geometry": {"coordinates":[-106.867371,32.311203],"type":"Point"}
+  "bbox": [
+    -106.867371,
+    32.311203,
+    -106.867371,
+    32.311203
+],
+  "geometry": {"coordinates":[-106.86737100000001,32.311203],"type":"Point"}
 }

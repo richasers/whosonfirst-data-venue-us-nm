@@ -2,13 +2,14 @@
   "id": 186125099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.580444,36.393041,-105.580444,36.393041",
     "geom:latitude":36.393041,
     "geom:longitude":-105.580444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Cervantes St",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186125099,
-    "wof:lastmodified":1449052944,
+    "wof:lastmodified":1466699134,
     "wof:name":"Taos High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.580444,36.393041,-105.580444,36.393041],
+  "bbox": [
+    -105.580444,
+    36.393041,
+    -105.580444,
+    36.393041
+],
   "geometry": {"coordinates":[-105.580444,36.393041],"type":"Point"}
 }

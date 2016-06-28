@@ -2,13 +2,14 @@
   "id": 337279335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.084633,35.481704,-106.084633,35.481704",
     "geom:latitude":35.481704,
     "geom:longitude":-106.084633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Rancho Alegre Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337279335,
-    "wof:lastmodified":1449027321,
+    "wof:lastmodified":1466697615,
     "wof:name":"Philip S Milstein MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.084633,35.481704,-106.084633,35.481704],
+  "bbox": [
+    -106.084633,
+    35.481704,
+    -106.084633,
+    35.481704
+],
   "geometry": {"coordinates":[-106.084633,35.481704],"type":"Point"}
 }

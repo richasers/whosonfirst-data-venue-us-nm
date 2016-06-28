@@ -2,13 +2,14 @@
   "id": 185718029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.52131,33.395456,-104.52131,33.395456",
     "geom:latitude":33.395456,
     "geom:longitude":-104.52131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E 3rd St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185718029,
-    "wof:lastmodified":1449006965,
+    "wof:lastmodified":1466699438,
     "wof:name":"Cuts Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beauty"
     ]
 },
-  "bbox": [-104.52131,33.395456,-104.52131,33.395456],
+  "bbox": [
+    -104.52131,
+    33.395456,
+    -104.52131,
+    33.395456
+],
   "geometry": {"coordinates":[-104.52131,33.395456],"type":"Point"}
 }

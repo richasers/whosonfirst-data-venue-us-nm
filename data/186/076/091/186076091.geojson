@@ -2,13 +2,14 @@
   "id": 186076091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.739574,32.31078,-106.739574,32.31078",
     "geom:latitude":32.31078,
     "geom:longitude":-106.739574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2977 Sundance Cir",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186076091,
-    "wof:lastmodified":1449052428,
+    "wof:lastmodified":1466698583,
     "wof:name":"Castle Construction Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.739574,32.31078,-106.739574,32.31078],
+  "bbox": [
+    -106.739574,
+    32.31078,
+    -106.739574,
+    32.31078
+],
   "geometry": {"coordinates":[-106.739574,32.31078],"type":"Point"}
 }

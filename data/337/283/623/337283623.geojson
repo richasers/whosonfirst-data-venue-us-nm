@@ -2,13 +2,14 @@
   "id": 337283623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.736959,34.658101,-106.736959,34.658101",
     "geom:latitude":34.658101,
     "geom:longitude":-106.736959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2361 State Hwy 47",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337283623,
-    "wof:lastmodified":1449027184,
+    "wof:lastmodified":1466697680,
     "wof:name":"Gene House Sales",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.736959,34.658101,-106.736959,34.658101],
+  "bbox": [
+    -106.736959,
+    34.658101,
+    -106.736959,
+    34.658101
+],
   "geometry": {"coordinates":[-106.736959,34.658101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202491281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.606291,32.003495,-106.606291,32.003495",
     "geom:latitude":32.003495,
     "geom:longitude":-106.606291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 S Anthony Dr",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202491281,
-    "wof:lastmodified":1449060072,
+    "wof:lastmodified":1466699053,
     "wof:name":"El Paso Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-106.606291,32.003495,-106.606291,32.003495],
+  "bbox": [
+    -106.606291,
+    32.003495,
+    -106.606291,
+    32.003495
+],
   "geometry": {"coordinates":[-106.606291,32.003495],"type":"Point"}
 }

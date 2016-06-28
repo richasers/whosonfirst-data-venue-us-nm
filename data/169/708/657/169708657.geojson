@@ -2,13 +2,14 @@
   "id": 169708657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.741135,35.527374,-108.741135,35.527374",
     "geom:latitude":35.527374,
     "geom:longitude":-108.741135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W Coal Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169708657,
-    "wof:lastmodified":1449033207,
+    "wof:lastmodified":1466697664,
     "wof:name":"Gpos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-108.741135,35.527374,-108.741135,35.527374],
+  "bbox": [
+    -108.741135,
+    35.527374,
+    -108.741135,
+    35.527374
+],
   "geometry": {"coordinates":[-108.741135,35.527374],"type":"Point"}
 }

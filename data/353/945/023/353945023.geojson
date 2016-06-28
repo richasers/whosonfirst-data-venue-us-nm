@@ -2,13 +2,14 @@
   "id": 353945023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.575404,35.114329,-106.575404,35.114329",
     "geom:latitude":35.114329,
     "geom:longitude":-106.575404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2936 California St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353945023,
-    "wof:lastmodified":1449018477,
+    "wof:lastmodified":1466698423,
     "wof:name":"Rocky Mountain Sheet Metal",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "sheet"
     ]
 },
-  "bbox": [-106.575404,35.114329,-106.575404,35.114329],
-  "geometry": {"coordinates":[-106.575404,35.114329],"type":"Point"}
+  "bbox": [
+    -106.575404,
+    35.114329,
+    -106.575404,
+    35.114329
+],
+  "geometry": {"coordinates":[-106.57540400000001,35.114329],"type":"Point"}
 }

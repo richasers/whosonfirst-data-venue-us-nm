@@ -2,13 +2,14 @@
   "id": 353925187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.697937,35.08284,-106.697937,35.08284",
     "geom:latitude":35.08284,
     "geom:longitude":-106.697937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5401 Central Ave NW Ste C",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":353925187,
-    "wof:lastmodified":1449018280,
+    "wof:lastmodified":1466697869,
     "wof:name":"Titan Auto Insurance",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-106.697937,35.08284,-106.697937,35.08284],
+  "bbox": [
+    -106.697937,
+    35.08284,
+    -106.697937,
+    35.08284
+],
   "geometry": {"coordinates":[-106.697937,35.08284],"type":"Point"}
 }

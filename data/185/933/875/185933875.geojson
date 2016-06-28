@@ -2,13 +2,14 @@
   "id": 185933875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.761621,34.749992,-106.761621,34.749992",
     "geom:latitude":34.749992,
     "geom:longitude":-106.761621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5220 Cerritos Ave",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185933875,
-    "wof:lastmodified":1449006946,
+    "wof:lastmodified":1466698992,
     "wof:name":"C & E Manufactured Housing Sys",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-106.761621,34.749992,-106.761621,34.749992],
-  "geometry": {"coordinates":[-106.761621,34.749992],"type":"Point"}
+  "bbox": [
+    -106.761621,
+    34.749992,
+    -106.761621,
+    34.749992
+],
+  "geometry": {"coordinates":[-106.76162100000001,34.749992],"type":"Point"}
 }

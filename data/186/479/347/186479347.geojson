@@ -2,13 +2,14 @@
   "id": 186479347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.642942,35.114996,-106.642942,35.114996",
     "geom:latitude":35.114996,
     "geom:longitude":-106.642942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2924 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186479347,
-    "wof:lastmodified":1449052205,
+    "wof:lastmodified":1466700160,
     "wof:name":"Mobile WS Repair",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-106.642942,35.114996,-106.642942,35.114996],
-  "geometry": {"coordinates":[-106.642942,35.114996],"type":"Point"}
+  "bbox": [
+    -106.642942,
+    35.114996,
+    -106.642942,
+    35.114996
+],
+  "geometry": {"coordinates":[-106.64294200000001,35.114996],"type":"Point"}
 }

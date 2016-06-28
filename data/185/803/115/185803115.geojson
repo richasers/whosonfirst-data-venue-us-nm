@@ -2,13 +2,14 @@
   "id": 185803115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.786325,32.309147,-106.786325,32.309147",
     "geom:latitude":32.309147,
     "geom:longitude":-106.786325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 W Las Cruces Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185803115,
-    "wof:lastmodified":1449008226,
+    "wof:lastmodified":1466699350,
     "wof:name":"Sun-Tech Svc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "softening"
     ]
 },
-  "bbox": [-106.786325,32.309147,-106.786325,32.309147],
-  "geometry": {"coordinates":[-106.786325,32.309147],"type":"Point"}
+  "bbox": [
+    -106.786325,
+    32.309147,
+    -106.786325,
+    32.309147
+],
+  "geometry": {"coordinates":[-106.78632500000001,32.309147],"type":"Point"}
 }

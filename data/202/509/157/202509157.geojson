@@ -2,13 +2,14 @@
   "id": 202509157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.489262,35.085445,-106.489262,35.085445",
     "geom:latitude":35.085445,
     "geom:longitude":-106.489262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1133 Turner Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202509157,
-    "wof:lastmodified":1449060201,
+    "wof:lastmodified":1466699192,
     "wof:name":"KCS",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-106.489262,35.085445,-106.489262,35.085445],
+  "bbox": [
+    -106.489262,
+    35.085445,
+    -106.489262,
+    35.085445
+],
   "geometry": {"coordinates":[-106.489262,35.085445],"type":"Point"}
 }

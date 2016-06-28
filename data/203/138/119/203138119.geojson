@@ -2,13 +2,14 @@
   "id": 203138119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.412636,32.83781,-104.412636,32.83781",
     "geom:latitude":32.83781,
     "geom:longitude":-104.412636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 S 13th St",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203138119,
-    "wof:lastmodified":1449025453,
+    "wof:lastmodified":1466699063,
     "wof:name":"Margarito's Styling Shop",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "beauty"
     ]
 },
-  "bbox": [-104.412636,32.83781,-104.412636,32.83781],
-  "geometry": {"coordinates":[-104.412636,32.83781],"type":"Point"}
+  "bbox": [
+    -104.412636,
+    32.83781,
+    -104.412636,
+    32.83781
+],
+  "geometry": {"coordinates":[-104.41263600000001,32.83781],"type":"Point"}
 }

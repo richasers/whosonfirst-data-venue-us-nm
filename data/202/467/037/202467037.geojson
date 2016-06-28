@@ -2,13 +2,14 @@
   "id": 202467037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.545662,35.118938,-106.545662,35.118938",
     "geom:latitude":35.118938,
     "geom:longitude":-106.545662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8807 Cottonwood Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202467037,
-    "wof:lastmodified":1449062118,
+    "wof:lastmodified":1466698733,
     "wof:name":"Indian Health Srv",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.545662,35.118938,-106.545662,35.118938],
-  "geometry": {"coordinates":[-106.545662,35.118938],"type":"Point"}
+  "bbox": [
+    -106.545662,
+    35.118938,
+    -106.545662,
+    35.118938
+],
+  "geometry": {"coordinates":[-106.54566199999999,35.118938],"type":"Point"}
 }

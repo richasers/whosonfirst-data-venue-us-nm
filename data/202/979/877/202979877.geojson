@@ -2,13 +2,14 @@
   "id": 202979877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.133743,32.696596,-103.133743,32.696596",
     "geom:latitude":32.696596,
     "geom:longitude":-103.133743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E Marland St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202979877,
-    "wof:lastmodified":1449061893,
+    "wof:lastmodified":1466700701,
     "wof:name":"Benny's Tire Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tire"
     ]
 },
-  "bbox": [-103.133743,32.696596,-103.133743,32.696596],
+  "bbox": [
+    -103.133743,
+    32.696596,
+    -103.133743,
+    32.696596
+],
   "geometry": {"coordinates":[-103.133743,32.696596],"type":"Point"}
 }

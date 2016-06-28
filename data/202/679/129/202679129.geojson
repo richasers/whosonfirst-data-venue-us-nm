@@ -2,13 +2,14 @@
   "id": 202679129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.218169,36.724928,-108.218169,36.724928",
     "geom:latitude":36.724928,
     "geom:longitude":-108.218169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 W Maple St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202679129,
-    "wof:lastmodified":1449061726,
+    "wof:lastmodified":1466699516,
     "wof:name":"San Juan Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "specialty"
     ]
 },
-  "bbox": [-108.218169,36.724928,-108.218169,36.724928],
+  "bbox": [
+    -108.218169,
+    36.724928,
+    -108.218169,
+    36.724928
+],
   "geometry": {"coordinates":[-108.218169,36.724928],"type":"Point"}
 }

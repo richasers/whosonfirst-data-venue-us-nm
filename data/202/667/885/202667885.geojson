@@ -2,13 +2,14 @@
   "id": 202667885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.776798,32.288627,-106.776798,32.288627",
     "geom:latitude":32.288627,
     "geom:longitude":-106.776798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Marquess St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202667885,
-    "wof:lastmodified":1449061740,
+    "wof:lastmodified":1466699480,
     "wof:name":"US Land Management Bureau",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-106.776798,32.288627,-106.776798,32.288627],
+  "bbox": [
+    -106.776798,
+    32.288627,
+    -106.776798,
+    32.288627
+],
   "geometry": {"coordinates":[-106.776798,32.288627],"type":"Point"}
 }

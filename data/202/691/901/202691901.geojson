@@ -2,13 +2,14 @@
   "id": 202691901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604597,35.080264,-106.604597,35.080264",
     "geom:latitude":35.080264,
     "geom:longitude":-106.604597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202691901,
-    "wof:lastmodified":1449060328,
+    "wof:lastmodified":1466699712,
     "wof:name":"Ghost Town Trading Co",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.604597,35.080264,-106.604597,35.080264],
+  "bbox": [
+    -106.604597,
+    35.080264,
+    -106.604597,
+    35.080264
+],
   "geometry": {"coordinates":[-106.604597,35.080264],"type":"Point"}
 }

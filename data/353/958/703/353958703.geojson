@@ -2,13 +2,14 @@
   "id": 353958703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.707427,35.216624,-106.707427,35.216624",
     "geom:latitude":35.216624,
     "geom:longitude":-106.707427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6124 Malpais Park Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353958703,
-    "wof:lastmodified":1449020262,
+    "wof:lastmodified":1466698755,
     "wof:name":"Forte Flutes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "amplifier"
     ]
 },
-  "bbox": [-106.707427,35.216624,-106.707427,35.216624],
+  "bbox": [
+    -106.707427,
+    35.216624,
+    -106.707427,
+    35.216624
+],
   "geometry": {"coordinates":[-106.707427,35.216624],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353971607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.629997,31.850401,-106.629997,31.850401",
     "geom:latitude":31.850401,
     "geom:longitude":-106.629997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Santa Teresa One Sto",
     "sg:city":"Santa Teresa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353971607,
-    "wof:lastmodified":1449019557,
+    "wof:lastmodified":1466699016,
     "wof:name":"Dona Ana Branch Community College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-106.629997,31.850401,-106.629997,31.850401],
+  "bbox": [
+    -106.629997,
+    31.850401,
+    -106.629997,
+    31.850401
+],
   "geometry": {"coordinates":[-106.629997,31.850401],"type":"Point"}
 }

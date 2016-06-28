@@ -2,13 +2,14 @@
   "id": 186260311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.708553,34.769906,-106.708553,34.769906",
     "geom:latitude":34.769906,
     "geom:longitude":-106.708553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Shady Ln",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186260311,
-    "wof:lastmodified":1449050858,
+    "wof:lastmodified":1466698792,
     "wof:name":"Country Title Svc",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "title"
     ]
 },
-  "bbox": [-106.708553,34.769906,-106.708553,34.769906],
-  "geometry": {"coordinates":[-106.708553,34.769906],"type":"Point"}
+  "bbox": [
+    -106.708553,
+    34.769906,
+    -106.708553,
+    34.769906
+],
+  "geometry": {"coordinates":[-106.70855299999999,34.769906],"type":"Point"}
 }

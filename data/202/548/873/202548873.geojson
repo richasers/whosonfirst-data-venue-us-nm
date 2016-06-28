@@ -2,13 +2,14 @@
   "id": 202548873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.501254,35.104132,-106.501254,35.104132",
     "geom:latitude":35.104132,
     "geom:longitude":-106.501254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1813 Kriss Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202548873,
-    "wof:lastmodified":1449061841,
+    "wof:lastmodified":1466697628,
     "wof:name":"Senior Care Inc Assisted Lvng",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-106.501254,35.104132,-106.501254,35.104132],
+  "bbox": [
+    -106.501254,
+    35.104132,
+    -106.501254,
+    35.104132
+],
   "geometry": {"coordinates":[-106.501254,35.104132],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202583183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.573525,36.40709,-105.573525,36.40709",
     "geom:latitude":36.40709,
     "geom:longitude":-105.573525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Pso del Pueblo Norte",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202583183,
-    "wof:lastmodified":1449062127,
+    "wof:lastmodified":1466698139,
     "wof:name":"Taos Kokopelli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.573525,36.40709,-105.573525,36.40709],
+  "bbox": [
+    -105.573525,
+    36.40709,
+    -105.573525,
+    36.40709
+],
   "geometry": {"coordinates":[-105.573525,36.40709],"type":"Point"}
 }

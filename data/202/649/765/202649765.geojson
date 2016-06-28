@@ -2,13 +2,14 @@
   "id": 202649765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.59691,35.115992,-106.59691,35.115992",
     "geom:latitude":35.115992,
     "geom:longitude":-106.59691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2928 Graceland Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202649765,
-    "wof:lastmodified":1449061813,
+    "wof:lastmodified":1466699130,
     "wof:name":"Jeane's Hair Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.59691,35.115992,-106.59691,35.115992],
-  "geometry": {"coordinates":[-106.59691,35.115992],"type":"Point"}
+  "bbox": [
+    -106.59691,
+    35.115992,
+    -106.59691,
+    35.115992
+],
+  "geometry": {"coordinates":[-106.59690999999999,35.115992],"type":"Point"}
 }

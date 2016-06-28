@@ -2,13 +2,14 @@
   "id": 353962219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.713447,35.14171,-106.713447,35.14171",
     "geom:latitude":35.14171,
     "geom:longitude":-106.713447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6441 Ja Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353962219,
-    "wof:lastmodified":1449019772,
+    "wof:lastmodified":1466698805,
     "wof:name":"Rg Hastings Photography",
     "wof:parent_id":85865321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "wedding"
     ]
 },
-  "bbox": [-106.713447,35.14171,-106.713447,35.14171],
+  "bbox": [
+    -106.713447,
+    35.14171,
+    -106.713447,
+    35.14171
+],
   "geometry": {"coordinates":[-106.713447,35.14171],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185974779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.149874,32.696538,-103.149874,32.696538",
     "geom:latitude":32.696538,
     "geom:longitude":-103.149874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 W Marland St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185974779,
-    "wof:lastmodified":1449008008,
+    "wof:lastmodified":1466699577,
     "wof:name":"Jarrel Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-103.149874,32.696538,-103.149874,32.696538],
+  "bbox": [
+    -103.149874,
+    32.696538,
+    -103.149874,
+    32.696538
+],
   "geometry": {"coordinates":[-103.149874,32.696538],"type":"Point"}
 }

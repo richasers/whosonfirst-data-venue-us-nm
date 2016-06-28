@@ -2,13 +2,14 @@
   "id": 202605769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.921375,35.67949,-105.921375,35.67949",
     "geom:latitude":35.67949,
     "geom:longitude":-105.921375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 Canyon Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202605769,
-    "wof:lastmodified":1449061369,
+    "wof:lastmodified":1466698459,
     "wof:name":"Ed's Appliance Svc",
     "wof:parent_id":85880769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-105.921375,35.67949,-105.921375,35.67949],
+  "bbox": [
+    -105.921375,
+    35.67949,
+    -105.921375,
+    35.67949
+],
   "geometry": {"coordinates":[-105.921375,35.67949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202976373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.040656,36.007126,-106.040656,36.007126",
     "geom:latitude":36.007126,
     "geom:longitude":-106.040656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1732 el Llano Rd",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202976373,
-    "wof:lastmodified":1449061162,
+    "wof:lastmodified":1466700684,
     "wof:name":"R-Way",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-106.040656,36.007126,-106.040656,36.007126],
+  "bbox": [
+    -106.040656,
+    36.007126,
+    -106.040656,
+    36.007126
+],
   "geometry": {"coordinates":[-106.040656,36.007126],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186560449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.53807,35.109169,-106.53807,35.109169",
     "geom:latitude":35.109169,
     "geom:longitude":-106.53807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9305 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186560449,
-    "wof:lastmodified":1449052375,
+    "wof:lastmodified":1466700359,
     "wof:name":"All Angles Construction",
     "wof:parent_id":85825849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.53807,35.109169,-106.53807,35.109169],
+  "bbox": [
+    -106.53807,
+    35.109169,
+    -106.53807,
+    35.109169
+],
   "geometry": {"coordinates":[-106.53807,35.109169],"type":"Point"}
 }

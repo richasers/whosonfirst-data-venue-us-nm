@@ -2,13 +2,14 @@
   "id": 169726885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649342,35.083348,-106.649342,35.083348",
     "geom:latitude":35.083348,
     "geom:longitude":-106.649342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 2nd St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169726885,
-    "wof:lastmodified":1449034954,
+    "wof:lastmodified":1466697852,
     "wof:name":"Jean A Mc Cray Attorney At Law",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.649342,35.083348,-106.649342,35.083348],
+  "bbox": [
+    -106.649342,
+    35.083348,
+    -106.649342,
+    35.083348
+],
   "geometry": {"coordinates":[-106.649342,35.083348],"type":"Point"}
 }

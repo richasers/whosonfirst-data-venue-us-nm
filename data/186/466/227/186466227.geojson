@@ -2,13 +2,14 @@
   "id": 186466227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.573834,35.135585,-106.573834,35.135585",
     "geom:latitude":35.135585,
     "geom:longitude":-106.573834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6311 Driscoll Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186466227,
-    "wof:lastmodified":1449051178,
+    "wof:lastmodified":1466700100,
     "wof:name":"Fellowship Of Christian Athlts",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.573834,35.135585,-106.573834,35.135585],
-  "geometry": {"coordinates":[-106.573834,35.135585],"type":"Point"}
+  "bbox": [
+    -106.573834,
+    35.135585,
+    -106.573834,
+    35.135585
+],
+  "geometry": {"coordinates":[-106.57383400000001,35.135585],"type":"Point"}
 }

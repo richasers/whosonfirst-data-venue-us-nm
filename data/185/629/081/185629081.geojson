@@ -2,13 +2,14 @@
   "id": 185629081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.535991,35.12681,-106.535991,35.12681",
     "geom:latitude":35.12681,
     "geom:longitude":-106.535991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9509 Presley Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185629081,
-    "wof:lastmodified":1449007854,
+    "wof:lastmodified":1466697923,
     "wof:name":"Quest Investment Technologies",
     "wof:parent_id":85825849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-106.535991,35.12681,-106.535991,35.12681],
+  "bbox": [
+    -106.535991,
+    35.12681,
+    -106.535991,
+    35.12681
+],
   "geometry": {"coordinates":[-106.535991,35.12681],"type":"Point"}
 }

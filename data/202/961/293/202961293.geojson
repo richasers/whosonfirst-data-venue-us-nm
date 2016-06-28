@@ -2,13 +2,14 @@
   "id": 202961293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.214021,35.595619,-105.214021,35.595619",
     "geom:latitude":35.595619,
     "geom:longitude":-105.214021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Grand Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202961293,
-    "wof:lastmodified":1449062579,
+    "wof:lastmodified":1466700725,
     "wof:name":"Quality Motor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.214021,35.595619,-105.214021,35.595619],
+  "bbox": [
+    -105.214021,
+    35.595619,
+    -105.214021,
+    35.595619
+],
   "geometry": {"coordinates":[-105.214021,35.595619],"type":"Point"}
 }

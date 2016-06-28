@@ -2,13 +2,14 @@
   "id": 202517465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.540436,35.072903,-106.540436,35.072903",
     "geom:latitude":35.072903,
     "geom:longitude":-106.540436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9609 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202517465,
-    "wof:lastmodified":1449061547,
+    "wof:lastmodified":1466699247,
     "wof:name":"Jackssons Trailers",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "utility"
     ]
 },
-  "bbox": [-106.540436,35.072903,-106.540436,35.072903],
+  "bbox": [
+    -106.540436,
+    35.072903,
+    -106.540436,
+    35.072903
+],
   "geometry": {"coordinates":[-106.540436,35.072903],"type":"Point"}
 }

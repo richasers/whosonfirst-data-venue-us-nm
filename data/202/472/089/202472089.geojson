@@ -2,13 +2,14 @@
   "id": 202472089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.728901,35.011771,-106.728901,35.011771",
     "geom:latitude":35.011771,
     "geom:longitude":-106.728901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3710 Gun Club Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202472089,
-    "wof:lastmodified":1449060310,
+    "wof:lastmodified":1466698816,
     "wof:name":"Spath Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "aerospace"
     ]
 },
-  "bbox": [-106.728901,35.011771,-106.728901,35.011771],
-  "geometry": {"coordinates":[-106.728901,35.011771],"type":"Point"}
+  "bbox": [
+    -106.728901,
+    35.011771,
+    -106.728901,
+    35.011771
+],
+  "geometry": {"coordinates":[-106.72890099999999,35.011771],"type":"Point"}
 }

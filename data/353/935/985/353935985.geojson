@@ -2,13 +2,14 @@
   "id": 353935985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.584427,35.077889,-106.584427,35.077889",
     "geom:latitude":35.077889,
     "geom:longitude":-106.584427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Madeira Dr NE Ofc",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353935985,
-    "wof:lastmodified":1449020373,
+    "wof:lastmodified":1466698166,
     "wof:name":"R H Barnes Co",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "machines-industrial"
     ]
 },
-  "bbox": [-106.584427,35.077889,-106.584427,35.077889],
-  "geometry": {"coordinates":[-106.584427,35.077889],"type":"Point"}
+  "bbox": [
+    -106.584427,
+    35.077889,
+    -106.584427,
+    35.077889
+],
+  "geometry": {"coordinates":[-106.58442700000001,35.077889],"type":"Point"}
 }

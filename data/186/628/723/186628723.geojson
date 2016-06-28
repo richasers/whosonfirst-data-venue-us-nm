@@ -2,13 +2,14 @@
   "id": 186628723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.651915,35.207819,-106.651915,35.207819",
     "geom:latitude":35.207819,
     "geom:longitude":-106.651915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3613 State Hwy 528",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186628723,
-    "wof:lastmodified":1449052503,
+    "wof:lastmodified":1466700815,
     "wof:name":"Cash Now",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.651915,35.207819,-106.651915,35.207819],
+  "bbox": [
+    -106.651915,
+    35.207819,
+    -106.651915,
+    35.207819
+],
   "geometry": {"coordinates":[-106.651915,35.207819],"type":"Point"}
 }

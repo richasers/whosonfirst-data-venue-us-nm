@@ -2,13 +2,14 @@
   "id": 202460761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.637101,35.136922,-106.637101,35.136922",
     "geom:latitude":35.136922,
     "geom:longitude":-106.637101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5350 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202460761,
-    "wof:lastmodified":1449062508,
+    "wof:lastmodified":1466698623,
     "wof:name":"Police Dept Criminalistics",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-106.637101,35.136922,-106.637101,35.136922],
+  "bbox": [
+    -106.637101,
+    35.136922,
+    -106.637101,
+    35.136922
+],
   "geometry": {"coordinates":[-106.637101,35.136922],"type":"Point"}
 }

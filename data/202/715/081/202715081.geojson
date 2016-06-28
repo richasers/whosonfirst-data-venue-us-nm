@@ -2,13 +2,14 @@
   "id": 202715081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.506935,35.117819,-106.506935,35.117819",
     "geom:latitude":35.117819,
     "geom:longitude":-106.506935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3313 Montreal St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202715081,
-    "wof:lastmodified":1449062153,
+    "wof:lastmodified":1466699502,
     "wof:name":"K&S Vending",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-106.506935,35.117819,-106.506935,35.117819],
+  "bbox": [
+    -106.506935,
+    35.117819,
+    -106.506935,
+    35.117819
+],
   "geometry": {"coordinates":[-106.506935,35.117819],"type":"Point"}
 }

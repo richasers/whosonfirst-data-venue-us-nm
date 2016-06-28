@@ -2,13 +2,14 @@
   "id": 202914925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.347454,35.165709,-106.347454,35.165709",
     "geom:latitude":35.165709,
     "geom:longitude":-106.347454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Bus Ln",
     "sg:city":"Sandia Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202914925,
-    "wof:lastmodified":1449061080,
+    "wof:lastmodified":1466700421,
     "wof:name":"Mountain Bus Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "line"
     ]
 },
-  "bbox": [-106.347454,35.165709,-106.347454,35.165709],
+  "bbox": [
+    -106.347454,
+    35.165709,
+    -106.347454,
+    35.165709
+],
   "geometry": {"coordinates":[-106.347454,35.165709],"type":"Point"}
 }

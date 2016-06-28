@@ -2,13 +2,14 @@
   "id": 202872133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.69452,35.164953,-106.69452,35.164953",
     "geom:latitude":35.164953,
     "geom:longitude":-106.69452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5008 Sooner Trl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202872133,
-    "wof:lastmodified":1449060341,
+    "wof:lastmodified":1466700117,
     "wof:name":"J & J House Cleaning Co",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.69452,35.164953,-106.69452,35.164953],
+  "bbox": [
+    -106.69452,
+    35.164953,
+    -106.69452,
+    35.164953
+],
   "geometry": {"coordinates":[-106.69452,35.164953],"type":"Point"}
 }

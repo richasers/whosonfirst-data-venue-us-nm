@@ -2,13 +2,14 @@
   "id": 202945637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.127662,32.752921,-103.127662,32.752921",
     "geom:latitude":32.752921,
     "geom:longitude":-103.127662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4933 N Dal Paso St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202945637,
-    "wof:lastmodified":1449060330,
+    "wof:lastmodified":1466700531,
     "wof:name":"Southwest Tools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "used"
     ]
 },
-  "bbox": [-103.127662,32.752921,-103.127662,32.752921],
+  "bbox": [
+    -103.127662,
+    32.752921,
+    -103.127662,
+    32.752921
+],
   "geometry": {"coordinates":[-103.127662,32.752921],"type":"Point"}
 }

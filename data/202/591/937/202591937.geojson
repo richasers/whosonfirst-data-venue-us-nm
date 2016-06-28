@@ -2,13 +2,14 @@
   "id": 202591937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.536422,35.144886,-106.536422,35.144886",
     "geom:latitude":35.144886,
     "geom:longitude":-106.536422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9606 Cam del Sol NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202591937,
-    "wof:lastmodified":1449061469,
+    "wof:lastmodified":1466698270,
     "wof:name":"Apex Services",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-106.536422,35.144886,-106.536422,35.144886],
+  "bbox": [
+    -106.536422,
+    35.144886,
+    -106.536422,
+    35.144886
+],
   "geometry": {"coordinates":[-106.536422,35.144886],"type":"Point"}
 }

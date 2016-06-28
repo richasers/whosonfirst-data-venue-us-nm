@@ -2,13 +2,14 @@
   "id": 202895353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.93726,35.688391,-105.93726,35.688391",
     "geom:latitude":35.688391,
     "geom:longitude":-105.93726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Washington Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202895353,
-    "wof:lastmodified":1449061191,
+    "wof:lastmodified":1466700248,
     "wof:name":"Tees & Skies",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "t"
     ]
 },
-  "bbox": [-105.93726,35.688391,-105.93726,35.688391],
-  "geometry": {"coordinates":[-105.93726,35.688391],"type":"Point"}
+  "bbox": [
+    -105.93726,
+    35.688391,
+    -105.93726,
+    35.688391
+],
+  "geometry": {"coordinates":[-105.93725999999999,35.688391],"type":"Point"}
 }

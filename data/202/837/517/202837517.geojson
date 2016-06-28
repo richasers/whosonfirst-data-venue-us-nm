@@ -2,13 +2,14 @@
   "id": 202837517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.07383,32.730336,-103.07383,32.730336",
     "geom:latitude":32.730336,
     "geom:longitude":-103.07383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 N Brand Dr",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202837517,
-    "wof:lastmodified":1449060499,
+    "wof:lastmodified":1466700131,
     "wof:name":"Cox Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.07383,32.730336,-103.07383,32.730336],
+  "bbox": [
+    -103.07383,
+    32.730336,
+    -103.07383,
+    32.730336
+],
   "geometry": {"coordinates":[-103.07383,32.730336],"type":"Point"}
 }

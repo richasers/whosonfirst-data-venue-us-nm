@@ -2,13 +2,14 @@
   "id": 185691679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.786039,34.654969,-106.786039,34.654969",
     "geom:latitude":34.654969,
     "geom:longitude":-106.786039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 Cam del Llano",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185691679,
-    "wof:lastmodified":1449006737,
+    "wof:lastmodified":1466698563,
     "wof:name":"Lake MR Drilling Co",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.786039,34.654969,-106.786039,34.654969],
+  "bbox": [
+    -106.786039,
+    34.654969,
+    -106.786039,
+    34.654969
+],
   "geometry": {"coordinates":[-106.786039,34.654969],"type":"Point"}
 }

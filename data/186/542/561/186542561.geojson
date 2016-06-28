@@ -2,13 +2,14 @@
   "id": 186542561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.70695,32.350753,-108.70695,32.350753",
     "geom:latitude":32.350753,
     "geom:longitude":-108.70695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Southern Pacific Blvd",
     "sg:city":"Lordsburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186542561,
-    "wof:lastmodified":1449052400,
+    "wof:lastmodified":1466700368,
     "wof:name":"El Charro Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.70695,32.350753,-108.70695,32.350753],
-  "geometry": {"coordinates":[-108.70695,32.350753],"type":"Point"}
+  "bbox": [
+    -108.70695,
+    32.350753,
+    -108.70695,
+    32.350753
+],
+  "geometry": {"coordinates":[-108.70695000000001,32.350753],"type":"Point"}
 }

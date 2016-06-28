@@ -2,13 +2,14 @@
   "id": 186271727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.153291,32.666193,-107.153291,32.666193",
     "geom:latitude":32.666193,
     "geom:longitude":-107.153291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Franklin St",
     "sg:city":"Hatch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186271727,
-    "wof:lastmodified":1449051774,
+    "wof:lastmodified":1466698938,
     "wof:name":"Dona Ana County Sheriff",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-107.153291,32.666193,-107.153291,32.666193],
+  "bbox": [
+    -107.153291,
+    32.666193,
+    -107.153291,
+    32.666193
+],
   "geometry": {"coordinates":[-107.153291,32.666193],"type":"Point"}
 }

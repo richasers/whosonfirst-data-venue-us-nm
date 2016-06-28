@@ -2,13 +2,14 @@
   "id": 203098987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.571094,35.182673,-106.571094,35.182673",
     "geom:latitude":35.182673,
     "geom:longitude":-106.571094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6605 Tesoro Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203098987,
-    "wof:lastmodified":1449026670,
+    "wof:lastmodified":1466698731,
     "wof:name":"Veena Investments Inc",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-106.571094,35.182673,-106.571094,35.182673],
+  "bbox": [
+    -106.571094,
+    35.182673,
+    -106.571094,
+    35.182673
+],
   "geometry": {"coordinates":[-106.571094,35.182673],"type":"Point"}
 }

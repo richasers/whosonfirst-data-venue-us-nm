@@ -2,13 +2,14 @@
   "id": 202806697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.76536,32.310899,-106.76536,32.310899",
     "geom:latitude":32.310899,
     "geom:longitude":-106.76536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Solano Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202806697,
-    "wof:lastmodified":1449060102,
+    "wof:lastmodified":1466699988,
     "wof:name":"Marys Pawn Shop",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pawn"
     ]
 },
-  "bbox": [-106.76536,32.310899,-106.76536,32.310899],
+  "bbox": [
+    -106.76536,
+    32.310899,
+    -106.76536,
+    32.310899
+],
   "geometry": {"coordinates":[-106.76536,32.310899],"type":"Point"}
 }

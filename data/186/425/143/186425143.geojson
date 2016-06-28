@@ -2,13 +2,14 @@
   "id": 186425143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.912137,35.535211,-105.912137,35.535211",
     "geom:latitude":35.535211,
     "geom:longitude":-105.912137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Cuesta Ln",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186425143,
-    "wof:lastmodified":1449051340,
+    "wof:lastmodified":1466699943,
     "wof:name":"Scott D Christpher Photography",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-105.912137,35.535211,-105.912137,35.535211],
+  "bbox": [
+    -105.912137,
+    35.535211,
+    -105.912137,
+    35.535211
+],
   "geometry": {"coordinates":[-105.912137,35.535211],"type":"Point"}
 }

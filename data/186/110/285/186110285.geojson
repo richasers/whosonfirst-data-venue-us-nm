@@ -2,13 +2,14 @@
   "id": 186110285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.93835,35.686256,-105.93835,35.686256",
     "geom:latitude":35.686256,
     "geom:longitude":-105.93835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Old Santa Fe Trl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186110285,
-    "wof:lastmodified":1449051274,
+    "wof:lastmodified":1466699016,
     "wof:name":"Hawash Sima",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-105.93835,35.686256,-105.93835,35.686256],
+  "bbox": [
+    -105.93835,
+    35.686256,
+    -105.93835,
+    35.686256
+],
   "geometry": {"coordinates":[-105.93835,35.686256],"type":"Point"}
 }

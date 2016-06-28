@@ -2,13 +2,14 @@
   "id": 185918461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.62423,31.84669,-106.62423,31.84669",
     "geom:latitude":31.84669,
     "geom:longitude":-106.62423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 McNutt Rd",
     "sg:city":"Santa Teresa",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185918461,
-    "wof:lastmodified":1449007680,
+    "wof:lastmodified":1466698781,
     "wof:name":"Howdy's Food Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.62423,31.84669,-106.62423,31.84669],
+  "bbox": [
+    -106.62423,
+    31.84669,
+    -106.62423,
+    31.84669
+],
   "geometry": {"coordinates":[-106.62423,31.84669],"type":"Point"}
 }

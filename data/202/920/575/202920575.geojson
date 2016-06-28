@@ -2,13 +2,14 @@
   "id": 202920575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.526499,35.087064,-106.526499,35.087064",
     "geom:latitude":35.087064,
     "geom:longitude":-106.526499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10801 Lomas Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202920575,
-    "wof:lastmodified":1449062083,
+    "wof:lastmodified":1466700437,
     "wof:name":"Martin & Sabo",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "computer"
     ]
 },
-  "bbox": [-106.526499,35.087064,-106.526499,35.087064],
+  "bbox": [
+    -106.526499,
+    35.087064,
+    -106.526499,
+    35.087064
+],
   "geometry": {"coordinates":[-106.526499,35.087064],"type":"Point"}
 }

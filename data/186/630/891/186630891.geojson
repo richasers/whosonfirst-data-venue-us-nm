@@ -2,13 +2,14 @@
   "id": 186630891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.438473,36.909092,-104.438473,36.909092",
     "geom:latitude":36.909092,
     "geom:longitude":-104.438473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 W Tenaja St",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186630891,
-    "wof:lastmodified":1449051353,
+    "wof:lastmodified":1466700756,
     "wof:name":"Medina Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.438473,36.909092,-104.438473,36.909092],
+  "bbox": [
+    -104.438473,
+    36.909092,
+    -104.438473,
+    36.909092
+],
   "geometry": {"coordinates":[-104.438473,36.909092],"type":"Point"}
 }

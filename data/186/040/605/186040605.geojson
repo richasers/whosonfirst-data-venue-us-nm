@@ -2,13 +2,14 @@
   "id": 186040605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.529026,33.400946,-104.529026,33.400946",
     "geom:latitude":33.400946,
     "geom:longitude":-104.529026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 N Lea Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186040605,
-    "wof:lastmodified":1449052960,
+    "wof:lastmodified":1466698139,
     "wof:name":"Super Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.529026,33.400946,-104.529026,33.400946],
+  "bbox": [
+    -104.529026,
+    33.400946,
+    -104.529026,
+    33.400946
+],
   "geometry": {"coordinates":[-104.529026,33.400946],"type":"Point"}
 }

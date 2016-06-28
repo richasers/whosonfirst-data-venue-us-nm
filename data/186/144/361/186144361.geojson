@@ -2,13 +2,14 @@
   "id": 186144361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.612032,35.248774,-106.612032,35.248774",
     "geom:latitude":35.248774,
     "geom:longitude":-106.612032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"353 Cam de la Tierra",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186144361,
-    "wof:lastmodified":1449052323,
+    "wof:lastmodified":1466699232,
     "wof:name":"Home Store Realty",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.612032,35.248774,-106.612032,35.248774],
+  "bbox": [
+    -106.612032,
+    35.248774,
+    -106.612032,
+    35.248774
+],
   "geometry": {"coordinates":[-106.612032,35.248774],"type":"Point"}
 }

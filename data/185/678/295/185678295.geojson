@@ -2,13 +2,14 @@
   "id": 185678295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.154177,35.142173,-106.154177,35.142173",
     "geom:latitude":35.142173,
     "geom:longitude":-106.154177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Hwy 472",
     "sg:city":"Stanley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185678295,
-    "wof:lastmodified":1449007401,
+    "wof:lastmodified":1466698430,
     "wof:name":"Windrider Suri Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-106.154177,35.142173,-106.154177,35.142173],
+  "bbox": [
+    -106.154177,
+    35.142173,
+    -106.154177,
+    35.142173
+],
   "geometry": {"coordinates":[-106.154177,35.142173],"type":"Point"}
 }

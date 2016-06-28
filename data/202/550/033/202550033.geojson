@@ -2,13 +2,14 @@
   "id": 202550033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.778887,32.299841,-106.778887,32.299841",
     "geom:latitude":32.299841,
     "geom:longitude":-106.778887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1042 S Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202550033,
-    "wof:lastmodified":1449061482,
+    "wof:lastmodified":1466697646,
     "wof:name":"Project Management Partners",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.778887,32.299841,-106.778887,32.299841],
+  "bbox": [
+    -106.778887,
+    32.299841,
+    -106.778887,
+    32.299841
+],
   "geometry": {"coordinates":[-106.778887,32.299841],"type":"Point"}
 }

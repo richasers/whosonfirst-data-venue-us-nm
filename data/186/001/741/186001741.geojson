@@ -2,13 +2,14 @@
   "id": 186001741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.137387,32.705863,-103.137387,32.705863",
     "geom:latitude":32.705863,
     "geom:longitude":-103.137387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 N Shipp St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186001741,
-    "wof:lastmodified":1449051006,
+    "wof:lastmodified":1466697694,
     "wof:name":"Craig J LA Bree PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-103.137387,32.705863,-103.137387,32.705863],
+  "bbox": [
+    -103.137387,
+    32.705863,
+    -103.137387,
+    32.705863
+],
   "geometry": {"coordinates":[-103.137387,32.705863],"type":"Point"}
 }

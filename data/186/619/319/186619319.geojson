@@ -2,13 +2,14 @@
   "id": 186619319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.215408,36.727019,-108.215408,36.727019",
     "geom:latitude":36.727019,
     "geom:longitude":-108.215408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 W Animas St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186619319,
-    "wof:lastmodified":1449050898,
+    "wof:lastmodified":1466700577,
     "wof:name":"Navajo Nation Archaeology Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "physical"
     ]
 },
-  "bbox": [-108.215408,36.727019,-108.215408,36.727019],
+  "bbox": [
+    -108.215408,
+    36.727019,
+    -108.215408,
+    36.727019
+],
   "geometry": {"coordinates":[-108.215408,36.727019],"type":"Point"}
 }

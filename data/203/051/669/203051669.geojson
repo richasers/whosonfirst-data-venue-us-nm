@@ -2,13 +2,14 @@
   "id": 203051669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.709412,35.145559,-106.709412,35.145559",
     "geom:latitude":35.145559,
     "geom:longitude":-106.709412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5209 Saratoga Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203051669,
-    "wof:lastmodified":1449026113,
+    "wof:lastmodified":1466698158,
     "wof:name":"Advanced Salon Knowledge Inc",
     "wof:parent_id":85865321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "care"
     ]
 },
-  "bbox": [-106.709412,35.145559,-106.709412,35.145559],
+  "bbox": [
+    -106.709412,
+    35.145559,
+    -106.709412,
+    35.145559
+],
   "geometry": {"coordinates":[-106.709412,35.145559],"type":"Point"}
 }

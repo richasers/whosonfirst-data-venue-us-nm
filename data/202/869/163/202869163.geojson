@@ -2,13 +2,14 @@
   "id": 202869163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.526928,35.148778,-106.526928,35.148778",
     "geom:latitude":35.148778,
     "geom:longitude":-106.526928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5801 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202869163,
-    "wof:lastmodified":1449062454,
+    "wof:lastmodified":1466700252,
     "wof:name":"Prime Source Electric",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.526928,35.148778,-106.526928,35.148778],
+  "bbox": [
+    -106.526928,
+    35.148778,
+    -106.526928,
+    35.148778
+],
   "geometry": {"coordinates":[-106.526928,35.148778],"type":"Point"}
 }

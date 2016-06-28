@@ -2,13 +2,14 @@
   "id": 186328907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.242402,32.445666,-104.242402,32.445666",
     "geom:latitude":32.445666,
     "geom:longitude":-104.242402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 Park St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186328907,
-    "wof:lastmodified":1449051948,
+    "wof:lastmodified":1466699593,
     "wof:name":"Quality Heating-Air Cond",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.242402,32.445666,-104.242402,32.445666],
+  "bbox": [
+    -104.242402,
+    32.445666,
+    -104.242402,
+    32.445666
+],
   "geometry": {"coordinates":[-104.242402,32.445666],"type":"Point"}
 }

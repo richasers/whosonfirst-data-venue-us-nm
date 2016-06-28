@@ -2,13 +2,14 @@
   "id": 202725481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.452128,33.413621,-104.452128,33.413621",
     "geom:latitude":33.413621,
     "geom:longitude":-104.452128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Wrangler Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202725481,
-    "wof:lastmodified":1449060733,
+    "wof:lastmodified":1466699820,
     "wof:name":"Aguadulce Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.452128,33.413621,-104.452128,33.413621],
+  "bbox": [
+    -104.452128,
+    33.413621,
+    -104.452128,
+    33.413621
+],
   "geometry": {"coordinates":[-104.452128,33.413621],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202664401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.489691,33.394309,-104.489691,33.394309",
     "geom:latitude":33.394309,
     "geom:longitude":-104.489691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2307 E 2nd St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202664401,
-    "wof:lastmodified":1449061047,
+    "wof:lastmodified":1466699350,
     "wof:name":"Country Kids Family Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-104.489691,33.394309,-104.489691,33.394309],
-  "geometry": {"coordinates":[-104.489691,33.394309],"type":"Point"}
+  "bbox": [
+    -104.489691,
+    33.394309,
+    -104.489691,
+    33.394309
+],
+  "geometry": {"coordinates":[-104.48969099999999,33.394309],"type":"Point"}
 }

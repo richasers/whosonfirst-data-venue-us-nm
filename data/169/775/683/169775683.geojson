@@ -2,13 +2,14 @@
   "id": 169775683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.660406,35.089264,-106.660406,35.089264",
     "geom:latitude":35.089264,
     "geom:longitude":-106.660406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 12th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169775683,
-    "wof:lastmodified":1449035117,
+    "wof:lastmodified":1466698316,
     "wof:name":"Willima D Teel Atty At Law",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.660406,35.089264,-106.660406,35.089264],
-  "geometry": {"coordinates":[-106.660406,35.089264],"type":"Point"}
+  "bbox": [
+    -106.660406,
+    35.089264,
+    -106.660406,
+    35.089264
+],
+  "geometry": {"coordinates":[-106.66040599999999,35.089264],"type":"Point"}
 }

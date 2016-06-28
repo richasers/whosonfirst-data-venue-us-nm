@@ -2,13 +2,14 @@
   "id": 353951511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.549155,35.099838,-106.549155,35.099838",
     "geom:latitude":35.099838,
     "geom:longitude":-106.549155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8616 Bellehaven Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353951511,
-    "wof:lastmodified":1449018350,
+    "wof:lastmodified":1466698616,
     "wof:name":"Best Refrigeration",
     "wof:parent_id":85871891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-106.549155,35.099838,-106.549155,35.099838],
+  "bbox": [
+    -106.549155,
+    35.099838,
+    -106.549155,
+    35.099838
+],
   "geometry": {"coordinates":[-106.549155,35.099838],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202768557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.762677,34.659857,-106.762677,34.659857",
     "geom:latitude":34.659857,
     "geom:longitude":-106.762677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 E Reinken Ave",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202768557,
-    "wof:lastmodified":1449061093,
+    "wof:lastmodified":1466699962,
     "wof:name":"Martin Land Co",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.762677,34.659857,-106.762677,34.659857],
+  "bbox": [
+    -106.762677,
+    34.659857,
+    -106.762677,
+    34.659857
+],
   "geometry": {"coordinates":[-106.762677,34.659857],"type":"Point"}
 }

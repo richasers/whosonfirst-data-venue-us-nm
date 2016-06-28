@@ -2,13 +2,14 @@
   "id": 186548903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.250463,33.136916,-107.250463,33.136916",
     "geom:latitude":33.136916,
     "geom:longitude":-107.250463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 N Date St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186548903,
-    "wof:lastmodified":1449052221,
+    "wof:lastmodified":1466700304,
     "wof:name":"Trail Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-107.250463,33.136916,-107.250463,33.136916],
+  "bbox": [
+    -107.250463,
+    33.136916,
+    -107.250463,
+    33.136916
+],
   "geometry": {"coordinates":[-107.250463,33.136916],"type":"Point"}
 }

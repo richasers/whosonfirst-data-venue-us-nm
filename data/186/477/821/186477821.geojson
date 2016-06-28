@@ -2,13 +2,14 @@
   "id": 186477821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.530294,35.148351,-106.530294,35.148351",
     "geom:latitude":35.148351,
     "geom:longitude":-106.530294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9716 Admiral Emerson Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186477821,
-    "wof:lastmodified":1449050873,
+    "wof:lastmodified":1466700152,
     "wof:name":"Patricia Boverie Consultant",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-106.530294,35.148351,-106.530294,35.148351],
+  "bbox": [
+    -106.530294,
+    35.148351,
+    -106.530294,
+    35.148351
+],
   "geometry": {"coordinates":[-106.530294,35.148351],"type":"Point"}
 }

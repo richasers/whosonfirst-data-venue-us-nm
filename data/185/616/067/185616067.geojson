@@ -2,13 +2,14 @@
   "id": 185616067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.6144,35.057686,-106.6144,35.057686",
     "geom:latitude":35.057686,
     "geom:longitude":-106.6144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Air Park Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":185616067,
-    "wof:lastmodified":1449007771,
+    "wof:lastmodified":1466697777,
     "wof:name":"Computer Sciences Corporation",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "engineer"
     ]
 },
-  "bbox": [-106.6144,35.057686,-106.6144,35.057686],
+  "bbox": [
+    -106.6144,
+    35.057686,
+    -106.6144,
+    35.057686
+],
   "geometry": {"coordinates":[-106.6144,35.057686],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169759037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.773083,32.271555,-106.773083,32.271555",
     "geom:latitude":32.271555,
     "geom:longitude":-106.773083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3310 West St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169759037,
-    "wof:lastmodified":1449036019,
+    "wof:lastmodified":1466698148,
     "wof:name":"Dunking Bird Productions",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "custom"
     ]
 },
-  "bbox": [-106.773083,32.271555,-106.773083,32.271555],
+  "bbox": [
+    -106.773083,
+    32.271555,
+    -106.773083,
+    32.271555
+],
   "geometry": {"coordinates":[-106.773083,32.271555],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185790623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.512217,35.095216,-106.512217,35.095216",
     "geom:latitude":35.095216,
     "geom:longitude":-106.512217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 Kirby St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185790623,
-    "wof:lastmodified":1449007858,
+    "wof:lastmodified":1466699310,
     "wof:name":"Ann Tiques & Collectables",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-106.512217,35.095216,-106.512217,35.095216],
-  "geometry": {"coordinates":[-106.512217,35.095216],"type":"Point"}
+  "bbox": [
+    -106.512217,
+    35.095216,
+    -106.512217,
+    35.095216
+],
+  "geometry": {"coordinates":[-106.51221700000001,35.095216],"type":"Point"}
 }

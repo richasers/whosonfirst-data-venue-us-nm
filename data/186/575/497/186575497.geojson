@@ -2,13 +2,14 @@
   "id": 186575497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.524961,35.136319,-106.524961,35.136319",
     "geom:latitude":35.136319,
     "geom:longitude":-106.524961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4903 Arroyo Chamisa Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186575497,
-    "wof:lastmodified":1449051153,
+    "wof:lastmodified":1466700552,
     "wof:name":"Claire Munro Morrison Author",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-106.524961,35.136319,-106.524961,35.136319],
+  "bbox": [
+    -106.524961,
+    35.136319,
+    -106.524961,
+    35.136319
+],
   "geometry": {"coordinates":[-106.524961,35.136319],"type":"Point"}
 }

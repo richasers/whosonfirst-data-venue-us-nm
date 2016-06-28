@@ -2,13 +2,14 @@
   "id": 169749947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.63079,35.158069,-106.63079,35.158069",
     "geom:latitude":35.158069,
     "geom:longitude":-106.63079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7043 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169749947,
-    "wof:lastmodified":1449033622,
+    "wof:lastmodified":1466698076,
     "wof:name":"Green Acres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-106.63079,35.158069,-106.63079,35.158069],
+  "bbox": [
+    -106.63079,
+    35.158069,
+    -106.63079,
+    35.158069
+],
   "geometry": {"coordinates":[-106.63079,35.158069],"type":"Point"}
 }

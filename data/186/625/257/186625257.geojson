@@ -2,13 +2,14 @@
   "id": 186625257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.6356,35.168324,-106.6356,35.168324",
     "geom:latitude":35.168324,
     "geom:longitude":-106.6356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7209 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186625257,
-    "wof:lastmodified":1449053062,
+    "wof:lastmodified":1466700623,
     "wof:name":"Accents On Consignment LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-106.6356,35.168324,-106.6356,35.168324],
+  "bbox": [
+    -106.6356,
+    35.168324,
+    -106.6356,
+    35.168324
+],
   "geometry": {"coordinates":[-106.6356,35.168324],"type":"Point"}
 }

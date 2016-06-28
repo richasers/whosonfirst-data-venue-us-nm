@@ -2,13 +2,14 @@
   "id": 203087505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.228647,32.409647,-104.228647,32.409647",
     "geom:latitude":32.409647,
     "geom:longitude":-104.228647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 S Canal St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203087505,
-    "wof:lastmodified":1449025793,
+    "wof:lastmodified":1466698532,
     "wof:name":"Triple A Muffler Shop",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-104.228647,32.409647,-104.228647,32.409647],
+  "bbox": [
+    -104.228647,
+    32.409647,
+    -104.228647,
+    32.409647
+],
   "geometry": {"coordinates":[-104.228647,32.409647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202555007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.928327,35.762667,-105.928327,35.762667",
     "geom:latitude":35.762667,
     "geom:longitude":-105.928327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Arroyo Pequeno",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202555007,
-    "wof:lastmodified":1449062293,
+    "wof:lastmodified":1466697713,
     "wof:name":"Melinda K Hall",
     "wof:parent_id":85880787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-105.928327,35.762667,-105.928327,35.762667],
+  "bbox": [
+    -105.928327,
+    35.762667,
+    -105.928327,
+    35.762667
+],
   "geometry": {"coordinates":[-105.928327,35.762667],"type":"Point"}
 }

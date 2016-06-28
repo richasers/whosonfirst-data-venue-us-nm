@@ -2,13 +2,14 @@
   "id": 186227065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.656361,35.136228,-106.656361,35.136228",
     "geom:latitude":35.136228,
     "geom:longitude":-106.656361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5110 Guadalupe Trl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186227065,
-    "wof:lastmodified":1449050984,
+    "wof:lastmodified":1466698357,
     "wof:name":"Allen House Creative",
     "wof:parent_id":85892593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "craft"
     ]
 },
-  "bbox": [-106.656361,35.136228,-106.656361,35.136228],
+  "bbox": [
+    -106.656361,
+    35.136228,
+    -106.656361,
+    35.136228
+],
   "geometry": {"coordinates":[-106.656361,35.136228],"type":"Point"}
 }

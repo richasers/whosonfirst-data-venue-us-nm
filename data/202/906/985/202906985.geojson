@@ -2,13 +2,14 @@
   "id": 202906985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.609485,35.114176,-106.609485,35.114176",
     "geom:latitude":35.114176,
     "geom:longitude":-106.609485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3333 Los Arboles Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202906985,
-    "wof:lastmodified":1449061077,
+    "wof:lastmodified":1466700387,
     "wof:name":"Eaton Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-106.609485,35.114176,-106.609485,35.114176],
-  "geometry": {"coordinates":[-106.609485,35.114176],"type":"Point"}
+  "bbox": [
+    -106.609485,
+    35.114176,
+    -106.609485,
+    35.114176
+],
+  "geometry": {"coordinates":[-106.60948500000001,35.114176],"type":"Point"}
 }

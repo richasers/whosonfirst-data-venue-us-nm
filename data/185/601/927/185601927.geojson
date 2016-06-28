@@ -2,13 +2,14 @@
   "id": 185601927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.33623,34.185756,-103.33623,34.185756",
     "geom:latitude":34.185756,
     "geom:longitude":-103.33623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 S Main Ave",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185601927,
-    "wof:lastmodified":1449007336,
+    "wof:lastmodified":1466697623,
     "wof:name":"Portales Ace Hardware Appl Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.33623,34.185756,-103.33623,34.185756],
+  "bbox": [
+    -103.33623,
+    34.185756,
+    -103.33623,
+    34.185756
+],
   "geometry": {"coordinates":[-103.33623,34.185756],"type":"Point"}
 }

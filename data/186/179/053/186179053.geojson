@@ -2,13 +2,14 @@
   "id": 186179053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.263309,32.784312,-108.263309,32.784312",
     "geom:latitude":32.784312,
     "geom:longitude":-108.263309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1775 US Hwy 180 E",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186179053,
-    "wof:lastmodified":1449052742,
+    "wof:lastmodified":1466697754,
     "wof:name":"All American Shooting Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.263309,32.784312,-108.263309,32.784312],
-  "geometry": {"coordinates":[-108.263309,32.784312],"type":"Point"}
+  "bbox": [
+    -108.263309,
+    32.784312,
+    -108.263309,
+    32.784312
+],
+  "geometry": {"coordinates":[-108.26330900000001,32.784312],"type":"Point"}
 }

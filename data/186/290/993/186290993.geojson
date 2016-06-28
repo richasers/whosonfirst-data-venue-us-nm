@@ -2,13 +2,14 @@
   "id": 186290993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550911,35.10272,-106.550911,35.10272",
     "geom:latitude":35.10272,
     "geom:longitude":-106.550911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186290993,
-    "wof:lastmodified":1449051525,
+    "wof:lastmodified":1466699214,
     "wof:name":"Old Mission Antiques & More",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-106.550911,35.10272,-106.550911,35.10272],
+  "bbox": [
+    -106.550911,
+    35.10272,
+    -106.550911,
+    35.10272
+],
   "geometry": {"coordinates":[-106.550911,35.10272],"type":"Point"}
 }

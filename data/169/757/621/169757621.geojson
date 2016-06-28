@@ -2,13 +2,14 @@
   "id": 169757621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.6716,36.539296,-105.6716,36.539296",
     "geom:latitude":36.539296,
     "geom:longitude":-105.6716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Gardano Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169757621,
-    "wof:lastmodified":1449034551,
+    "wof:lastmodified":1466698143,
     "wof:name":"International Pond Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-105.6716,36.539296,-105.6716,36.539296],
+  "bbox": [
+    -105.6716,
+    36.539296,
+    -105.6716,
+    36.539296
+],
   "geometry": {"coordinates":[-105.6716,36.539296],"type":"Point"}
 }

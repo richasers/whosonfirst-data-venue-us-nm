@@ -2,13 +2,14 @@
   "id": 202741115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.498038,35.152275,-106.498038,35.152275",
     "geom:latitude":35.152275,
     "geom:longitude":-106.498038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12200 Academy Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202741115,
-    "wof:lastmodified":1449060234,
+    "wof:lastmodified":1466699855,
     "wof:name":"LA Ventana",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "complex"
     ]
 },
-  "bbox": [-106.498038,35.152275,-106.498038,35.152275],
-  "geometry": {"coordinates":[-106.498038,35.152275],"type":"Point"}
+  "bbox": [
+    -106.498038,
+    35.152275,
+    -106.498038,
+    35.152275
+],
+  "geometry": {"coordinates":[-106.49803799999999,35.152275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202677391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.012228,35.64176,-106.012228,35.64176",
     "geom:latitude":35.64176,
     "geom:longitude":-106.012228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3549 Zafarano Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202677391,
-    "wof:lastmodified":1449061021,
+    "wof:lastmodified":1466699509,
     "wof:name":"Michaels Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.012228,35.64176,-106.012228,35.64176],
-  "geometry": {"coordinates":[-106.012228,35.64176],"type":"Point"}
+  "bbox": [
+    -106.012228,
+    35.64176,
+    -106.012228,
+    35.64176
+],
+  "geometry": {"coordinates":[-106.01222799999999,35.64176],"type":"Point"}
 }

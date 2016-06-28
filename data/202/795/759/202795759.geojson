@@ -2,13 +2,14 @@
   "id": 202795759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.276031,32.776451,-108.276031,32.776451",
     "geom:latitude":32.776451,
     "geom:longitude":-108.276031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 N Pope St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202795759,
-    "wof:lastmodified":1449061614,
+    "wof:lastmodified":1466699971,
     "wof:name":"Concast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-108.276031,32.776451,-108.276031,32.776451],
+  "bbox": [
+    -108.276031,
+    32.776451,
+    -108.276031,
+    32.776451
+],
   "geometry": {"coordinates":[-108.276031,32.776451],"type":"Point"}
 }

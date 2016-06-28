@@ -2,13 +2,14 @@
   "id": 202780713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.533254,35.132137,-106.533254,35.132137",
     "geom:latitude":35.132137,
     "geom:longitude":-106.533254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4550 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202780713,
-    "wof:lastmodified":1449062009,
+    "wof:lastmodified":1466699773,
     "wof:name":"Charles R Thompson",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.533254,35.132137,-106.533254,35.132137],
+  "bbox": [
+    -106.533254,
+    35.132137,
+    -106.533254,
+    35.132137
+],
   "geometry": {"coordinates":[-106.533254,35.132137],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203113033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.545855,35.188869,-106.545855,35.188869",
     "geom:latitude":35.188869,
     "geom:longitude":-106.545855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8751 Modesto Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":203113033,
-    "wof:lastmodified":1449026701,
+    "wof:lastmodified":1466698893,
     "wof:name":"Alemeda Investments LLC",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "closed"
     ]
 },
-  "bbox": [-106.545855,35.188869,-106.545855,35.188869],
+  "bbox": [
+    -106.545855,
+    35.188869,
+    -106.545855,
+    35.188869
+],
   "geometry": {"coordinates":[-106.545855,35.188869],"type":"Point"}
 }

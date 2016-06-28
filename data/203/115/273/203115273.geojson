@@ -2,13 +2,14 @@
   "id": 203115273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.946433,32.905116,-105.946433,32.905116",
     "geom:latitude":32.905116,
     "geom:longitude":-105.946433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Cuba Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203115273,
-    "wof:lastmodified":1449024927,
+    "wof:lastmodified":1466698901,
     "wof:name":"Cuba Avenue Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-105.946433,32.905116,-105.946433,32.905116],
+  "bbox": [
+    -105.946433,
+    32.905116,
+    -105.946433,
+    32.905116
+],
   "geometry": {"coordinates":[-105.946433,32.905116],"type":"Point"}
 }

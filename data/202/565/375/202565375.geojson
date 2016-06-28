@@ -2,13 +2,14 @@
   "id": 202565375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.225142,32.341416,-104.225142,32.341416",
     "geom:latitude":32.341416,
     "geom:longitude":-104.225142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5708 Singletree Rd",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202565375,
-    "wof:lastmodified":1449062426,
+    "wof:lastmodified":1466697874,
     "wof:name":"Don Knealing HVAC",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.225142,32.341416,-104.225142,32.341416],
-  "geometry": {"coordinates":[-104.225142,32.341416],"type":"Point"}
+  "bbox": [
+    -104.225142,
+    32.341416,
+    -104.225142,
+    32.341416
+],
+  "geometry": {"coordinates":[-104.22514200000001,32.341416],"type":"Point"}
 }

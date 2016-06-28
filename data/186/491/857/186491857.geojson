@@ -2,13 +2,14 @@
   "id": 186491857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.751476,32.125189,-107.751476,32.125189",
     "geom:latitude":32.125189,
     "geom:longitude":-107.751476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10895 Columbus Rd",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186491857,
-    "wof:lastmodified":1449050198,
+    "wof:lastmodified":1466700296,
     "wof:name":"Reb Software Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "custom"
     ]
 },
-  "bbox": [-107.751476,32.125189,-107.751476,32.125189],
+  "bbox": [
+    -107.751476,
+    32.125189,
+    -107.751476,
+    32.125189
+],
   "geometry": {"coordinates":[-107.751476,32.125189],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186260763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.588773,35.331227,-106.588773,35.331227",
     "geom:latitude":35.331227,
     "geom:longitude":-106.588773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7213 Syr Ct NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186260763,
-    "wof:lastmodified":1449050865,
+    "wof:lastmodified":1466698797,
     "wof:name":"First Choice Mortgage & Svc",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-106.588773,35.331227,-106.588773,35.331227],
+  "bbox": [
+    -106.588773,
+    35.331227,
+    -106.588773,
+    35.331227
+],
   "geometry": {"coordinates":[-106.588773,35.331227],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202681735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.543864,35.16571,-106.543864,35.16571",
     "geom:latitude":35.16571,
     "geom:longitude":-106.543864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7410 Volunteer St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202681735,
-    "wof:lastmodified":1449061672,
+    "wof:lastmodified":1466699540,
     "wof:name":"Serjan Technologies",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-106.543864,35.16571,-106.543864,35.16571],
+  "bbox": [
+    -106.543864,
+    35.16571,
+    -106.543864,
+    35.16571
+],
   "geometry": {"coordinates":[-106.543864,35.16571],"type":"Point"}
 }

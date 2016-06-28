@@ -2,13 +2,14 @@
   "id": 185624851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.658394,35.124498,-106.658394,35.124498",
     "geom:latitude":35.124498,
     "geom:longitude":-106.658394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1329 Arvilla Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185624851,
-    "wof:lastmodified":1449007696,
+    "wof:lastmodified":1466697870,
     "wof:name":"Silver Dragon Industries",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.658394,35.124498,-106.658394,35.124498],
+  "bbox": [
+    -106.658394,
+    35.124498,
+    -106.658394,
+    35.124498
+],
   "geometry": {"coordinates":[-106.658394,35.124498],"type":"Point"}
 }

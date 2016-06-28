@@ -2,13 +2,14 @@
   "id": 185983837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615698,35.26799,-106.615698,35.26799",
     "geom:latitude":35.26799,
     "geom:longitude":-106.615698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5704 Rio Lama Rd NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185983837,
-    "wof:lastmodified":1449008084,
+    "wof:lastmodified":1466699516,
     "wof:name":"Freqken Industries Inc",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.615698,35.26799,-106.615698,35.26799],
-  "geometry": {"coordinates":[-106.615698,35.26799],"type":"Point"}
+  "bbox": [
+    -106.615698,
+    35.26799,
+    -106.615698,
+    35.26799
+],
+  "geometry": {"coordinates":[-106.61569799999999,35.26799],"type":"Point"}
 }

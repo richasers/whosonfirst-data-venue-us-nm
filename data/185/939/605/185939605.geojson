@@ -2,13 +2,14 @@
   "id": 185939605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.109387,35.552883,-106.109387,35.552883",
     "geom:latitude":35.552883,
     "geom:longitude":-106.109387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Taylor Loop",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185939605,
-    "wof:lastmodified":1449007085,
+    "wof:lastmodified":1466699072,
     "wof:name":"Patsys Wordprocessing BKK",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-106.109387,35.552883,-106.109387,35.552883],
+  "bbox": [
+    -106.109387,
+    35.552883,
+    -106.109387,
+    35.552883
+],
   "geometry": {"coordinates":[-106.109387,35.552883],"type":"Point"}
 }

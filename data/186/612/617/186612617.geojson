@@ -2,13 +2,14 @@
   "id": 186612617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.500578,35.075078,-106.500578,35.075078",
     "geom:latitude":35.075078,
     "geom:longitude":-106.500578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13217 Skyview Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186612617,
-    "wof:lastmodified":1449051561,
+    "wof:lastmodified":1466700676,
     "wof:name":"M J Foth Construction",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-106.500578,35.075078,-106.500578,35.075078],
+  "bbox": [
+    -106.500578,
+    35.075078,
+    -106.500578,
+    35.075078
+],
   "geometry": {"coordinates":[-106.500578,35.075078],"type":"Point"}
 }

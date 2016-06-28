@@ -2,13 +2,14 @@
   "id": 202975543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.064099,35.99777,-106.064099,35.99777",
     "geom:latitude":35.99777,
     "geom:longitude":-106.064099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Riverside Dr",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202975543,
-    "wof:lastmodified":1449062305,
+    "wof:lastmodified":1466700685,
     "wof:name":"Tobacco Mart Of Espanola",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.064099,35.99777,-106.064099,35.99777],
+  "bbox": [
+    -106.064099,
+    35.99777,
+    -106.064099,
+    35.99777
+],
   "geometry": {"coordinates":[-106.064099,35.99777],"type":"Point"}
 }

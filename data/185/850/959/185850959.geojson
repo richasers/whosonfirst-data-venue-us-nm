@@ -2,13 +2,14 @@
   "id": 185850959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614591,35.224793,-106.614591,35.224793",
     "geom:latitude":35.224793,
     "geom:longitude":-106.614591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4484 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185850959,
-    "wof:lastmodified":1449007543,
+    "wof:lastmodified":1466698021,
     "wof:name":"Moon Dancer",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.614591,35.224793,-106.614591,35.224793],
+  "bbox": [
+    -106.614591,
+    35.224793,
+    -106.614591,
+    35.224793
+],
   "geometry": {"coordinates":[-106.614591,35.224793],"type":"Point"}
 }

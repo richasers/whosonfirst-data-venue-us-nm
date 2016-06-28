@@ -2,13 +2,14 @@
   "id": 202480609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.16284,35.044094,-106.16284,35.044094",
     "geom:latitude":35.044094,
     "geom:longitude":-106.16284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Kennedy Rd",
     "sg:city":"Estancia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202480609,
-    "wof:lastmodified":1449060930,
+    "wof:lastmodified":1466698968,
     "wof:name":"Brother Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-106.16284,35.044094,-106.16284,35.044094],
+  "bbox": [
+    -106.16284,
+    35.044094,
+    -106.16284,
+    35.044094
+],
   "geometry": {"coordinates":[-106.16284,35.044094],"type":"Point"}
 }

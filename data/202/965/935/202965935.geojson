@@ -2,13 +2,14 @@
   "id": 202965935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.722865,35.077131,-106.722865,35.077131",
     "geom:latitude":35.077131,
     "geom:longitude":-106.722865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7500 Central Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202965935,
-    "wof:lastmodified":1449061868,
+    "wof:lastmodified":1466700623,
     "wof:name":"Westward Ho Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-106.722865,35.077131,-106.722865,35.077131],
+  "bbox": [
+    -106.722865,
+    35.077131,
+    -106.722865,
+    35.077131
+],
   "geometry": {"coordinates":[-106.722865,35.077131],"type":"Point"}
 }

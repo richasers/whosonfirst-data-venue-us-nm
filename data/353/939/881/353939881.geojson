@@ -2,13 +2,14 @@
   "id": 353939881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.589268,35.170741,-106.589268,35.170741",
     "geom:latitude":35.170741,
     "geom:longitude":-106.589268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7788 Jefferson St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":353939881,
-    "wof:lastmodified":1449019019,
+    "wof:lastmodified":1466698273,
     "wof:name":"Southwest Gastroenterology",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "cardiovascular"
     ]
 },
-  "bbox": [-106.589268,35.170741,-106.589268,35.170741],
+  "bbox": [
+    -106.589268,
+    35.170741,
+    -106.589268,
+    35.170741
+],
   "geometry": {"coordinates":[-106.589268,35.170741],"type":"Point"}
 }

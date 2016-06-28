@@ -2,13 +2,14 @@
   "id": 185828311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.726139,32.268774,-107.726139,32.268774",
     "geom:latitude":32.268774,
     "geom:longitude":-107.726139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 E Pine St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185828311,
-    "wof:lastmodified":1449007451,
+    "wof:lastmodified":1466697773,
     "wof:name":"Great Southwestern Constr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-107.726139,32.268774,-107.726139,32.268774],
+  "bbox": [
+    -107.726139,
+    32.268774,
+    -107.726139,
+    32.268774
+],
   "geometry": {"coordinates":[-107.726139,32.268774],"type":"Point"}
 }

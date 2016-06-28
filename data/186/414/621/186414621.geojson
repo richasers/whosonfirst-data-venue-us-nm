@@ -2,13 +2,14 @@
   "id": 186414621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.202295,35.82387,-106.202295,35.82387",
     "geom:latitude":35.82387,
     "geom:longitude":-106.202295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Bryce Ave",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186414621,
-    "wof:lastmodified":1449051638,
+    "wof:lastmodified":1466699782,
     "wof:name":"Bryce Avenue Presbyterian Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.202295,35.82387,-106.202295,35.82387],
-  "geometry": {"coordinates":[-106.202295,35.82387],"type":"Point"}
+  "bbox": [
+    -106.202295,
+    35.82387,
+    -106.202295,
+    35.82387
+],
+  "geometry": {"coordinates":[-106.20229500000001,35.82387],"type":"Point"}
 }

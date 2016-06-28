@@ -2,13 +2,14 @@
   "id": 185908715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.717193,35.153105,-106.717193,35.153105",
     "geom:latitude":35.153105,
     "geom:longitude":-106.717193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6031 Black Ridge Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185908715,
-    "wof:lastmodified":1449007518,
+    "wof:lastmodified":1466698642,
     "wof:name":"Tri West Designs Inc",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-106.717193,35.153105,-106.717193,35.153105],
-  "geometry": {"coordinates":[-106.717193,35.153105],"type":"Point"}
+  "bbox": [
+    -106.717193,
+    35.153105,
+    -106.717193,
+    35.153105
+],
+  "geometry": {"coordinates":[-106.71719299999999,35.153105],"type":"Point"}
 }

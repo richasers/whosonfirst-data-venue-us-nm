@@ -2,13 +2,14 @@
   "id": 169751939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.759024,32.263246,-107.759024,32.263246",
     "geom:latitude":32.263246,
     "geom:longitude":-107.759024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 S Copper St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169751939,
-    "wof:lastmodified":1449032872,
+    "wof:lastmodified":1466698086,
     "wof:name":"Holy Family Catholic Preschool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.759024,32.263246,-107.759024,32.263246],
+  "bbox": [
+    -107.759024,
+    32.263246,
+    -107.759024,
+    32.263246
+],
   "geometry": {"coordinates":[-107.759024,32.263246],"type":"Point"}
 }

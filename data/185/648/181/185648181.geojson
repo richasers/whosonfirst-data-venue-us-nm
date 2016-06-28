@@ -2,13 +2,14 @@
   "id": 185648181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.797385,32.31476,-106.797385,32.31476",
     "geom:latitude":32.31476,
     "geom:longitude":-106.797385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 N Valley Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185648181,
-    "wof:lastmodified":1449007049,
+    "wof:lastmodified":1466698109,
     "wof:name":"Transmission Shop",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-106.797385,32.31476,-106.797385,32.31476],
-  "geometry": {"coordinates":[-106.797385,32.31476],"type":"Point"}
+  "bbox": [
+    -106.797385,
+    32.31476,
+    -106.797385,
+    32.31476
+],
+  "geometry": {"coordinates":[-106.79738500000001,32.31476],"type":"Point"}
 }

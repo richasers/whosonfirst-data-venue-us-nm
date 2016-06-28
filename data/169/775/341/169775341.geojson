@@ -2,13 +2,14 @@
   "id": 169775341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.242692,32.452983,-104.242692,32.452983",
     "geom:latitude":32.452983,
     "geom:longitude":-104.242692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 W Cherry Ln",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169775341,
-    "wof:lastmodified":1449035120,
+    "wof:lastmodified":1466698309,
     "wof:name":"Pecan Processing",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-104.242692,32.452983,-104.242692,32.452983],
-  "geometry": {"coordinates":[-104.242692,32.452983],"type":"Point"}
+  "bbox": [
+    -104.242692,
+    32.452983,
+    -104.242692,
+    32.452983
+],
+  "geometry": {"coordinates":[-104.24269200000001,32.452983],"type":"Point"}
 }

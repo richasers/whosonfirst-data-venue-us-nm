@@ -2,13 +2,14 @@
   "id": 186053485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.580255,35.315863,-106.580255,35.315863",
     "geom:latitude":35.315863,
     "geom:longitude":-106.580255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1423 Arroyo Ln",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186053485,
-    "wof:lastmodified":1449050913,
+    "wof:lastmodified":1466698288,
     "wof:name":"S T P Electrical Services",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.580255,35.315863,-106.580255,35.315863],
-  "geometry": {"coordinates":[-106.580255,35.315863],"type":"Point"}
+  "bbox": [
+    -106.580255,
+    35.315863,
+    -106.580255,
+    35.315863
+],
+  "geometry": {"coordinates":[-106.58025499999999,35.315863],"type":"Point"}
 }

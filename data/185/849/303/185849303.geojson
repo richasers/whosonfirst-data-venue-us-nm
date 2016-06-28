@@ -2,13 +2,14 @@
   "id": 185849303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.718052,35.051948,-106.718052,35.051948",
     "geom:latitude":35.051948,
     "geom:longitude":-106.718052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7512 Autumn Breeze Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185849303,
-    "wof:lastmodified":1449006913,
+    "wof:lastmodified":1466698003,
     "wof:name":"Art By Ryan Saavedra",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-106.718052,35.051948,-106.718052,35.051948],
+  "bbox": [
+    -106.718052,
+    35.051948,
+    -106.718052,
+    35.051948
+],
   "geometry": {"coordinates":[-106.718052,35.051948],"type":"Point"}
 }

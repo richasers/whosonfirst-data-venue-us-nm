@@ -2,13 +2,14 @@
   "id": 169772903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.660179,35.090151,-106.660179,35.090151",
     "geom:latitude":35.090151,
     "geom:longitude":-106.660179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 12th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169772903,
-    "wof:lastmodified":1449034149,
+    "wof:lastmodified":1466698290,
     "wof:name":"Antoine Predock PC",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.660179,35.090151,-106.660179,35.090151],
+  "bbox": [
+    -106.660179,
+    35.090151,
+    -106.660179,
+    35.090151
+],
   "geometry": {"coordinates":[-106.660179,35.090151],"type":"Point"}
 }

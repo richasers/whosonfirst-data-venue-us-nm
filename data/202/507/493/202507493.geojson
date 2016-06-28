@@ -2,13 +2,14 @@
   "id": 202507493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.992641,35.658092,-105.992641,35.658092",
     "geom:latitude":35.658092,
     "geom:longitude":-105.992641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1242 Siler Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202507493,
-    "wof:lastmodified":1449061421,
+    "wof:lastmodified":1466699196,
     "wof:name":"Kev's Radiator Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "radiator"
     ]
 },
-  "bbox": [-105.992641,35.658092,-105.992641,35.658092],
-  "geometry": {"coordinates":[-105.992641,35.658092],"type":"Point"}
+  "bbox": [
+    -105.992641,
+    35.658092,
+    -105.992641,
+    35.658092
+],
+  "geometry": {"coordinates":[-105.99264100000001,35.658092],"type":"Point"}
 }

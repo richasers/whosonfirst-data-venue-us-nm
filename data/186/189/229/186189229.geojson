@@ -2,13 +2,14 @@
   "id": 186189229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.566679,35.327911,-106.566679,35.327911",
     "geom:latitude":35.327911,
     "geom:longitude":-106.566679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Jemez Dam Rd",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186189229,
-    "wof:lastmodified":1449052251,
+    "wof:lastmodified":1466697881,
     "wof:name":"Tamaya Enterprises Inc",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gaming"
     ]
 },
-  "bbox": [-106.566679,35.327911,-106.566679,35.327911],
-  "geometry": {"coordinates":[-106.566679,35.327911],"type":"Point"}
+  "bbox": [
+    -106.566679,
+    35.327911,
+    -106.566679,
+    35.327911
+],
+  "geometry": {"coordinates":[-106.56667899999999,35.327911],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203078303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586481,35.116264,-106.586481,35.116264",
     "geom:latitude":35.116264,
     "geom:longitude":-106.586481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2913 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203078303,
-    "wof:lastmodified":1449026550,
+    "wof:lastmodified":1466698445,
     "wof:name":"I D Resource Center",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "child"
     ]
 },
-  "bbox": [-106.586481,35.116264,-106.586481,35.116264],
-  "geometry": {"coordinates":[-106.586481,35.116264],"type":"Point"}
+  "bbox": [
+    -106.586481,
+    35.116264,
+    -106.586481,
+    35.116264
+],
+  "geometry": {"coordinates":[-106.58648100000001,35.116264],"type":"Point"}
 }

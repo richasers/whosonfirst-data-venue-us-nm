@@ -2,13 +2,14 @@
   "id": 202490705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.621343,35.161637,-106.621343,35.161637",
     "geom:latitude":35.161637,
     "geom:longitude":-106.621343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Sin Nombre Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202490705,
-    "wof:lastmodified":1449062390,
+    "wof:lastmodified":1466699056,
     "wof:name":"Finn Septic Tank Co",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "septic"
     ]
 },
-  "bbox": [-106.621343,35.161637,-106.621343,35.161637],
+  "bbox": [
+    -106.621343,
+    35.161637,
+    -106.621343,
+    35.161637
+],
   "geometry": {"coordinates":[-106.621343,35.161637],"type":"Point"}
 }

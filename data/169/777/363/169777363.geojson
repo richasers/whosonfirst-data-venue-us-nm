@@ -2,13 +2,14 @@
   "id": 169777363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.196225,36.748283,-108.196225,36.748283",
     "geom:latitude":36.748283,
     "geom:longitude":-108.196225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 E 20th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169777363,
-    "wof:lastmodified":1449034430,
+    "wof:lastmodified":1466698334,
     "wof:name":"San Juan Nurseries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gift"
     ]
 },
-  "bbox": [-108.196225,36.748283,-108.196225,36.748283],
+  "bbox": [
+    -108.196225,
+    36.748283,
+    -108.196225,
+    36.748283
+],
   "geometry": {"coordinates":[-108.196225,36.748283],"type":"Point"}
 }

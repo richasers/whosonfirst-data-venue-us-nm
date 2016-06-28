@@ -2,13 +2,14 @@
   "id": 186585739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.951487,35.696554,-105.951487,35.696554",
     "geom:latitude":35.696554,
     "geom:longitude":-105.951487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 N Guadalupe St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186585739,
-    "wof:lastmodified":1449052152,
+    "wof:lastmodified":1466700585,
     "wof:name":"Santa Fe Natl Cemetery",
     "wof:parent_id":85880797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cemetery"
     ]
 },
-  "bbox": [-105.951487,35.696554,-105.951487,35.696554],
+  "bbox": [
+    -105.951487,
+    35.696554,
+    -105.951487,
+    35.696554
+],
   "geometry": {"coordinates":[-105.951487,35.696554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186610285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.560921,35.087264,-106.560921,35.087264",
     "geom:latitude":35.087264,
     "geom:longitude":-106.560921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7800 Lomas Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186610285,
-    "wof:lastmodified":1449052986,
+    "wof:lastmodified":1466700663,
     "wof:name":"Voights Danny Auto Center LLC",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-106.560921,35.087264,-106.560921,35.087264],
-  "geometry": {"coordinates":[-106.560921,35.087264],"type":"Point"}
+  "bbox": [
+    -106.560921,
+    35.087264,
+    -106.560921,
+    35.087264
+],
+  "geometry": {"coordinates":[-106.56092099999999,35.087264],"type":"Point"}
 }

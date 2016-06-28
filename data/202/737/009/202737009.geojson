@@ -2,13 +2,14 @@
   "id": 202737009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.252104,32.345536,-104.252104,32.345536",
     "geom:latitude":32.345536,
     "geom:longitude":-104.252104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 Terminal Dr",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202737009,
-    "wof:lastmodified":1449060688,
+    "wof:lastmodified":1466699593,
     "wof:name":"Cavern City Air Terminal",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-104.252104,32.345536,-104.252104,32.345536],
+  "bbox": [
+    -104.252104,
+    32.345536,
+    -104.252104,
+    32.345536
+],
   "geometry": {"coordinates":[-104.252104,32.345536],"type":"Point"}
 }

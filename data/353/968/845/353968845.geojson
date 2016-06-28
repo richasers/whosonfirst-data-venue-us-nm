@@ -2,13 +2,14 @@
   "id": 353968845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.80876,35.509479,-108.80876,35.509479",
     "geom:latitude":35.509479,
     "geom:longitude":-108.80876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3009 W Historic Highway 66",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353968845,
-    "wof:lastmodified":1449018414,
+    "wof:lastmodified":1466698981,
     "wof:name":"Best Western Inn & Suites Gallup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-108.80876,35.509479,-108.80876,35.509479],
-  "geometry": {"coordinates":[-108.80876,35.509479],"type":"Point"}
+  "bbox": [
+    -108.80876,
+    35.509479,
+    -108.80876,
+    35.509479
+],
+  "geometry": {"coordinates":[-108.80876000000001,35.509479],"type":"Point"}
 }

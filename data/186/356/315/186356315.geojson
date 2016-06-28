@@ -2,13 +2,14 @@
   "id": 186356315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.528941,35.163984,-106.528941,35.163984",
     "geom:latitude":35.163984,
     "geom:longitude":-106.528941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7408 Torin Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186356315,
-    "wof:lastmodified":1449052535,
+    "wof:lastmodified":1466699802,
     "wof:name":"Heads Up Design",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.528941,35.163984,-106.528941,35.163984],
+  "bbox": [
+    -106.528941,
+    35.163984,
+    -106.528941,
+    35.163984
+],
   "geometry": {"coordinates":[-106.528941,35.163984],"type":"Point"}
 }

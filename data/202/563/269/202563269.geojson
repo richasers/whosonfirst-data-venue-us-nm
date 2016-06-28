@@ -2,13 +2,14 @@
   "id": 202563269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649188,35.011168,-106.649188,35.011168",
     "geom:latitude":35.011168,
     "geom:longitude":-106.649188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4321 Broadway Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202563269,
-    "wof:lastmodified":1449060146,
+    "wof:lastmodified":1466697843,
     "wof:name":"AME Auto Sales & Salvage",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.649188,35.011168,-106.649188,35.011168],
+  "bbox": [
+    -106.649188,
+    35.011168,
+    -106.649188,
+    35.011168
+],
   "geometry": {"coordinates":[-106.649188,35.011168],"type":"Point"}
 }

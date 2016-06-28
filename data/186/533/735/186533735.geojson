@@ -2,13 +2,14 @@
   "id": 186533735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.501081,35.108054,-106.501081,35.108054",
     "geom:latitude":35.108054,
     "geom:longitude":-106.501081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12441 Towner Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186533735,
-    "wof:lastmodified":1449050214,
+    "wof:lastmodified":1466700255,
     "wof:name":"Consultran",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-106.501081,35.108054,-106.501081,35.108054],
+  "bbox": [
+    -106.501081,
+    35.108054,
+    -106.501081,
+    35.108054
+],
   "geometry": {"coordinates":[-106.501081,35.108054],"type":"Point"}
 }

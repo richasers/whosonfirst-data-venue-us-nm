@@ -2,13 +2,14 @@
   "id": 353978413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.204018,34.401843,-103.204018,34.401843",
     "geom:latitude":34.401843,
     "geom:longitude":-103.204018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Pile St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353978413,
-    "wof:lastmodified":1449019735,
+    "wof:lastmodified":1466699072,
     "wof:name":"Mesa Financial Of Clovis Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-103.204018,34.401843,-103.204018,34.401843],
+  "bbox": [
+    -103.204018,
+    34.401843,
+    -103.204018,
+    34.401843
+],
   "geometry": {"coordinates":[-103.204018,34.401843],"type":"Point"}
 }

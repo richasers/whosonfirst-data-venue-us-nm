@@ -2,13 +2,14 @@
   "id": 202859223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.621185,35.219231,-106.621185,35.219231",
     "geom:latitude":35.219231,
     "geom:longitude":-106.621185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3910 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202859223,
-    "wof:lastmodified":1449061910,
+    "wof:lastmodified":1466700224,
     "wof:name":"Trahan Networks Inc",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.621185,35.219231,-106.621185,35.219231],
+  "bbox": [
+    -106.621185,
+    35.219231,
+    -106.621185,
+    35.219231
+],
   "geometry": {"coordinates":[-106.621185,35.219231],"type":"Point"}
 }

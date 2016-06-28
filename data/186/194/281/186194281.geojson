@@ -2,13 +2,14 @@
   "id": 186194281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.630728,35.049231,-106.630728,35.049231",
     "geom:latitude":35.049231,
     "geom:longitude":-106.630728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 University Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186194281,
-    "wof:lastmodified":1449052625,
+    "wof:lastmodified":1466697951,
     "wof:name":"Budget Albuquerque",
     "wof:parent_id":85846885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.630728,35.049231,-106.630728,35.049231],
+  "bbox": [
+    -106.630728,
+    35.049231,
+    -106.630728,
+    35.049231
+],
   "geometry": {"coordinates":[-106.630728,35.049231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353929637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.637504,35.158266,-106.637504,35.158266",
     "geom:latitude":35.158266,
     "geom:longitude":-106.637504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6811 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353929637,
-    "wof:lastmodified":1449019238,
+    "wof:lastmodified":1466697993,
     "wof:name":"Lerner Film",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "radio"
     ]
 },
-  "bbox": [-106.637504,35.158266,-106.637504,35.158266],
-  "geometry": {"coordinates":[-106.637504,35.158266],"type":"Point"}
+  "bbox": [
+    -106.637504,
+    35.158266,
+    -106.637504,
+    35.158266
+],
+  "geometry": {"coordinates":[-106.63750400000001,35.158266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169791099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.347085,32.93973,-103.347085,32.93973",
     "geom:latitude":32.93973,
     "geom:longitude":-103.347085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 E Ave H",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169791099,
-    "wof:lastmodified":1449035192,
+    "wof:lastmodified":1466698500,
     "wof:name":"Harvey's Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-103.347085,32.93973,-103.347085,32.93973],
-  "geometry": {"coordinates":[-103.347085,32.93973],"type":"Point"}
+  "bbox": [
+    -103.347085,
+    32.93973,
+    -103.347085,
+    32.93973
+],
+  "geometry": {"coordinates":[-103.34708500000001,32.93973],"type":"Point"}
 }

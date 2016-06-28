@@ -2,13 +2,14 @@
   "id": 202698143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.598341,35.161943,-106.598341,35.161943",
     "geom:latitude":35.161943,
     "geom:longitude":-106.598341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7216 Washington St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202698143,
-    "wof:lastmodified":1449062497,
+    "wof:lastmodified":1466699605,
     "wof:name":"G C Svc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.598341,35.161943,-106.598341,35.161943],
+  "bbox": [
+    -106.598341,
+    35.161943,
+    -106.598341,
+    35.161943
+],
   "geometry": {"coordinates":[-106.598341,35.161943],"type":"Point"}
 }

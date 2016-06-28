@@ -2,13 +2,14 @@
   "id": 186281621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.26555,36.741931,-108.26555,36.741931",
     "geom:latitude":36.741931,
     "geom:longitude":-108.26555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1280 Troy King Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":186281621,
-    "wof:lastmodified":1449052601,
+    "wof:lastmodified":1466699079,
     "wof:name":"Hanover Compressor Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "equipment"
     ]
 },
-  "bbox": [-108.26555,36.741931,-108.26555,36.741931],
+  "bbox": [
+    -108.26555,
+    36.741931,
+    -108.26555,
+    36.741931
+],
   "geometry": {"coordinates":[-108.26555,36.741931],"type":"Point"}
 }

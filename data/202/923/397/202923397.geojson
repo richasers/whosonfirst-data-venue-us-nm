@@ -2,13 +2,14 @@
   "id": 202923397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.536034,35.137862,-106.536034,35.137862",
     "geom:latitude":35.137862,
     "geom:longitude":-106.536034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9520 Tasco Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202923397,
-    "wof:lastmodified":1449062556,
+    "wof:lastmodified":1466700448,
     "wof:name":"Glo Can Books",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.536034,35.137862,-106.536034,35.137862],
+  "bbox": [
+    -106.536034,
+    35.137862,
+    -106.536034,
+    35.137862
+],
   "geometry": {"coordinates":[-106.536034,35.137862],"type":"Point"}
 }

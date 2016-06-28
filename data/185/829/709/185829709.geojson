@@ -2,13 +2,14 @@
   "id": 185829709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.607501,35.126832,-106.607501,35.126832",
     "geom:latitude":35.126832,
     "geom:longitude":-106.607501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Delamar Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":185829709,
-    "wof:lastmodified":1449008102,
+    "wof:lastmodified":1466697786,
     "wof:name":"Ultimate Carpet Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "carpet"
     ]
 },
-  "bbox": [-106.607501,35.126832,-106.607501,35.126832],
+  "bbox": [
+    -106.607501,
+    35.126832,
+    -106.607501,
+    35.126832
+],
   "geometry": {"coordinates":[-106.607501,35.126832],"type":"Point"}
 }

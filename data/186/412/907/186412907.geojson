@@ -2,13 +2,14 @@
   "id": 186412907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.37107,32.696737,-103.37107,32.696737",
     "geom:latitude":32.696737,
     "geom:longitude":-103.37107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16401 W Carlsbad Hwy",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186412907,
-    "wof:lastmodified":1449050954,
+    "wof:lastmodified":1466699896,
     "wof:name":"Gibbs Junction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "eating"
     ]
 },
-  "bbox": [-103.37107,32.696737,-103.37107,32.696737],
+  "bbox": [
+    -103.37107,
+    32.696737,
+    -103.37107,
+    32.696737
+],
   "geometry": {"coordinates":[-103.37107,32.696737],"type":"Point"}
 }

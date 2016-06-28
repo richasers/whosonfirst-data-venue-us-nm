@@ -2,13 +2,14 @@
   "id": 186544999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550436,35.0796,-106.550436,35.0796",
     "geom:latitude":35.0796,
     "geom:longitude":-106.550436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186544999,
-    "wof:lastmodified":1449053022,
+    "wof:lastmodified":1466700399,
     "wof:name":"J C Clark & Assoc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telemarketing"
     ]
 },
-  "bbox": [-106.550436,35.0796,-106.550436,35.0796],
+  "bbox": [
+    -106.550436,
+    35.0796,
+    -106.550436,
+    35.0796
+],
   "geometry": {"coordinates":[-106.550436,35.0796],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202642211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.769299,32.278322,-106.769299,32.278322",
     "geom:latitude":32.278322,
     "geom:longitude":-106.769299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3055 Harrelson St",
     "sg:city":"Mesilla Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202642211,
-    "wof:lastmodified":1449060255,
+    "wof:lastmodified":1466699019,
     "wof:name":"Skyview Cooling Company",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-106.769299,32.278322,-106.769299,32.278322],
+  "bbox": [
+    -106.769299,
+    32.278322,
+    -106.769299,
+    32.278322
+],
   "geometry": {"coordinates":[-106.769299,32.278322],"type":"Point"}
 }

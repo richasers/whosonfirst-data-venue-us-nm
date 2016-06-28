@@ -2,13 +2,14 @@
   "id": 185945387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.217975,36.724915,-108.217975,36.724915",
     "geom:latitude":36.724915,
     "geom:longitude":-108.217975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 W Maple St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185945387,
-    "wof:lastmodified":1449006746,
+    "wof:lastmodified":1466699150,
     "wof:name":"Joseph Jacob MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-108.217975,36.724915,-108.217975,36.724915],
+  "bbox": [
+    -108.217975,
+    36.724915,
+    -108.217975,
+    36.724915
+],
   "geometry": {"coordinates":[-108.217975,36.724915],"type":"Point"}
 }

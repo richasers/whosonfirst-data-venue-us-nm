@@ -2,13 +2,14 @@
   "id": 185856321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.751576,32.250795,-107.751576,32.250795",
     "geom:latitude":32.250795,
     "geom:longitude":-107.751576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1824 Columbus Rd",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185856321,
-    "wof:lastmodified":1449007066,
+    "wof:lastmodified":1466698077,
     "wof:name":"Glass & Mirror By Gene Peshard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mirror"
     ]
 },
-  "bbox": [-107.751576,32.250795,-107.751576,32.250795],
+  "bbox": [
+    -107.751576,
+    32.250795,
+    -107.751576,
+    32.250795
+],
   "geometry": {"coordinates":[-107.751576,32.250795],"type":"Point"}
 }

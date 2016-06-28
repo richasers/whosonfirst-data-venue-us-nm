@@ -2,13 +2,14 @@
   "id": 169811377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.729879,35.171528,-103.729879,35.171528",
     "geom:latitude":35.171528,
     "geom:longitude":-103.729879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"824 S 5th St",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169811377,
-    "wof:lastmodified":1449034270,
+    "wof:lastmodified":1466698676,
     "wof:name":"Chavez Woodworking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-103.729879,35.171528,-103.729879,35.171528],
+  "bbox": [
+    -103.729879,
+    35.171528,
+    -103.729879,
+    35.171528
+],
   "geometry": {"coordinates":[-103.729879,35.171528],"type":"Point"}
 }

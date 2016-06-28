@@ -2,13 +2,14 @@
   "id": 185878509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.611607,35.066872,-106.611607,35.066872",
     "geom:latitude":35.066872,
     "geom:longitude":-106.611607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2939 San Diego Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185878509,
-    "wof:lastmodified":1449007465,
+    "wof:lastmodified":1466698295,
     "wof:name":"Southwest Tax Land Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.611607,35.066872,-106.611607,35.066872],
-  "geometry": {"coordinates":[-106.611607,35.066872],"type":"Point"}
+  "bbox": [
+    -106.611607,
+    35.066872,
+    -106.611607,
+    35.066872
+],
+  "geometry": {"coordinates":[-106.61160700000001,35.066872],"type":"Point"}
 }

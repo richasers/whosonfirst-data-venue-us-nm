@@ -2,13 +2,14 @@
   "id": 202621621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.353431,36.735285,-108.353431,36.735285",
     "geom:latitude":36.735285,
     "geom:longitude":-108.353431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Rd 6351",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202621621,
-    "wof:lastmodified":1449062350,
+    "wof:lastmodified":1466698700,
     "wof:name":"Intermountain Painting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.353431,36.735285,-108.353431,36.735285],
+  "bbox": [
+    -108.353431,
+    36.735285,
+    -108.353431,
+    36.735285
+],
   "geometry": {"coordinates":[-108.353431,36.735285],"type":"Point"}
 }

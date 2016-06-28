@@ -2,13 +2,14 @@
   "id": 353957135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.698324,35.201592,-106.698324,35.201592",
     "geom:latitude":35.201592,
     "geom:longitude":-106.698324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10317 Jarmel Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353957135,
-    "wof:lastmodified":1449020439,
+    "wof:lastmodified":1466698733,
     "wof:name":"Calleens Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-106.698324,35.201592,-106.698324,35.201592],
+  "bbox": [
+    -106.698324,
+    35.201592,
+    -106.698324,
+    35.201592
+],
   "geometry": {"coordinates":[-106.698324,35.201592],"type":"Point"}
 }

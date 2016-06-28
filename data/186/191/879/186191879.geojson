@@ -2,13 +2,14 @@
   "id": 186191879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.962709,35.67684,-105.962709,35.67684",
     "geom:latitude":35.67684,
     "geom:longitude":-105.962709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 Fayette St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186191879,
-    "wof:lastmodified":1449051983,
+    "wof:lastmodified":1466697919,
     "wof:name":"Hawai'Ian Tikki Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-105.962709,35.67684,-105.962709,35.67684],
+  "bbox": [
+    -105.962709,
+    35.67684,
+    -105.962709,
+    35.67684
+],
   "geometry": {"coordinates":[-105.962709,35.67684],"type":"Point"}
 }

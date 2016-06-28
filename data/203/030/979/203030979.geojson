@@ -2,13 +2,14 @@
   "id": 203030979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.639517,35.21924,-106.639517,35.21924",
     "geom:latitude":35.21924,
     "geom:longitude":-106.639517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Levi Ln",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203030979,
-    "wof:lastmodified":1449025615,
+    "wof:lastmodified":1466697935,
     "wof:name":"Mathisen Maggie Craniosacral",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-106.639517,35.21924,-106.639517,35.21924],
+  "bbox": [
+    -106.639517,
+    35.21924,
+    -106.639517,
+    35.21924
+],
   "geometry": {"coordinates":[-106.639517,35.21924],"type":"Point"}
 }

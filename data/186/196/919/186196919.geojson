@@ -2,13 +2,14 @@
   "id": 186196919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.702791,35.757572,-106.702791,35.757572",
     "geom:latitude":35.757572,
     "geom:longitude":-106.702791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16441 Hwy 4",
     "sg:city":"Jemez Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186196919,
-    "wof:lastmodified":1449051004,
+    "wof:lastmodified":1466697985,
     "wof:name":"Janecka Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.702791,35.757572,-106.702791,35.757572],
+  "bbox": [
+    -106.702791,
+    35.757572,
+    -106.702791,
+    35.757572
+],
   "geometry": {"coordinates":[-106.702791,35.757572],"type":"Point"}
 }

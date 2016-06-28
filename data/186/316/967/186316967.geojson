@@ -2,13 +2,14 @@
   "id": 186316967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.727376,35.15871,-103.727376,35.15871",
     "geom:latitude":35.15871,
     "geom:longitude":-103.727376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2122 S 3rd St",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186316967,
-    "wof:lastmodified":1449052191,
+    "wof:lastmodified":1466699528,
     "wof:name":"Mc Kenzie Land & Livestock Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cattle"
     ]
 },
-  "bbox": [-103.727376,35.15871,-103.727376,35.15871],
-  "geometry": {"coordinates":[-103.727376,35.15871],"type":"Point"}
+  "bbox": [
+    -103.727376,
+    35.15871,
+    -103.727376,
+    35.15871
+],
+  "geometry": {"coordinates":[-103.72737600000001,35.15871],"type":"Point"}
 }

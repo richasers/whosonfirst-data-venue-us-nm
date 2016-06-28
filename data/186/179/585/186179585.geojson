@@ -2,13 +2,14 @@
   "id": 186179585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.111788,36.782811,-108.111788,36.782811",
     "geom:latitude":36.782811,
     "geom:longitude":-108.111788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7521 Old Aztec Hwy",
     "sg:city":"Flora Vista",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186179585,
-    "wof:lastmodified":1449052744,
+    "wof:lastmodified":1466697761,
     "wof:name":"John E Greaney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.111788,36.782811,-108.111788,36.782811],
+  "bbox": [
+    -108.111788,
+    36.782811,
+    -108.111788,
+    36.782811
+],
   "geometry": {"coordinates":[-108.111788,36.782811],"type":"Point"}
 }

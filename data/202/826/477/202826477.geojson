@@ -2,13 +2,14 @@
   "id": 202826477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.574476,35.134005,-106.574476,35.134005",
     "geom:latitude":35.134005,
     "geom:longitude":-106.574476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6505 Katson Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202826477,
-    "wof:lastmodified":1449061941,
+    "wof:lastmodified":1466700088,
     "wof:name":"Bonnie L Buckley",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.574476,35.134005,-106.574476,35.134005],
+  "bbox": [
+    -106.574476,
+    35.134005,
+    -106.574476,
+    35.134005
+],
   "geometry": {"coordinates":[-106.574476,35.134005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186563495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.705431,32.201459,-106.705431,32.201459",
     "geom:latitude":32.201459,
     "geom:longitude":-106.705431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Harper Rd",
     "sg:city":"Mesilla Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186563495,
-    "wof:lastmodified":1449050299,
+    "wof:lastmodified":1466700389,
     "wof:name":"Del Valle Pecans",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nut"
     ]
 },
-  "bbox": [-106.705431,32.201459,-106.705431,32.201459],
+  "bbox": [
+    -106.705431,
+    32.201459,
+    -106.705431,
+    32.201459
+],
   "geometry": {"coordinates":[-106.705431,32.201459],"type":"Point"}
 }

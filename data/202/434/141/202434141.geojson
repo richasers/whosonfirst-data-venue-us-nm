@@ -2,13 +2,14 @@
   "id": 202434141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.524341,33.395452,-104.524341,33.395452",
     "geom:latitude":33.395452,
     "geom:longitude":-104.524341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W 3rd St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202434141,
-    "wof:lastmodified":1449060673,
+    "wof:lastmodified":1466698361,
     "wof:name":"Ronald M Higginbotham",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-104.524341,33.395452,-104.524341,33.395452],
-  "geometry": {"coordinates":[-104.524341,33.395452],"type":"Point"}
+  "bbox": [
+    -104.524341,
+    33.395452,
+    -104.524341,
+    33.395452
+],
+  "geometry": {"coordinates":[-104.52434100000001,33.395452],"type":"Point"}
 }

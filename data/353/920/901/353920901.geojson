@@ -2,13 +2,14 @@
   "id": 353920901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.626694,35.09597,-106.626694,35.09597",
     "geom:latitude":35.09597,
     "geom:longitude":-106.626694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 University Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353920901,
-    "wof:lastmodified":1449020240,
+    "wof:lastmodified":1466697750,
     "wof:name":"University Of Nm Health Scncs",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-106.626694,35.09597,-106.626694,35.09597],
+  "bbox": [
+    -106.626694,
+    35.09597,
+    -106.626694,
+    35.09597
+],
   "geometry": {"coordinates":[-106.626694,35.09597],"type":"Point"}
 }

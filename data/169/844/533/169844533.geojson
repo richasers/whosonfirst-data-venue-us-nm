@@ -2,13 +2,14 @@
   "id": 169844533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.4881,35.047035,-106.4881,35.047035",
     "geom:latitude":35.047035,
     "geom:longitude":-106.4881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1516 Soplo Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169844533,
-    "wof:lastmodified":1449034076,
+    "wof:lastmodified":1466698863,
     "wof:name":"Johnny Earthquake Excavation",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.4881,35.047035,-106.4881,35.047035],
+  "bbox": [
+    -106.4881,
+    35.047035,
+    -106.4881,
+    35.047035
+],
   "geometry": {"coordinates":[-106.4881,35.047035],"type":"Point"}
 }

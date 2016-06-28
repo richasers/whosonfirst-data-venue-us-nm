@@ -2,13 +2,14 @@
   "id": 202556971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.215588,36.733909,-108.215588,36.733909",
     "geom:latitude":36.733909,
     "geom:longitude":-108.215588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 W Apache St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202556971,
-    "wof:lastmodified":1449060745,
+    "wof:lastmodified":1466697743,
     "wof:name":"Howson Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.215588,36.733909,-108.215588,36.733909],
+  "bbox": [
+    -108.215588,
+    36.733909,
+    -108.215588,
+    36.733909
+],
   "geometry": {"coordinates":[-108.215588,36.733909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185724075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.945502,35.688997,-105.945502,35.688997",
     "geom:latitude":35.688997,
     "geom:longitude":-105.945502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"466 W San Francisco St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185724075,
-    "wof:lastmodified":1449008153,
+    "wof:lastmodified":1466698891,
     "wof:name":"Robert Larragoite",
     "wof:parent_id":85880805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.945502,35.688997,-105.945502,35.688997],
+  "bbox": [
+    -105.945502,
+    35.688997,
+    -105.945502,
+    35.688997
+],
   "geometry": {"coordinates":[-105.945502,35.688997],"type":"Point"}
 }

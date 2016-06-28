@@ -2,13 +2,14 @@
   "id": 186001541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.945906,35.682907,-105.945906,35.682907",
     "geom:latitude":35.682907,
     "geom:longitude":-105.945906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 W Manhattan Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186001541,
-    "wof:lastmodified":1449051007,
+    "wof:lastmodified":1466697690,
     "wof:name":"Maverick Advertising",
     "wof:parent_id":85880805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-105.945906,35.682907,-105.945906,35.682907],
-  "geometry": {"coordinates":[-105.945906,35.682907],"type":"Point"}
+  "bbox": [
+    -105.945906,
+    35.682907,
+    -105.945906,
+    35.682907
+],
+  "geometry": {"coordinates":[-105.94590599999999,35.682907],"type":"Point"}
 }

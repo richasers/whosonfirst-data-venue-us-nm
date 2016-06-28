@@ -2,13 +2,14 @@
   "id": 202453305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.637704,35.156542,-106.637704,35.156542",
     "geom:latitude":35.156542,
     "geom:longitude":-106.637704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6740 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202453305,
-    "wof:lastmodified":1449062012,
+    "wof:lastmodified":1466698572,
     "wof:name":"Chase Hardware & Supply Co",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.637704,35.156542,-106.637704,35.156542],
+  "bbox": [
+    -106.637704,
+    35.156542,
+    -106.637704,
+    35.156542
+],
   "geometry": {"coordinates":[-106.637704,35.156542],"type":"Point"}
 }

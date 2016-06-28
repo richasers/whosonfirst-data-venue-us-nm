@@ -2,13 +2,14 @@
   "id": 186112191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.246068,33.150591,-107.246068,33.150591",
     "geom:latitude":33.150591,
     "geom:longitude":-107.246068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 N Date St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186112191,
-    "wof:lastmodified":1449051608,
+    "wof:lastmodified":1466699028,
     "wof:name":"Teston's Freeway Chevron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-107.246068,33.150591,-107.246068,33.150591],
-  "geometry": {"coordinates":[-107.246068,33.150591],"type":"Point"}
+  "bbox": [
+    -107.246068,
+    33.150591,
+    -107.246068,
+    33.150591
+],
+  "geometry": {"coordinates":[-107.24606799999999,33.150591],"type":"Point"}
 }

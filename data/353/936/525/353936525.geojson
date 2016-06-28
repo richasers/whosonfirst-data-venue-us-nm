@@ -2,13 +2,14 @@
   "id": 353936525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.555284,35.147691,-106.555284,35.147691",
     "geom:latitude":35.147691,
     "geom:longitude":-106.555284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5901 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353936525,
-    "wof:lastmodified":1449019113,
+    "wof:lastmodified":1466698179,
     "wof:name":"Savannah Grace Botique & Salon",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "stylist"
     ]
 },
-  "bbox": [-106.555284,35.147691,-106.555284,35.147691],
+  "bbox": [
+    -106.555284,
+    35.147691,
+    -106.555284,
+    35.147691
+],
   "geometry": {"coordinates":[-106.555284,35.147691],"type":"Point"}
 }

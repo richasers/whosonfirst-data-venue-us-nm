@@ -2,13 +2,14 @@
   "id": 169855395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.637797,35.086356,-106.637797,35.086356",
     "geom:latitude":35.086356,
     "geom:longitude":-106.637797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Elm St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169855395,
-    "wof:lastmodified":1449035111,
+    "wof:lastmodified":1466698921,
     "wof:name":"Heart Hospital Of New Mexico",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.637797,35.086356,-106.637797,35.086356],
-  "geometry": {"coordinates":[-106.637797,35.086356],"type":"Point"}
+  "bbox": [
+    -106.637797,
+    35.086356,
+    -106.637797,
+    35.086356
+],
+  "geometry": {"coordinates":[-106.63779700000001,35.086356],"type":"Point"}
 }

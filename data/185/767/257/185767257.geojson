@@ -2,13 +2,14 @@
   "id": 185767257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.596301,35.14538,-106.596301,35.14538",
     "geom:latitude":35.14538,
     "geom:longitude":-106.596301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5981 Jefferson St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185767257,
-    "wof:lastmodified":1449007077,
+    "wof:lastmodified":1466699217,
     "wof:name":"Snelling Personnel Svc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.596301,35.14538,-106.596301,35.14538],
+  "bbox": [
+    -106.596301,
+    35.14538,
+    -106.596301,
+    35.14538
+],
   "geometry": {"coordinates":[-106.596301,35.14538],"type":"Point"}
 }

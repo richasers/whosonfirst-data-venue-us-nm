@@ -2,13 +2,14 @@
   "id": 202820009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.670773,35.213681,-106.670773,35.213681",
     "geom:latitude":35.213681,
     "geom:longitude":-106.670773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4315 Boton de Oro Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202820009,
-    "wof:lastmodified":1449061433,
+    "wof:lastmodified":1466700041,
     "wof:name":"Pathwriters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photocopying"
     ]
 },
-  "bbox": [-106.670773,35.213681,-106.670773,35.213681],
+  "bbox": [
+    -106.670773,
+    35.213681,
+    -106.670773,
+    35.213681
+],
   "geometry": {"coordinates":[-106.670773,35.213681],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202608509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.993985,35.658263,-105.993985,35.658263",
     "geom:latitude":35.658263,
     "geom:longitude":-105.993985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2921 Rufina Ct",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202608509,
-    "wof:lastmodified":1449061199,
+    "wof:lastmodified":1466698496,
     "wof:name":"Heartwoods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-105.993985,35.658263,-105.993985,35.658263],
+  "bbox": [
+    -105.993985,
+    35.658263,
+    -105.993985,
+    35.658263
+],
   "geometry": {"coordinates":[-105.993985,35.658263],"type":"Point"}
 }

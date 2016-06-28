@@ -2,13 +2,14 @@
   "id": 203133487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.59185,35.141956,-106.59185,35.141956",
     "geom:latitude":35.141956,
     "geom:longitude":-106.59185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4580 Lincoln Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203133487,
-    "wof:lastmodified":1449026512,
+    "wof:lastmodified":1466699041,
     "wof:name":"Sandia Service Co",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "paper"
     ]
 },
-  "bbox": [-106.59185,35.141956,-106.59185,35.141956],
-  "geometry": {"coordinates":[-106.59185,35.141956],"type":"Point"}
+  "bbox": [
+    -106.59185,
+    35.141956,
+    -106.59185,
+    35.141956
+],
+  "geometry": {"coordinates":[-106.59184999999999,35.141956],"type":"Point"}
 }

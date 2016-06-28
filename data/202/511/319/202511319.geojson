@@ -2,13 +2,14 @@
   "id": 202511319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.296128,35.881181,-106.296128,35.881181",
     "geom:latitude":35.881181,
     "geom:longitude":-106.296128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"999 Central Ave",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202511319,
-    "wof:lastmodified":1449061292,
+    "wof:lastmodified":1466699200,
     "wof:name":"Fidel's Office Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.296128,35.881181,-106.296128,35.881181],
+  "bbox": [
+    -106.296128,
+    35.881181,
+    -106.296128,
+    35.881181
+],
   "geometry": {"coordinates":[-106.296128,35.881181],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202573203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.624201,35.073275,-106.624201,35.073275",
     "geom:latitude":35.073275,
     "geom:longitude":-106.624201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 Buena Vista Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202573203,
-    "wof:lastmodified":1449061974,
+    "wof:lastmodified":1466697983,
     "wof:name":"Heights Community Center",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-106.624201,35.073275,-106.624201,35.073275],
+  "bbox": [
+    -106.624201,
+    35.073275,
+    -106.624201,
+    35.073275
+],
   "geometry": {"coordinates":[-106.624201,35.073275],"type":"Point"}
 }

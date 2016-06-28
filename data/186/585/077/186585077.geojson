@@ -2,13 +2,14 @@
   "id": 186585077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.621634,35.118975,-106.621634,35.118975",
     "geom:latitude":35.118975,
     "geom:longitude":-106.621634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Columbia Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186585077,
-    "wof:lastmodified":1449052152,
+    "wof:lastmodified":1466700485,
     "wof:name":"D & D Specialties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "building"
     ]
 },
-  "bbox": [-106.621634,35.118975,-106.621634,35.118975],
+  "bbox": [
+    -106.621634,
+    35.118975,
+    -106.621634,
+    35.118975
+],
   "geometry": {"coordinates":[-106.621634,35.118975],"type":"Point"}
 }

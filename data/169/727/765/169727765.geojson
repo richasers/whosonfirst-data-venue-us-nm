@@ -2,13 +2,14 @@
   "id": 169727765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613132,35.089786,-106.613132,35.089786",
     "geom:latitude":35.089786,
     "geom:longitude":-106.613132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Girard Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169727765,
-    "wof:lastmodified":1449033191,
+    "wof:lastmodified":1466697867,
     "wof:name":"Childrens Learning Garden",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-106.613132,35.089786,-106.613132,35.089786],
-  "geometry": {"coordinates":[-106.613132,35.089786],"type":"Point"}
+  "bbox": [
+    -106.613132,
+    35.089786,
+    -106.613132,
+    35.089786
+],
+  "geometry": {"coordinates":[-106.61313199999999,35.089786],"type":"Point"}
 }

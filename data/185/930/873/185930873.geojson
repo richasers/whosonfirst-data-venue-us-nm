@@ -2,13 +2,14 @@
   "id": 185930873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.086053,36.797347,-108.086053,36.797347",
     "geom:latitude":36.797347,
     "geom:longitude":-108.086053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Rd 3581",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185930873,
-    "wof:lastmodified":1449007114,
+    "wof:lastmodified":1466698955,
     "wof:name":"Xto Energy Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "system"
     ]
 },
-  "bbox": [-108.086053,36.797347,-108.086053,36.797347],
-  "geometry": {"coordinates":[-108.086053,36.797347],"type":"Point"}
+  "bbox": [
+    -108.086053,
+    36.797347,
+    -108.086053,
+    36.797347
+],
+  "geometry": {"coordinates":[-108.08605300000001,36.797347],"type":"Point"}
 }

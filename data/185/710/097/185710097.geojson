@@ -2,13 +2,14 @@
   "id": 185710097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.595534,36.371288,-105.595534,36.371288",
     "geom:latitude":36.371288,
     "geom:longitude":-105.595534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185710097,
-    "wof:lastmodified":1449006694,
+    "wof:lastmodified":1466698736,
     "wof:name":"Tequilas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.595534,36.371288,-105.595534,36.371288],
+  "bbox": [
+    -105.595534,
+    36.371288,
+    -105.595534,
+    36.371288
+],
   "geometry": {"coordinates":[-105.595534,36.371288],"type":"Point"}
 }

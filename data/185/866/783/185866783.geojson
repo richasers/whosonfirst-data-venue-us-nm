@@ -2,13 +2,14 @@
   "id": 185866783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.20784,34.40057,-103.20784,34.40057",
     "geom:latitude":34.40057,
     "geom:longitude":-103.20784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 N Connelly St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185866783,
-    "wof:lastmodified":1449007384,
+    "wof:lastmodified":1466698180,
     "wof:name":"Wilson's Radiator & Spdmtr Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-103.20784,34.40057,-103.20784,34.40057],
+  "bbox": [
+    -103.20784,
+    34.40057,
+    -103.20784,
+    34.40057
+],
   "geometry": {"coordinates":[-103.20784,34.40057],"type":"Point"}
 }

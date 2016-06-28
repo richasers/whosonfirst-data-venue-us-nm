@@ -2,13 +2,14 @@
   "id": 202842901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.61551,35.253116,-106.61551,35.253116",
     "geom:latitude":35.253116,
     "geom:longitude":-106.61551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Mikaela Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202842901,
-    "wof:lastmodified":1449060299,
+    "wof:lastmodified":1466700273,
     "wof:name":"Animated Images Inc",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-106.61551,35.253116,-106.61551,35.253116],
+  "bbox": [
+    -106.61551,
+    35.253116,
+    -106.61551,
+    35.253116
+],
   "geometry": {"coordinates":[-106.61551,35.253116],"type":"Point"}
 }

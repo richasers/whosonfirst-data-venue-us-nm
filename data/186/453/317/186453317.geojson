@@ -2,13 +2,14 @@
   "id": 186453317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.072415,35.577965,-106.072415,35.577965",
     "geom:latitude":35.577965,
     "geom:longitude":-106.072415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Carlson Ct",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186453317,
-    "wof:lastmodified":1449052353,
+    "wof:lastmodified":1466699957,
     "wof:name":"Ad Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.072415,35.577965,-106.072415,35.577965],
-  "geometry": {"coordinates":[-106.072415,35.577965],"type":"Point"}
+  "bbox": [
+    -106.072415,
+    35.577965,
+    -106.072415,
+    35.577965
+],
+  "geometry": {"coordinates":[-106.07241500000001,35.577965],"type":"Point"}
 }

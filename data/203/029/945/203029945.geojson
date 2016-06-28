@@ -2,13 +2,14 @@
   "id": 203029945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.875906,33.645132,-105.875906,33.645132",
     "geom:latitude":33.645132,
     "geom:longitude":-105.875906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 10th St",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203029945,
-    "wof:lastmodified":1449025723,
+    "wof:lastmodified":1466697925,
     "wof:name":"Alamogordo Appraisal Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-105.875906,33.645132,-105.875906,33.645132],
+  "bbox": [
+    -105.875906,
+    33.645132,
+    -105.875906,
+    33.645132
+],
   "geometry": {"coordinates":[-105.875906,33.645132],"type":"Point"}
 }

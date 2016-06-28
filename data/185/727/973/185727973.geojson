@@ -2,13 +2,14 @@
   "id": 185727973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.901555,34.065591,-106.901555,34.065591",
     "geom:latitude":34.065591,
     "geom:longitude":-106.901555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 Sunset Dr",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185727973,
-    "wof:lastmodified":1449006852,
+    "wof:lastmodified":1466698947,
     "wof:name":"Tienda Segunda Thrifty City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.901555,34.065591,-106.901555,34.065591],
+  "bbox": [
+    -106.901555,
+    34.065591,
+    -106.901555,
+    34.065591
+],
   "geometry": {"coordinates":[-106.901555,34.065591],"type":"Point"}
 }

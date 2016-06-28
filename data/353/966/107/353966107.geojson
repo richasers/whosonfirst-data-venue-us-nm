@@ -2,13 +2,14 @@
   "id": 353966107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.524585,35.162578,-106.524585,35.162578",
     "geom:latitude":35.162578,
     "geom:longitude":-106.524585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10411 del Rey Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353966107,
-    "wof:lastmodified":1449018274,
+    "wof:lastmodified":1466698909,
     "wof:name":"Advanced Drilling Equipment Supply Company",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-106.524585,35.162578,-106.524585,35.162578],
+  "bbox": [
+    -106.524585,
+    35.162578,
+    -106.524585,
+    35.162578
+],
   "geometry": {"coordinates":[-106.524585,35.162578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186570731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.186162,32.774343,-108.186162,32.774343",
     "geom:latitude":32.774343,
     "geom:longitude":-108.186162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Yucca Pod Ln",
     "sg:city":"Arenas Valley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186570731,
-    "wof:lastmodified":1449051960,
+    "wof:lastmodified":1466700431,
     "wof:name":"Arrow Tile Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-108.186162,32.774343,-108.186162,32.774343],
+  "bbox": [
+    -108.186162,
+    32.774343,
+    -108.186162,
+    32.774343
+],
   "geometry": {"coordinates":[-108.186162,32.774343],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202595621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.125398,35.560341,-106.125398,35.560341",
     "geom:latitude":35.560341,
     "geom:longitude":-106.125398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Ent la Cienega",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202595621,
-    "wof:lastmodified":1449062402,
+    "wof:lastmodified":1466698320,
     "wof:name":"Gonzales Jj Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.125398,35.560341,-106.125398,35.560341],
+  "bbox": [
+    -106.125398,
+    35.560341,
+    -106.125398,
+    35.560341
+],
   "geometry": {"coordinates":[-106.125398,35.560341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185615155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.028165,35.638081,-106.028165,35.638081",
     "geom:latitude":35.638081,
     "geom:longitude":-106.028165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Airport Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185615155,
-    "wof:lastmodified":1449007112,
+    "wof:lastmodified":1466697762,
     "wof:name":"Blakes Lota Burger 47",
     "wof:parent_id":85880855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.028165,35.638081,-106.028165,35.638081],
+  "bbox": [
+    -106.028165,
+    35.638081,
+    -106.028165,
+    35.638081
+],
   "geometry": {"coordinates":[-106.028165,35.638081],"type":"Point"}
 }

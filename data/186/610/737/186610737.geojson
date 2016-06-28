@@ -2,13 +2,14 @@
   "id": 186610737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.196601,34.417007,-103.196601,34.417007",
     "geom:latitude":34.417007,
     "geom:longitude":-103.196601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1902 N Prince St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186610737,
-    "wof:lastmodified":1449052986,
+    "wof:lastmodified":1466700667,
     "wof:name":"Title Cash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-103.196601,34.417007,-103.196601,34.417007],
+  "bbox": [
+    -103.196601,
+    34.417007,
+    -103.196601,
+    34.417007
+],
   "geometry": {"coordinates":[-103.196601,34.417007],"type":"Point"}
 }

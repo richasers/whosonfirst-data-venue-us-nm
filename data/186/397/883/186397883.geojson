@@ -2,13 +2,14 @@
   "id": 186397883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.015603,35.708832,-106.015603,35.708832",
     "geom:latitude":35.708832,
     "geom:longitude":-106.015603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Paintbrush Cir",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186397883,
-    "wof:lastmodified":1449051441,
+    "wof:lastmodified":1466699845,
     "wof:name":"Michael Markowitz & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "business"
     ]
 },
-  "bbox": [-106.015603,35.708832,-106.015603,35.708832],
+  "bbox": [
+    -106.015603,
+    35.708832,
+    -106.015603,
+    35.708832
+],
   "geometry": {"coordinates":[-106.015603,35.708832],"type":"Point"}
 }

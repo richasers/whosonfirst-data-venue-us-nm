@@ -2,13 +2,14 @@
   "id": 202842491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.552245,35.188881,-106.552245,35.188881",
     "geom:latitude":35.188881,
     "geom:longitude":-106.552245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7727 Modesto Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202842491,
-    "wof:lastmodified":1449060296,
+    "wof:lastmodified":1466700272,
     "wof:name":"C & C Technology LLC",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.552245,35.188881,-106.552245,35.188881],
+  "bbox": [
+    -106.552245,
+    35.188881,
+    -106.552245,
+    35.188881
+],
   "geometry": {"coordinates":[-106.552245,35.188881],"type":"Point"}
 }

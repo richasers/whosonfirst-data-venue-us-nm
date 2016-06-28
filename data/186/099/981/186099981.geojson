@@ -2,13 +2,14 @@
   "id": 186099981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.637113,35.084255,-106.637113,35.084255",
     "geom:latitude":35.084255,
     "geom:longitude":-106.637113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Locust St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186099981,
-    "wof:lastmodified":1449052120,
+    "wof:lastmodified":1466698927,
     "wof:name":"Barbara Wasylenki",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "worker"
     ]
 },
-  "bbox": [-106.637113,35.084255,-106.637113,35.084255],
+  "bbox": [
+    -106.637113,
+    35.084255,
+    -106.637113,
+    35.084255
+],
   "geometry": {"coordinates":[-106.637113,35.084255],"type":"Point"}
 }

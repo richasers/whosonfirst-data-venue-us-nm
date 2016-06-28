@@ -2,13 +2,14 @@
   "id": 186277231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.601599,35.135638,-106.601599,35.135638",
     "geom:latitude":35.135638,
     "geom:longitude":-106.601599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3838 Bogan Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":186277231,
-    "wof:lastmodified":1449050553,
+    "wof:lastmodified":1466699451,
     "wof:name":"Albuquerque Printing Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "commercial"
     ]
 },
-  "bbox": [-106.601599,35.135638,-106.601599,35.135638],
-  "geometry": {"coordinates":[-106.601599,35.135638],"type":"Point"}
+  "bbox": [
+    -106.601599,
+    35.135638,
+    -106.601599,
+    35.135638
+],
+  "geometry": {"coordinates":[-106.60159899999999,35.135638],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202396233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.60474,35.079892,-106.60474,35.079892",
     "geom:latitude":35.079892,
     "geom:longitude":-106.60474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3523 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202396233,
-    "wof:lastmodified":1449061755,
+    "wof:lastmodified":1466697884,
     "wof:name":"Harlows On The Hill",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.60474,35.079892,-106.60474,35.079892],
-  "geometry": {"coordinates":[-106.60474,35.079892],"type":"Point"}
+  "bbox": [
+    -106.60474,
+    35.079892,
+    -106.60474,
+    35.079892
+],
+  "geometry": {"coordinates":[-106.60474000000001,35.079892],"type":"Point"}
 }

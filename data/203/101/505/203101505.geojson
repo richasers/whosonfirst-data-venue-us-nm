@@ -2,13 +2,14 @@
   "id": 203101505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.725308,35.529008,-108.725308,35.529008",
     "geom:latitude":35.529008,
     "geom:longitude":-108.725308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Burke Dr",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203101505,
-    "wof:lastmodified":1449025943,
+    "wof:lastmodified":1466698747,
     "wof:name":"Fas-Break Windshield Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-108.725308,35.529008,-108.725308,35.529008],
+  "bbox": [
+    -108.725308,
+    35.529008,
+    -108.725308,
+    35.529008
+],
   "geometry": {"coordinates":[-108.725308,35.529008],"type":"Point"}
 }

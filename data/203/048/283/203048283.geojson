@@ -2,13 +2,14 @@
   "id": 203048283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.057954,36.008096,-106.057954,36.008096",
     "geom:latitude":36.008096,
     "geom:longitude":-106.057954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Fairview Ln",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203048283,
-    "wof:lastmodified":1449025585,
+    "wof:lastmodified":1466698118,
     "wof:name":"Ziegler Agency",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.057954,36.008096,-106.057954,36.008096],
+  "bbox": [
+    -106.057954,
+    36.008096,
+    -106.057954,
+    36.008096
+],
   "geometry": {"coordinates":[-106.057954,36.008096],"type":"Point"}
 }

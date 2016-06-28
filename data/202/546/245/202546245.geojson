@@ -2,13 +2,14 @@
   "id": 202546245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.229983,34.428397,-103.229983,34.428397",
     "geom:latitude":34.428397,
     "geom:longitude":-103.229983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Western Ct",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202546245,
-    "wof:lastmodified":1449060108,
+    "wof:lastmodified":1466699376,
     "wof:name":"Educational Retirement Sltns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-103.229983,34.428397,-103.229983,34.428397],
+  "bbox": [
+    -103.229983,
+    34.428397,
+    -103.229983,
+    34.428397
+],
   "geometry": {"coordinates":[-103.229983,34.428397],"type":"Point"}
 }

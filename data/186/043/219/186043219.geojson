@@ -2,13 +2,14 @@
   "id": 186043219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.973245,32.895816,-105.973245,32.895816",
     "geom:latitude":32.895816,
     "geom:longitude":-105.973245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 el Paso Dr",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186043219,
-    "wof:lastmodified":1449052353,
+    "wof:lastmodified":1466698165,
     "wof:name":"Whimsies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-105.973245,32.895816,-105.973245,32.895816],
-  "geometry": {"coordinates":[-105.973245,32.895816],"type":"Point"}
+  "bbox": [
+    -105.973245,
+    32.895816,
+    -105.973245,
+    32.895816
+],
+  "geometry": {"coordinates":[-105.97324500000001,32.895816],"type":"Point"}
 }

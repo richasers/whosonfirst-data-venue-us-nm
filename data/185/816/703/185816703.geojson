@@ -2,13 +2,14 @@
   "id": 185816703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.131167,32.700717,-103.131167,32.700717",
     "geom:latitude":32.700717,
     "geom:longitude":-103.131167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 E Broadway St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185816703,
-    "wof:lastmodified":1449007548,
+    "wof:lastmodified":1466697643,
     "wof:name":"Republican Party",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.131167,32.700717,-103.131167,32.700717],
+  "bbox": [
+    -103.131167,
+    32.700717,
+    -103.131167,
+    32.700717
+],
   "geometry": {"coordinates":[-103.131167,32.700717],"type":"Point"}
 }

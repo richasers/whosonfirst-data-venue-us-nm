@@ -2,13 +2,14 @@
   "id": 185602241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.602743,35.156076,-106.602743,35.156076",
     "geom:latitude":35.156076,
     "geom:longitude":-106.602743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3815 Academy Pkwy S NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185602241,
-    "wof:lastmodified":1449007369,
+    "wof:lastmodified":1466697619,
     "wof:name":"Pro-Tel Inc",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.602743,35.156076,-106.602743,35.156076],
+  "bbox": [
+    -106.602743,
+    35.156076,
+    -106.602743,
+    35.156076
+],
   "geometry": {"coordinates":[-106.602743,35.156076],"type":"Point"}
 }

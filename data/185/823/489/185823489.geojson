@@ -2,13 +2,14 @@
   "id": 185823489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.126194,36.704846,-108.126194,36.704846",
     "geom:latitude":36.704846,
     "geom:longitude":-108.126194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Rd 5777",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185823489,
-    "wof:lastmodified":1449008181,
+    "wof:lastmodified":1466697720,
     "wof:name":"FMC Energy Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-108.126194,36.704846,-108.126194,36.704846],
+  "bbox": [
+    -108.126194,
+    36.704846,
+    -108.126194,
+    36.704846
+],
   "geometry": {"coordinates":[-108.126194,36.704846],"type":"Point"}
 }

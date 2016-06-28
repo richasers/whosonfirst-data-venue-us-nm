@@ -2,13 +2,14 @@
   "id": 186535165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.491444,35.135401,-106.491444,35.135401",
     "geom:latitude":35.135401,
     "geom:longitude":-106.491444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4929 Cam de Monte NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186535165,
-    "wof:lastmodified":1449050907,
+    "wof:lastmodified":1466700342,
     "wof:name":"LJC Assoc Inc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-106.491444,35.135401,-106.491444,35.135401],
+  "bbox": [
+    -106.491444,
+    35.135401,
+    -106.491444,
+    35.135401
+],
   "geometry": {"coordinates":[-106.491444,35.135401],"type":"Point"}
 }

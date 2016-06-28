@@ -2,13 +2,14 @@
   "id": 185849143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.745567,35.078613,-106.745567,35.078613",
     "geom:latitude":35.078613,
     "geom:longitude":-106.745567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9911 Avalon Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185849143,
-    "wof:lastmodified":1449006916,
+    "wof:lastmodified":1466698001,
     "wof:name":"Close Cuts Barber Shop",
     "wof:parent_id":85892581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.745567,35.078613,-106.745567,35.078613],
-  "geometry": {"coordinates":[-106.745567,35.078613],"type":"Point"}
+  "bbox": [
+    -106.745567,
+    35.078613,
+    -106.745567,
+    35.078613
+],
+  "geometry": {"coordinates":[-106.74556699999999,35.078613],"type":"Point"}
 }

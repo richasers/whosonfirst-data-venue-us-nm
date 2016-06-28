@@ -2,13 +2,14 @@
   "id": 169857001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.21251,35.59638,-105.21251,35.59638",
     "geom:latitude":35.59638,
     "geom:longitude":-105.21251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Railroad Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169857001,
-    "wof:lastmodified":1449034823,
+    "wof:lastmodified":1466699442,
     "wof:name":"Hays Plumbing & Heating Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.21251,35.59638,-105.21251,35.59638],
-  "geometry": {"coordinates":[-105.21251,35.59638],"type":"Point"}
+  "bbox": [
+    -105.21251,
+    35.59638,
+    -105.21251,
+    35.59638
+],
+  "geometry": {"coordinates":[-105.21250999999999,35.59638],"type":"Point"}
 }

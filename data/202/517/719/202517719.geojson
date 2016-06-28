@@ -2,13 +2,14 @@
   "id": 202517719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.984024,33.00887,-105.984024,33.00887",
     "geom:latitude":33.00887,
     "geom:longitude":-105.984024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Mountain Meadows Rd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202517719,
-    "wof:lastmodified":1449061546,
+    "wof:lastmodified":1466699250,
     "wof:name":"Rob Roberts Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "design"
     ]
 },
-  "bbox": [-105.984024,33.00887,-105.984024,33.00887],
-  "geometry": {"coordinates":[-105.984024,33.00887],"type":"Point"}
+  "bbox": [
+    -105.984024,
+    33.00887,
+    -105.984024,
+    33.00887
+],
+  "geometry": {"coordinates":[-105.98402400000001,33.00887],"type":"Point"}
 }

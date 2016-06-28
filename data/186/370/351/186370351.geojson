@@ -2,13 +2,14 @@
   "id": 186370351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.52267,33.39863,-104.52267,33.39863",
     "geom:latitude":33.39863,
     "geom:longitude":-104.52267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 N Main St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186370351,
-    "wof:lastmodified":1449051847,
+    "wof:lastmodified":1466699739,
     "wof:name":"Roswell Transit Terminal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-104.52267,33.39863,-104.52267,33.39863],
-  "geometry": {"coordinates":[-104.52267,33.39863],"type":"Point"}
+  "bbox": [
+    -104.52267,
+    33.39863,
+    -104.52267,
+    33.39863
+],
+  "geometry": {"coordinates":[-104.52267000000001,33.39863],"type":"Point"}
 }

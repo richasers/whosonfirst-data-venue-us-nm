@@ -2,13 +2,14 @@
   "id": 186201147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.512953,35.093613,-106.512953,35.093613",
     "geom:latitude":35.093613,
     "geom:longitude":-106.512953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12000 Constitution Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186201147,
-    "wof:lastmodified":1449052660,
+    "wof:lastmodified":1466698044,
     "wof:name":"First Choice Personal Care",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-106.512953,35.093613,-106.512953,35.093613],
+  "bbox": [
+    -106.512953,
+    35.093613,
+    -106.512953,
+    35.093613
+],
   "geometry": {"coordinates":[-106.512953,35.093613],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353951995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.500168,35.095161,-106.500168,35.095161",
     "geom:latitude":35.095161,
     "geom:longitude":-106.500168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12901 Indian School Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":353951995,
-    "wof:lastmodified":1449018351,
+    "wof:lastmodified":1466698630,
     "wof:name":"Laser Tag Fun Ctr",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "attraction"
     ]
 },
-  "bbox": [-106.500168,35.095161,-106.500168,35.095161],
+  "bbox": [
+    -106.500168,
+    35.095161,
+    -106.500168,
+    35.095161
+],
   "geometry": {"coordinates":[-106.500168,35.095161],"type":"Point"}
 }

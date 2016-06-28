@@ -2,13 +2,14 @@
   "id": 186625759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.324341,35.102545,-106.324341,35.102545",
     "geom:latitude":35.102545,
     "geom:longitude":-106.324341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Escena Dr",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186625759,
-    "wof:lastmodified":1449053066,
+    "wof:lastmodified":1466700630,
     "wof:name":"Sequoia Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.324341,35.102545,-106.324341,35.102545],
+  "bbox": [
+    -106.324341,
+    35.102545,
+    -106.324341,
+    35.102545
+],
   "geometry": {"coordinates":[-106.324341,35.102545],"type":"Point"}
 }

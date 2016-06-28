@@ -2,13 +2,14 @@
   "id": 186251825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.30036,33.257032,-103.30036,33.257032",
     "geom:latitude":33.257032,
     "geom:longitude":-103.30036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 E Broadway St",
     "sg:city":"Tatum",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186251825,
-    "wof:lastmodified":1449050313,
+    "wof:lastmodified":1466698688,
     "wof:name":"Gandy Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "oil"
     ]
 },
-  "bbox": [-103.30036,33.257032,-103.30036,33.257032],
+  "bbox": [
+    -103.30036,
+    33.257032,
+    -103.30036,
+    33.257032
+],
   "geometry": {"coordinates":[-103.30036,33.257032],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202932273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.99134,35.650943,-105.99134,35.650943",
     "geom:latitude":35.650943,
     "geom:longitude":-105.99134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Ave de Las Campana",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202932273,
-    "wof:lastmodified":1449061051,
+    "wof:lastmodified":1466700581,
     "wof:name":"Kearny Elementary School",
     "wof:parent_id":85880845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.99134,35.650943,-105.99134,35.650943],
-  "geometry": {"coordinates":[-105.99134,35.650943],"type":"Point"}
+  "bbox": [
+    -105.99134,
+    35.650943,
+    -105.99134,
+    35.650943
+],
+  "geometry": {"coordinates":[-105.99133999999999,35.650943],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186579629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.959208,32.892552,-105.959208,32.892552",
     "geom:latitude":32.892552,
     "geom:longitude":-105.959208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 New York Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186579629,
-    "wof:lastmodified":1449051243,
+    "wof:lastmodified":1466700559,
     "wof:name":"Brent E Shelley & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.959208,32.892552,-105.959208,32.892552],
+  "bbox": [
+    -105.959208,
+    32.892552,
+    -105.959208,
+    32.892552
+],
   "geometry": {"coordinates":[-105.959208,32.892552],"type":"Point"}
 }

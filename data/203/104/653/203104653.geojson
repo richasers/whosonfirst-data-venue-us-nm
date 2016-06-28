@@ -2,13 +2,14 @@
   "id": 203104653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.648834,35.080382,-106.648834,35.080382",
     "geom:latitude":35.080382,
     "geom:longitude":-106.648834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 1st St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203104653,
-    "wof:lastmodified":1449025703,
+    "wof:lastmodified":1466698783,
     "wof:name":"El Madrid",
     "wof:parent_id":85871877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-106.648834,35.080382,-106.648834,35.080382],
-  "geometry": {"coordinates":[-106.648834,35.080382],"type":"Point"}
+  "bbox": [
+    -106.648834,
+    35.080382,
+    -106.648834,
+    35.080382
+],
+  "geometry": {"coordinates":[-106.64883399999999,35.080382],"type":"Point"}
 }

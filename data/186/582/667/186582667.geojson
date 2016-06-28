@@ -2,13 +2,14 @@
   "id": 186582667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.609776,35.195591,-106.609776,35.195591",
     "geom:latitude":35.195591,
     "geom:longitude":-106.609776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Mountain Park Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186582667,
-    "wof:lastmodified":1449051822,
+    "wof:lastmodified":1466700687,
     "wof:name":"Rotary Rx Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-106.609776,35.195591,-106.609776,35.195591],
+  "bbox": [
+    -106.609776,
+    35.195591,
+    -106.609776,
+    35.195591
+],
   "geometry": {"coordinates":[-106.609776,35.195591],"type":"Point"}
 }

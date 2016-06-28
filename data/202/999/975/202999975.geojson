@@ -2,13 +2,14 @@
   "id": 202999975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.004285,35.647508,-106.004285,35.647508",
     "geom:latitude":35.647508,
     "geom:longitude":-106.004285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3566 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202999975,
-    "wof:lastmodified":1449062342,
+    "wof:lastmodified":1466700663,
     "wof:name":"Joes Dirty Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "laundromat"
     ]
 },
-  "bbox": [-106.004285,35.647508,-106.004285,35.647508],
+  "bbox": [
+    -106.004285,
+    35.647508,
+    -106.004285,
+    35.647508
+],
   "geometry": {"coordinates":[-106.004285,35.647508],"type":"Point"}
 }

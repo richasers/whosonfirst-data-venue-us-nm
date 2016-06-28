@@ -2,13 +2,14 @@
   "id": 202398889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586392,35.144609,-106.586392,35.144609",
     "geom:latitude":35.144609,
     "geom:longitude":-106.586392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5350 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202398889,
-    "wof:lastmodified":1449060318,
+    "wof:lastmodified":1466697921,
     "wof:name":"Torito Monarrez Tile",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.586392,35.144609,-106.586392,35.144609],
+  "bbox": [
+    -106.586392,
+    35.144609,
+    -106.586392,
+    35.144609
+],
   "geometry": {"coordinates":[-106.586392,35.144609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202838017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.627994,35.137643,-106.627994,35.137643",
     "geom:latitude":35.137643,
     "geom:longitude":-106.627994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5715 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202838017,
-    "wof:lastmodified":1449060407,
+    "wof:lastmodified":1466700022,
     "wof:name":"J S Contractors LTD",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.627994,35.137643,-106.627994,35.137643],
+  "bbox": [
+    -106.627994,
+    35.137643,
+    -106.627994,
+    35.137643
+],
   "geometry": {"coordinates":[-106.627994,35.137643],"type":"Point"}
 }

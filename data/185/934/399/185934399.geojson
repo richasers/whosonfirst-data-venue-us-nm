@@ -2,13 +2,14 @@
   "id": 185934399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.50351,35.089108,-106.50351,35.089108",
     "geom:latitude":35.089108,
     "geom:longitude":-106.50351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12932 Granite Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185934399,
-    "wof:lastmodified":1449006661,
+    "wof:lastmodified":1466699002,
     "wof:name":"Clark Frodsham",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "monitor"
     ]
 },
-  "bbox": [-106.50351,35.089108,-106.50351,35.089108],
-  "geometry": {"coordinates":[-106.50351,35.089108],"type":"Point"}
+  "bbox": [
+    -106.50351,
+    35.089108,
+    -106.50351,
+    35.089108
+],
+  "geometry": {"coordinates":[-106.50351000000001,35.089108],"type":"Point"}
 }

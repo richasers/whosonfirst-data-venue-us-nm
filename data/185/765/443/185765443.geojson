@@ -2,13 +2,14 @@
   "id": 185765443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.69682,35.25947,-106.69682,35.25947",
     "geom:latitude":35.25947,
     "geom:longitude":-106.69682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Unser Blvd NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185765443,
-    "wof:lastmodified":1449007536,
+    "wof:lastmodified":1466699209,
     "wof:name":"Head Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-106.69682,35.25947,-106.69682,35.25947],
+  "bbox": [
+    -106.69682,
+    35.25947,
+    -106.69682,
+    35.25947
+],
   "geometry": {"coordinates":[-106.69682,35.25947],"type":"Point"}
 }

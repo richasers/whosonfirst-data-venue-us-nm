@@ -2,13 +2,14 @@
   "id": 186400375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.947627,36.867773,-107.947627,36.867773",
     "geom:latitude":36.867773,
     "geom:longitude":-107.947627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Rd 2785",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186400375,
-    "wof:lastmodified":1449050501,
+    "wof:lastmodified":1466699973,
     "wof:name":"E D Hendrickson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.947627,36.867773,-107.947627,36.867773],
+  "bbox": [
+    -107.947627,
+    36.867773,
+    -107.947627,
+    36.867773
+],
   "geometry": {"coordinates":[-107.947627,36.867773],"type":"Point"}
 }

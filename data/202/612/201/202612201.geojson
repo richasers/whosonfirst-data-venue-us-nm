@@ -2,13 +2,14 @@
   "id": 202612201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.510731,35.118363,-106.510731,35.118363",
     "geom:latitude":35.118363,
     "geom:longitude":-106.510731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11516 Atlantic City Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202612201,
-    "wof:lastmodified":1449061244,
+    "wof:lastmodified":1466698549,
     "wof:name":"Barbara J Walden",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "reporter"
     ]
 },
-  "bbox": [-106.510731,35.118363,-106.510731,35.118363],
-  "geometry": {"coordinates":[-106.510731,35.118363],"type":"Point"}
+  "bbox": [
+    -106.510731,
+    35.118363,
+    -106.510731,
+    35.118363
+],
+  "geometry": {"coordinates":[-106.51073100000001,35.118363],"type":"Point"}
 }

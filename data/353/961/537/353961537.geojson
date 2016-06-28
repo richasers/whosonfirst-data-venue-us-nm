@@ -2,13 +2,14 @@
   "id": 353961537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.678101,35.206879,-106.678101,35.206879",
     "geom:latitude":35.206879,
     "geom:longitude":-106.678101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4801 Mcmahon Blvd NW # 250",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353961537,
-    "wof:lastmodified":1449020723,
+    "wof:lastmodified":1466698790,
     "wof:name":"Temmar, Abderahmane, Md - Lovelace Medical Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.678101,35.206879,-106.678101,35.206879],
+  "bbox": [
+    -106.678101,
+    35.206879,
+    -106.678101,
+    35.206879
+],
   "geometry": {"coordinates":[-106.678101,35.206879],"type":"Point"}
 }

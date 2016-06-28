@@ -2,13 +2,14 @@
   "id": 186201525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.655469,35.129093,-106.655469,35.129093",
     "geom:latitude":35.129093,
     "geom:longitude":-106.655469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1351 San Lorenzo Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186201525,
-    "wof:lastmodified":1449052661,
+    "wof:lastmodified":1466698049,
     "wof:name":"New Mexico Enchanted Photo",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-106.655469,35.129093,-106.655469,35.129093],
+  "bbox": [
+    -106.655469,
+    35.129093,
+    -106.655469,
+    35.129093
+],
   "geometry": {"coordinates":[-106.655469,35.129093],"type":"Point"}
 }

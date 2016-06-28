@@ -2,13 +2,14 @@
   "id": 186308197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.54341,35.143545,-106.54341,35.143545",
     "geom:latitude":35.143545,
     "geom:longitude":-106.54341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5613 Cometa Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186308197,
-    "wof:lastmodified":1449053091,
+    "wof:lastmodified":1466699499,
     "wof:name":"Word Master",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-106.54341,35.143545,-106.54341,35.143545],
-  "geometry": {"coordinates":[-106.54341,35.143545],"type":"Point"}
+  "bbox": [
+    -106.54341,
+    35.143545,
+    -106.54341,
+    35.143545
+],
+  "geometry": {"coordinates":[-106.54340999999999,35.143545],"type":"Point"}
 }

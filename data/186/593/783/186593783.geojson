@@ -2,13 +2,14 @@
   "id": 186593783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.852783,32.295899,-106.852783,32.295899",
     "geom:latitude":32.295899,
     "geom:longitude":-106.852783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 Squirrel Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186593783,
-    "wof:lastmodified":1449052143,
+    "wof:lastmodified":1466700616,
     "wof:name":"Wild West Express",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-106.852783,32.295899,-106.852783,32.295899],
+  "bbox": [
+    -106.852783,
+    32.295899,
+    -106.852783,
+    32.295899
+],
   "geometry": {"coordinates":[-106.852783,32.295899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186102385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.653959,35.164887,-106.653959,35.164887",
     "geom:latitude":35.164887,
     "geom:longitude":-106.653959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Roadrunner Ln NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186102385,
-    "wof:lastmodified":1449052825,
+    "wof:lastmodified":1466698938,
     "wof:name":"Sandra J Paules",
     "wof:parent_id":85830119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-106.653959,35.164887,-106.653959,35.164887],
+  "bbox": [
+    -106.653959,
+    35.164887,
+    -106.653959,
+    35.164887
+],
   "geometry": {"coordinates":[-106.653959,35.164887],"type":"Point"}
 }

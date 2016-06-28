@@ -2,13 +2,14 @@
   "id": 185801379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.94756,35.673239,-105.94756,35.673239",
     "geom:latitude":35.673239,
     "geom:longitude":-105.94756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Don Cubero Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185801379,
-    "wof:lastmodified":1449007953,
+    "wof:lastmodified":1466699343,
     "wof:name":"Jalonis Evanzelos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.94756,35.673239,-105.94756,35.673239],
+  "bbox": [
+    -105.94756,
+    35.673239,
+    -105.94756,
+    35.673239
+],
   "geometry": {"coordinates":[-105.94756,35.673239],"type":"Point"}
 }

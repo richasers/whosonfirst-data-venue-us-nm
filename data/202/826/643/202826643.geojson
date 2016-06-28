@@ -2,13 +2,14 @@
   "id": 202826643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638087,35.130562,-106.638087,35.130562",
     "geom:latitude":35.130562,
     "geom:longitude":-106.638087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Tyrone Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202826643,
-    "wof:lastmodified":1449061943,
+    "wof:lastmodified":1466700090,
     "wof:name":"Thrust Co Inc",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.638087,35.130562,-106.638087,35.130562],
+  "bbox": [
+    -106.638087,
+    35.130562,
+    -106.638087,
+    35.130562
+],
   "geometry": {"coordinates":[-106.638087,35.130562],"type":"Point"}
 }

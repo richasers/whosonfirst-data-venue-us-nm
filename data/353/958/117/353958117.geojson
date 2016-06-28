@@ -2,13 +2,14 @@
   "id": 353958117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.659009,35.211149,-106.659009,35.211149",
     "geom:latitude":35.211149,
     "geom:longitude":-106.659009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3761 State Highway 528 NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353958117,
-    "wof:lastmodified":1449020262,
+    "wof:lastmodified":1466698747,
     "wof:name":"Charter Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-106.659009,35.211149,-106.659009,35.211149],
+  "bbox": [
+    -106.659009,
+    35.211149,
+    -106.659009,
+    35.211149
+],
   "geometry": {"coordinates":[-106.659009,35.211149],"type":"Point"}
 }

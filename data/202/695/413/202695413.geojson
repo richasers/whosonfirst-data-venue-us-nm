@@ -2,13 +2,14 @@
   "id": 202695413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.533073,35.090988,-106.533073,35.090988",
     "geom:latitude":35.090988,
     "geom:longitude":-106.533073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1133 Walker Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202695413,
-    "wof:lastmodified":1449061071,
+    "wof:lastmodified":1466699597,
     "wof:name":"Mr GS Janitorial Service",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-106.533073,35.090988,-106.533073,35.090988],
+  "bbox": [
+    -106.533073,
+    35.090988,
+    -106.533073,
+    35.090988
+],
   "geometry": {"coordinates":[-106.533073,35.090988],"type":"Point"}
 }

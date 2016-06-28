@@ -2,13 +2,14 @@
   "id": 186175191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.658377,35.115284,-106.658377,35.115284",
     "geom:latitude":35.115284,
     "geom:longitude":-106.658377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 Phoenix Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186175191,
-    "wof:lastmodified":1449052228,
+    "wof:lastmodified":1466697702,
     "wof:name":"Lee & Josie's Respite Care",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-106.658377,35.115284,-106.658377,35.115284],
+  "bbox": [
+    -106.658377,
+    35.115284,
+    -106.658377,
+    35.115284
+],
   "geometry": {"coordinates":[-106.658377,35.115284],"type":"Point"}
 }

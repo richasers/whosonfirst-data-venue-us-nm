@@ -2,13 +2,14 @@
   "id": 186415971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550111,35.134012,-106.550111,35.134012",
     "geom:latitude":35.134012,
     "geom:longitude":-106.550111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8513 Las Camas Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186415971,
-    "wof:lastmodified":1449052291,
+    "wof:lastmodified":1466699910,
     "wof:name":"Bloodtrails International",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.550111,35.134012,-106.550111,35.134012],
+  "bbox": [
+    -106.550111,
+    35.134012,
+    -106.550111,
+    35.134012
+],
   "geometry": {"coordinates":[-106.550111,35.134012],"type":"Point"}
 }

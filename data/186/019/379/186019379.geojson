@@ -2,13 +2,14 @@
   "id": 186019379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.756743,32.284765,-106.756743,32.284765",
     "geom:latitude":32.284765,
     "geom:longitude":-106.756743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2605 S Espina St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186019379,
-    "wof:lastmodified":1449051923,
+    "wof:lastmodified":1466697898,
     "wof:name":"Pete's Hacienda",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.756743,32.284765,-106.756743,32.284765],
+  "bbox": [
+    -106.756743,
+    32.284765,
+    -106.756743,
+    32.284765
+],
   "geometry": {"coordinates":[-106.756743,32.284765],"type":"Point"}
 }

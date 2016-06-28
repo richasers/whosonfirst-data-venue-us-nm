@@ -2,13 +2,14 @@
   "id": 202393321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.51035,35.136387,-106.51035,35.136387",
     "geom:latitude":35.136387,
     "geom:longitude":-106.51035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11407 Manitoba Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202393321,
-    "wof:lastmodified":1449060902,
+    "wof:lastmodified":1466697857,
     "wof:name":"Foundations 123",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "foundation"
     ]
 },
-  "bbox": [-106.51035,35.136387,-106.51035,35.136387],
+  "bbox": [
+    -106.51035,
+    35.136387,
+    -106.51035,
+    35.136387
+],
   "geometry": {"coordinates":[-106.51035,35.136387],"type":"Point"}
 }

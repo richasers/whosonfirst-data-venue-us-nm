@@ -2,13 +2,14 @@
   "id": 202599235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.925756,32.915952,-105.925756,32.915952",
     "geom:latitude":32.915952,
     "geom:longitude":-105.925756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2114 Scenic Dr",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202599235,
-    "wof:lastmodified":1449061300,
+    "wof:lastmodified":1466698370,
     "wof:name":"Mountain Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-105.925756,32.915952,-105.925756,32.915952],
-  "geometry": {"coordinates":[-105.925756,32.915952],"type":"Point"}
+  "bbox": [
+    -105.925756,
+    32.915952,
+    -105.925756,
+    32.915952
+],
+  "geometry": {"coordinates":[-105.92575600000001,32.915952],"type":"Point"}
 }

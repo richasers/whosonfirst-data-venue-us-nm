@@ -2,13 +2,14 @@
   "id": 202803285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.940329,35.693138,-105.940329,35.693138",
     "geom:latitude":35.693138,
     "geom:longitude":-105.940329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"247 Rosario Blvd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202803285,
-    "wof:lastmodified":1449062685,
+    "wof:lastmodified":1466699985,
     "wof:name":"Morning Star Christmas",
     "wof:parent_id":85880833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "specialty"
     ]
 },
-  "bbox": [-105.940329,35.693138,-105.940329,35.693138],
-  "geometry": {"coordinates":[-105.940329,35.693138],"type":"Point"}
+  "bbox": [
+    -105.940329,
+    35.693138,
+    -105.940329,
+    35.693138
+],
+  "geometry": {"coordinates":[-105.94032900000001,35.693138],"type":"Point"}
 }

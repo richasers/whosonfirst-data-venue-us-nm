@@ -2,13 +2,14 @@
   "id": 169751605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.232135,32.428618,-104.232135,32.428618",
     "geom:latitude":32.428618,
     "geom:longitude":-104.232135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W Church St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169751605,
-    "wof:lastmodified":1449032871,
+    "wof:lastmodified":1466698083,
     "wof:name":"Eisenhower Technology Ctr",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trade"
     ]
 },
-  "bbox": [-104.232135,32.428618,-104.232135,32.428618],
+  "bbox": [
+    -104.232135,
+    32.428618,
+    -104.232135,
+    32.428618
+],
   "geometry": {"coordinates":[-104.232135,32.428618],"type":"Point"}
 }

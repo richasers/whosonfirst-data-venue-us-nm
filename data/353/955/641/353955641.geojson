@@ -2,13 +2,14 @@
   "id": 353955641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.618813,35.151119,-106.618813,35.151119",
     "geom:latitude":35.151119,
     "geom:longitude":-106.618813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"531 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353955641,
-    "wof:lastmodified":1449020014,
+    "wof:lastmodified":1466698715,
     "wof:name":"Topper Town",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "hitch"
     ]
 },
-  "bbox": [-106.618813,35.151119,-106.618813,35.151119],
+  "bbox": [
+    -106.618813,
+    35.151119,
+    -106.618813,
+    35.151119
+],
   "geometry": {"coordinates":[-106.618813,35.151119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186066651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.123182,32.717999,-103.123182,32.717999",
     "geom:latitude":32.717999,
     "geom:longitude":-103.123182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1718 N Jefferson St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186066651,
-    "wof:lastmodified":1449051157,
+    "wof:lastmodified":1466698480,
     "wof:name":"N & N Rub Board Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.123182,32.717999,-103.123182,32.717999],
+  "bbox": [
+    -103.123182,
+    32.717999,
+    -103.123182,
+    32.717999
+],
   "geometry": {"coordinates":[-103.123182,32.717999],"type":"Point"}
 }

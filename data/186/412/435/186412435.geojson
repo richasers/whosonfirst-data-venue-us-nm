@@ -2,13 +2,14 @@
   "id": 186412435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.127706,32.730968,-103.127706,32.730968",
     "geom:latitude":32.730968,
     "geom:longitude":-103.127706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2827 N Dal Paso St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186412435,
-    "wof:lastmodified":1449050955,
+    "wof:lastmodified":1466699888,
     "wof:name":"Ladybud Uniforms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "uniform"
     ]
 },
-  "bbox": [-103.127706,32.730968,-103.127706,32.730968],
+  "bbox": [
+    -103.127706,
+    32.730968,
+    -103.127706,
+    32.730968
+],
   "geometry": {"coordinates":[-103.127706,32.730968],"type":"Point"}
 }

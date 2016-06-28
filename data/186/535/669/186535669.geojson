@@ -2,13 +2,14 @@
   "id": 186535669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.285667,32.77413,-108.285667,32.77413",
     "geom:latitude":32.77413,
     "geom:longitude":-108.285667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 W 7th St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186535669,
-    "wof:lastmodified":1449050901,
+    "wof:lastmodified":1466700344,
     "wof:name":"Kd Rv & Truck Performance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-108.285667,32.77413,-108.285667,32.77413],
+  "bbox": [
+    -108.285667,
+    32.77413,
+    -108.285667,
+    32.77413
+],
   "geometry": {"coordinates":[-108.285667,32.77413],"type":"Point"}
 }

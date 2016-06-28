@@ -2,13 +2,14 @@
   "id": 186507759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.763204,32.353536,-106.763204,32.353536",
     "geom:latitude":32.353536,
     "geom:longitude":-106.763204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 N Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186507759,
-    "wof:lastmodified":1449051749,
+    "wof:lastmodified":1466700246,
     "wof:name":"Santa Fe Grill 4",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.763204,32.353536,-106.763204,32.353536],
+  "bbox": [
+    -106.763204,
+    32.353536,
+    -106.763204,
+    32.353536
+],
   "geometry": {"coordinates":[-106.763204,32.353536],"type":"Point"}
 }

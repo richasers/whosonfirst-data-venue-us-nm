@@ -2,13 +2,14 @@
   "id": 203038591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.183128,36.452048,-103.183128,36.452048",
     "geom:latitude":36.452048,
     "geom:longitude":-103.183128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Main St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203038591,
-    "wof:lastmodified":1449026189,
+    "wof:lastmodified":1466698004,
     "wof:name":"Sand & Sage Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.183128,36.452048,-103.183128,36.452048],
+  "bbox": [
+    -103.183128,
+    36.452048,
+    -103.183128,
+    36.452048
+],
   "geometry": {"coordinates":[-103.183128,36.452048],"type":"Point"}
 }

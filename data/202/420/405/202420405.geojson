@@ -2,13 +2,14 @@
   "id": 202420405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.680833,34.933093,-104.680833,34.933093",
     "geom:latitude":34.933093,
     "geom:longitude":-104.680833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"923 S 3rd St",
     "sg:city":"Santa Rosa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202420405,
-    "wof:lastmodified":1449061345,
+    "wof:lastmodified":1466698200,
     "wof:name":"Chavez Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-104.680833,34.933093,-104.680833,34.933093],
-  "geometry": {"coordinates":[-104.680833,34.933093],"type":"Point"}
+  "bbox": [
+    -104.680833,
+    34.933093,
+    -104.680833,
+    34.933093
+],
+  "geometry": {"coordinates":[-104.68083300000001,34.933093],"type":"Point"}
 }

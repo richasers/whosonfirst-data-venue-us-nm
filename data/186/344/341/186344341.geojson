@@ -2,13 +2,14 @@
   "id": 186344341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.515102,35.070363,-106.515102,35.070363",
     "geom:latitude":35.070363,
     "geom:longitude":-106.515102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Juan Tabo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186344341,
-    "wof:lastmodified":1449050404,
+    "wof:lastmodified":1466699499,
     "wof:name":"PHD Investment Co LLC",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-106.515102,35.070363,-106.515102,35.070363],
+  "bbox": [
+    -106.515102,
+    35.070363,
+    -106.515102,
+    35.070363
+],
   "geometry": {"coordinates":[-106.515102,35.070363],"type":"Point"}
 }

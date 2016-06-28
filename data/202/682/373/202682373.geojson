@@ -2,13 +2,14 @@
   "id": 202682373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.255244,32.414538,-104.255244,32.414538",
     "geom:latitude":32.414538,
     "geom:longitude":-104.255244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 W Lea St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202682373,
-    "wof:lastmodified":1449060539,
+    "wof:lastmodified":1466699542,
     "wof:name":"Mr W Fireworks Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "firework"
     ]
 },
-  "bbox": [-104.255244,32.414538,-104.255244,32.414538],
+  "bbox": [
+    -104.255244,
+    32.414538,
+    -104.255244,
+    32.414538
+],
   "geometry": {"coordinates":[-104.255244,32.414538],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202796905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.963871,35.547225,-105.963871,35.547225",
     "geom:latitude":35.547225,
     "geom:longitude":-105.963871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Camerada Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202796905,
-    "wof:lastmodified":1449061318,
+    "wof:lastmodified":1466699972,
     "wof:name":"Jett Construction",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "home"
     ]
 },
-  "bbox": [-105.963871,35.547225,-105.963871,35.547225],
+  "bbox": [
+    -105.963871,
+    35.547225,
+    -105.963871,
+    35.547225
+],
   "geometry": {"coordinates":[-105.963871,35.547225],"type":"Point"}
 }

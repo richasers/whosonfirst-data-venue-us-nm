@@ -2,13 +2,14 @@
   "id": 203065061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.505978,35.131478,-106.505978,35.131478",
     "geom:latitude":35.131478,
     "geom:longitude":-106.505978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4512 Bermuda Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203065061,
-    "wof:lastmodified":1449026858,
+    "wof:lastmodified":1466698279,
     "wof:name":"RTS Ink Inc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "ink"
     ]
 },
-  "bbox": [-106.505978,35.131478,-106.505978,35.131478],
+  "bbox": [
+    -106.505978,
+    35.131478,
+    -106.505978,
+    35.131478
+],
   "geometry": {"coordinates":[-106.505978,35.131478],"type":"Point"}
 }

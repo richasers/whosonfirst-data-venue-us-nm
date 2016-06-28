@@ -2,13 +2,14 @@
   "id": 202870109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.56683,35.3279,-106.56683,35.3279",
     "geom:latitude":35.3279,
     "geom:longitude":-106.56683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Jemez Dam Rd",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202870109,
-    "wof:lastmodified":1449060781,
+    "wof:lastmodified":1466700335,
     "wof:name":"J Kevin Kiser",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.56683,35.3279,-106.56683,35.3279],
+  "bbox": [
+    -106.56683,
+    35.3279,
+    -106.56683,
+    35.3279
+],
   "geometry": {"coordinates":[-106.56683,35.3279],"type":"Point"}
 }

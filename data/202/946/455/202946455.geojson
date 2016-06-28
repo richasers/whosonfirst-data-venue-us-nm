@@ -2,13 +2,14 @@
   "id": 202946455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.641473,35.13791,-106.641473,35.13791",
     "geom:latitude":35.13791,
     "geom:longitude":-106.641473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5407 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202946455,
-    "wof:lastmodified":1449062345,
+    "wof:lastmodified":1466700538,
     "wof:name":"Rainbow Child Care & Learning",
     "wof:parent_id":85892593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.641473,35.13791,-106.641473,35.13791],
+  "bbox": [
+    -106.641473,
+    35.13791,
+    -106.641473,
+    35.13791
+],
   "geometry": {"coordinates":[-106.641473,35.13791],"type":"Point"}
 }

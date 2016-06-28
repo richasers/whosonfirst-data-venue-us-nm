@@ -2,13 +2,14 @@
   "id": 169765945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.143853,32.731495,-103.143853,32.731495",
     "geom:latitude":32.731495,
     "geom:longitude":-103.143853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 W Iron Ave",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169765945,
-    "wof:lastmodified":1449034595,
+    "wof:lastmodified":1466698225,
     "wof:name":"L & R Maintenance & Lawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-103.143853,32.731495,-103.143853,32.731495],
-  "geometry": {"coordinates":[-103.143853,32.731495],"type":"Point"}
+  "bbox": [
+    -103.143853,
+    32.731495,
+    -103.143853,
+    32.731495
+],
+  "geometry": {"coordinates":[-103.14385299999999,32.731495],"type":"Point"}
 }

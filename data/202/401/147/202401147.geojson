@@ -2,13 +2,14 @@
   "id": 202401147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.620874,35.079562,-106.620874,35.079562",
     "geom:latitude":35.079562,
     "geom:longitude":-106.620874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Harvard Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202401147,
-    "wof:lastmodified":1449062286,
+    "wof:lastmodified":1466697950,
     "wof:name":"Half Life Digital",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-106.620874,35.079562,-106.620874,35.079562],
+  "bbox": [
+    -106.620874,
+    35.079562,
+    -106.620874,
+    35.079562
+],
   "geometry": {"coordinates":[-106.620874,35.079562],"type":"Point"}
 }

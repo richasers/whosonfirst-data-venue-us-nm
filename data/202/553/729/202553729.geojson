@@ -2,13 +2,14 @@
   "id": 202553729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.278503,32.770735,-108.278503,32.770735",
     "geom:latitude":32.770735,
     "geom:longitude":-108.278503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 W Yankee St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202553729,
-    "wof:lastmodified":1449060124,
+    "wof:lastmodified":1466697694,
     "wof:name":"Western New Mexico Telephone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-108.278503,32.770735,-108.278503,32.770735],
+  "bbox": [
+    -108.278503,
+    32.770735,
+    -108.278503,
+    32.770735
+],
   "geometry": {"coordinates":[-108.278503,32.770735],"type":"Point"}
 }

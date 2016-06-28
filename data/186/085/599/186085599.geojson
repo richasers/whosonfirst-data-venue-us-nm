@@ -2,13 +2,14 @@
   "id": 186085599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.711139,35.110514,-106.711139,35.110514",
     "geom:latitude":35.110514,
     "geom:longitude":-106.711139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6208 Amberside Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186085599,
-    "wof:lastmodified":1449051065,
+    "wof:lastmodified":1466698701,
     "wof:name":"Carl Leo Cuntz Jr",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.711139,35.110514,-106.711139,35.110514],
+  "bbox": [
+    -106.711139,
+    35.110514,
+    -106.711139,
+    35.110514
+],
   "geometry": {"coordinates":[-106.711139,35.110514],"type":"Point"}
 }

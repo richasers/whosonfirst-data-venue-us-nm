@@ -2,13 +2,14 @@
   "id": 202734789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.559747,35.194585,-106.559747,35.194585",
     "geom:latitude":35.194585,
     "geom:longitude":-106.559747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7820 Beverly Hills Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202734789,
-    "wof:lastmodified":1449062337,
+    "wof:lastmodified":1466699736,
     "wof:name":"McDowell Engineering",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.559747,35.194585,-106.559747,35.194585],
+  "bbox": [
+    -106.559747,
+    35.194585,
+    -106.559747,
+    35.194585
+],
   "geometry": {"coordinates":[-106.559747,35.194585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169696969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649691,35.110216,-106.649691,35.110216",
     "geom:latitude":35.110216,
     "geom:longitude":-106.649691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 Towner Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":169696969,
-    "wof:lastmodified":1449032925,
+    "wof:lastmodified":1466697603,
     "wof:name":"John A Hinning",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "se"
     ]
 },
-  "bbox": [-106.649691,35.110216,-106.649691,35.110216],
+  "bbox": [
+    -106.649691,
+    35.110216,
+    -106.649691,
+    35.110216
+],
   "geometry": {"coordinates":[-106.649691,35.110216],"type":"Point"}
 }

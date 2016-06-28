@@ -2,13 +2,14 @@
   "id": 202594013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.084684,35.997274,-106.084684,35.997274",
     "geom:latitude":35.997274,
     "geom:longitude":-106.084684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 Spruce St",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202594013,
-    "wof:lastmodified":1449060475,
+    "wof:lastmodified":1466698299,
     "wof:name":"Amigos Del Valle",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "citizen"
     ]
 },
-  "bbox": [-106.084684,35.997274,-106.084684,35.997274],
+  "bbox": [
+    -106.084684,
+    35.997274,
+    -106.084684,
+    35.997274
+],
   "geometry": {"coordinates":[-106.084684,35.997274],"type":"Point"}
 }

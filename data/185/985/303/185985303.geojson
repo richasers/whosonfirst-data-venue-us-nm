@@ -2,13 +2,14 @@
   "id": 185985303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.271205,32.795501,-108.271205,32.795501",
     "geom:latitude":32.795501,
     "geom:longitude":-108.271205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3009 N Mann Dr",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185985303,
-    "wof:lastmodified":1449007425,
+    "wof:lastmodified":1466699688,
     "wof:name":"Emaster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contract"
     ]
 },
-  "bbox": [-108.271205,32.795501,-108.271205,32.795501],
-  "geometry": {"coordinates":[-108.271205,32.795501],"type":"Point"}
+  "bbox": [
+    -108.271205,
+    32.795501,
+    -108.271205,
+    32.795501
+],
+  "geometry": {"coordinates":[-108.27120499999999,32.795501],"type":"Point"}
 }

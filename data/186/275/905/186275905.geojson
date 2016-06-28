@@ -2,13 +2,14 @@
   "id": 186275905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.933852,35.686562,-105.933852,35.686562",
     "geom:latitude":35.686562,
     "geom:longitude":-105.933852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"228 E Palace Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186275905,
-    "wof:lastmodified":1449051248,
+    "wof:lastmodified":1466699002,
     "wof:name":"Indian Affair's Office",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.933852,35.686562,-105.933852,35.686562],
+  "bbox": [
+    -105.933852,
+    35.686562,
+    -105.933852,
+    35.686562
+],
   "geometry": {"coordinates":[-105.933852,35.686562],"type":"Point"}
 }

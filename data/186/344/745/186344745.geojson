@@ -2,13 +2,14 @@
   "id": 186344745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.933656,35.590062,-105.933656,35.590062",
     "geom:latitude":35.590062,
     "geom:longitude":-105.933656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Cam Sudeste",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186344745,
-    "wof:lastmodified":1449050403,
+    "wof:lastmodified":1466699662,
     "wof:name":"B J Home Enhancement Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.933656,35.590062,-105.933656,35.590062],
+  "bbox": [
+    -105.933656,
+    35.590062,
+    -105.933656,
+    35.590062
+],
   "geometry": {"coordinates":[-105.933656,35.590062],"type":"Point"}
 }

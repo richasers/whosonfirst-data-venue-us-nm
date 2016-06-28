@@ -2,13 +2,14 @@
   "id": 202436347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.72419,35.121852,-106.72419,35.121852",
     "geom:latitude":35.121852,
     "geom:longitude":-106.72419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3205 Schumacher St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202436347,
-    "wof:lastmodified":1449062408,
+    "wof:lastmodified":1466698390,
     "wof:name":"Armenta Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.72419,35.121852,-106.72419,35.121852],
-  "geometry": {"coordinates":[-106.72419,35.121852],"type":"Point"}
+  "bbox": [
+    -106.72419,
+    35.121852,
+    -106.72419,
+    35.121852
+],
+  "geometry": {"coordinates":[-106.72418999999999,35.121852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185898881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.514427,33.393987,-104.514427,33.393987",
     "geom:latitude":33.393987,
     "geom:longitude":-104.514427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N Garden Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185898881,
-    "wof:lastmodified":1449006570,
+    "wof:lastmodified":1466698495,
     "wof:name":"Lykins Tire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-104.514427,33.393987,-104.514427,33.393987],
+  "bbox": [
+    -104.514427,
+    33.393987,
+    -104.514427,
+    33.393987
+],
   "geometry": {"coordinates":[-104.514427,33.393987],"type":"Point"}
 }

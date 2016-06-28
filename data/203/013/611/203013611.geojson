@@ -2,13 +2,14 @@
   "id": 203013611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.168304,36.748124,-108.168304,36.748124",
     "geom:latitude":36.748124,
     "geom:longitude":-108.168304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2909 E 20th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203013611,
-    "wof:lastmodified":1449026260,
+    "wof:lastmodified":1466697747,
     "wof:name":"Gold & Silver Quotes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gold"
     ]
 },
-  "bbox": [-108.168304,36.748124,-108.168304,36.748124],
-  "geometry": {"coordinates":[-108.168304,36.748124],"type":"Point"}
+  "bbox": [
+    -108.168304,
+    36.748124,
+    -108.168304,
+    36.748124
+],
+  "geometry": {"coordinates":[-108.16830400000001,36.748124],"type":"Point"}
 }

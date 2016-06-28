@@ -2,13 +2,14 @@
   "id": 185887799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.778865,32.311378,-106.778865,32.311378",
     "geom:latitude":32.311378,
     "geom:longitude":-106.778865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 N Downtown Mall",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185887799,
-    "wof:lastmodified":1449007903,
+    "wof:lastmodified":1466698398,
     "wof:name":"A B C Printing",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-106.778865,32.311378,-106.778865,32.311378],
+  "bbox": [
+    -106.778865,
+    32.311378,
+    -106.778865,
+    32.311378
+],
   "geometry": {"coordinates":[-106.778865,32.311378],"type":"Point"}
 }

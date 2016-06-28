@@ -2,13 +2,14 @@
   "id": 185887301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604204,35.116231,-106.604204,35.116231",
     "geom:latitude":35.116231,
     "geom:longitude":-106.604204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2917 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":185887301,
-    "wof:lastmodified":1449007899,
+    "wof:lastmodified":1466698391,
     "wof:name":"Boyd Cynthia Orntal Bdy Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.604204,35.116231,-106.604204,35.116231],
+  "bbox": [
+    -106.604204,
+    35.116231,
+    -106.604204,
+    35.116231
+],
   "geometry": {"coordinates":[-106.604204,35.116231],"type":"Point"}
 }

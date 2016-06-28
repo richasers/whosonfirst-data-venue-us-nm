@@ -2,13 +2,14 @@
   "id": 186266271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.652419,35.092341,-106.652419,35.092341",
     "geom:latitude":35.092341,
     "geom:longitude":-106.652419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Slate Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186266271,
-    "wof:lastmodified":1449050351,
+    "wof:lastmodified":1466698865,
     "wof:name":"Art Services",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.652419,35.092341,-106.652419,35.092341],
-  "geometry": {"coordinates":[-106.652419,35.092341],"type":"Point"}
+  "bbox": [
+    -106.652419,
+    35.092341,
+    -106.652419,
+    35.092341
+],
+  "geometry": {"coordinates":[-106.65241899999999,35.092341],"type":"Point"}
 }

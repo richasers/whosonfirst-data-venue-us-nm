@@ -2,13 +2,14 @@
   "id": 186424057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.633339,35.201316,-106.633339,35.201316",
     "geom:latitude":35.201316,
     "geom:longitude":-106.633339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1028 Stuart Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186424057,
-    "wof:lastmodified":1449052865,
+    "wof:lastmodified":1466700037,
     "wof:name":"Distinctive Indian Jewelry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.633339,35.201316,-106.633339,35.201316],
-  "geometry": {"coordinates":[-106.633339,35.201316],"type":"Point"}
+  "bbox": [
+    -106.633339,
+    35.201316,
+    -106.633339,
+    35.201316
+],
+  "geometry": {"coordinates":[-106.63333900000001,35.201316],"type":"Point"}
 }

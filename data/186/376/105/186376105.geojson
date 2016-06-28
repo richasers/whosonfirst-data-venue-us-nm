@@ -2,13 +2,14 @@
   "id": 186376105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.662912,35.142346,-106.662912,35.142346",
     "geom:latitude":35.142346,
     "geom:longitude":-106.662912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1730 Montano Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186376105,
-    "wof:lastmodified":1449051309,
+    "wof:lastmodified":1466699642,
     "wof:name":"Samba",
     "wof:parent_id":85892593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.662912,35.142346,-106.662912,35.142346],
-  "geometry": {"coordinates":[-106.662912,35.142346],"type":"Point"}
+  "bbox": [
+    -106.662912,
+    35.142346,
+    -106.662912,
+    35.142346
+],
+  "geometry": {"coordinates":[-106.66291200000001,35.142346],"type":"Point"}
 }

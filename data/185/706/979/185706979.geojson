@@ -2,13 +2,14 @@
   "id": 185706979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.52532,35.122539,-106.52532,35.122539",
     "geom:latitude":35.122539,
     "geom:longitude":-106.52532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10305 Chapala Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185706979,
-    "wof:lastmodified":1449006719,
+    "wof:lastmodified":1466698710,
     "wof:name":"New Mexio Crime Prevntn",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.52532,35.122539,-106.52532,35.122539],
-  "geometry": {"coordinates":[-106.52532,35.122539],"type":"Point"}
+  "bbox": [
+    -106.52532,
+    35.122539,
+    -106.52532,
+    35.122539
+],
+  "geometry": {"coordinates":[-106.52531999999999,35.122539],"type":"Point"}
 }

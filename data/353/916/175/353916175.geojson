@@ -2,13 +2,14 @@
   "id": 353916175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.626547,35.24579,-106.626547,35.24579",
     "geom:latitude":35.24579,
     "geom:longitude":-106.626547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1155 Sagebrush Dr",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353916175,
-    "wof:lastmodified":1449019663,
+    "wof:lastmodified":1466699386,
     "wof:name":"Daly Dent",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "repairing"
     ]
 },
-  "bbox": [-106.626547,35.24579,-106.626547,35.24579],
+  "bbox": [
+    -106.626547,
+    35.24579,
+    -106.626547,
+    35.24579
+],
   "geometry": {"coordinates":[-106.626547,35.24579],"type":"Point"}
 }

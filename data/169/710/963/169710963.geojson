@@ -2,13 +2,14 @@
   "id": 169710963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.418297,32.842253,-104.418297,32.842253",
     "geom:latitude":32.842253,
     "geom:longitude":-104.418297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 W Main St",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169710963,
-    "wof:lastmodified":1449032884,
+    "wof:lastmodified":1466697678,
     "wof:name":"Plateau Telecommunications",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-104.418297,32.842253,-104.418297,32.842253],
+  "bbox": [
+    -104.418297,
+    32.842253,
+    -104.418297,
+    32.842253
+],
   "geometry": {"coordinates":[-104.418297,32.842253],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186429003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.94093,35.687618,-105.94093,35.687618",
     "geom:latitude":35.687618,
     "geom:longitude":-105.94093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 W San Francisco St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":186429003,
-    "wof:lastmodified":1449052894,
+    "wof:lastmodified":1466700052,
     "wof:name":"Guadalupe's Fun Rubber Stamps",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "plastic"
     ]
 },
-  "bbox": [-105.94093,35.687618,-105.94093,35.687618],
-  "geometry": {"coordinates":[-105.94093,35.687618],"type":"Point"}
+  "bbox": [
+    -105.94093,
+    35.687618,
+    -105.94093,
+    35.687618
+],
+  "geometry": {"coordinates":[-105.94092999999999,35.687618],"type":"Point"}
 }

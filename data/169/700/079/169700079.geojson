@@ -2,13 +2,14 @@
   "id": 169700079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.951343,32.911649,-105.951343,32.911649",
     "geom:latitude":32.911649,
     "geom:longitude":-105.951343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 Alaska Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169700079,
-    "wof:lastmodified":1449035671,
+    "wof:lastmodified":1466697603,
     "wof:name":"Positive Effects Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-105.951343,32.911649,-105.951343,32.911649],
-  "geometry": {"coordinates":[-105.951343,32.911649],"type":"Point"}
+  "bbox": [
+    -105.951343,
+    32.911649,
+    -105.951343,
+    32.911649
+],
+  "geometry": {"coordinates":[-105.95134299999999,32.911649],"type":"Point"}
 }

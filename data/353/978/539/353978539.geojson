@@ -2,13 +2,14 @@
   "id": 353978539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.184505,34.422782,-103.184505,34.422782",
     "geom:latitude":34.422782,
     "geom:longitude":-103.184505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1726 Jonquil Park Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353978539,
-    "wof:lastmodified":1449019737,
+    "wof:lastmodified":1466699073,
     "wof:name":"Alexander Bookkeeping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "billing"
     ]
 },
-  "bbox": [-103.184505,34.422782,-103.184505,34.422782],
+  "bbox": [
+    -103.184505,
+    34.422782,
+    -103.184505,
+    34.422782
+],
   "geometry": {"coordinates":[-103.184505,34.422782],"type":"Point"}
 }

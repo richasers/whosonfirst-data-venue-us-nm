@@ -2,13 +2,14 @@
   "id": 185846343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.123778,32.695283,-103.123778,32.695283",
     "geom:latitude":32.695283,
     "geom:longitude":-103.123778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 S Jefferson St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185846343,
-    "wof:lastmodified":1449007876,
+    "wof:lastmodified":1466697971,
     "wof:name":"El Bethel Church Of God-Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-103.123778,32.695283,-103.123778,32.695283],
+  "bbox": [
+    -103.123778,
+    32.695283,
+    -103.123778,
+    32.695283
+],
   "geometry": {"coordinates":[-103.123778,32.695283],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202679603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.795136,32.274142,-106.795136,32.274142",
     "geom:latitude":32.274142,
     "geom:longitude":-106.795136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2470 Cll de Guadalupe",
     "sg:city":"Mesilla",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202679603,
-    "wof:lastmodified":1449061729,
+    "wof:lastmodified":1466699421,
     "wof:name":"Mesilla Valley Gallery",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.795136,32.274142,-106.795136,32.274142],
+  "bbox": [
+    -106.795136,
+    32.274142,
+    -106.795136,
+    32.274142
+],
   "geometry": {"coordinates":[-106.795136,32.274142],"type":"Point"}
 }

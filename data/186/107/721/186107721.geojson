@@ -2,13 +2,14 @@
   "id": 186107721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.205839,36.724398,-108.205839,36.724398",
     "geom:latitude":36.724398,
     "geom:longitude":-108.205839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W Maple St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186107721,
-    "wof:lastmodified":1449050267,
+    "wof:lastmodified":1466699004,
     "wof:name":"L & L Oil Field Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-108.205839,36.724398,-108.205839,36.724398],
+  "bbox": [
+    -108.205839,
+    36.724398,
+    -108.205839,
+    36.724398
+],
   "geometry": {"coordinates":[-108.205839,36.724398],"type":"Point"}
 }

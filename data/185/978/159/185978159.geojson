@@ -2,13 +2,14 @@
   "id": 185978159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.515142,35.088531,-106.515142,35.088531",
     "geom:latitude":35.088531,
     "geom:longitude":-106.515142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1027 Juan Tabo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185978159,
-    "wof:lastmodified":1449007531,
+    "wof:lastmodified":1466699468,
     "wof:name":"Takai Mine Karate/Tae KWON Do",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-106.515142,35.088531,-106.515142,35.088531],
+  "bbox": [
+    -106.515142,
+    35.088531,
+    -106.515142,
+    35.088531
+],
   "geometry": {"coordinates":[-106.515142,35.088531],"type":"Point"}
 }

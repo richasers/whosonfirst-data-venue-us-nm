@@ -2,13 +2,14 @@
   "id": 202691017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.72453,35.178095,-103.72453,35.178095",
     "geom:latitude":35.178095,
     "geom:longitude":-103.72453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 E Center St",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202691017,
-    "wof:lastmodified":1449060328,
+    "wof:lastmodified":1466699706,
     "wof:name":"Crimestoppers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.72453,35.178095,-103.72453,35.178095],
+  "bbox": [
+    -103.72453,
+    35.178095,
+    -103.72453,
+    35.178095
+],
   "geometry": {"coordinates":[-103.72453,35.178095],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186149837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.749733,32.320316,-106.749733,32.320316",
     "geom:latitude":32.320316,
     "geom:longitude":-106.749733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 N Telshor Blvd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186149837,
-    "wof:lastmodified":1449050260,
+    "wof:lastmodified":1466699324,
     "wof:name":"Orthodontix LTD",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-106.749733,32.320316,-106.749733,32.320316],
-  "geometry": {"coordinates":[-106.749733,32.320316],"type":"Point"}
+  "bbox": [
+    -106.749733,
+    32.320316,
+    -106.749733,
+    32.320316
+],
+  "geometry": {"coordinates":[-106.74973300000001,32.320316],"type":"Point"}
 }

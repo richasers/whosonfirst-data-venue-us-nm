@@ -2,13 +2,14 @@
   "id": 202498247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.680688,35.212896,-106.680688,35.212896",
     "geom:latitude":35.212896,
     "geom:longitude":-106.680688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10708 Pastime Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202498247,
-    "wof:lastmodified":1449062042,
+    "wof:lastmodified":1466699101,
     "wof:name":"All State General Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.680688,35.212896,-106.680688,35.212896],
+  "bbox": [
+    -106.680688,
+    35.212896,
+    -106.680688,
+    35.212896
+],
   "geometry": {"coordinates":[-106.680688,35.212896],"type":"Point"}
 }

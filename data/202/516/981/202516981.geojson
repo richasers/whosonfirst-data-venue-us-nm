@@ -2,13 +2,14 @@
   "id": 202516981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.684142,35.017733,-106.684142,35.017733",
     "geom:latitude":35.017733,
     "geom:longitude":-106.684142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4025 Isleta Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202516981,
-    "wof:lastmodified":1449060599,
+    "wof:lastmodified":1466699241,
     "wof:name":"Haven Of Love Mission",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "homeless"
     ]
 },
-  "bbox": [-106.684142,35.017733,-106.684142,35.017733],
-  "geometry": {"coordinates":[-106.684142,35.017733],"type":"Point"}
+  "bbox": [
+    -106.684142,
+    35.017733,
+    -106.684142,
+    35.017733
+],
+  "geometry": {"coordinates":[-106.68414199999999,35.017733],"type":"Point"}
 }

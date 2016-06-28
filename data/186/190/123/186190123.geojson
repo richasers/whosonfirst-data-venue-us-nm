@@ -2,13 +2,14 @@
   "id": 186190123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.874538,35.513167,-105.874538,35.513167",
     "geom:latitude":35.513167,
     "geom:longitude":-105.874538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Cam Acote",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186190123,
-    "wof:lastmodified":1449052859,
+    "wof:lastmodified":1466697897,
     "wof:name":"Charlotteshopcom LLC",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.874538,35.513167,-105.874538,35.513167],
+  "bbox": [
+    -105.874538,
+    35.513167,
+    -105.874538,
+    35.513167
+],
   "geometry": {"coordinates":[-105.874538,35.513167],"type":"Point"}
 }

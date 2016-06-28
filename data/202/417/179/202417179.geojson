@@ -2,13 +2,14 @@
   "id": 202417179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.227496,32.399931,-104.227496,32.399931",
     "geom:latitude":32.399931,
     "geom:longitude":-104.227496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 W Wood Ave",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202417179,
-    "wof:lastmodified":1449061149,
+    "wof:lastmodified":1466698159,
     "wof:name":"Horton Mini Storage",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-104.227496,32.399931,-104.227496,32.399931],
+  "bbox": [
+    -104.227496,
+    32.399931,
+    -104.227496,
+    32.399931
+],
   "geometry": {"coordinates":[-104.227496,32.399931],"type":"Point"}
 }

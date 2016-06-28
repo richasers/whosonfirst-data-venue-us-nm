@@ -2,13 +2,14 @@
   "id": 203058737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.576074,36.406248,-105.576074,36.406248",
     "geom:latitude":36.406248,
     "geom:longitude":-105.576074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Ledoux St",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203058737,
-    "wof:lastmodified":1449025213,
+    "wof:lastmodified":1466698221,
     "wof:name":"Rane Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-105.576074,36.406248,-105.576074,36.406248],
-  "geometry": {"coordinates":[-105.576074,36.406248],"type":"Point"}
+  "bbox": [
+    -105.576074,
+    36.406248,
+    -105.576074,
+    36.406248
+],
+  "geometry": {"coordinates":[-105.57607400000001,36.406248],"type":"Point"}
 }

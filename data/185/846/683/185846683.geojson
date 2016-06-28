@@ -2,13 +2,14 @@
   "id": 185846683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.585665,35.148017,-106.585665,35.148017",
     "geom:latitude":35.148017,
     "geom:longitude":-106.585665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6020 Academy Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185846683,
-    "wof:lastmodified":1449007876,
+    "wof:lastmodified":1466697977,
     "wof:name":"Daniel B Stephens & Assoc Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "ecological"
     ]
 },
-  "bbox": [-106.585665,35.148017,-106.585665,35.148017],
-  "geometry": {"coordinates":[-106.585665,35.148017],"type":"Point"}
+  "bbox": [
+    -106.585665,
+    35.148017,
+    -106.585665,
+    35.148017
+],
+  "geometry": {"coordinates":[-106.58566500000001,35.148017],"type":"Point"}
 }

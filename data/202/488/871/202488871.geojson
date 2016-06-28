@@ -2,13 +2,14 @@
   "id": 202488871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.922211,35.680868,-105.922211,35.680868",
     "geom:latitude":35.680868,
     "geom:longitude":-105.922211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Gonzales Rd",
     "sg:city":"Pecos",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202488871,
-    "wof:lastmodified":1449062563,
+    "wof:lastmodified":1466699052,
     "wof:name":"C De Baca Sand & Gravel",
     "wof:parent_id":85880769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gravel"
     ]
 },
-  "bbox": [-105.922211,35.680868,-105.922211,35.680868],
+  "bbox": [
+    -105.922211,
+    35.680868,
+    -105.922211,
+    35.680868
+],
   "geometry": {"coordinates":[-105.922211,35.680868],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202683451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.656323,33.332287,-105.656323,33.332287",
     "geom:latitude":33.332287,
     "geom:longitude":-105.656323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 Marijo Ln",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202683451,
-    "wof:lastmodified":1449061042,
+    "wof:lastmodified":1466699543,
     "wof:name":"Hawley & Hawley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.656323,33.332287,-105.656323,33.332287],
+  "bbox": [
+    -105.656323,
+    33.332287,
+    -105.656323,
+    33.332287
+],
   "geometry": {"coordinates":[-105.656323,33.332287],"type":"Point"}
 }

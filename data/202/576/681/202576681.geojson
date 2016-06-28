@@ -2,13 +2,14 @@
   "id": 202576681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.69398,35.080593,-106.69398,35.080593",
     "geom:latitude":35.080593,
     "geom:longitude":-106.69398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Crestview Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202576681,
-    "wof:lastmodified":1449062079,
+    "wof:lastmodified":1466698038,
     "wof:name":"Jingles The Clown",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clown"
     ]
 },
-  "bbox": [-106.69398,35.080593,-106.69398,35.080593],
+  "bbox": [
+    -106.69398,
+    35.080593,
+    -106.69398,
+    35.080593
+],
   "geometry": {"coordinates":[-106.69398,35.080593],"type":"Point"}
 }

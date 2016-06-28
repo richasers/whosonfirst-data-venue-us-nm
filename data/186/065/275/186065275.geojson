@@ -2,13 +2,14 @@
   "id": 186065275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.376864,35.115163,-106.376864,35.115163",
     "geom:latitude":35.115163,
     "geom:longitude":-106.376864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Sonata Ct",
     "sg:city":"Cedar Crest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186065275,
-    "wof:lastmodified":1449053006,
+    "wof:lastmodified":1466698453,
     "wof:name":"Mykrobel L L C",
     "wof:parent_id":85892613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.376864,35.115163,-106.376864,35.115163],
+  "bbox": [
+    -106.376864,
+    35.115163,
+    -106.376864,
+    35.115163
+],
   "geometry": {"coordinates":[-106.376864,35.115163],"type":"Point"}
 }

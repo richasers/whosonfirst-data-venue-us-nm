@@ -2,13 +2,14 @@
   "id": 202993657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.777527,32.302676,-106.777527,32.302676",
     "geom:latitude":32.302676,
     "geom:longitude":-106.777527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 el Paseo Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202993657,
-    "wof:lastmodified":1449061247,
+    "wof:lastmodified":1466700658,
     "wof:name":"Lightning Wash",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-106.777527,32.302676,-106.777527,32.302676],
-  "geometry": {"coordinates":[-106.777527,32.302676],"type":"Point"}
+  "bbox": [
+    -106.777527,
+    32.302676,
+    -106.777527,
+    32.302676
+],
+  "geometry": {"coordinates":[-106.77752700000001,32.302676],"type":"Point"}
 }

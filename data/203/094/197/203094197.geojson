@@ -2,13 +2,14 @@
   "id": 203094197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.212907,36.728069,-108.212907,36.728069",
     "geom:latitude":36.728069,
     "geom:longitude":-108.212907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 W Broadway Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203094197,
-    "wof:lastmodified":1449026145,
+    "wof:lastmodified":1466698662,
     "wof:name":"Clear Creek Water Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "company"
     ]
 },
-  "bbox": [-108.212907,36.728069,-108.212907,36.728069],
+  "bbox": [
+    -108.212907,
+    36.728069,
+    -108.212907,
+    36.728069
+],
   "geometry": {"coordinates":[-108.212907,36.728069],"type":"Point"}
 }

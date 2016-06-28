@@ -2,13 +2,14 @@
   "id": 186245349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.148498,32.694459,-103.148498,32.694459",
     "geom:latitude":32.694459,
     "geom:longitude":-103.148498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 S Cecil St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186245349,
-    "wof:lastmodified":1449052947,
+    "wof:lastmodified":1466698600,
     "wof:name":"Mewbourne Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-103.148498,32.694459,-103.148498,32.694459],
+  "bbox": [
+    -103.148498,
+    32.694459,
+    -103.148498,
+    32.694459
+],
   "geometry": {"coordinates":[-103.148498,32.694459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353938309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.576379,35.137768,-106.576379,35.137768",
     "geom:latitude":35.137768,
     "geom:longitude":-106.576379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6221 Northland Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":353938309,
-    "wof:lastmodified":1449020148,
+    "wof:lastmodified":1466698229,
     "wof:name":"Tom Davies Rarebooks",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-106.576379,35.137768,-106.576379,35.137768],
+  "bbox": [
+    -106.576379,
+    35.137768,
+    -106.576379,
+    35.137768
+],
   "geometry": {"coordinates":[-106.576379,35.137768],"type":"Point"}
 }

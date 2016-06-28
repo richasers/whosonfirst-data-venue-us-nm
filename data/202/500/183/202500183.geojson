@@ -2,13 +2,14 @@
   "id": 202500183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.703294,36.009273,-104.703294,36.009273",
     "geom:latitude":36.009273,
     "geom:longitude":-104.703294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Ritch St",
     "sg:city":"Wagon Mound",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202500183,
-    "wof:lastmodified":1449060753,
+    "wof:lastmodified":1466699115,
     "wof:name":"MDS Funding Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-104.703294,36.009273,-104.703294,36.009273],
+  "bbox": [
+    -104.703294,
+    36.009273,
+    -104.703294,
+    36.009273
+],
   "geometry": {"coordinates":[-104.703294,36.009273],"type":"Point"}
 }

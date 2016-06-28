@@ -2,13 +2,14 @@
   "id": 186138353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.590826,35.184453,-106.590826,35.184453",
     "geom:latitude":35.184453,
     "geom:longitude":-106.590826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4906 Alameda Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186138353,
-    "wof:lastmodified":1449051147,
+    "wof:lastmodified":1466699196,
     "wof:name":"Universal Investigation Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "background"
     ]
 },
-  "bbox": [-106.590826,35.184453,-106.590826,35.184453],
-  "geometry": {"coordinates":[-106.590826,35.184453],"type":"Point"}
+  "bbox": [
+    -106.590826,
+    35.184453,
+    -106.590826,
+    35.184453
+],
+  "geometry": {"coordinates":[-106.59082600000001,35.184453],"type":"Point"}
 }

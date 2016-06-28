@@ -2,13 +2,14 @@
   "id": 186482411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.694788,35.189754,-106.694788,35.189754",
     "geom:latitude":35.189754,
     "geom:longitude":-106.694788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5209 Marcadas Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186482411,
-    "wof:lastmodified":1449051345,
+    "wof:lastmodified":1466700043,
     "wof:name":"Mercury Real Estate Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.694788,35.189754,-106.694788,35.189754],
+  "bbox": [
+    -106.694788,
+    35.189754,
+    -106.694788,
+    35.189754
+],
   "geometry": {"coordinates":[-106.694788,35.189754],"type":"Point"}
 }

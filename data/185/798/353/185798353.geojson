@@ -2,13 +2,14 @@
   "id": 185798353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.292249,33.056029,-107.292249,33.056029",
     "geom:latitude":33.056029,
     "geom:longitude":-107.292249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Palomas Cir",
     "sg:city":"Williamsburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185798353,
-    "wof:lastmodified":1449006917,
+    "wof:lastmodified":1466699334,
     "wof:name":"Fasteel Of New Mexico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-107.292249,33.056029,-107.292249,33.056029],
+  "bbox": [
+    -107.292249,
+    33.056029,
+    -107.292249,
+    33.056029
+],
   "geometry": {"coordinates":[-107.292249,33.056029],"type":"Point"}
 }

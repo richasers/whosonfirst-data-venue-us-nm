@@ -2,13 +2,14 @@
   "id": 186211069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.647535,35.120565,-106.647535,35.120565",
     "geom:latitude":35.120565,
     "geom:longitude":-106.647535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Candelaria Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186211069,
-    "wof:lastmodified":1449051053,
+    "wof:lastmodified":1466698161,
     "wof:name":"Albuquerque Pre-School Co-Op",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.647535,35.120565,-106.647535,35.120565],
+  "bbox": [
+    -106.647535,
+    35.120565,
+    -106.647535,
+    35.120565
+],
   "geometry": {"coordinates":[-106.647535,35.120565],"type":"Point"}
 }

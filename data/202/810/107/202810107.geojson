@@ -2,13 +2,14 @@
   "id": 202810107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.16502,32.442386,-103.16502,32.442386",
     "geom:latitude":32.442386,
     "geom:longitude":-103.16502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 18th St",
     "sg:city":"Eunice",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202810107,
-    "wof:lastmodified":1449060857,
+    "wof:lastmodified":1466700102,
     "wof:name":"John H Hendrix Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-103.16502,32.442386,-103.16502,32.442386],
+  "bbox": [
+    -103.16502,
+    32.442386,
+    -103.16502,
+    32.442386
+],
   "geometry": {"coordinates":[-103.16502,32.442386],"type":"Point"}
 }

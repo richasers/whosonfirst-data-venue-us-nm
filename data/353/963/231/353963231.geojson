@@ -2,13 +2,14 @@
   "id": 353963231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.700729,35.107811,-106.700729,35.107811",
     "geom:latitude":35.107811,
     "geom:longitude":-106.700729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Atrisco Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353963231,
-    "wof:lastmodified":1449018503,
+    "wof:lastmodified":1466698832,
     "wof:name":"Albuquerque Talent Development",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-106.700729,35.107811,-106.700729,35.107811],
+  "bbox": [
+    -106.700729,
+    35.107811,
+    -106.700729,
+    35.107811
+],
   "geometry": {"coordinates":[-106.700729,35.107811],"type":"Point"}
 }

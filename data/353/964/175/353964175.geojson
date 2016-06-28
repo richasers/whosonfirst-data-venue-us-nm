@@ -2,13 +2,14 @@
   "id": 353964175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.72364,35.053371,-106.72364,35.053371",
     "geom:latitude":35.053371,
     "geom:longitude":-106.72364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8100 Sapphire St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353964175,
-    "wof:lastmodified":1449020176,
+    "wof:lastmodified":1466698860,
     "wof:name":"Bernadette C Perea Court Reporting",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "reporters-court"
     ]
 },
-  "bbox": [-106.72364,35.053371,-106.72364,35.053371],
+  "bbox": [
+    -106.72364,
+    35.053371,
+    -106.72364,
+    35.053371
+],
   "geometry": {"coordinates":[-106.72364,35.053371],"type":"Point"}
 }

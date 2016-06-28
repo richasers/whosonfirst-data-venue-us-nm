@@ -2,13 +2,14 @@
   "id": 186166477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.527573,33.402023,-104.527573,33.402023",
     "geom:latitude":33.402023,
     "geom:longitude":-104.527573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 N Kentucky Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186166477,
-    "wof:lastmodified":1449051878,
+    "wof:lastmodified":1466699375,
     "wof:name":"Brandons Handyman Fix It",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.527573,33.402023,-104.527573,33.402023],
+  "bbox": [
+    -104.527573,
+    33.402023,
+    -104.527573,
+    33.402023
+],
   "geometry": {"coordinates":[-104.527573,33.402023],"type":"Point"}
 }

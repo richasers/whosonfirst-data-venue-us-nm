@@ -2,13 +2,14 @@
   "id": 186199189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.536715,35.16928,-106.536715,35.16928",
     "geom:latitude":35.16928,
     "geom:longitude":-106.536715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9421 Thornton Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186199189,
-    "wof:lastmodified":1449050520,
+    "wof:lastmodified":1466698016,
     "wof:name":"Ann Speer Enterprises Inc",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.536715,35.16928,-106.536715,35.16928],
+  "bbox": [
+    -106.536715,
+    35.16928,
+    -106.536715,
+    35.16928
+],
   "geometry": {"coordinates":[-106.536715,35.16928],"type":"Point"}
 }

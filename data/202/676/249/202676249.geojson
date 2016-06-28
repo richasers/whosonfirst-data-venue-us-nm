@@ -2,13 +2,14 @@
   "id": 202676249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.674682,35.18005,-106.674682,35.18005",
     "geom:latitude":35.18005,
     "geom:longitude":-106.674682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9251 Eagle Ranch Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202676249,
-    "wof:lastmodified":1449061715,
+    "wof:lastmodified":1466699406,
     "wof:name":"West Park Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-106.674682,35.18005,-106.674682,35.18005],
+  "bbox": [
+    -106.674682,
+    35.18005,
+    -106.674682,
+    35.18005
+],
   "geometry": {"coordinates":[-106.674682,35.18005],"type":"Point"}
 }

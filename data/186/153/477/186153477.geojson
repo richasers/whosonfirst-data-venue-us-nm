@@ -2,13 +2,14 @@
   "id": 186153477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.64594,35.095467,-106.64594,35.095467",
     "geom:latitude":35.095467,
     "geom:longitude":-106.64594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 1st St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186153477,
-    "wof:lastmodified":1449052218,
+    "wof:lastmodified":1466699343,
     "wof:name":"Matias J Vega MD",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.64594,35.095467,-106.64594,35.095467],
+  "bbox": [
+    -106.64594,
+    35.095467,
+    -106.64594,
+    35.095467
+],
   "geometry": {"coordinates":[-106.64594,35.095467],"type":"Point"}
 }

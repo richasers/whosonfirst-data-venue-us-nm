@@ -2,13 +2,14 @@
   "id": 186355417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.554743,35.077914,-106.554743,35.077914",
     "geom:latitude":35.077914,
     "geom:longitude":-106.554743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Utah St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186355417,
-    "wof:lastmodified":1449051135,
+    "wof:lastmodified":1466699557,
     "wof:name":"Eagle Safe & Lock",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-106.554743,35.077914,-106.554743,35.077914],
+  "bbox": [
+    -106.554743,
+    35.077914,
+    -106.554743,
+    35.077914
+],
   "geometry": {"coordinates":[-106.554743,35.077914],"type":"Point"}
 }

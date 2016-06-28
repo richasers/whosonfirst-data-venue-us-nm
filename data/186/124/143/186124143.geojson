@@ -2,13 +2,14 @@
   "id": 186124143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.608179,35.079176,-106.608179,35.079176",
     "geom:latitude":35.079176,
     "geom:longitude":-106.608179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Wellesley Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186124143,
-    "wof:lastmodified":1449052824,
+    "wof:lastmodified":1466699132,
     "wof:name":"K Lee Peifer Law Office",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.608179,35.079176,-106.608179,35.079176],
-  "geometry": {"coordinates":[-106.608179,35.079176],"type":"Point"}
+  "bbox": [
+    -106.608179,
+    35.079176,
+    -106.608179,
+    35.079176
+],
+  "geometry": {"coordinates":[-106.60817900000001,35.079176],"type":"Point"}
 }

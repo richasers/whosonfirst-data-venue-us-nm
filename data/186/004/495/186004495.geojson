@@ -2,13 +2,14 @@
   "id": 186004495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.716791,34.862536,-106.716791,34.862536",
     "geom:latitude":34.862536,
     "geom:longitude":-106.716791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 Lillie Dr",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186004495,
-    "wof:lastmodified":1449051365,
+    "wof:lastmodified":1466697740,
     "wof:name":"Larrabee Construction Company",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.716791,34.862536,-106.716791,34.862536],
+  "bbox": [
+    -106.716791,
+    34.862536,
+    -106.716791,
+    34.862536
+],
   "geometry": {"coordinates":[-106.716791,34.862536],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186214431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.758771,35.54136,-108.758771,35.54136",
     "geom:latitude":35.54136,
     "geom:longitude":-108.758771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1257 US Hwy 491",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186214431,
-    "wof:lastmodified":1449052950,
+    "wof:lastmodified":1466698204,
     "wof:name":"Academy Silver At Gallup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-108.758771,35.54136,-108.758771,35.54136],
+  "bbox": [
+    -108.758771,
+    35.54136,
+    -108.758771,
+    35.54136
+],
   "geometry": {"coordinates":[-108.758771,35.54136],"type":"Point"}
 }

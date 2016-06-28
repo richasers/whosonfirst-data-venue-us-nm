@@ -2,13 +2,14 @@
   "id": 186304273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.78708,32.315349,-106.78708,32.315349",
     "geom:latitude":32.315349,
     "geom:longitude":-106.78708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 N Miranda St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186304273,
-    "wof:lastmodified":1449052345,
+    "wof:lastmodified":1466699634,
     "wof:name":"Church Of Christ",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.78708,32.315349,-106.78708,32.315349],
+  "bbox": [
+    -106.78708,
+    32.315349,
+    -106.78708,
+    32.315349
+],
   "geometry": {"coordinates":[-106.78708,32.315349],"type":"Point"}
 }

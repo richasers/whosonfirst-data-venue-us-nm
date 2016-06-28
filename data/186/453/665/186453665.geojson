@@ -2,13 +2,14 @@
   "id": 186453665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.493501,32.659847,-108.493501,32.659847",
     "geom:latitude":32.659847,
     "geom:longitude":-108.493501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Diamond A Dr",
     "sg:city":"Animas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186453665,
-    "wof:lastmodified":1449052353,
+    "wof:lastmodified":1466700051,
     "wof:name":"Animas Foundation Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-108.493501,32.659847,-108.493501,32.659847],
-  "geometry": {"coordinates":[-108.493501,32.659847],"type":"Point"}
+  "bbox": [
+    -108.493501,
+    32.659847,
+    -108.493501,
+    32.659847
+],
+  "geometry": {"coordinates":[-108.49350099999999,32.659847],"type":"Point"}
 }

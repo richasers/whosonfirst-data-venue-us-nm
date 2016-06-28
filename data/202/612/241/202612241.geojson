@@ -2,13 +2,14 @@
   "id": 202612241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.795158,32.305362,-106.795158,32.305362",
     "geom:latitude":32.305362,
     "geom:longitude":-106.795158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 N Archuleta Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202612241,
-    "wof:lastmodified":1449061244,
+    "wof:lastmodified":1466698550,
     "wof:name":"W W Door",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-106.795158,32.305362,-106.795158,32.305362],
+  "bbox": [
+    -106.795158,
+    32.305362,
+    -106.795158,
+    32.305362
+],
   "geometry": {"coordinates":[-106.795158,32.305362],"type":"Point"}
 }

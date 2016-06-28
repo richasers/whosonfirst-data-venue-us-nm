@@ -2,13 +2,14 @@
   "id": 202881035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.183924,34.436116,-103.183924,34.436116",
     "geom:latitude":34.436116,
     "geom:longitude":-103.183924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Fairway Ter",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202881035,
-    "wof:lastmodified":1449061588,
+    "wof:lastmodified":1466700181,
     "wof:name":"Aladdin Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-103.183924,34.436116,-103.183924,34.436116],
+  "bbox": [
+    -103.183924,
+    34.436116,
+    -103.183924,
+    34.436116
+],
   "geometry": {"coordinates":[-103.183924,34.436116],"type":"Point"}
 }

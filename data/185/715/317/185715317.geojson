@@ -2,13 +2,14 @@
   "id": 185715317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.182039,36.746226,-108.182039,36.746226",
     "geom:latitude":36.746226,
     "geom:longitude":-108.182039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1813 Schofield Ln",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185715317,
-    "wof:lastmodified":1449007895,
+    "wof:lastmodified":1466698782,
     "wof:name":"Mariposa Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.182039,36.746226,-108.182039,36.746226],
+  "bbox": [
+    -108.182039,
+    36.746226,
+    -108.182039,
+    36.746226
+],
   "geometry": {"coordinates":[-108.182039,36.746226],"type":"Point"}
 }

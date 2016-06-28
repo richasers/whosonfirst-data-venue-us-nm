@@ -2,13 +2,14 @@
   "id": 169697905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.420973,32.836115,-104.420973,32.836115",
     "geom:latitude":32.836115,
     "geom:longitude":-104.420973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1917 Villa Dr",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169697905,
-    "wof:lastmodified":1449034769,
+    "wof:lastmodified":1466697604,
     "wof:name":"Ch Floore Inc Pipelines",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.420973,32.836115,-104.420973,32.836115],
+  "bbox": [
+    -104.420973,
+    32.836115,
+    -104.420973,
+    32.836115
+],
   "geometry": {"coordinates":[-104.420973,32.836115],"type":"Point"}
 }

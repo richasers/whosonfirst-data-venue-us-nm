@@ -2,13 +2,14 @@
   "id": 202858681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550364,35.081751,-106.550364,35.081751",
     "geom:latitude":35.081751,
     "geom:longitude":-106.550364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202858681,
-    "wof:lastmodified":1449060366,
+    "wof:lastmodified":1466700229,
     "wof:name":"US Army Reserve 387th Eng",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-106.550364,35.081751,-106.550364,35.081751],
+  "bbox": [
+    -106.550364,
+    35.081751,
+    -106.550364,
+    35.081751
+],
   "geometry": {"coordinates":[-106.550364,35.081751],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186601317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.319323,34.792519,-103.319323,34.792519",
     "geom:latitude":34.792519,
     "geom:longitude":-103.319323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1680 C R 37",
     "sg:city":"Grady",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186601317,
-    "wof:lastmodified":1449051577,
+    "wof:lastmodified":1466700740,
     "wof:name":"Grau Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-103.319323,34.792519,-103.319323,34.792519],
+  "bbox": [
+    -103.319323,
+    34.792519,
+    -103.319323,
+    34.792519
+],
   "geometry": {"coordinates":[-103.319323,34.792519],"type":"Point"}
 }

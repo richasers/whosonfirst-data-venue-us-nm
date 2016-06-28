@@ -2,13 +2,14 @@
   "id": 202807051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.437433,33.168335,-104.437433,33.168335",
     "geom:latitude":33.168335,
     "geom:longitude":-104.437433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 E Ojibwa Rd",
     "sg:city":"Dexter",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202807051,
-    "wof:lastmodified":1449060764,
+    "wof:lastmodified":1466699866,
     "wof:name":"Creek Side Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.437433,33.168335,-104.437433,33.168335],
+  "bbox": [
+    -104.437433,
+    33.168335,
+    -104.437433,
+    33.168335
+],
   "geometry": {"coordinates":[-104.437433,33.168335],"type":"Point"}
 }

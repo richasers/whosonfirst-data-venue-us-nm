@@ -2,13 +2,14 @@
   "id": 185924759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.575263,36.401929,-105.575263,36.401929",
     "geom:latitude":36.401929,
     "geom:longitude":-105.575263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185924759,
-    "wof:lastmodified":1449007055,
+    "wof:lastmodified":1466698874,
     "wof:name":"Photoworks Of Taos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-105.575263,36.401929,-105.575263,36.401929],
-  "geometry": {"coordinates":[-105.575263,36.401929],"type":"Point"}
+  "bbox": [
+    -105.575263,
+    36.401929,
+    -105.575263,
+    36.401929
+],
+  "geometry": {"coordinates":[-105.57526300000001,36.401929],"type":"Point"}
 }

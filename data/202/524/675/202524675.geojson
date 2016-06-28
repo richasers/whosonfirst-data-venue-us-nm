@@ -2,13 +2,14 @@
   "id": 202524675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.331921,34.175879,-103.331921,34.175879",
     "geom:latitude":34.175879,
     "geom:longitude":-103.331921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 S Ave B",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202524675,
-    "wof:lastmodified":1449060086,
+    "wof:lastmodified":1466699266,
     "wof:name":"Judy's Swirl & Curl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.331921,34.175879,-103.331921,34.175879],
-  "geometry": {"coordinates":[-103.331921,34.175879],"type":"Point"}
+  "bbox": [
+    -103.331921,
+    34.175879,
+    -103.331921,
+    34.175879
+],
+  "geometry": {"coordinates":[-103.33192099999999,34.175879],"type":"Point"}
 }

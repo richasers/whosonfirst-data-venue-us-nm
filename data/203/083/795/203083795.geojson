@@ -2,13 +2,14 @@
   "id": 203083795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.986271,32.805835,-105.986271,32.805835",
     "geom:latitude":32.805835,
     "geom:longitude":-105.986271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 2nd St",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203083795,
-    "wof:lastmodified":1449025816,
+    "wof:lastmodified":1466698494,
     "wof:name":"Premier Carpet & Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-105.986271,32.805835,-105.986271,32.805835],
+  "bbox": [
+    -105.986271,
+    32.805835,
+    -105.986271,
+    32.805835
+],
   "geometry": {"coordinates":[-105.986271,32.805835],"type":"Point"}
 }

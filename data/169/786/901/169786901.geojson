@@ -2,13 +2,14 @@
   "id": 169786901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.631912,35.220345,-106.631912,35.220345",
     "geom:latitude":35.220345,
     "geom:longitude":-106.631912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 W Meadowlark Ln",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169786901,
-    "wof:lastmodified":1449033115,
+    "wof:lastmodified":1466698413,
     "wof:name":"Cido",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.631912,35.220345,-106.631912,35.220345],
+  "bbox": [
+    -106.631912,
+    35.220345,
+    -106.631912,
+    35.220345
+],
   "geometry": {"coordinates":[-106.631912,35.220345],"type":"Point"}
 }

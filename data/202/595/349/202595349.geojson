@@ -2,13 +2,14 @@
   "id": 202595349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960663,32.917695,-105.960663,32.917695",
     "geom:latitude":32.917695,
     "geom:longitude":-105.960663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 N White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202595349,
-    "wof:lastmodified":1449062402,
+    "wof:lastmodified":1466698315,
     "wof:name":"Andersons Express Lane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-105.960663,32.917695,-105.960663,32.917695],
+  "bbox": [
+    -105.960663,
+    32.917695,
+    -105.960663,
+    32.917695
+],
   "geometry": {"coordinates":[-105.960663,32.917695],"type":"Point"}
 }

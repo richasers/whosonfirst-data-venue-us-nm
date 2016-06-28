@@ -2,13 +2,14 @@
   "id": 185597953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.517307,35.181349,-106.517307,35.181349",
     "geom:latitude":35.181349,
     "geom:longitude":-106.517307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11120 Wilshire Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185597953,
-    "wof:lastmodified":1449008169,
+    "wof:lastmodified":1466697620,
     "wof:name":"All Makes Laundry & Dry Clnng",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "laundry"
     ]
 },
-  "bbox": [-106.517307,35.181349,-106.517307,35.181349],
+  "bbox": [
+    -106.517307,
+    35.181349,
+    -106.517307,
+    35.181349
+],
   "geometry": {"coordinates":[-106.517307,35.181349],"type":"Point"}
 }

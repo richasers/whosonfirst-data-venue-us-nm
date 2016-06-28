@@ -2,13 +2,14 @@
   "id": 203006095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.516266,35.07506,-106.516266,35.07506",
     "geom:latitude":35.07506,
     "geom:longitude":-106.516266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Muriel St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203006095,
-    "wof:lastmodified":1449026465,
+    "wof:lastmodified":1466697643,
     "wof:name":"Dave's Paint & Body",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-106.516266,35.07506,-106.516266,35.07506],
+  "bbox": [
+    -106.516266,
+    35.07506,
+    -106.516266,
+    35.07506
+],
   "geometry": {"coordinates":[-106.516266,35.07506],"type":"Point"}
 }

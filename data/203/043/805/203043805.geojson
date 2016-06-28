@@ -2,13 +2,14 @@
   "id": 203043805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.505411,35.143648,-106.505411,35.143648",
     "geom:latitude":35.143648,
     "geom:longitude":-106.505411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5508 Cam Sandia NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203043805,
-    "wof:lastmodified":1449026376,
+    "wof:lastmodified":1466698074,
     "wof:name":"Insurance Plans Unlimited",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.505411,35.143648,-106.505411,35.143648],
+  "bbox": [
+    -106.505411,
+    35.143648,
+    -106.505411,
+    35.143648
+],
   "geometry": {"coordinates":[-106.505411,35.143648],"type":"Point"}
 }

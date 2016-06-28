@@ -2,13 +2,14 @@
   "id": 202733097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.224503,34.425323,-103.224503,34.425323",
     "geom:latitude":34.425323,
     "geom:longitude":-103.224503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 Sunland Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202733097,
-    "wof:lastmodified":1449060456,
+    "wof:lastmodified":1466699825,
     "wof:name":"Sheila A Worch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sales"
     ]
 },
-  "bbox": [-103.224503,34.425323,-103.224503,34.425323],
+  "bbox": [
+    -103.224503,
+    34.425323,
+    -103.224503,
+    34.425323
+],
   "geometry": {"coordinates":[-103.224503,34.425323],"type":"Point"}
 }

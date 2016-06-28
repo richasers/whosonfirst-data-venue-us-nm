@@ -2,13 +2,14 @@
   "id": 169849447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.964765,35.662221,-105.964765,35.662221",
     "geom:latitude":35.662221,
     "geom:longitude":-105.964765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W San Mateo Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169849447,
-    "wof:lastmodified":1449033300,
+    "wof:lastmodified":1466698886,
     "wof:name":"LA Calandria Assoc",
     "wof:parent_id":85880811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-105.964765,35.662221,-105.964765,35.662221],
+  "bbox": [
+    -105.964765,
+    35.662221,
+    -105.964765,
+    35.662221
+],
   "geometry": {"coordinates":[-105.964765,35.662221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202971637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.353523,35.146893,-106.353523,35.146893",
     "geom:latitude":35.146893,
     "geom:longitude":-106.353523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Fir Loop",
     "sg:city":"Cedar Crest",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202971637,
-    "wof:lastmodified":1449061403,
+    "wof:lastmodified":1466700546,
     "wof:name":"Thomas A Tyma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.353523,35.146893,-106.353523,35.146893],
+  "bbox": [
+    -106.353523,
+    35.146893,
+    -106.353523,
+    35.146893
+],
   "geometry": {"coordinates":[-106.353523,35.146893],"type":"Point"}
 }

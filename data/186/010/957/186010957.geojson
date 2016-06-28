@@ -2,13 +2,14 @@
   "id": 186010957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.258274,32.429409,-104.258274,32.429409",
     "geom:latitude":32.429409,
     "geom:longitude":-104.258274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 N 8th St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186010957,
-    "wof:lastmodified":1449052038,
+    "wof:lastmodified":1466697816,
     "wof:name":"Sepco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-104.258274,32.429409,-104.258274,32.429409],
+  "bbox": [
+    -104.258274,
+    32.429409,
+    -104.258274,
+    32.429409
+],
   "geometry": {"coordinates":[-104.258274,32.429409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202652999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.681852,35.044466,-106.681852,35.044466",
     "geom:latitude":35.044466,
     "geom:longitude":-106.681852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 Centro Familiar Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202652999,
-    "wof:lastmodified":1449061731,
+    "wof:lastmodified":1466699179,
     "wof:name":"Youth Development Inc",
     "wof:parent_id":85892585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-106.681852,35.044466,-106.681852,35.044466],
-  "geometry": {"coordinates":[-106.681852,35.044466],"type":"Point"}
+  "bbox": [
+    -106.681852,
+    35.044466,
+    -106.681852,
+    35.044466
+],
+  "geometry": {"coordinates":[-106.68185200000001,35.044466],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186119971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.15296,36.760467,-108.15296,36.760467",
     "geom:latitude":36.760467,
     "geom:longitude":-108.15296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3312 Washington Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186119971,
-    "wof:lastmodified":1449052278,
+    "wof:lastmodified":1466699106,
     "wof:name":"Farmington Welding Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.15296,36.760467,-108.15296,36.760467],
-  "geometry": {"coordinates":[-108.15296,36.760467],"type":"Point"}
+  "bbox": [
+    -108.15296,
+    36.760467,
+    -108.15296,
+    36.760467
+],
+  "geometry": {"coordinates":[-108.15295999999999,36.760467],"type":"Point"}
 }

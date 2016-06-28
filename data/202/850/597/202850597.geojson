@@ -2,13 +2,14 @@
   "id": 202850597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.121617,32.775581,-103.121617,32.775581",
     "geom:latitude":32.775581,
     "geom:longitude":-103.121617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 E Linda Ln",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202850597,
-    "wof:lastmodified":1449061582,
+    "wof:lastmodified":1466700058,
     "wof:name":"Lester's Custom Cabinet Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "custom"
     ]
 },
-  "bbox": [-103.121617,32.775581,-103.121617,32.775581],
+  "bbox": [
+    -103.121617,
+    32.775581,
+    -103.121617,
+    32.775581
+],
   "geometry": {"coordinates":[-103.121617,32.775581],"type":"Point"}
 }

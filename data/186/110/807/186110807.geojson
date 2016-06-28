@@ -2,13 +2,14 @@
   "id": 186110807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.695582,33.334796,-105.695582,33.334796",
     "geom:latitude":33.334796,
     "geom:longitude":-105.695582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Mountain Breeze Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186110807,
-    "wof:lastmodified":1449051274,
+    "wof:lastmodified":1466699023,
     "wof:name":"Forest Home Cabins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-105.695582,33.334796,-105.695582,33.334796],
+  "bbox": [
+    -105.695582,
+    33.334796,
+    -105.695582,
+    33.334796
+],
   "geometry": {"coordinates":[-105.695582,33.334796],"type":"Point"}
 }

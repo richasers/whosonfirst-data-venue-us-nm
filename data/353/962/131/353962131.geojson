@@ -2,13 +2,14 @@
   "id": 353962131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.701622,35.155463,-106.701622,35.155463",
     "geom:latitude":35.155463,
     "geom:longitude":-106.701622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6317 Kearney Trl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353962131,
-    "wof:lastmodified":1449019770,
+    "wof:lastmodified":1466698803,
     "wof:name":"Electrcal Communications Contr",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-106.701622,35.155463,-106.701622,35.155463],
+  "bbox": [
+    -106.701622,
+    35.155463,
+    -106.701622,
+    35.155463
+],
   "geometry": {"coordinates":[-106.701622,35.155463],"type":"Point"}
 }

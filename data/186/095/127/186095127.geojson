@@ -2,13 +2,14 @@
   "id": 186095127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.603192,35.116603,-106.603192,35.116603",
     "geom:latitude":35.116603,
     "geom:longitude":-106.603192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3615 Candelaria Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":186095127,
-    "wof:lastmodified":1449051733,
+    "wof:lastmodified":1466698826,
     "wof:name":"Las Manitas Learning Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.603192,35.116603,-106.603192,35.116603],
-  "geometry": {"coordinates":[-106.603192,35.116603],"type":"Point"}
+  "bbox": [
+    -106.603192,
+    35.116603,
+    -106.603192,
+    35.116603
+],
+  "geometry": {"coordinates":[-106.60319200000001,35.116603],"type":"Point"}
 }

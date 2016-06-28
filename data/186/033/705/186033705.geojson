@@ -2,13 +2,14 @@
   "id": 186033705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.351099,36.733965,-108.351099,36.733965",
     "geom:latitude":36.733965,
     "geom:longitude":-108.351099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"543 Rd 6100",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186033705,
-    "wof:lastmodified":1449050959,
+    "wof:lastmodified":1466698060,
     "wof:name":"Enchanted Nail & Hair Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.351099,36.733965,-108.351099,36.733965],
+  "bbox": [
+    -108.351099,
+    36.733965,
+    -108.351099,
+    36.733965
+],
   "geometry": {"coordinates":[-108.351099,36.733965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186499411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.685617,34.941503,-104.685617,34.941503",
     "geom:latitude":34.941503,
     "geom:longitude":-104.685617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Corona Ave",
     "sg:city":"Santa Rosa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186499411,
-    "wof:lastmodified":1449050913,
+    "wof:lastmodified":1466700220,
     "wof:name":"Plateau Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-104.685617,34.941503,-104.685617,34.941503],
-  "geometry": {"coordinates":[-104.685617,34.941503],"type":"Point"}
+  "bbox": [
+    -104.685617,
+    34.941503,
+    -104.685617,
+    34.941503
+],
+  "geometry": {"coordinates":[-104.68561699999999,34.941503],"type":"Point"}
 }

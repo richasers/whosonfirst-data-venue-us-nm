@@ -2,13 +2,14 @@
   "id": 186081459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.1946,36.732191,-108.1946,36.732191",
     "geom:latitude":36.732191,
     "geom:longitude":-108.1946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186081459,
-    "wof:lastmodified":1449051209,
+    "wof:lastmodified":1466698645,
     "wof:name":"San Juan Signs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sign"
     ]
 },
-  "bbox": [-108.1946,36.732191,-108.1946,36.732191],
-  "geometry": {"coordinates":[-108.1946,36.732191],"type":"Point"}
+  "bbox": [
+    -108.1946,
+    36.732191,
+    -108.1946,
+    36.732191
+],
+  "geometry": {"coordinates":[-108.19459999999999,36.732191],"type":"Point"}
 }

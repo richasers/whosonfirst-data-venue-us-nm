@@ -2,13 +2,14 @@
   "id": 186445373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.162298,32.741773,-103.162298,32.741773",
     "geom:latitude":32.741773,
     "geom:longitude":-103.162298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4018 N Lovington Hwy",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186445373,
-    "wof:lastmodified":1449050690,
+    "wof:lastmodified":1466700020,
     "wof:name":"Pro-Treat Weed & Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.162298,32.741773,-103.162298,32.741773],
-  "geometry": {"coordinates":[-103.162298,32.741773],"type":"Point"}
+  "bbox": [
+    -103.162298,
+    32.741773,
+    -103.162298,
+    32.741773
+],
+  "geometry": {"coordinates":[-103.16229800000001,32.741773],"type":"Point"}
 }

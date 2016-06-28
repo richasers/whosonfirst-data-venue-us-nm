@@ -2,13 +2,14 @@
   "id": 202874905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.930247,35.680566,-105.930247,35.680566",
     "geom:latitude":35.680566,
     "geom:longitude":-105.930247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Cll Corvo",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202874905,
-    "wof:lastmodified":1449062481,
+    "wof:lastmodified":1466700265,
     "wof:name":"Bonhams & Butterfields",
     "wof:parent_id":85880803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-105.930247,35.680566,-105.930247,35.680566],
-  "geometry": {"coordinates":[-105.930247,35.680566],"type":"Point"}
+  "bbox": [
+    -105.930247,
+    35.680566,
+    -105.930247,
+    35.680566
+],
+  "geometry": {"coordinates":[-105.93024699999999,35.680566],"type":"Point"}
 }

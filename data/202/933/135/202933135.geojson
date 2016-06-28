@@ -2,13 +2,14 @@
   "id": 202933135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.730337,34.584474,-106.730337,34.584474",
     "geom:latitude":34.584474,
     "geom:longitude":-106.730337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Sonnenberg Loop",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202933135,
-    "wof:lastmodified":1449060629,
+    "wof:lastmodified":1466700490,
     "wof:name":"Leo & Chris Landscaping",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.730337,34.584474,-106.730337,34.584474],
-  "geometry": {"coordinates":[-106.730337,34.584474],"type":"Point"}
+  "bbox": [
+    -106.730337,
+    34.584474,
+    -106.730337,
+    34.584474
+],
+  "geometry": {"coordinates":[-106.73033700000001,34.584474],"type":"Point"}
 }

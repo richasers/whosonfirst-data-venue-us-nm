@@ -2,13 +2,14 @@
   "id": 202376219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.849183,32.302598,-106.849183,32.302598",
     "geom:latitude":32.302598,
     "geom:longitude":-106.849183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4619 W Picacho Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202376219,
-    "wof:lastmodified":1449060977,
+    "wof:lastmodified":1466697624,
     "wof:name":"E & R Roofing Co",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.849183,32.302598,-106.849183,32.302598],
+  "bbox": [
+    -106.849183,
+    32.302598,
+    -106.849183,
+    32.302598
+],
   "geometry": {"coordinates":[-106.849183,32.302598],"type":"Point"}
 }

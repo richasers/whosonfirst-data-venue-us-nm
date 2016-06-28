@@ -2,13 +2,14 @@
   "id": 203111751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.609917,35.082129,-106.609917,35.082129",
     "geom:latitude":35.082129,
     "geom:longitude":-106.609917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Bryn Mawr Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203111751,
-    "wof:lastmodified":1449026902,
+    "wof:lastmodified":1466698885,
     "wof:name":"Wayne Scheiner & Co",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-106.609917,35.082129,-106.609917,35.082129],
+  "bbox": [
+    -106.609917,
+    35.082129,
+    -106.609917,
+    35.082129
+],
   "geometry": {"coordinates":[-106.609917,35.082129],"type":"Point"}
 }

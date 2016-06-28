@@ -2,13 +2,14 @@
   "id": 169821353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.154465,32.66913,-107.154465,32.66913",
     "geom:latitude":32.66913,
     "geom:longitude":-107.154465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Wilson St",
     "sg:city":"Hatch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169821353,
-    "wof:lastmodified":1449034488,
+    "wof:lastmodified":1466698752,
     "wof:name":"Citizen Newspaper",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-107.154465,32.66913,-107.154465,32.66913],
+  "bbox": [
+    -107.154465,
+    32.66913,
+    -107.154465,
+    32.66913
+],
   "geometry": {"coordinates":[-107.154465,32.66913],"type":"Point"}
 }

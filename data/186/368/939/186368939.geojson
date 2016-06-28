@@ -2,13 +2,14 @@
   "id": 186368939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.651027,35.080367,-106.651027,35.080367",
     "geom:latitude":35.080367,
     "geom:longitude":-106.651027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Coal Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":186368939,
-    "wof:lastmodified":1449051018,
+    "wof:lastmodified":1466699603,
     "wof:name":"Keshet Dance Co Inc",
     "wof:parent_id":85871877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "membership"
     ]
 },
-  "bbox": [-106.651027,35.080367,-106.651027,35.080367],
+  "bbox": [
+    -106.651027,
+    35.080367,
+    -106.651027,
+    35.080367
+],
   "geometry": {"coordinates":[-106.651027,35.080367],"type":"Point"}
 }

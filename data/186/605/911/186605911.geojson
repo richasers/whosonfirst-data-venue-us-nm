@@ -2,13 +2,14 @@
   "id": 186605911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.951322,32.906559,-105.951322,32.906559",
     "geom:latitude":32.906559,
     "geom:longitude":-105.951322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Alaska Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186605911,
-    "wof:lastmodified":1449051680,
+    "wof:lastmodified":1466700652,
     "wof:name":"Lightnin Lectric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.951322,32.906559,-105.951322,32.906559],
+  "bbox": [
+    -105.951322,
+    32.906559,
+    -105.951322,
+    32.906559
+],
   "geometry": {"coordinates":[-105.951322,32.906559],"type":"Point"}
 }

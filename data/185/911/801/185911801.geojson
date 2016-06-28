@@ -2,13 +2,14 @@
   "id": 185911801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.412742,32.832551,-104.412742,32.832551",
     "geom:latitude":32.832551,
     "geom:longitude":-104.412742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 S 13th St",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185911801,
-    "wof:lastmodified":1449007971,
+    "wof:lastmodified":1466698683,
     "wof:name":"Artesia Clearview Glass",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-104.412742,32.832551,-104.412742,32.832551],
-  "geometry": {"coordinates":[-104.412742,32.832551],"type":"Point"}
+  "bbox": [
+    -104.412742,
+    32.832551,
+    -104.412742,
+    32.832551
+],
+  "geometry": {"coordinates":[-104.41274199999999,32.832551],"type":"Point"}
 }

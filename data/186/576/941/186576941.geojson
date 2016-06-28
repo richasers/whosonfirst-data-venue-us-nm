@@ -2,13 +2,14 @@
   "id": 186576941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.770818,32.343252,-106.770818,32.343252",
     "geom:latitude":32.343252,
     "geom:longitude":-106.770818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1922 Bentley Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186576941,
-    "wof:lastmodified":1449052383,
+    "wof:lastmodified":1466700668,
     "wof:name":"Korzan Oils",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.770818,32.343252,-106.770818,32.343252],
-  "geometry": {"coordinates":[-106.770818,32.343252],"type":"Point"}
+  "bbox": [
+    -106.770818,
+    32.343252,
+    -106.770818,
+    32.343252
+],
+  "geometry": {"coordinates":[-106.77081800000001,32.343252],"type":"Point"}
 }

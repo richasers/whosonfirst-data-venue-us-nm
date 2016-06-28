@@ -2,13 +2,14 @@
   "id": 169775993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.96846,35.654336,-105.96846,35.654336",
     "geom:latitude":35.654336,
     "geom:longitude":-105.96846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1956 Thomas Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169775993,
-    "wof:lastmodified":1449035117,
+    "wof:lastmodified":1466698321,
     "wof:name":"Clear View Window Washing",
     "wof:parent_id":85880809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-105.96846,35.654336,-105.96846,35.654336],
-  "geometry": {"coordinates":[-105.96846,35.654336],"type":"Point"}
+  "bbox": [
+    -105.96846,
+    35.654336,
+    -105.96846,
+    35.654336
+],
+  "geometry": {"coordinates":[-105.96845999999999,35.654336],"type":"Point"}
 }

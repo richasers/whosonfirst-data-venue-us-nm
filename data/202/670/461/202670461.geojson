@@ -2,13 +2,14 @@
   "id": 202670461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.641735,35.098994,-106.641735,35.098994",
     "geom:latitude":35.098994,
     "geom:longitude":-106.641735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Broadway Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202670461,
-    "wof:lastmodified":1449060483,
+    "wof:lastmodified":1466699645,
     "wof:name":"Ruan Transport",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-106.641735,35.098994,-106.641735,35.098994],
+  "bbox": [
+    -106.641735,
+    35.098994,
+    -106.641735,
+    35.098994
+],
   "geometry": {"coordinates":[-106.641735,35.098994],"type":"Point"}
 }

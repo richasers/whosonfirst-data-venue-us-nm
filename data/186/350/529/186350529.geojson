@@ -2,13 +2,14 @@
   "id": 186350529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.749701,34.677267,-106.749701,34.677267",
     "geom:latitude":34.677267,
     "geom:longitude":-106.749701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Padilla Rd",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186350529,
-    "wof:lastmodified":1449051735,
+    "wof:lastmodified":1466699678,
     "wof:name":"Dawn To Dusk Pilot Car Svc",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pilot"
     ]
 },
-  "bbox": [-106.749701,34.677267,-106.749701,34.677267],
+  "bbox": [
+    -106.749701,
+    34.677267,
+    -106.749701,
+    34.677267
+],
   "geometry": {"coordinates":[-106.749701,34.677267],"type":"Point"}
 }

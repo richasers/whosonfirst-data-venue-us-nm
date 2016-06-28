@@ -2,13 +2,14 @@
   "id": 202651729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.600896,35.118879,-106.600896,35.118879",
     "geom:latitude":35.118879,
     "geom:longitude":-106.600896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3025 Morningside Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":202651729,
-    "wof:lastmodified":1449060611,
+    "wof:lastmodified":1466699161,
     "wof:name":"Jones Home Warranties/Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.600896,35.118879,-106.600896,35.118879],
-  "geometry": {"coordinates":[-106.600896,35.118879],"type":"Point"}
+  "bbox": [
+    -106.600896,
+    35.118879,
+    -106.600896,
+    35.118879
+],
+  "geometry": {"coordinates":[-106.60089600000001,35.118879],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202669663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.624266,35.072378,-106.624266,35.072378",
     "geom:latitude":35.072378,
     "geom:longitude":-106.624266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"961 Buena Vista Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202669663,
-    "wof:lastmodified":1449060397,
+    "wof:lastmodified":1466699489,
     "wof:name":"University Of New Mexico",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "school"
     ]
 },
-  "bbox": [-106.624266,35.072378,-106.624266,35.072378],
-  "geometry": {"coordinates":[-106.624266,35.072378],"type":"Point"}
+  "bbox": [
+    -106.624266,
+    35.072378,
+    -106.624266,
+    35.072378
+],
+  "geometry": {"coordinates":[-106.62426600000001,35.072378],"type":"Point"}
 }

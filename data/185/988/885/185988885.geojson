@@ -2,13 +2,14 @@
   "id": 185988885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.022931,35.899681,-106.022931,35.899681",
     "geom:latitude":35.899681,
     "geom:longitude":-106.022931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Herrera Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185988885,
-    "wof:lastmodified":1449007146,
+    "wof:lastmodified":1466699817,
     "wof:name":"Pojoaque Builders",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-106.022931,35.899681,-106.022931,35.899681],
+  "bbox": [
+    -106.022931,
+    35.899681,
+    -106.022931,
+    35.899681
+],
   "geometry": {"coordinates":[-106.022931,35.899681],"type":"Point"}
 }

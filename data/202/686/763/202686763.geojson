@@ -2,13 +2,14 @@
   "id": 202686763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.402142,32.842128,-104.402142,32.842128",
     "geom:latitude":32.842128,
     "geom:longitude":-104.402142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 W Main St",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202686763,
-    "wof:lastmodified":1449062041,
+    "wof:lastmodified":1466699550,
     "wof:name":"Spec & Co",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-104.402142,32.842128,-104.402142,32.842128],
+  "bbox": [
+    -104.402142,
+    32.842128,
+    -104.402142,
+    32.842128
+],
   "geometry": {"coordinates":[-104.402142,32.842128],"type":"Point"}
 }

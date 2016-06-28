@@ -2,13 +2,14 @@
   "id": 186039875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.792478,32.339632,-106.792478,32.339632",
     "geom:latitude":32.339632,
     "geom:longitude":-106.792478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3150 el Camino Real",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186039875,
-    "wof:lastmodified":1449052681,
+    "wof:lastmodified":1466698130,
     "wof:name":"Chavezs Day Care Center",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.792478,32.339632,-106.792478,32.339632],
+  "bbox": [
+    -106.792478,
+    32.339632,
+    -106.792478,
+    32.339632
+],
   "geometry": {"coordinates":[-106.792478,32.339632],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169825939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.959113,32.891689,-105.959113,32.891689",
     "geom:latitude":32.891689,
     "geom:longitude":-105.959113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 New York Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169825939,
-    "wof:lastmodified":1449032816,
+    "wof:lastmodified":1466698773,
     "wof:name":"Sam's Automotive Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.959113,32.891689,-105.959113,32.891689],
+  "bbox": [
+    -105.959113,
+    32.891689,
+    -105.959113,
+    32.891689
+],
   "geometry": {"coordinates":[-105.959113,32.891689],"type":"Point"}
 }

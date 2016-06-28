@@ -2,13 +2,14 @@
   "id": 186572865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.596909,35.115919,-106.596909,35.115919",
     "geom:latitude":35.115919,
     "geom:longitude":-106.596909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2932 Graceland Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":186572865,
-    "wof:lastmodified":1449052001,
+    "wof:lastmodified":1466700547,
     "wof:name":"Lawson Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-106.596909,35.115919,-106.596909,35.115919],
+  "bbox": [
+    -106.596909,
+    35.115919,
+    -106.596909,
+    35.115919
+],
   "geometry": {"coordinates":[-106.596909,35.115919],"type":"Point"}
 }

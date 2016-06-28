@@ -2,13 +2,14 @@
   "id": 185743417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.619961,35.2463,-106.619961,35.2463",
     "geom:latitude":35.2463,
     "geom:longitude":-106.619961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Cam Rayo del Sol",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185743417,
-    "wof:lastmodified":1449008191,
+    "wof:lastmodified":1466699087,
     "wof:name":"Valentin Varela MGT Svcs",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "human"
     ]
 },
-  "bbox": [-106.619961,35.2463,-106.619961,35.2463],
+  "bbox": [
+    -106.619961,
+    35.2463,
+    -106.619961,
+    35.2463
+],
   "geometry": {"coordinates":[-106.619961,35.2463],"type":"Point"}
 }

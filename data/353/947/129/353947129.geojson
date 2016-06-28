@@ -2,13 +2,14 @@
   "id": 353947129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604202,35.101109,-106.604202,35.101109",
     "geom:latitude":35.101109,
     "geom:longitude":-106.604202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Carlisle Blvd NE C",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353947129,
-    "wof:lastmodified":1449020090,
+    "wof:lastmodified":1466698484,
     "wof:name":"Maccornack Engineering",
     "wof:parent_id":85871899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [-106.604202,35.101109,-106.604202,35.101109],
+  "bbox": [
+    -106.604202,
+    35.101109,
+    -106.604202,
+    35.101109
+],
   "geometry": {"coordinates":[-106.604202,35.101109],"type":"Point"}
 }

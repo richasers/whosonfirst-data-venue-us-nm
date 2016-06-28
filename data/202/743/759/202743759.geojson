@@ -2,13 +2,14 @@
   "id": 202743759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.984287,35.661574,-105.984287,35.661574",
     "geom:latitude":35.661574,
     "geom:longitude":-105.984287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 Maclovia St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202743759,
-    "wof:lastmodified":1449062629,
+    "wof:lastmodified":1466699761,
     "wof:name":"Photography-Mary C Fredenburgh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [-105.984287,35.661574,-105.984287,35.661574],
-  "geometry": {"coordinates":[-105.984287,35.661574],"type":"Point"}
+  "bbox": [
+    -105.984287,
+    35.661574,
+    -105.984287,
+    35.661574
+],
+  "geometry": {"coordinates":[-105.98428699999999,35.661574],"type":"Point"}
 }

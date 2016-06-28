@@ -2,13 +2,14 @@
   "id": 186583737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.526838,35.069326,-106.526838,35.069326",
     "geom:latitude":35.069326,
     "geom:longitude":-106.526838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10922 Acoma Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186583737,
-    "wof:lastmodified":1449052445,
+    "wof:lastmodified":1466700468,
     "wof:name":"Excel Screen Printing",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-106.526838,35.069326,-106.526838,35.069326],
+  "bbox": [
+    -106.526838,
+    35.069326,
+    -106.526838,
+    35.069326
+],
   "geometry": {"coordinates":[-106.526838,35.069326],"type":"Point"}
 }

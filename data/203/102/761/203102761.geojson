@@ -2,13 +2,14 @@
   "id": 203102761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.741168,36.266007,-107.741168,36.266007",
     "geom:latitude":36.266007,
     "geom:longitude":-107.741168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11577 US Hwy 550",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203102761,
-    "wof:lastmodified":1449026730,
+    "wof:lastmodified":1466698753,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.741168,36.266007,-107.741168,36.266007],
+  "bbox": [
+    -107.741168,
+    36.266007,
+    -107.741168,
+    36.266007
+],
   "geometry": {"coordinates":[-107.741168,36.266007],"type":"Point"}
 }

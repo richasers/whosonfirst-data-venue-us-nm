@@ -2,13 +2,14 @@
   "id": 186464035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.783672,32.32766,-106.783672,32.32766",
     "geom:latitude":32.32766,
     "geom:longitude":-106.783672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 N Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186464035,
-    "wof:lastmodified":1449051107,
+    "wof:lastmodified":1466700226,
     "wof:name":"In Princess Drive",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.783672,32.32766,-106.783672,32.32766],
+  "bbox": [
+    -106.783672,
+    32.32766,
+    -106.783672,
+    32.32766
+],
   "geometry": {"coordinates":[-106.783672,32.32766],"type":"Point"}
 }

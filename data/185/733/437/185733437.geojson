@@ -2,13 +2,14 @@
   "id": 185733437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.605707,35.079139,-106.605707,35.079139",
     "geom:latitude":35.079139,
     "geom:longitude":-106.605707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Amherst Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185733437,
-    "wof:lastmodified":1449006827,
+    "wof:lastmodified":1466699011,
     "wof:name":"Lilly's",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.605707,35.079139,-106.605707,35.079139],
+  "bbox": [
+    -106.605707,
+    35.079139,
+    -106.605707,
+    35.079139
+],
   "geometry": {"coordinates":[-106.605707,35.079139],"type":"Point"}
 }

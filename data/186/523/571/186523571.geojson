@@ -2,13 +2,14 @@
   "id": 186523571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.967081,35.64052,-105.967081,35.64052",
     "geom:latitude":35.64052,
     "geom:longitude":-105.967081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2702 Pso de Canto",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186523571,
-    "wof:lastmodified":1449051931,
+    "wof:lastmodified":1466700310,
     "wof:name":"HDNM Entertainment LLC",
     "wof:parent_id":85880775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-105.967081,35.64052,-105.967081,35.64052],
-  "geometry": {"coordinates":[-105.967081,35.64052],"type":"Point"}
+  "bbox": [
+    -105.967081,
+    35.64052,
+    -105.967081,
+    35.64052
+],
+  "geometry": {"coordinates":[-105.96708099999999,35.64052],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185865013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.656075,35.074847,-106.656075,35.074847",
     "geom:latitude":35.074847,
     "geom:longitude":-106.656075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Barelas St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185865013,
-    "wof:lastmodified":1449007827,
+    "wof:lastmodified":1466698162,
     "wof:name":"Iglesia Cristiana Monte Se Sio",
     "wof:parent_id":85804483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.656075,35.074847,-106.656075,35.074847],
+  "bbox": [
+    -106.656075,
+    35.074847,
+    -106.656075,
+    35.074847
+],
   "geometry": {"coordinates":[-106.656075,35.074847],"type":"Point"}
 }

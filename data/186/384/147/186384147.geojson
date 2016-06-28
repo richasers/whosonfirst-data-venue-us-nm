@@ -2,13 +2,14 @@
   "id": 186384147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.523038,33.346746,-104.523038,33.346746",
     "geom:latitude":33.346746,
     "geom:longitude":-104.523038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3911 S Main St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186384147,
-    "wof:lastmodified":1449050629,
+    "wof:lastmodified":1466699786,
     "wof:name":"Christmas By Krebs Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ball"
     ]
 },
-  "bbox": [-104.523038,33.346746,-104.523038,33.346746],
+  "bbox": [
+    -104.523038,
+    33.346746,
+    -104.523038,
+    33.346746
+],
   "geometry": {"coordinates":[-104.523038,33.346746],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169765279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.173615,36.740196,-108.173615,36.740196",
     "geom:latitude":36.740196,
     "geom:longitude":-108.173615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2522 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169765279,
-    "wof:lastmodified":1449034597,
+    "wof:lastmodified":1466698218,
     "wof:name":"Crispy LLC American Payroll",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "check"
     ]
 },
-  "bbox": [-108.173615,36.740196,-108.173615,36.740196],
+  "bbox": [
+    -108.173615,
+    36.740196,
+    -108.173615,
+    36.740196
+],
   "geometry": {"coordinates":[-108.173615,36.740196],"type":"Point"}
 }

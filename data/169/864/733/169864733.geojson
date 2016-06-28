@@ -2,13 +2,14 @@
   "id": 169864733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.007346,36.814951,-108.007346,36.814951",
     "geom:latitude":36.814951,
     "geom:longitude":-108.007346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Rd 3007",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169864733,
-    "wof:lastmodified":1449036010,
+    "wof:lastmodified":1466698981,
     "wof:name":"Pete's Plumbing & Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.007346,36.814951,-108.007346,36.814951],
+  "bbox": [
+    -108.007346,
+    36.814951,
+    -108.007346,
+    36.814951
+],
   "geometry": {"coordinates":[-108.007346,36.814951],"type":"Point"}
 }

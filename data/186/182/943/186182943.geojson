@@ -2,13 +2,14 @@
   "id": 186182943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.60847,35.118742,-106.60847,35.118742",
     "geom:latitude":35.118742,
     "geom:longitude":-106.60847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3224 Lafayette Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186182943,
-    "wof:lastmodified":1449052068,
+    "wof:lastmodified":1466697804,
     "wof:name":"Traasc Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "translation"
     ]
 },
-  "bbox": [-106.60847,35.118742,-106.60847,35.118742],
+  "bbox": [
+    -106.60847,
+    35.118742,
+    -106.60847,
+    35.118742
+],
   "geometry": {"coordinates":[-106.60847,35.118742],"type":"Point"}
 }

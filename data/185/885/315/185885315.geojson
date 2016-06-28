@@ -2,13 +2,14 @@
   "id": 185885315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.23701,32.719917,-107.23701,32.719917",
     "geom:latitude":32.719917,
     "geom:longitude":-107.23701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8720 State Rte 187",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185885315,
-    "wof:lastmodified":1449007482,
+    "wof:lastmodified":1466698372,
     "wof:name":"Big River Partnership Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-107.23701,32.719917,-107.23701,32.719917],
+  "bbox": [
+    -107.23701,
+    32.719917,
+    -107.23701,
+    32.719917
+],
   "geometry": {"coordinates":[-107.23701,32.719917],"type":"Point"}
 }

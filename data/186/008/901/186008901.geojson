@@ -2,13 +2,14 @@
   "id": 186008901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.968007,35.66717,-105.968007,35.66717",
     "geom:latitude":35.66717,
     "geom:longitude":-105.968007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1523 Taos St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186008901,
-    "wof:lastmodified":1449051222,
+    "wof:lastmodified":1466697796,
     "wof:name":"Drafting Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "designer"
     ]
 },
-  "bbox": [-105.968007,35.66717,-105.968007,35.66717],
+  "bbox": [
+    -105.968007,
+    35.66717,
+    -105.968007,
+    35.66717
+],
   "geometry": {"coordinates":[-105.968007,35.66717],"type":"Point"}
 }

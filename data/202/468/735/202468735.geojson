@@ -2,13 +2,14 @@
   "id": 202468735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.600124,35.153386,-106.600124,35.153386",
     "geom:latitude":35.153386,
     "geom:longitude":-106.600124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6612 Gulton Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202468735,
-    "wof:lastmodified":1449061917,
+    "wof:lastmodified":1466698771,
     "wof:name":"Subia Vehical Graphics",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-106.600124,35.153386,-106.600124,35.153386],
-  "geometry": {"coordinates":[-106.600124,35.153386],"type":"Point"}
+  "bbox": [
+    -106.600124,
+    35.153386,
+    -106.600124,
+    35.153386
+],
+  "geometry": {"coordinates":[-106.60012399999999,35.153386],"type":"Point"}
 }

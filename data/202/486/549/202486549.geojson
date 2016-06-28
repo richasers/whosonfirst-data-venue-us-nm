@@ -2,13 +2,14 @@
   "id": 202486549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.732503,35.168656,-103.732503,35.168656",
     "geom:latitude":35.168656,
     "geom:longitude":-103.732503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 S 7th St",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202486549,
-    "wof:lastmodified":1449061519,
+    "wof:lastmodified":1466699026,
     "wof:name":"Tucumcari High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.732503,35.168656,-103.732503,35.168656],
-  "geometry": {"coordinates":[-103.732503,35.168656],"type":"Point"}
+  "bbox": [
+    -103.732503,
+    35.168656,
+    -103.732503,
+    35.168656
+],
+  "geometry": {"coordinates":[-103.73250299999999,35.168656],"type":"Point"}
 }

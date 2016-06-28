@@ -2,13 +2,14 @@
   "id": 185681327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.764611,32.307575,-106.764611,32.307575",
     "geom:latitude":32.307575,
     "geom:longitude":-106.764611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"675 S Solano Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185681327,
-    "wof:lastmodified":1449007601,
+    "wof:lastmodified":1466698433,
     "wof:name":"Proform Plastics",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plastic"
     ]
 },
-  "bbox": [-106.764611,32.307575,-106.764611,32.307575],
+  "bbox": [
+    -106.764611,
+    32.307575,
+    -106.764611,
+    32.307575
+],
   "geometry": {"coordinates":[-106.764611,32.307575],"type":"Point"}
 }

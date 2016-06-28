@@ -2,13 +2,14 @@
   "id": 185841453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613718,35.11306,-106.613718,35.11306",
     "geom:latitude":35.11306,
     "geom:longitude":-106.613718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2714 Girard Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":185841453,
-    "wof:lastmodified":1449006953,
+    "wof:lastmodified":1466697915,
     "wof:name":"Bel Air Paint & Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "painting"
     ]
 },
-  "bbox": [-106.613718,35.11306,-106.613718,35.11306],
-  "geometry": {"coordinates":[-106.613718,35.11306],"type":"Point"}
+  "bbox": [
+    -106.613718,
+    35.11306,
+    -106.613718,
+    35.11306
+],
+  "geometry": {"coordinates":[-106.61371800000001,35.11306],"type":"Point"}
 }

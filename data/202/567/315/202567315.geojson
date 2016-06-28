@@ -2,13 +2,14 @@
   "id": 202567315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.505884,33.335547,-104.505884,33.335547",
     "geom:latitude":33.335547,
     "geom:longitude":-104.505884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 SE Main St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202567315,
-    "wof:lastmodified":1449062667,
+    "wof:lastmodified":1466697899,
     "wof:name":"Roswell Home Furnishings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.505884,33.335547,-104.505884,33.335547],
-  "geometry": {"coordinates":[-104.505884,33.335547],"type":"Point"}
+  "bbox": [
+    -104.505884,
+    33.335547,
+    -104.505884,
+    33.335547
+],
+  "geometry": {"coordinates":[-104.50588399999999,33.335547],"type":"Point"}
 }

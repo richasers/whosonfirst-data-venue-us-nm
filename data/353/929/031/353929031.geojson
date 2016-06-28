@@ -2,13 +2,14 @@
   "id": 353929031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.621748,35.050588,-106.621748,35.050588",
     "geom:latitude":35.050588,
     "geom:longitude":-106.621748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2910 Yale Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":353929031,
-    "wof:lastmodified":1449019240,
+    "wof:lastmodified":1466697975,
     "wof:name":"Albuquerque Grand Airport Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "banquet"
     ]
 },
-  "bbox": [-106.621748,35.050588,-106.621748,35.050588],
+  "bbox": [
+    -106.621748,
+    35.050588,
+    -106.621748,
+    35.050588
+],
   "geometry": {"coordinates":[-106.621748,35.050588],"type":"Point"}
 }

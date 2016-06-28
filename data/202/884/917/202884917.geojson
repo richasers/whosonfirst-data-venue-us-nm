@@ -2,13 +2,14 @@
   "id": 202884917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.758853,35.542559,-108.758853,35.542559",
     "geom:latitude":35.542559,
     "geom:longitude":-108.758853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 US Hwy 491",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202884917,
-    "wof:lastmodified":1449062182,
+    "wof:lastmodified":1466700295,
     "wof:name":"Melrose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.758853,35.542559,-108.758853,35.542559],
+  "bbox": [
+    -108.758853,
+    35.542559,
+    -108.758853,
+    35.542559
+],
   "geometry": {"coordinates":[-108.758853,35.542559],"type":"Point"}
 }

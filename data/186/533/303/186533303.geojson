@@ -2,13 +2,14 @@
   "id": 186533303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.745705,35.047071,-106.745705,35.047071",
     "geom:latitude":35.047071,
     "geom:longitude":-106.745705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1864 Tovar Pl SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186533303,
-    "wof:lastmodified":1449050210,
+    "wof:lastmodified":1466700333,
     "wof:name":"Sound Productions Mobile DJ",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-106.745705,35.047071,-106.745705,35.047071],
+  "bbox": [
+    -106.745705,
+    35.047071,
+    -106.745705,
+    35.047071
+],
   "geometry": {"coordinates":[-106.745705,35.047071],"type":"Point"}
 }

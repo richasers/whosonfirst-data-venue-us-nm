@@ -2,13 +2,14 @@
   "id": 202991491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.685828,35.11855,-106.685828,35.11855",
     "geom:latitude":35.11855,
     "geom:longitude":-106.685828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 el Toboso Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202991491,
-    "wof:lastmodified":1449060903,
+    "wof:lastmodified":1466700754,
     "wof:name":"James G Hughes",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-106.685828,35.11855,-106.685828,35.11855],
+  "bbox": [
+    -106.685828,
+    35.11855,
+    -106.685828,
+    35.11855
+],
   "geometry": {"coordinates":[-106.685828,35.11855],"type":"Point"}
 }

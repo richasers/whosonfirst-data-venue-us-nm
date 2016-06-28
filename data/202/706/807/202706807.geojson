@@ -2,13 +2,14 @@
   "id": 202706807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.702688,34.949432,-106.702688,34.949432",
     "geom:latitude":34.949432,
     "geom:longitude":-106.702688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7735 Black Mesa Loop SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202706807,
-    "wof:lastmodified":1449060291,
+    "wof:lastmodified":1466699627,
     "wof:name":"Shawn K Deasy P C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.702688,34.949432,-106.702688,34.949432],
-  "geometry": {"coordinates":[-106.702688,34.949432],"type":"Point"}
+  "bbox": [
+    -106.702688,
+    34.949432,
+    -106.702688,
+    34.949432
+],
+  "geometry": {"coordinates":[-106.70268799999999,34.949432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202966229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.948309,35.68976,-105.948309,35.68976",
     "geom:latitude":35.68976,
     "geom:longitude":-105.948309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"573 W San Francisco St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202966229,
-    "wof:lastmodified":1449060127,
+    "wof:lastmodified":1466700625,
     "wof:name":"Linda Schneider DC",
     "wof:parent_id":85880833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.948309,35.68976,-105.948309,35.68976],
-  "geometry": {"coordinates":[-105.948309,35.68976],"type":"Point"}
+  "bbox": [
+    -105.948309,
+    35.68976,
+    -105.948309,
+    35.68976
+],
+  "geometry": {"coordinates":[-105.94830899999999,35.68976],"type":"Point"}
 }

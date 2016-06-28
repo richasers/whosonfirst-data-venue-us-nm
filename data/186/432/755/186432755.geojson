@@ -2,13 +2,14 @@
   "id": 186432755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.719243,35.124876,-106.719243,35.124876",
     "geom:latitude":35.124876,
     "geom:longitude":-106.719243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7515 San Benito St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186432755,
-    "wof:lastmodified":1449050187,
+    "wof:lastmodified":1466699865,
     "wof:name":"Millennium Turf Agriculture",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.719243,35.124876,-106.719243,35.124876],
-  "geometry": {"coordinates":[-106.719243,35.124876],"type":"Point"}
+  "bbox": [
+    -106.719243,
+    35.124876,
+    -106.719243,
+    35.124876
+],
+  "geometry": {"coordinates":[-106.71924300000001,35.124876],"type":"Point"}
 }

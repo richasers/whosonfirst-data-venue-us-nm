@@ -2,13 +2,14 @@
   "id": 202860353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.721064,34.647463,-106.721064,34.647463",
     "geom:latitude":34.647463,
     "geom:longitude":-106.721064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Howell St",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202860353,
-    "wof:lastmodified":1449061251,
+    "wof:lastmodified":1466700315,
     "wof:name":"Rio Vending",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-106.721064,34.647463,-106.721064,34.647463],
+  "bbox": [
+    -106.721064,
+    34.647463,
+    -106.721064,
+    34.647463
+],
   "geometry": {"coordinates":[-106.721064,34.647463],"type":"Point"}
 }

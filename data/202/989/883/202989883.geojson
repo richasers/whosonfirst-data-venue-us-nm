@@ -2,13 +2,14 @@
   "id": 202989883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.382383,36.654947,-105.382383,36.654947",
     "geom:latitude":36.654947,
     "geom:longitude":-105.382383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Valley of the Pines Rd",
     "sg:city":"Red River",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202989883,
-    "wof:lastmodified":1449061959,
+    "wof:lastmodified":1466700655,
     "wof:name":"Mountain High Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.382383,36.654947,-105.382383,36.654947],
+  "bbox": [
+    -105.382383,
+    36.654947,
+    -105.382383,
+    36.654947
+],
   "geometry": {"coordinates":[-105.382383,36.654947],"type":"Point"}
 }

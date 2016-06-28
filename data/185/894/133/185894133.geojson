@@ -2,13 +2,14 @@
   "id": 185894133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.396972,32.86343,-104.396972,32.86343",
     "geom:latitude":32.86343,
     "geom:longitude":-104.396972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Ave A",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185894133,
-    "wof:lastmodified":1449007266,
+    "wof:lastmodified":1466698453,
     "wof:name":"Martin Supply",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-104.396972,32.86343,-104.396972,32.86343],
-  "geometry": {"coordinates":[-104.396972,32.86343],"type":"Point"}
+  "bbox": [
+    -104.396972,
+    32.86343,
+    -104.396972,
+    32.86343
+],
+  "geometry": {"coordinates":[-104.39697200000001,32.86343],"type":"Point"}
 }

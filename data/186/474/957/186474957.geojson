@@ -2,13 +2,14 @@
   "id": 186474957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.732643,34.716678,-106.732643,34.716678",
     "geom:latitude":34.716678,
     "geom:longitude":-106.732643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Antonio Ln",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186474957,
-    "wof:lastmodified":1449050388,
+    "wof:lastmodified":1466700268,
     "wof:name":"Rays Trenching & Excavating",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.732643,34.716678,-106.732643,34.716678],
+  "bbox": [
+    -106.732643,
+    34.716678,
+    -106.732643,
+    34.716678
+],
   "geometry": {"coordinates":[-106.732643,34.716678],"type":"Point"}
 }

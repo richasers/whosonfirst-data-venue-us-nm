@@ -2,13 +2,14 @@
   "id": 186093653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.012463,35.584958,-106.012463,35.584958",
     "geom:latitude":35.584958,
     "geom:longitude":-106.012463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Broken Rock Pl",
     "sg:city":"Chama",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186093653,
-    "wof:lastmodified":1449050256,
+    "wof:lastmodified":1466698826,
     "wof:name":"Red Cabin Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.012463,35.584958,-106.012463,35.584958],
+  "bbox": [
+    -106.012463,
+    35.584958,
+    -106.012463,
+    35.584958
+],
   "geometry": {"coordinates":[-106.012463,35.584958],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202834229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.495715,32.386121,-106.495715,32.386121",
     "geom:latitude":32.386121,
     "geom:longitude":-106.495715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Sergeant St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202834229,
-    "wof:lastmodified":1449060356,
+    "wof:lastmodified":1466700126,
     "wof:name":"Ike L Maddox",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biochemical"
     ]
 },
-  "bbox": [-106.495715,32.386121,-106.495715,32.386121],
+  "bbox": [
+    -106.495715,
+    32.386121,
+    -106.495715,
+    32.386121
+],
   "geometry": {"coordinates":[-106.495715,32.386121],"type":"Point"}
 }

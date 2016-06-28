@@ -2,13 +2,14 @@
   "id": 202906829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.711765,35.155496,-106.711765,35.155496",
     "geom:latitude":35.155496,
     "geom:longitude":-106.711765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 Kachina St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202906829,
-    "wof:lastmodified":1449061081,
+    "wof:lastmodified":1466700383,
     "wof:name":"Cutshall Realty & Investm",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.711765,35.155496,-106.711765,35.155496],
+  "bbox": [
+    -106.711765,
+    35.155496,
+    -106.711765,
+    35.155496
+],
   "geometry": {"coordinates":[-106.711765,35.155496],"type":"Point"}
 }

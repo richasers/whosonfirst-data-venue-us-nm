@@ -2,13 +2,14 @@
   "id": 202518013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.201695,36.728017,-108.201695,36.728017",
     "geom:latitude":36.728017,
     "geom:longitude":-108.201695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S Court Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202518013,
-    "wof:lastmodified":1449061537,
+    "wof:lastmodified":1466699466,
     "wof:name":"Garrison Graphics Inc Printers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-108.201695,36.728017,-108.201695,36.728017],
+  "bbox": [
+    -108.201695,
+    36.728017,
+    -108.201695,
+    36.728017
+],
   "geometry": {"coordinates":[-108.201695,36.728017],"type":"Point"}
 }

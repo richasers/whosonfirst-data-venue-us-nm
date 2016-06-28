@@ -2,13 +2,14 @@
   "id": 169864989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.086913,36.004701,-106.086913,36.004701",
     "geom:latitude":36.004701,
     "geom:longitude":-106.086913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 N Pso de Onate",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169864989,
-    "wof:lastmodified":1449036011,
+    "wof:lastmodified":1466698982,
     "wof:name":"Stop & Eat Drive-In",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-106.086913,36.004701,-106.086913,36.004701],
+  "bbox": [
+    -106.086913,
+    36.004701,
+    -106.086913,
+    36.004701
+],
   "geometry": {"coordinates":[-106.086913,36.004701],"type":"Point"}
 }

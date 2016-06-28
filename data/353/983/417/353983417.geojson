@@ -2,13 +2,14 @@
   "id": 353983417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.11516,34.392403,-103.11516,34.392403",
     "geom:latitude":34.392403,
     "geom:longitude":-103.11516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5800 Mabry Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":353983417,
-    "wof:lastmodified":1449020598,
+    "wof:lastmodified":1466699131,
     "wof:name":"Ray Lee Equipment Co LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "transport"
     ]
 },
-  "bbox": [-103.11516,34.392403,-103.11516,34.392403],
+  "bbox": [
+    -103.11516,
+    34.392403,
+    -103.11516,
+    34.392403
+],
   "geometry": {"coordinates":[-103.11516,34.392403],"type":"Point"}
 }

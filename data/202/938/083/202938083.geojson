@@ -2,13 +2,14 @@
   "id": 202938083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.548181,35.306298,-106.548181,35.306298",
     "geom:latitude":35.306298,
     "geom:longitude":-106.548181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Cam del Pueblo",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202938083,
-    "wof:lastmodified":1449061995,
+    "wof:lastmodified":1466700374,
     "wof:name":"Sandoval County Treasurer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [-106.548181,35.306298,-106.548181,35.306298],
+  "bbox": [
+    -106.548181,
+    35.306298,
+    -106.548181,
+    35.306298
+],
   "geometry": {"coordinates":[-106.548181,35.306298],"type":"Point"}
 }

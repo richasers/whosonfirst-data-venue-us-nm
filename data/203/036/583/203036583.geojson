@@ -2,13 +2,14 @@
   "id": 203036583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.699315,31.872143,-106.699315,31.872143",
     "geom:latitude":31.872143,
     "geom:longitude":-106.699315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 Airport Rd",
     "sg:city":"Santa Teresa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203036583,
-    "wof:lastmodified":1449025348,
+    "wof:lastmodified":1466697987,
     "wof:name":"Rogers Foam Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-106.699315,31.872143,-106.699315,31.872143],
+  "bbox": [
+    -106.699315,
+    31.872143,
+    -106.699315,
+    31.872143
+],
   "geometry": {"coordinates":[-106.699315,31.872143],"type":"Point"}
 }

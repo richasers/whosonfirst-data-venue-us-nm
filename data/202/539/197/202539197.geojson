@@ -2,13 +2,14 @@
   "id": 202539197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.60844,35.078998,-106.60844,35.078998",
     "geom:latitude":35.078998,
     "geom:longitude":-106.60844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3218 Silver Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202539197,
-    "wof:lastmodified":1449062717,
+    "wof:lastmodified":1466699301,
     "wof:name":"Eagles Unlimited",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.60844,35.078998,-106.60844,35.078998],
+  "bbox": [
+    -106.60844,
+    35.078998,
+    -106.60844,
+    35.078998
+],
   "geometry": {"coordinates":[-106.60844,35.078998],"type":"Point"}
 }

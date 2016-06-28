@@ -2,13 +2,14 @@
   "id": 186041777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.559878,35.079805,-106.559878,35.079805",
     "geom:latitude":35.079805,
     "geom:longitude":-106.559878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Dallas St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186041777,
-    "wof:lastmodified":1449051355,
+    "wof:lastmodified":1466698152,
     "wof:name":"Rice Tandy Painting & Drywall",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.559878,35.079805,-106.559878,35.079805],
+  "bbox": [
+    -106.559878,
+    35.079805,
+    -106.559878,
+    35.079805
+],
   "geometry": {"coordinates":[-106.559878,35.079805],"type":"Point"}
 }

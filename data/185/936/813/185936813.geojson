@@ -2,13 +2,14 @@
   "id": 185936813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.942879,35.672433,-105.942879,35.672433",
     "geom:latitude":35.672433,
     "geom:longitude":-105.942879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Don Gaspar Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185936813,
-    "wof:lastmodified":1449007132,
+    "wof:lastmodified":1466699032,
     "wof:name":"Albert Handell",
     "wof:parent_id":85880793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-105.942879,35.672433,-105.942879,35.672433],
+  "bbox": [
+    -105.942879,
+    35.672433,
+    -105.942879,
+    35.672433
+],
   "geometry": {"coordinates":[-105.942879,35.672433],"type":"Point"}
 }

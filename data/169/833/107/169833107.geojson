@@ -2,13 +2,14 @@
   "id": 169833107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.751375,32.247742,-107.751375,32.247742",
     "geom:latitude":32.247742,
     "geom:longitude":-107.751375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 Columbus Rd",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169833107,
-    "wof:lastmodified":1449033106,
+    "wof:lastmodified":1466698812,
     "wof:name":"B & D Outback Framing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-107.751375,32.247742,-107.751375,32.247742],
+  "bbox": [
+    -107.751375,
+    32.247742,
+    -107.751375,
+    32.247742
+],
   "geometry": {"coordinates":[-107.751375,32.247742],"type":"Point"}
 }

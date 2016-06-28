@@ -2,13 +2,14 @@
   "id": 185921241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.648348,35.128003,-106.648348,35.128003",
     "geom:latitude":35.128003,
     "geom:longitude":-106.648348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 San Clemente Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185921241,
-    "wof:lastmodified":1449007631,
+    "wof:lastmodified":1466698820,
     "wof:name":"Project Management Control Sol",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.648348,35.128003,-106.648348,35.128003],
+  "bbox": [
+    -106.648348,
+    35.128003,
+    -106.648348,
+    35.128003
+],
   "geometry": {"coordinates":[-106.648348,35.128003],"type":"Point"}
 }

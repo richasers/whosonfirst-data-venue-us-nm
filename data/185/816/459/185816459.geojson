@@ -2,13 +2,14 @@
   "id": 185816459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.795392,32.282941,-106.795392,32.282941",
     "geom:latitude":32.282941,
     "geom:longitude":-106.795392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1551 Ave de Mesilla",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185816459,
-    "wof:lastmodified":1449007547,
+    "wof:lastmodified":1466697640,
     "wof:name":"Sanders Custom Doors",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-106.795392,32.282941,-106.795392,32.282941],
-  "geometry": {"coordinates":[-106.795392,32.282941],"type":"Point"}
+  "bbox": [
+    -106.795392,
+    32.282941,
+    -106.795392,
+    32.282941
+],
+  "geometry": {"coordinates":[-106.79539200000001,32.282941],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202747497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.590466,35.16189,-106.590466,35.16189",
     "geom:latitude":35.16189,
     "geom:longitude":-106.590466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4905 Hawkins St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202747497,
-    "wof:lastmodified":1449060570,
+    "wof:lastmodified":1466699764,
     "wof:name":"Terracon Consultants Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.590466,35.16189,-106.590466,35.16189],
-  "geometry": {"coordinates":[-106.590466,35.16189],"type":"Point"}
+  "bbox": [
+    -106.590466,
+    35.16189,
+    -106.590466,
+    35.16189
+],
+  "geometry": {"coordinates":[-106.59046600000001,35.16189],"type":"Point"}
 }

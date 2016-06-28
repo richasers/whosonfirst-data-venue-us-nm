@@ -2,13 +2,14 @@
   "id": 203098639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.570443,35.321995,-106.570443,35.321995",
     "geom:latitude":35.321995,
     "geom:longitude":-106.570443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Ave de Justicia",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203098639,
-    "wof:lastmodified":1449026670,
+    "wof:lastmodified":1466698726,
     "wof:name":"District Court Judge",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-106.570443,35.321995,-106.570443,35.321995],
+  "bbox": [
+    -106.570443,
+    35.321995,
+    -106.570443,
+    35.321995
+],
   "geometry": {"coordinates":[-106.570443,35.321995],"type":"Point"}
 }

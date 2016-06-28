@@ -2,13 +2,14 @@
   "id": 353932121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.645409,35.110649,-106.645409,35.110649",
     "geom:latitude":35.110649,
     "geom:longitude":-106.645409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Menaul Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353932121,
-    "wof:lastmodified":1449019207,
+    "wof:lastmodified":1466698064,
     "wof:name":"Club Spa Nail",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.645409,35.110649,-106.645409,35.110649],
+  "bbox": [
+    -106.645409,
+    35.110649,
+    -106.645409,
+    35.110649
+],
   "geometry": {"coordinates":[-106.645409,35.110649],"type":"Point"}
 }

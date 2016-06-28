@@ -2,13 +2,14 @@
   "id": 186131811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.793481,32.313893,-106.793481,32.313893",
     "geom:latitude":32.313893,
     "geom:longitude":-106.793481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 W Picacho Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186131811,
-    "wof:lastmodified":1449051188,
+    "wof:lastmodified":1466699174,
     "wof:name":"Auto Electric Service",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "electrical"
     ]
 },
-  "bbox": [-106.793481,32.313893,-106.793481,32.313893],
+  "bbox": [
+    -106.793481,
+    32.313893,
+    -106.793481,
+    32.313893
+],
   "geometry": {"coordinates":[-106.793481,32.313893],"type":"Point"}
 }

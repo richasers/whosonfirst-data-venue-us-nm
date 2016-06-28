@@ -2,13 +2,14 @@
   "id": 186118519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.180041,36.736477,-108.180041,36.736477",
     "geom:latitude":36.736477,
     "geom:longitude":-108.180041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1975 San Juan Blvd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186118519,
-    "wof:lastmodified":1449052500,
+    "wof:lastmodified":1466699074,
     "wof:name":"Dxp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clothing"
     ]
 },
-  "bbox": [-108.180041,36.736477,-108.180041,36.736477],
+  "bbox": [
+    -108.180041,
+    36.736477,
+    -108.180041,
+    36.736477
+],
   "geometry": {"coordinates":[-108.180041,36.736477],"type":"Point"}
 }

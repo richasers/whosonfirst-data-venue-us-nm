@@ -2,13 +2,14 @@
   "id": 202449453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638663,35.244008,-106.638663,35.244008",
     "geom:latitude":35.244008,
     "geom:longitude":-106.638663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4905 el Higo Ct SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202449453,
-    "wof:lastmodified":1449062467,
+    "wof:lastmodified":1466698523,
     "wof:name":"Teodorita Day Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.638663,35.244008,-106.638663,35.244008],
-  "geometry": {"coordinates":[-106.638663,35.244008],"type":"Point"}
+  "bbox": [
+    -106.638663,
+    35.244008,
+    -106.638663,
+    35.244008
+],
+  "geometry": {"coordinates":[-106.63866299999999,35.244008],"type":"Point"}
 }

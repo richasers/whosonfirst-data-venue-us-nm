@@ -2,13 +2,14 @@
   "id": 169709017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.52223,35.131385,-106.52223,35.131385",
     "geom:latitude":35.131385,
     "geom:longitude":-106.52223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10401 Montgomery Pkwy NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169709017,
-    "wof:lastmodified":1449033350,
+    "wof:lastmodified":1466699388,
     "wof:name":"Ocksrider Properties Inc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.52223,35.131385,-106.52223,35.131385],
-  "geometry": {"coordinates":[-106.52223,35.131385],"type":"Point"}
+  "bbox": [
+    -106.52223,
+    35.131385,
+    -106.52223,
+    35.131385
+],
+  "geometry": {"coordinates":[-106.52222999999999,35.131385],"type":"Point"}
 }

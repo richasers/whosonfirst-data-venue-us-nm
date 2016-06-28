@@ -2,13 +2,14 @@
   "id": 353949941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.516762,35.130589,-106.516762,35.130589",
     "geom:latitude":35.130589,
     "geom:longitude":-106.516762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11024 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353949941,
-    "wof:lastmodified":1449019855,
+    "wof:lastmodified":1466698568,
     "wof:name":"Aaa Excavating",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.516762,35.130589,-106.516762,35.130589],
+  "bbox": [
+    -106.516762,
+    35.130589,
+    -106.516762,
+    35.130589
+],
   "geometry": {"coordinates":[-106.516762,35.130589],"type":"Point"}
 }

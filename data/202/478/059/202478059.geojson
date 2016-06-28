@@ -2,13 +2,14 @@
   "id": 202478059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.571912,36.411004,-105.571912,36.411004",
     "geom:latitude":36.411004,
     "geom:longitude":-105.571912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Hinde St",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202478059,
-    "wof:lastmodified":1449060176,
+    "wof:lastmodified":1466698939,
     "wof:name":"Willow Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-105.571912,36.411004,-105.571912,36.411004],
+  "bbox": [
+    -105.571912,
+    36.411004,
+    -105.571912,
+    36.411004
+],
   "geometry": {"coordinates":[-105.571912,36.411004],"type":"Point"}
 }

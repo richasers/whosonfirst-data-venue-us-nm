@@ -2,13 +2,14 @@
   "id": 202748775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.683867,35.059816,-106.683867,35.059816",
     "geom:latitude":35.059816,
     "geom:longitude":-106.683867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1824 Wildwood Ln SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202748775,
-    "wof:lastmodified":1449062010,
+    "wof:lastmodified":1466699668,
     "wof:name":"Moye Tax Svc",
     "wof:parent_id":85892585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-106.683867,35.059816,-106.683867,35.059816],
-  "geometry": {"coordinates":[-106.683867,35.059816],"type":"Point"}
+  "bbox": [
+    -106.683867,
+    35.059816,
+    -106.683867,
+    35.059816
+],
+  "geometry": {"coordinates":[-106.68386700000001,35.059816],"type":"Point"}
 }

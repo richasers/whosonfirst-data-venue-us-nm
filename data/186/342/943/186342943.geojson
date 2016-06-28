@@ -2,13 +2,14 @@
   "id": 186342943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.912136,35.720053,-105.912136,35.720053",
     "geom:latitude":35.720053,
     "geom:longitude":-105.912136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Brownell-Howland Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186342943,
-    "wof:lastmodified":1449052839,
+    "wof:lastmodified":1466699656,
     "wof:name":"Fairfax Properties",
     "wof:parent_id":85880787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.912136,35.720053,-105.912136,35.720053],
+  "bbox": [
+    -105.912136,
+    35.720053,
+    -105.912136,
+    35.720053
+],
   "geometry": {"coordinates":[-105.912136,35.720053],"type":"Point"}
 }

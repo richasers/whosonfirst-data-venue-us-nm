@@ -2,13 +2,14 @@
   "id": 337283121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.010872,36.826831,-108.010872,36.826831",
     "geom:latitude":36.826831,
     "geom:longitude":-108.010872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1427 W Aztec Blvd",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337283121,
-    "wof:lastmodified":1449027184,
+    "wof:lastmodified":1466697666,
     "wof:name":"Southside Water Users Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-108.010872,36.826831,-108.010872,36.826831],
-  "geometry": {"coordinates":[-108.010872,36.826831],"type":"Point"}
+  "bbox": [
+    -108.010872,
+    36.826831,
+    -108.010872,
+    36.826831
+],
+  "geometry": {"coordinates":[-108.01087200000001,36.826831],"type":"Point"}
 }

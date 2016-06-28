@@ -2,13 +2,14 @@
   "id": 202858535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.300823,35.881423,-106.300823,35.881423",
     "geom:latitude":35.881423,
     "geom:longitude":-106.300823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1789 Central Ave",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202858535,
-    "wof:lastmodified":1449060365,
+    "wof:lastmodified":1466700227,
     "wof:name":"Aspen Copies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "copying"
     ]
 },
-  "bbox": [-106.300823,35.881423,-106.300823,35.881423],
-  "geometry": {"coordinates":[-106.300823,35.881423],"type":"Point"}
+  "bbox": [
+    -106.300823,
+    35.881423,
+    -106.300823,
+    35.881423
+],
+  "geometry": {"coordinates":[-106.30082299999999,35.881423],"type":"Point"}
 }

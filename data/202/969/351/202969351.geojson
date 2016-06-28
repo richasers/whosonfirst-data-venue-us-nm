@@ -2,13 +2,14 @@
   "id": 202969351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.679417,35.034172,-106.679417,35.034172",
     "geom:latitude":35.034172,
     "geom:longitude":-106.679417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2724 Isleta Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202969351,
-    "wof:lastmodified":1449060721,
+    "wof:lastmodified":1466700745,
     "wof:name":"Maldonado Tax Svc",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-106.679417,35.034172,-106.679417,35.034172],
+  "bbox": [
+    -106.679417,
+    35.034172,
+    -106.679417,
+    35.034172
+],
   "geometry": {"coordinates":[-106.679417,35.034172],"type":"Point"}
 }

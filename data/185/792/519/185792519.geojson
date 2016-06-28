@@ -2,13 +2,14 @@
   "id": 185792519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.779655,32.348229,-106.779655,32.348229",
     "geom:latitude":32.348229,
     "geom:longitude":-106.779655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 Ivydale Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185792519,
-    "wof:lastmodified":1449006962,
+    "wof:lastmodified":1466699314,
     "wof:name":"Mobile Entertainment Systems",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-106.779655,32.348229,-106.779655,32.348229],
-  "geometry": {"coordinates":[-106.779655,32.348229],"type":"Point"}
+  "bbox": [
+    -106.779655,
+    32.348229,
+    -106.779655,
+    32.348229
+],
+  "geometry": {"coordinates":[-106.77965500000001,32.348229],"type":"Point"}
 }

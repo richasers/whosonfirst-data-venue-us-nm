@@ -2,13 +2,14 @@
   "id": 186507087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.56991,35.109124,-106.56991,35.109124",
     "geom:latitude":35.109124,
     "geom:longitude":-106.56991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186507087,
-    "wof:lastmodified":1449051746,
+    "wof:lastmodified":1466700326,
     "wof:name":"Cajun Big Easy",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.56991,35.109124,-106.56991,35.109124],
-  "geometry": {"coordinates":[-106.56991,35.109124],"type":"Point"}
+  "bbox": [
+    -106.56991,
+    35.109124,
+    -106.56991,
+    35.109124
+],
+  "geometry": {"coordinates":[-106.56990999999999,35.109124],"type":"Point"}
 }

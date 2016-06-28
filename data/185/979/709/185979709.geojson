@@ -2,13 +2,14 @@
   "id": 185979709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.201295,35.076814,-106.201295,35.076814",
     "geom:latitude":35.076814,
     "geom:longitude":-106.201295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Pinto Rd",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185979709,
-    "wof:lastmodified":1449007735,
+    "wof:lastmodified":1466699750,
     "wof:name":"Keen Ridge Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "lentil"
     ]
 },
-  "bbox": [-106.201295,35.076814,-106.201295,35.076814],
+  "bbox": [
+    -106.201295,
+    35.076814,
+    -106.201295,
+    35.076814
+],
   "geometry": {"coordinates":[-106.201295,35.076814],"type":"Point"}
 }

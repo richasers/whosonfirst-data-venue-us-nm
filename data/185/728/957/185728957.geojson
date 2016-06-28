@@ -2,13 +2,14 @@
   "id": 185728957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.939803,35.686616,-105.939803,35.686616",
     "geom:latitude":35.686616,
     "geom:longitude":-105.939803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Don Gaspar Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185728957,
-    "wof:lastmodified":1449006988,
+    "wof:lastmodified":1466698972,
     "wof:name":"Second Chance Saloon Inc",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.939803,35.686616,-105.939803,35.686616],
+  "bbox": [
+    -105.939803,
+    35.686616,
+    -105.939803,
+    35.686616
+],
   "geometry": {"coordinates":[-105.939803,35.686616],"type":"Point"}
 }

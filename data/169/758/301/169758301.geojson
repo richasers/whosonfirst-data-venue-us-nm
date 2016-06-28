@@ -2,13 +2,14 @@
   "id": 169758301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.647505,35.111145,-106.647505,35.111145",
     "geom:latitude":35.111145,
     "geom:longitude":-106.647505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Menaul Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169758301,
-    "wof:lastmodified":1449033684,
+    "wof:lastmodified":1466698146,
     "wof:name":"Redburn Tire Company",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-106.647505,35.111145,-106.647505,35.111145],
+  "bbox": [
+    -106.647505,
+    35.111145,
+    -106.647505,
+    35.111145
+],
   "geometry": {"coordinates":[-106.647505,35.111145],"type":"Point"}
 }

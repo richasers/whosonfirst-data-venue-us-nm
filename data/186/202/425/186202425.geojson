@@ -2,13 +2,14 @@
   "id": 186202425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.007791,36.713761,-108.007791,36.713761",
     "geom:latitude":36.713761,
     "geom:longitude":-108.007791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 N Newby Ln",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186202425,
-    "wof:lastmodified":1449052666,
+    "wof:lastmodified":1466698062,
     "wof:name":"Sandstone Oil Field Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-108.007791,36.713761,-108.007791,36.713761],
+  "bbox": [
+    -108.007791,
+    36.713761,
+    -108.007791,
+    36.713761
+],
   "geometry": {"coordinates":[-108.007791,36.713761],"type":"Point"}
 }

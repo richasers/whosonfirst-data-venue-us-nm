@@ -2,13 +2,14 @@
   "id": 169768299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.659857,35.09573,-106.659857,35.09573",
     "geom:latitude":35.09573,
     "geom:longitude":-106.659857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1224 Mountain Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169768299,
-    "wof:lastmodified":1449033953,
+    "wof:lastmodified":1466698243,
     "wof:name":"Van Damme Sheet Metal Works",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.659857,35.09573,-106.659857,35.09573],
+  "bbox": [
+    -106.659857,
+    35.09573,
+    -106.659857,
+    35.09573
+],
   "geometry": {"coordinates":[-106.659857,35.09573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353970187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.057869,35.986853,-106.057869,35.986853",
     "geom:latitude":35.986853,
     "geom:longitude":-106.057869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 S Riverside Dr",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353970187,
-    "wof:lastmodified":1449020730,
+    "wof:lastmodified":1466699000,
     "wof:name":"Boomerang Thrift Boutique",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "hand"
     ]
 },
-  "bbox": [-106.057869,35.986853,-106.057869,35.986853],
+  "bbox": [
+    -106.057869,
+    35.986853,
+    -106.057869,
+    35.986853
+],
   "geometry": {"coordinates":[-106.057869,35.986853],"type":"Point"}
 }

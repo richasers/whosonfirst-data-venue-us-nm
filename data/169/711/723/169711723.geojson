@@ -2,13 +2,14 @@
   "id": 169711723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.584971,35.167996,-106.584971,35.167996",
     "geom:latitude":35.167996,
     "geom:longitude":-106.584971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7808 Pan American Fwy",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169711723,
-    "wof:lastmodified":1449035353,
+    "wof:lastmodified":1466697688,
     "wof:name":"Contemporary Classic Design",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-106.584971,35.167996,-106.584971,35.167996],
+  "bbox": [
+    -106.584971,
+    35.167996,
+    -106.584971,
+    35.167996
+],
   "geometry": {"coordinates":[-106.584971,35.167996],"type":"Point"}
 }

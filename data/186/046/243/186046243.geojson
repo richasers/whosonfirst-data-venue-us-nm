@@ -2,13 +2,14 @@
   "id": 186046243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.532548,35.08605,-106.532548,35.08605",
     "geom:latitude":35.08605,
     "geom:longitude":-106.532548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186046243,
-    "wof:lastmodified":1449051865,
+    "wof:lastmodified":1466698201,
     "wof:name":"Ow Cafe The",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "family"
     ]
 },
-  "bbox": [-106.532548,35.08605,-106.532548,35.08605],
-  "geometry": {"coordinates":[-106.532548,35.08605],"type":"Point"}
+  "bbox": [
+    -106.532548,
+    35.08605,
+    -106.532548,
+    35.08605
+],
+  "geometry": {"coordinates":[-106.53254800000001,35.08605],"type":"Point"}
 }

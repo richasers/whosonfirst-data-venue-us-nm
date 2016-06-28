@@ -2,13 +2,14 @@
   "id": 202557539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.723124,32.272635,-107.723124,32.272635",
     "geom:latitude":32.272635,
     "geom:longitude":-107.723124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 Laguna Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202557539,
-    "wof:lastmodified":1449061911,
+    "wof:lastmodified":1466697752,
     "wof:name":"Sunfire Stained Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leaded"
     ]
 },
-  "bbox": [-107.723124,32.272635,-107.723124,32.272635],
+  "bbox": [
+    -107.723124,
+    32.272635,
+    -107.723124,
+    32.272635
+],
   "geometry": {"coordinates":[-107.723124,32.272635],"type":"Point"}
 }

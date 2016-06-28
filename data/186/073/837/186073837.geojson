@@ -2,13 +2,14 @@
   "id": 186073837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.222147,35.581962,-105.222147,35.581962",
     "geom:latitude":35.581962,
     "geom:longitude":-105.222147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Chavez St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186073837,
-    "wof:lastmodified":1449050721,
+    "wof:lastmodified":1466698564,
     "wof:name":"Regulation & Licensing Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "inspection"
     ]
 },
-  "bbox": [-105.222147,35.581962,-105.222147,35.581962],
-  "geometry": {"coordinates":[-105.222147,35.581962],"type":"Point"}
+  "bbox": [
+    -105.222147,
+    35.581962,
+    -105.222147,
+    35.581962
+],
+  "geometry": {"coordinates":[-105.22214700000001,35.581962],"type":"Point"}
 }

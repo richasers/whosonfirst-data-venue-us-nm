@@ -2,13 +2,14 @@
   "id": 202724089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.600126,35.153457,-106.600126,35.153457",
     "geom:latitude":35.153457,
     "geom:longitude":-106.600126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6616 Gulton Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202724089,
-    "wof:lastmodified":1449062575,
+    "wof:lastmodified":1466699816,
     "wof:name":"Aromawerks Aroma Therapy",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aromatherapy"
     ]
 },
-  "bbox": [-106.600126,35.153457,-106.600126,35.153457],
+  "bbox": [
+    -106.600126,
+    35.153457,
+    -106.600126,
+    35.153457
+],
   "geometry": {"coordinates":[-106.600126,35.153457],"type":"Point"}
 }

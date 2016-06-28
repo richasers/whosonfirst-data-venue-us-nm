@@ -2,13 +2,14 @@
   "id": 186403263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960727,32.916648,-105.960727,32.916648",
     "geom:latitude":32.916648,
     "geom:longitude":-105.960727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2251 N White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186403263,
-    "wof:lastmodified":1449052644,
+    "wof:lastmodified":1466699978,
     "wof:name":"Caliche's Frozen Custard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-105.960727,32.916648,-105.960727,32.916648],
-  "geometry": {"coordinates":[-105.960727,32.916648],"type":"Point"}
+  "bbox": [
+    -105.960727,
+    32.916648,
+    -105.960727,
+    32.916648
+],
+  "geometry": {"coordinates":[-105.96072700000001,32.916648],"type":"Point"}
 }

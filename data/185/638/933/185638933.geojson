@@ -2,13 +2,14 @@
   "id": 185638933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.609584,35.079154,-106.609584,35.079154",
     "geom:latitude":35.079154,
     "geom:longitude":-106.609584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Bryn Mawr Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185638933,
-    "wof:lastmodified":1449006673,
+    "wof:lastmodified":1466698023,
     "wof:name":"Envall Associates",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-106.609584,35.079154,-106.609584,35.079154],
+  "bbox": [
+    -106.609584,
+    35.079154,
+    -106.609584,
+    35.079154
+],
   "geometry": {"coordinates":[-106.609584,35.079154],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169700641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.658564,34.97076,-106.658564,34.97076",
     "geom:latitude":34.97076,
     "geom:longitude":-106.658564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7711 Broadway Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169700641,
-    "wof:lastmodified":1449035670,
+    "wof:lastmodified":1466697613,
     "wof:name":"Duke City Redi-Mix",
     "wof:parent_id":85835885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "concrete"
     ]
 },
-  "bbox": [-106.658564,34.97076,-106.658564,34.97076],
+  "bbox": [
+    -106.658564,
+    34.97076,
+    -106.658564,
+    34.97076
+],
   "geometry": {"coordinates":[-106.658564,34.97076],"type":"Point"}
 }

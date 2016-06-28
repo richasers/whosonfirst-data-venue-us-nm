@@ -2,13 +2,14 @@
   "id": 185626757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.521549,35.059527,-106.521549,35.059527",
     "geom:latitude":35.059527,
     "geom:longitude":-106.521549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11208 Canyonlands Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185626757,
-    "wof:lastmodified":1449008210,
+    "wof:lastmodified":1466697895,
     "wof:name":"Necessity Case Management",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.521549,35.059527,-106.521549,35.059527],
-  "geometry": {"coordinates":[-106.521549,35.059527],"type":"Point"}
+  "bbox": [
+    -106.521549,
+    35.059527,
+    -106.521549,
+    35.059527
+],
+  "geometry": {"coordinates":[-106.52154899999999,35.059527],"type":"Point"}
 }

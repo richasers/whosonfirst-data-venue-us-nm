@@ -2,13 +2,14 @@
   "id": 202732141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.889048,34.077097,-106.889048,34.077097",
     "geom:latitude":34.077097,
     "geom:longitude":-106.889048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1226 Lemitar Ln",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202732141,
-    "wof:lastmodified":1449062752,
+    "wof:lastmodified":1466699727,
     "wof:name":"Edward's Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.889048,34.077097,-106.889048,34.077097],
+  "bbox": [
+    -106.889048,
+    34.077097,
+    -106.889048,
+    34.077097
+],
   "geometry": {"coordinates":[-106.889048,34.077097],"type":"Point"}
 }

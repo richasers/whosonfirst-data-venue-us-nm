@@ -2,13 +2,14 @@
   "id": 185601497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.499954,35.13843,-106.499954,35.13843",
     "geom:latitude":35.13843,
     "geom:longitude":-106.499954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 Hardin Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185601497,
-    "wof:lastmodified":1449007335,
+    "wof:lastmodified":1466697619,
     "wof:name":"Drawn To Perfection",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-106.499954,35.13843,-106.499954,35.13843],
+  "bbox": [
+    -106.499954,
+    35.13843,
+    -106.499954,
+    35.13843
+],
   "geometry": {"coordinates":[-106.499954,35.13843],"type":"Point"}
 }

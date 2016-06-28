@@ -2,13 +2,14 @@
   "id": 353926363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614349,35.080925,-106.614349,35.080925",
     "geom:latitude":35.080925,
     "geom:longitude":-106.614349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2808 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353926363,
-    "wof:lastmodified":1449019145,
+    "wof:lastmodified":1466697900,
     "wof:name":"Institute-Social Research",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-106.614349,35.080925,-106.614349,35.080925],
+  "bbox": [
+    -106.614349,
+    35.080925,
+    -106.614349,
+    35.080925
+],
   "geometry": {"coordinates":[-106.614349,35.080925],"type":"Point"}
 }

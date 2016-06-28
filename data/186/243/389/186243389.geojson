@@ -2,13 +2,14 @@
   "id": 186243389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.579383,36.395621,-105.579383,36.395621",
     "geom:latitude":36.395621,
     "geom:longitude":-105.579383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186243389,
-    "wof:lastmodified":1449051262,
+    "wof:lastmodified":1466698572,
     "wof:name":"Enchantments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-105.579383,36.395621,-105.579383,36.395621],
-  "geometry": {"coordinates":[-105.579383,36.395621],"type":"Point"}
+  "bbox": [
+    -105.579383,
+    36.395621,
+    -105.579383,
+    36.395621
+],
+  "geometry": {"coordinates":[-105.57938300000001,36.395621],"type":"Point"}
 }

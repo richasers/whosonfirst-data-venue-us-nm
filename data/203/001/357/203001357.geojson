@@ -2,13 +2,14 @@
   "id": 203001357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.272952,33.121877,-107.272952,33.121877",
     "geom:latitude":33.121877,
     "geom:longitude":-107.272952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 S Broadway St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203001357,
-    "wof:lastmodified":1449025363,
+    "wof:lastmodified":1466697604,
     "wof:name":"T Or C Patrol Yard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.272952,33.121877,-107.272952,33.121877],
+  "bbox": [
+    -107.272952,
+    33.121877,
+    -107.272952,
+    33.121877
+],
   "geometry": {"coordinates":[-107.272952,33.121877],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186349529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.531214,35.132425,-106.531214,35.132425",
     "geom:latitude":35.132425,
     "geom:longitude":-106.531214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9808 Lagrima de Oro Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186349529,
-    "wof:lastmodified":1449051396,
+    "wof:lastmodified":1466699774,
     "wof:name":"M & R Environmental Svc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-106.531214,35.132425,-106.531214,35.132425],
-  "geometry": {"coordinates":[-106.531214,35.132425],"type":"Point"}
+  "bbox": [
+    -106.531214,
+    35.132425,
+    -106.531214,
+    35.132425
+],
+  "geometry": {"coordinates":[-106.53121400000001,35.132425],"type":"Point"}
 }

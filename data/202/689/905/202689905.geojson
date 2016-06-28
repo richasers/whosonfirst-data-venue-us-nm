@@ -2,13 +2,14 @@
   "id": 202689905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.734663,35.068432,-106.734663,35.068432",
     "geom:latitude":35.068432,
     "geom:longitude":-106.734663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 90th St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202689905,
-    "wof:lastmodified":1449062235,
+    "wof:lastmodified":1466699569,
     "wof:name":"Tropical Paint Co",
     "wof:parent_id":85892581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.734663,35.068432,-106.734663,35.068432],
+  "bbox": [
+    -106.734663,
+    35.068432,
+    -106.734663,
+    35.068432
+],
   "geometry": {"coordinates":[-106.734663,35.068432],"type":"Point"}
 }

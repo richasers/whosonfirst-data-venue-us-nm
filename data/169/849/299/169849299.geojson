@@ -2,13 +2,14 @@
   "id": 169849299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.648044,35.202163,-106.648044,35.202163",
     "geom:latitude":35.202163,
     "geom:longitude":-106.648044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10151 Coors Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169849299,
-    "wof:lastmodified":1449033297,
+    "wof:lastmodified":1466698883,
     "wof:name":"Courtesy Phone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.648044,35.202163,-106.648044,35.202163],
+  "bbox": [
+    -106.648044,
+    35.202163,
+    -106.648044,
+    35.202163
+],
   "geometry": {"coordinates":[-106.648044,35.202163],"type":"Point"}
 }

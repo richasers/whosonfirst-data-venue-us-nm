@@ -2,13 +2,14 @@
   "id": 185680223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.425563,32.929893,-104.425563,32.929893",
     "geom:latitude":32.929893,
     "geom:longitude":-104.425563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 E Cottonwood Rd",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185680223,
-    "wof:lastmodified":1449007720,
+    "wof:lastmodified":1466698432,
     "wof:name":"Seco Spice",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "spice"
     ]
 },
-  "bbox": [-104.425563,32.929893,-104.425563,32.929893],
+  "bbox": [
+    -104.425563,
+    32.929893,
+    -104.425563,
+    32.929893
+],
   "geometry": {"coordinates":[-104.425563,32.929893],"type":"Point"}
 }

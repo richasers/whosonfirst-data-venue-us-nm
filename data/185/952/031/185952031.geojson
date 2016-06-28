@@ -2,13 +2,14 @@
   "id": 185952031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.747355,35.531346,-108.747355,35.531346",
     "geom:latitude":35.531346,
     "geom:longitude":-108.747355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 W Wilson Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185952031,
-    "wof:lastmodified":1449007753,
+    "wof:lastmodified":1466699252,
     "wof:name":"Laroc Refrigeration-Metal Div",
     "wof:parent_id":85802855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.747355,35.531346,-108.747355,35.531346],
+  "bbox": [
+    -108.747355,
+    35.531346,
+    -108.747355,
+    35.531346
+],
   "geometry": {"coordinates":[-108.747355,35.531346],"type":"Point"}
 }

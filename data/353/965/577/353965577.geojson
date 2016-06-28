@@ -2,13 +2,14 @@
   "id": 353965577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.710308,35.046033,-106.710308,35.046033",
     "geom:latitude":35.046033,
     "geom:longitude":-106.710308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6920 Huseman Pl SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":353965577,
-    "wof:lastmodified":1449020029,
+    "wof:lastmodified":1466698893,
     "wof:name":"Dkg & Associates, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "siding"
     ]
 },
-  "bbox": [-106.710308,35.046033,-106.710308,35.046033],
+  "bbox": [
+    -106.710308,
+    35.046033,
+    -106.710308,
+    35.046033
+],
   "geometry": {"coordinates":[-106.710308,35.046033],"type":"Point"}
 }

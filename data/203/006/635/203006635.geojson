@@ -2,13 +2,14 @@
   "id": 203006635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.626432,35.176992,-106.626432,35.176992",
     "geom:latitude":35.176992,
     "geom:longitude":-106.626432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 el Pueblo Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203006635,
-    "wof:lastmodified":1449026463,
+    "wof:lastmodified":1466697651,
     "wof:name":"Desert Soils LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drilling"
     ]
 },
-  "bbox": [-106.626432,35.176992,-106.626432,35.176992],
-  "geometry": {"coordinates":[-106.626432,35.176992],"type":"Point"}
+  "bbox": [
+    -106.626432,
+    35.176992,
+    -106.626432,
+    35.176992
+],
+  "geometry": {"coordinates":[-106.62643199999999,35.176992],"type":"Point"}
 }

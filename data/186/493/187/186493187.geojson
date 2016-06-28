@@ -2,13 +2,14 @@
   "id": 186493187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.438759,36.888306,-104.438759,36.888306",
     "geom:latitude":36.888306,
     "geom:longitude":-104.438759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"186 E Troy Ave",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186493187,
-    "wof:lastmodified":1449051233,
+    "wof:lastmodified":1466700199,
     "wof:name":"Durham School Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-104.438759,36.888306,-104.438759,36.888306],
+  "bbox": [
+    -104.438759,
+    36.888306,
+    -104.438759,
+    36.888306
+],
   "geometry": {"coordinates":[-104.438759,36.888306],"type":"Point"}
 }

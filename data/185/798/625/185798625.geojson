@@ -2,13 +2,14 @@
   "id": 185798625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.364103,32.032152,-106.364103,32.032152",
     "geom:latitude":32.032152,
     "geom:longitude":-106.364103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"848 Nogales Ave",
     "sg:city":"Chaparral",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185798625,
-    "wof:lastmodified":1449006921,
+    "wof:lastmodified":1466699336,
     "wof:name":"Lorenzo's Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.364103,32.032152,-106.364103,32.032152],
+  "bbox": [
+    -106.364103,
+    32.032152,
+    -106.364103,
+    32.032152
+],
   "geometry": {"coordinates":[-106.364103,32.032152],"type":"Point"}
 }

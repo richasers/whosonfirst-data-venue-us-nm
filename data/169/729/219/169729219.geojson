@@ -2,13 +2,14 @@
   "id": 169729219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.523147,33.450094,-104.523147,33.450094",
     "geom:latitude":33.450094,
     "geom:longitude":-104.523147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4531 N Main St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169729219,
-    "wof:lastmodified":1449034350,
+    "wof:lastmodified":1466697881,
     "wof:name":"Rex TV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consumer"
     ]
 },
-  "bbox": [-104.523147,33.450094,-104.523147,33.450094],
-  "geometry": {"coordinates":[-104.523147,33.450094],"type":"Point"}
+  "bbox": [
+    -104.523147,
+    33.450094,
+    -104.523147,
+    33.450094
+],
+  "geometry": {"coordinates":[-104.52314699999999,33.450094],"type":"Point"}
 }

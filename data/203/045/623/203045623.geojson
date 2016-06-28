@@ -2,13 +2,14 @@
   "id": 203045623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.407052,32.817227,-104.407052,32.817227",
     "geom:latitude":32.817227,
     "geom:longitude":-104.407052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 W Castleberry Rd",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203045623,
-    "wof:lastmodified":1449026646,
+    "wof:lastmodified":1466698090,
     "wof:name":"Randys Windshield Repair",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "replacement"
     ]
 },
-  "bbox": [-104.407052,32.817227,-104.407052,32.817227],
-  "geometry": {"coordinates":[-104.407052,32.817227],"type":"Point"}
+  "bbox": [
+    -104.407052,
+    32.817227,
+    -104.407052,
+    32.817227
+],
+  "geometry": {"coordinates":[-104.40705199999999,32.817227],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169819693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.539537,35.070802,-106.539537,35.070802",
     "geom:latitude":35.070802,
     "geom:longitude":-106.539537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Altez St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169819693,
-    "wof:lastmodified":1449033478,
+    "wof:lastmodified":1466698731,
     "wof:name":"Unifirst",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "sup"
     ]
 },
-  "bbox": [-106.539537,35.070802,-106.539537,35.070802],
+  "bbox": [
+    -106.539537,
+    35.070802,
+    -106.539537,
+    35.070802
+],
   "geometry": {"coordinates":[-106.539537,35.070802],"type":"Point"}
 }

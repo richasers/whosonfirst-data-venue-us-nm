@@ -2,13 +2,14 @@
   "id": 202414795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.19682,36.763004,-108.19682,36.763004",
     "geom:latitude":36.763004,
     "geom:longitude":-108.19682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 E 39th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202414795,
-    "wof:lastmodified":1449061309,
+    "wof:lastmodified":1466698129,
     "wof:name":"Xto Energy Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "system"
     ]
 },
-  "bbox": [-108.19682,36.763004,-108.19682,36.763004],
+  "bbox": [
+    -108.19682,
+    36.763004,
+    -108.19682,
+    36.763004
+],
   "geometry": {"coordinates":[-108.19682,36.763004],"type":"Point"}
 }

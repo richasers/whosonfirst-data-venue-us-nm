@@ -2,13 +2,14 @@
   "id": 202667563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.190979,36.770844,-108.190979,36.770844",
     "geom:latitude":36.770844,
     "geom:longitude":-108.190979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4714 Eastwind Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202667563,
-    "wof:lastmodified":1449061739,
+    "wof:lastmodified":1466699479,
     "wof:name":"Furry Bird LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.190979,36.770844,-108.190979,36.770844],
+  "bbox": [
+    -108.190979,
+    36.770844,
+    -108.190979,
+    36.770844
+],
   "geometry": {"coordinates":[-108.190979,36.770844],"type":"Point"}
 }

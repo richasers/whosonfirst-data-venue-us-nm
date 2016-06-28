@@ -2,13 +2,14 @@
   "id": 186035825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.643315,35.272628,-106.643315,35.272628",
     "geom:latitude":35.272628,
     "geom:longitude":-106.643315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4547 Pyrite Ct NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186035825,
-    "wof:lastmodified":1449052493,
+    "wof:lastmodified":1466698091,
     "wof:name":"New Mxico Outdoors Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-106.643315,35.272628,-106.643315,35.272628],
+  "bbox": [
+    -106.643315,
+    35.272628,
+    -106.643315,
+    35.272628
+],
   "geometry": {"coordinates":[-106.643315,35.272628],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186296831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.745521,34.758172,-106.745521,34.758172",
     "geom:latitude":34.758172,
     "geom:longitude":-106.745521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 Elaine Dr",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186296831,
-    "wof:lastmodified":1449052514,
+    "wof:lastmodified":1466699291,
     "wof:name":"Los Lunas Bicycle Shop",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.745521,34.758172,-106.745521,34.758172],
+  "bbox": [
+    -106.745521,
+    34.758172,
+    -106.745521,
+    34.758172
+],
   "geometry": {"coordinates":[-106.745521,34.758172],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186142759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.679342,35.044347,-106.679342,35.044347",
     "geom:latitude":35.044347,
     "geom:longitude":-106.679342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2145 Isleta Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186142759,
-    "wof:lastmodified":1449052477,
+    "wof:lastmodified":1466699221,
     "wof:name":"Santed Consulting",
     "wof:parent_id":85892585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "datum"
     ]
 },
-  "bbox": [-106.679342,35.044347,-106.679342,35.044347],
-  "geometry": {"coordinates":[-106.679342,35.044347],"type":"Point"}
+  "bbox": [
+    -106.679342,
+    35.044347,
+    -106.679342,
+    35.044347
+],
+  "geometry": {"coordinates":[-106.67934200000001,35.044347],"type":"Point"}
 }

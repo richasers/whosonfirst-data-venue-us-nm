@@ -2,13 +2,14 @@
   "id": 202387693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.51434,35.108895,-106.51434,35.108895",
     "geom:latitude":35.108895,
     "geom:longitude":-106.51434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11311 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202387693,
-    "wof:lastmodified":1449062314,
+    "wof:lastmodified":1466697772,
     "wof:name":"Ayurvedic Institute",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "interest"
     ]
 },
-  "bbox": [-106.51434,35.108895,-106.51434,35.108895],
+  "bbox": [
+    -106.51434,
+    35.108895,
+    -106.51434,
+    35.108895
+],
   "geometry": {"coordinates":[-106.51434,35.108895],"type":"Point"}
 }

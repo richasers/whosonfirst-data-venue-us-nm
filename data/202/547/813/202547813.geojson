@@ -2,13 +2,14 @@
   "id": 202547813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.846354,35.521419,-105.846354,35.521419",
     "geom:latitude":35.521419,
     "geom:longitude":-105.846354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Cougar Canyon Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202547813,
-    "wof:lastmodified":1449060374,
+    "wof:lastmodified":1466697614,
     "wof:name":"Red Rok Environmental Svc",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.846354,35.521419,-105.846354,35.521419],
-  "geometry": {"coordinates":[-105.846354,35.521419],"type":"Point"}
+  "bbox": [
+    -105.846354,
+    35.521419,
+    -105.846354,
+    35.521419
+],
+  "geometry": {"coordinates":[-105.84635400000001,35.521419],"type":"Point"}
 }

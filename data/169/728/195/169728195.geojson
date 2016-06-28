@@ -2,13 +2,14 @@
   "id": 169728195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.5865,35.129039,-106.5865,35.129039",
     "geom:latitude":35.129039,
     "geom:longitude":-106.5865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169728195,
-    "wof:lastmodified":1449033460,
+    "wof:lastmodified":1466697871,
     "wof:name":"So Ho Avenue",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handbag"
     ]
 },
-  "bbox": [-106.5865,35.129039,-106.5865,35.129039],
+  "bbox": [
+    -106.5865,
+    35.129039,
+    -106.5865,
+    35.129039
+],
   "geometry": {"coordinates":[-106.5865,35.129039],"type":"Point"}
 }

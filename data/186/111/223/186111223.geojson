@@ -2,13 +2,14 @@
   "id": 186111223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.535433,34.804415,-106.535433,34.804415",
     "geom:latitude":34.804415,
     "geom:longitude":-106.535433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Casey Ln",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186111223,
-    "wof:lastmodified":1449053104,
+    "wof:lastmodified":1466699025,
     "wof:name":"Fencing Unlimited",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-106.535433,34.804415,-106.535433,34.804415],
+  "bbox": [
+    -106.535433,
+    34.804415,
+    -106.535433,
+    34.804415
+],
   "geometry": {"coordinates":[-106.535433,34.804415],"type":"Point"}
 }

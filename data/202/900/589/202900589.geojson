@@ -2,13 +2,14 @@
   "id": 202900589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.80566,32.331009,-106.80566,32.331009",
     "geom:latitude":32.331009,
     "geom:longitude":-106.80566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2505 Janet Ann Ln",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202900589,
-    "wof:lastmodified":1449061209,
+    "wof:lastmodified":1466700363,
     "wof:name":"McDonnell Construction",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.80566,32.331009,-106.80566,32.331009],
+  "bbox": [
+    -106.80566,
+    32.331009,
+    -106.80566,
+    32.331009
+],
   "geometry": {"coordinates":[-106.80566,32.331009],"type":"Point"}
 }

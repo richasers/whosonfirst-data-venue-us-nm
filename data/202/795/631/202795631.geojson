@@ -2,13 +2,14 @@
   "id": 202795631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.663803,35.169834,-106.663803,35.169834",
     "geom:latitude":35.169834,
     "geom:longitude":-106.663803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2515 Bosque Entrada Trl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202795631,
-    "wof:lastmodified":1449061609,
+    "wof:lastmodified":1466700065,
     "wof:name":"PRSM Corp",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-106.663803,35.169834,-106.663803,35.169834],
+  "bbox": [
+    -106.663803,
+    35.169834,
+    -106.663803,
+    35.169834
+],
   "geometry": {"coordinates":[-106.663803,35.169834],"type":"Point"}
 }

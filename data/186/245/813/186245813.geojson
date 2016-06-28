@@ -2,13 +2,14 @@
   "id": 186245813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.577652,36.406181,-105.577652,36.406181",
     "geom:latitude":36.406181,
     "geom:longitude":-105.577652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Ledoux St",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186245813,
-    "wof:lastmodified":1449052946,
+    "wof:lastmodified":1466698606,
     "wof:name":"Navajo Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.577652,36.406181,-105.577652,36.406181],
+  "bbox": [
+    -105.577652,
+    36.406181,
+    -105.577652,
+    36.406181
+],
   "geometry": {"coordinates":[-105.577652,36.406181],"type":"Point"}
 }

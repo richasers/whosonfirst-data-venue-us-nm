@@ -2,13 +2,14 @@
   "id": 202804985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.081353,35.574267,-106.081353,35.574267",
     "geom:latitude":35.574267,
     "geom:longitude":-106.081353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Tranquil Way",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202804985,
-    "wof:lastmodified":1449061858,
+    "wof:lastmodified":1466699994,
     "wof:name":"Trainquil Way Mobile Home Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "community"
     ]
 },
-  "bbox": [-106.081353,35.574267,-106.081353,35.574267],
-  "geometry": {"coordinates":[-106.081353,35.574267],"type":"Point"}
+  "bbox": [
+    -106.081353,
+    35.574267,
+    -106.081353,
+    35.574267
+],
+  "geometry": {"coordinates":[-106.08135299999999,35.574267],"type":"Point"}
 }

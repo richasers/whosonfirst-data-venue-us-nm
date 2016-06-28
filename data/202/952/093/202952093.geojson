@@ -2,13 +2,14 @@
   "id": 202952093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.619632,32.295026,-106.619632,32.295026",
     "geom:latitude":32.295026,
     "geom:longitude":-106.619632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4970 Black Quartz Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202952093,
-    "wof:lastmodified":1449061925,
+    "wof:lastmodified":1466700561,
     "wof:name":"Las Cruces Radio Ctr Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-106.619632,32.295026,-106.619632,32.295026],
+  "bbox": [
+    -106.619632,
+    32.295026,
+    -106.619632,
+    32.295026
+],
   "geometry": {"coordinates":[-106.619632,32.295026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202546019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.757602,34.724187,-106.757602,34.724187",
     "geom:latitude":34.724187,
     "geom:longitude":-106.757602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Quemado Ln",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202546019,
-    "wof:lastmodified":1449060105,
+    "wof:lastmodified":1466699472,
     "wof:name":"Joe's Home Appliance Svc",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-106.757602,34.724187,-106.757602,34.724187],
-  "geometry": {"coordinates":[-106.757602,34.724187],"type":"Point"}
+  "bbox": [
+    -106.757602,
+    34.724187,
+    -106.757602,
+    34.724187
+],
+  "geometry": {"coordinates":[-106.75760200000001,34.724187],"type":"Point"}
 }

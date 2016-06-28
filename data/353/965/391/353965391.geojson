@@ -2,13 +2,14 @@
   "id": 353965391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.740334,35.073071,-106.740334,35.073071",
     "geom:latitude":35.073071,
     "geom:longitude":-106.740334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9600 Central Ave SW # 38",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353965391,
-    "wof:lastmodified":1449020027,
+    "wof:lastmodified":1466698888,
     "wof:name":"Rbj Electric",
     "wof:parent_id":85892581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-106.740334,35.073071,-106.740334,35.073071],
+  "bbox": [
+    -106.740334,
+    35.073071,
+    -106.740334,
+    35.073071
+],
   "geometry": {"coordinates":[-106.740334,35.073071],"type":"Point"}
 }

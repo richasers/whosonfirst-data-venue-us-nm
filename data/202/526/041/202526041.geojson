@@ -2,13 +2,14 @@
   "id": 202526041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.631924,35.117544,-106.631924,35.117544",
     "geom:latitude":35.117544,
     "geom:longitude":-106.631924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3640 High St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202526041,
-    "wof:lastmodified":1449060895,
+    "wof:lastmodified":1466699269,
     "wof:name":"Wendall Sweet Printing Svcs",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-106.631924,35.117544,-106.631924,35.117544],
+  "bbox": [
+    -106.631924,
+    35.117544,
+    -106.631924,
+    35.117544
+],
   "geometry": {"coordinates":[-106.631924,35.117544],"type":"Point"}
 }

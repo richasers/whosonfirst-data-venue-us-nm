@@ -2,13 +2,14 @@
   "id": 202841917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.202527,36.762314,-108.202527,36.762314",
     "geom:latitude":36.762314,
     "geom:longitude":-108.202527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E 38th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202841917,
-    "wof:lastmodified":1449060650,
+    "wof:lastmodified":1466700159,
     "wof:name":"DC Appraisal Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-108.202527,36.762314,-108.202527,36.762314],
+  "bbox": [
+    -108.202527,
+    36.762314,
+    -108.202527,
+    36.762314
+],
   "geometry": {"coordinates":[-108.202527,36.762314],"type":"Point"}
 }

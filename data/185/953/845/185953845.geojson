@@ -2,13 +2,14 @@
   "id": 185953845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.719703,34.997644,-106.719703,34.997644",
     "geom:latitude":34.997644,
     "geom:longitude":-106.719703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2917 Donna Maria Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185953845,
-    "wof:lastmodified":1449007698,
+    "wof:lastmodified":1466699280,
     "wof:name":"Richard Archibeque Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.719703,34.997644,-106.719703,34.997644],
+  "bbox": [
+    -106.719703,
+    34.997644,
+    -106.719703,
+    34.997644
+],
   "geometry": {"coordinates":[-106.719703,34.997644],"type":"Point"}
 }

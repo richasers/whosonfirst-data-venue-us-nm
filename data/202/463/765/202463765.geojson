@@ -2,13 +2,14 @@
   "id": 202463765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.647426,35.093695,-106.647426,35.093695",
     "geom:latitude":35.093695,
     "geom:longitude":-106.647426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202463765,
-    "wof:lastmodified":1449061854,
+    "wof:lastmodified":1466698684,
     "wof:name":"Archibeque Law Office",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.647426,35.093695,-106.647426,35.093695],
+  "bbox": [
+    -106.647426,
+    35.093695,
+    -106.647426,
+    35.093695
+],
   "geometry": {"coordinates":[-106.647426,35.093695],"type":"Point"}
 }

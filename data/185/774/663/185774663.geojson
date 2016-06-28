@@ -2,13 +2,14 @@
   "id": 185774663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.192742,34.426655,-103.192742,34.426655",
     "geom:latitude":34.426655,
     "geom:longitude":-103.192742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 E Manana Blvd",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185774663,
-    "wof:lastmodified":1449007243,
+    "wof:lastmodified":1466699245,
     "wof:name":"Steed-Todd Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-103.192742,34.426655,-103.192742,34.426655],
+  "bbox": [
+    -103.192742,
+    34.426655,
+    -103.192742,
+    34.426655
+],
   "geometry": {"coordinates":[-103.192742,34.426655],"type":"Point"}
 }

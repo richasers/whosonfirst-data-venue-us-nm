@@ -2,13 +2,14 @@
   "id": 186284537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586491,35.119183,-106.586491,35.119183",
     "geom:latitude":35.119183,
     "geom:longitude":-106.586491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3151 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186284537,
-    "wof:lastmodified":1449052029,
+    "wof:lastmodified":1466699120,
     "wof:name":"Shamrock Finance Nat",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "institution"
     ]
 },
-  "bbox": [-106.586491,35.119183,-106.586491,35.119183],
+  "bbox": [
+    -106.586491,
+    35.119183,
+    -106.586491,
+    35.119183
+],
   "geometry": {"coordinates":[-106.586491,35.119183],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202817805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.938366,35.686174,-105.938366,35.686174",
     "geom:latitude":35.686174,
     "geom:longitude":-105.938366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 E Water St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202817805,
-    "wof:lastmodified":1449062169,
+    "wof:lastmodified":1466699927,
     "wof:name":"Santa Fe Hemp LLC",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.938366,35.686174,-105.938366,35.686174],
+  "bbox": [
+    -105.938366,
+    35.686174,
+    -105.938366,
+    35.686174
+],
   "geometry": {"coordinates":[-105.938366,35.686174],"type":"Point"}
 }

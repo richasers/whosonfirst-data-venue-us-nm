@@ -2,13 +2,14 @@
   "id": 203004737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.742357,35.527045,-108.742357,35.527045",
     "geom:latitude":35.527045,
     "geom:longitude":-108.742357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 W Coal Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203004737,
-    "wof:lastmodified":1449025605,
+    "wof:lastmodified":1466697638,
     "wof:name":"Pleasure In Pain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-108.742357,35.527045,-108.742357,35.527045],
+  "bbox": [
+    -108.742357,
+    35.527045,
+    -108.742357,
+    35.527045
+],
   "geometry": {"coordinates":[-108.742357,35.527045],"type":"Point"}
 }

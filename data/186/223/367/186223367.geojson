@@ -2,13 +2,14 @@
   "id": 186223367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.191414,35.169508,-106.191414,35.169508",
     "geom:latitude":35.169508,
     "geom:longitude":-106.191414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"753 State Rd 344",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186223367,
-    "wof:lastmodified":1449050438,
+    "wof:lastmodified":1466698311,
     "wof:name":"Od Merrick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.191414,35.169508,-106.191414,35.169508],
-  "geometry": {"coordinates":[-106.191414,35.169508],"type":"Point"}
+  "bbox": [
+    -106.191414,
+    35.169508,
+    -106.191414,
+    35.169508
+],
+  "geometry": {"coordinates":[-106.19141399999999,35.169508],"type":"Point"}
 }

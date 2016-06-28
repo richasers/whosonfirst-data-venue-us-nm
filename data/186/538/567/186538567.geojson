@@ -2,13 +2,14 @@
   "id": 186538567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.663308,35.001069,-106.663308,35.001069",
     "geom:latitude":35.001069,
     "geom:longitude":-106.663308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5317 2nd St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186538567,
-    "wof:lastmodified":1449050633,
+    "wof:lastmodified":1466700500,
     "wof:name":"Mel Aragon Head Start",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.663308,35.001069,-106.663308,35.001069],
+  "bbox": [
+    -106.663308,
+    35.001069,
+    -106.663308,
+    35.001069
+],
   "geometry": {"coordinates":[-106.663308,35.001069],"type":"Point"}
 }

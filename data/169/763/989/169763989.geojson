@@ -2,13 +2,14 @@
   "id": 169763989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.207603,32.34405,-104.207603,32.34405",
     "geom:latitude":32.34405,
     "geom:longitude":-104.207603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Roundup Rd",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169763989,
-    "wof:lastmodified":1449035955,
+    "wof:lastmodified":1466698201,
     "wof:name":"Blue Wally Construction",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-104.207603,32.34405,-104.207603,32.34405],
-  "geometry": {"coordinates":[-104.207603,32.34405],"type":"Point"}
+  "bbox": [
+    -104.207603,
+    32.34405,
+    -104.207603,
+    32.34405
+],
+  "geometry": {"coordinates":[-104.20760300000001,32.34405],"type":"Point"}
 }

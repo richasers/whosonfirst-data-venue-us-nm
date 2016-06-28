@@ -2,13 +2,14 @@
   "id": 186259663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.757954,32.973098,-105.757954,32.973098",
     "geom:latitude":32.973098,
     "geom:longitude":-105.757954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 US Hwy 82",
     "sg:city":"Cloudcroft",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186259663,
-    "wof:lastmodified":1449051015,
+    "wof:lastmodified":1466698783,
     "wof:name":"Aspen Rose Motel & Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.757954,32.973098,-105.757954,32.973098],
+  "bbox": [
+    -105.757954,
+    32.973098,
+    -105.757954,
+    32.973098
+],
   "geometry": {"coordinates":[-105.757954,32.973098],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186058753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.369816,36.745979,-108.369816,36.745979",
     "geom:latitude":36.745979,
     "geom:longitude":-108.369816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4124 US Hwy 64",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186058753,
-    "wof:lastmodified":1449050783,
+    "wof:lastmodified":1466698366,
     "wof:name":"Manning's Pawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-108.369816,36.745979,-108.369816,36.745979],
+  "bbox": [
+    -108.369816,
+    36.745979,
+    -108.369816,
+    36.745979
+],
   "geometry": {"coordinates":[-108.369816,36.745979],"type":"Point"}
 }

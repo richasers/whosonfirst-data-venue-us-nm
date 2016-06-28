@@ -2,13 +2,14 @@
   "id": 185800991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.214237,34.414657,-103.214237,34.414657",
     "geom:latitude":34.414657,
     "geom:longitude":-103.214237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1548 N Thornton St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185800991,
-    "wof:lastmodified":1449006732,
+    "wof:lastmodified":1466699348,
     "wof:name":"K's Oriental Food Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-103.214237,34.414657,-103.214237,34.414657],
+  "bbox": [
+    -103.214237,
+    34.414657,
+    -103.214237,
+    34.414657
+],
   "geometry": {"coordinates":[-103.214237,34.414657],"type":"Point"}
 }

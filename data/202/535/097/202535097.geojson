@@ -2,13 +2,14 @@
   "id": 202535097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.766322,34.669594,-106.766322,34.669594",
     "geom:latitude":34.669594,
     "geom:longitude":-106.766322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"194 Tafoya Rd",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202535097,
-    "wof:lastmodified":1449060562,
+    "wof:lastmodified":1466699291,
     "wof:name":"Daniel Trujillo Dump Truck",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gravel"
     ]
 },
-  "bbox": [-106.766322,34.669594,-106.766322,34.669594],
+  "bbox": [
+    -106.766322,
+    34.669594,
+    -106.766322,
+    34.669594
+],
   "geometry": {"coordinates":[-106.766322,34.669594],"type":"Point"}
 }

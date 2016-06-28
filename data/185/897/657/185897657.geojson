@@ -2,13 +2,14 @@
   "id": 185897657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.153785,32.665204,-107.153785,32.665204",
     "geom:latitude":32.665204,
     "geom:longitude":-107.153785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 W Hall St",
     "sg:city":"Hatch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185897657,
-    "wof:lastmodified":1449007973,
+    "wof:lastmodified":1466698472,
     "wof:name":"Hatch Mercantile Co",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "western"
     ]
 },
-  "bbox": [-107.153785,32.665204,-107.153785,32.665204],
+  "bbox": [
+    -107.153785,
+    32.665204,
+    -107.153785,
+    32.665204
+],
   "geometry": {"coordinates":[-107.153785,32.665204],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203070113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.77095,32.296859,-106.77095,32.296859",
     "geom:latitude":32.296859,
     "geom:longitude":-106.77095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 el Paseo Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203070113,
-    "wof:lastmodified":1449025837,
+    "wof:lastmodified":1466698341,
     "wof:name":"Q-Cad Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drafting"
     ]
 },
-  "bbox": [-106.77095,32.296859,-106.77095,32.296859],
+  "bbox": [
+    -106.77095,
+    32.296859,
+    -106.77095,
+    32.296859
+],
   "geometry": {"coordinates":[-106.77095,32.296859],"type":"Point"}
 }

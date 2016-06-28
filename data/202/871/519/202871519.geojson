@@ -2,13 +2,14 @@
   "id": 202871519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.269958,32.782887,-108.269958,32.782887",
     "geom:latitude":32.782887,
     "geom:longitude":-108.269958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 Silver Heights Blvd",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202871519,
-    "wof:lastmodified":1449060940,
+    "wof:lastmodified":1466700255,
     "wof:name":"Corre Caminos Transit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "line"
     ]
 },
-  "bbox": [-108.269958,32.782887,-108.269958,32.782887],
+  "bbox": [
+    -108.269958,
+    32.782887,
+    -108.269958,
+    32.782887
+],
   "geometry": {"coordinates":[-108.269958,32.782887],"type":"Point"}
 }

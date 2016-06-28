@@ -2,13 +2,14 @@
   "id": 353932573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.606543,35.135487,-106.606543,35.135487",
     "geom:latitude":35.135487,
     "geom:longitude":-106.606543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4676 Commerce Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353932573,
-    "wof:lastmodified":1449019208,
+    "wof:lastmodified":1466698079,
     "wof:name":"InTown Suites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "lodging"
     ]
 },
-  "bbox": [-106.606543,35.135487,-106.606543,35.135487],
+  "bbox": [
+    -106.606543,
+    35.135487,
+    -106.606543,
+    35.135487
+],
   "geometry": {"coordinates":[-106.606543,35.135487],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202562895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.504652,35.154227,-106.504652,35.154227",
     "geom:latitude":35.154227,
     "geom:longitude":-106.504652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11905 Caribou Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202562895,
-    "wof:lastmodified":1449061452,
+    "wof:lastmodified":1466697837,
     "wof:name":"Vortex Aviation",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.504652,35.154227,-106.504652,35.154227],
-  "geometry": {"coordinates":[-106.504652,35.154227],"type":"Point"}
+  "bbox": [
+    -106.504652,
+    35.154227,
+    -106.504652,
+    35.154227
+],
+  "geometry": {"coordinates":[-106.50465199999999,35.154227],"type":"Point"}
 }

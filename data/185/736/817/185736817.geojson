@@ -2,13 +2,14 @@
   "id": 185736817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.179746,36.743392,-108.179746,36.743392",
     "geom:latitude":36.743392,
     "geom:longitude":-108.179746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 13th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185736817,
-    "wof:lastmodified":1449008172,
+    "wof:lastmodified":1466699041,
     "wof:name":"Abney & Sons Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-108.179746,36.743392,-108.179746,36.743392],
-  "geometry": {"coordinates":[-108.179746,36.743392],"type":"Point"}
+  "bbox": [
+    -108.179746,
+    36.743392,
+    -108.179746,
+    36.743392
+],
+  "geometry": {"coordinates":[-108.17974599999999,36.743392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203107405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.515307,35.09868,-106.515307,35.09868",
     "geom:latitude":35.09868,
     "geom:longitude":-106.515307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1570 Juan Tabo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203107405,
-    "wof:lastmodified":1449024948,
+    "wof:lastmodified":1466698808,
     "wof:name":"Albuquerque Bicycle Ctr",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.515307,35.09868,-106.515307,35.09868],
-  "geometry": {"coordinates":[-106.515307,35.09868],"type":"Point"}
+  "bbox": [
+    -106.515307,
+    35.09868,
+    -106.515307,
+    35.09868
+],
+  "geometry": {"coordinates":[-106.51530700000001,35.09868],"type":"Point"}
 }

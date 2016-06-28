@@ -2,13 +2,14 @@
   "id": 186537317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.778846,32.346862,-106.778846,32.346862",
     "geom:latitude":32.346862,
     "geom:longitude":-106.778846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 Ferndale Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186537317,
-    "wof:lastmodified":1449051049,
+    "wof:lastmodified":1466700351,
     "wof:name":"Reliable Maintenance Service",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-106.778846,32.346862,-106.778846,32.346862],
+  "bbox": [
+    -106.778846,
+    32.346862,
+    -106.778846,
+    32.346862
+],
   "geometry": {"coordinates":[-106.778846,32.346862],"type":"Point"}
 }

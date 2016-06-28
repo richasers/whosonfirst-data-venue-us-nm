@@ -2,13 +2,14 @@
   "id": 185820847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.561214,35.11254,-106.561214,35.11254",
     "geom:latitude":35.11254,
     "geom:longitude":-106.561214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2717 Dallas St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185820847,
-    "wof:lastmodified":1449007462,
+    "wof:lastmodified":1466697692,
     "wof:name":"Marshall Woodworking",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-106.561214,35.11254,-106.561214,35.11254],
-  "geometry": {"coordinates":[-106.561214,35.11254],"type":"Point"}
+  "bbox": [
+    -106.561214,
+    35.11254,
+    -106.561214,
+    35.11254
+],
+  "geometry": {"coordinates":[-106.56121400000001,35.11254],"type":"Point"}
 }

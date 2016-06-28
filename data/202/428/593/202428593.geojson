@@ -2,13 +2,14 @@
   "id": 202428593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.484048,35.099787,-106.484048,35.099787",
     "geom:latitude":35.099787,
     "geom:longitude":-106.484048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13900 Haines Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202428593,
-    "wof:lastmodified":1449062469,
+    "wof:lastmodified":1466698297,
     "wof:name":"Jannakos Art",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.484048,35.099787,-106.484048,35.099787],
+  "bbox": [
+    -106.484048,
+    35.099787,
+    -106.484048,
+    35.099787
+],
   "geometry": {"coordinates":[-106.484048,35.099787],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186593627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.620195,31.840103,-106.620195,31.840103",
     "geom:latitude":31.840103,
     "geom:longitude":-106.620195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5050 McNutt Rd",
     "sg:city":"Santa Teresa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186593627,
-    "wof:lastmodified":1449052147,
+    "wof:lastmodified":1466700615,
     "wof:name":"Schools Public Gadsden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.620195,31.840103,-106.620195,31.840103],
+  "bbox": [
+    -106.620195,
+    31.840103,
+    -106.620195,
+    31.840103
+],
   "geometry": {"coordinates":[-106.620195,31.840103],"type":"Point"}
 }

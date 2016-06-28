@@ -2,13 +2,14 @@
   "id": 202544745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.778116,34.663049,-106.778116,34.663049",
     "geom:latitude":34.663049,
     "geom:longitude":-106.778116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Reinken Ave",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202544745,
-    "wof:lastmodified":1449062647,
+    "wof:lastmodified":1466699334,
     "wof:name":"Belen Print Shop",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-106.778116,34.663049,-106.778116,34.663049],
+  "bbox": [
+    -106.778116,
+    34.663049,
+    -106.778116,
+    34.663049
+],
   "geometry": {"coordinates":[-106.778116,34.663049],"type":"Point"}
 }

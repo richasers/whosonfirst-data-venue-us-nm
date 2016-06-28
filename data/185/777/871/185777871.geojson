@@ -2,13 +2,14 @@
   "id": 185777871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.994465,35.65104,-105.994465,35.65104",
     "geom:latitude":35.65104,
     "geom:longitude":-105.994465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Ave Codorniz",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185777871,
-    "wof:lastmodified":1449007472,
+    "wof:lastmodified":1466699256,
     "wof:name":"Electrical Construction",
     "wof:parent_id":85880845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.994465,35.65104,-105.994465,35.65104],
-  "geometry": {"coordinates":[-105.994465,35.65104],"type":"Point"}
+  "bbox": [
+    -105.994465,
+    35.65104,
+    -105.994465,
+    35.65104
+],
+  "geometry": {"coordinates":[-105.99446500000001,35.65104],"type":"Point"}
 }

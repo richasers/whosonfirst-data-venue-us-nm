@@ -2,13 +2,14 @@
   "id": 186500977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.740708,34.810224,-106.740708,34.810224",
     "geom:latitude":34.810224,
     "geom:longitude":-106.740708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Main St SW",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186500977,
-    "wof:lastmodified":1449051064,
+    "wof:lastmodified":1466700093,
     "wof:name":"Salinas's Hot Spot",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-106.740708,34.810224,-106.740708,34.810224],
+  "bbox": [
+    -106.740708,
+    34.810224,
+    -106.740708,
+    34.810224
+],
   "geometry": {"coordinates":[-106.740708,34.810224],"type":"Point"}
 }

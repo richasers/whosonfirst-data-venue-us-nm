@@ -2,13 +2,14 @@
   "id": 202512691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.535678,35.090057,-106.535678,35.090057",
     "geom:latitude":35.090057,
     "geom:longitude":-106.535678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 Westerfeld Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202512691,
-    "wof:lastmodified":1449061945,
+    "wof:lastmodified":1466699215,
     "wof:name":"Bonnie's Birthing Videos",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cassette"
     ]
 },
-  "bbox": [-106.535678,35.090057,-106.535678,35.090057],
+  "bbox": [
+    -106.535678,
+    35.090057,
+    -106.535678,
+    35.090057
+],
   "geometry": {"coordinates":[-106.535678,35.090057],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186223675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.563461,31.802584,-106.563461,31.802584",
     "geom:latitude":31.802584,
     "geom:longitude":-106.563461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1852 Victory Dr",
     "sg:city":"Sunland Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186223675,
-    "wof:lastmodified":1449050438,
+    "wof:lastmodified":1466698314,
     "wof:name":"Mica Container Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pail"
     ]
 },
-  "bbox": [-106.563461,31.802584,-106.563461,31.802584],
+  "bbox": [
+    -106.563461,
+    31.802584,
+    -106.563461,
+    31.802584
+],
   "geometry": {"coordinates":[-106.563461,31.802584],"type":"Point"}
 }

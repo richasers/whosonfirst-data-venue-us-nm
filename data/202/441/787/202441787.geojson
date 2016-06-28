@@ -2,13 +2,14 @@
   "id": 202441787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.533286,35.149968,-106.533286,35.149968",
     "geom:latitude":35.149968,
     "geom:longitude":-106.533286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9527 Admiral Dewey Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202441787,
-    "wof:lastmodified":1449060304,
+    "wof:lastmodified":1466698450,
     "wof:name":"Better Accounting Svc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-106.533286,35.149968,-106.533286,35.149968],
+  "bbox": [
+    -106.533286,
+    35.149968,
+    -106.533286,
+    35.149968
+],
   "geometry": {"coordinates":[-106.533286,35.149968],"type":"Point"}
 }

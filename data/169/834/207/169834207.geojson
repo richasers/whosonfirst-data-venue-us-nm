@@ -2,13 +2,14 @@
   "id": 169834207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.690441,35.165832,-106.690441,35.165832",
     "geom:latitude":35.165832,
     "geom:longitude":-106.690441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4816 Plume Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169834207,
-    "wof:lastmodified":1449032976,
+    "wof:lastmodified":1466698823,
     "wof:name":"Holliday Therapeutic Massage",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-106.690441,35.165832,-106.690441,35.165832],
-  "geometry": {"coordinates":[-106.690441,35.165832],"type":"Point"}
+  "bbox": [
+    -106.690441,
+    35.165832,
+    -106.690441,
+    35.165832
+],
+  "geometry": {"coordinates":[-106.69044100000001,35.165832],"type":"Point"}
 }

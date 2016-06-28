@@ -2,13 +2,14 @@
   "id": 202914741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.748997,32.247658,-106.748997,32.247658",
     "geom:latitude":32.247658,
     "geom:longitude":-106.748997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5105 S Main St",
     "sg:city":"Mesilla Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202914741,
-    "wof:lastmodified":1449061081,
+    "wof:lastmodified":1466700419,
     "wof:name":"B & G Total Alignment",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alignment"
     ]
 },
-  "bbox": [-106.748997,32.247658,-106.748997,32.247658],
+  "bbox": [
+    -106.748997,
+    32.247658,
+    -106.748997,
+    32.247658
+],
   "geometry": {"coordinates":[-106.748997,32.247658],"type":"Point"}
 }

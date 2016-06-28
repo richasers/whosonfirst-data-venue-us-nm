@@ -2,13 +2,14 @@
   "id": 186082027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613102,35.101962,-106.613102,35.101962",
     "geom:latitude":35.101962,
     "geom:longitude":-106.613102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 Girard Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":186082027,
-    "wof:lastmodified":1449050335,
+    "wof:lastmodified":1466698674,
     "wof:name":"Harold Tidenberg Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "rental"
     ]
 },
-  "bbox": [-106.613102,35.101962,-106.613102,35.101962],
+  "bbox": [
+    -106.613102,
+    35.101962,
+    -106.613102,
+    35.101962
+],
   "geometry": {"coordinates":[-106.613102,35.101962],"type":"Point"}
 }

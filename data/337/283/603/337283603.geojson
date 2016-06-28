@@ -2,13 +2,14 @@
   "id": 337283603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.745126,32.290315,-106.745126,32.290315",
     "geom:latitude":32.290315,
     "geom:longitude":-106.745126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1990 Wyoming Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337283603,
-    "wof:lastmodified":1449027184,
+    "wof:lastmodified":1466697679,
     "wof:name":"Access Remodeling & Cnstr",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.745126,32.290315,-106.745126,32.290315],
+  "bbox": [
+    -106.745126,
+    32.290315,
+    -106.745126,
+    32.290315
+],
   "geometry": {"coordinates":[-106.745126,32.290315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202615721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.744921,32.241206,-106.744921,32.241206",
     "geom:latitude":32.241206,
     "geom:longitude":-106.744921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5651 S Main St",
     "sg:city":"Mesilla Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202615721,
-    "wof:lastmodified":1449060912,
+    "wof:lastmodified":1466698609,
     "wof:name":"Julio's Transmission",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-106.744921,32.241206,-106.744921,32.241206],
-  "geometry": {"coordinates":[-106.744921,32.241206],"type":"Point"}
+  "bbox": [
+    -106.744921,
+    32.241206,
+    -106.744921,
+    32.241206
+],
+  "geometry": {"coordinates":[-106.74492100000001,32.241206],"type":"Point"}
 }

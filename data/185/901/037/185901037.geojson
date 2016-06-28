@@ -2,13 +2,14 @@
   "id": 185901037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.164927,36.726408,-108.164927,36.726408",
     "geom:latitude":36.726408,
     "geom:longitude":-108.164927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Sandstone Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185901037,
-    "wof:lastmodified":1449007280,
+    "wof:lastmodified":1466698533,
     "wof:name":"W W Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hauling"
     ]
 },
-  "bbox": [-108.164927,36.726408,-108.164927,36.726408],
-  "geometry": {"coordinates":[-108.164927,36.726408],"type":"Point"}
+  "bbox": [
+    -108.164927,
+    36.726408,
+    -108.164927,
+    36.726408
+],
+  "geometry": {"coordinates":[-108.16492700000001,36.726408],"type":"Point"}
 }

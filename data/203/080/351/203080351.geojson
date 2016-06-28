@@ -2,13 +2,14 @@
   "id": 203080351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.167875,34.429439,-103.167875,34.429439",
     "geom:latitude":34.429439,
     "geom:longitude":-103.167875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Rodeo Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203080351,
-    "wof:lastmodified":1449026830,
+    "wof:lastmodified":1466698474,
     "wof:name":"National Information Exchange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "referral"
     ]
 },
-  "bbox": [-103.167875,34.429439,-103.167875,34.429439],
+  "bbox": [
+    -103.167875,
+    34.429439,
+    -103.167875,
+    34.429439
+],
   "geometry": {"coordinates":[-103.167875,34.429439],"type":"Point"}
 }

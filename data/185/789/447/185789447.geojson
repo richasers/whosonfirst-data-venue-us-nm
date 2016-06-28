@@ -2,13 +2,14 @@
   "id": 185789447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.336047,34.259742,-103.336047,34.259742",
     "geom:latitude":34.259742,
     "geom:longitude":-103.336047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1891 Oasis Rd",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185789447,
-    "wof:lastmodified":1449007343,
+    "wof:lastmodified":1466699299,
     "wof:name":"Oasis State Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "program"
     ]
 },
-  "bbox": [-103.336047,34.259742,-103.336047,34.259742],
-  "geometry": {"coordinates":[-103.336047,34.259742],"type":"Point"}
+  "bbox": [
+    -103.336047,
+    34.259742,
+    -103.336047,
+    34.259742
+],
+  "geometry": {"coordinates":[-103.33604699999999,34.259742],"type":"Point"}
 }

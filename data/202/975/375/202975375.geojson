@@ -2,13 +2,14 @@
   "id": 202975375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.157887,32.665603,-107.157887,32.665603",
     "geom:latitude":32.665603,
     "geom:longitude":-107.157887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 W Hall St",
     "sg:city":"Hatch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202975375,
-    "wof:lastmodified":1449062304,
+    "wof:lastmodified":1466700683,
     "wof:name":"Ace High School",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.157887,32.665603,-107.157887,32.665603],
+  "bbox": [
+    -107.157887,
+    32.665603,
+    -107.157887,
+    32.665603
+],
   "geometry": {"coordinates":[-107.157887,32.665603],"type":"Point"}
 }

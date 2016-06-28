@@ -2,13 +2,14 @@
   "id": 186299113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604208,35.126973,-106.604208,35.126973",
     "geom:latitude":35.126973,
     "geom:longitude":-106.604208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4015 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":186299113,
-    "wof:lastmodified":1449051078,
+    "wof:lastmodified":1466699321,
     "wof:name":"Integre Technical Publishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-106.604208,35.126973,-106.604208,35.126973],
+  "bbox": [
+    -106.604208,
+    35.126973,
+    -106.604208,
+    35.126973
+],
   "geometry": {"coordinates":[-106.604208,35.126973],"type":"Point"}
 }

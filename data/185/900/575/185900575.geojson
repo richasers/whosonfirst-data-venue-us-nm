@@ -2,13 +2,14 @@
   "id": 185900575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.220976,32.446486,-104.220976,32.446486",
     "geom:latitude":32.446486,
     "geom:longitude":-104.220976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 Mission Ave",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185900575,
-    "wof:lastmodified":1449007303,
+    "wof:lastmodified":1466698528,
     "wof:name":"Morahan Sign Service",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.220976,32.446486,-104.220976,32.446486],
-  "geometry": {"coordinates":[-104.220976,32.446486],"type":"Point"}
+  "bbox": [
+    -104.220976,
+    32.446486,
+    -104.220976,
+    32.446486
+],
+  "geometry": {"coordinates":[-104.22097599999999,32.446486],"type":"Point"}
 }

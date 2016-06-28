@@ -2,13 +2,14 @@
   "id": 185788421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.738482,32.301677,-106.738482,32.301677",
     "geom:latitude":32.301677,
     "geom:longitude":-106.738482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2703 Ridgeway Ct",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185788421,
-    "wof:lastmodified":1449007460,
+    "wof:lastmodified":1466699299,
     "wof:name":"Gilbert R Apodaca",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "analyst"
     ]
 },
-  "bbox": [-106.738482,32.301677,-106.738482,32.301677],
+  "bbox": [
+    -106.738482,
+    32.301677,
+    -106.738482,
+    32.301677
+],
   "geometry": {"coordinates":[-106.738482,32.301677],"type":"Point"}
 }

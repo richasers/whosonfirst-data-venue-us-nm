@@ -2,13 +2,14 @@
   "id": 186189751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.258324,32.417154,-104.258324,32.417154",
     "geom:latitude":32.417154,
     "geom:longitude":-104.258324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 S 8th St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186189751,
-    "wof:lastmodified":1449052246,
+    "wof:lastmodified":1466697889,
     "wof:name":"Sieberg Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-104.258324,32.417154,-104.258324,32.417154],
+  "bbox": [
+    -104.258324,
+    32.417154,
+    -104.258324,
+    32.417154
+],
   "geometry": {"coordinates":[-104.258324,32.417154],"type":"Point"}
 }

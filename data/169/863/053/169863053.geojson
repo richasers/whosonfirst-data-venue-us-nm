@@ -2,13 +2,14 @@
   "id": 169863053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.625594,35.05346,-106.625594,35.05346",
     "geom:latitude":35.05346,
     "geom:longitude":-106.625594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Randolph Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169863053,
-    "wof:lastmodified":1449034968,
+    "wof:lastmodified":1466698960,
     "wof:name":"Albuquerque Ambulance Svc",
     "wof:parent_id":85846885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-106.625594,35.05346,-106.625594,35.05346],
-  "geometry": {"coordinates":[-106.625594,35.05346],"type":"Point"}
+  "bbox": [
+    -106.625594,
+    35.05346,
+    -106.625594,
+    35.05346
+],
+  "geometry": {"coordinates":[-106.62559400000001,35.05346],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186577721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.6137,35.119306,-106.6137,35.119306",
     "geom:latitude":35.119306,
     "geom:longitude":-106.6137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3448 Girard Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186577721,
-    "wof:lastmodified":1449053103,
+    "wof:lastmodified":1466700670,
     "wof:name":"Plastic Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "sheet"
     ]
 },
-  "bbox": [-106.6137,35.119306,-106.6137,35.119306],
-  "geometry": {"coordinates":[-106.6137,35.119306],"type":"Point"}
+  "bbox": [
+    -106.6137,
+    35.119306,
+    -106.6137,
+    35.119306
+],
+  "geometry": {"coordinates":[-106.61369999999999,35.119306],"type":"Point"}
 }

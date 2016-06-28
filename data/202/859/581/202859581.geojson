@@ -2,13 +2,14 @@
   "id": 202859581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.899443,35.524827,-105.899443,35.524827",
     "geom:latitude":35.524827,
     "geom:longitude":-105.899443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Aster Way",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202859581,
-    "wof:lastmodified":1449061910,
+    "wof:lastmodified":1466700090,
     "wof:name":"Jozel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.899443,35.524827,-105.899443,35.524827],
-  "geometry": {"coordinates":[-105.899443,35.524827],"type":"Point"}
+  "bbox": [
+    -105.899443,
+    35.524827,
+    -105.899443,
+    35.524827
+],
+  "geometry": {"coordinates":[-105.89944300000001,35.524827],"type":"Point"}
 }

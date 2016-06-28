@@ -2,13 +2,14 @@
   "id": 186027097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.79401,32.309219,-106.79401,32.309219",
     "geom:latitude":32.309219,
     "geom:longitude":-106.79401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"480 6th St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186027097,
-    "wof:lastmodified":1449050907,
+    "wof:lastmodified":1466697987,
     "wof:name":"Sierra Irrigation Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "irrigation"
     ]
 },
-  "bbox": [-106.79401,32.309219,-106.79401,32.309219],
+  "bbox": [
+    -106.79401,
+    32.309219,
+    -106.79401,
+    32.309219
+],
   "geometry": {"coordinates":[-106.79401,32.309219],"type":"Point"}
 }

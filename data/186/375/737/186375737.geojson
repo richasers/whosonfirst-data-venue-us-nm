@@ -2,13 +2,14 @@
   "id": 186375737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.097278,32.284834,-104.097278,32.284834",
     "geom:latitude":32.284834,
     "geom:longitude":-104.097278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 W Beech St",
     "sg:city":"Loving",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186375737,
-    "wof:lastmodified":1449050362,
+    "wof:lastmodified":1466699749,
     "wof:name":"American Safety Svc Inc",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [-104.097278,32.284834,-104.097278,32.284834],
+  "bbox": [
+    -104.097278,
+    32.284834,
+    -104.097278,
+    32.284834
+],
   "geometry": {"coordinates":[-104.097278,32.284834],"type":"Point"}
 }

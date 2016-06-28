@@ -2,13 +2,14 @@
   "id": 169835847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.737229,34.802399,-106.737229,34.802399",
     "geom:latitude":34.802399,
     "geom:longitude":-106.737229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Teles St",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169835847,
-    "wof:lastmodified":1449033159,
+    "wof:lastmodified":1466698842,
     "wof:name":"Clifford O Morgan PHD",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.737229,34.802399,-106.737229,34.802399],
+  "bbox": [
+    -106.737229,
+    34.802399,
+    -106.737229,
+    34.802399
+],
   "geometry": {"coordinates":[-106.737229,34.802399],"type":"Point"}
 }

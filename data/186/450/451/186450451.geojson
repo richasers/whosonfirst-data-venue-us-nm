@@ -2,13 +2,14 @@
   "id": 186450451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.1595,32.438181,-103.1595,32.438181",
     "geom:latitude":32.438181,
     "geom:longitude":-103.1595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 Main St",
     "sg:city":"Eunice",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186450451,
-    "wof:lastmodified":1449052595,
+    "wof:lastmodified":1466700034,
     "wof:name":"Bo-Kay Flower Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.1595,32.438181,-103.1595,32.438181],
-  "geometry": {"coordinates":[-103.1595,32.438181],"type":"Point"}
+  "bbox": [
+    -103.1595,
+    32.438181,
+    -103.1595,
+    32.438181
+],
+  "geometry": {"coordinates":[-103.15949999999999,32.438181],"type":"Point"}
 }

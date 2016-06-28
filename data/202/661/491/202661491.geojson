@@ -2,13 +2,14 @@
   "id": 202661491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.623123,35.065148,-106.623123,35.065148",
     "geom:latitude":35.065148,
     "geom:longitude":-106.623123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1512 Wilmoore Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202661491,
-    "wof:lastmodified":1449062373,
+    "wof:lastmodified":1466699306,
     "wof:name":"Jesus A Bencomo Handyman",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-106.623123,35.065148,-106.623123,35.065148],
-  "geometry": {"coordinates":[-106.623123,35.065148],"type":"Point"}
+  "bbox": [
+    -106.623123,
+    35.065148,
+    -106.623123,
+    35.065148
+],
+  "geometry": {"coordinates":[-106.62312300000001,35.065148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353940693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.598082,35.130993,-106.598082,35.130993",
     "geom:latitude":35.130993,
     "geom:longitude":-106.598082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4135 Montgomery Blvd NE C",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353940693,
-    "wof:lastmodified":1449018883,
+    "wof:lastmodified":1466698295,
     "wof:name":"Aldrich Land Surveying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "engineer"
     ]
 },
-  "bbox": [-106.598082,35.130993,-106.598082,35.130993],
-  "geometry": {"coordinates":[-106.598082,35.130993],"type":"Point"}
+  "bbox": [
+    -106.598082,
+    35.130993,
+    -106.598082,
+    35.130993
+],
+  "geometry": {"coordinates":[-106.59808200000001,35.130993],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186591135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.276497,32.770364,-108.276497,32.770364",
     "geom:latitude":32.770364,
     "geom:longitude":-108.276497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 N Bullard St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186591135,
-    "wof:lastmodified":1449051810,
+    "wof:lastmodified":1466700603,
     "wof:name":"L & I Arts Supplies & Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-108.276497,32.770364,-108.276497,32.770364],
-  "geometry": {"coordinates":[-108.276497,32.770364],"type":"Point"}
+  "bbox": [
+    -108.276497,
+    32.770364,
+    -108.276497,
+    32.770364
+],
+  "geometry": {"coordinates":[-108.27649700000001,32.770364],"type":"Point"}
 }

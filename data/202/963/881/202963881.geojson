@@ -2,13 +2,14 @@
   "id": 202963881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.651995,35.096278,-106.651995,35.096278",
     "geom:latitude":35.096278,
     "geom:longitude":-106.651995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 6th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202963881,
-    "wof:lastmodified":1449060358,
+    "wof:lastmodified":1466700618,
     "wof:name":"Et Al Court Reporters",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "reporter"
     ]
 },
-  "bbox": [-106.651995,35.096278,-106.651995,35.096278],
+  "bbox": [
+    -106.651995,
+    35.096278,
+    -106.651995,
+    35.096278
+],
   "geometry": {"coordinates":[-106.651995,35.096278],"type":"Point"}
 }

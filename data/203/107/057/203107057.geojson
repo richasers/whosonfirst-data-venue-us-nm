@@ -2,13 +2,14 @@
   "id": 203107057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.80994,32.294129,-106.80994,32.294129",
     "geom:latitude":32.294129,
     "geom:longitude":-106.80994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Motel Blvd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203107057,
-    "wof:lastmodified":1449024946,
+    "wof:lastmodified":1466698803,
     "wof:name":"Jurado Farms",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dressing"
     ]
 },
-  "bbox": [-106.80994,32.294129,-106.80994,32.294129],
+  "bbox": [
+    -106.80994,
+    32.294129,
+    -106.80994,
+    32.294129
+],
   "geometry": {"coordinates":[-106.80994,32.294129],"type":"Point"}
 }

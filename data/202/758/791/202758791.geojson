@@ -2,13 +2,14 @@
   "id": 202758791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.745643,35.063413,-106.745643,35.063413",
     "geom:latitude":35.063413,
     "geom:longitude":-106.745643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 Foyt Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202758791,
-    "wof:lastmodified":1449060882,
+    "wof:lastmodified":1466699732,
     "wof:name":"Dismas House New Mexico",
     "wof:parent_id":85892581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.745643,35.063413,-106.745643,35.063413],
+  "bbox": [
+    -106.745643,
+    35.063413,
+    -106.745643,
+    35.063413
+],
   "geometry": {"coordinates":[-106.745643,35.063413],"type":"Point"}
 }

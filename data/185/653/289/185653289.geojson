@@ -2,13 +2,14 @@
   "id": 185653289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.403829,35.41686,-106.403829,35.41686",
     "geom:latitude":35.41686,
     "geom:longitude":-106.403829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Hagon Rd",
     "sg:city":"Algodones",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185653289,
-    "wof:lastmodified":1449006723,
+    "wof:lastmodified":1466698165,
     "wof:name":"R & T4-WAY Shopper & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.403829,35.41686,-106.403829,35.41686],
+  "bbox": [
+    -106.403829,
+    35.41686,
+    -106.403829,
+    35.41686
+],
   "geometry": {"coordinates":[-106.403829,35.41686],"type":"Point"}
 }

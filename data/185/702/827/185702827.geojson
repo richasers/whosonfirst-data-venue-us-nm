@@ -2,13 +2,14 @@
   "id": 185702827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.484519,35.087349,-106.484519,35.087349",
     "geom:latitude":35.087349,
     "geom:longitude":-106.484519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Sierra Larga Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185702827,
-    "wof:lastmodified":1449007430,
+    "wof:lastmodified":1466698660,
     "wof:name":"Professional Services",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dental"
     ]
 },
-  "bbox": [-106.484519,35.087349,-106.484519,35.087349],
-  "geometry": {"coordinates":[-106.484519,35.087349],"type":"Point"}
+  "bbox": [
+    -106.484519,
+    35.087349,
+    -106.484519,
+    35.087349
+],
+  "geometry": {"coordinates":[-106.48451900000001,35.087349],"type":"Point"}
 }

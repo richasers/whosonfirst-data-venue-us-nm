@@ -2,13 +2,14 @@
   "id": 202650015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.772787,32.295389,-106.772787,32.295389",
     "geom:latitude":32.295389,
     "geom:longitude":-106.772787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 E Foster Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202650015,
-    "wof:lastmodified":1449061667,
+    "wof:lastmodified":1466699136,
     "wof:name":"Hoop-T-Dudes",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-106.772787,32.295389,-106.772787,32.295389],
-  "geometry": {"coordinates":[-106.772787,32.295389],"type":"Point"}
+  "bbox": [
+    -106.772787,
+    32.295389,
+    -106.772787,
+    32.295389
+],
+  "geometry": {"coordinates":[-106.77278699999999,32.295389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202572789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.691287,34.839359,-106.691287,34.839359",
     "geom:latitude":34.839359,
     "geom:longitude":-106.691287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2474 Bosque Farms Blvd",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202572789,
-    "wof:lastmodified":1449061675,
+    "wof:lastmodified":1466697977,
     "wof:name":"F & F Recuerdos & Crafts",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "craft"
     ]
 },
-  "bbox": [-106.691287,34.839359,-106.691287,34.839359],
+  "bbox": [
+    -106.691287,
+    34.839359,
+    -106.691287,
+    34.839359
+],
   "geometry": {"coordinates":[-106.691287,34.839359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186086535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.496932,35.124784,-106.496932,35.124784",
     "geom:latitude":35.124784,
     "geom:longitude":-106.496932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3805 Cll Pino NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186086535,
-    "wof:lastmodified":1449052164,
+    "wof:lastmodified":1466698716,
     "wof:name":"Turri Productions Inc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-106.496932,35.124784,-106.496932,35.124784],
+  "bbox": [
+    -106.496932,
+    35.124784,
+    -106.496932,
+    35.124784
+],
   "geometry": {"coordinates":[-106.496932,35.124784],"type":"Point"}
 }

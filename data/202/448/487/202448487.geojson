@@ -2,13 +2,14 @@
   "id": 202448487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.779473,34.663121,-106.779473,34.663121",
     "geom:latitude":34.663121,
     "geom:longitude":-106.779473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 W Reinken Ave",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202448487,
-    "wof:lastmodified":1449062522,
+    "wof:lastmodified":1466698523,
     "wof:name":"Investment Centers",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-106.779473,34.663121,-106.779473,34.663121],
+  "bbox": [
+    -106.779473,
+    34.663121,
+    -106.779473,
+    34.663121
+],
   "geometry": {"coordinates":[-106.779473,34.663121],"type":"Point"}
 }

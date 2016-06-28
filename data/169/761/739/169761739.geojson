@@ -2,13 +2,14 @@
   "id": 169761739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.299292,36.425482,-105.299292,36.425482",
     "geom:latitude":36.425482,
     "geom:longitude":-105.299292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Fria Ct",
     "sg:city":"Angel Fire",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169761739,
-    "wof:lastmodified":1449035177,
+    "wof:lastmodified":1466698176,
     "wof:name":"Pregnancy Support Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "abortion"
     ]
 },
-  "bbox": [-105.299292,36.425482,-105.299292,36.425482],
-  "geometry": {"coordinates":[-105.299292,36.425482],"type":"Point"}
+  "bbox": [
+    -105.299292,
+    36.425482,
+    -105.299292,
+    36.425482
+],
+  "geometry": {"coordinates":[-105.29929199999999,36.425482],"type":"Point"}
 }

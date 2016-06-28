@@ -2,13 +2,14 @@
   "id": 186592669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.222606,36.732997,-108.222606,36.732997",
     "geom:latitude":36.732997,
     "geom:longitude":-108.222606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Walnut Dr",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186592669,
-    "wof:lastmodified":1449051924,
+    "wof:lastmodified":1466700728,
     "wof:name":"Dona Ana Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-108.222606,36.732997,-108.222606,36.732997],
+  "bbox": [
+    -108.222606,
+    36.732997,
+    -108.222606,
+    36.732997
+],
   "geometry": {"coordinates":[-108.222606,36.732997],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186212623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.692255,34.848238,-106.692255,34.848238",
     "geom:latitude":34.848238,
     "geom:longitude":-106.692255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Hacienda Ct",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186212623,
-    "wof:lastmodified":1449052111,
+    "wof:lastmodified":1466698183,
     "wof:name":"Bobs Unique Autos",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-106.692255,34.848238,-106.692255,34.848238],
+  "bbox": [
+    -106.692255,
+    34.848238,
+    -106.692255,
+    34.848238
+],
   "geometry": {"coordinates":[-106.692255,34.848238],"type":"Point"}
 }

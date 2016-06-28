@@ -2,13 +2,14 @@
   "id": 202508697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.214183,34.429949,-103.214183,34.429949",
     "geom:latitude":34.429949,
     "geom:longitude":-103.214183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3112 N Thornton St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202508697,
-    "wof:lastmodified":1449061527,
+    "wof:lastmodified":1466699197,
     "wof:name":"Westminster Presbt Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.214183,34.429949,-103.214183,34.429949],
-  "geometry": {"coordinates":[-103.214183,34.429949],"type":"Point"}
+  "bbox": [
+    -103.214183,
+    34.429949,
+    -103.214183,
+    34.429949
+],
+  "geometry": {"coordinates":[-103.21418300000001,34.429949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186235583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.947365,35.657879,-105.947365,35.657879",
     "geom:latitude":35.657879,
     "geom:longitude":-105.947365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 Saint Michaels Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186235583,
-    "wof:lastmodified":1449050878,
+    "wof:lastmodified":1466698472,
     "wof:name":"Fast Track At Stvincent Hosp",
     "wof:parent_id":85880837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-105.947365,35.657879,-105.947365,35.657879],
+  "bbox": [
+    -105.947365,
+    35.657879,
+    -105.947365,
+    35.657879
+],
   "geometry": {"coordinates":[-105.947365,35.657879],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202534459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.136281,32.701852,-103.136281,32.701852",
     "geom:latitude":32.701852,
     "geom:longitude":-103.136281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N Turner St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202534459,
-    "wof:lastmodified":1449060773,
+    "wof:lastmodified":1466699293,
     "wof:name":"Underneath It All",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.136281,32.701852,-103.136281,32.701852],
+  "bbox": [
+    -103.136281,
+    32.701852,
+    -103.136281,
+    32.701852
+],
   "geometry": {"coordinates":[-103.136281,32.701852],"type":"Point"}
 }

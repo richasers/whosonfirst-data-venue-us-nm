@@ -2,13 +2,14 @@
   "id": 202443509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.33488,34.171323,-103.33488,34.171323",
     "geom:latitude":34.171323,
     "geom:longitude":-103.33488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 S Ave D",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202443509,
-    "wof:lastmodified":1449062196,
+    "wof:lastmodified":1466698470,
     "wof:name":"Roosevelt County Career Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.33488,34.171323,-103.33488,34.171323],
+  "bbox": [
+    -103.33488,
+    34.171323,
+    -103.33488,
+    34.171323
+],
   "geometry": {"coordinates":[-103.33488,34.171323],"type":"Point"}
 }

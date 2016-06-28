@@ -2,13 +2,14 @@
   "id": 169812021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.180459,36.758465,-108.180459,36.758465",
     "geom:latitude":36.758465,
     "geom:longitude":-108.180459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3126 N Ranch Ct",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169812021,
-    "wof:lastmodified":1449032779,
+    "wof:lastmodified":1466699432,
     "wof:name":"Shannon Eckley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-108.180459,36.758465,-108.180459,36.758465],
+  "bbox": [
+    -108.180459,
+    36.758465,
+    -108.180459,
+    36.758465
+],
   "geometry": {"coordinates":[-108.180459,36.758465],"type":"Point"}
 }

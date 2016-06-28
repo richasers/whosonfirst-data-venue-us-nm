@@ -2,13 +2,14 @@
   "id": 186447423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.971676,32.897346,-105.971676,32.897346",
     "geom:latitude":32.897346,
     "geom:longitude":-105.971676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 McDonald Rd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186447423,
-    "wof:lastmodified":1449052243,
+    "wof:lastmodified":1466700023,
     "wof:name":"White Sands Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.971676,32.897346,-105.971676,32.897346],
+  "bbox": [
+    -105.971676,
+    32.897346,
+    -105.971676,
+    32.897346
+],
   "geometry": {"coordinates":[-105.971676,32.897346],"type":"Point"}
 }

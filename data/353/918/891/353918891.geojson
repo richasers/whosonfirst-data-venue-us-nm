@@ -2,13 +2,14 @@
   "id": 353918891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.646644,35.085608,-106.646644,35.085608",
     "geom:latitude":35.085608,
     "geom:longitude":-106.646644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Tijeras Ave NE # 2001",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353918891,
-    "wof:lastmodified":1449019976,
+    "wof:lastmodified":1466697694,
     "wof:name":"Chestnut Law Offices",
     "wof:parent_id":85871877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "practice"
     ]
 },
-  "bbox": [-106.646644,35.085608,-106.646644,35.085608],
-  "geometry": {"coordinates":[-106.646644,35.085608],"type":"Point"}
+  "bbox": [
+    -106.646644,
+    35.085608,
+    -106.646644,
+    35.085608
+],
+  "geometry": {"coordinates":[-106.64664399999999,35.085608],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185968149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.208784,36.725629,-108.208784,36.725629",
     "geom:latitude":36.725629,
     "geom:longitude":-108.208784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 W Elm St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185968149,
-    "wof:lastmodified":1449006697,
+    "wof:lastmodified":1466699537,
     "wof:name":"J L Gray Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "management"
     ]
 },
-  "bbox": [-108.208784,36.725629,-108.208784,36.725629],
-  "geometry": {"coordinates":[-108.208784,36.725629],"type":"Point"}
+  "bbox": [
+    -108.208784,
+    36.725629,
+    -108.208784,
+    36.725629
+],
+  "geometry": {"coordinates":[-108.20878399999999,36.725629],"type":"Point"}
 }

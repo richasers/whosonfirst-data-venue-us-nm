@@ -2,13 +2,14 @@
   "id": 353976105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.183435,34.433399,-103.183435,34.433399",
     "geom:latitude":34.433399,
     "geom:longitude":-103.183435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 N Village Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353976105,
-    "wof:lastmodified":1449019303,
+    "wof:lastmodified":1466699044,
     "wof:name":"Lawrence F Kolek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.183435,34.433399,-103.183435,34.433399],
+  "bbox": [
+    -103.183435,
+    34.433399,
+    -103.183435,
+    34.433399
+],
   "geometry": {"coordinates":[-103.183435,34.433399],"type":"Point"}
 }

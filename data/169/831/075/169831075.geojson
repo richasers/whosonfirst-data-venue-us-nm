@@ -2,13 +2,14 @@
   "id": 169831075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.103106,36.771971,-108.103106,36.771971",
     "geom:latitude":36.771971,
     "geom:longitude":-108.103106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Rd 3665",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169831075,
-    "wof:lastmodified":1449034627,
+    "wof:lastmodified":1466698809,
     "wof:name":"E C West LTD Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.103106,36.771971,-108.103106,36.771971],
+  "bbox": [
+    -108.103106,
+    36.771971,
+    -108.103106,
+    36.771971
+],
   "geometry": {"coordinates":[-108.103106,36.771971],"type":"Point"}
 }

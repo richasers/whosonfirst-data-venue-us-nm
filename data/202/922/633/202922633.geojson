@@ -2,13 +2,14 @@
   "id": 202922633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.963871,35.547225,-105.963871,35.547225",
     "geom:latitude":35.547225,
     "geom:longitude":-105.963871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Camerada Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202922633,
-    "wof:lastmodified":1449060345,
+    "wof:lastmodified":1466700454,
     "wof:name":"Farr West Studios",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "frame"
     ]
 },
-  "bbox": [-105.963871,35.547225,-105.963871,35.547225],
+  "bbox": [
+    -105.963871,
+    35.547225,
+    -105.963871,
+    35.547225
+],
   "geometry": {"coordinates":[-105.963871,35.547225],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202601755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.687321,35.173836,-106.687321,35.173836",
     "geom:latitude":35.173836,
     "geom:longitude":-106.687321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7728 Ridgeview Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202601755,
-    "wof:lastmodified":1449061258,
+    "wof:lastmodified":1466698402,
     "wof:name":"Juan Quintana",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigation"
     ]
 },
-  "bbox": [-106.687321,35.173836,-106.687321,35.173836],
+  "bbox": [
+    -106.687321,
+    35.173836,
+    -106.687321,
+    35.173836
+],
   "geometry": {"coordinates":[-106.687321,35.173836],"type":"Point"}
 }

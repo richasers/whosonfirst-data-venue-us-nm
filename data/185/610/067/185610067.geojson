@@ -2,13 +2,14 @@
   "id": 185610067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.217755,36.7339,-108.217755,36.7339",
     "geom:latitude":36.7339,
     "geom:longitude":-108.217755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 W Apache St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185610067,
-    "wof:lastmodified":1449008166,
+    "wof:lastmodified":1466697692,
     "wof:name":"B & L Bookkeeping Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.217755,36.7339,-108.217755,36.7339],
+  "bbox": [
+    -108.217755,
+    36.7339,
+    -108.217755,
+    36.7339
+],
   "geometry": {"coordinates":[-108.217755,36.7339],"type":"Point"}
 }

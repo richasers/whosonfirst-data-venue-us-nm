@@ -2,13 +2,14 @@
   "id": 203003057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.500509,35.047095,-106.500509,35.047095",
     "geom:latitude":35.047095,
     "geom:longitude":-106.500509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 Cuatro Cerros Trl SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203003057,
-    "wof:lastmodified":1449026721,
+    "wof:lastmodified":1466697617,
     "wof:name":"Lolly Pockets",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-106.500509,35.047095,-106.500509,35.047095],
-  "geometry": {"coordinates":[-106.500509,35.047095],"type":"Point"}
+  "bbox": [
+    -106.500509,
+    35.047095,
+    -106.500509,
+    35.047095
+],
+  "geometry": {"coordinates":[-106.50050899999999,35.047095],"type":"Point"}
 }

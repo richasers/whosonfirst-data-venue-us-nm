@@ -2,13 +2,14 @@
   "id": 186285907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.620422,35.118769,-106.620422,35.118769",
     "geom:latitude":35.118769,
     "geom:longitude":-106.620422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3319 Princeton Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":186285907,
-    "wof:lastmodified":1449050343,
+    "wof:lastmodified":1466699140,
     "wof:name":"Image Floor Coverings Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "floor"
     ]
 },
-  "bbox": [-106.620422,35.118769,-106.620422,35.118769],
+  "bbox": [
+    -106.620422,
+    35.118769,
+    -106.620422,
+    35.118769
+],
   "geometry": {"coordinates":[-106.620422,35.118769],"type":"Point"}
 }

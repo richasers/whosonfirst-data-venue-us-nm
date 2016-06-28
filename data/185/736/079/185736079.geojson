@@ -2,13 +2,14 @@
   "id": 185736079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.595272,35.07813,-106.595272,35.07813",
     "geom:latitude":35.07813,
     "geom:longitude":-106.595272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Washington St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185736079,
-    "wof:lastmodified":1449008172,
+    "wof:lastmodified":1466699454,
     "wof:name":"Actors Center",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "instruction"
     ]
 },
-  "bbox": [-106.595272,35.07813,-106.595272,35.07813],
-  "geometry": {"coordinates":[-106.595272,35.07813],"type":"Point"}
+  "bbox": [
+    -106.595272,
+    35.07813,
+    -106.595272,
+    35.07813
+],
+  "geometry": {"coordinates":[-106.59527199999999,35.07813],"type":"Point"}
 }

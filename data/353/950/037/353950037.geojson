@@ -2,13 +2,14 @@
   "id": 353950037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.52784,35.139439,-106.52784,35.139439",
     "geom:latitude":35.139439,
     "geom:longitude":-106.52784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10110 Spain Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353950037,
-    "wof:lastmodified":1449019269,
+    "wof:lastmodified":1466698571,
     "wof:name":"Pediatric Health Services",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.52784,35.139439,-106.52784,35.139439],
+  "bbox": [
+    -106.52784,
+    35.139439,
+    -106.52784,
+    35.139439
+],
   "geometry": {"coordinates":[-106.52784,35.139439],"type":"Point"}
 }

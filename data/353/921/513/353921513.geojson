@@ -2,13 +2,14 @@
   "id": 353921513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.64215,35.083425,-106.64215,35.083425",
     "geom:latitude":35.083425,
     "geom:longitude":-106.64215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353921513,
-    "wof:lastmodified":1449019888,
+    "wof:lastmodified":1466697766,
     "wof:name":"Ron Holmes, Attorney at Law",
     "wof:parent_id":85871877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-106.64215,35.083425,-106.64215,35.083425],
+  "bbox": [
+    -106.64215,
+    35.083425,
+    -106.64215,
+    35.083425
+],
   "geometry": {"coordinates":[-106.64215,35.083425],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202849937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.940553,32.891111,-105.940553,32.891111",
     "geom:latitude":32.891111,
     "geom:longitude":-105.940553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Dale Scott Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202849937,
-    "wof:lastmodified":1449060573,
+    "wof:lastmodified":1466700187,
     "wof:name":"Showtime Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-105.940553,32.891111,-105.940553,32.891111],
-  "geometry": {"coordinates":[-105.940553,32.891111],"type":"Point"}
+  "bbox": [
+    -105.940553,
+    32.891111,
+    -105.940553,
+    32.891111
+],
+  "geometry": {"coordinates":[-105.94055299999999,32.891111],"type":"Point"}
 }

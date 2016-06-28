@@ -2,13 +2,14 @@
   "id": 185838049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.822484,32.362894,-106.822484,32.362894",
     "geom:latitude":32.362894,
     "geom:longitude":-106.822484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4737 Grider Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185838049,
-    "wof:lastmodified":1449006795,
+    "wof:lastmodified":1466697877,
     "wof:name":"NM Baseball Supplies",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.822484,32.362894,-106.822484,32.362894],
+  "bbox": [
+    -106.822484,
+    32.362894,
+    -106.822484,
+    32.362894
+],
   "geometry": {"coordinates":[-106.822484,32.362894],"type":"Point"}
 }

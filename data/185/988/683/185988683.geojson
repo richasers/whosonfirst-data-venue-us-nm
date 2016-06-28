@@ -2,13 +2,14 @@
   "id": 185988683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.060388,36.018497,-106.060388,36.018497",
     "geom:latitude":36.018497,
     "geom:longitude":-106.060388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 Cll Rivera",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185988683,
-    "wof:lastmodified":1449007146,
+    "wof:lastmodified":1466699816,
     "wof:name":"P W Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-106.060388,36.018497,-106.060388,36.018497],
+  "bbox": [
+    -106.060388,
+    36.018497,
+    -106.060388,
+    36.018497
+],
   "geometry": {"coordinates":[-106.060388,36.018497],"type":"Point"}
 }

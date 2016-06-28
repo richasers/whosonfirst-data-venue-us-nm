@@ -2,13 +2,14 @@
   "id": 353933761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.616565,35.123736,-106.616565,35.123736",
     "geom:latitude":35.123736,
     "geom:longitude":-106.616565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2420 Comanche Rd NE D1",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353933761,
-    "wof:lastmodified":1449018779,
+    "wof:lastmodified":1466698109,
     "wof:name":"Us Med",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.616565,35.123736,-106.616565,35.123736],
-  "geometry": {"coordinates":[-106.616565,35.123736],"type":"Point"}
+  "bbox": [
+    -106.616565,
+    35.123736,
+    -106.616565,
+    35.123736
+],
+  "geometry": {"coordinates":[-106.61656499999999,35.123736],"type":"Point"}
 }

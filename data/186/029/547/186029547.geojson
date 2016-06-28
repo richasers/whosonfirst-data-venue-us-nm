@@ -2,13 +2,14 @@
   "id": 186029547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.750406,32.306439,-106.750406,32.306439",
     "geom:latitude":32.306439,
     "geom:longitude":-106.750406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2346 Sambrano Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186029547,
-    "wof:lastmodified":1449051506,
+    "wof:lastmodified":1466698018,
     "wof:name":"Dlp Building Co",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-106.750406,32.306439,-106.750406,32.306439],
+  "bbox": [
+    -106.750406,
+    32.306439,
+    -106.750406,
+    32.306439
+],
   "geometry": {"coordinates":[-106.750406,32.306439],"type":"Point"}
 }

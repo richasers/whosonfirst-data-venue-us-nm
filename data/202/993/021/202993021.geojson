@@ -2,13 +2,14 @@
   "id": 202993021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.852032,32.301191,-106.852032,32.301191",
     "geom:latitude":32.301191,
     "geom:longitude":-106.852032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4883 W Picacho Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202993021,
-    "wof:lastmodified":1449061249,
+    "wof:lastmodified":1466700656,
     "wof:name":"R&J Express LLC",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.852032,32.301191,-106.852032,32.301191],
-  "geometry": {"coordinates":[-106.852032,32.301191],"type":"Point"}
+  "bbox": [
+    -106.852032,
+    32.301191,
+    -106.852032,
+    32.301191
+],
+  "geometry": {"coordinates":[-106.85203199999999,32.301191],"type":"Point"}
 }

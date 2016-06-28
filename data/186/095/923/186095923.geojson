@@ -2,13 +2,14 @@
   "id": 186095923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.33374,34.403565,-103.33374,34.403565",
     "geom:latitude":34.403565,
     "geom:longitude":-103.33374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1477 Mindoro Ct",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186095923,
-    "wof:lastmodified":1449051734,
+    "wof:lastmodified":1466698838,
     "wof:name":"Triple C Rat Terriers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "animal"
     ]
 },
-  "bbox": [-103.33374,34.403565,-103.33374,34.403565],
-  "geometry": {"coordinates":[-103.33374,34.403565],"type":"Point"}
+  "bbox": [
+    -103.33374,
+    34.403565,
+    -103.33374,
+    34.403565
+],
+  "geometry": {"coordinates":[-103.33374000000001,34.403565],"type":"Point"}
 }

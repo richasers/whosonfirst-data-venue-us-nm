@@ -2,13 +2,14 @@
   "id": 169790081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.651515,35.128639,-106.651515,35.128639",
     "geom:latitude":35.128639,
     "geom:longitude":-106.651515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4215 11th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169790081,
-    "wof:lastmodified":1449035188,
+    "wof:lastmodified":1466698486,
     "wof:name":"C Julian Designs",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.651515,35.128639,-106.651515,35.128639],
+  "bbox": [
+    -106.651515,
+    35.128639,
+    -106.651515,
+    35.128639
+],
   "geometry": {"coordinates":[-106.651515,35.128639],"type":"Point"}
 }

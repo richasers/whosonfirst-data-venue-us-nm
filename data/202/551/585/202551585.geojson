@@ -2,13 +2,14 @@
   "id": 202551585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.963273,35.674712,-105.963273,35.674712",
     "geom:latitude":35.674712,
     "geom:longitude":-105.963273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"926 Baca St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202551585,
-    "wof:lastmodified":1449060621,
+    "wof:lastmodified":1466697666,
     "wof:name":"Baca Street Art District",
     "wof:parent_id":85880783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.963273,35.674712,-105.963273,35.674712],
+  "bbox": [
+    -105.963273,
+    35.674712,
+    -105.963273,
+    35.674712
+],
   "geometry": {"coordinates":[-105.963273,35.674712],"type":"Point"}
 }

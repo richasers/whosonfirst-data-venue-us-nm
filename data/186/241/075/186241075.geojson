@@ -2,13 +2,14 @@
   "id": 186241075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.946129,35.682931,-105.946129,35.682931",
     "geom:latitude":35.682931,
     "geom:longitude":-105.946129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 W Manhattan Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186241075,
-    "wof:lastmodified":1449052968,
+    "wof:lastmodified":1466698542,
     "wof:name":"Lawrence Baca Silversmith",
     "wof:parent_id":85880805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-105.946129,35.682931,-105.946129,35.682931],
+  "bbox": [
+    -105.946129,
+    35.682931,
+    -105.946129,
+    35.682931
+],
   "geometry": {"coordinates":[-105.946129,35.682931],"type":"Point"}
 }

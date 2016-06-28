@@ -2,13 +2,14 @@
   "id": 186458539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.709485,35.094255,-106.709485,35.094255",
     "geom:latitude":35.094255,
     "geom:longitude":-106.709485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 Coors Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186458539,
-    "wof:lastmodified":1449052267,
+    "wof:lastmodified":1466700211,
     "wof:name":"Louies Produce",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-106.709485,35.094255,-106.709485,35.094255],
+  "bbox": [
+    -106.709485,
+    35.094255,
+    -106.709485,
+    35.094255
+],
   "geometry": {"coordinates":[-106.709485,35.094255],"type":"Point"}
 }

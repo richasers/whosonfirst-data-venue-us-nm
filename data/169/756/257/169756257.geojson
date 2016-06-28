@@ -2,13 +2,14 @@
   "id": 169756257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.492305,35.162065,-106.492305,35.162065",
     "geom:latitude":35.162065,
     "geom:longitude":-106.492305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Marigold Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169756257,
-    "wof:lastmodified":1449034662,
+    "wof:lastmodified":1466698130,
     "wof:name":"Linac Systems LLC",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accelerator"
     ]
 },
-  "bbox": [-106.492305,35.162065,-106.492305,35.162065],
+  "bbox": [
+    -106.492305,
+    35.162065,
+    -106.492305,
+    35.162065
+],
   "geometry": {"coordinates":[-106.492305,35.162065],"type":"Point"}
 }

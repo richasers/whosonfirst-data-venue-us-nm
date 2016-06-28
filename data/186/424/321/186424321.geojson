@@ -2,13 +2,14 @@
   "id": 186424321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.417724,33.320833,-104.417724,33.320833",
     "geom:latitude":33.320833,
     "geom:longitude":-104.417724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3862 E Hobson Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186424321,
-    "wof:lastmodified":1449052862,
+    "wof:lastmodified":1466700038,
     "wof:name":"Southern Skies Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.417724,33.320833,-104.417724,33.320833],
-  "geometry": {"coordinates":[-104.417724,33.320833],"type":"Point"}
+  "bbox": [
+    -104.417724,
+    33.320833,
+    -104.417724,
+    33.320833
+],
+  "geometry": {"coordinates":[-104.41772400000001,33.320833],"type":"Point"}
 }

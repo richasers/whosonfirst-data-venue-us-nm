@@ -2,13 +2,14 @@
   "id": 203143487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.924009,35.678916,-105.924009,35.678916",
     "geom:latitude":35.678916,
     "geom:longitude":-105.924009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"984 Acequia Madre",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203143487,
-    "wof:lastmodified":1449026523,
+    "wof:lastmodified":1466699109,
     "wof:name":"Wolf Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.924009,35.678916,-105.924009,35.678916],
+  "bbox": [
+    -105.924009,
+    35.678916,
+    -105.924009,
+    35.678916
+],
   "geometry": {"coordinates":[-105.924009,35.678916],"type":"Point"}
 }

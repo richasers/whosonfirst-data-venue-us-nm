@@ -2,13 +2,14 @@
   "id": 186051561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.037703,36.683697,-108.037703,36.683697",
     "geom:latitude":36.683697,
     "geom:longitude":-108.037703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Rd 5192",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186051561,
-    "wof:lastmodified":1449052024,
+    "wof:lastmodified":1466698264,
     "wof:name":"Griner Gunworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-108.037703,36.683697,-108.037703,36.683697],
-  "geometry": {"coordinates":[-108.037703,36.683697],"type":"Point"}
+  "bbox": [
+    -108.037703,
+    36.683697,
+    -108.037703,
+    36.683697
+],
+  "geometry": {"coordinates":[-108.03770299999999,36.683697],"type":"Point"}
 }

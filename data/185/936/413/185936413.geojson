@@ -2,13 +2,14 @@
   "id": 185936413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.018334,35.478881,-106.018334,35.478881",
     "geom:latitude":35.478881,
     "geom:longitude":-106.018334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Pinon S",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185936413,
-    "wof:lastmodified":1449007133,
+    "wof:lastmodified":1466699027,
     "wof:name":"Lujan Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "drilling"
     ]
 },
-  "bbox": [-106.018334,35.478881,-106.018334,35.478881],
+  "bbox": [
+    -106.018334,
+    35.478881,
+    -106.018334,
+    35.478881
+],
   "geometry": {"coordinates":[-106.018334,35.478881],"type":"Point"}
 }

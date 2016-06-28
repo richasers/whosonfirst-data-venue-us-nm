@@ -2,13 +2,14 @@
   "id": 185605509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.043719,35.634071,-106.043719,35.634071",
     "geom:latitude":35.634071,
     "geom:longitude":-106.043719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Pso del Sol",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185605509,
-    "wof:lastmodified":1449007412,
+    "wof:lastmodified":1466697640,
     "wof:name":"Suzanne Zilke Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-106.043719,35.634071,-106.043719,35.634071],
+  "bbox": [
+    -106.043719,
+    35.634071,
+    -106.043719,
+    35.634071
+],
   "geometry": {"coordinates":[-106.043719,35.634071],"type":"Point"}
 }

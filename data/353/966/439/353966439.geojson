@@ -2,13 +2,14 @@
   "id": 353966439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.498192,35.170923,-106.498192,35.170923",
     "geom:latitude":35.170923,
     "geom:longitude":-106.498192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7834 Tennyson St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":353966439,
-    "wof:lastmodified":1449018275,
+    "wof:lastmodified":1466698920,
     "wof:name":"Church Of The Good Shepherd",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "christ"
     ]
 },
-  "bbox": [-106.498192,35.170923,-106.498192,35.170923],
+  "bbox": [
+    -106.498192,
+    35.170923,
+    -106.498192,
+    35.170923
+],
   "geometry": {"coordinates":[-106.498192,35.170923],"type":"Point"}
 }

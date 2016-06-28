@@ -2,13 +2,14 @@
   "id": 185987405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.067751,35.633991,-106.067751,35.633991",
     "geom:latitude":35.633991,
     "geom:longitude":-106.067751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7620 Baca Ln",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185987405,
-    "wof:lastmodified":1449007507,
+    "wof:lastmodified":1466699563,
     "wof:name":"Luna Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-106.067751,35.633991,-106.067751,35.633991],
+  "bbox": [
+    -106.067751,
+    35.633991,
+    -106.067751,
+    35.633991
+],
   "geometry": {"coordinates":[-106.067751,35.633991],"type":"Point"}
 }

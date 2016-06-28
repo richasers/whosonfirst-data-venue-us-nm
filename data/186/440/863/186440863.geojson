@@ -2,13 +2,14 @@
   "id": 186440863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.958952,32.901633,-105.958952,32.901633",
     "geom:latitude":32.901633,
     "geom:longitude":-105.958952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 New York Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186440863,
-    "wof:lastmodified":1449051344,
+    "wof:lastmodified":1466700009,
     "wof:name":"Dean's Wood Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-105.958952,32.901633,-105.958952,32.901633],
+  "bbox": [
+    -105.958952,
+    32.901633,
+    -105.958952,
+    32.901633
+],
   "geometry": {"coordinates":[-105.958952,32.901633],"type":"Point"}
 }

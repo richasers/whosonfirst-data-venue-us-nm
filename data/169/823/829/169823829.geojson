@@ -2,13 +2,14 @@
   "id": 169823829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.690281,34.822077,-106.690281,34.822077",
     "geom:latitude":34.822077,
     "geom:longitude":-106.690281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Murphy Cir",
     "sg:city":"Peralta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169823829,
-    "wof:lastmodified":1449035937,
+    "wof:lastmodified":1466698767,
     "wof:name":"A & A Mobile Home Svc",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-106.690281,34.822077,-106.690281,34.822077],
+  "bbox": [
+    -106.690281,
+    34.822077,
+    -106.690281,
+    34.822077
+],
   "geometry": {"coordinates":[-106.690281,34.822077],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186498497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.131335,32.725782,-103.131335,32.725782",
     "geom:latitude":32.725782,
     "geom:longitude":-103.131335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 E Bender Blvd",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186498497,
-    "wof:lastmodified":1449052360,
+    "wof:lastmodified":1466700218,
     "wof:name":"Zia Natural Gas Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-103.131335,32.725782,-103.131335,32.725782],
-  "geometry": {"coordinates":[-103.131335,32.725782],"type":"Point"}
+  "bbox": [
+    -103.131335,
+    32.725782,
+    -103.131335,
+    32.725782
+],
+  "geometry": {"coordinates":[-103.13133500000001,32.725782],"type":"Point"}
 }

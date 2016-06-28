@@ -2,13 +2,14 @@
   "id": 186340679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.633527,35.145409,-106.633527,35.145409",
     "geom:latitude":35.145409,
     "geom:longitude":-106.633527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6140 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186340679,
-    "wof:lastmodified":1449052398,
+    "wof:lastmodified":1466699480,
     "wof:name":"Rinker Materials Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "brick"
     ]
 },
-  "bbox": [-106.633527,35.145409,-106.633527,35.145409],
+  "bbox": [
+    -106.633527,
+    35.145409,
+    -106.633527,
+    35.145409
+],
   "geometry": {"coordinates":[-106.633527,35.145409],"type":"Point"}
 }

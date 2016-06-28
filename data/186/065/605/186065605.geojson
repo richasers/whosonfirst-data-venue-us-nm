@@ -2,13 +2,14 @@
   "id": 186065605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.536967,35.173779,-106.536967,35.173779",
     "geom:latitude":35.173779,
     "geom:longitude":-106.536967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9419 Macallan Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186065605,
-    "wof:lastmodified":1449053007,
+    "wof:lastmodified":1466698460,
     "wof:name":"Three Finger Concepts Ltd",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.536967,35.173779,-106.536967,35.173779],
+  "bbox": [
+    -106.536967,
+    35.173779,
+    -106.536967,
+    35.173779
+],
   "geometry": {"coordinates":[-106.536967,35.173779],"type":"Point"}
 }

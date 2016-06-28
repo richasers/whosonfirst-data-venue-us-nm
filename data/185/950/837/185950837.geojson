@@ -2,13 +2,14 @@
   "id": 185950837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.019285,33.082778,-106.019285,33.082778",
     "geom:latitude":33.082778,
     "geom:longitude":-106.019285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 N Fairview Rd",
     "sg:city":"Tularosa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185950837,
-    "wof:lastmodified":1449007246,
+    "wof:lastmodified":1466699233,
     "wof:name":"Jehovahs Witnesses-Tularoosa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.019285,33.082778,-106.019285,33.082778],
+  "bbox": [
+    -106.019285,
+    33.082778,
+    -106.019285,
+    33.082778
+],
   "geometry": {"coordinates":[-106.019285,33.082778],"type":"Point"}
 }

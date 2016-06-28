@@ -2,13 +2,14 @@
   "id": 185803573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.692045,35.149167,-106.692045,35.149167",
     "geom:latitude":35.149167,
     "geom:longitude":-106.692045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5705 Altima Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185803573,
-    "wof:lastmodified":1449008228,
+    "wof:lastmodified":1466699353,
     "wof:name":"Bartz",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nut"
     ]
 },
-  "bbox": [-106.692045,35.149167,-106.692045,35.149167],
-  "geometry": {"coordinates":[-106.692045,35.149167],"type":"Point"}
+  "bbox": [
+    -106.692045,
+    35.149167,
+    -106.692045,
+    35.149167
+],
+  "geometry": {"coordinates":[-106.69204499999999,35.149167],"type":"Point"}
 }

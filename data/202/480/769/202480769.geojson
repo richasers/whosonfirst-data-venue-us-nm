@@ -2,13 +2,14 @@
   "id": 202480769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.571408,35.155721,-106.571408,35.155721",
     "geom:latitude":35.155721,
     "geom:longitude":-106.571408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6904 Welton Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202480769,
-    "wof:lastmodified":1449060931,
+    "wof:lastmodified":1466698972,
     "wof:name":"Brault's Plumbing Heating",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.571408,35.155721,-106.571408,35.155721],
-  "geometry": {"coordinates":[-106.571408,35.155721],"type":"Point"}
+  "bbox": [
+    -106.571408,
+    35.155721,
+    -106.571408,
+    35.155721
+],
+  "geometry": {"coordinates":[-106.57140800000001,35.155721],"type":"Point"}
 }

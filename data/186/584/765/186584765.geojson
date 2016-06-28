@@ -2,13 +2,14 @@
   "id": 186584765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.166203,36.776802,-108.166203,36.776802",
     "geom:latitude":36.776802,
     "geom:longitude":-108.166203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5101 College Blvd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186584765,
-    "wof:lastmodified":1449050539,
+    "wof:lastmodified":1466700579,
     "wof:name":"Yoh Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.166203,36.776802,-108.166203,36.776802],
+  "bbox": [
+    -108.166203,
+    36.776802,
+    -108.166203,
+    36.776802
+],
   "geometry": {"coordinates":[-108.166203,36.776802],"type":"Point"}
 }

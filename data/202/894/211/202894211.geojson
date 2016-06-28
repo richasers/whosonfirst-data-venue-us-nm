@@ -2,13 +2,14 @@
   "id": 202894211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.697063,35.110552,-106.697063,35.110552",
     "geom:latitude":35.110552,
     "geom:longitude":-106.697063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Hurley Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202894211,
-    "wof:lastmodified":1449061157,
+    "wof:lastmodified":1466700240,
     "wof:name":"Martin Lueras Enterprises",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-106.697063,35.110552,-106.697063,35.110552],
+  "bbox": [
+    -106.697063,
+    35.110552,
+    -106.697063,
+    35.110552
+],
   "geometry": {"coordinates":[-106.697063,35.110552],"type":"Point"}
 }

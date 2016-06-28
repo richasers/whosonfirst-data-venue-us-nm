@@ -2,13 +2,14 @@
   "id": 169740041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.703539,35.253422,-106.703539,35.253422",
     "geom:latitude":35.253422,
     "geom:longitude":-106.703539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1645 Brenda Rd SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169740041,
-    "wof:lastmodified":1449034167,
+    "wof:lastmodified":1466697991,
     "wof:name":"Home Enhancement II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-106.703539,35.253422,-106.703539,35.253422],
-  "geometry": {"coordinates":[-106.703539,35.253422],"type":"Point"}
+  "bbox": [
+    -106.703539,
+    35.253422,
+    -106.703539,
+    35.253422
+],
+  "geometry": {"coordinates":[-106.70353900000001,35.253422],"type":"Point"}
 }

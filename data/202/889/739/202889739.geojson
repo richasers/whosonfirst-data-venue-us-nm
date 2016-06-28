@@ -2,13 +2,14 @@
   "id": 202889739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.940609,32.821684,-107.940609,32.821684",
     "geom:latitude":32.821684,
     "geom:longitude":-107.940609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2655 State Hwy 35",
     "sg:city":"San Lorenzo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202889739,
-    "wof:lastmodified":1449060062,
+    "wof:lastmodified":1466700210,
     "wof:name":"San Lorenzo School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.940609,32.821684,-107.940609,32.821684],
-  "geometry": {"coordinates":[-107.940609,32.821684],"type":"Point"}
+  "bbox": [
+    -107.940609,
+    32.821684,
+    -107.940609,
+    32.821684
+],
+  "geometry": {"coordinates":[-107.94060899999999,32.821684],"type":"Point"}
 }

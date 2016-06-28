@@ -2,13 +2,14 @@
   "id": 202976059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.228942,32.430394,-104.228942,32.430394",
     "geom:latitude":32.430394,
     "geom:longitude":-104.228942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"927 N Canal St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202976059,
-    "wof:lastmodified":1449061162,
+    "wof:lastmodified":1466700678,
     "wof:name":"Psychiatric Physicians",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-104.228942,32.430394,-104.228942,32.430394],
+  "bbox": [
+    -104.228942,
+    32.430394,
+    -104.228942,
+    32.430394
+],
   "geometry": {"coordinates":[-104.228942,32.430394],"type":"Point"}
 }

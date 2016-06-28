@@ -2,13 +2,14 @@
   "id": 186200247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.766154,32.267684,-107.766154,32.267684",
     "geom:latitude":32.267684,
     "geom:longitude":-107.766154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 W Pine St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186200247,
-    "wof:lastmodified":1449051445,
+    "wof:lastmodified":1466698029,
     "wof:name":"Balboa Motel & Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-107.766154,32.267684,-107.766154,32.267684],
+  "bbox": [
+    -107.766154,
+    32.267684,
+    -107.766154,
+    32.267684
+],
   "geometry": {"coordinates":[-107.766154,32.267684],"type":"Point"}
 }

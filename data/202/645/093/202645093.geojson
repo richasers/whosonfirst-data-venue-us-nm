@@ -2,13 +2,14 @@
   "id": 202645093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.535804,35.118521,-106.535804,35.118521",
     "geom:latitude":35.118521,
     "geom:longitude":-106.535804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9404 Arvilla Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202645093,
-    "wof:lastmodified":1449060367,
+    "wof:lastmodified":1466699063,
     "wof:name":"Maxim Electric LLC",
     "wof:parent_id":85825849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.535804,35.118521,-106.535804,35.118521],
+  "bbox": [
+    -106.535804,
+    35.118521,
+    -106.535804,
+    35.118521
+],
   "geometry": {"coordinates":[-106.535804,35.118521],"type":"Point"}
 }

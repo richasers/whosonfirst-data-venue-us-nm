@@ -2,13 +2,14 @@
   "id": 186557811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.542325,35.114775,-106.542325,35.114775",
     "geom:latitude":35.114775,
     "geom:longitude":-106.542325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9011 Los Arboles Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186557811,
-    "wof:lastmodified":1449052274,
+    "wof:lastmodified":1466700495,
     "wof:name":"Hf Sander Properties",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-106.542325,35.114775,-106.542325,35.114775],
-  "geometry": {"coordinates":[-106.542325,35.114775],"type":"Point"}
+  "bbox": [
+    -106.542325,
+    35.114775,
+    -106.542325,
+    35.114775
+],
+  "geometry": {"coordinates":[-106.54232500000001,35.114775],"type":"Point"}
 }

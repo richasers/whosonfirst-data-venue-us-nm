@@ -2,13 +2,14 @@
   "id": 186045819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.655891,35.119574,-106.655891,35.119574",
     "geom:latitude":35.119574,
     "geom:longitude":-106.655891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Mc Mullen Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186045819,
-    "wof:lastmodified":1449052702,
+    "wof:lastmodified":1466698199,
     "wof:name":"Smith Carpet",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.655891,35.119574,-106.655891,35.119574],
+  "bbox": [
+    -106.655891,
+    35.119574,
+    -106.655891,
+    35.119574
+],
   "geometry": {"coordinates":[-106.655891,35.119574],"type":"Point"}
 }

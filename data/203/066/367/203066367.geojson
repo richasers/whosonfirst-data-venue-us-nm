@@ -2,13 +2,14 @@
   "id": 203066367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.335673,34.185038,-103.335673,34.185038",
     "geom:latitude":34.185038,
     "geom:longitude":-103.335673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 S Main Ave",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203066367,
-    "wof:lastmodified":1449025456,
+    "wof:lastmodified":1466698298,
     "wof:name":"Marla's Laundry Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.335673,34.185038,-103.335673,34.185038],
+  "bbox": [
+    -103.335673,
+    34.185038,
+    -103.335673,
+    34.185038
+],
   "geometry": {"coordinates":[-103.335673,34.185038],"type":"Point"}
 }

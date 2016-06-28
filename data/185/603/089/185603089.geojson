@@ -2,13 +2,14 @@
   "id": 185603089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.714456,32.34239,-108.714456,32.34239",
     "geom:latitude":32.34239,
     "geom:longitude":-108.714456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Maple St",
     "sg:city":"Lordsburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185603089,
-    "wof:lastmodified":1449007984,
+    "wof:lastmodified":1466697625,
     "wof:name":"El Yaqui Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-108.714456,32.34239,-108.714456,32.34239],
+  "bbox": [
+    -108.714456,
+    32.34239,
+    -108.714456,
+    32.34239
+],
   "geometry": {"coordinates":[-108.714456,32.34239],"type":"Point"}
 }

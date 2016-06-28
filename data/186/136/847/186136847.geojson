@@ -2,13 +2,14 @@
   "id": 186136847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.530909,33.372444,-104.530909,33.372444",
     "geom:latitude":33.372444,
     "geom:longitude":-104.530909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 W Hobbs St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186136847,
-    "wof:lastmodified":1449052993,
+    "wof:lastmodified":1466699190,
     "wof:name":"ALCO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-104.530909,33.372444,-104.530909,33.372444],
-  "geometry": {"coordinates":[-104.530909,33.372444],"type":"Point"}
+  "bbox": [
+    -104.530909,
+    33.372444,
+    -104.530909,
+    33.372444
+],
+  "geometry": {"coordinates":[-104.53090899999999,33.372444],"type":"Point"}
 }

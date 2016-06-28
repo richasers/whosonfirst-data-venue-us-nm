@@ -2,13 +2,14 @@
   "id": 186478001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.851492,34.791982,-106.851492,34.791982",
     "geom:latitude":34.791982,
     "geom:longitude":-106.851492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Dalies Rd",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186478001,
-    "wof:lastmodified":1449050353,
+    "wof:lastmodified":1466700032,
     "wof:name":"Shane Photography",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-106.851492,34.791982,-106.851492,34.791982],
-  "geometry": {"coordinates":[-106.851492,34.791982],"type":"Point"}
+  "bbox": [
+    -106.851492,
+    34.791982,
+    -106.851492,
+    34.791982
+],
+  "geometry": {"coordinates":[-106.85149199999999,34.791982],"type":"Point"}
 }

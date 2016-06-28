@@ -2,13 +2,14 @@
   "id": 186582157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.637447,35.22505,-106.637447,35.22505",
     "geom:latitude":35.22505,
     "geom:longitude":-106.637447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"670 Ranchitos Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186582157,
-    "wof:lastmodified":1449051826,
+    "wof:lastmodified":1466700683,
     "wof:name":"Haddow Plumbing & Heating",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.637447,35.22505,-106.637447,35.22505],
-  "geometry": {"coordinates":[-106.637447,35.22505],"type":"Point"}
+  "bbox": [
+    -106.637447,
+    35.22505,
+    -106.637447,
+    35.22505
+],
+  "geometry": {"coordinates":[-106.63744699999999,35.22505],"type":"Point"}
 }

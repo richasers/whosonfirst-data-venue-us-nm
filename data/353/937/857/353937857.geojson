@@ -2,13 +2,14 @@
   "id": 353937857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.598303,35.160924,-106.598303,35.160924",
     "geom:latitude":35.160924,
     "geom:longitude":-106.598303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4303 Ellison St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":353937857,
-    "wof:lastmodified":1449018736,
+    "wof:lastmodified":1466698216,
     "wof:name":"Norman S Wright Company Manufacturers Representative",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-106.598303,35.160924,-106.598303,35.160924],
+  "bbox": [
+    -106.598303,
+    35.160924,
+    -106.598303,
+    35.160924
+],
   "geometry": {"coordinates":[-106.598303,35.160924],"type":"Point"}
 }

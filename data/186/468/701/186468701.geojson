@@ -2,13 +2,14 @@
   "id": 186468701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.39734,32.828216,-104.39734,32.828216",
     "geom:latitude":32.828216,
     "geom:longitude":-104.39734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W Hermosa Dr",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186468701,
-    "wof:lastmodified":1449052284,
+    "wof:lastmodified":1466700122,
     "wof:name":"Honey Depot",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "honey"
     ]
 },
-  "bbox": [-104.39734,32.828216,-104.39734,32.828216],
+  "bbox": [
+    -104.39734,
+    32.828216,
+    -104.39734,
+    32.828216
+],
   "geometry": {"coordinates":[-104.39734,32.828216],"type":"Point"}
 }

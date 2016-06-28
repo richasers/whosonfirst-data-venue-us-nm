@@ -2,13 +2,14 @@
   "id": 186211595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.742537,35.526976,-108.742537,35.526976",
     "geom:latitude":35.526976,
     "geom:longitude":-108.742537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 W Coal Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186211595,
-    "wof:lastmodified":1449051052,
+    "wof:lastmodified":1466698169,
     "wof:name":"Walter Balfour Od",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-108.742537,35.526976,-108.742537,35.526976],
+  "bbox": [
+    -108.742537,
+    35.526976,
+    -108.742537,
+    35.526976
+],
   "geometry": {"coordinates":[-108.742537,35.526976],"type":"Point"}
 }

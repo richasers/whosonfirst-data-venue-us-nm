@@ -2,13 +2,14 @@
   "id": 186039217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.252948,33.127648,-107.252948,33.127648",
     "geom:latitude":33.127648,
     "geom:longitude":-107.252948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Austin St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186039217,
-    "wof:lastmodified":1449052683,
+    "wof:lastmodified":1466698121,
     "wof:name":"Hay-Yo-Kay Hot Springs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tub"
     ]
 },
-  "bbox": [-107.252948,33.127648,-107.252948,33.127648],
+  "bbox": [
+    -107.252948,
+    33.127648,
+    -107.252948,
+    33.127648
+],
   "geometry": {"coordinates":[-107.252948,33.127648],"type":"Point"}
 }

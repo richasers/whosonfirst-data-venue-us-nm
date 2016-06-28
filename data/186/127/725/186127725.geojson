@@ -2,13 +2,14 @@
   "id": 186127725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.969735,35.662878,-105.969735,35.662878",
     "geom:latitude":35.662878,
     "geom:longitude":-105.969735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 4th St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186127725,
-    "wof:lastmodified":1449052806,
+    "wof:lastmodified":1466699145,
     "wof:name":"Valdez Plumbing & Heating",
     "wof:parent_id":85880811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.969735,35.662878,-105.969735,35.662878],
+  "bbox": [
+    -105.969735,
+    35.662878,
+    -105.969735,
+    35.662878
+],
   "geometry": {"coordinates":[-105.969735,35.662878],"type":"Point"}
 }

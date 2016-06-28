@@ -2,13 +2,14 @@
   "id": 202701421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.205459,34.420792,-103.205459,34.420792",
     "geom:latitude":34.420792,
     "geom:longitude":-103.205459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2214 N Main St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202701421,
-    "wof:lastmodified":1449062133,
+    "wof:lastmodified":1466699611,
     "wof:name":"Cybercity Nm LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-103.205459,34.420792,-103.205459,34.420792],
+  "bbox": [
+    -103.205459,
+    34.420792,
+    -103.205459,
+    34.420792
+],
   "geometry": {"coordinates":[-103.205459,34.420792],"type":"Point"}
 }

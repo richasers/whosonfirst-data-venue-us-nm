@@ -2,13 +2,14 @@
   "id": 202571695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.343229,36.738582,-108.343229,36.738582",
     "geom:latitude":36.738582,
     "geom:longitude":-108.343229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4292 US Hwy 64",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202571695,
-    "wof:lastmodified":1449061818,
+    "wof:lastmodified":1466697961,
     "wof:name":"Circle B Self-Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-108.343229,36.738582,-108.343229,36.738582],
-  "geometry": {"coordinates":[-108.343229,36.738582],"type":"Point"}
+  "bbox": [
+    -108.343229,
+    36.738582,
+    -108.343229,
+    36.738582
+],
+  "geometry": {"coordinates":[-108.34322899999999,36.738582],"type":"Point"}
 }

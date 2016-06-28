@@ -2,13 +2,14 @@
   "id": 186436151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.984331,35.675948,-105.984331,35.675948",
     "geom:latitude":35.675948,
     "geom:longitude":-105.984331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2240 W Alameda St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186436151,
-    "wof:lastmodified":1449052763,
+    "wof:lastmodified":1466699994,
     "wof:name":"Loft 4 Digital Media Studio",
     "wof:parent_id":85880851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-105.984331,35.675948,-105.984331,35.675948],
+  "bbox": [
+    -105.984331,
+    35.675948,
+    -105.984331,
+    35.675948
+],
   "geometry": {"coordinates":[-105.984331,35.675948],"type":"Point"}
 }

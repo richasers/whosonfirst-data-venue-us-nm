@@ -2,13 +2,14 @@
   "id": 185921895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.488179,35.083269,-106.488179,35.083269",
     "geom:latitude":35.083269,
     "geom:longitude":-106.488179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 Matia Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185921895,
-    "wof:lastmodified":1449007630,
+    "wof:lastmodified":1466698831,
     "wof:name":"Pat Forbes Inc",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.488179,35.083269,-106.488179,35.083269],
+  "bbox": [
+    -106.488179,
+    35.083269,
+    -106.488179,
+    35.083269
+],
   "geometry": {"coordinates":[-106.488179,35.083269],"type":"Point"}
 }

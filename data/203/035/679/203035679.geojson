@@ -2,13 +2,14 @@
   "id": 203035679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.663347,33.349215,-105.663347,33.349215",
     "geom:latitude":33.349215,
     "geom:longitude":-105.663347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Cree Meadows Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203035679,
-    "wof:lastmodified":1449026474,
+    "wof:lastmodified":1466697974,
     "wof:name":"Village Riduiso Wtr Waste Wtr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-105.663347,33.349215,-105.663347,33.349215],
+  "bbox": [
+    -105.663347,
+    33.349215,
+    -105.663347,
+    33.349215
+],
   "geometry": {"coordinates":[-105.663347,33.349215],"type":"Point"}
 }

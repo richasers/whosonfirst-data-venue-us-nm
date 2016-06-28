@@ -2,13 +2,14 @@
   "id": 203018469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.226861,32.378504,-104.226861,32.378504",
     "geom:latitude":32.378504,
     "geom:longitude":-104.226861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3628 National Parks Hwy",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203018469,
-    "wof:lastmodified":1449025877,
+    "wof:lastmodified":1466697805,
     "wof:name":"Windmill Chevron",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-104.226861,32.378504,-104.226861,32.378504],
+  "bbox": [
+    -104.226861,
+    32.378504,
+    -104.226861,
+    32.378504
+],
   "geometry": {"coordinates":[-104.226861,32.378504],"type":"Point"}
 }

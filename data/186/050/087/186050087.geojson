@@ -2,13 +2,14 @@
   "id": 186050087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.51538,33.379888,-104.51538,33.379888",
     "geom:latitude":33.379888,
     "geom:longitude":-104.51538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 E McGaffey St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186050087,
-    "wof:lastmodified":1449051856,
+    "wof:lastmodified":1466698254,
     "wof:name":"Roswell Head Start 3",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.51538,33.379888,-104.51538,33.379888],
-  "geometry": {"coordinates":[-104.51538,33.379888],"type":"Point"}
+  "bbox": [
+    -104.51538,
+    33.379888,
+    -104.51538,
+    33.379888
+],
+  "geometry": {"coordinates":[-104.51537999999999,33.379888],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202412483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.845107,35.156023,-107.845107,35.156023",
     "geom:latitude":35.156023,
     "geom:longitude":-107.845107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 1st St",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202412483,
-    "wof:lastmodified":1449060628,
+    "wof:lastmodified":1466698104,
     "wof:name":"Dale Wickman Od",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.845107,35.156023,-107.845107,35.156023],
+  "bbox": [
+    -107.845107,
+    35.156023,
+    -107.845107,
+    35.156023
+],
   "geometry": {"coordinates":[-107.845107,35.156023],"type":"Point"}
 }

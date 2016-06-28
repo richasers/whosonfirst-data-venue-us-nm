@@ -2,13 +2,14 @@
   "id": 185723637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.783762,34.706977,-106.783762,34.706977",
     "geom:latitude":34.706977,
     "geom:longitude":-106.783762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Industrial Park Ln",
     "sg:city":"Laguna",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185723637,
-    "wof:lastmodified":1449007551,
+    "wof:lastmodified":1466698877,
     "wof:name":"Laguna Industries Inc",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fabricating"
     ]
 },
-  "bbox": [-106.783762,34.706977,-106.783762,34.706977],
+  "bbox": [
+    -106.783762,
+    34.706977,
+    -106.783762,
+    34.706977
+],
   "geometry": {"coordinates":[-106.783762,34.706977],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202719201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.704829,35.081295,-106.704829,35.081295",
     "geom:latitude":35.081295,
     "geom:longitude":-106.704829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6005 Central Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":202719201,
-    "wof:lastmodified":1449060432,
+    "wof:lastmodified":1466699545,
     "wof:name":"Xtremely Hot Creations-Teresa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.704829,35.081295,-106.704829,35.081295],
+  "bbox": [
+    -106.704829,
+    35.081295,
+    -106.704829,
+    35.081295
+],
   "geometry": {"coordinates":[-106.704829,35.081295],"type":"Point"}
 }

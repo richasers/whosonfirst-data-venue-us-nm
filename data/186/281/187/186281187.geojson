@@ -2,13 +2,14 @@
   "id": 186281187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.441087,36.894604,-104.441087,36.894604",
     "geom:latitude":36.894604,
     "geom:longitude":-104.441087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 S 2nd St",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186281187,
-    "wof:lastmodified":1449052599,
+    "wof:lastmodified":1466699074,
     "wof:name":"K S Berry Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-104.441087,36.894604,-104.441087,36.894604],
+  "bbox": [
+    -104.441087,
+    36.894604,
+    -104.441087,
+    36.894604
+],
   "geometry": {"coordinates":[-104.441087,36.894604],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186046669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.679697,33.335537,-105.679697,33.335537",
     "geom:latitude":33.335537,
     "geom:longitude":-105.679697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Mechem Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186046669,
-    "wof:lastmodified":1449051862,
+    "wof:lastmodified":1466698209,
     "wof:name":"Apache Village Cabins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.679697,33.335537,-105.679697,33.335537],
+  "bbox": [
+    -105.679697,
+    33.335537,
+    -105.679697,
+    33.335537
+],
   "geometry": {"coordinates":[-105.679697,33.335537],"type":"Point"}
 }

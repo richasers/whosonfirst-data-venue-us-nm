@@ -2,13 +2,14 @@
   "id": 202680433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.416469,35.36664,-103.416469,35.36664",
     "geom:latitude":35.36664,
     "geom:longitude":-103.416469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Gallegos St",
     "sg:city":"Logan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202680433,
-    "wof:lastmodified":1449061870,
+    "wof:lastmodified":1466699530,
     "wof:name":"Shearly Shonda's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.416469,35.36664,-103.416469,35.36664],
-  "geometry": {"coordinates":[-103.416469,35.36664],"type":"Point"}
+  "bbox": [
+    -103.416469,
+    35.36664,
+    -103.416469,
+    35.36664
+],
+  "geometry": {"coordinates":[-103.41646900000001,35.36664],"type":"Point"}
 }

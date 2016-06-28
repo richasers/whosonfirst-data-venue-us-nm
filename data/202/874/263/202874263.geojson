@@ -2,13 +2,14 @@
   "id": 202874263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.611086,35.081747,-106.611086,35.081747",
     "geom:latitude":35.081747,
     "geom:longitude":-106.611086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3010 Monte Vista Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202874263,
-    "wof:lastmodified":1449062484,
+    "wof:lastmodified":1466700262,
     "wof:name":"District 2 Hearing Office",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.611086,35.081747,-106.611086,35.081747],
+  "bbox": [
+    -106.611086,
+    35.081747,
+    -106.611086,
+    35.081747
+],
   "geometry": {"coordinates":[-106.611086,35.081747],"type":"Point"}
 }

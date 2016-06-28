@@ -2,13 +2,14 @@
   "id": 202785731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.202315,36.752829,-108.202315,36.752829",
     "geom:latitude":36.752829,
     "geom:longitude":-108.202315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2630 N Dustin Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202785731,
-    "wof:lastmodified":1449062228,
+    "wof:lastmodified":1466699933,
     "wof:name":"Coronado Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "complex"
     ]
 },
-  "bbox": [-108.202315,36.752829,-108.202315,36.752829],
+  "bbox": [
+    -108.202315,
+    36.752829,
+    -108.202315,
+    36.752829
+],
   "geometry": {"coordinates":[-108.202315,36.752829],"type":"Point"}
 }

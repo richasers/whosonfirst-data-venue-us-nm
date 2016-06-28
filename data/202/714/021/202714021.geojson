@@ -2,13 +2,14 @@
   "id": 202714021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.622111,35.06129,-106.622111,35.06129",
     "geom:latitude":35.06129,
     "geom:longitude":-106.622111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 Yale Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202714021,
-    "wof:lastmodified":1449061373,
+    "wof:lastmodified":1466699495,
     "wof:name":"Bolton Boarding Kennels",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "animal"
     ]
 },
-  "bbox": [-106.622111,35.06129,-106.622111,35.06129],
+  "bbox": [
+    -106.622111,
+    35.06129,
+    -106.622111,
+    35.06129
+],
   "geometry": {"coordinates":[-106.622111,35.06129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202757289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.85126,32.32436,-106.85126,32.32436",
     "geom:latitude":32.32436,
     "geom:longitude":-106.85126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4321 Ladera Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202757289,
-    "wof:lastmodified":1449061532,
+    "wof:lastmodified":1466699714,
     "wof:name":"Smith  Geoffrey Battle",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "review"
     ]
 },
-  "bbox": [-106.85126,32.32436,-106.85126,32.32436],
+  "bbox": [
+    -106.85126,
+    32.32436,
+    -106.85126,
+    32.32436
+],
   "geometry": {"coordinates":[-106.85126,32.32436],"type":"Point"}
 }

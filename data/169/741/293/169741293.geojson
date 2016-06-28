@@ -2,13 +2,14 @@
   "id": 169741293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.74263,35.527994,-108.74263,35.527994",
     "geom:latitude":35.527994,
     "geom:longitude":-108.74263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S 2nd St",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169741293,
-    "wof:lastmodified":1449032860,
+    "wof:lastmodified":1466698004,
     "wof:name":"Grooming By Shannon",
     "wof:parent_id":85802855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-108.74263,35.527994,-108.74263,35.527994],
-  "geometry": {"coordinates":[-108.74263,35.527994],"type":"Point"}
+  "bbox": [
+    -108.74263,
+    35.527994,
+    -108.74263,
+    35.527994
+],
+  "geometry": {"coordinates":[-108.74263000000001,35.527994],"type":"Point"}
 }

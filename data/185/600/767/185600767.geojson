@@ -2,13 +2,14 @@
   "id": 185600767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.519213,35.086092,-106.519213,35.086092",
     "geom:latitude":35.086092,
     "geom:longitude":-106.519213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"841 Shirley St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185600767,
-    "wof:lastmodified":1449006760,
+    "wof:lastmodified":1466697614,
     "wof:name":"Bo Wf Whittaker",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "theatrical"
     ]
 },
-  "bbox": [-106.519213,35.086092,-106.519213,35.086092],
-  "geometry": {"coordinates":[-106.519213,35.086092],"type":"Point"}
+  "bbox": [
+    -106.519213,
+    35.086092,
+    -106.519213,
+    35.086092
+],
+  "geometry": {"coordinates":[-106.51921299999999,35.086092],"type":"Point"}
 }

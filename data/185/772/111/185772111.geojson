@@ -2,13 +2,14 @@
   "id": 185772111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.194743,34.423008,-103.194743,34.423008",
     "geom:latitude":34.423008,
     "geom:longitude":-103.194743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 Parkland Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185772111,
-    "wof:lastmodified":1449007340,
+    "wof:lastmodified":1466699231,
     "wof:name":"Fogherty Law Firm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.194743,34.423008,-103.194743,34.423008],
+  "bbox": [
+    -103.194743,
+    34.423008,
+    -103.194743,
+    34.423008
+],
   "geometry": {"coordinates":[-103.194743,34.423008],"type":"Point"}
 }

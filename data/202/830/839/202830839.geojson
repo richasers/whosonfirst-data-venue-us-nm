@@ -2,13 +2,14 @@
   "id": 202830839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.439928,35.063115,-106.439928,35.063115",
     "geom:latitude":35.063115,
     "geom:longitude":-106.439928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 US Hwy 66",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202830839,
-    "wof:lastmodified":1449060657,
+    "wof:lastmodified":1466700251,
     "wof:name":"Roy's Taxidermy & Supplies",
     "wof:parent_id":85892573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxidermist"
     ]
 },
-  "bbox": [-106.439928,35.063115,-106.439928,35.063115],
-  "geometry": {"coordinates":[-106.439928,35.063115],"type":"Point"}
+  "bbox": [
+    -106.439928,
+    35.063115,
+    -106.439928,
+    35.063115
+],
+  "geometry": {"coordinates":[-106.43992799999999,35.063115],"type":"Point"}
 }

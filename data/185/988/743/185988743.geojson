@@ -2,13 +2,14 @@
   "id": 185988743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.555734,35.090294,-106.555734,35.090294",
     "geom:latitude":35.090294,
     "geom:longitude":-106.555734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 Texas St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185988743,
-    "wof:lastmodified":1449007147,
+    "wof:lastmodified":1466699707,
     "wof:name":"Solar Villa Apartments",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-106.555734,35.090294,-106.555734,35.090294],
+  "bbox": [
+    -106.555734,
+    35.090294,
+    -106.555734,
+    35.090294
+],
   "geometry": {"coordinates":[-106.555734,35.090294],"type":"Point"}
 }

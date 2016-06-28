@@ -2,13 +2,14 @@
   "id": 186628897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.588236,35.160474,-106.588236,35.160474",
     "geom:latitude":35.160474,
     "geom:longitude":-106.588236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4801 Ellison St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186628897,
-    "wof:lastmodified":1449052506,
+    "wof:lastmodified":1466700817,
     "wof:name":"Navarro Machine Shop",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.588236,35.160474,-106.588236,35.160474],
-  "geometry": {"coordinates":[-106.588236,35.160474],"type":"Point"}
+  "bbox": [
+    -106.588236,
+    35.160474,
+    -106.588236,
+    35.160474
+],
+  "geometry": {"coordinates":[-106.58823599999999,35.160474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202594109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.349442,35.139623,-106.349442,35.139623",
     "geom:latitude":35.139623,
     "geom:longitude":-106.349442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Pinon Trl",
     "sg:city":"Cedar Crest",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202594109,
-    "wof:lastmodified":1449060474,
+    "wof:lastmodified":1466698300,
     "wof:name":"Trsg  Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "licensing"
     ]
 },
-  "bbox": [-106.349442,35.139623,-106.349442,35.139623],
+  "bbox": [
+    -106.349442,
+    35.139623,
+    -106.349442,
+    35.139623
+],
   "geometry": {"coordinates":[-106.349442,35.139623],"type":"Point"}
 }

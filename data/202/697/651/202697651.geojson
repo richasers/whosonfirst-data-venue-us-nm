@@ -2,13 +2,14 @@
   "id": 202697651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.178303,36.748283,-108.178303,36.748283",
     "geom:latitude":36.748283,
     "geom:longitude":-108.178303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 E 20th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202697651,
-    "wof:lastmodified":1449061691,
+    "wof:lastmodified":1466699609,
     "wof:name":"Zebadiah's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.178303,36.748283,-108.178303,36.748283],
+  "bbox": [
+    -108.178303,
+    36.748283,
+    -108.178303,
+    36.748283
+],
   "geometry": {"coordinates":[-108.178303,36.748283],"type":"Point"}
 }

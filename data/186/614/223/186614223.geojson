@@ -2,13 +2,14 @@
   "id": 186614223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.145934,32.783834,-103.145934,32.783834",
     "geom:latitude":32.783834,
     "geom:longitude":-103.145934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 W Kansas St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186614223,
-    "wof:lastmodified":1449053092,
+    "wof:lastmodified":1466700773,
     "wof:name":"K & K Quick Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.145934,32.783834,-103.145934,32.783834],
+  "bbox": [
+    -103.145934,
+    32.783834,
+    -103.145934,
+    32.783834
+],
   "geometry": {"coordinates":[-103.145934,32.783834],"type":"Point"}
 }

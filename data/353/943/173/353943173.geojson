@@ -2,13 +2,14 @@
   "id": 353943173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.577538,35.101176,-106.577538,35.101176",
     "geom:latitude":35.101176,
     "geom:longitude":-106.577538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 San Pedro Dr NE Ste 1-210",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":353943173,
-    "wof:lastmodified":1449018938,
+    "wof:lastmodified":1466698367,
     "wof:name":"Integrated Health Care Stffng",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-106.577538,35.101176,-106.577538,35.101176],
+  "bbox": [
+    -106.577538,
+    35.101176,
+    -106.577538,
+    35.101176
+],
   "geometry": {"coordinates":[-106.577538,35.101176],"type":"Point"}
 }

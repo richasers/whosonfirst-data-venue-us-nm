@@ -2,13 +2,14 @@
   "id": 202446827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.627863,35.122793,-106.627863,35.122793",
     "geom:latitude":35.122793,
     "geom:longitude":-106.627863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 Rankin Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202446827,
-    "wof:lastmodified":1449062438,
+    "wof:lastmodified":1466698509,
     "wof:name":"Dar Sal Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.627863,35.122793,-106.627863,35.122793],
+  "bbox": [
+    -106.627863,
+    35.122793,
+    -106.627863,
+    35.122793
+],
   "geometry": {"coordinates":[-106.627863,35.122793],"type":"Point"}
 }

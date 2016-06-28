@@ -2,13 +2,14 @@
   "id": 186227639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614609,35.150717,-106.614609,35.150717",
     "geom:latitude":35.150717,
     "geom:longitude":-106.614609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186227639,
-    "wof:lastmodified":1449050983,
+    "wof:lastmodified":1466698368,
     "wof:name":"Stephen Passy & Assoc Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-106.614609,35.150717,-106.614609,35.150717],
+  "bbox": [
+    -106.614609,
+    35.150717,
+    -106.614609,
+    35.150717
+],
   "geometry": {"coordinates":[-106.614609,35.150717],"type":"Point"}
 }

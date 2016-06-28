@@ -2,13 +2,14 @@
   "id": 185971645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.547349,36.519114,-105.547349,36.519114",
     "geom:latitude":36.519114,
     "geom:longitude":-105.547349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 el Salto Rd",
     "sg:city":"Arroyo Seco",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185971645,
-    "wof:lastmodified":1449007447,
+    "wof:lastmodified":1466699568,
     "wof:name":"El Salto Plumbing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.547349,36.519114,-105.547349,36.519114],
+  "bbox": [
+    -105.547349,
+    36.519114,
+    -105.547349,
+    36.519114
+],
   "geometry": {"coordinates":[-105.547349,36.519114],"type":"Point"}
 }

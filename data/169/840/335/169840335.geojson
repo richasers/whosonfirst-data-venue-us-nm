@@ -2,13 +2,14 @@
   "id": 169840335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.191901,36.743917,-108.191901,36.743917",
     "geom:latitude":36.743917,
     "geom:longitude":-108.191901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 Zuni Dr",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169840335,
-    "wof:lastmodified":1449035214,
+    "wof:lastmodified":1466698855,
     "wof:name":"Down Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.191901,36.743917,-108.191901,36.743917],
+  "bbox": [
+    -108.191901,
+    36.743917,
+    -108.191901,
+    36.743917
+],
   "geometry": {"coordinates":[-108.191901,36.743917],"type":"Point"}
 }

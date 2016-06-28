@@ -2,13 +2,14 @@
   "id": 185731791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.013479,36.826846,-108.013479,36.826846",
     "geom:latitude":36.826846,
     "geom:longitude":-108.013479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1607 W Aztec Blvd",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185731791,
-    "wof:lastmodified":1449008042,
+    "wof:lastmodified":1466698984,
     "wof:name":"Aztec Public Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.013479,36.826846,-108.013479,36.826846],
+  "bbox": [
+    -108.013479,
+    36.826846,
+    -108.013479,
+    36.826846
+],
   "geometry": {"coordinates":[-108.013479,36.826846],"type":"Point"}
 }

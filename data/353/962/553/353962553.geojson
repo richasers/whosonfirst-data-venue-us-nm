@@ -2,13 +2,14 @@
   "id": 353962553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.698112,35.165146,-106.698112,35.165146",
     "geom:latitude":35.165146,
     "geom:longitude":-106.698112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7200 Hearth Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353962553,
-    "wof:lastmodified":1449019768,
+    "wof:lastmodified":1466698815,
     "wof:name":"Julie P Jenkins",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "therapy"
     ]
 },
-  "bbox": [-106.698112,35.165146,-106.698112,35.165146],
-  "geometry": {"coordinates":[-106.698112,35.165146],"type":"Point"}
+  "bbox": [
+    -106.698112,
+    35.165146,
+    -106.698112,
+    35.165146
+],
+  "geometry": {"coordinates":[-106.69811199999999,35.165146],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203106725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.16765,34.429068,-103.16765,34.429068",
     "geom:latitude":34.429068,
     "geom:longitude":-103.16765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Remuda Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203106725,
-    "wof:lastmodified":1449024916,
+    "wof:lastmodified":1466698809,
     "wof:name":"CS CS Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-103.16765,34.429068,-103.16765,34.429068],
-  "geometry": {"coordinates":[-103.16765,34.429068],"type":"Point"}
+  "bbox": [
+    -103.16765,
+    34.429068,
+    -103.16765,
+    34.429068
+],
+  "geometry": {"coordinates":[-103.16764999999999,34.429068],"type":"Point"}
 }

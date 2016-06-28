@@ -2,13 +2,14 @@
   "id": 203133741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.611021,35.114079,-106.611021,35.114079",
     "geom:latitude":35.114079,
     "geom:longitude":-106.611021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2803 Richmond Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203133741,
-    "wof:lastmodified":1449026511,
+    "wof:lastmodified":1466699044,
     "wof:name":"Safety Flare Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.611021,35.114079,-106.611021,35.114079],
-  "geometry": {"coordinates":[-106.611021,35.114079],"type":"Point"}
+  "bbox": [
+    -106.611021,
+    35.114079,
+    -106.611021,
+    35.114079
+],
+  "geometry": {"coordinates":[-106.61102099999999,35.114079],"type":"Point"}
 }

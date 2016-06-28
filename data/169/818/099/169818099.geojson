@@ -2,13 +2,14 @@
   "id": 169818099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.196562,36.719529,-108.196562,36.719529",
     "geom:latitude":36.719529,
     "geom:longitude":-108.196562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 E Murray Dr",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169818099,
-    "wof:lastmodified":1449034286,
+    "wof:lastmodified":1466698724,
     "wof:name":"Labor International-N America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.196562,36.719529,-108.196562,36.719529],
+  "bbox": [
+    -108.196562,
+    36.719529,
+    -108.196562,
+    36.719529
+],
   "geometry": {"coordinates":[-108.196562,36.719529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185878991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.770078,34.620514,-106.770078,34.620514",
     "geom:latitude":34.620514,
     "geom:longitude":-106.770078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Castillo Rd",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185878991,
-    "wof:lastmodified":1449007469,
+    "wof:lastmodified":1466698301,
     "wof:name":"Galaxy Satellite",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-106.770078,34.620514,-106.770078,34.620514],
+  "bbox": [
+    -106.770078,
+    34.620514,
+    -106.770078,
+    34.620514
+],
   "geometry": {"coordinates":[-106.770078,34.620514],"type":"Point"}
 }

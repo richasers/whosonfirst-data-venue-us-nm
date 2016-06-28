@@ -2,13 +2,14 @@
   "id": 202439751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.694427,35.161633,-106.694427,35.161633",
     "geom:latitude":35.161633,
     "geom:longitude":-106.694427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6811 Taylor Ranch Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202439751,
-    "wof:lastmodified":1449060821,
+    "wof:lastmodified":1466698421,
     "wof:name":"LBJ Middle School",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.694427,35.161633,-106.694427,35.161633],
+  "bbox": [
+    -106.694427,
+    35.161633,
+    -106.694427,
+    35.161633
+],
   "geometry": {"coordinates":[-106.694427,35.161633],"type":"Point"}
 }

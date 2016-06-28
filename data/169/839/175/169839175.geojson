@@ -2,13 +2,14 @@
   "id": 169839175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.127706,32.731863,-103.127706,32.731863",
     "geom:latitude":32.731863,
     "geom:longitude":-103.127706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2715 N Dal Paso St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169839175,
-    "wof:lastmodified":1449034669,
+    "wof:lastmodified":1466698849,
     "wof:name":"KLIP & Klean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-103.127706,32.731863,-103.127706,32.731863],
+  "bbox": [
+    -103.127706,
+    32.731863,
+    -103.127706,
+    32.731863
+],
   "geometry": {"coordinates":[-103.127706,32.731863],"type":"Point"}
 }

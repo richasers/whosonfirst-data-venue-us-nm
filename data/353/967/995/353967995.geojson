@@ -2,13 +2,14 @@
   "id": 353967995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.496016,35.075879,-106.496016,35.075879",
     "geom:latitude":35.075879,
     "geom:longitude":-106.496016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13812 Paseo Vis NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353967995,
-    "wof:lastmodified":1449020615,
+    "wof:lastmodified":1466698965,
     "wof:name":"Infomedia Publishing",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "publisher"
     ]
 },
-  "bbox": [-106.496016,35.075879,-106.496016,35.075879],
+  "bbox": [
+    -106.496016,
+    35.075879,
+    -106.496016,
+    35.075879
+],
   "geometry": {"coordinates":[-106.496016,35.075879],"type":"Point"}
 }

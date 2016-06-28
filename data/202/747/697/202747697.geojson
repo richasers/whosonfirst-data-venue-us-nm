@@ -2,13 +2,14 @@
   "id": 202747697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613366,35.073889,-106.613366,35.073889",
     "geom:latitude":35.073889,
     "geom:longitude":-106.613366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 Girard Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202747697,
-    "wof:lastmodified":1449060568,
+    "wof:lastmodified":1466699764,
     "wof:name":"Consultants In Kidder Benefits",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-106.613366,35.073889,-106.613366,35.073889],
+  "bbox": [
+    -106.613366,
+    35.073889,
+    -106.613366,
+    35.073889
+],
   "geometry": {"coordinates":[-106.613366,35.073889],"type":"Point"}
 }

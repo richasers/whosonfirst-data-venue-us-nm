@@ -2,13 +2,14 @@
   "id": 186629179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.584303,35.138669,-106.584303,35.138669",
     "geom:latitude":35.138669,
     "geom:longitude":-106.584303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5555 McLeod Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186629179,
-    "wof:lastmodified":1449052382,
+    "wof:lastmodified":1466700744,
     "wof:name":"Mc Bride Finance Corp",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-106.584303,35.138669,-106.584303,35.138669],
-  "geometry": {"coordinates":[-106.584303,35.138669],"type":"Point"}
+  "bbox": [
+    -106.584303,
+    35.138669,
+    -106.584303,
+    35.138669
+],
+  "geometry": {"coordinates":[-106.58430300000001,35.138669],"type":"Point"}
 }

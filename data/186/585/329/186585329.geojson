@@ -2,13 +2,14 @@
   "id": 186585329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.671647,33.326631,-105.671647,33.326631",
     "geom:latitude":33.326631,
     "geom:longitude":-105.671647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Center St",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186585329,
-    "wof:lastmodified":1449052152,
+    "wof:lastmodified":1466700583,
     "wof:name":"Hummingbird Cabins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-105.671647,33.326631,-105.671647,33.326631],
-  "geometry": {"coordinates":[-105.671647,33.326631],"type":"Point"}
+  "bbox": [
+    -105.671647,
+    33.326631,
+    -105.671647,
+    33.326631
+],
+  "geometry": {"coordinates":[-105.67164699999999,33.326631],"type":"Point"}
 }

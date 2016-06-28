@@ -2,13 +2,14 @@
   "id": 185696209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.577624,35.156309,-106.577624,35.156309",
     "geom:latitude":35.156309,
     "geom:longitude":-106.577624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6403 Belcher Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":185696209,
-    "wof:lastmodified":1449006730,
+    "wof:lastmodified":1466698607,
     "wof:name":"Prysm Video Entertainment",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-106.577624,35.156309,-106.577624,35.156309],
+  "bbox": [
+    -106.577624,
+    35.156309,
+    -106.577624,
+    35.156309
+],
   "geometry": {"coordinates":[-106.577624,35.156309],"type":"Point"}
 }

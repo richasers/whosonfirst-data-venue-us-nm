@@ -2,13 +2,14 @@
   "id": 202577603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.69126,34.869305,-106.69126,34.869305",
     "geom:latitude":34.869305,
     "geom:longitude":-106.69126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Bosque Farms Blvd",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202577603,
-    "wof:lastmodified":1449062749,
+    "wof:lastmodified":1466698054,
     "wof:name":"Misty's Hair Salon",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-106.69126,34.869305,-106.69126,34.869305],
+  "bbox": [
+    -106.69126,
+    34.869305,
+    -106.69126,
+    34.869305
+],
   "geometry": {"coordinates":[-106.69126,34.869305],"type":"Point"}
 }

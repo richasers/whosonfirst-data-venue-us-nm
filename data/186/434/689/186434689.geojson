@@ -2,13 +2,14 @@
   "id": 186434689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.085758,36.802682,-108.085758,36.802682",
     "geom:latitude":36.802682,
     "geom:longitude":-108.085758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"839 Hwy 516",
     "sg:city":"Flora Vista",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186434689,
-    "wof:lastmodified":1449050979,
+    "wof:lastmodified":1466699991,
     "wof:name":"Quick Truss Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tool"
     ]
 },
-  "bbox": [-108.085758,36.802682,-108.085758,36.802682],
+  "bbox": [
+    -108.085758,
+    36.802682,
+    -108.085758,
+    36.802682
+],
   "geometry": {"coordinates":[-108.085758,36.802682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186360223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.22761,32.420292,-104.22761,32.420292",
     "geom:latitude":32.420292,
     "geom:longitude":-104.22761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S Canyon St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186360223,
-    "wof:lastmodified":1449052390,
+    "wof:lastmodified":1466699708,
     "wof:name":"Advanced Health Mgmt Systems",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-104.22761,32.420292,-104.22761,32.420292],
+  "bbox": [
+    -104.22761,
+    32.420292,
+    -104.22761,
+    32.420292
+],
   "geometry": {"coordinates":[-104.22761,32.420292],"type":"Point"}
 }

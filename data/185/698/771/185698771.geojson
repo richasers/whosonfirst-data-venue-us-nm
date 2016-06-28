@@ -2,13 +2,14 @@
   "id": 185698771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614472,35.20051,-106.614472,35.20051",
     "geom:latitude":35.20051,
     "geom:longitude":-106.614472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Homesite Ln NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185698771,
-    "wof:lastmodified":1449008113,
+    "wof:lastmodified":1466698648,
     "wof:name":"Aspen Power & Light Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.614472,35.20051,-106.614472,35.20051],
-  "geometry": {"coordinates":[-106.614472,35.20051],"type":"Point"}
+  "bbox": [
+    -106.614472,
+    35.20051,
+    -106.614472,
+    35.20051
+],
+  "geometry": {"coordinates":[-106.61447200000001,35.20051],"type":"Point"}
 }

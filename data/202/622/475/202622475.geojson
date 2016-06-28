@@ -2,13 +2,14 @@
   "id": 202622475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.575024,35.102016,-106.575024,35.102016",
     "geom:latitude":35.102016,
     "geom:longitude":-106.575024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6200 Indian School Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202622475,
-    "wof:lastmodified":1449062205,
+    "wof:lastmodified":1466698713,
     "wof:name":"Studio 621",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-106.575024,35.102016,-106.575024,35.102016],
+  "bbox": [
+    -106.575024,
+    35.102016,
+    -106.575024,
+    35.102016
+],
   "geometry": {"coordinates":[-106.575024,35.102016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185754205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.220127,32.369698,-104.220127,32.369698",
     "geom:latitude":32.369698,
     "geom:longitude":-104.220127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4108 Old Cavern Hwy",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185754205,
-    "wof:lastmodified":1449007656,
+    "wof:lastmodified":1466699162,
     "wof:name":"W W Construction",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.220127,32.369698,-104.220127,32.369698],
-  "geometry": {"coordinates":[-104.220127,32.369698],"type":"Point"}
+  "bbox": [
+    -104.220127,
+    32.369698,
+    -104.220127,
+    32.369698
+],
+  "geometry": {"coordinates":[-104.22012700000001,32.369698],"type":"Point"}
 }

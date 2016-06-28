@@ -2,13 +2,14 @@
   "id": 202586253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.953131,35.691058,-105.953131,35.691058",
     "geom:latitude":35.691058,
     "geom:longitude":-105.953131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"199 Fiesta St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202586253,
-    "wof:lastmodified":1449062360,
+    "wof:lastmodified":1466698186,
     "wof:name":"Enchantment Refrigeration",
     "wof:parent_id":85880797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.953131,35.691058,-105.953131,35.691058],
+  "bbox": [
+    -105.953131,
+    35.691058,
+    -105.953131,
+    35.691058
+],
   "geometry": {"coordinates":[-105.953131,35.691058],"type":"Point"}
 }

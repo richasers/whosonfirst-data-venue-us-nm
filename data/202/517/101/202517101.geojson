@@ -2,13 +2,14 @@
   "id": 202517101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.670551,34.944767,-104.670551,34.944767",
     "geom:latitude":34.944767,
     "geom:longitude":-104.670551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819 Will Rogers Dr",
     "sg:city":"Santa Rosa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202517101,
-    "wof:lastmodified":1449061548,
+    "wof:lastmodified":1466699244,
     "wof:name":"Route 66 Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.670551,34.944767,-104.670551,34.944767],
+  "bbox": [
+    -104.670551,
+    34.944767,
+    -104.670551,
+    34.944767
+],
   "geometry": {"coordinates":[-104.670551,34.944767],"type":"Point"}
 }

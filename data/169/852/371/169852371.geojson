@@ -2,13 +2,14 @@
   "id": 169852371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.698494,35.100812,-106.698494,35.100812",
     "geom:latitude":35.100812,
     "geom:longitude":-106.698494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 Atrisco Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169852371,
-    "wof:lastmodified":1449035404,
+    "wof:lastmodified":1466698891,
     "wof:name":"Atrisco Lights Shelter Care HM",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-106.698494,35.100812,-106.698494,35.100812],
+  "bbox": [
+    -106.698494,
+    35.100812,
+    -106.698494,
+    35.100812
+],
   "geometry": {"coordinates":[-106.698494,35.100812],"type":"Point"}
 }

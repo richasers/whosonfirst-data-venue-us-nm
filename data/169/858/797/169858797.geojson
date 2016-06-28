@@ -2,13 +2,14 @@
   "id": 169858797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.547968,35.191593,-106.547968,35.191593",
     "geom:latitude":35.191593,
     "geom:longitude":-106.547968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8700 Florence Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169858797,
-    "wof:lastmodified":1449032996,
+    "wof:lastmodified":1466698934,
     "wof:name":"Wes Moore Enterprises Inc",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-106.547968,35.191593,-106.547968,35.191593],
+  "bbox": [
+    -106.547968,
+    35.191593,
+    -106.547968,
+    35.191593
+],
   "geometry": {"coordinates":[-106.547968,35.191593],"type":"Point"}
 }

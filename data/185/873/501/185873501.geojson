@@ -2,13 +2,14 @@
   "id": 185873501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.201603,34.416275,-103.201603,34.416275",
     "geom:latitude":34.416275,
     "geom:longitude":-103.201603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 Axtell St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185873501,
-    "wof:lastmodified":1449006951,
+    "wof:lastmodified":1466698246,
     "wof:name":"Curry Equipment & Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.201603,34.416275,-103.201603,34.416275],
-  "geometry": {"coordinates":[-103.201603,34.416275],"type":"Point"}
+  "bbox": [
+    -103.201603,
+    34.416275,
+    -103.201603,
+    34.416275
+],
+  "geometry": {"coordinates":[-103.20160300000001,34.416275],"type":"Point"}
 }

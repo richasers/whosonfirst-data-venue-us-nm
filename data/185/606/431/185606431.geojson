@@ -2,13 +2,14 @@
   "id": 185606431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.540379,35.069826,-106.540379,35.069826",
     "geom:latitude":35.069826,
     "geom:longitude":-106.540379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9708 Bell Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185606431,
-    "wof:lastmodified":1449006859,
+    "wof:lastmodified":1466697649,
     "wof:name":"Enterprise Electrical Svc Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.540379,35.069826,-106.540379,35.069826],
+  "bbox": [
+    -106.540379,
+    35.069826,
+    -106.540379,
+    35.069826
+],
   "geometry": {"coordinates":[-106.540379,35.069826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202861495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.215258,35.597318,-105.215258,35.597318",
     "geom:latitude":35.597318,
     "geom:longitude":-105.215258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 5th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202861495,
-    "wof:lastmodified":1449062624,
+    "wof:lastmodified":1466700100,
     "wof:name":"Larry Chambles DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-105.215258,35.597318,-105.215258,35.597318],
-  "geometry": {"coordinates":[-105.215258,35.597318],"type":"Point"}
+  "bbox": [
+    -105.215258,
+    35.597318,
+    -105.215258,
+    35.597318
+],
+  "geometry": {"coordinates":[-105.21525800000001,35.597318],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202491059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.526823,35.139208,-106.526823,35.139208",
     "geom:latitude":35.139208,
     "geom:longitude":-106.526823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5261 Mesa del Oso Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202491059,
-    "wof:lastmodified":1449060070,
+    "wof:lastmodified":1466699456,
     "wof:name":"Final Touch",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "glass"
     ]
 },
-  "bbox": [-106.526823,35.139208,-106.526823,35.139208],
-  "geometry": {"coordinates":[-106.526823,35.139208],"type":"Point"}
+  "bbox": [
+    -106.526823,
+    35.139208,
+    -106.526823,
+    35.139208
+],
+  "geometry": {"coordinates":[-106.52682299999999,35.139208],"type":"Point"}
 }

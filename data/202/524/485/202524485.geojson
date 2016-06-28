@@ -2,13 +2,14 @@
   "id": 202524485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.573077,35.166166,-106.573077,35.166166",
     "geom:latitude":35.166166,
     "geom:longitude":-106.573077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6701 San Francisco Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202524485,
-    "wof:lastmodified":1449060086,
+    "wof:lastmodified":1466699261,
     "wof:name":"Superior Support Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.573077,35.166166,-106.573077,35.166166],
+  "bbox": [
+    -106.573077,
+    35.166166,
+    -106.573077,
+    35.166166
+],
   "geometry": {"coordinates":[-106.573077,35.166166],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202880775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.944004,35.681171,-105.944004,35.681171",
     "geom:latitude":35.681171,
     "geom:longitude":-105.944004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 Pso de Peralta",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202880775,
-    "wof:lastmodified":1449062676,
+    "wof:lastmodified":1466700179,
     "wof:name":"Mason Davis Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-105.944004,35.681171,-105.944004,35.681171],
-  "geometry": {"coordinates":[-105.944004,35.681171],"type":"Point"}
+  "bbox": [
+    -105.944004,
+    35.681171,
+    -105.944004,
+    35.681171
+],
+  "geometry": {"coordinates":[-105.94400400000001,35.681171],"type":"Point"}
 }

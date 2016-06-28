@@ -2,13 +2,14 @@
   "id": 185653599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.995889,36.82023,-107.995889,36.82023",
     "geom:latitude":36.82023,
     "geom:longitude":-107.995889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 S Main Ave",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185653599,
-    "wof:lastmodified":1449006721,
+    "wof:lastmodified":1466698168,
     "wof:name":"Broadway Dental Ceramics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-107.995889,36.82023,-107.995889,36.82023],
-  "geometry": {"coordinates":[-107.995889,36.82023],"type":"Point"}
+  "bbox": [
+    -107.995889,
+    36.82023,
+    -107.995889,
+    36.82023
+],
+  "geometry": {"coordinates":[-107.99588900000001,36.82023],"type":"Point"}
 }

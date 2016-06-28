@@ -2,13 +2,14 @@
   "id": 203073009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.520413,35.314231,-106.520413,35.314231",
     "geom:latitude":35.314231,
     "geom:longitude":-106.520413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Vis Paseador",
     "sg:city":"Placitas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203073009,
-    "wof:lastmodified":1449025203,
+    "wof:lastmodified":1466699420,
     "wof:name":"B R Jones & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [-106.520413,35.314231,-106.520413,35.314231],
+  "bbox": [
+    -106.520413,
+    35.314231,
+    -106.520413,
+    35.314231
+],
   "geometry": {"coordinates":[-106.520413,35.314231],"type":"Point"}
 }

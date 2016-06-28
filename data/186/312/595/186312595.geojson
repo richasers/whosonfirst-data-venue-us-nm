@@ -2,13 +2,14 @@
   "id": 186312595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.780537,32.31104,-106.780537,32.31104",
     "geom:latitude":32.31104,
     "geom:longitude":-106.780537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 W Las Cruces Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186312595,
-    "wof:lastmodified":1449051727,
+    "wof:lastmodified":1466699413,
     "wof:name":"Oneill Amy Lac Dom",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.780537,32.31104,-106.780537,32.31104],
+  "bbox": [
+    -106.780537,
+    32.31104,
+    -106.780537,
+    32.31104
+],
   "geometry": {"coordinates":[-106.780537,32.31104],"type":"Point"}
 }

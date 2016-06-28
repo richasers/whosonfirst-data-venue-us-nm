@@ -2,13 +2,14 @@
   "id": 186009113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.154487,32.442531,-103.154487,32.442531",
     "geom:latitude":32.442531,
     "geom:longitude":-103.154487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1406 9th St",
     "sg:city":"Eunice",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186009113,
-    "wof:lastmodified":1449052981,
+    "wof:lastmodified":1466697794,
     "wof:name":"William Caton Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-103.154487,32.442531,-103.154487,32.442531],
+  "bbox": [
+    -103.154487,
+    32.442531,
+    -103.154487,
+    32.442531
+],
   "geometry": {"coordinates":[-103.154487,32.442531],"type":"Point"}
 }

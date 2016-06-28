@@ -2,13 +2,14 @@
   "id": 186277937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604109,35.142534,-106.604109,35.142534",
     "geom:latitude":35.142534,
     "geom:longitude":-106.604109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 Midway Park Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186277937,
-    "wof:lastmodified":1449050553,
+    "wof:lastmodified":1466699029,
     "wof:name":"United States Filter Corp",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.604109,35.142534,-106.604109,35.142534],
-  "geometry": {"coordinates":[-106.604109,35.142534],"type":"Point"}
+  "bbox": [
+    -106.604109,
+    35.142534,
+    -106.604109,
+    35.142534
+],
+  "geometry": {"coordinates":[-106.60410899999999,35.142534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169788363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.687893,35.187812,-106.687893,35.187812",
     "geom:latitude":35.187812,
     "geom:longitude":-106.687893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9305 Jill Patricia St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169788363,
-    "wof:lastmodified":1449034385,
+    "wof:lastmodified":1466698431,
     "wof:name":"Loving Memories",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.687893,35.187812,-106.687893,35.187812],
+  "bbox": [
+    -106.687893,
+    35.187812,
+    -106.687893,
+    35.187812
+],
   "geometry": {"coordinates":[-106.687893,35.187812],"type":"Point"}
 }

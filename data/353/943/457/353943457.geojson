@@ -2,13 +2,14 @@
   "id": 353943457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.570703,35.087359,-106.570703,35.087359",
     "geom:latitude":35.087359,
     "geom:longitude":-106.570703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6917 Lomas Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353943457,
-    "wof:lastmodified":1449018940,
+    "wof:lastmodified":1466698376,
     "wof:name":"Land of Enchantment Auto Sales",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "truck"
     ]
 },
-  "bbox": [-106.570703,35.087359,-106.570703,35.087359],
-  "geometry": {"coordinates":[-106.570703,35.087359],"type":"Point"}
+  "bbox": [
+    -106.570703,
+    35.087359,
+    -106.570703,
+    35.087359
+],
+  "geometry": {"coordinates":[-106.57070299999999,35.087359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185663903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.5206,35.112635,-106.5206,35.112635",
     "geom:latitude":35.112635,
     "geom:longitude":-106.5206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10905 Claremont Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185663903,
-    "wof:lastmodified":1449007777,
+    "wof:lastmodified":1466698276,
     "wof:name":"Quality Wallpapering & Pntng",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wallpaper"
     ]
 },
-  "bbox": [-106.5206,35.112635,-106.5206,35.112635],
+  "bbox": [
+    -106.5206,
+    35.112635,
+    -106.5206,
+    35.112635
+],
   "geometry": {"coordinates":[-106.5206,35.112635],"type":"Point"}
 }

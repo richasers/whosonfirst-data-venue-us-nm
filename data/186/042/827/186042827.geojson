@@ -2,13 +2,14 @@
   "id": 186042827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.596526,35.078815,-106.596526,35.078815",
     "geom:latitude":35.078815,
     "geom:longitude":-106.596526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4214 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186042827,
-    "wof:lastmodified":1449052362,
+    "wof:lastmodified":1466698171,
     "wof:name":"Sonny's Bar & Grille",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "night"
     ]
 },
-  "bbox": [-106.596526,35.078815,-106.596526,35.078815],
+  "bbox": [
+    -106.596526,
+    35.078815,
+    -106.596526,
+    35.078815
+],
   "geometry": {"coordinates":[-106.596526,35.078815],"type":"Point"}
 }

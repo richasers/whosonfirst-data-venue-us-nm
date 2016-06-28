@@ -2,13 +2,14 @@
   "id": 203138185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.059943,36.696932,-108.059943,36.696932",
     "geom:latitude":36.696932,
     "geom:longitude":-108.059943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Rd 5323",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203138185,
-    "wof:lastmodified":1449025448,
+    "wof:lastmodified":1466699064,
     "wof:name":"P C Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-108.059943,36.696932,-108.059943,36.696932],
+  "bbox": [
+    -108.059943,
+    36.696932,
+    -108.059943,
+    36.696932
+],
   "geometry": {"coordinates":[-108.059943,36.696932],"type":"Point"}
 }

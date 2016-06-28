@@ -2,13 +2,14 @@
   "id": 186621143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.182856,36.715564,-108.182856,36.715564",
     "geom:latitude":36.715564,
     "geom:longitude":-108.182856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 Cam Rio",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186621143,
-    "wof:lastmodified":1449052698,
+    "wof:lastmodified":1466700707,
     "wof:name":"Precision Flrg Installation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.182856,36.715564,-108.182856,36.715564],
+  "bbox": [
+    -108.182856,
+    36.715564,
+    -108.182856,
+    36.715564
+],
   "geometry": {"coordinates":[-108.182856,36.715564],"type":"Point"}
 }

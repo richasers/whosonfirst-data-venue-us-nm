@@ -2,13 +2,14 @@
   "id": 185889037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.525547,35.148565,-106.525547,35.148565",
     "geom:latitude":35.148565,
     "geom:longitude":-106.525547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 Tierra St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185889037,
-    "wof:lastmodified":1449006576,
+    "wof:lastmodified":1466698410,
     "wof:name":"David Bernstein & Assoc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-106.525547,35.148565,-106.525547,35.148565],
+  "bbox": [
+    -106.525547,
+    35.148565,
+    -106.525547,
+    35.148565
+],
   "geometry": {"coordinates":[-106.525547,35.148565],"type":"Point"}
 }

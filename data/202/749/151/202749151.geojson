@@ -2,13 +2,14 @@
   "id": 202749151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.564531,35.124941,-106.564531,35.124941",
     "geom:latitude":35.124941,
     "geom:longitude":-106.564531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7100 Gladden Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202749151,
-    "wof:lastmodified":1449060846,
+    "wof:lastmodified":1466699672,
     "wof:name":"Convenient Video",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-106.564531,35.124941,-106.564531,35.124941],
+  "bbox": [
+    -106.564531,
+    35.124941,
+    -106.564531,
+    35.124941
+],
   "geometry": {"coordinates":[-106.564531,35.124941],"type":"Point"}
 }

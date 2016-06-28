@@ -2,13 +2,14 @@
   "id": 185989993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.712488,35.009838,-106.712488,35.009838",
     "geom:latitude":35.009838,
     "geom:longitude":-106.712488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4625 W Glen Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185989993,
-    "wof:lastmodified":1449007768,
+    "wof:lastmodified":1466699710,
     "wof:name":"L&R Computers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.712488,35.009838,-106.712488,35.009838],
-  "geometry": {"coordinates":[-106.712488,35.009838],"type":"Point"}
+  "bbox": [
+    -106.712488,
+    35.009838,
+    -106.712488,
+    35.009838
+],
+  "geometry": {"coordinates":[-106.71248799999999,35.009838],"type":"Point"}
 }

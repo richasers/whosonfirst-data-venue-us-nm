@@ -2,13 +2,14 @@
   "id": 186139461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.711152,35.145522,-106.711152,35.145522",
     "geom:latitude":35.145522,
     "geom:longitude":-106.711152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6213 Dellyne Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186139461,
-    "wof:lastmodified":1449050492,
+    "wof:lastmodified":1466699206,
     "wof:name":"KIX Electrical",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.711152,35.145522,-106.711152,35.145522],
+  "bbox": [
+    -106.711152,
+    35.145522,
+    -106.711152,
+    35.145522
+],
   "geometry": {"coordinates":[-106.711152,35.145522],"type":"Point"}
 }

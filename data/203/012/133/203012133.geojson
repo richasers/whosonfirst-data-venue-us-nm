@@ -2,13 +2,14 @@
   "id": 203012133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.024319,33.089549,-106.024319,33.089549",
     "geom:latitude":33.089549,
     "geom:longitude":-106.024319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Beanblossom Rd",
     "sg:city":"Tularosa",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203012133,
-    "wof:lastmodified":1449026680,
+    "wof:lastmodified":1466697725,
     "wof:name":"Tularosa Equine Clinic LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-106.024319,33.089549,-106.024319,33.089549],
-  "geometry": {"coordinates":[-106.024319,33.089549],"type":"Point"}
+  "bbox": [
+    -106.024319,
+    33.089549,
+    -106.024319,
+    33.089549
+],
+  "geometry": {"coordinates":[-106.02431900000001,33.089549],"type":"Point"}
 }

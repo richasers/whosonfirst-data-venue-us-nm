@@ -2,13 +2,14 @@
   "id": 202686535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.790219,32.31676,-106.790219,32.31676",
     "geom:latitude":32.31676,
     "geom:longitude":-106.790219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"771 Parker Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202686535,
-    "wof:lastmodified":1449062037,
+    "wof:lastmodified":1466699547,
     "wof:name":"Villa Dry Wall",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.790219,32.31676,-106.790219,32.31676],
-  "geometry": {"coordinates":[-106.790219,32.31676],"type":"Point"}
+  "bbox": [
+    -106.790219,
+    32.31676,
+    -106.790219,
+    32.31676
+],
+  "geometry": {"coordinates":[-106.79021899999999,32.31676],"type":"Point"}
 }

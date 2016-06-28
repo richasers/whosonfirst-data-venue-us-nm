@@ -2,13 +2,14 @@
   "id": 186373123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.981623,36.710346,-107.981623,36.710346",
     "geom:latitude":36.710346,
     "geom:longitude":-107.981623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 W Main St",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186373123,
-    "wof:lastmodified":1449051753,
+    "wof:lastmodified":1466699851,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.981623,36.710346,-107.981623,36.710346],
+  "bbox": [
+    -107.981623,
+    36.710346,
+    -107.981623,
+    36.710346
+],
   "geometry": {"coordinates":[-107.981623,36.710346],"type":"Point"}
 }

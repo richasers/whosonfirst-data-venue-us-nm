@@ -2,13 +2,14 @@
   "id": 186038653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.680684,35.107351,-106.680684,35.107351",
     "geom:latitude":35.107351,
     "geom:longitude":-106.680684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2708 Floral Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186038653,
-    "wof:lastmodified":1449052097,
+    "wof:lastmodified":1466698123,
     "wof:name":"Rock Scapes of New Mexico",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.680684,35.107351,-106.680684,35.107351],
+  "bbox": [
+    -106.680684,
+    35.107351,
+    -106.680684,
+    35.107351
+],
   "geometry": {"coordinates":[-106.680684,35.107351],"type":"Point"}
 }

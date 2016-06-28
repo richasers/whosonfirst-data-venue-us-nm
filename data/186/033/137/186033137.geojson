@@ -2,13 +2,14 @@
   "id": 186033137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.950226,32.904921,-105.950226,32.904921",
     "geom:latitude":32.904921,
     "geom:longitude":-105.950226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 Hawaii Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186033137,
-    "wof:lastmodified":1449050960,
+    "wof:lastmodified":1466698051,
     "wof:name":"Carrillos Masonry LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.950226,32.904921,-105.950226,32.904921],
+  "bbox": [
+    -105.950226,
+    32.904921,
+    -105.950226,
+    32.904921
+],
   "geometry": {"coordinates":[-105.950226,32.904921],"type":"Point"}
 }

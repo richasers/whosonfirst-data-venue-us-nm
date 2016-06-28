@@ -2,13 +2,14 @@
   "id": 202756695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.656683,33.374446,-105.656683,33.374446",
     "geom:latitude":33.374446,
     "geom:longitude":-105.656683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Suwny Slope Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202756695,
-    "wof:lastmodified":1449061637,
+    "wof:lastmodified":1466699706,
     "wof:name":"Swanner Plbg Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-105.656683,33.374446,-105.656683,33.374446],
+  "bbox": [
+    -105.656683,
+    33.374446,
+    -105.656683,
+    33.374446
+],
   "geometry": {"coordinates":[-105.656683,33.374446],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186015137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.228803,32.390925,-104.228803,32.390925",
     "geom:latitude":32.390925,
     "geom:longitude":-104.228803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2814 San Jose Blvd",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186015137,
-    "wof:lastmodified":1449051012,
+    "wof:lastmodified":1466697849,
     "wof:name":"Carlsbad City RSVP",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-104.228803,32.390925,-104.228803,32.390925],
+  "bbox": [
+    -104.228803,
+    32.390925,
+    -104.228803,
+    32.390925
+],
   "geometry": {"coordinates":[-104.228803,32.390925],"type":"Point"}
 }

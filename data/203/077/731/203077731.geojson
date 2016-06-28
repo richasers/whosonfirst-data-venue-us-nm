@@ -2,13 +2,14 @@
   "id": 203077731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.783743,32.327866,-106.783743,32.327866",
     "geom:latitude":32.327866,
     "geom:longitude":-106.783743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2489 N Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203077731,
-    "wof:lastmodified":1449025237,
+    "wof:lastmodified":1466698454,
     "wof:name":"Southwest Cash & Carry",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-106.783743,32.327866,-106.783743,32.327866],
+  "bbox": [
+    -106.783743,
+    32.327866,
+    -106.783743,
+    32.327866
+],
   "geometry": {"coordinates":[-106.783743,32.327866],"type":"Point"}
 }

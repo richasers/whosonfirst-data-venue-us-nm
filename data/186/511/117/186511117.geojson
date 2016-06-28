@@ -2,13 +2,14 @@
   "id": 186511117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.920277,35.683274,-105.920277,35.683274",
     "geom:latitude":35.683274,
     "geom:longitude":-105.920277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Gonzales Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186511117,
-    "wof:lastmodified":1449051612,
+    "wof:lastmodified":1466700134,
     "wof:name":"Papoulle Fine Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.920277,35.683274,-105.920277,35.683274],
+  "bbox": [
+    -105.920277,
+    35.683274,
+    -105.920277,
+    35.683274
+],
   "geometry": {"coordinates":[-105.920277,35.683274],"type":"Point"}
 }

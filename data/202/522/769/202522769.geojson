@@ -2,13 +2,14 @@
   "id": 202522769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.035837,35.980354,-106.035837,35.980354",
     "geom:latitude":35.980354,
     "geom:longitude":-106.035837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Shady Ln",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202522769,
-    "wof:lastmodified":1449061335,
+    "wof:lastmodified":1466699270,
     "wof:name":"Akal Security",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-106.035837,35.980354,-106.035837,35.980354],
+  "bbox": [
+    -106.035837,
+    35.980354,
+    -106.035837,
+    35.980354
+],
   "geometry": {"coordinates":[-106.035837,35.980354],"type":"Point"}
 }

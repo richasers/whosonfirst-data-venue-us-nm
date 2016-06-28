@@ -2,13 +2,14 @@
   "id": 353969183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.820193,35.507466,-108.820193,35.507466",
     "geom:latitude":35.507466,
     "geom:longitude":-108.820193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3380 W Historic Highway 66",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353969183,
-    "wof:lastmodified":1449018867,
+    "wof:lastmodified":1466698987,
     "wof:name":"Subway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "take"
     ]
 },
-  "bbox": [-108.820193,35.507466,-108.820193,35.507466],
+  "bbox": [
+    -108.820193,
+    35.507466,
+    -108.820193,
+    35.507466
+],
   "geometry": {"coordinates":[-108.820193,35.507466],"type":"Point"}
 }

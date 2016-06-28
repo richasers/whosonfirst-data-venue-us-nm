@@ -2,13 +2,14 @@
   "id": 202865325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.728335,35.177947,-103.728335,35.177947",
     "geom:latitude":35.177947,
     "geom:longitude":-103.728335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 W Center St",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202865325,
-    "wof:lastmodified":1449062030,
+    "wof:lastmodified":1466700107,
     "wof:name":"Peterson's Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-103.728335,35.177947,-103.728335,35.177947],
+  "bbox": [
+    -103.728335,
+    35.177947,
+    -103.728335,
+    35.177947
+],
   "geometry": {"coordinates":[-103.728335,35.177947],"type":"Point"}
 }

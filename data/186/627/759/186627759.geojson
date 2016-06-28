@@ -2,13 +2,14 @@
   "id": 186627759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.206688,34.400572,-103.206688,34.400572",
     "geom:latitude":34.400572,
     "geom:longitude":-103.206688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Mitchell St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186627759,
-    "wof:lastmodified":1449053082,
+    "wof:lastmodified":1466700641,
     "wof:name":"Unlimited Woodworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-103.206688,34.400572,-103.206688,34.400572],
+  "bbox": [
+    -103.206688,
+    34.400572,
+    -103.206688,
+    34.400572
+],
   "geometry": {"coordinates":[-103.206688,34.400572],"type":"Point"}
 }

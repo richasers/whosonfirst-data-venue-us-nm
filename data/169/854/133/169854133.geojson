@@ -2,13 +2,14 @@
   "id": 169854133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.592095,35.184476,-106.592095,35.184476",
     "geom:latitude":35.184476,
     "geom:longitude":-106.592095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 Alameda Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169854133,
-    "wof:lastmodified":1449035844,
+    "wof:lastmodified":1466699442,
     "wof:name":"Sundance Mechanical & Utility",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.592095,35.184476,-106.592095,35.184476],
+  "bbox": [
+    -106.592095,
+    35.184476,
+    -106.592095,
+    35.184476
+],
   "geometry": {"coordinates":[-106.592095,35.184476],"type":"Point"}
 }

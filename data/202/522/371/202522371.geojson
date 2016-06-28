@@ -2,13 +2,14 @@
   "id": 202522371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.963102,32.912894,-105.963102,32.912894",
     "geom:latitude":32.912894,
     "geom:longitude":-105.963102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 W Dewey Ln",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202522371,
-    "wof:lastmodified":1449061335,
+    "wof:lastmodified":1466699262,
     "wof:name":"Un Toque De Luz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.963102,32.912894,-105.963102,32.912894],
-  "geometry": {"coordinates":[-105.963102,32.912894],"type":"Point"}
+  "bbox": [
+    -105.963102,
+    32.912894,
+    -105.963102,
+    32.912894
+],
+  "geometry": {"coordinates":[-105.96310200000001,32.912894],"type":"Point"}
 }

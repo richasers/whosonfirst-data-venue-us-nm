@@ -2,13 +2,14 @@
   "id": 186478347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.999504,35.655999,-105.999504,35.655999",
     "geom:latitude":35.655999,
     "geom:longitude":-105.999504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3204 Mercantile Ct",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186478347,
-    "wof:lastmodified":1449050354,
+    "wof:lastmodified":1466700033,
     "wof:name":"Faith At Work Comm Outreach",
     "wof:parent_id":85880845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-105.999504,35.655999,-105.999504,35.655999],
+  "bbox": [
+    -105.999504,
+    35.655999,
+    -105.999504,
+    35.655999
+],
   "geometry": {"coordinates":[-105.999504,35.655999],"type":"Point"}
 }

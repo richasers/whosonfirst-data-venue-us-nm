@@ -2,13 +2,14 @@
   "id": 202518235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.498403,35.065831,-106.498403,35.065831",
     "geom:latitude":35.065831,
     "geom:longitude":-106.498403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13128 Wenonah Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202518235,
-    "wof:lastmodified":1449061532,
+    "wof:lastmodified":1466699245,
     "wof:name":"Deer Meadows Apartments",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "complex"
     ]
 },
-  "bbox": [-106.498403,35.065831,-106.498403,35.065831],
+  "bbox": [
+    -106.498403,
+    35.065831,
+    -106.498403,
+    35.065831
+],
   "geometry": {"coordinates":[-106.498403,35.065831],"type":"Point"}
 }

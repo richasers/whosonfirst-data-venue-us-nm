@@ -2,13 +2,14 @@
   "id": 186600355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.70467,35.15123,-106.70467,35.15123",
     "geom:latitude":35.15123,
     "geom:longitude":-106.70467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5901 Flor del Rey NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186600355,
-    "wof:lastmodified":1449050485,
+    "wof:lastmodified":1466700631,
     "wof:name":"Blair & Assoc Investigation",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-106.70467,35.15123,-106.70467,35.15123],
-  "geometry": {"coordinates":[-106.70467,35.15123],"type":"Point"}
+  "bbox": [
+    -106.70467,
+    35.15123,
+    -106.70467,
+    35.15123
+],
+  "geometry": {"coordinates":[-106.70466999999999,35.15123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186010125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.620035,35.185977,-106.620035,35.185977",
     "geom:latitude":35.185977,
     "geom:longitude":-106.620035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9204 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186010125,
-    "wof:lastmodified":1449052039,
+    "wof:lastmodified":1466697804,
     "wof:name":"Mike's Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-106.620035,35.185977,-106.620035,35.185977],
+  "bbox": [
+    -106.620035,
+    35.185977,
+    -106.620035,
+    35.185977
+],
   "geometry": {"coordinates":[-106.620035,35.185977],"type":"Point"}
 }

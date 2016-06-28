@@ -2,13 +2,14 @@
   "id": 186350637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.091651,32.371177,-106.091651,32.371177",
     "geom:latitude":32.371177,
     "geom:longitude":-106.091651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2048 US Hwy 54",
     "sg:city":"Orogrande",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186350637,
-    "wof:lastmodified":1449051733,
+    "wof:lastmodified":1466699678,
     "wof:name":"G & M Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-106.091651,32.371177,-106.091651,32.371177],
+  "bbox": [
+    -106.091651,
+    32.371177,
+    -106.091651,
+    32.371177
+],
   "geometry": {"coordinates":[-106.091651,32.371177],"type":"Point"}
 }

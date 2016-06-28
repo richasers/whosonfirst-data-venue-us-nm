@@ -2,13 +2,14 @@
   "id": 186158953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.96076,32.920001,-105.96076,32.920001",
     "geom:latitude":32.920001,
     "geom:longitude":-105.96076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2419 N White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186158953,
-    "wof:lastmodified":1449052156,
+    "wof:lastmodified":1466699355,
     "wof:name":"New Mexico Bolt & Screw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bolt"
     ]
 },
-  "bbox": [-105.96076,32.920001,-105.96076,32.920001],
-  "geometry": {"coordinates":[-105.96076,32.920001],"type":"Point"}
+  "bbox": [
+    -105.96076,
+    32.920001,
+    -105.96076,
+    32.920001
+],
+  "geometry": {"coordinates":[-105.96075999999999,32.920001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186161015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.595363,35.179363,-106.595363,35.179363",
     "geom:latitude":35.179363,
     "geom:longitude":-106.595363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8409 Washington St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186161015,
-    "wof:lastmodified":1449051425,
+    "wof:lastmodified":1466699351,
     "wof:name":"Vitality Works Herb Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "herb"
     ]
 },
-  "bbox": [-106.595363,35.179363,-106.595363,35.179363],
-  "geometry": {"coordinates":[-106.595363,35.179363],"type":"Point"}
+  "bbox": [
+    -106.595363,
+    35.179363,
+    -106.595363,
+    35.179363
+],
+  "geometry": {"coordinates":[-106.59536300000001,35.179363],"type":"Point"}
 }

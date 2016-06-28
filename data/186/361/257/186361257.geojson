@@ -2,13 +2,14 @@
   "id": 186361257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.771128,35.542504,-108.771128,35.542504",
     "geom:latitude":35.542504,
     "geom:longitude":-108.771128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Coal Basin Rd",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186361257,
-    "wof:lastmodified":1449052311,
+    "wof:lastmodified":1466699717,
     "wof:name":"Dust Busters",
     "wof:parent_id":85802855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-108.771128,35.542504,-108.771128,35.542504],
+  "bbox": [
+    -108.771128,
+    35.542504,
+    -108.771128,
+    35.542504
+],
   "geometry": {"coordinates":[-108.771128,35.542504],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202913023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.533559,35.07563,-106.533559,35.07563",
     "geom:latitude":35.07563,
     "geom:longitude":-106.533559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Glorieta St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202913023,
-    "wof:lastmodified":1449061096,
+    "wof:lastmodified":1466700409,
     "wof:name":"Molly's Day Care",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.533559,35.07563,-106.533559,35.07563],
+  "bbox": [
+    -106.533559,
+    35.07563,
+    -106.533559,
+    35.07563
+],
   "geometry": {"coordinates":[-106.533559,35.07563],"type":"Point"}
 }

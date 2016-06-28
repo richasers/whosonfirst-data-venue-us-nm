@@ -2,13 +2,14 @@
   "id": 186341719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.320146,35.105018,-106.320146,35.105018",
     "geom:latitude":35.105018,
     "geom:longitude":-106.320146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Cll de Carino",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186341719,
-    "wof:lastmodified":1449052918,
+    "wof:lastmodified":1466699488,
     "wof:name":"Chamas Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "builder"
     ]
 },
-  "bbox": [-106.320146,35.105018,-106.320146,35.105018],
-  "geometry": {"coordinates":[-106.320146,35.105018],"type":"Point"}
+  "bbox": [
+    -106.320146,
+    35.105018,
+    -106.320146,
+    35.105018
+],
+  "geometry": {"coordinates":[-106.32014599999999,35.105018],"type":"Point"}
 }

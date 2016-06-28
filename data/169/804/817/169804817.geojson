@@ -2,13 +2,14 @@
   "id": 169804817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.587575,35.060324,-106.587575,35.060324",
     "geom:latitude":35.060324,
     "geom:longitude":-106.587575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Truman St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169804817,
-    "wof:lastmodified":1449034986,
+    "wof:lastmodified":1466698666,
     "wof:name":"Doug Lawrence Orchestra LLC",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-106.587575,35.060324,-106.587575,35.060324],
+  "bbox": [
+    -106.587575,
+    35.060324,
+    -106.587575,
+    35.060324
+],
   "geometry": {"coordinates":[-106.587575,35.060324],"type":"Point"}
 }

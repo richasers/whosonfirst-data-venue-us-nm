@@ -2,13 +2,14 @@
   "id": 202751725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.941727,35.687923,-105.941727,35.687923",
     "geom:latitude":35.687923,
     "geom:longitude":-105.941727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 W San Francisco St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202751725,
-    "wof:lastmodified":1449060245,
+    "wof:lastmodified":1466699792,
     "wof:name":"Romancing The Stone",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-105.941727,35.687923,-105.941727,35.687923],
+  "bbox": [
+    -105.941727,
+    35.687923,
+    -105.941727,
+    35.687923
+],
   "geometry": {"coordinates":[-105.941727,35.687923],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202936163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.430911,33.095453,-104.430911,33.095453",
     "geom:latitude":33.095453,
     "geom:longitude":-104.430911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 E Ottawa Rd",
     "sg:city":"Hagerman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202936163,
-    "wof:lastmodified":1449060958,
+    "wof:lastmodified":1466700502,
     "wof:name":"South Wind Dairy LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.430911,33.095453,-104.430911,33.095453],
-  "geometry": {"coordinates":[-104.430911,33.095453],"type":"Point"}
+  "bbox": [
+    -104.430911,
+    33.095453,
+    -104.430911,
+    33.095453
+],
+  "geometry": {"coordinates":[-104.43091099999999,33.095453],"type":"Point"}
 }

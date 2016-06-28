@@ -2,13 +2,14 @@
   "id": 353984015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.128543,32.700793,-103.128543,32.700793",
     "geom:latitude":32.700793,
     "geom:longitude":-103.128543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 E Broadway St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353984015,
-    "wof:lastmodified":1449019701,
+    "wof:lastmodified":1466699137,
     "wof:name":"Steven Auto & R. V. Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-103.128543,32.700793,-103.128543,32.700793],
-  "geometry": {"coordinates":[-103.128543,32.700793],"type":"Point"}
+  "bbox": [
+    -103.128543,
+    32.700793,
+    -103.128543,
+    32.700793
+],
+  "geometry": {"coordinates":[-103.12854299999999,32.700793],"type":"Point"}
 }

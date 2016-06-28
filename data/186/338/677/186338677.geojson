@@ -2,13 +2,14 @@
   "id": 186338677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.144757,32.69959,-103.144757,32.69959",
     "geom:latitude":32.69959,
     "geom:longitude":-103.144757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S Grimes St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186338677,
-    "wof:lastmodified":1449051319,
+    "wof:lastmodified":1466699746,
     "wof:name":"B & K Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-103.144757,32.69959,-103.144757,32.69959],
+  "bbox": [
+    -103.144757,
+    32.69959,
+    -103.144757,
+    32.69959
+],
   "geometry": {"coordinates":[-103.144757,32.69959],"type":"Point"}
 }

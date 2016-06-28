@@ -2,13 +2,14 @@
   "id": 186489741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638762,35.192097,-106.638762,35.192097",
     "geom:latitude":35.192097,
     "geom:longitude":-106.638762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9422 Rio Grande Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186489741,
-    "wof:lastmodified":1449051846,
+    "wof:lastmodified":1466700194,
     "wof:name":"Tom Holley MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.638762,35.192097,-106.638762,35.192097],
+  "bbox": [
+    -106.638762,
+    35.192097,
+    -106.638762,
+    35.192097
+],
   "geometry": {"coordinates":[-106.638762,35.192097],"type":"Point"}
 }

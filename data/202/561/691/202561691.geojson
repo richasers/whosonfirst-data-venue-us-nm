@@ -2,13 +2,14 @@
   "id": 202561691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.576521,35.152099,-106.576521,35.152099",
     "geom:latitude":35.152099,
     "geom:longitude":-106.576521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6416 Rosalinda Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202561691,
-    "wof:lastmodified":1449061895,
+    "wof:lastmodified":1466697819,
     "wof:name":"New Mexico Millwright Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.576521,35.152099,-106.576521,35.152099],
+  "bbox": [
+    -106.576521,
+    35.152099,
+    -106.576521,
+    35.152099
+],
   "geometry": {"coordinates":[-106.576521,35.152099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186036123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.01594,36.830075,-108.01594,36.830075",
     "geom:latitude":36.830075,
     "geom:longitude":-108.01594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Crandall Dr",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186036123,
-    "wof:lastmodified":1449050995,
+    "wof:lastmodified":1466698093,
     "wof:name":"B J Resources Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "right"
     ]
 },
-  "bbox": [-108.01594,36.830075,-108.01594,36.830075],
+  "bbox": [
+    -108.01594,
+    36.830075,
+    -108.01594,
+    36.830075
+],
   "geometry": {"coordinates":[-108.01594,36.830075],"type":"Point"}
 }

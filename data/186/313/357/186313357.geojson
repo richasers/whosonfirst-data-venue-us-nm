@@ -2,13 +2,14 @@
   "id": 186313357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.587448,35.094304,-106.587448,35.094304",
     "geom:latitude":35.094304,
     "geom:longitude":-106.587448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Truman St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186313357,
-    "wof:lastmodified":1449050346,
+    "wof:lastmodified":1466699514,
     "wof:name":"Kiva Construction",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.587448,35.094304,-106.587448,35.094304],
-  "geometry": {"coordinates":[-106.587448,35.094304],"type":"Point"}
+  "bbox": [
+    -106.587448,
+    35.094304,
+    -106.587448,
+    35.094304
+],
+  "geometry": {"coordinates":[-106.58744799999999,35.094304],"type":"Point"}
 }

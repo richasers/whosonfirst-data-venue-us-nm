@@ -2,13 +2,14 @@
   "id": 203109945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.61464,35.077465,-106.61464,35.077465",
     "geom:latitude":35.077465,
     "geom:longitude":-106.61464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Vassar Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203109945,
-    "wof:lastmodified":1449025578,
+    "wof:lastmodified":1466698844,
     "wof:name":"Jim's Fix It",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-106.61464,35.077465,-106.61464,35.077465],
-  "geometry": {"coordinates":[-106.61464,35.077465],"type":"Point"}
+  "bbox": [
+    -106.61464,
+    35.077465,
+    -106.61464,
+    35.077465
+],
+  "geometry": {"coordinates":[-106.61463999999999,35.077465],"type":"Point"}
 }

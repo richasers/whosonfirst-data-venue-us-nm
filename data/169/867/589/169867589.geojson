@@ -2,13 +2,14 @@
   "id": 169867589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.744383,34.812572,-106.744383,34.812572",
     "geom:latitude":34.812572,
     "geom:longitude":-106.744383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Main St SW",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169867589,
-    "wof:lastmodified":1449034095,
+    "wof:lastmodified":1466698996,
     "wof:name":"LA Entrada De Amistad",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "philanthropic"
     ]
 },
-  "bbox": [-106.744383,34.812572,-106.744383,34.812572],
+  "bbox": [
+    -106.744383,
+    34.812572,
+    -106.744383,
+    34.812572
+],
   "geometry": {"coordinates":[-106.744383,34.812572],"type":"Point"}
 }

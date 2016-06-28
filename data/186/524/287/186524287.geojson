@@ -2,13 +2,14 @@
   "id": 186524287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.972249,35.634241,-105.972249,35.634241",
     "geom:latitude":35.634241,
     "geom:longitude":-105.972249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2663 Via Berrenda",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186524287,
-    "wof:lastmodified":1449050226,
+    "wof:lastmodified":1466700441,
     "wof:name":"Avon To Buy Or Sell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "perfume"
     ]
 },
-  "bbox": [-105.972249,35.634241,-105.972249,35.634241],
-  "geometry": {"coordinates":[-105.972249,35.634241],"type":"Point"}
+  "bbox": [
+    -105.972249,
+    35.634241,
+    -105.972249,
+    35.634241
+],
+  "geometry": {"coordinates":[-105.97224900000001,35.634241],"type":"Point"}
 }

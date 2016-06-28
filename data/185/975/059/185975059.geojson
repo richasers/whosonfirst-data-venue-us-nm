@@ -2,13 +2,14 @@
   "id": 185975059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.300459,35.882838,-106.300459,35.882838",
     "geom:latitude":35.882838,
     "geom:longitude":-106.300459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Central Park Sq",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185975059,
-    "wof:lastmodified":1449007998,
+    "wof:lastmodified":1466699573,
     "wof:name":"Cook'n In Style",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accessory"
     ]
 },
-  "bbox": [-106.300459,35.882838,-106.300459,35.882838],
+  "bbox": [
+    -106.300459,
+    35.882838,
+    -106.300459,
+    35.882838
+],
   "geometry": {"coordinates":[-106.300459,35.882838],"type":"Point"}
 }

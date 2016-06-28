@@ -2,13 +2,14 @@
   "id": 203107009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.974988,35.638854,-105.974988,35.638854",
     "geom:latitude":35.638854,
     "geom:longitude":-105.974988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2608 Vis de Jemez",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203107009,
-    "wof:lastmodified":1449024947,
+    "wof:lastmodified":1466699437,
     "wof:name":"A J Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.974988,35.638854,-105.974988,35.638854],
+  "bbox": [
+    -105.974988,
+    35.638854,
+    -105.974988,
+    35.638854
+],
   "geometry": {"coordinates":[-105.974988,35.638854],"type":"Point"}
 }

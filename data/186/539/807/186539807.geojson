@@ -2,13 +2,14 @@
   "id": 186539807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.063158,35.9861,-106.063158,35.9861",
     "geom:latitude":35.9861,
     "geom:longitude":-106.063158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Middle San Pedro Rd",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186539807,
-    "wof:lastmodified":1449053074,
+    "wof:lastmodified":1466700359,
     "wof:name":"Whatever",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-106.063158,35.9861,-106.063158,35.9861],
+  "bbox": [
+    -106.063158,
+    35.9861,
+    -106.063158,
+    35.9861
+],
   "geometry": {"coordinates":[-106.063158,35.9861],"type":"Point"}
 }

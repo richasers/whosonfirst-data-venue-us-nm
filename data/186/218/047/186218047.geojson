@@ -2,13 +2,14 @@
   "id": 186218047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.7536,32.254979,-107.7536,32.254979",
     "geom:latitude":32.254979,
     "geom:longitude":-107.7536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 S Diamond Ave",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186218047,
-    "wof:lastmodified":1449052074,
+    "wof:lastmodified":1466698248,
     "wof:name":"Gunter Miller Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.7536,32.254979,-107.7536,32.254979],
-  "geometry": {"coordinates":[-107.7536,32.254979],"type":"Point"}
+  "bbox": [
+    -107.7536,
+    32.254979,
+    -107.7536,
+    32.254979
+],
+  "geometry": {"coordinates":[-107.75360000000001,32.254979],"type":"Point"}
 }

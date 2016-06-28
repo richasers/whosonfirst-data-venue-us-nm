@@ -2,13 +2,14 @@
   "id": 186581711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.696291,35.205142,-106.696291,35.205142",
     "geom:latitude":35.205142,
     "geom:longitude":-106.696291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10408 Napoli Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186581711,
-    "wof:lastmodified":1449050972,
+    "wof:lastmodified":1466700565,
     "wof:name":"Mdm Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-106.696291,35.205142,-106.696291,35.205142],
+  "bbox": [
+    -106.696291,
+    35.205142,
+    -106.696291,
+    35.205142
+],
   "geometry": {"coordinates":[-106.696291,35.205142],"type":"Point"}
 }

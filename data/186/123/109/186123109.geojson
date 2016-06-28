@@ -2,13 +2,14 @@
   "id": 186123109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.949532,35.641689,-105.949532,35.641689",
     "geom:latitude":35.641689,
     "geom:longitude":-105.949532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 Sawmill Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186123109,
-    "wof:lastmodified":1449051180,
+    "wof:lastmodified":1466699128,
     "wof:name":"Qwest",
     "wof:parent_id":85880775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "special"
     ]
 },
-  "bbox": [-105.949532,35.641689,-105.949532,35.641689],
+  "bbox": [
+    -105.949532,
+    35.641689,
+    -105.949532,
+    35.641689
+],
   "geometry": {"coordinates":[-105.949532,35.641689],"type":"Point"}
 }

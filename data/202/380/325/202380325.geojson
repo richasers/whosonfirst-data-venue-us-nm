@@ -2,13 +2,14 @@
   "id": 202380325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.774429,34.660372,-106.774429,34.660372",
     "geom:latitude":34.660372,
     "geom:longitude":-106.774429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Becker Ave",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202380325,
-    "wof:lastmodified":1449061299,
+    "wof:lastmodified":1466697677,
     "wof:name":"Belen Town Water Works",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewage"
     ]
 },
-  "bbox": [-106.774429,34.660372,-106.774429,34.660372],
+  "bbox": [
+    -106.774429,
+    34.660372,
+    -106.774429,
+    34.660372
+],
   "geometry": {"coordinates":[-106.774429,34.660372],"type":"Point"}
 }

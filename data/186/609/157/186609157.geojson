@@ -2,13 +2,14 @@
   "id": 186609157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.974899,35.659911,-105.974899,35.659911",
     "geom:latitude":35.659911,
     "geom:longitude":-105.974899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 Saint Michaels Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186609157,
-    "wof:lastmodified":1449051382,
+    "wof:lastmodified":1466700664,
     "wof:name":"Hava Java",
     "wof:parent_id":85880809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-105.974899,35.659911,-105.974899,35.659911],
-  "geometry": {"coordinates":[-105.974899,35.659911],"type":"Point"}
+  "bbox": [
+    -105.974899,
+    35.659911,
+    -105.974899,
+    35.659911
+],
+  "geometry": {"coordinates":[-105.97489899999999,35.659911],"type":"Point"}
 }

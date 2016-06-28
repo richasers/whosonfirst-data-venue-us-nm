@@ -2,13 +2,14 @@
   "id": 186136413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.595341,35.20907,-106.595341,35.20907",
     "geom:latitude":35.20907,
     "geom:longitude":-106.595341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10723 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186136413,
-    "wof:lastmodified":1449052992,
+    "wof:lastmodified":1466699185,
     "wof:name":"Desert Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.595341,35.20907,-106.595341,35.20907],
+  "bbox": [
+    -106.595341,
+    35.20907,
+    -106.595341,
+    35.20907
+],
   "geometry": {"coordinates":[-106.595341,35.20907],"type":"Point"}
 }

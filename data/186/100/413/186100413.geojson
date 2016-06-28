@@ -2,13 +2,14 @@
   "id": 186100413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.49917,35.104093,-106.49917,35.104093",
     "geom:latitude":35.104093,
     "geom:longitude":-106.49917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1912 Shirlane Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186100413,
-    "wof:lastmodified":1449052335,
+    "wof:lastmodified":1466698927,
     "wof:name":"Gillock Transcription",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "library"
     ]
 },
-  "bbox": [-106.49917,35.104093,-106.49917,35.104093],
-  "geometry": {"coordinates":[-106.49917,35.104093],"type":"Point"}
+  "bbox": [
+    -106.49917,
+    35.104093,
+    -106.49917,
+    35.104093
+],
+  "geometry": {"coordinates":[-106.49917000000001,35.104093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185800535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.574972,35.116403,-106.574972,35.116403",
     "geom:latitude":35.116403,
     "geom:longitude":-106.574972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 Candelaria Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185800535,
-    "wof:lastmodified":1449006732,
+    "wof:lastmodified":1466699343,
     "wof:name":"Brocard & Assoc Pa",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-106.574972,35.116403,-106.574972,35.116403],
+  "bbox": [
+    -106.574972,
+    35.116403,
+    -106.574972,
+    35.116403
+],
   "geometry": {"coordinates":[-106.574972,35.116403],"type":"Point"}
 }

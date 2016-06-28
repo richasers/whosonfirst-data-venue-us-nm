@@ -2,13 +2,14 @@
   "id": 202785547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.994381,35.661276,-105.994381,35.661276",
     "geom:latitude":35.661276,
     "geom:longitude":-105.994381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2889 Industrial Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202785547,
-    "wof:lastmodified":1449062226,
+    "wof:lastmodified":1466699932,
     "wof:name":"Bosque Natural",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.994381,35.661276,-105.994381,35.661276],
+  "bbox": [
+    -105.994381,
+    35.661276,
+    -105.994381,
+    35.661276
+],
   "geometry": {"coordinates":[-105.994381,35.661276],"type":"Point"}
 }

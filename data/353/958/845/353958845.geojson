@@ -2,13 +2,14 @@
   "id": 353958845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.651336,35.206385,-106.651336,35.206385",
     "geom:latitude":35.206385,
     "geom:longitude":-106.651336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 State Highway 528 NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353958845,
-    "wof:lastmodified":1449020261,
+    "wof:lastmodified":1466698757,
     "wof:name":"California Pastrami & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-106.651336,35.206385,-106.651336,35.206385],
+  "bbox": [
+    -106.651336,
+    35.206385,
+    -106.651336,
+    35.206385
+],
   "geometry": {"coordinates":[-106.651336,35.206385],"type":"Point"}
 }

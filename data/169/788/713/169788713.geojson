@@ -2,13 +2,14 @@
   "id": 169788713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.031412,35.657438,-106.031412,35.657438",
     "geom:latitude":35.657438,
     "geom:longitude":-106.031412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Hernandez Ln",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169788713,
-    "wof:lastmodified":1449034385,
+    "wof:lastmodified":1466698437,
     "wof:name":"Vision De Los Milagros Lndscpe",
     "wof:parent_id":85880815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.031412,35.657438,-106.031412,35.657438],
+  "bbox": [
+    -106.031412,
+    35.657438,
+    -106.031412,
+    35.657438
+],
   "geometry": {"coordinates":[-106.031412,35.657438],"type":"Point"}
 }

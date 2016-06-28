@@ -2,13 +2,14 @@
   "id": 353927471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.621964,35.058223,-106.621964,35.058223",
     "geom:latitude":35.058223,
     "geom:longitude":-106.621964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2116 Yale Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353927471,
-    "wof:lastmodified":1449020537,
+    "wof:lastmodified":1466697932,
     "wof:name":"La Quinta Inn Albuquerque - Airport",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "lodging"
     ]
 },
-  "bbox": [-106.621964,35.058223,-106.621964,35.058223],
-  "geometry": {"coordinates":[-106.621964,35.058223],"type":"Point"}
+  "bbox": [
+    -106.621964,
+    35.058223,
+    -106.621964,
+    35.058223
+],
+  "geometry": {"coordinates":[-106.62196400000001,35.058223],"type":"Point"}
 }

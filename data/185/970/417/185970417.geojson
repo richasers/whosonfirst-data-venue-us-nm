@@ -2,13 +2,14 @@
   "id": 185970417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.254067,32.787393,-108.254067,32.787393",
     "geom:latitude":32.787393,
     "geom:longitude":-108.254067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2535 US Hwy 180 E",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185970417,
-    "wof:lastmodified":1449008162,
+    "wof:lastmodified":1466699566,
     "wof:name":"Mirastar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-108.254067,32.787393,-108.254067,32.787393],
-  "geometry": {"coordinates":[-108.254067,32.787393],"type":"Point"}
+  "bbox": [
+    -108.254067,
+    32.787393,
+    -108.254067,
+    32.787393
+],
+  "geometry": {"coordinates":[-108.25406700000001,32.787393],"type":"Point"}
 }

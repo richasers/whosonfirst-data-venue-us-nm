@@ -2,13 +2,14 @@
   "id": 185949939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.560226,35.322964,-106.560226,35.322964",
     "geom:latitude":35.322964,
     "geom:longitude":-106.560226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"834 W Hwy 44",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185949939,
-    "wof:lastmodified":1449007604,
+    "wof:lastmodified":1466699216,
     "wof:name":"Jackalope",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.560226,35.322964,-106.560226,35.322964],
+  "bbox": [
+    -106.560226,
+    35.322964,
+    -106.560226,
+    35.322964
+],
   "geometry": {"coordinates":[-106.560226,35.322964],"type":"Point"}
 }

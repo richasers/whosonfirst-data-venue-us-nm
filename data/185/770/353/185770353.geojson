@@ -2,13 +2,14 @@
   "id": 185770353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.734556,35.529443,-108.734556,35.529443",
     "geom:latitude":35.529443,
     "geom:longitude":-108.734556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Coal Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185770353,
-    "wof:lastmodified":1449008247,
+    "wof:lastmodified":1466699223,
     "wof:name":"Gallup Glass & Mirror",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "repair"
     ]
 },
-  "bbox": [-108.734556,35.529443,-108.734556,35.529443],
+  "bbox": [
+    -108.734556,
+    35.529443,
+    -108.734556,
+    35.529443
+],
   "geometry": {"coordinates":[-108.734556,35.529443],"type":"Point"}
 }

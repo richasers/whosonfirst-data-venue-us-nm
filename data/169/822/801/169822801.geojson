@@ -2,13 +2,14 @@
   "id": 169822801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.80537,32.292279,-106.80537,32.292279",
     "geom:latitude":32.292279,
     "geom:longitude":-106.80537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2494 Lakeside Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169822801,
-    "wof:lastmodified":1449035864,
+    "wof:lastmodified":1466698765,
     "wof:name":"Sun & Fun Specialties",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sunglasses"
     ]
 },
-  "bbox": [-106.80537,32.292279,-106.80537,32.292279],
+  "bbox": [
+    -106.80537,
+    32.292279,
+    -106.80537,
+    32.292279
+],
   "geometry": {"coordinates":[-106.80537,32.292279],"type":"Point"}
 }

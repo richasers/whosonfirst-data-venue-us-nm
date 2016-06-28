@@ -2,13 +2,14 @@
   "id": 186172111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.103673,35.305741,-108.103673,35.305741",
     "geom:latitude":35.305741,
     "geom:longitude":-108.103673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Jeffery Dr",
     "sg:city":"Sandia Park",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186172111,
-    "wof:lastmodified":1449051454,
+    "wof:lastmodified":1466697664,
     "wof:name":"Southwest Conceptions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-108.103673,35.305741,-108.103673,35.305741],
+  "bbox": [
+    -108.103673,
+    35.305741,
+    -108.103673,
+    35.305741
+],
   "geometry": {"coordinates":[-108.103673,35.305741],"type":"Point"}
 }

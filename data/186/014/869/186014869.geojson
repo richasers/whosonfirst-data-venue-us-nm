@@ -2,13 +2,14 @@
   "id": 186014869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.593336,35.162694,-106.593336,35.162694",
     "geom:latitude":35.162694,
     "geom:longitude":-106.593336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7301 Jefferson St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186014869,
-    "wof:lastmodified":1449051697,
+    "wof:lastmodified":1466697859,
     "wof:name":"Enterprise Products",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-106.593336,35.162694,-106.593336,35.162694],
-  "geometry": {"coordinates":[-106.593336,35.162694],"type":"Point"}
+  "bbox": [
+    -106.593336,
+    35.162694,
+    -106.593336,
+    35.162694
+],
+  "geometry": {"coordinates":[-106.59333599999999,35.162694],"type":"Point"}
 }

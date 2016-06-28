@@ -2,13 +2,14 @@
   "id": 186133035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.031339,36.702919,-108.031339,36.702919",
     "geom:latitude":36.702919,
     "geom:longitude":-108.031339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6121 Hwy 64",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186133035,
-    "wof:lastmodified":1449052548,
+    "wof:lastmodified":1466699176,
     "wof:name":"Energy Air Drilling Svc Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-108.031339,36.702919,-108.031339,36.702919],
+  "bbox": [
+    -108.031339,
+    36.702919,
+    -108.031339,
+    36.702919
+],
   "geometry": {"coordinates":[-108.031339,36.702919],"type":"Point"}
 }

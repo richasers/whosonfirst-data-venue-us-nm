@@ -2,13 +2,14 @@
   "id": 185821795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.967213,35.682491,-105.967213,35.682491",
     "geom:latitude":35.682491,
     "geom:longitude":-105.967213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Cam del Olmo",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185821795,
-    "wof:lastmodified":1449007488,
+    "wof:lastmodified":1466697703,
     "wof:name":"Skills For Living Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.967213,35.682491,-105.967213,35.682491],
+  "bbox": [
+    -105.967213,
+    35.682491,
+    -105.967213,
+    35.682491
+],
   "geometry": {"coordinates":[-105.967213,35.682491],"type":"Point"}
 }

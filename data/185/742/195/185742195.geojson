@@ -2,13 +2,14 @@
   "id": 185742195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.507263,35.069413,-106.507263,35.069413",
     "geom:latitude":35.069413,
     "geom:longitude":-106.507263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12925 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185742195,
-    "wof:lastmodified":1449006709,
+    "wof:lastmodified":1466699082,
     "wof:name":"Superstar",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewelry"
     ]
 },
-  "bbox": [-106.507263,35.069413,-106.507263,35.069413],
-  "geometry": {"coordinates":[-106.507263,35.069413],"type":"Point"}
+  "bbox": [
+    -106.507263,
+    35.069413,
+    -106.507263,
+    35.069413
+],
+  "geometry": {"coordinates":[-106.50726299999999,35.069413],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202759123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.420333,32.82653,-104.420333,32.82653",
     "geom:latitude":32.82653,
     "geom:longitude":-104.420333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 W Booker Ave",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202759123,
-    "wof:lastmodified":1449062693,
+    "wof:lastmodified":1466699829,
     "wof:name":"C & S Pumping Service",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gas"
     ]
 },
-  "bbox": [-104.420333,32.82653,-104.420333,32.82653],
+  "bbox": [
+    -104.420333,
+    32.82653,
+    -104.420333,
+    32.82653
+],
   "geometry": {"coordinates":[-104.420333,32.82653],"type":"Point"}
 }

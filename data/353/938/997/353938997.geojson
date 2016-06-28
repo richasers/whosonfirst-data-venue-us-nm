@@ -2,13 +2,14 @@
   "id": 353938997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.580662,35.144521,-106.580662,35.144521",
     "geom:latitude":35.144521,
     "geom:longitude":-106.580662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6027 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353938997,
-    "wof:lastmodified":1449020150,
+    "wof:lastmodified":1466698248,
     "wof:name":"Travelhost Travel Agency",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-106.580662,35.144521,-106.580662,35.144521],
+  "bbox": [
+    -106.580662,
+    35.144521,
+    -106.580662,
+    35.144521
+],
   "geometry": {"coordinates":[-106.580662,35.144521],"type":"Point"}
 }

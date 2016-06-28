@@ -2,13 +2,14 @@
   "id": 186192777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.581304,35.144678,-106.581304,35.144678",
     "geom:latitude":35.144678,
     "geom:longitude":-106.581304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5924 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186192777,
-    "wof:lastmodified":1449052252,
+    "wof:lastmodified":1466697933,
     "wof:name":"Massage MAJIC",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-106.581304,35.144678,-106.581304,35.144678],
+  "bbox": [
+    -106.581304,
+    35.144678,
+    -106.581304,
+    35.144678
+],
   "geometry": {"coordinates":[-106.581304,35.144678],"type":"Point"}
 }

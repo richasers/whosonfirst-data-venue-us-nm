@@ -2,13 +2,14 @@
   "id": 169806553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.730286,35.508394,-108.730286,35.508394",
     "geom:latitude":35.508394,
     "geom:longitude":-108.730286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Nizhoni Blvd",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169806553,
-    "wof:lastmodified":1449032673,
+    "wof:lastmodified":1466698665,
     "wof:name":"Adelfio P Fronterotta MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "medical"
     ]
 },
-  "bbox": [-108.730286,35.508394,-108.730286,35.508394],
-  "geometry": {"coordinates":[-108.730286,35.508394],"type":"Point"}
+  "bbox": [
+    -108.730286,
+    35.508394,
+    -108.730286,
+    35.508394
+],
+  "geometry": {"coordinates":[-108.73028600000001,35.508394],"type":"Point"}
 }

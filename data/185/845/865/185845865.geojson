@@ -2,13 +2,14 @@
   "id": 185845865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.777352,32.325958,-106.777352,32.325958",
     "geom:latitude":32.325958,
     "geom:longitude":-106.777352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 N Solano Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185845865,
-    "wof:lastmodified":1449006874,
+    "wof:lastmodified":1466697965,
     "wof:name":"Petmart",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.777352,32.325958,-106.777352,32.325958],
-  "geometry": {"coordinates":[-106.777352,32.325958],"type":"Point"}
+  "bbox": [
+    -106.777352,
+    32.325958,
+    -106.777352,
+    32.325958
+],
+  "geometry": {"coordinates":[-106.77735199999999,32.325958],"type":"Point"}
 }

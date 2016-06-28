@@ -2,13 +2,14 @@
   "id": 185804547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.001504,35.896223,-106.001504,35.896223",
     "geom:latitude":35.896223,
     "geom:longitude":-106.001504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 State Rd 503",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185804547,
-    "wof:lastmodified":1449007709,
+    "wof:lastmodified":1466699355,
     "wof:name":"Santa Fe County Head Start",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-106.001504,35.896223,-106.001504,35.896223],
+  "bbox": [
+    -106.001504,
+    35.896223,
+    -106.001504,
+    35.896223
+],
   "geometry": {"coordinates":[-106.001504,35.896223],"type":"Point"}
 }

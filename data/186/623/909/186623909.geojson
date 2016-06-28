@@ -2,13 +2,14 @@
   "id": 186623909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.337192,34.185171,-103.337192,34.185171",
     "geom:latitude":34.185171,
     "geom:longitude":-103.337192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 S Ave A",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186623909,
-    "wof:lastmodified":1449052242,
+    "wof:lastmodified":1466700613,
     "wof:name":"Sheila's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.337192,34.185171,-103.337192,34.185171],
+  "bbox": [
+    -103.337192,
+    34.185171,
+    -103.337192,
+    34.185171
+],
   "geometry": {"coordinates":[-103.337192,34.185171],"type":"Point"}
 }

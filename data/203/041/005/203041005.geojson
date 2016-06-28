@@ -2,13 +2,14 @@
   "id": 203041005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.619057,35.109114,-106.619057,35.109114",
     "geom:latitude":35.109114,
     "geom:longitude":-106.619057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2424 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":203041005,
-    "wof:lastmodified":1449025598,
+    "wof:lastmodified":1466699405,
     "wof:name":"Dee's Dented Can",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-106.619057,35.109114,-106.619057,35.109114],
+  "bbox": [
+    -106.619057,
+    35.109114,
+    -106.619057,
+    35.109114
+],
   "geometry": {"coordinates":[-106.619057,35.109114],"type":"Point"}
 }

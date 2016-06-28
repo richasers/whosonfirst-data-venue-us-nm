@@ -2,13 +2,14 @@
   "id": 186535051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604249,35.114041,-106.604249,35.114041",
     "geom:latitude":35.114041,
     "geom:longitude":-106.604249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2839 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186535051,
-    "wof:lastmodified":1449050903,
+    "wof:lastmodified":1466700264,
     "wof:name":"Medical Year",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "hearing"
     ]
 },
-  "bbox": [-106.604249,35.114041,-106.604249,35.114041],
+  "bbox": [
+    -106.604249,
+    35.114041,
+    -106.604249,
+    35.114041
+],
   "geometry": {"coordinates":[-106.604249,35.114041],"type":"Point"}
 }

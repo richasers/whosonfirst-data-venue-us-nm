@@ -2,13 +2,14 @@
   "id": 186051629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.893934,34.055056,-106.893934,34.055056",
     "geom:latitude":34.055056,
     "geom:longitude":-106.893934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Park St",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186051629,
-    "wof:lastmodified":1449052024,
+    "wof:lastmodified":1466698266,
     "wof:name":"Socorro Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.893934,34.055056,-106.893934,34.055056],
+  "bbox": [
+    -106.893934,
+    34.055056,
+    -106.893934,
+    34.055056
+],
   "geometry": {"coordinates":[-106.893934,34.055056],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202552937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.780454,32.31587,-106.780454,32.31587",
     "geom:latitude":32.31587,
     "geom:longitude":-106.780454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 N Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202552937,
-    "wof:lastmodified":1449061172,
+    "wof:lastmodified":1466697683,
     "wof:name":"Shook Tire Centers",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-106.780454,32.31587,-106.780454,32.31587],
-  "geometry": {"coordinates":[-106.780454,32.31587],"type":"Point"}
+  "bbox": [
+    -106.780454,
+    32.31587,
+    -106.780454,
+    32.31587
+],
+  "geometry": {"coordinates":[-106.78045400000001,32.31587],"type":"Point"}
 }

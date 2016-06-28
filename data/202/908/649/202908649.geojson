@@ -2,13 +2,14 @@
   "id": 202908649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.178772,34.407044,-103.178772,34.407044",
     "geom:latitude":34.407044,
     "geom:longitude":-103.178772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 N Norris St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202908649,
-    "wof:lastmodified":1449061542,
+    "wof:lastmodified":1466700517,
     "wof:name":"Leal's Mexican Food Corporate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.178772,34.407044,-103.178772,34.407044],
+  "bbox": [
+    -103.178772,
+    34.407044,
+    -103.178772,
+    34.407044
+],
   "geometry": {"coordinates":[-103.178772,34.407044],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186530989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.715609,35.168727,-103.715609,35.168727",
     "geom:latitude":35.168727,
     "geom:longitude":-103.715609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 E Barnes Ave",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186530989,
-    "wof:lastmodified":1449051804,
+    "wof:lastmodified":1466700242,
     "wof:name":"Backhoe Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.715609,35.168727,-103.715609,35.168727],
+  "bbox": [
+    -103.715609,
+    35.168727,
+    -103.715609,
+    35.168727
+],
   "geometry": {"coordinates":[-103.715609,35.168727],"type":"Point"}
 }

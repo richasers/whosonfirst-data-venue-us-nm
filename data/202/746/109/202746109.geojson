@@ -2,13 +2,14 @@
   "id": 202746109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.568025,35.134825,-106.568025,35.134825",
     "geom:latitude":35.134825,
     "geom:longitude":-106.568025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7000 Carriage Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202746109,
-    "wof:lastmodified":1449060089,
+    "wof:lastmodified":1466699757,
     "wof:name":"Carriage Place LLC",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-106.568025,35.134825,-106.568025,35.134825],
-  "geometry": {"coordinates":[-106.568025,35.134825],"type":"Point"}
+  "bbox": [
+    -106.568025,
+    35.134825,
+    -106.568025,
+    35.134825
+],
+  "geometry": {"coordinates":[-106.56802500000001,35.134825],"type":"Point"}
 }

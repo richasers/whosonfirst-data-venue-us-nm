@@ -2,13 +2,14 @@
   "id": 186463763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.561433,35.169621,-106.561433,35.169621",
     "geom:latitude":35.169621,
     "geom:longitude":-106.561433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7304 Laster Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186463763,
-    "wof:lastmodified":1449052233,
+    "wof:lastmodified":1466699989,
     "wof:name":"K B Sandblasting",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.561433,35.169621,-106.561433,35.169621],
-  "geometry": {"coordinates":[-106.561433,35.169621],"type":"Point"}
+  "bbox": [
+    -106.561433,
+    35.169621,
+    -106.561433,
+    35.169621
+],
+  "geometry": {"coordinates":[-106.56143299999999,35.169621],"type":"Point"}
 }

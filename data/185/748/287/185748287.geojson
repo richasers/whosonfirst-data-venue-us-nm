@@ -2,13 +2,14 @@
   "id": 185748287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.399851,32.758222,-104.399851,32.758222",
     "geom:latitude":32.758222,
     "geom:longitude":-104.399851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Night Owl Ln",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185748287,
-    "wof:lastmodified":1449007811,
+    "wof:lastmodified":1466699128,
     "wof:name":"Bejarano Paint & Body",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-104.399851,32.758222,-104.399851,32.758222],
+  "bbox": [
+    -104.399851,
+    32.758222,
+    -104.399851,
+    32.758222
+],
   "geometry": {"coordinates":[-104.399851,32.758222],"type":"Point"}
 }

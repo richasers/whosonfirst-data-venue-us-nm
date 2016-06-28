@@ -2,13 +2,14 @@
   "id": 202610067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.60199,35.204546,-106.60199,35.204546",
     "geom:latitude":35.204546,
     "geom:longitude":-106.60199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Cynthia Loop NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202610067,
-    "wof:lastmodified":1449062591,
+    "wof:lastmodified":1466698514,
     "wof:name":"SF Customers Relations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "relations"
     ]
 },
-  "bbox": [-106.60199,35.204546,-106.60199,35.204546],
+  "bbox": [
+    -106.60199,
+    35.204546,
+    -106.60199,
+    35.204546
+],
   "geometry": {"coordinates":[-106.60199,35.204546],"type":"Point"}
 }

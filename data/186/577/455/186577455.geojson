@@ -2,13 +2,14 @@
   "id": 186577455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.619222,35.163075,-106.619222,35.163075",
     "geom:latitude":35.163075,
     "geom:longitude":-106.619222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7432 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186577455,
-    "wof:lastmodified":1449053102,
+    "wof:lastmodified":1466700668,
     "wof:name":"C A Bowerman",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.619222,35.163075,-106.619222,35.163075],
-  "geometry": {"coordinates":[-106.619222,35.163075],"type":"Point"}
+  "bbox": [
+    -106.619222,
+    35.163075,
+    -106.619222,
+    35.163075
+],
+  "geometry": {"coordinates":[-106.61922199999999,35.163075],"type":"Point"}
 }

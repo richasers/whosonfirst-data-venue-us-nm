@@ -2,13 +2,14 @@
   "id": 186068675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.327016,35.897755,-106.327016,35.897755",
     "geom:latitude":35.897755,
     "geom:longitude":-106.327016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2245 47th St",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186068675,
-    "wof:lastmodified":1449051751,
+    "wof:lastmodified":1466698510,
     "wof:name":"J P Accelerator Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-106.327016,35.897755,-106.327016,35.897755],
+  "bbox": [
+    -106.327016,
+    35.897755,
+    -106.327016,
+    35.897755
+],
   "geometry": {"coordinates":[-106.327016,35.897755],"type":"Point"}
 }

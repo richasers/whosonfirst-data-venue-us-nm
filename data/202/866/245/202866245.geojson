@@ -2,13 +2,14 @@
   "id": 202866245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.416228,32.831716,-104.416228,32.831716",
     "geom:latitude":32.831716,
     "geom:longitude":-104.416228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 W Centre Ave",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202866245,
-    "wof:lastmodified":1449061331,
+    "wof:lastmodified":1466700250,
     "wof:name":"Artesia Properties",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-104.416228,32.831716,-104.416228,32.831716],
+  "bbox": [
+    -104.416228,
+    32.831716,
+    -104.416228,
+    32.831716
+],
   "geometry": {"coordinates":[-104.416228,32.831716],"type":"Point"}
 }

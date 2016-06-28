@@ -2,13 +2,14 @@
   "id": 202582055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.780122,32.299482,-106.780122,32.299482",
     "geom:latitude":32.299482,
     "geom:longitude":-106.780122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"949 S Melendres St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202582055,
-    "wof:lastmodified":1449061479,
+    "wof:lastmodified":1466698120,
     "wof:name":"Soledad Canyon Earth Builders",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.780122,32.299482,-106.780122,32.299482],
-  "geometry": {"coordinates":[-106.780122,32.299482],"type":"Point"}
+  "bbox": [
+    -106.780122,
+    32.299482,
+    -106.780122,
+    32.299482
+],
+  "geometry": {"coordinates":[-106.78012200000001,32.299482],"type":"Point"}
 }

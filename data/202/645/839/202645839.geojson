@@ -2,13 +2,14 @@
   "id": 202645839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.969677,35.65913,-105.969677,35.65913",
     "geom:latitude":35.65913,
     "geom:longitude":-105.969677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Saint Michaels Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202645839,
-    "wof:lastmodified":1449060369,
+    "wof:lastmodified":1466699077,
     "wof:name":"Liquid Co Package Liquor Store",
     "wof:parent_id":85880809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.969677,35.65913,-105.969677,35.65913],
+  "bbox": [
+    -105.969677,
+    35.65913,
+    -105.969677,
+    35.65913
+],
   "geometry": {"coordinates":[-105.969677,35.65913],"type":"Point"}
 }

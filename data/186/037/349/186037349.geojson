@@ -2,13 +2,14 @@
   "id": 186037349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.608335,35.103061,-106.608335,35.103061",
     "geom:latitude":35.103061,
     "geom:longitude":-106.608335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 Notre Dame Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186037349,
-    "wof:lastmodified":1449053071,
+    "wof:lastmodified":1466698104,
     "wof:name":"Quivira Research Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "anthropological"
     ]
 },
-  "bbox": [-106.608335,35.103061,-106.608335,35.103061],
+  "bbox": [
+    -106.608335,
+    35.103061,
+    -106.608335,
+    35.103061
+],
   "geometry": {"coordinates":[-106.608335,35.103061],"type":"Point"}
 }

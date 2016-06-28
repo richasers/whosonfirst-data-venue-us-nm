@@ -2,13 +2,14 @@
   "id": 186229725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.686521,34.942257,-104.686521,34.942257",
     "geom:latitude":34.942257,
     "geom:longitude":-104.686521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Parker Ave",
     "sg:city":"Santa Rosa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186229725,
-    "wof:lastmodified":1449052470,
+    "wof:lastmodified":1466698391,
     "wof:name":"Guadalupe County Assessors Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [-104.686521,34.942257,-104.686521,34.942257],
+  "bbox": [
+    -104.686521,
+    34.942257,
+    -104.686521,
+    34.942257
+],
   "geometry": {"coordinates":[-104.686521,34.942257],"type":"Point"}
 }

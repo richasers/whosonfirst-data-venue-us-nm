@@ -2,13 +2,14 @@
   "id": 186597723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.762862,32.297656,-106.762862,32.297656",
     "geom:latitude":32.297656,
     "geom:longitude":-106.762862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1190 E Foster Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186597723,
-    "wof:lastmodified":1449053004,
+    "wof:lastmodified":1466700633,
     "wof:name":"Families & Youth Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-106.762862,32.297656,-106.762862,32.297656],
+  "bbox": [
+    -106.762862,
+    32.297656,
+    -106.762862,
+    32.297656
+],
   "geometry": {"coordinates":[-106.762862,32.297656],"type":"Point"}
 }

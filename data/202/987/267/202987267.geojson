@@ -2,13 +2,14 @@
   "id": 202987267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.503663,35.168281,-106.503663,35.168281",
     "geom:latitude":35.168281,
     "geom:longitude":-106.503663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12100 Pino Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202987267,
-    "wof:lastmodified":1449061524,
+    "wof:lastmodified":1466700743,
     "wof:name":"B & D Manufacturing Company",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "structural"
     ]
 },
-  "bbox": [-106.503663,35.168281,-106.503663,35.168281],
+  "bbox": [
+    -106.503663,
+    35.168281,
+    -106.503663,
+    35.168281
+],
   "geometry": {"coordinates":[-106.503663,35.168281],"type":"Point"}
 }

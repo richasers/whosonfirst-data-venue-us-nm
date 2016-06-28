@@ -2,13 +2,14 @@
   "id": 186372813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.243749,32.430631,-104.243749,32.430631",
     "geom:latitude":32.430631,
     "geom:longitude":-104.243749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Julian St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186372813,
-    "wof:lastmodified":1449051988,
+    "wof:lastmodified":1466699745,
     "wof:name":"Have Hands Will Travel",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.243749,32.430631,-104.243749,32.430631],
-  "geometry": {"coordinates":[-104.243749,32.430631],"type":"Point"}
+  "bbox": [
+    -104.243749,
+    32.430631,
+    -104.243749,
+    32.430631
+],
+  "geometry": {"coordinates":[-104.24374899999999,32.430631],"type":"Point"}
 }

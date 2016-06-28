@@ -2,13 +2,14 @@
   "id": 186378637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.791002,32.31877,-106.791002,32.31877",
     "geom:latitude":32.31877,
     "geom:longitude":-106.791002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 N Mesilla St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186378637,
-    "wof:lastmodified":1449052181,
+    "wof:lastmodified":1466699668,
     "wof:name":"B & B Boutique",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.791002,32.31877,-106.791002,32.31877],
-  "geometry": {"coordinates":[-106.791002,32.31877],"type":"Point"}
+  "bbox": [
+    -106.791002,
+    32.31877,
+    -106.791002,
+    32.31877
+],
+  "geometry": {"coordinates":[-106.79100200000001,32.31877],"type":"Point"}
 }

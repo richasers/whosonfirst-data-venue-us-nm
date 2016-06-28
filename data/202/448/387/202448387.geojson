@@ -2,13 +2,14 @@
   "id": 202448387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.57869,36.910407,-106.57869,36.910407",
     "geom:latitude":36.910407,
     "geom:longitude":-106.57869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Pine Ave",
     "sg:city":"Chama",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202448387,
-    "wof:lastmodified":1449062526,
+    "wof:lastmodified":1466698521,
     "wof:name":"Steve Cabito",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-106.57869,36.910407,-106.57869,36.910407],
-  "geometry": {"coordinates":[-106.57869,36.910407],"type":"Point"}
+  "bbox": [
+    -106.57869,
+    36.910407,
+    -106.57869,
+    36.910407
+],
+  "geometry": {"coordinates":[-106.57868999999999,36.910407],"type":"Point"}
 }

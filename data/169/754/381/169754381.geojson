@@ -2,13 +2,14 @@
   "id": 169754381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.536142,35.07229,-106.536142,35.07229",
     "geom:latitude":35.07229,
     "geom:longitude":-106.536142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10030 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169754381,
-    "wof:lastmodified":1449034846,
+    "wof:lastmodified":1466698110,
     "wof:name":"Checker Auto Parts 1463",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-106.536142,35.07229,-106.536142,35.07229],
+  "bbox": [
+    -106.536142,
+    35.07229,
+    -106.536142,
+    35.07229
+],
   "geometry": {"coordinates":[-106.536142,35.07229],"type":"Point"}
 }

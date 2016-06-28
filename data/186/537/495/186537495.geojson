@@ -2,13 +2,14 @@
   "id": 186537495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.578615,35.323054,-106.578615,35.323054",
     "geom:latitude":35.323054,
     "geom:longitude":-106.578615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7820 Enchanted Hills Dr NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186537495,
-    "wof:lastmodified":1449051048,
+    "wof:lastmodified":1466700500,
     "wof:name":"Avalanche Advisers",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-106.578615,35.323054,-106.578615,35.323054],
+  "bbox": [
+    -106.578615,
+    35.323054,
+    -106.578615,
+    35.323054
+],
   "geometry": {"coordinates":[-106.578615,35.323054],"type":"Point"}
 }

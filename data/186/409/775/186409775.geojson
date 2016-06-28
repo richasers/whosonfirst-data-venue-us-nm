@@ -2,13 +2,14 @@
   "id": 186409775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.713884,35.028684,-106.713884,35.028684",
     "geom:latitude":35.028684,
     "geom:longitude":-106.713884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3231 Coors Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186409775,
-    "wof:lastmodified":1449051479,
+    "wof:lastmodified":1466699773,
     "wof:name":"Aspinwall & Associates LLC",
     "wof:parent_id":85892591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.713884,35.028684,-106.713884,35.028684],
-  "geometry": {"coordinates":[-106.713884,35.028684],"type":"Point"}
+  "bbox": [
+    -106.713884,
+    35.028684,
+    -106.713884,
+    35.028684
+],
+  "geometry": {"coordinates":[-106.71388399999999,35.028684],"type":"Point"}
 }

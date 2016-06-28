@@ -2,13 +2,14 @@
   "id": 202694799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.51237,35.089158,-106.51237,35.089158",
     "geom:latitude":35.089158,
     "geom:longitude":-106.51237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12208 Casa Grande Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202694799,
-    "wof:lastmodified":1449060838,
+    "wof:lastmodified":1466699603,
     "wof:name":"Miller & Miller Enterprises",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-106.51237,35.089158,-106.51237,35.089158],
+  "bbox": [
+    -106.51237,
+    35.089158,
+    -106.51237,
+    35.089158
+],
   "geometry": {"coordinates":[-106.51237,35.089158],"type":"Point"}
 }

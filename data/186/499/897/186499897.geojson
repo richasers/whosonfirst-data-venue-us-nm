@@ -2,13 +2,14 @@
   "id": 186499897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.275627,32.778656,-108.275627,32.778656",
     "geom:latitude":32.778656,
     "geom:longitude":-108.275627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 N Pope St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186499897,
-    "wof:lastmodified":1449050917,
+    "wof:lastmodified":1466700308,
     "wof:name":"Mimbres Region Arts Council",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "information"
     ]
 },
-  "bbox": [-108.275627,32.778656,-108.275627,32.778656],
+  "bbox": [
+    -108.275627,
+    32.778656,
+    -108.275627,
+    32.778656
+],
   "geometry": {"coordinates":[-108.275627,32.778656],"type":"Point"}
 }

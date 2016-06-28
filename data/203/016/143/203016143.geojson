@@ -2,13 +2,14 @@
   "id": 203016143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.920721,32.900679,-105.920721,32.900679",
     "geom:latitude":32.900679,
     "geom:longitude":-105.920721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3222 Sunny Cir",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203016143,
-    "wof:lastmodified":1449025276,
+    "wof:lastmodified":1466697777,
     "wof:name":"Choice Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-105.920721,32.900679,-105.920721,32.900679],
+  "bbox": [
+    -105.920721,
+    32.900679,
+    -105.920721,
+    32.900679
+],
   "geometry": {"coordinates":[-105.920721,32.900679],"type":"Point"}
 }

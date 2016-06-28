@@ -2,13 +2,14 @@
   "id": 185626237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.443701,35.31415,-106.443701,35.31415",
     "geom:latitude":35.31415,
     "geom:longitude":-106.443701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Sunrise Dr",
     "sg:city":"Placitas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185626237,
-    "wof:lastmodified":1449008208,
+    "wof:lastmodified":1466697887,
     "wof:name":"Clifton Moulding Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.443701,35.31415,-106.443701,35.31415],
+  "bbox": [
+    -106.443701,
+    35.31415,
+    -106.443701,
+    35.31415
+],
   "geometry": {"coordinates":[-106.443701,35.31415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203002723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.006914,36.83038,-108.006914,36.83038",
     "geom:latitude":36.83038,
     "geom:longitude":-108.006914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"437 Parkland Dr",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203002723,
-    "wof:lastmodified":1449026495,
+    "wof:lastmodified":1466697615,
     "wof:name":"First Divide Investment Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.006914,36.83038,-108.006914,36.83038],
-  "geometry": {"coordinates":[-108.006914,36.83038],"type":"Point"}
+  "bbox": [
+    -108.006914,
+    36.83038,
+    -108.006914,
+    36.83038
+],
+  "geometry": {"coordinates":[-108.00691399999999,36.83038],"type":"Point"}
 }

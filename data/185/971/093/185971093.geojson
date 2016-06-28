@@ -2,13 +2,14 @@
   "id": 185971093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.636757,35.161366,-106.636757,35.161366",
     "geom:latitude":35.161366,
     "geom:longitude":-106.636757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7010 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185971093,
-    "wof:lastmodified":1449007443,
+    "wof:lastmodified":1466699562,
     "wof:name":"Chamisa Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-106.636757,35.161366,-106.636757,35.161366],
+  "bbox": [
+    -106.636757,
+    35.161366,
+    -106.636757,
+    35.161366
+],
   "geometry": {"coordinates":[-106.636757,35.161366],"type":"Point"}
 }

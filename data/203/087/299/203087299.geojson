@@ -2,13 +2,14 @@
   "id": 203087299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.947868,32.907391,-105.947868,32.907391",
     "geom:latitude":32.907391,
     "geom:longitude":-105.947868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Elkins Pl",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203087299,
-    "wof:lastmodified":1449025788,
+    "wof:lastmodified":1466698527,
     "wof:name":"JP Home Repair & Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-105.947868,32.907391,-105.947868,32.907391],
+  "bbox": [
+    -105.947868,
+    32.907391,
+    -105.947868,
+    32.907391
+],
   "geometry": {"coordinates":[-105.947868,32.907391],"type":"Point"}
 }

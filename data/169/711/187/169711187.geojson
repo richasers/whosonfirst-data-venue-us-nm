@@ -2,13 +2,14 @@
   "id": 169711187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.193924,34.415817,-103.193924,34.415817",
     "geom:latitude":34.415817,
     "geom:longitude":-103.193924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 York Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":169711187,
-    "wof:lastmodified":1449035353,
+    "wof:lastmodified":1466697679,
     "wof:name":"All Care Assisted Living LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "residential"
     ]
 },
-  "bbox": [-103.193924,34.415817,-103.193924,34.415817],
+  "bbox": [
+    -103.193924,
+    34.415817,
+    -103.193924,
+    34.415817
+],
   "geometry": {"coordinates":[-103.193924,34.415817],"type":"Point"}
 }

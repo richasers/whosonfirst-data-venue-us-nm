@@ -2,13 +2,14 @@
   "id": 186576709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.18225,36.748158,-108.18225,36.748158",
     "geom:latitude":36.748158,
     "geom:longitude":-108.18225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819 E 20th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186576709,
-    "wof:lastmodified":1449052382,
+    "wof:lastmodified":1466700558,
     "wof:name":"A Collectors Dream",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "memorabilia"
     ]
 },
-  "bbox": [-108.18225,36.748158,-108.18225,36.748158],
+  "bbox": [
+    -108.18225,
+    36.748158,
+    -108.18225,
+    36.748158
+],
   "geometry": {"coordinates":[-108.18225,36.748158],"type":"Point"}
 }

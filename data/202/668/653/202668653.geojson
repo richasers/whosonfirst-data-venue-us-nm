@@ -2,13 +2,14 @@
   "id": 202668653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.61893,33.32641,-105.61893,33.32641",
     "geom:latitude":33.32641,
     "geom:longitude":-105.61893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2064 US Hwy 70",
     "sg:city":"Ruidoso Downs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202668653,
-    "wof:lastmodified":1449061861,
+    "wof:lastmodified":1466699483,
     "wof:name":"Bradley D's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.61893,33.32641,-105.61893,33.32641],
-  "geometry": {"coordinates":[-105.61893,33.32641],"type":"Point"}
+  "bbox": [
+    -105.61893,
+    33.32641,
+    -105.61893,
+    33.32641
+],
+  "geometry": {"coordinates":[-105.61893000000001,33.32641],"type":"Point"}
 }

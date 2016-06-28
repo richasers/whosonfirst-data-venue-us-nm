@@ -2,13 +2,14 @@
   "id": 186609745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.535878,35.131126,-106.535878,35.131126",
     "geom:latitude":35.131126,
     "geom:longitude":-106.535878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9304 Las Calabazillas Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186609745,
-    "wof:lastmodified":1449051382,
+    "wof:lastmodified":1466700770,
     "wof:name":"First Team Real Estate NM",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.535878,35.131126,-106.535878,35.131126],
+  "bbox": [
+    -106.535878,
+    35.131126,
+    -106.535878,
+    35.131126
+],
   "geometry": {"coordinates":[-106.535878,35.131126],"type":"Point"}
 }

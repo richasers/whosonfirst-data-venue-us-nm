@@ -2,13 +2,14 @@
   "id": 337286665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.499143,35.073111,-106.499143,35.073111",
     "geom:latitude":35.073111,
     "geom:longitude":-106.499143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13425 Canyonview Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337286665,
-    "wof:lastmodified":1449027146,
+    "wof:lastmodified":1466697761,
     "wof:name":"A Plus Master Setters Crftsmn",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.499143,35.073111,-106.499143,35.073111],
+  "bbox": [
+    -106.499143,
+    35.073111,
+    -106.499143,
+    35.073111
+],
   "geometry": {"coordinates":[-106.499143,35.073111],"type":"Point"}
 }

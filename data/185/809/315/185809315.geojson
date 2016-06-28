@@ -2,13 +2,14 @@
   "id": 185809315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.13497,32.709184,-103.13497,32.709184",
     "geom:latitude":32.709184,
     "geom:longitude":-103.13497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Lea St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185809315,
-    "wof:lastmodified":1449007941,
+    "wof:lastmodified":1466699365,
     "wof:name":"Holy Trinity Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-103.13497,32.709184,-103.13497,32.709184],
+  "bbox": [
+    -103.13497,
+    32.709184,
+    -103.13497,
+    32.709184
+],
   "geometry": {"coordinates":[-103.13497,32.709184],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202514443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.506123,33.467128,-104.506123,33.467128",
     "geom:latitude":33.467128,
     "geom:longitude":-104.506123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 Ladrones St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202514443,
-    "wof:lastmodified":1449061397,
+    "wof:lastmodified":1466699231,
     "wof:name":"Alan C Bloomer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.506123,33.467128,-104.506123,33.467128],
+  "bbox": [
+    -104.506123,
+    33.467128,
+    -104.506123,
+    33.467128
+],
   "geometry": {"coordinates":[-104.506123,33.467128],"type":"Point"}
 }

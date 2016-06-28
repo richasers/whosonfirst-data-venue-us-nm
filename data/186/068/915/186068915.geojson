@@ -2,13 +2,14 @@
   "id": 186068915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.784808,32.315629,-106.784808,32.315629",
     "geom:latitude":32.315629,
     "geom:longitude":-106.784808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 N Armijo St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186068915,
-    "wof:lastmodified":1449051753,
+    "wof:lastmodified":1466698516,
     "wof:name":"Peter J Giovannini Law Office",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.784808,32.315629,-106.784808,32.315629],
+  "bbox": [
+    -106.784808,
+    32.315629,
+    -106.784808,
+    32.315629
+],
   "geometry": {"coordinates":[-106.784808,32.315629],"type":"Point"}
 }

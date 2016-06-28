@@ -2,13 +2,14 @@
   "id": 185701067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.778405,32.309995,-106.778405,32.309995",
     "geom:latitude":32.309995,
     "geom:longitude":-106.778405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 N Downtown Mall",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185701067,
-    "wof:lastmodified":1449007887,
+    "wof:lastmodified":1466698646,
     "wof:name":"Juvenile Probation & Parole",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "institution"
     ]
 },
-  "bbox": [-106.778405,32.309995,-106.778405,32.309995],
-  "geometry": {"coordinates":[-106.778405,32.309995],"type":"Point"}
+  "bbox": [
+    -106.778405,
+    32.309995,
+    -106.778405,
+    32.309995
+],
+  "geometry": {"coordinates":[-106.77840500000001,32.309995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169831279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.194006,32.115647,-103.194006,32.115647",
     "geom:latitude":32.115647,
     "geom:longitude":-103.194006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 S Main St",
     "sg:city":"Jal",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169831279,
-    "wof:lastmodified":1449034625,
+    "wof:lastmodified":1466698811,
     "wof:name":"Sam's Beautiful 10's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "escort"
     ]
 },
-  "bbox": [-103.194006,32.115647,-103.194006,32.115647],
+  "bbox": [
+    -103.194006,
+    32.115647,
+    -103.194006,
+    32.115647
+],
   "geometry": {"coordinates":[-103.194006,32.115647],"type":"Point"}
 }

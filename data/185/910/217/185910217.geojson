@@ -2,13 +2,14 @@
   "id": 185910217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.626293,35.222401,-106.626293,35.222401",
     "geom:latitude":35.222401,
     "geom:longitude":-106.626293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"924 Coronado Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185910217,
-    "wof:lastmodified":1449007275,
+    "wof:lastmodified":1466698661,
     "wof:name":"Commercial Sound Systems",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-106.626293,35.222401,-106.626293,35.222401],
+  "bbox": [
+    -106.626293,
+    35.222401,
+    -106.626293,
+    35.222401
+],
   "geometry": {"coordinates":[-106.626293,35.222401],"type":"Point"}
 }

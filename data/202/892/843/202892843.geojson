@@ -2,13 +2,14 @@
   "id": 202892843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.14359,32.722077,-103.14359,32.722077",
     "geom:latitude":32.722077,
     "geom:longitude":-103.14359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 N Turner St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202892843,
-    "wof:lastmodified":1449060480,
+    "wof:lastmodified":1466700309,
     "wof:name":"Chinese Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.14359,32.722077,-103.14359,32.722077],
+  "bbox": [
+    -103.14359,
+    32.722077,
+    -103.14359,
+    32.722077
+],
   "geometry": {"coordinates":[-103.14359,32.722077],"type":"Point"}
 }

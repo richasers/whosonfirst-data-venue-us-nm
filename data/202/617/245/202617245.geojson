@@ -2,13 +2,14 @@
   "id": 202617245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.660214,35.225978,-106.660214,35.225978",
     "geom:latitude":35.225978,
     "geom:longitude":-106.660214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 Rio Rancho Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202617245,
-    "wof:lastmodified":1449060183,
+    "wof:lastmodified":1466698633,
     "wof:name":"South WEST Hobbies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.660214,35.225978,-106.660214,35.225978],
+  "bbox": [
+    -106.660214,
+    35.225978,
+    -106.660214,
+    35.225978
+],
   "geometry": {"coordinates":[-106.660214,35.225978],"type":"Point"}
 }

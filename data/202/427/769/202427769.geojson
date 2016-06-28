@@ -2,13 +2,14 @@
   "id": 202427769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.041865,35.521478,-106.041865,35.521478",
     "geom:latitude":35.521478,
     "geom:longitude":-106.041865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"372 San Marcos Loop",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202427769,
-    "wof:lastmodified":1449060876,
+    "wof:lastmodified":1466698284,
     "wof:name":"Pinon Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.041865,35.521478,-106.041865,35.521478],
+  "bbox": [
+    -106.041865,
+    35.521478,
+    -106.041865,
+    35.521478
+],
   "geometry": {"coordinates":[-106.041865,35.521478],"type":"Point"}
 }

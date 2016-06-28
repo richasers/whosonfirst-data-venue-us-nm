@@ -2,13 +2,14 @@
   "id": 186114081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.109047,34.104332,-103.109047,34.104332",
     "geom:latitude":34.104332,
     "geom:longitude":-103.109047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 S Roosevelt Rd E",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186114081,
-    "wof:lastmodified":1449051495,
+    "wof:lastmodified":1466699040,
     "wof:name":"High Plains Dairy LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.109047,34.104332,-103.109047,34.104332],
+  "bbox": [
+    -103.109047,
+    34.104332,
+    -103.109047,
+    34.104332
+],
   "geometry": {"coordinates":[-103.109047,34.104332],"type":"Point"}
 }

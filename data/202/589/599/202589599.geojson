@@ -2,13 +2,14 @@
   "id": 202589599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.355081,36.741929,-108.355081,36.741929",
     "geom:latitude":36.741929,
     "geom:longitude":-108.355081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4218 US Hwy 64",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202589599,
-    "wof:lastmodified":1449061466,
+    "wof:lastmodified":1466698234,
     "wof:name":"Farm Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [-108.355081,36.741929,-108.355081,36.741929],
+  "bbox": [
+    -108.355081,
+    36.741929,
+    -108.355081,
+    36.741929
+],
   "geometry": {"coordinates":[-108.355081,36.741929],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186022185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.687143,35.187332,-106.687143,35.187332",
     "geom:latitude":35.187332,
     "geom:longitude":-106.687143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9301 Yvonne Marie Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186022185,
-    "wof:lastmodified":1449051282,
+    "wof:lastmodified":1466697935,
     "wof:name":"Dave's Budget Home Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-106.687143,35.187332,-106.687143,35.187332],
-  "geometry": {"coordinates":[-106.687143,35.187332],"type":"Point"}
+  "bbox": [
+    -106.687143,
+    35.187332,
+    -106.687143,
+    35.187332
+],
+  "geometry": {"coordinates":[-106.68714300000001,35.187332],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202623427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.78425,32.332609,-106.78425,32.332609",
     "geom:latitude":32.332609,
     "geom:longitude":-106.78425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Gonzalez St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202623427,
-    "wof:lastmodified":1449061875,
+    "wof:lastmodified":1466698731,
     "wof:name":"Guerra Dave Pest Weed & Tree",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.78425,32.332609,-106.78425,32.332609],
+  "bbox": [
+    -106.78425,
+    32.332609,
+    -106.78425,
+    32.332609
+],
   "geometry": {"coordinates":[-106.78425,32.332609],"type":"Point"}
 }

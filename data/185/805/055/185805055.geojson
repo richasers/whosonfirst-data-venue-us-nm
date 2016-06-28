@@ -2,13 +2,14 @@
   "id": 185805055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.532257,35.116251,-106.532257,35.116251",
     "geom:latitude":35.116251,
     "geom:longitude":-106.532257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9809 Candelaria Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":185805055,
-    "wof:lastmodified":1449007138,
+    "wof:lastmodified":1466699356,
     "wof:name":"Natural Life Acupuncture",
     "wof:parent_id":85825849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-106.532257,35.116251,-106.532257,35.116251],
+  "bbox": [
+    -106.532257,
+    35.116251,
+    -106.532257,
+    35.116251
+],
   "geometry": {"coordinates":[-106.532257,35.116251],"type":"Point"}
 }

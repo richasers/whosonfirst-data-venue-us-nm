@@ -2,13 +2,14 @@
   "id": 202424457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.594967,35.151262,-106.594967,35.151262",
     "geom:latitude":35.151262,
     "geom:longitude":-106.594967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4101 Jefferson Plz NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202424457,
-    "wof:lastmodified":1449062489,
+    "wof:lastmodified":1466698245,
     "wof:name":"US Army Corps Of Engineers",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineering"
     ]
 },
-  "bbox": [-106.594967,35.151262,-106.594967,35.151262],
+  "bbox": [
+    -106.594967,
+    35.151262,
+    -106.594967,
+    35.151262
+],
   "geometry": {"coordinates":[-106.594967,35.151262],"type":"Point"}
 }

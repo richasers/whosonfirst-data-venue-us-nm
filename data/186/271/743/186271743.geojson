@@ -2,13 +2,14 @@
   "id": 186271743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.946276,32.897969,-105.946276,32.897969",
     "geom:latitude":32.897969,
     "geom:longitude":-105.946276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Cuba Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186271743,
-    "wof:lastmodified":1449051781,
+    "wof:lastmodified":1466698939,
     "wof:name":"Theresa L Keelin CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-105.946276,32.897969,-105.946276,32.897969],
+  "bbox": [
+    -105.946276,
+    32.897969,
+    -105.946276,
+    32.897969
+],
   "geometry": {"coordinates":[-105.946276,32.897969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202918379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.623423,35.1515,-106.623423,35.1515",
     "geom:latitude":35.1515,
     "geom:longitude":-106.623423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202918379,
-    "wof:lastmodified":1449061811,
+    "wof:lastmodified":1466700296,
     "wof:name":"Native American Lending Group",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-106.623423,35.1515,-106.623423,35.1515],
+  "bbox": [
+    -106.623423,
+    35.1515,
+    -106.623423,
+    35.1515
+],
   "geometry": {"coordinates":[-106.623423,35.1515],"type":"Point"}
 }

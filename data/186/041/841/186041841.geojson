@@ -2,13 +2,14 @@
   "id": 186041841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.169441,36.719361,-108.169441,36.719361",
     "geom:latitude":36.719361,
     "geom:longitude":-108.169441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 Bloomfield Hwy",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186041841,
-    "wof:lastmodified":1449051355,
+    "wof:lastmodified":1466698154,
     "wof:name":"Halliburton Logging Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "logging"
     ]
 },
-  "bbox": [-108.169441,36.719361,-108.169441,36.719361],
-  "geometry": {"coordinates":[-108.169441,36.719361],"type":"Point"}
+  "bbox": [
+    -108.169441,
+    36.719361,
+    -108.169441,
+    36.719361
+],
+  "geometry": {"coordinates":[-108.16944100000001,36.719361],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186329819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.665593,35.199456,-106.665593,35.199456",
     "geom:latitude":35.199456,
     "geom:longitude":-106.665593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10340 Dayflower Dr",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186329819,
-    "wof:lastmodified":1449051129,
+    "wof:lastmodified":1466699588,
     "wof:name":"Sally Moore Words & Images",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "writer"
     ]
 },
-  "bbox": [-106.665593,35.199456,-106.665593,35.199456],
+  "bbox": [
+    -106.665593,
+    35.199456,
+    -106.665593,
+    35.199456
+],
   "geometry": {"coordinates":[-106.665593,35.199456],"type":"Point"}
 }

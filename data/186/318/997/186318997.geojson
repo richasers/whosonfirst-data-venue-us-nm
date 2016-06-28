@@ -2,13 +2,14 @@
   "id": 186318997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.630908,35.082015,-106.630908,35.082015",
     "geom:latitude":35.082015,
     "geom:longitude":-106.630908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1417 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186318997,
-    "wof:lastmodified":1449050987,
+    "wof:lastmodified":1466699539,
     "wof:name":"Revolutions Records",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-106.630908,35.082015,-106.630908,35.082015],
-  "geometry": {"coordinates":[-106.630908,35.082015],"type":"Point"}
+  "bbox": [
+    -106.630908,
+    35.082015,
+    -106.630908,
+    35.082015
+],
+  "geometry": {"coordinates":[-106.63090800000001,35.082015],"type":"Point"}
 }

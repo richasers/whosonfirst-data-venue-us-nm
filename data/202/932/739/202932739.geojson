@@ -2,13 +2,14 @@
   "id": 202932739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.20235,34.379215,-103.20235,34.379215",
     "geom:latitude":34.379215,
     "geom:longitude":-103.20235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Kershner Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202932739,
-    "wof:lastmodified":1449061050,
+    "wof:lastmodified":1466700488,
     "wof:name":"Clovis Pumping & Sewer Clean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sewer"
     ]
 },
-  "bbox": [-103.20235,34.379215,-103.20235,34.379215],
+  "bbox": [
+    -103.20235,
+    34.379215,
+    -103.20235,
+    34.379215
+],
   "geometry": {"coordinates":[-103.20235,34.379215],"type":"Point"}
 }

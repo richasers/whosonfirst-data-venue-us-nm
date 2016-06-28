@@ -2,13 +2,14 @@
   "id": 203039609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.05677,36.761124,-108.05677,36.761124",
     "geom:latitude":36.761124,
     "geom:longitude":-108.05677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Rd 3141",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203039609,
-    "wof:lastmodified":1449026623,
+    "wof:lastmodified":1466698020,
     "wof:name":"Candy N Me",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-108.05677,36.761124,-108.05677,36.761124],
+  "bbox": [
+    -108.05677,
+    36.761124,
+    -108.05677,
+    36.761124
+],
   "geometry": {"coordinates":[-108.05677,36.761124],"type":"Point"}
 }

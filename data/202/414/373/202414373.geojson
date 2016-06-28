@@ -2,13 +2,14 @@
   "id": 202414373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.720397,34.763237,-106.720397,34.763237",
     "geom:latitude":34.763237,
     "geom:longitude":-106.720397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3112 State Hwy 47",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202414373,
-    "wof:lastmodified":1449061309,
+    "wof:lastmodified":1466698123,
     "wof:name":"A A A A Jamarillo Self Storage",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-106.720397,34.763237,-106.720397,34.763237],
-  "geometry": {"coordinates":[-106.720397,34.763237],"type":"Point"}
+  "bbox": [
+    -106.720397,
+    34.763237,
+    -106.720397,
+    34.763237
+],
+  "geometry": {"coordinates":[-106.72039700000001,34.763237],"type":"Point"}
 }

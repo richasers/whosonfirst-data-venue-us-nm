@@ -2,13 +2,14 @@
   "id": 186044927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.66959,35.135441,-106.66959,35.135441",
     "geom:latitude":35.135441,
     "geom:longitude":-106.66959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 Rio Grande Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186044927,
-    "wof:lastmodified":1449051771,
+    "wof:lastmodified":1466698186,
     "wof:name":"Liquor License Brokerage & Con",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "liquor"
     ]
 },
-  "bbox": [-106.66959,35.135441,-106.66959,35.135441],
+  "bbox": [
+    -106.66959,
+    35.135441,
+    -106.66959,
+    35.135441
+],
   "geometry": {"coordinates":[-106.66959,35.135441],"type":"Point"}
 }

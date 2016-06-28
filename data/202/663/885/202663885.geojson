@@ -2,13 +2,14 @@
   "id": 202663885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.516665,35.062559,-106.516665,35.062559",
     "geom:latitude":35.062559,
     "geom:longitude":-106.516665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Glacier Bay St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202663885,
-    "wof:lastmodified":1449061966,
+    "wof:lastmodified":1466699341,
     "wof:name":"Sequoyah Perry & Co",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shades"
     ]
 },
-  "bbox": [-106.516665,35.062559,-106.516665,35.062559],
+  "bbox": [
+    -106.516665,
+    35.062559,
+    -106.516665,
+    35.062559
+],
   "geometry": {"coordinates":[-106.516665,35.062559],"type":"Point"}
 }

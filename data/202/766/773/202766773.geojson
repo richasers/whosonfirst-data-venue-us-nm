@@ -2,13 +2,14 @@
   "id": 202766773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.701358,35.055278,-106.701358,35.055278",
     "geom:latitude":35.055278,
     "geom:longitude":-106.701358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3123 Leo Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202766773,
-    "wof:lastmodified":1449060072,
+    "wof:lastmodified":1466699965,
     "wof:name":"My Painting",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.701358,35.055278,-106.701358,35.055278],
+  "bbox": [
+    -106.701358,
+    35.055278,
+    -106.701358,
+    35.055278
+],
   "geometry": {"coordinates":[-106.701358,35.055278],"type":"Point"}
 }

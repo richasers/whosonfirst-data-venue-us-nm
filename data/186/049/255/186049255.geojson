@@ -2,13 +2,14 @@
   "id": 186049255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.545577,35.294907,-106.545577,35.294907",
     "geom:latitude":35.294907,
     "geom:longitude":-106.545577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1282 S Hill Rd",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186049255,
-    "wof:lastmodified":1449051705,
+    "wof:lastmodified":1466698244,
     "wof:name":"My Buddys Auto Shop LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-106.545577,35.294907,-106.545577,35.294907],
-  "geometry": {"coordinates":[-106.545577,35.294907],"type":"Point"}
+  "bbox": [
+    -106.545577,
+    35.294907,
+    -106.545577,
+    35.294907
+],
+  "geometry": {"coordinates":[-106.54557699999999,35.294907],"type":"Point"}
 }

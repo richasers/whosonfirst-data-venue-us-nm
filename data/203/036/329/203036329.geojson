@@ -2,13 +2,14 @@
   "id": 203036329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.226469,35.58996,-105.226469,35.58996",
     "geom:latitude":35.58996,
     "geom:longitude":-105.226469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Socorro St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203036329,
-    "wof:lastmodified":1449025346,
+    "wof:lastmodified":1466697982,
     "wof:name":"Mental Health Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-105.226469,35.58996,-105.226469,35.58996],
-  "geometry": {"coordinates":[-105.226469,35.58996],"type":"Point"}
+  "bbox": [
+    -105.226469,
+    35.58996,
+    -105.226469,
+    35.58996
+],
+  "geometry": {"coordinates":[-105.22646899999999,35.58996],"type":"Point"}
 }

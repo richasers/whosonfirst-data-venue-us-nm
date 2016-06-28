@@ -2,13 +2,14 @@
   "id": 185869559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.516946,33.408598,-104.516946,33.408598",
     "geom:latitude":33.408598,
     "geom:longitude":-104.516946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E College Blvd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185869559,
-    "wof:lastmodified":1449008092,
+    "wof:lastmodified":1466698208,
     "wof:name":"Sandhill Sign & Rubber Stamps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sign"
     ]
 },
-  "bbox": [-104.516946,33.408598,-104.516946,33.408598],
+  "bbox": [
+    -104.516946,
+    33.408598,
+    -104.516946,
+    33.408598
+],
   "geometry": {"coordinates":[-104.516946,33.408598],"type":"Point"}
 }

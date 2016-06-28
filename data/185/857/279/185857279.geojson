@@ -2,13 +2,14 @@
   "id": 185857279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.773392,32.298936,-106.773392,32.298936",
     "geom:latitude":32.298936,
     "geom:longitude":-106.773392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1160 el Paseo Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185857279,
-    "wof:lastmodified":1449007641,
+    "wof:lastmodified":1466698085,
     "wof:name":"Valley Faith Ctr",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.773392,32.298936,-106.773392,32.298936],
+  "bbox": [
+    -106.773392,
+    32.298936,
+    -106.773392,
+    32.298936
+],
   "geometry": {"coordinates":[-106.773392,32.298936],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185637137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.767086,32.274482,-106.767086,32.274482",
     "geom:latitude":32.274482,
     "geom:longitude":-106.767086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3302 Harrelson St",
     "sg:city":"Mesilla Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185637137,
-    "wof:lastmodified":1449006597,
+    "wof:lastmodified":1466698003,
     "wof:name":"Rio Grand Automotive",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-106.767086,32.274482,-106.767086,32.274482],
-  "geometry": {"coordinates":[-106.767086,32.274482],"type":"Point"}
+  "bbox": [
+    -106.767086,
+    32.274482,
+    -106.767086,
+    32.274482
+],
+  "geometry": {"coordinates":[-106.76708600000001,32.274482],"type":"Point"}
 }

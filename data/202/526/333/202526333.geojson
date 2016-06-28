@@ -2,13 +2,14 @@
   "id": 202526333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.523471,35.079999,-106.523471,35.079999",
     "geom:latitude":35.079999,
     "geom:longitude":-106.523471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11412 Freeway Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202526333,
-    "wof:lastmodified":1449060896,
+    "wof:lastmodified":1466699273,
     "wof:name":"Design Balance Inc",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "air"
     ]
 },
-  "bbox": [-106.523471,35.079999,-106.523471,35.079999],
+  "bbox": [
+    -106.523471,
+    35.079999,
+    -106.523471,
+    35.079999
+],
   "geometry": {"coordinates":[-106.523471,35.079999],"type":"Point"}
 }

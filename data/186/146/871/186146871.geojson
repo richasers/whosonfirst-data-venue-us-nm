@@ -2,13 +2,14 @@
   "id": 186146871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.747559,35.53469,-108.747559,35.53469",
     "geom:latitude":35.53469,
     "geom:longitude":-108.747559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 N 3rd St",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":186146871,
-    "wof:lastmodified":1449051486,
+    "wof:lastmodified":1466699247,
     "wof:name":"Erlinda's Tamale Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "american"
     ]
 },
-  "bbox": [-108.747559,35.53469,-108.747559,35.53469],
+  "bbox": [
+    -108.747559,
+    35.53469,
+    -108.747559,
+    35.53469
+],
   "geometry": {"coordinates":[-108.747559,35.53469],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203040341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.010616,35.633466,-106.010616,35.633466",
     "geom:latitude":35.633466,
     "geom:longitude":-106.010616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4148 Big Sky Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203040341,
-    "wof:lastmodified":1449026826,
+    "wof:lastmodified":1466698036,
     "wof:name":"Bearfoot Construction Inc",
     "wof:parent_id":85880823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.010616,35.633466,-106.010616,35.633466],
+  "bbox": [
+    -106.010616,
+    35.633466,
+    -106.010616,
+    35.633466
+],
   "geometry": {"coordinates":[-106.010616,35.633466],"type":"Point"}
 }

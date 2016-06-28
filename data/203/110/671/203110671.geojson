@@ -2,13 +2,14 @@
   "id": 203110671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.701805,34.790577,-106.701805,34.790577",
     "geom:latitude":34.790577,
     "geom:longitude":-106.701805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3332 State Hwy 47",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203110671,
-    "wof:lastmodified":1449025541,
+    "wof:lastmodified":1466698879,
     "wof:name":"Allpine Moulding Co",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [-106.701805,34.790577,-106.701805,34.790577],
-  "geometry": {"coordinates":[-106.701805,34.790577],"type":"Point"}
+  "bbox": [
+    -106.701805,
+    34.790577,
+    -106.701805,
+    34.790577
+],
+  "geometry": {"coordinates":[-106.70180499999999,34.790577],"type":"Point"}
 }

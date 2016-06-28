@@ -2,13 +2,14 @@
   "id": 186422515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.500773,35.165346,-106.500773,35.165346",
     "geom:latitude":35.165346,
     "geom:longitude":-106.500773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12500 Coronado Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186422515,
-    "wof:lastmodified":1449050445,
+    "wof:lastmodified":1466699942,
     "wof:name":"James Tollison",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "scientific"
     ]
 },
-  "bbox": [-106.500773,35.165346,-106.500773,35.165346],
+  "bbox": [
+    -106.500773,
+    35.165346,
+    -106.500773,
+    35.165346
+],
   "geometry": {"coordinates":[-106.500773,35.165346],"type":"Point"}
 }

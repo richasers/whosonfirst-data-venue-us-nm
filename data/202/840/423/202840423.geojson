@@ -2,13 +2,14 @@
   "id": 202840423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.267024,32.40282,-104.267024,32.40282",
     "geom:latitude":32.40282,
     "geom:longitude":-104.267024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1817 Jewel St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202840423,
-    "wof:lastmodified":1449062087,
+    "wof:lastmodified":1466700143,
     "wof:name":"Dee S Dottie Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-104.267024,32.40282,-104.267024,32.40282],
-  "geometry": {"coordinates":[-104.267024,32.40282],"type":"Point"}
+  "bbox": [
+    -104.267024,
+    32.40282,
+    -104.267024,
+    32.40282
+],
+  "geometry": {"coordinates":[-104.26702400000001,32.40282],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353929307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.625167,35.136834,-106.625167,35.136834",
     "geom:latitude":35.136834,
     "geom:longitude":-106.625167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Edmon Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":353929307,
-    "wof:lastmodified":1449019238,
+    "wof:lastmodified":1466697984,
     "wof:name":"Wilger Enterprises, Inc.",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-106.625167,35.136834,-106.625167,35.136834],
+  "bbox": [
+    -106.625167,
+    35.136834,
+    -106.625167,
+    35.136834
+],
   "geometry": {"coordinates":[-106.625167,35.136834],"type":"Point"}
 }

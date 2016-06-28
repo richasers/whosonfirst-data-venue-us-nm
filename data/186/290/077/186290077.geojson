@@ -2,13 +2,14 @@
   "id": 186290077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.196555,34.438175,-103.196555,34.438175",
     "geom:latitude":34.438175,
     "geom:longitude":-103.196555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3918 N Prince St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186290077,
-    "wof:lastmodified":1449051524,
+    "wof:lastmodified":1466699201,
     "wof:name":"Slapstick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-103.196555,34.438175,-103.196555,34.438175],
+  "bbox": [
+    -103.196555,
+    34.438175,
+    -103.196555,
+    34.438175
+],
   "geometry": {"coordinates":[-103.196555,34.438175],"type":"Point"}
 }

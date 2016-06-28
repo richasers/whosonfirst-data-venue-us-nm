@@ -2,13 +2,14 @@
   "id": 185626761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.902912,34.054516,-106.902912,34.054516",
     "geom:latitude":34.054516,
     "geom:longitude":-106.902912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Reservoir Rd",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185626761,
-    "wof:lastmodified":1449008210,
+    "wof:lastmodified":1466697895,
     "wof:name":"Pino Plumbing & Heating Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.902912,34.054516,-106.902912,34.054516],
+  "bbox": [
+    -106.902912,
+    34.054516,
+    -106.902912,
+    34.054516
+],
   "geometry": {"coordinates":[-106.902912,34.054516],"type":"Point"}
 }

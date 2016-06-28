@@ -2,13 +2,14 @@
   "id": 185856745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.698389,35.075259,-106.698389,35.075259",
     "geom:latitude":35.075259,
     "geom:longitude":-106.698389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"649 Old Coors Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185856745,
-    "wof:lastmodified":1449007071,
+    "wof:lastmodified":1466698080,
     "wof:name":"Juanos Autos",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-106.698389,35.075259,-106.698389,35.075259],
-  "geometry": {"coordinates":[-106.698389,35.075259],"type":"Point"}
+  "bbox": [
+    -106.698389,
+    35.075259,
+    -106.698389,
+    35.075259
+],
+  "geometry": {"coordinates":[-106.69838900000001,35.075259],"type":"Point"}
 }

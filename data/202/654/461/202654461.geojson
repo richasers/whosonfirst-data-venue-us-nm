@@ -2,13 +2,14 @@
   "id": 202654461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.624045,35.080953,-106.624045,35.080953",
     "geom:latitude":35.080953,
     "geom:longitude":-106.624045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202654461,
-    "wof:lastmodified":1449060963,
+    "wof:lastmodified":1466699202,
     "wof:name":"Smoochs",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.624045,35.080953,-106.624045,35.080953],
+  "bbox": [
+    -106.624045,
+    35.080953,
+    -106.624045,
+    35.080953
+],
   "geometry": {"coordinates":[-106.624045,35.080953],"type":"Point"}
 }

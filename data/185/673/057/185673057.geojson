@@ -2,13 +2,14 @@
   "id": 185673057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.995007,35.609633,-105.995007,35.609633",
     "geom:latitude":35.609633,
     "geom:longitude":-105.995007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Meador Ln",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185673057,
-    "wof:lastmodified":1449007240,
+    "wof:lastmodified":1466698387,
     "wof:name":"High Desert Custom V Twins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "motor"
     ]
 },
-  "bbox": [-105.995007,35.609633,-105.995007,35.609633],
+  "bbox": [
+    -105.995007,
+    35.609633,
+    -105.995007,
+    35.609633
+],
   "geometry": {"coordinates":[-105.995007,35.609633],"type":"Point"}
 }

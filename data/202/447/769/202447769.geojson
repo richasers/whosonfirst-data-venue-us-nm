@@ -2,13 +2,14 @@
   "id": 202447769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.209318,36.730298,-108.209318,36.730298",
     "geom:latitude":36.730298,
     "geom:longitude":-108.209318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Arrington St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202447769,
-    "wof:lastmodified":1449061884,
+    "wof:lastmodified":1466698511,
     "wof:name":"Environmental Health Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-108.209318,36.730298,-108.209318,36.730298],
+  "bbox": [
+    -108.209318,
+    36.730298,
+    -108.209318,
+    36.730298
+],
   "geometry": {"coordinates":[-108.209318,36.730298],"type":"Point"}
 }

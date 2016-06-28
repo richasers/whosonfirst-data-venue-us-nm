@@ -2,13 +2,14 @@
   "id": 185879941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586473,35.115965,-106.586473,35.115965",
     "geom:latitude":35.115965,
     "geom:longitude":-106.586473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2929 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185879941,
-    "wof:lastmodified":1449006614,
+    "wof:lastmodified":1466698314,
     "wof:name":"Sucrose Body Sugaring",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "removing"
     ]
 },
-  "bbox": [-106.586473,35.115965,-106.586473,35.115965],
+  "bbox": [
+    -106.586473,
+    35.115965,
+    -106.586473,
+    35.115965
+],
   "geometry": {"coordinates":[-106.586473,35.115965],"type":"Point"}
 }

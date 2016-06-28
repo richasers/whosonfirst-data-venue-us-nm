@@ -2,13 +2,14 @@
   "id": 202668485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614019,35.20035,-106.614019,35.20035",
     "geom:latitude":35.20035,
     "geom:longitude":-106.614019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Homesite Ln NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202668485,
-    "wof:lastmodified":1449061864,
+    "wof:lastmodified":1466699482,
     "wof:name":"Raul Zea Ironworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [-106.614019,35.20035,-106.614019,35.20035],
+  "bbox": [
+    -106.614019,
+    35.20035,
+    -106.614019,
+    35.20035
+],
   "geometry": {"coordinates":[-106.614019,35.20035],"type":"Point"}
 }

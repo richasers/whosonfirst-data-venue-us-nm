@@ -2,13 +2,14 @@
   "id": 353939433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.584488,35.13861,-106.584488,35.13861",
     "geom:latitude":35.13861,
     "geom:longitude":-106.584488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5600 Mcleod Rd NE Ste F",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353939433,
-    "wof:lastmodified":1449019017,
+    "wof:lastmodified":1466698259,
     "wof:name":"Charles L Bernaert Md",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "disorders-information"
     ]
 },
-  "bbox": [-106.584488,35.13861,-106.584488,35.13861],
-  "geometry": {"coordinates":[-106.584488,35.13861],"type":"Point"}
+  "bbox": [
+    -106.584488,
+    35.13861,
+    -106.584488,
+    35.13861
+],
+  "geometry": {"coordinates":[-106.58448799999999,35.13861],"type":"Point"}
 }

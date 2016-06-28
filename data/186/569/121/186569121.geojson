@@ -2,13 +2,14 @@
   "id": 186569121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.352357,34.177122,-103.352357,34.177122",
     "geom:latitude":34.177122,
     "geom:longitude":-103.352357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 S Ave O",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186569121,
-    "wof:lastmodified":1449052932,
+    "wof:lastmodified":1466700534,
     "wof:name":"Sukanto Biswas MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-103.352357,34.177122,-103.352357,34.177122],
+  "bbox": [
+    -103.352357,
+    34.177122,
+    -103.352357,
+    34.177122
+],
   "geometry": {"coordinates":[-103.352357,34.177122],"type":"Point"}
 }

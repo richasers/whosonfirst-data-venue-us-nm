@@ -2,13 +2,14 @@
   "id": 186014791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.759886,32.267317,-107.759886,32.267317",
     "geom:latitude":32.267317,
     "geom:longitude":-107.759886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S Copper St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186014791,
-    "wof:lastmodified":1449051695,
+    "wof:lastmodified":1466697858,
     "wof:name":"Lifeways Health Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "diet"
     ]
 },
-  "bbox": [-107.759886,32.267317,-107.759886,32.267317],
-  "geometry": {"coordinates":[-107.759886,32.267317],"type":"Point"}
+  "bbox": [
+    -107.759886,
+    32.267317,
+    -107.759886,
+    32.267317
+],
+  "geometry": {"coordinates":[-107.75988599999999,32.267317],"type":"Point"}
 }

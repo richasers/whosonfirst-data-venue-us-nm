@@ -2,13 +2,14 @@
   "id": 186333271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.741618,35.525486,-108.741618,35.525486",
     "geom:latitude":35.525486,
     "geom:longitude":-108.741618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Hill Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186333271,
-    "wof:lastmodified":1449052843,
+    "wof:lastmodified":1466699594,
     "wof:name":"New Mexico State Govt Dist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-108.741618,35.525486,-108.741618,35.525486],
+  "bbox": [
+    -108.741618,
+    35.525486,
+    -108.741618,
+    35.525486
+],
   "geometry": {"coordinates":[-108.741618,35.525486],"type":"Point"}
 }

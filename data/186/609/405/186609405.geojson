@@ -2,13 +2,14 @@
   "id": 186609405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.935659,32.913208,-105.935659,32.913208",
     "geom:latitude":32.913208,
     "geom:longitude":-105.935659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2109 Dewey Ln",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186609405,
-    "wof:lastmodified":1449051382,
+    "wof:lastmodified":1466700667,
     "wof:name":"Sacremento Chapter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.935659,32.913208,-105.935659,32.913208],
+  "bbox": [
+    -105.935659,
+    32.913208,
+    -105.935659,
+    32.913208
+],
   "geometry": {"coordinates":[-105.935659,32.913208],"type":"Point"}
 }

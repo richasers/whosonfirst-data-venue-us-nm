@@ -2,13 +2,14 @@
   "id": 186437909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.792531,32.303569,-106.792531,32.303569",
     "geom:latitude":32.303569,
     "geom:longitude":-106.792531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 S Valley Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186437909,
-    "wof:lastmodified":1449052299,
+    "wof:lastmodified":1466700002,
     "wof:name":"Trans Plus",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-106.792531,32.303569,-106.792531,32.303569],
+  "bbox": [
+    -106.792531,
+    32.303569,
+    -106.792531,
+    32.303569
+],
   "geometry": {"coordinates":[-106.792531,32.303569],"type":"Point"}
 }

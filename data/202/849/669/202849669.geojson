@@ -2,13 +2,14 @@
   "id": 202849669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.55872,35.109173,-106.55872,35.109173",
     "geom:latitude":35.109173,
     "geom:longitude":-106.55872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7601 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202849669,
-    "wof:lastmodified":1449060575,
+    "wof:lastmodified":1466700184,
     "wof:name":"Pennsylvania Station",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-106.55872,35.109173,-106.55872,35.109173],
-  "geometry": {"coordinates":[-106.55872,35.109173],"type":"Point"}
+  "bbox": [
+    -106.55872,
+    35.109173,
+    -106.55872,
+    35.109173
+],
+  "geometry": {"coordinates":[-106.55871999999999,35.109173],"type":"Point"}
 }

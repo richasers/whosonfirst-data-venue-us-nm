@@ -2,13 +2,14 @@
   "id": 203002501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.736368,35.109086,-106.736368,35.109086",
     "geom:latitude":35.109086,
     "geom:longitude":-106.736368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8305 Cll Ensueno NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203002501,
-    "wof:lastmodified":1449026500,
+    "wof:lastmodified":1466697612,
     "wof:name":"South East Trading Co",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-106.736368,35.109086,-106.736368,35.109086],
+  "bbox": [
+    -106.736368,
+    35.109086,
+    -106.736368,
+    35.109086
+],
   "geometry": {"coordinates":[-106.736368,35.109086],"type":"Point"}
 }

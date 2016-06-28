@@ -2,13 +2,14 @@
   "id": 185615983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.742734,35.528064,-108.742734,35.528064",
     "geom:latitude":35.528064,
     "geom:longitude":-108.742734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Historic Hwy 66",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185615983,
-    "wof:lastmodified":1449007114,
+    "wof:lastmodified":1466697769,
     "wof:name":"Museum Special Projects Office",
     "wof:parent_id":85802855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "philanthropic"
     ]
 },
-  "bbox": [-108.742734,35.528064,-108.742734,35.528064],
+  "bbox": [
+    -108.742734,
+    35.528064,
+    -108.742734,
+    35.528064
+],
   "geometry": {"coordinates":[-108.742734,35.528064],"type":"Point"}
 }

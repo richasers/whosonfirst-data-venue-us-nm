@@ -2,13 +2,14 @@
   "id": 186088639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.592098,35.108815,-106.592098,35.108815",
     "geom:latitude":35.108815,
     "geom:longitude":-106.592098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2521 Madison St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186088639,
-    "wof:lastmodified":1449052409,
+    "wof:lastmodified":1466698755,
     "wof:name":"Eagle's Eye Photo Imaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-106.592098,35.108815,-106.592098,35.108815],
-  "geometry": {"coordinates":[-106.592098,35.108815],"type":"Point"}
+  "bbox": [
+    -106.592098,
+    35.108815,
+    -106.592098,
+    35.108815
+],
+  "geometry": {"coordinates":[-106.59209799999999,35.108815],"type":"Point"}
 }

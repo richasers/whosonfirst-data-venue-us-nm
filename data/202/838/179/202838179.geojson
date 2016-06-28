@@ -2,13 +2,14 @@
   "id": 202838179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.011995,36.813394,-108.011995,36.813394",
     "geom:latitude":36.813394,
     "geom:longitude":-108.011995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Rd 3010",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202838179,
-    "wof:lastmodified":1449060409,
+    "wof:lastmodified":1466700130,
     "wof:name":"Top To Bottom Ltd Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.011995,36.813394,-108.011995,36.813394],
+  "bbox": [
+    -108.011995,
+    36.813394,
+    -108.011995,
+    36.813394
+],
   "geometry": {"coordinates":[-108.011995,36.813394],"type":"Point"}
 }

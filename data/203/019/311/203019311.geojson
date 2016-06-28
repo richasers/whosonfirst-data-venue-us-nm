@@ -2,13 +2,14 @@
   "id": 203019311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.26572,36.747937,-108.26572,36.747937",
     "geom:latitude":36.747937,
     "geom:longitude":-108.26572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 Troy King Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203019311,
-    "wof:lastmodified":1449026038,
+    "wof:lastmodified":1466697814,
     "wof:name":"Double J Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-108.26572,36.747937,-108.26572,36.747937],
+  "bbox": [
+    -108.26572,
+    36.747937,
+    -108.26572,
+    36.747937
+],
   "geometry": {"coordinates":[-108.26572,36.747937],"type":"Point"}
 }

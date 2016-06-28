@@ -2,13 +2,14 @@
   "id": 185721679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.585001,35.16783,-106.585001,35.16783",
     "geom:latitude":35.16783,
     "geom:longitude":-106.585001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7820 Pan American Fwy",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185721679,
-    "wof:lastmodified":1449008205,
+    "wof:lastmodified":1466698874,
     "wof:name":"Muniz Aerospace Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-106.585001,35.16783,-106.585001,35.16783],
-  "geometry": {"coordinates":[-106.585001,35.16783],"type":"Point"}
+  "bbox": [
+    -106.585001,
+    35.16783,
+    -106.585001,
+    35.16783
+],
+  "geometry": {"coordinates":[-106.58500100000001,35.16783],"type":"Point"}
 }

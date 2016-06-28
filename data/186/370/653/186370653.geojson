@@ -2,13 +2,14 @@
   "id": 186370653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.824137,32.338329,-106.824137,32.338329",
     "geom:latitude":32.338329,
     "geom:longitude":-106.824137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2240 Pepper Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186370653,
-    "wof:lastmodified":1449051841,
+    "wof:lastmodified":1466699842,
     "wof:name":"Rezolex Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "additive"
     ]
 },
-  "bbox": [-106.824137,32.338329,-106.824137,32.338329],
-  "geometry": {"coordinates":[-106.824137,32.338329],"type":"Point"}
+  "bbox": [
+    -106.824137,
+    32.338329,
+    -106.824137,
+    32.338329
+],
+  "geometry": {"coordinates":[-106.82413699999999,32.338329],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186637333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.15932,36.734103,-108.15932,36.734103",
     "geom:latitude":36.734103,
     "geom:longitude":-108.15932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 Southside River Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186637333,
-    "wof:lastmodified":1449050256,
+    "wof:lastmodified":1466700773,
     "wof:name":"Cross Chemical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.15932,36.734103,-108.15932,36.734103],
-  "geometry": {"coordinates":[-108.15932,36.734103],"type":"Point"}
+  "bbox": [
+    -108.15932,
+    36.734103,
+    -108.15932,
+    36.734103
+],
+  "geometry": {"coordinates":[-108.15931999999999,36.734103],"type":"Point"}
 }

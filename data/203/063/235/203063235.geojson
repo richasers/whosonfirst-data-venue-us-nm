@@ -2,13 +2,14 @@
   "id": 203063235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.211319,34.423851,-103.211319,34.423851",
     "geom:latitude":34.423851,
     "geom:longitude":-103.211319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Yucca Ave",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203063235,
-    "wof:lastmodified":1449025103,
+    "wof:lastmodified":1466698270,
     "wof:name":"Woodmen of World Life Ins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-103.211319,34.423851,-103.211319,34.423851],
+  "bbox": [
+    -103.211319,
+    34.423851,
+    -103.211319,
+    34.423851
+],
   "geometry": {"coordinates":[-103.211319,34.423851],"type":"Point"}
 }

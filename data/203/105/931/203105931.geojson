@@ -2,13 +2,14 @@
   "id": 203105931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.948262,35.68186,-105.948262,35.68186",
     "geom:latitude":35.68186,
     "geom:longitude":-105.948262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1512 Pso de Peralta",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203105931,
-    "wof:lastmodified":1449025641,
+    "wof:lastmodified":1466698802,
     "wof:name":"Bulldog Gym",
     "wof:parent_id":85880805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-105.948262,35.68186,-105.948262,35.68186],
+  "bbox": [
+    -105.948262,
+    35.68186,
+    -105.948262,
+    35.68186
+],
   "geometry": {"coordinates":[-105.948262,35.68186],"type":"Point"}
 }

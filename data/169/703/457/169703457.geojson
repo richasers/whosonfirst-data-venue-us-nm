@@ -2,13 +2,14 @@
   "id": 169703457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.12769,32.773866,-103.12769,32.773866",
     "geom:latitude":32.773866,
     "geom:longitude":-103.12769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 E Katy Ln",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169703457,
-    "wof:lastmodified":1449033689,
+    "wof:lastmodified":1466697626,
     "wof:name":"Buddy's Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-103.12769,32.773866,-103.12769,32.773866],
+  "bbox": [
+    -103.12769,
+    32.773866,
+    -103.12769,
+    32.773866
+],
   "geometry": {"coordinates":[-103.12769,32.773866],"type":"Point"}
 }

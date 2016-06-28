@@ -2,13 +2,14 @@
   "id": 185890765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.659103,33.325698,-105.659103,33.325698",
     "geom:latitude":33.325698,
     "geom:longitude":-105.659103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185890765,
-    "wof:lastmodified":1449006974,
+    "wof:lastmodified":1466698426,
     "wof:name":"Sierra Wholesale Mattress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-105.659103,33.325698,-105.659103,33.325698],
+  "bbox": [
+    -105.659103,
+    33.325698,
+    -105.659103,
+    33.325698
+],
   "geometry": {"coordinates":[-105.659103,33.325698],"type":"Point"}
 }

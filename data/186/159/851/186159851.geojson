@@ -2,13 +2,14 @@
   "id": 186159851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.600362,35.130983,-106.600362,35.130983",
     "geom:latitude":35.130983,
     "geom:longitude":-106.600362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3715 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186159851,
-    "wof:lastmodified":1449050590,
+    "wof:lastmodified":1466699362,
     "wof:name":"Happy Hocker Pawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-106.600362,35.130983,-106.600362,35.130983],
+  "bbox": [
+    -106.600362,
+    35.130983,
+    -106.600362,
+    35.130983
+],
   "geometry": {"coordinates":[-106.600362,35.130983],"type":"Point"}
 }

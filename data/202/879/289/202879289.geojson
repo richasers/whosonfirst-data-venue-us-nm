@@ -2,13 +2,14 @@
   "id": 202879289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.572425,36.411589,-105.572425,36.411589",
     "geom:latitude":36.411589,
     "geom:longitude":-105.572425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Leatherman Ln",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202879289,
-    "wof:lastmodified":1449060137,
+    "wof:lastmodified":1466700165,
     "wof:name":"Desert Moon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-105.572425,36.411589,-105.572425,36.411589],
+  "bbox": [
+    -105.572425,
+    36.411589,
+    -105.572425,
+    36.411589
+],
   "geometry": {"coordinates":[-105.572425,36.411589],"type":"Point"}
 }

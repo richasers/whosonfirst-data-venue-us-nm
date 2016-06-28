@@ -2,13 +2,14 @@
   "id": 353937013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.581117,35.144682,-106.581117,35.144682",
     "geom:latitude":35.144682,
     "geom:longitude":-106.581117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5932 Osuna Rd NE Apt E",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":353937013,
-    "wof:lastmodified":1449018737,
+    "wof:lastmodified":1466698194,
     "wof:name":"Kathleens Quality Estates Sale",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-106.581117,35.144682,-106.581117,35.144682],
-  "geometry": {"coordinates":[-106.581117,35.144682],"type":"Point"}
+  "bbox": [
+    -106.581117,
+    35.144682,
+    -106.581117,
+    35.144682
+],
+  "geometry": {"coordinates":[-106.58111700000001,35.144682],"type":"Point"}
 }

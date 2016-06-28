@@ -2,13 +2,14 @@
   "id": 186012685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.689736,35.196344,-106.689736,35.196344",
     "geom:latitude":35.196344,
     "geom:longitude":-106.689736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5021 Nelson Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186012685,
-    "wof:lastmodified":1449052753,
+    "wof:lastmodified":1466697831,
     "wof:name":"ABQ Metro Reality",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.689736,35.196344,-106.689736,35.196344],
+  "bbox": [
+    -106.689736,
+    35.196344,
+    -106.689736,
+    35.196344
+],
   "geometry": {"coordinates":[-106.689736,35.196344],"type":"Point"}
 }

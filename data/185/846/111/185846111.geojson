@@ -2,13 +2,14 @@
   "id": 185846111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.010559,35.633659,-106.010559,35.633659",
     "geom:latitude":35.633659,
     "geom:longitude":-106.010559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4129 Big Sky Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185846111,
-    "wof:lastmodified":1449007878,
+    "wof:lastmodified":1466697968,
     "wof:name":"Nava Ade Homes LLC",
     "wof:parent_id":85880823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "home"
     ]
 },
-  "bbox": [-106.010559,35.633659,-106.010559,35.633659],
+  "bbox": [
+    -106.010559,
+    35.633659,
+    -106.010559,
+    35.633659
+],
   "geometry": {"coordinates":[-106.010559,35.633659],"type":"Point"}
 }

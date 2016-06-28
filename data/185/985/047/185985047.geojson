@@ -2,13 +2,14 @@
   "id": 185985047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.037903,35.647248,-106.037903,35.647248",
     "geom:latitude":35.647248,
     "geom:longitude":-106.037903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Jemez Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185985047,
-    "wof:lastmodified":1449007427,
+    "wof:lastmodified":1466699536,
     "wof:name":"Spanish Colonial Builders",
     "wof:parent_id":85880855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.037903,35.647248,-106.037903,35.647248],
+  "bbox": [
+    -106.037903,
+    35.647248,
+    -106.037903,
+    35.647248
+],
   "geometry": {"coordinates":[-106.037903,35.647248],"type":"Point"}
 }

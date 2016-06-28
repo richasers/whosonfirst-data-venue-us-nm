@@ -2,13 +2,14 @@
   "id": 202656947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.487844,35.072499,-106.487844,35.072499",
     "geom:latitude":35.072499,
     "geom:longitude":-106.487844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14300 Piedras Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202656947,
-    "wof:lastmodified":1449061738,
+    "wof:lastmodified":1466699240,
     "wof:name":"Stella Wong OD",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.487844,35.072499,-106.487844,35.072499],
+  "bbox": [
+    -106.487844,
+    35.072499,
+    -106.487844,
+    35.072499
+],
   "geometry": {"coordinates":[-106.487844,35.072499],"type":"Point"}
 }

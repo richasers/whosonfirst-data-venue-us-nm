@@ -2,13 +2,14 @@
   "id": 202741705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.796427,32.307819,-106.796427,32.307819",
     "geom:latitude":32.307819,
     "geom:longitude":-106.796427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1646 Mahaney Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202741705,
-    "wof:lastmodified":1449060241,
+    "wof:lastmodified":1466699861,
     "wof:name":"Mountian Sage Fine Cabinetry",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-106.796427,32.307819,-106.796427,32.307819],
-  "geometry": {"coordinates":[-106.796427,32.307819],"type":"Point"}
+  "bbox": [
+    -106.796427,
+    32.307819,
+    -106.796427,
+    32.307819
+],
+  "geometry": {"coordinates":[-106.79642699999999,32.307819],"type":"Point"}
 }

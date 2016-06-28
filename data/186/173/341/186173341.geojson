@@ -2,13 +2,14 @@
   "id": 186173341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.73957,34.76751,-106.73957,34.76751",
     "geom:latitude":34.76751,
     "geom:longitude":-106.73957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Hathaway Cir",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186173341,
-    "wof:lastmodified":1449050924,
+    "wof:lastmodified":1466697678,
     "wof:name":"Stansell Co",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.73957,34.76751,-106.73957,34.76751],
+  "bbox": [
+    -106.73957,
+    34.76751,
+    -106.73957,
+    34.76751
+],
   "geometry": {"coordinates":[-106.73957,34.76751],"type":"Point"}
 }

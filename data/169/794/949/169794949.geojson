@@ -2,13 +2,14 @@
   "id": 169794949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.548708,35.130621,-106.548708,35.130621",
     "geom:latitude":35.130621,
     "geom:longitude":-106.548708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8510 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169794949,
-    "wof:lastmodified":1449034268,
+    "wof:lastmodified":1466698546,
     "wof:name":"Greatskin Medi-Spa-Albuquerque",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "skin"
     ]
 },
-  "bbox": [-106.548708,35.130621,-106.548708,35.130621],
+  "bbox": [
+    -106.548708,
+    35.130621,
+    -106.548708,
+    35.130621
+],
   "geometry": {"coordinates":[-106.548708,35.130621],"type":"Point"}
 }

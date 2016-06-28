@@ -2,13 +2,14 @@
   "id": 185834607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.673963,35.652505,-106.673963,35.652505",
     "geom:latitude":35.652505,
     "geom:longitude":-106.673963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Bridge Dr",
     "sg:city":"Ponderosa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185834607,
-    "wof:lastmodified":1449006761,
+    "wof:lastmodified":1466697841,
     "wof:name":"Nm Department Of Game & Fish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hunting"
     ]
 },
-  "bbox": [-106.673963,35.652505,-106.673963,35.652505],
+  "bbox": [
+    -106.673963,
+    35.652505,
+    -106.673963,
+    35.652505
+],
   "geometry": {"coordinates":[-106.673963,35.652505],"type":"Point"}
 }

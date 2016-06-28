@@ -2,13 +2,14 @@
   "id": 186124127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.625429,35.131448,-106.625429,35.131448",
     "geom:latitude":35.131448,
     "geom:longitude":-106.625429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Nikanda Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":186124127,
-    "wof:lastmodified":1449052824,
+    "wof:lastmodified":1466699131,
     "wof:name":"DDL Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-106.625429,35.131448,-106.625429,35.131448],
+  "bbox": [
+    -106.625429,
+    35.131448,
+    -106.625429,
+    35.131448
+],
   "geometry": {"coordinates":[-106.625429,35.131448],"type":"Point"}
 }

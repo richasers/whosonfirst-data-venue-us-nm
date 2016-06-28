@@ -2,13 +2,14 @@
   "id": 202782547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.974471,35.633579,-105.974471,35.633579",
     "geom:latitude":35.633579,
     "geom:longitude":-105.974471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2651 Via Caballero del Norte",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202782547,
-    "wof:lastmodified":1449060097,
+    "wof:lastmodified":1466699888,
     "wof:name":"Randby Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.974471,35.633579,-105.974471,35.633579],
-  "geometry": {"coordinates":[-105.974471,35.633579],"type":"Point"}
+  "bbox": [
+    -105.974471,
+    35.633579,
+    -105.974471,
+    35.633579
+],
+  "geometry": {"coordinates":[-105.97447099999999,35.633579],"type":"Point"}
 }

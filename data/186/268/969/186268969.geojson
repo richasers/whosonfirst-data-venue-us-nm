@@ -2,13 +2,14 @@
   "id": 186268969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.595731,35.135188,-106.595731,35.135188",
     "geom:latitude":35.135188,
     "geom:longitude":-106.595731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 Bogan Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186268969,
-    "wof:lastmodified":1449051904,
+    "wof:lastmodified":1466698902,
     "wof:name":"Hammocks By Kush",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.595731,35.135188,-106.595731,35.135188],
+  "bbox": [
+    -106.595731,
+    35.135188,
+    -106.595731,
+    35.135188
+],
   "geometry": {"coordinates":[-106.595731,35.135188],"type":"Point"}
 }

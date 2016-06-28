@@ -2,13 +2,14 @@
   "id": 186480103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.826977,35.14709,-107.826977,35.14709",
     "geom:latitude":35.14709,
     "geom:longitude":-107.826977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Sage Ave",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186480103,
-    "wof:lastmodified":1449051266,
+    "wof:lastmodified":1466700159,
     "wof:name":"Rocky Mountain Remodeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-107.826977,35.14709,-107.826977,35.14709],
+  "bbox": [
+    -107.826977,
+    35.14709,
+    -107.826977,
+    35.14709
+],
   "geometry": {"coordinates":[-107.826977,35.14709],"type":"Point"}
 }

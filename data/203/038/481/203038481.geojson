@@ -2,13 +2,14 @@
   "id": 203038481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.185978,36.454214,-103.185978,36.454214",
     "geom:latitude":36.454214,
     "geom:longitude":-103.185978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Magnolia St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203038481,
-    "wof:lastmodified":1449026191,
+    "wof:lastmodified":1466698002,
     "wof:name":"Lawrence Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.185978,36.454214,-103.185978,36.454214],
-  "geometry": {"coordinates":[-103.185978,36.454214],"type":"Point"}
+  "bbox": [
+    -103.185978,
+    36.454214,
+    -103.185978,
+    36.454214
+],
+  "geometry": {"coordinates":[-103.18597800000001,36.454214],"type":"Point"}
 }

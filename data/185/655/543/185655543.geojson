@@ -2,13 +2,14 @@
   "id": 185655543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.573199,35.103741,-106.573199,35.103741",
     "geom:latitude":35.103741,
     "geom:longitude":-106.573199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 Uptown Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185655543,
-    "wof:lastmodified":1449007526,
+    "wof:lastmodified":1466698190,
     "wof:name":"Trailblazer Health Enterprises",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.573199,35.103741,-106.573199,35.103741],
+  "bbox": [
+    -106.573199,
+    35.103741,
+    -106.573199,
+    35.103741
+],
   "geometry": {"coordinates":[-106.573199,35.103741],"type":"Point"}
 }

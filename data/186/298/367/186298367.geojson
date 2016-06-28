@@ -2,13 +2,14 @@
   "id": 186298367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.756423,32.26314,-107.756423,32.26314",
     "geom:latitude":32.26314,
     "geom:longitude":-107.756423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 S Silver Ave",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186298367,
-    "wof:lastmodified":1449051111,
+    "wof:lastmodified":1466699313,
     "wof:name":"Shear Artistry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-107.756423,32.26314,-107.756423,32.26314],
+  "bbox": [
+    -107.756423,
+    32.26314,
+    -107.756423,
+    32.26314
+],
   "geometry": {"coordinates":[-107.756423,32.26314],"type":"Point"}
 }

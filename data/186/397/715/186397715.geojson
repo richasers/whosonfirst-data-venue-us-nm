@@ -2,13 +2,14 @@
   "id": 186397715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.261987,32.784852,-108.261987,32.784852",
     "geom:latitude":32.784852,
     "geom:longitude":-108.261987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Silver Heights Blvd",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186397715,
-    "wof:lastmodified":1449051440,
+    "wof:lastmodified":1466699741,
     "wof:name":"Authentic Southwest Originals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consignment"
     ]
 },
-  "bbox": [-108.261987,32.784852,-108.261987,32.784852],
+  "bbox": [
+    -108.261987,
+    32.784852,
+    -108.261987,
+    32.784852
+],
   "geometry": {"coordinates":[-108.261987,32.784852],"type":"Point"}
 }

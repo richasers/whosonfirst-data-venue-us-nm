@@ -2,13 +2,14 @@
   "id": 202904823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604038,35.124299,-106.604038,35.124299",
     "geom:latitude":35.124299,
     "geom:longitude":-106.604038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3806 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202904823,
-    "wof:lastmodified":1449062726,
+    "wof:lastmodified":1466700383,
     "wof:name":"Surveyor's Supply Super Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "surveying"
     ]
 },
-  "bbox": [-106.604038,35.124299,-106.604038,35.124299],
+  "bbox": [
+    -106.604038,
+    35.124299,
+    -106.604038,
+    35.124299
+],
   "geometry": {"coordinates":[-106.604038,35.124299],"type":"Point"}
 }

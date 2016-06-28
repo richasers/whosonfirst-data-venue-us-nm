@@ -2,13 +2,14 @@
   "id": 202862315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.536889,33.381875,-104.536889,33.381875",
     "geom:latitude":33.381875,
     "geom:longitude":-104.536889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Ave del Sumbre",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202862315,
-    "wof:lastmodified":1449062737,
+    "wof:lastmodified":1466700320,
     "wof:name":"Ross Casarez Farming Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.536889,33.381875,-104.536889,33.381875],
+  "bbox": [
+    -104.536889,
+    33.381875,
+    -104.536889,
+    33.381875
+],
   "geometry": {"coordinates":[-104.536889,33.381875],"type":"Point"}
 }

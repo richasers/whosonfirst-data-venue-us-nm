@@ -2,13 +2,14 @@
   "id": 185702143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.743901,32.266216,-106.743901,32.266216",
     "geom:latitude":32.266216,
     "geom:longitude":-106.743901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4881 Vis Cuesta",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185702143,
-    "wof:lastmodified":1449007431,
+    "wof:lastmodified":1466698653,
     "wof:name":"Genesis Builders Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.743901,32.266216,-106.743901,32.266216],
-  "geometry": {"coordinates":[-106.743901,32.266216],"type":"Point"}
+  "bbox": [
+    -106.743901,
+    32.266216,
+    -106.743901,
+    32.266216
+],
+  "geometry": {"coordinates":[-106.74390099999999,32.266216],"type":"Point"}
 }

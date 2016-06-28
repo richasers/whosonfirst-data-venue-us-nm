@@ -2,13 +2,14 @@
   "id": 186555351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.590848,35.184453,-106.590848,35.184453",
     "geom:latitude":35.184453,
     "geom:longitude":-106.590848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4908 Alameda Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186555351,
-    "wof:lastmodified":1449052635,
+    "wof:lastmodified":1466700462,
     "wof:name":"Yenson Lynn Allen & Wosick PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.590848,35.184453,-106.590848,35.184453],
-  "geometry": {"coordinates":[-106.590848,35.184453],"type":"Point"}
+  "bbox": [
+    -106.590848,
+    35.184453,
+    -106.590848,
+    35.184453
+],
+  "geometry": {"coordinates":[-106.59084799999999,35.184453],"type":"Point"}
 }

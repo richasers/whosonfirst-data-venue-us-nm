@@ -2,13 +2,14 @@
   "id": 186526729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.690183,35.157559,-106.690183,35.157559",
     "geom:latitude":35.157559,
     "geom:longitude":-106.690183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6224 Thicket St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186526729,
-    "wof:lastmodified":1449051197,
+    "wof:lastmodified":1466700317,
     "wof:name":"Kim Trujillo Consulting",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "relations"
     ]
 },
-  "bbox": [-106.690183,35.157559,-106.690183,35.157559],
+  "bbox": [
+    -106.690183,
+    35.157559,
+    -106.690183,
+    35.157559
+],
   "geometry": {"coordinates":[-106.690183,35.157559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185692965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.524593,35.085567,-106.524593,35.085567",
     "geom:latitude":35.085567,
     "geom:longitude":-106.524593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11320 Campo del Oso Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185692965,
-    "wof:lastmodified":1449007042,
+    "wof:lastmodified":1466698586,
     "wof:name":"OGorman Consulting",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.524593,35.085567,-106.524593,35.085567],
+  "bbox": [
+    -106.524593,
+    35.085567,
+    -106.524593,
+    35.085567
+],
   "geometry": {"coordinates":[-106.524593,35.085567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186131473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.698077,35.108117,-106.698077,35.108117",
     "geom:latitude":35.108117,
     "geom:longitude":-106.698077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2216 Alamogordo Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186131473,
-    "wof:lastmodified":1449051188,
+    "wof:lastmodified":1466699169,
     "wof:name":"R Sully Engraving LTD",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.698077,35.108117,-106.698077,35.108117],
+  "bbox": [
+    -106.698077,
+    35.108117,
+    -106.698077,
+    35.108117
+],
   "geometry": {"coordinates":[-106.698077,35.108117],"type":"Point"}
 }

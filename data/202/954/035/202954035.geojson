@@ -2,13 +2,14 @@
   "id": 202954035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.759905,32.324882,-107.759905,32.324882",
     "geom:latitude":32.324882,
     "geom:longitude":-107.759905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4865 Overhill Dr NW",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202954035,
-    "wof:lastmodified":1449062331,
+    "wof:lastmodified":1466700568,
     "wof:name":"G & H Backhoe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-107.759905,32.324882,-107.759905,32.324882],
+  "bbox": [
+    -107.759905,
+    32.324882,
+    -107.759905,
+    32.324882
+],
   "geometry": {"coordinates":[-107.759905,32.324882],"type":"Point"}
 }

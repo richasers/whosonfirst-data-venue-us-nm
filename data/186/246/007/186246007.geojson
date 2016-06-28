@@ -2,13 +2,14 @@
   "id": 186246007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.626931,35.168473,-106.626931,35.168473",
     "geom:latitude":35.168473,
     "geom:longitude":-106.626931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Daniel Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186246007,
-    "wof:lastmodified":1449050436,
+    "wof:lastmodified":1466698609,
     "wof:name":"Tewa Moulding Corp",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.626931,35.168473,-106.626931,35.168473],
+  "bbox": [
+    -106.626931,
+    35.168473,
+    -106.626931,
+    35.168473
+],
   "geometry": {"coordinates":[-106.626931,35.168473],"type":"Point"}
 }

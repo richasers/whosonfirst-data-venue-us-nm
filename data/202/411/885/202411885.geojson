@@ -2,13 +2,14 @@
   "id": 202411885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.758831,35.541014,-108.758831,35.541014",
     "geom:latitude":35.541014,
     "geom:longitude":-108.758831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 US Hwy 666",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202411885,
-    "wof:lastmodified":1449060217,
+    "wof:lastmodified":1466698097,
     "wof:name":"Home Factory Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.758831,35.541014,-108.758831,35.541014],
+  "bbox": [
+    -108.758831,
+    35.541014,
+    -108.758831,
+    35.541014
+],
   "geometry": {"coordinates":[-108.758831,35.541014],"type":"Point"}
 }

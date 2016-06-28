@@ -2,13 +2,14 @@
   "id": 353949173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.522138,35.130749,-106.522138,35.130749",
     "geom:latitude":35.130749,
     "geom:longitude":-106.522138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10555 Montgomery Blvd NE # 180",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353949173,
-    "wof:lastmodified":1449019850,
+    "wof:lastmodified":1466698545,
     "wof:name":"Employment Research Services",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-106.522138,35.130749,-106.522138,35.130749],
+  "bbox": [
+    -106.522138,
+    35.130749,
+    -106.522138,
+    35.130749
+],
   "geometry": {"coordinates":[-106.522138,35.130749],"type":"Point"}
 }

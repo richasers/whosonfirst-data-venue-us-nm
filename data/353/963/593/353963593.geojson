@@ -2,13 +2,14 @@
   "id": 353963593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.715879,35.154103,-106.715879,35.154103",
     "geom:latitude":35.154103,
     "geom:longitude":-106.715879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6124 Shadow Ridge Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":353963593,
-    "wof:lastmodified":1449018503,
+    "wof:lastmodified":1466698842,
     "wof:name":"Positive Rewards",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "training"
     ]
 },
-  "bbox": [-106.715879,35.154103,-106.715879,35.154103],
+  "bbox": [
+    -106.715879,
+    35.154103,
+    -106.715879,
+    35.154103
+],
   "geometry": {"coordinates":[-106.715879,35.154103],"type":"Point"}
 }

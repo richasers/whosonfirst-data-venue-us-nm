@@ -2,13 +2,14 @@
   "id": 202723141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.630913,32.171522,-107.630913,32.171522",
     "geom:latitude":32.171522,
     "geom:longitude":-107.630913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7680 Tierra Rd",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202723141,
-    "wof:lastmodified":1449061599,
+    "wof:lastmodified":1466699702,
     "wof:name":"A T Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-107.630913,32.171522,-107.630913,32.171522],
-  "geometry": {"coordinates":[-107.630913,32.171522],"type":"Point"}
+  "bbox": [
+    -107.630913,
+    32.171522,
+    -107.630913,
+    32.171522
+],
+  "geometry": {"coordinates":[-107.63091300000001,32.171522],"type":"Point"}
 }

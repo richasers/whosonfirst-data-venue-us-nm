@@ -2,13 +2,14 @@
   "id": 169806803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.904299,35.541344,-105.904299,35.541344",
     "geom:latitude":35.541344,
     "geom:longitude":-105.904299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Chusco Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169806803,
-    "wof:lastmodified":1449032678,
+    "wof:lastmodified":1466698671,
     "wof:name":"Bookkeeping Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-105.904299,35.541344,-105.904299,35.541344],
-  "geometry": {"coordinates":[-105.904299,35.541344],"type":"Point"}
+  "bbox": [
+    -105.904299,
+    35.541344,
+    -105.904299,
+    35.541344
+],
+  "geometry": {"coordinates":[-105.90429899999999,35.541344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202686709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.235781,36.714635,-108.235781,36.714635",
     "geom:latitude":36.714635,
     "geom:longitude":-108.235781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Bisti Hwy",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202686709,
-    "wof:lastmodified":1449062039,
+    "wof:lastmodified":1466699549,
     "wof:name":"Four Corners Materials",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "concrete"
     ]
 },
-  "bbox": [-108.235781,36.714635,-108.235781,36.714635],
+  "bbox": [
+    -108.235781,
+    36.714635,
+    -108.235781,
+    36.714635
+],
   "geometry": {"coordinates":[-108.235781,36.714635],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202879937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.605699,35.233096,-106.605699,35.233096",
     "geom:latitude":35.233096,
     "geom:longitude":-106.605699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Arabian Ln",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202879937,
-    "wof:lastmodified":1449060134,
+    "wof:lastmodified":1466700280,
     "wof:name":"Sun Stream Acupuncture",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-106.605699,35.233096,-106.605699,35.233096],
+  "bbox": [
+    -106.605699,
+    35.233096,
+    -106.605699,
+    35.233096
+],
   "geometry": {"coordinates":[-106.605699,35.233096],"type":"Point"}
 }

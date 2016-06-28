@@ -2,13 +2,14 @@
   "id": 202719409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.627801,35.169055,-106.627801,35.169055",
     "geom:latitude":35.169055,
     "geom:longitude":-106.627801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7831 2nd St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202719409,
-    "wof:lastmodified":1449060432,
+    "wof:lastmodified":1466699547,
     "wof:name":"Body Shapers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-106.627801,35.169055,-106.627801,35.169055],
-  "geometry": {"coordinates":[-106.627801,35.169055],"type":"Point"}
+  "bbox": [
+    -106.627801,
+    35.169055,
+    -106.627801,
+    35.169055
+],
+  "geometry": {"coordinates":[-106.62780100000001,35.169055],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202578895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.324642,35.901036,-106.324642,35.901036",
     "geom:latitude":35.901036,
     "geom:longitude":-106.324642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2451 North Rd",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202578895,
-    "wof:lastmodified":1449060759,
+    "wof:lastmodified":1466698072,
     "wof:name":"Wanda J Anderson Typing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-106.324642,35.901036,-106.324642,35.901036],
+  "bbox": [
+    -106.324642,
+    35.901036,
+    -106.324642,
+    35.901036
+],
   "geometry": {"coordinates":[-106.324642,35.901036],"type":"Point"}
 }

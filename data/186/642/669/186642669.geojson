@@ -2,13 +2,14 @@
   "id": 186642669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.191207,36.729586,-108.191207,36.729586",
     "geom:latitude":36.729586,
     "geom:longitude":-108.191207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"685 Scott Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186642669,
-    "wof:lastmodified":1449050419,
+    "wof:lastmodified":1466700785,
     "wof:name":"Jims Pancake House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-108.191207,36.729586,-108.191207,36.729586],
-  "geometry": {"coordinates":[-108.191207,36.729586],"type":"Point"}
+  "bbox": [
+    -108.191207,
+    36.729586,
+    -108.191207,
+    36.729586
+],
+  "geometry": {"coordinates":[-108.19120700000001,36.729586],"type":"Point"}
 }

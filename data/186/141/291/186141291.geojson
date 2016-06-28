@@ -2,13 +2,14 @@
   "id": 186141291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.234462,34.420086,-103.234462,34.420086",
     "geom:latitude":34.420086,
     "geom:longitude":-103.234462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2217 Dillon Rd",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186141291,
-    "wof:lastmodified":1449051331,
+    "wof:lastmodified":1466699207,
     "wof:name":"Plains Regional Hm Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-103.234462,34.420086,-103.234462,34.420086],
-  "geometry": {"coordinates":[-103.234462,34.420086],"type":"Point"}
+  "bbox": [
+    -103.234462,
+    34.420086,
+    -103.234462,
+    34.420086
+],
+  "geometry": {"coordinates":[-103.23446199999999,34.420086],"type":"Point"}
 }

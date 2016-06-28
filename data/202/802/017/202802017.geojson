@@ -2,13 +2,14 @@
   "id": 202802017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.566772,35.328987,-106.566772,35.328987",
     "geom:latitude":35.328987,
     "geom:longitude":-106.566772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 Jemez Dam Rd",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202802017,
-    "wof:lastmodified":1449062192,
+    "wof:lastmodified":1466699861,
     "wof:name":"Shooting Star Fireworks",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "firework"
     ]
 },
-  "bbox": [-106.566772,35.328987,-106.566772,35.328987],
+  "bbox": [
+    -106.566772,
+    35.328987,
+    -106.566772,
+    35.328987
+],
   "geometry": {"coordinates":[-106.566772,35.328987],"type":"Point"}
 }

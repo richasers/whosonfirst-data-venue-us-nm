@@ -2,13 +2,14 @@
   "id": 353927573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.632242,35.054062,-106.632242,35.054062",
     "geom:latitude":35.054062,
     "geom:longitude":-106.632242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 San Jose Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353927573,
-    "wof:lastmodified":1449020537,
+    "wof:lastmodified":1466697934,
     "wof:name":"Snappy Radiographic",
     "wof:parent_id":85846885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "copying"
     ]
 },
-  "bbox": [-106.632242,35.054062,-106.632242,35.054062],
-  "geometry": {"coordinates":[-106.632242,35.054062],"type":"Point"}
+  "bbox": [
+    -106.632242,
+    35.054062,
+    -106.632242,
+    35.054062
+],
+  "geometry": {"coordinates":[-106.63224200000001,35.054062],"type":"Point"}
 }

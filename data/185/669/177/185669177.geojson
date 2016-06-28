@@ -2,13 +2,14 @@
   "id": 185669177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.6055,35.069531,-106.6055,35.069531",
     "geom:latitude":35.069531,
     "geom:longitude":-106.6055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Amherst Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185669177,
-    "wof:lastmodified":1449006790,
+    "wof:lastmodified":1466698335,
     "wof:name":"Cameron Outerwear",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outerwear"
     ]
 },
-  "bbox": [-106.6055,35.069531,-106.6055,35.069531],
-  "geometry": {"coordinates":[-106.6055,35.069531],"type":"Point"}
+  "bbox": [
+    -106.6055,
+    35.069531,
+    -106.6055,
+    35.069531
+],
+  "geometry": {"coordinates":[-106.60550000000001,35.069531],"type":"Point"}
 }

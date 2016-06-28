@@ -2,13 +2,14 @@
   "id": 202954163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.020827,36.826784,-108.020827,36.826784",
     "geom:latitude":36.826784,
     "geom:longitude":-108.020827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Oliver Dr",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202954163,
-    "wof:lastmodified":1449062332,
+    "wof:lastmodified":1466700569,
     "wof:name":"Juvenile Services Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institution"
     ]
 },
-  "bbox": [-108.020827,36.826784,-108.020827,36.826784],
+  "bbox": [
+    -108.020827,
+    36.826784,
+    -108.020827,
+    36.826784
+],
   "geometry": {"coordinates":[-108.020827,36.826784],"type":"Point"}
 }

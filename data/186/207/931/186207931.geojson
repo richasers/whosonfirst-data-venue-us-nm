@@ -2,13 +2,14 @@
   "id": 186207931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.664862,33.360118,-105.664862,33.360118",
     "geom:latitude":33.360118,
     "geom:longitude":-105.664862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1086 Mechem Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186207931,
-    "wof:lastmodified":1449052238,
+    "wof:lastmodified":1466698125,
     "wof:name":"KIDX",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-105.664862,33.360118,-105.664862,33.360118],
+  "bbox": [
+    -105.664862,
+    33.360118,
+    -105.664862,
+    33.360118
+],
   "geometry": {"coordinates":[-105.664862,33.360118],"type":"Point"}
 }

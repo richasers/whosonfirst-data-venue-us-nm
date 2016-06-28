@@ -2,13 +2,14 @@
   "id": 186043495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.350457,35.149374,-106.350457,35.149374",
     "geom:latitude":35.149374,
     "geom:longitude":-106.350457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Juniper Ct",
     "sg:city":"Cedar Crest",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186043495,
-    "wof:lastmodified":1449052349,
+    "wof:lastmodified":1466698169,
     "wof:name":"Mind Eye Retraining",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-106.350457,35.149374,-106.350457,35.149374],
-  "geometry": {"coordinates":[-106.350457,35.149374],"type":"Point"}
+  "bbox": [
+    -106.350457,
+    35.149374,
+    -106.350457,
+    35.149374
+],
+  "geometry": {"coordinates":[-106.35045700000001,35.149374],"type":"Point"}
 }

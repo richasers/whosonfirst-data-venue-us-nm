@@ -2,13 +2,14 @@
   "id": 186297113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.660168,33.337112,-105.660168,33.337112",
     "geom:latitude":33.337112,
     "geom:longitude":-105.660168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Coronado Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186297113,
-    "wof:lastmodified":1449052085,
+    "wof:lastmodified":1466699295,
     "wof:name":"Cloud Villa 2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.660168,33.337112,-105.660168,33.337112],
+  "bbox": [
+    -105.660168,
+    33.337112,
+    -105.660168,
+    33.337112
+],
   "geometry": {"coordinates":[-105.660168,33.337112],"type":"Point"}
 }

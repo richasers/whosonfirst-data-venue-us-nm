@@ -2,13 +2,14 @@
   "id": 202403679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.843888,35.157641,-107.843888,35.157641",
     "geom:latitude":35.157641,
     "geom:longitude":-107.843888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 1st St",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202403679,
-    "wof:lastmodified":1449062296,
+    "wof:lastmodified":1466697979,
     "wof:name":"Cellular Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-107.843888,35.157641,-107.843888,35.157641],
-  "geometry": {"coordinates":[-107.843888,35.157641],"type":"Point"}
+  "bbox": [
+    -107.843888,
+    35.157641,
+    -107.843888,
+    35.157641
+],
+  "geometry": {"coordinates":[-107.84388800000001,35.157641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186258561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.730971,32.309413,-106.730971,32.309413",
     "geom:latitude":32.309413,
     "geom:longitude":-106.730971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3231 Hillrise Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186258561,
-    "wof:lastmodified":1449052458,
+    "wof:lastmodified":1466698770,
     "wof:name":"Desert Meadows Homes Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.730971,32.309413,-106.730971,32.309413],
+  "bbox": [
+    -106.730971,
+    32.309413,
+    -106.730971,
+    32.309413
+],
   "geometry": {"coordinates":[-106.730971,32.309413],"type":"Point"}
 }

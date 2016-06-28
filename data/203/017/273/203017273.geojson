@@ -2,13 +2,14 @@
   "id": 203017273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.145932,32.696685,-103.145932,32.696685",
     "geom:latitude":32.696685,
     "geom:longitude":-103.145932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 W Marland Blvd",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203017273,
-    "wof:lastmodified":1449025954,
+    "wof:lastmodified":1466697789,
     "wof:name":"Heard Robins Cloud Greenwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-103.145932,32.696685,-103.145932,32.696685],
+  "bbox": [
+    -103.145932,
+    32.696685,
+    -103.145932,
+    32.696685
+],
   "geometry": {"coordinates":[-103.145932,32.696685],"type":"Point"}
 }

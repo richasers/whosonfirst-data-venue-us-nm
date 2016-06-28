@@ -2,13 +2,14 @@
   "id": 353966729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550449,35.070259,-106.550449,35.070259",
     "geom:latitude":35.070259,
     "geom:longitude":-106.550449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Wyoming Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":353966729,
-    "wof:lastmodified":1449018279,
+    "wof:lastmodified":1466698927,
     "wof:name":"Alliance Fire Protection Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -99,6 +101,11 @@
         "automatic"
     ]
 },
-  "bbox": [-106.550449,35.070259,-106.550449,35.070259],
+  "bbox": [
+    -106.550449,
+    35.070259,
+    -106.550449,
+    35.070259
+],
   "geometry": {"coordinates":[-106.550449,35.070259],"type":"Point"}
 }

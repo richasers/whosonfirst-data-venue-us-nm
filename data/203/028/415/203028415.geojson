@@ -2,13 +2,14 @@
   "id": 203028415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.1845,36.725741,-108.1845,36.725741",
     "geom:latitude":36.725741,
     "geom:longitude":-108.1845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Dekalb Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203028415,
-    "wof:lastmodified":1449025970,
+    "wof:lastmodified":1466697903,
     "wof:name":"Mosaic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-108.1845,36.725741,-108.1845,36.725741],
+  "bbox": [
+    -108.1845,
+    36.725741,
+    -108.1845,
+    36.725741
+],
   "geometry": {"coordinates":[-108.1845,36.725741],"type":"Point"}
 }

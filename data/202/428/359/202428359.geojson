@@ -2,13 +2,14 @@
   "id": 202428359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.051398,35.628418,-106.051398,35.628418",
     "geom:latitude":35.628418,
     "geom:longitude":-106.051398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6615 Cam Rojo",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202428359,
-    "wof:lastmodified":1449062467,
+    "wof:lastmodified":1466698294,
     "wof:name":"Carlos Benson Insurance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.051398,35.628418,-106.051398,35.628418],
-  "geometry": {"coordinates":[-106.051398,35.628418],"type":"Point"}
+  "bbox": [
+    -106.051398,
+    35.628418,
+    -106.051398,
+    35.628418
+],
+  "geometry": {"coordinates":[-106.05139800000001,35.628418],"type":"Point"}
 }

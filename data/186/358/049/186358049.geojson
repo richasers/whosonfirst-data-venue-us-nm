@@ -2,13 +2,14 @@
   "id": 186358049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.87256,35.559016,-105.87256,35.559016",
     "geom:latitude":35.559016,
     "geom:longitude":-105.87256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Ellis Ranch Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186358049,
-    "wof:lastmodified":1449051506,
+    "wof:lastmodified":1466699562,
     "wof:name":"Russell Thurston Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "design"
     ]
 },
-  "bbox": [-105.87256,35.559016,-105.87256,35.559016],
-  "geometry": {"coordinates":[-105.87256,35.559016],"type":"Point"}
+  "bbox": [
+    -105.87256,
+    35.559016,
+    -105.87256,
+    35.559016
+],
+  "geometry": {"coordinates":[-105.87255999999999,35.559016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186233257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.624262,35.104564,-106.624262,35.104564",
     "geom:latitude":35.104564,
     "geom:longitude":-106.624262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 University Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186233257,
-    "wof:lastmodified":1449053065,
+    "wof:lastmodified":1466698442,
     "wof:name":"Univ-Nm Med Ctr Finance Dept",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "school"
     ]
 },
-  "bbox": [-106.624262,35.104564,-106.624262,35.104564],
+  "bbox": [
+    -106.624262,
+    35.104564,
+    -106.624262,
+    35.104564
+],
   "geometry": {"coordinates":[-106.624262,35.104564],"type":"Point"}
 }

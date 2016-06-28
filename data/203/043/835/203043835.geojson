@@ -2,13 +2,14 @@
   "id": 203043835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.762148,32.266097,-107.762148,32.266097",
     "geom:latitude":32.266097,
     "geom:longitude":-107.762148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 S Zinc St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203043835,
-    "wof:lastmodified":1449026377,
+    "wof:lastmodified":1466698075,
     "wof:name":"Inner Beauty Hair Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.762148,32.266097,-107.762148,32.266097],
+  "bbox": [
+    -107.762148,
+    32.266097,
+    -107.762148,
+    32.266097
+],
   "geometry": {"coordinates":[-107.762148,32.266097],"type":"Point"}
 }

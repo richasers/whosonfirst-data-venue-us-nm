@@ -2,13 +2,14 @@
   "id": 203143215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.322147,34.186075,-103.322147,34.186075",
     "geom:latitude":34.186075,
     "geom:longitude":-103.322147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 E 3rd St",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203143215,
-    "wof:lastmodified":1449026524,
+    "wof:lastmodified":1466699104,
     "wof:name":"Jehovah's Witnesses-Portales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-103.322147,34.186075,-103.322147,34.186075],
+  "bbox": [
+    -103.322147,
+    34.186075,
+    -103.322147,
+    34.186075
+],
   "geometry": {"coordinates":[-103.322147,34.186075],"type":"Point"}
 }

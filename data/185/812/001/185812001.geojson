@@ -2,13 +2,14 @@
   "id": 185812001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.714487,35.181158,-103.714487,35.181158",
     "geom:latitude":35.181158,
     "geom:longitude":-103.714487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 E Turner Ave",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185812001,
-    "wof:lastmodified":1449006626,
+    "wof:lastmodified":1466699472,
     "wof:name":"Jimmy Rivera Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.714487,35.181158,-103.714487,35.181158],
-  "geometry": {"coordinates":[-103.714487,35.181158],"type":"Point"}
+  "bbox": [
+    -103.714487,
+    35.181158,
+    -103.714487,
+    35.181158
+],
+  "geometry": {"coordinates":[-103.71448700000001,35.181158],"type":"Point"}
 }

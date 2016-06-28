@@ -2,13 +2,14 @@
   "id": 202396387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.279994,32.771433,-108.279994,32.771433",
     "geom:latitude":32.771433,
     "geom:longitude":-108.279994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 N Cooper St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202396387,
-    "wof:lastmodified":1449061750,
+    "wof:lastmodified":1466697887,
     "wof:name":"Gila Resources Inf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-108.279994,32.771433,-108.279994,32.771433],
+  "bbox": [
+    -108.279994,
+    32.771433,
+    -108.279994,
+    32.771433
+],
   "geometry": {"coordinates":[-108.279994,32.771433],"type":"Point"}
 }

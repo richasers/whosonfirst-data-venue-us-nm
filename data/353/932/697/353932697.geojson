@@ -2,13 +2,14 @@
   "id": 353932697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615169,35.137386,-106.615169,35.137386",
     "geom:latitude":35.137386,
     "geom:longitude":-106.615169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 N Renaissance Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -84,10 +85,11 @@
         }
     ],
     "wof:id":353932697,
-    "wof:lastmodified":1449019206,
+    "wof:lastmodified":1466698082,
     "wof:name":"T-Mobile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -100,6 +102,11 @@
         "cellular"
     ]
 },
-  "bbox": [-106.615169,35.137386,-106.615169,35.137386],
-  "geometry": {"coordinates":[-106.615169,35.137386],"type":"Point"}
+  "bbox": [
+    -106.615169,
+    35.137386,
+    -106.615169,
+    35.137386
+],
+  "geometry": {"coordinates":[-106.61516899999999,35.137386],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185696021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.175785,36.739559,-108.175785,36.739559",
     "geom:latitude":36.739559,
     "geom:longitude":-108.175785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2330 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185696021,
-    "wof:lastmodified":1449006729,
+    "wof:lastmodified":1466698604,
     "wof:name":"Garden Fresh Fruit Market Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-108.175785,36.739559,-108.175785,36.739559],
+  "bbox": [
+    -108.175785,
+    36.739559,
+    -108.175785,
+    36.739559
+],
   "geometry": {"coordinates":[-108.175785,36.739559],"type":"Point"}
 }

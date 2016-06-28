@@ -2,13 +2,14 @@
   "id": 185981497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.977079,36.01071,-106.977079,36.01071",
     "geom:latitude":36.01071,
     "geom:longitude":-106.977079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 State Hwy 197",
     "sg:city":"Cuba",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185981497,
-    "wof:lastmodified":1449008245,
+    "wof:lastmodified":1466699494,
     "wof:name":"Pueblo Pintado School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.977079,36.01071,-106.977079,36.01071],
+  "bbox": [
+    -106.977079,
+    36.01071,
+    -106.977079,
+    36.01071
+],
   "geometry": {"coordinates":[-106.977079,36.01071],"type":"Point"}
 }

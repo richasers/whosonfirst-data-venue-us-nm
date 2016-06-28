@@ -2,13 +2,14 @@
   "id": 353919273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638038,35.106211,-106.638038,35.106211",
     "geom:latitude":35.106211,
     "geom:longitude":-106.638038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"367 Arvada Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353919273,
-    "wof:lastmodified":1449020185,
+    "wof:lastmodified":1466697705,
     "wof:name":"Albuquerque Partitions & Acc",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "store"
     ]
 },
-  "bbox": [-106.638038,35.106211,-106.638038,35.106211],
-  "geometry": {"coordinates":[-106.638038,35.106211],"type":"Point"}
+  "bbox": [
+    -106.638038,
+    35.106211,
+    -106.638038,
+    35.106211
+],
+  "geometry": {"coordinates":[-106.63803799999999,35.106211],"type":"Point"}
 }

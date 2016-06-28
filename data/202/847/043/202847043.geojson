@@ -2,13 +2,14 @@
   "id": 202847043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.737456,35.156277,-103.737456,35.156277",
     "geom:latitude":35.156277,
     "geom:longitude":-103.737456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2414 S 11th St",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202847043,
-    "wof:lastmodified":1449061031,
+    "wof:lastmodified":1466700278,
     "wof:name":"Lopez Farms Enterprise Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.737456,35.156277,-103.737456,35.156277],
-  "geometry": {"coordinates":[-103.737456,35.156277],"type":"Point"}
+  "bbox": [
+    -103.737456,
+    35.156277,
+    -103.737456,
+    35.156277
+],
+  "geometry": {"coordinates":[-103.73745599999999,35.156277],"type":"Point"}
 }

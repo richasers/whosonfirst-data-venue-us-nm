@@ -2,13 +2,14 @@
   "id": 186117125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.259373,32.442226,-104.259373,32.442226",
     "geom:latitude":32.442226,
     "geom:longitude":-104.259373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2427 W Pierce St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186117125,
-    "wof:lastmodified":1449052197,
+    "wof:lastmodified":1466699066,
     "wof:name":"Physician Rehab Serv Carlsbad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-104.259373,32.442226,-104.259373,32.442226],
+  "bbox": [
+    -104.259373,
+    32.442226,
+    -104.259373,
+    32.442226
+],
   "geometry": {"coordinates":[-104.259373,32.442226],"type":"Point"}
 }

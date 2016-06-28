@@ -2,13 +2,14 @@
   "id": 202900883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.7408,35.526665,-108.7408,35.526665",
     "geom:latitude":35.526665,
     "geom:longitude":-108.7408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W Aztec Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202900883,
-    "wof:lastmodified":1449061211,
+    "wof:lastmodified":1466700366,
     "wof:name":"Southwest Communication System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-108.7408,35.526665,-108.7408,35.526665],
-  "geometry": {"coordinates":[-108.7408,35.526665],"type":"Point"}
+  "bbox": [
+    -108.7408,
+    35.526665,
+    -108.7408,
+    35.526665
+],
+  "geometry": {"coordinates":[-108.74079999999999,35.526665],"type":"Point"}
 }

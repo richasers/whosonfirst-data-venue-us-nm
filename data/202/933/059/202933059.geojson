@@ -2,13 +2,14 @@
   "id": 202933059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.746047,34.461995,-106.746047,34.461995",
     "geom:latitude":34.461995,
     "geom:longitude":-106.746047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Romero Dr",
     "sg:city":"Veguita",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202933059,
-    "wof:lastmodified":1449060629,
+    "wof:lastmodified":1466700338,
     "wof:name":"Ramirez Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-106.746047,34.461995,-106.746047,34.461995],
+  "bbox": [
+    -106.746047,
+    34.461995,
+    -106.746047,
+    34.461995
+],
   "geometry": {"coordinates":[-106.746047,34.461995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186434927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.706329,34.870027,-106.706329,34.870027",
     "geom:latitude":34.870027,
     "geom:longitude":-106.706329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 del Norte Ct",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186434927,
-    "wof:lastmodified":1449050979,
+    "wof:lastmodified":1466700090,
     "wof:name":"Continental Restaurant Inc",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.706329,34.870027,-106.706329,34.870027],
+  "bbox": [
+    -106.706329,
+    34.870027,
+    -106.706329,
+    34.870027
+],
   "geometry": {"coordinates":[-106.706329,34.870027],"type":"Point"}
 }

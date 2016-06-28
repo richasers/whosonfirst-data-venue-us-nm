@@ -2,13 +2,14 @@
   "id": 202779457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.708371,34.776061,-106.708371,34.776061",
     "geom:latitude":34.776061,
     "geom:longitude":-106.708371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3218 State Hwy 47",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202779457,
-    "wof:lastmodified":1449060492,
+    "wof:lastmodified":1466699875,
     "wof:name":"Country Auto & Truck Corral",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.708371,34.776061,-106.708371,34.776061],
+  "bbox": [
+    -106.708371,
+    34.776061,
+    -106.708371,
+    34.776061
+],
   "geometry": {"coordinates":[-106.708371,34.776061],"type":"Point"}
 }

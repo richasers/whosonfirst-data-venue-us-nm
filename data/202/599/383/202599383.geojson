@@ -2,13 +2,14 @@
   "id": 202599383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.774505,34.660538,-106.774505,34.660538",
     "geom:latitude":34.660538,
     "geom:longitude":-106.774505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Becker Ave",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202599383,
-    "wof:lastmodified":1449061303,
+    "wof:lastmodified":1466698371,
     "wof:name":"Reggie Chavez",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.774505,34.660538,-106.774505,34.660538],
+  "bbox": [
+    -106.774505,
+    34.660538,
+    -106.774505,
+    34.660538
+],
   "geometry": {"coordinates":[-106.774505,34.660538],"type":"Point"}
 }

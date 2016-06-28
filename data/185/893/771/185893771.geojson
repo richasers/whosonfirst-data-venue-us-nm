@@ -2,13 +2,14 @@
   "id": 185893771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.351837,32.936601,-103.351837,32.936601",
     "geom:latitude":32.936601,
     "geom:longitude":-103.351837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 W Ave K",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185893771,
-    "wof:lastmodified":1449007924,
+    "wof:lastmodified":1466698450,
     "wof:name":"Spriteco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-103.351837,32.936601,-103.351837,32.936601],
+  "bbox": [
+    -103.351837,
+    32.936601,
+    -103.351837,
+    32.936601
+],
   "geometry": {"coordinates":[-103.351837,32.936601],"type":"Point"}
 }

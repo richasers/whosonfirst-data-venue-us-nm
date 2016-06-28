@@ -2,13 +2,14 @@
   "id": 353926133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.630887,35.081944,-106.630887,35.081944",
     "geom:latitude":35.081944,
     "geom:longitude":-106.630887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 Central Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353926133,
-    "wof:lastmodified":1449019145,
+    "wof:lastmodified":1466697892,
     "wof:name":"66 Diner",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "facility"
     ]
 },
-  "bbox": [-106.630887,35.081944,-106.630887,35.081944],
+  "bbox": [
+    -106.630887,
+    35.081944,
+    -106.630887,
+    35.081944
+],
   "geometry": {"coordinates":[-106.630887,35.081944],"type":"Point"}
 }

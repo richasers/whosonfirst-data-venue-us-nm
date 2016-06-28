@@ -2,13 +2,14 @@
   "id": 202601485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.962787,35.671936,-105.962787,35.671936",
     "geom:latitude":35.671936,
     "geom:longitude":-105.962787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1339 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202601485,
-    "wof:lastmodified":1449061257,
+    "wof:lastmodified":1466698398,
     "wof:name":"Carrillo & Assoc",
     "wof:parent_id":85880783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-105.962787,35.671936,-105.962787,35.671936],
-  "geometry": {"coordinates":[-105.962787,35.671936],"type":"Point"}
+  "bbox": [
+    -105.962787,
+    35.671936,
+    -105.962787,
+    35.671936
+],
+  "geometry": {"coordinates":[-105.96278700000001,35.671936],"type":"Point"}
 }

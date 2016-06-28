@@ -2,13 +2,14 @@
   "id": 169853707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.983661,36.854963,-107.983661,36.854963",
     "geom:latitude":36.854963,
     "geom:longitude":-107.983661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Rd 2900",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169853707,
-    "wof:lastmodified":1449034011,
+    "wof:lastmodified":1466698895,
     "wof:name":"Freelance Writer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.983661,36.854963,-107.983661,36.854963],
+  "bbox": [
+    -107.983661,
+    36.854963,
+    -107.983661,
+    36.854963
+],
   "geometry": {"coordinates":[-107.983661,36.854963],"type":"Point"}
 }

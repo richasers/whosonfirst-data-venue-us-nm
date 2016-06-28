@@ -2,13 +2,14 @@
   "id": 202512301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.612043,35.079093,-106.612043,35.079093",
     "geom:latitude":35.079093,
     "geom:longitude":-106.612043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Dartmouth Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202512301,
-    "wof:lastmodified":1449061945,
+    "wof:lastmodified":1466699209,
     "wof:name":"Youth Development Inc",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-106.612043,35.079093,-106.612043,35.079093],
+  "bbox": [
+    -106.612043,
+    35.079093,
+    -106.612043,
+    35.079093
+],
   "geometry": {"coordinates":[-106.612043,35.079093],"type":"Point"}
 }

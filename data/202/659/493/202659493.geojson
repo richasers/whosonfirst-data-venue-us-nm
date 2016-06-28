@@ -2,13 +2,14 @@
   "id": 202659493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.843858,35.157691,-107.843858,35.157691",
     "geom:latitude":35.157691,
     "geom:longitude":-107.843858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 1st St",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202659493,
-    "wof:lastmodified":1449060378,
+    "wof:lastmodified":1466699278,
     "wof:name":"Esparza Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-107.843858,35.157691,-107.843858,35.157691],
+  "bbox": [
+    -107.843858,
+    35.157691,
+    -107.843858,
+    35.157691
+],
   "geometry": {"coordinates":[-107.843858,35.157691],"type":"Point"}
 }

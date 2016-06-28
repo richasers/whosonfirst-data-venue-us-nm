@@ -2,13 +2,14 @@
   "id": 202660175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.528395,35.090447,-106.528395,35.090447",
     "geom:latitude":35.090447,
     "geom:longitude":-106.528395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1076 Betts St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202660175,
-    "wof:lastmodified":1449062383,
+    "wof:lastmodified":1466699286,
     "wof:name":"Irma Gonzales",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-106.528395,35.090447,-106.528395,35.090447],
+  "bbox": [
+    -106.528395,
+    35.090447,
+    -106.528395,
+    35.090447
+],
   "geometry": {"coordinates":[-106.528395,35.090447],"type":"Point"}
 }

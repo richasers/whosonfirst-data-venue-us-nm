@@ -2,13 +2,14 @@
   "id": 202832077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.673913,35.198214,-106.673913,35.198214",
     "geom:latitude":35.198214,
     "geom:longitude":-106.673913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4418 Snowflake Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202832077,
-    "wof:lastmodified":1449060119,
+    "wof:lastmodified":1466700251,
     "wof:name":"E G Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-106.673913,35.198214,-106.673913,35.198214],
+  "bbox": [
+    -106.673913,
+    35.198214,
+    -106.673913,
+    35.198214
+],
   "geometry": {"coordinates":[-106.673913,35.198214],"type":"Point"}
 }

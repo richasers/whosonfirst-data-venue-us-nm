@@ -2,13 +2,14 @@
   "id": 202689921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.210488,34.427861,-103.210488,34.427861",
     "geom:latitude":34.427861,
     "geom:longitude":-103.210488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3116 Smith Ave",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202689921,
-    "wof:lastmodified":1449062237,
+    "wof:lastmodified":1466699445,
     "wof:name":"B F P Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "computer"
     ]
 },
-  "bbox": [-103.210488,34.427861,-103.210488,34.427861],
+  "bbox": [
+    -103.210488,
+    34.427861,
+    -103.210488,
+    34.427861
+],
   "geometry": {"coordinates":[-103.210488,34.427861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202794081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.683251,34.778443,-106.683251,34.778443",
     "geom:latitude":34.778443,
     "geom:longitude":-106.683251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Bloom-N-Shine Rd",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202794081,
-    "wof:lastmodified":1449061346,
+    "wof:lastmodified":1466699838,
     "wof:name":"Rock Construction",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.683251,34.778443,-106.683251,34.778443],
+  "bbox": [
+    -106.683251,
+    34.778443,
+    -106.683251,
+    34.778443
+],
   "geometry": {"coordinates":[-106.683251,34.778443],"type":"Point"}
 }

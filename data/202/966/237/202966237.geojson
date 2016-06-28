@@ -2,13 +2,14 @@
   "id": 202966237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.965645,35.687845,-105.965645,35.687845",
     "geom:latitude":35.687845,
     "geom:longitude":-105.965645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Temblon St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202966237,
-    "wof:lastmodified":1449060125,
+    "wof:lastmodified":1466700625,
     "wof:name":"Francisco Transport Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-105.965645,35.687845,-105.965645,35.687845],
-  "geometry": {"coordinates":[-105.965645,35.687845],"type":"Point"}
+  "bbox": [
+    -105.965645,
+    35.687845,
+    -105.965645,
+    35.687845
+],
+  "geometry": {"coordinates":[-105.96564499999999,35.687845],"type":"Point"}
 }

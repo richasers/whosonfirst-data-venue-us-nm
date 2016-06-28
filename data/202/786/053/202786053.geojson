@@ -2,13 +2,14 @@
   "id": 202786053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.647657,35.172931,-106.647657,35.172931",
     "geom:latitude":35.172931,
     "geom:longitude":-106.647657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7601 Rio Grande Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202786053,
-    "wof:lastmodified":1449060434,
+    "wof:lastmodified":1466699937,
     "wof:name":"Valencia Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-106.647657,35.172931,-106.647657,35.172931],
+  "bbox": [
+    -106.647657,
+    35.172931,
+    -106.647657,
+    35.172931
+],
   "geometry": {"coordinates":[-106.647657,35.172931],"type":"Point"}
 }

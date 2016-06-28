@@ -2,13 +2,14 @@
   "id": 186270881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.635155,35.17039,-106.635155,35.17039",
     "geom:latitude":35.17039,
     "geom:longitude":-106.635155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7822 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186270881,
-    "wof:lastmodified":1449050894,
+    "wof:lastmodified":1466698928,
     "wof:name":"C J's Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-106.635155,35.17039,-106.635155,35.17039],
+  "bbox": [
+    -106.635155,
+    35.17039,
+    -106.635155,
+    35.17039
+],
   "geometry": {"coordinates":[-106.635155,35.17039],"type":"Point"}
 }

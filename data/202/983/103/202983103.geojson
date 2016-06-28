@@ -2,13 +2,14 @@
   "id": 202983103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.263091,32.433697,-104.263091,32.433697",
     "geom:latitude":32.433697,
     "geom:longitude":-104.263091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2806 Garden St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":202983103,
-    "wof:lastmodified":1449062444,
+    "wof:lastmodified":1466700601,
     "wof:name":"Garden Street Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.263091,32.433697,-104.263091,32.433697],
+  "bbox": [
+    -104.263091,
+    32.433697,
+    -104.263091,
+    32.433697
+],
   "geometry": {"coordinates":[-104.263091,32.433697],"type":"Point"}
 }

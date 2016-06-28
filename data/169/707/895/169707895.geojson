@@ -2,13 +2,14 @@
   "id": 169707895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.704307,35.068614,-106.704307,35.068614",
     "geom:latitude":35.068614,
     "geom:longitude":-106.704307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3124 Bridge Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169707895,
-    "wof:lastmodified":1449035440,
+    "wof:lastmodified":1466697659,
     "wof:name":"Camino Real Wrought Iron Works",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "work"
     ]
 },
-  "bbox": [-106.704307,35.068614,-106.704307,35.068614],
+  "bbox": [
+    -106.704307,
+    35.068614,
+    -106.704307,
+    35.068614
+],
   "geometry": {"coordinates":[-106.704307,35.068614],"type":"Point"}
 }

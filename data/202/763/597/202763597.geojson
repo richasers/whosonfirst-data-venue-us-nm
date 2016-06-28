@@ -2,13 +2,14 @@
   "id": 202763597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.875518,33.642579,-105.875518,33.642579",
     "geom:latitude":33.642579,
     "geom:longitude":-105.875518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 12th St",
     "sg:city":"Carrizozo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202763597,
-    "wof:lastmodified":1449062638,
+    "wof:lastmodified":1466699831,
     "wof:name":"Lincoln County Abstract-Title",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "title"
     ]
 },
-  "bbox": [-105.875518,33.642579,-105.875518,33.642579],
+  "bbox": [
+    -105.875518,
+    33.642579,
+    -105.875518,
+    33.642579
+],
   "geometry": {"coordinates":[-105.875518,33.642579],"type":"Point"}
 }

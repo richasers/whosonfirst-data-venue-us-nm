@@ -2,13 +2,14 @@
   "id": 202552669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.631679,35.061889,-106.631679,35.061889",
     "geom:latitude":35.061889,
     "geom:longitude":-106.631679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 University Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202552669,
-    "wof:lastmodified":1449061172,
+    "wof:lastmodified":1466697679,
     "wof:name":"Office Child & Family Dev",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-106.631679,35.061889,-106.631679,35.061889],
-  "geometry": {"coordinates":[-106.631679,35.061889],"type":"Point"}
+  "bbox": [
+    -106.631679,
+    35.061889,
+    -106.631679,
+    35.061889
+],
+  "geometry": {"coordinates":[-106.63167900000001,35.061889],"type":"Point"}
 }

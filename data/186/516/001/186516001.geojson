@@ -2,13 +2,14 @@
   "id": 186516001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.139917,36.792428,-108.139917,36.792428",
     "geom:latitude":36.792428,
     "geom:longitude":-108.139917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 Johnson Ter",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186516001,
-    "wof:lastmodified":1449050918,
+    "wof:lastmodified":1466700175,
     "wof:name":"Road Apple Rally Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-108.139917,36.792428,-108.139917,36.792428],
+  "bbox": [
+    -108.139917,
+    36.792428,
+    -108.139917,
+    36.792428
+],
   "geometry": {"coordinates":[-108.139917,36.792428],"type":"Point"}
 }

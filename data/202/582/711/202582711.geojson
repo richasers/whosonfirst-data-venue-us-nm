@@ -2,13 +2,14 @@
   "id": 202582711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.166203,36.776802,-108.166203,36.776802",
     "geom:latitude":36.776802,
     "geom:longitude":-108.166203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5101 College Blvd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202582711,
-    "wof:lastmodified":1449061480,
+    "wof:lastmodified":1466698132,
     "wof:name":"Procurement Assistance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-108.166203,36.776802,-108.166203,36.776802],
+  "bbox": [
+    -108.166203,
+    36.776802,
+    -108.166203,
+    36.776802
+],
   "geometry": {"coordinates":[-108.166203,36.776802],"type":"Point"}
 }

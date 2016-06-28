@@ -2,13 +2,14 @@
   "id": 185823815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638935,35.151194,-106.638935,35.151194",
     "geom:latitude":35.151194,
     "geom:longitude":-106.638935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6463 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185823815,
-    "wof:lastmodified":1449008179,
+    "wof:lastmodified":1466697724,
     "wof:name":"Martha Marty At M M Hair Nails",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.638935,35.151194,-106.638935,35.151194],
+  "bbox": [
+    -106.638935,
+    35.151194,
+    -106.638935,
+    35.151194
+],
   "geometry": {"coordinates":[-106.638935,35.151194],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203007695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.796612,32.312036,-106.796612,32.312036",
     "geom:latitude":32.312036,
     "geom:longitude":-106.796612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"765 N Valley Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203007695,
-    "wof:lastmodified":1449026519,
+    "wof:lastmodified":1466697668,
     "wof:name":"Maloolys Carpet City",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.796612,32.312036,-106.796612,32.312036],
+  "bbox": [
+    -106.796612,
+    32.312036,
+    -106.796612,
+    32.312036
+],
   "geometry": {"coordinates":[-106.796612,32.312036],"type":"Point"}
 }

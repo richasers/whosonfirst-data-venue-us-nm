@@ -2,13 +2,14 @@
   "id": 186590499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.694942,35.155871,-106.694942,35.155871",
     "geom:latitude":35.155871,
     "geom:longitude":-106.694942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4925 Kachina St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186590499,
-    "wof:lastmodified":1449051966,
+    "wof:lastmodified":1466700609,
     "wof:name":"Artistic Internet Svc",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "design"
     ]
 },
-  "bbox": [-106.694942,35.155871,-106.694942,35.155871],
+  "bbox": [
+    -106.694942,
+    35.155871,
+    -106.694942,
+    35.155871
+],
   "geometry": {"coordinates":[-106.694942,35.155871],"type":"Point"}
 }

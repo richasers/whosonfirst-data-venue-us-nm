@@ -2,13 +2,14 @@
   "id": 202800733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.658248,35.027372,-106.658248,35.027372",
     "geom:latitude":35.027372,
     "geom:longitude":-106.658248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3611 2nd St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202800733,
-    "wof:lastmodified":1449060312,
+    "wof:lastmodified":1466699976,
     "wof:name":"Pats Door Inc",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-106.658248,35.027372,-106.658248,35.027372],
+  "bbox": [
+    -106.658248,
+    35.027372,
+    -106.658248,
+    35.027372
+],
   "geometry": {"coordinates":[-106.658248,35.027372],"type":"Point"}
 }

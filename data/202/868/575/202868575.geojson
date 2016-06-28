@@ -2,13 +2,14 @@
   "id": 202868575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.555921,35.109129,-106.555921,35.109129",
     "geom:latitude":35.109129,
     "geom:longitude":-106.555921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7908 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202868575,
-    "wof:lastmodified":1449060210,
+    "wof:lastmodified":1466700256,
     "wof:name":"PMI Funding Corp",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-106.555921,35.109129,-106.555921,35.109129],
+  "bbox": [
+    -106.555921,
+    35.109129,
+    -106.555921,
+    35.109129
+],
   "geometry": {"coordinates":[-106.555921,35.109129],"type":"Point"}
 }

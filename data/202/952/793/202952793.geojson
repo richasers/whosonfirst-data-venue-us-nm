@@ -2,13 +2,14 @@
   "id": 202952793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.321889,35.188521,-106.321889,35.188521",
     "geom:latitude":35.188521,
     "geom:longitude":-106.321889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Chaco Loop",
     "sg:city":"Sandia Park",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202952793,
-    "wof:lastmodified":1449061927,
+    "wof:lastmodified":1466700452,
     "wof:name":"Parker-Young",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.321889,35.188521,-106.321889,35.188521],
+  "bbox": [
+    -106.321889,
+    35.188521,
+    -106.321889,
+    35.188521
+],
   "geometry": {"coordinates":[-106.321889,35.188521],"type":"Point"}
 }

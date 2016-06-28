@@ -2,13 +2,14 @@
   "id": 202421669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.826979,32.36472,-106.826979,32.36472",
     "geom:latitude":32.36472,
     "geom:longitude":-106.826979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4915 Raevin Ct",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202421669,
-    "wof:lastmodified":1449061698,
+    "wof:lastmodified":1466698215,
     "wof:name":"Sandoval Homes Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "home"
     ]
 },
-  "bbox": [-106.826979,32.36472,-106.826979,32.36472],
-  "geometry": {"coordinates":[-106.826979,32.36472],"type":"Point"}
+  "bbox": [
+    -106.826979,
+    32.36472,
+    -106.826979,
+    32.36472
+],
+  "geometry": {"coordinates":[-106.82697899999999,32.36472],"type":"Point"}
 }

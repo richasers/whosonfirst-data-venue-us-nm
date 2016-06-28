@@ -2,13 +2,14 @@
   "id": 186465385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.786599,32.298812,-106.786599,32.298812",
     "geom:latitude":32.298812,
     "geom:longitude":-106.786599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 W Brown Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186465385,
-    "wof:lastmodified":1449052173,
+    "wof:lastmodified":1466700093,
     "wof:name":"Ambriz Countertops & Spec",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counter"
     ]
 },
-  "bbox": [-106.786599,32.298812,-106.786599,32.298812],
+  "bbox": [
+    -106.786599,
+    32.298812,
+    -106.786599,
+    32.298812
+],
   "geometry": {"coordinates":[-106.786599,32.298812],"type":"Point"}
 }

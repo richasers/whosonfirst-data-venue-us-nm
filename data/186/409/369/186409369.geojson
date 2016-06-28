@@ -2,13 +2,14 @@
   "id": 186409369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638048,35.250524,-106.638048,35.250524",
     "geom:latitude":35.250524,
     "geom:longitude":-106.638048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Villa Verde Dr SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186409369,
-    "wof:lastmodified":1449051481,
+    "wof:lastmodified":1466699770,
     "wof:name":"Price-Canright Studios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "typesetting"
     ]
 },
-  "bbox": [-106.638048,35.250524,-106.638048,35.250524],
+  "bbox": [
+    -106.638048,
+    35.250524,
+    -106.638048,
+    35.250524
+],
   "geometry": {"coordinates":[-106.638048,35.250524],"type":"Point"}
 }

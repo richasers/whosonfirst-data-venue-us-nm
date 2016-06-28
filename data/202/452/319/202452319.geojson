@@ -2,13 +2,14 @@
   "id": 202452319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.725758,32.273581,-106.725758,32.273581",
     "geom:latitude":32.273581,
     "geom:longitude":-106.725758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4825 Senita Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202452319,
-    "wof:lastmodified":1449060705,
+    "wof:lastmodified":1466698564,
     "wof:name":"Rex Piper",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-106.725758,32.273581,-106.725758,32.273581],
+  "bbox": [
+    -106.725758,
+    32.273581,
+    -106.725758,
+    32.273581
+],
   "geometry": {"coordinates":[-106.725758,32.273581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202920487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.746074,34.802654,-106.746074,34.802654",
     "geom:latitude":34.802654,
     "geom:longitude":-106.746074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 Penny Ln",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202920487,
-    "wof:lastmodified":1449062083,
+    "wof:lastmodified":1466700436,
     "wof:name":"Sundancer Alpacas LLC",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cotton"
     ]
 },
-  "bbox": [-106.746074,34.802654,-106.746074,34.802654],
-  "geometry": {"coordinates":[-106.746074,34.802654],"type":"Point"}
+  "bbox": [
+    -106.746074,
+    34.802654,
+    -106.746074,
+    34.802654
+],
+  "geometry": {"coordinates":[-106.74607399999999,34.802654],"type":"Point"}
 }

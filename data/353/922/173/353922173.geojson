@@ -2,13 +2,14 @@
   "id": 353922173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.653037,35.076828,-106.653037,35.076828",
     "geom:latitude":35.076828,
     "geom:longitude":-106.653037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 4th St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":353922173,
-    "wof:lastmodified":1449018491,
+    "wof:lastmodified":1466697786,
     "wof:name":"Potters House Christian Ctr",
     "wof:parent_id":85804483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.653037,35.076828,-106.653037,35.076828],
+  "bbox": [
+    -106.653037,
+    35.076828,
+    -106.653037,
+    35.076828
+],
   "geometry": {"coordinates":[-106.653037,35.076828],"type":"Point"}
 }

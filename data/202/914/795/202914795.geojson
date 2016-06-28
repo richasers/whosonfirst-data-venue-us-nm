@@ -2,13 +2,14 @@
   "id": 202914795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.778813,34.655001,-106.778813,34.655001",
     "geom:latitude":34.655001,
     "geom:longitude":-106.778813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 S Main St",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202914795,
-    "wof:lastmodified":1449061081,
+    "wof:lastmodified":1466700420,
     "wof:name":"Al's Mini Mart & Liquor Shoppe",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.778813,34.655001,-106.778813,34.655001],
+  "bbox": [
+    -106.778813,
+    34.655001,
+    -106.778813,
+    34.655001
+],
   "geometry": {"coordinates":[-106.778813,34.655001],"type":"Point"}
 }

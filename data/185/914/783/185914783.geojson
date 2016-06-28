@@ -2,13 +2,14 @@
   "id": 185914783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.61606,35.061304,-106.61606,35.061304",
     "geom:latitude":35.061304,
     "geom:longitude":-106.61606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 Columbia Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185914783,
-    "wof:lastmodified":1449007219,
+    "wof:lastmodified":1466698729,
     "wof:name":"Parents Rching Out To Help Inc",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.61606,35.061304,-106.61606,35.061304],
+  "bbox": [
+    -106.61606,
+    35.061304,
+    -106.61606,
+    35.061304
+],
   "geometry": {"coordinates":[-106.61606,35.061304],"type":"Point"}
 }

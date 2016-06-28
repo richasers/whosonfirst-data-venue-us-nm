@@ -2,13 +2,14 @@
   "id": 186515935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550465,35.083594,-106.550465,35.083594",
     "geom:latitude":35.083594,
     "geom:longitude":-106.550465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186515935,
-    "wof:lastmodified":1449051025,
+    "wof:lastmodified":1466700174,
     "wof:name":"Le Floor Decor",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rug"
     ]
 },
-  "bbox": [-106.550465,35.083594,-106.550465,35.083594],
+  "bbox": [
+    -106.550465,
+    35.083594,
+    -106.550465,
+    35.083594
+],
   "geometry": {"coordinates":[-106.550465,35.083594],"type":"Point"}
 }

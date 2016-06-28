@@ -2,13 +2,14 @@
   "id": 186032791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.168107,32.768834,-103.168107,32.768834",
     "geom:latitude":32.768834,
     "geom:longitude":-103.168107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6009 N Eugenia Ln",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186032791,
-    "wof:lastmodified":1449051691,
+    "wof:lastmodified":1466698055,
     "wof:name":"Brad Hamilton Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-103.168107,32.768834,-103.168107,32.768834],
-  "geometry": {"coordinates":[-103.168107,32.768834],"type":"Point"}
+  "bbox": [
+    -103.168107,
+    32.768834,
+    -103.168107,
+    32.768834
+],
+  "geometry": {"coordinates":[-103.16810700000001,32.768834],"type":"Point"}
 }

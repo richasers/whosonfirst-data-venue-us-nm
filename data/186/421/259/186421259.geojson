@@ -2,13 +2,14 @@
   "id": 186421259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.596223,35.067378,-106.596223,35.067378",
     "geom:latitude":35.067378,
     "geom:longitude":-106.596223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 Idlewilde Ln SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186421259,
-    "wof:lastmodified":1449052080,
+    "wof:lastmodified":1466699934,
     "wof:name":"Thomson & Associates",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-106.596223,35.067378,-106.596223,35.067378],
-  "geometry": {"coordinates":[-106.596223,35.067378],"type":"Point"}
+  "bbox": [
+    -106.596223,
+    35.067378,
+    -106.596223,
+    35.067378
+],
+  "geometry": {"coordinates":[-106.59622299999999,35.067378],"type":"Point"}
 }

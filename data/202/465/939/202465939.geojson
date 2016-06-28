@@ -2,13 +2,14 @@
   "id": 202465939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.78758,32.310535,-106.78758,32.310535",
     "geom:latitude":32.310535,
     "geom:longitude":-106.78758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 N Mesilla St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202465939,
-    "wof:lastmodified":1449061795,
+    "wof:lastmodified":1466698723,
     "wof:name":"Almvig Enterprises",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-106.78758,32.310535,-106.78758,32.310535],
-  "geometry": {"coordinates":[-106.78758,32.310535],"type":"Point"}
+  "bbox": [
+    -106.78758,
+    32.310535,
+    -106.78758,
+    32.310535
+],
+  "geometry": {"coordinates":[-106.78758000000001,32.310535],"type":"Point"}
 }

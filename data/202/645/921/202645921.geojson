@@ -2,13 +2,14 @@
   "id": 202645921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.515412,35.10599,-106.515412,35.10599",
     "geom:latitude":35.10599,
     "geom:longitude":-106.515412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 Juan Tabo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202645921,
-    "wof:lastmodified":1449060369,
+    "wof:lastmodified":1466699078,
     "wof:name":"Mariachi Restaurant",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.515412,35.10599,-106.515412,35.10599],
+  "bbox": [
+    -106.515412,
+    35.10599,
+    -106.515412,
+    35.10599
+],
   "geometry": {"coordinates":[-106.515412,35.10599],"type":"Point"}
 }

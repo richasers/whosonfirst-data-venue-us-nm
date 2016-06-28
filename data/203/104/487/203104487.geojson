@@ -2,13 +2,14 @@
   "id": 203104487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.576246,35.0927,-106.576246,35.0927",
     "geom:latitude":35.0927,
     "geom:longitude":-106.576246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 Summer Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203104487,
-    "wof:lastmodified":1449025704,
+    "wof:lastmodified":1466698780,
     "wof:name":"Mitchell Sarah G Lisw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychotherapist"
     ]
 },
-  "bbox": [-106.576246,35.0927,-106.576246,35.0927],
+  "bbox": [
+    -106.576246,
+    35.0927,
+    -106.576246,
+    35.0927
+],
   "geometry": {"coordinates":[-106.576246,35.0927],"type":"Point"}
 }

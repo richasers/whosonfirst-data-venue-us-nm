@@ -2,13 +2,14 @@
   "id": 203030141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.877927,33.645486,-105.877927,33.645486",
     "geom:latitude":33.645486,
     "geom:longitude":-105.877927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 E Ave",
     "sg:city":"Carrizozo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203030141,
-    "wof:lastmodified":1449025614,
+    "wof:lastmodified":1466697924,
     "wof:name":"New Horizons Developmental Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "special"
     ]
 },
-  "bbox": [-105.877927,33.645486,-105.877927,33.645486],
+  "bbox": [
+    -105.877927,
+    33.645486,
+    -105.877927,
+    33.645486
+],
   "geometry": {"coordinates":[-105.877927,33.645486],"type":"Point"}
 }

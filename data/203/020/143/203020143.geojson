@@ -2,13 +2,14 @@
   "id": 203020143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.951774,35.658666,-105.951774,35.658666",
     "geom:latitude":35.658666,
     "geom:longitude":-105.951774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"460 Saint Michaels Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203020143,
-    "wof:lastmodified":1449025800,
+    "wof:lastmodified":1466697819,
     "wof:name":"El Sueno Del Corazon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.951774,35.658666,-105.951774,35.658666],
+  "bbox": [
+    -105.951774,
+    35.658666,
+    -105.951774,
+    35.658666
+],
   "geometry": {"coordinates":[-105.951774,35.658666],"type":"Point"}
 }

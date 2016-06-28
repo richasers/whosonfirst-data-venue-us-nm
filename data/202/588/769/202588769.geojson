@@ -2,13 +2,14 @@
   "id": 202588769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.703506,35.061237,-106.703506,35.061237",
     "geom:latitude":35.061237,
     "geom:longitude":-106.703506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 Rosendo Garcia Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202588769,
-    "wof:lastmodified":1449062167,
+    "wof:lastmodified":1466698222,
     "wof:name":"Rio Grande Lath & Plaster",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.703506,35.061237,-106.703506,35.061237],
+  "bbox": [
+    -106.703506,
+    35.061237,
+    -106.703506,
+    35.061237
+],
   "geometry": {"coordinates":[-106.703506,35.061237],"type":"Point"}
 }

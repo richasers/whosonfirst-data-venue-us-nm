@@ -2,13 +2,14 @@
   "id": 186041793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.198043,34.41758,-103.198043,34.41758",
     "geom:latitude":34.41758,
     "geom:longitude":-103.198043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 Commerce Way",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186041793,
-    "wof:lastmodified":1449051354,
+    "wof:lastmodified":1466698152,
     "wof:name":"Crazy Sam's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-103.198043,34.41758,-103.198043,34.41758],
+  "bbox": [
+    -103.198043,
+    34.41758,
+    -103.198043,
+    34.41758
+],
   "geometry": {"coordinates":[-103.198043,34.41758],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185923625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.772116,35.517274,-108.772116,35.517274",
     "geom:latitude":35.517274,
     "geom:longitude":-108.772116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2021 Barbara Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185923625,
-    "wof:lastmodified":1449008139,
+    "wof:lastmodified":1466698856,
     "wof:name":"Bonney Family Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.772116,35.517274,-108.772116,35.517274],
+  "bbox": [
+    -108.772116,
+    35.517274,
+    -108.772116,
+    35.517274
+],
   "geometry": {"coordinates":[-108.772116,35.517274],"type":"Point"}
 }

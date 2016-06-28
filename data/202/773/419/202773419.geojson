@@ -2,13 +2,14 @@
   "id": 202773419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.756511,35.529122,-108.756511,35.529122",
     "geom:latitude":35.529122,
     "geom:longitude":-108.756511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 W Maloney Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202773419,
-    "wof:lastmodified":1449060425,
+    "wof:lastmodified":1466699850,
     "wof:name":"Cash In A Flash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "loan"
     ]
 },
-  "bbox": [-108.756511,35.529122,-108.756511,35.529122],
+  "bbox": [
+    -108.756511,
+    35.529122,
+    -108.756511,
+    35.529122
+],
   "geometry": {"coordinates":[-108.756511,35.529122],"type":"Point"}
 }

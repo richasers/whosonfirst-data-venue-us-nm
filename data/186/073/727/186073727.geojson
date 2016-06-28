@@ -2,13 +2,14 @@
   "id": 186073727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.440209,33.306179,-104.440209,33.306179",
     "geom:latitude":33.306179,
     "geom:longitude":-104.440209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3763 E Crossroads",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186073727,
-    "wof:lastmodified":1449050720,
+    "wof:lastmodified":1466698562,
     "wof:name":"Felix Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-104.440209,33.306179,-104.440209,33.306179],
+  "bbox": [
+    -104.440209,
+    33.306179,
+    -104.440209,
+    33.306179
+],
   "geometry": {"coordinates":[-104.440209,33.306179],"type":"Point"}
 }

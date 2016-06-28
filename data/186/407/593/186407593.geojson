@@ -2,13 +2,14 @@
   "id": 186407593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.982492,35.257729,-107.982492,35.257729",
     "geom:latitude":35.257729,
     "geom:longitude":-107.982492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Oak St",
     "sg:city":"Bluewater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186407593,
-    "wof:lastmodified":1449051868,
+    "wof:lastmodified":1466699993,
     "wof:name":"Hassell Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-107.982492,35.257729,-107.982492,35.257729],
-  "geometry": {"coordinates":[-107.982492,35.257729],"type":"Point"}
+  "bbox": [
+    -107.982492,
+    35.257729,
+    -107.982492,
+    35.257729
+],
+  "geometry": {"coordinates":[-107.98249199999999,35.257729],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186356775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.78043,32.289659,-106.78043,32.289659",
     "geom:latitude":32.289659,
     "geom:longitude":-106.78043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Cotorro Ct",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186356775,
-    "wof:lastmodified":1449052534,
+    "wof:lastmodified":1466699698,
     "wof:name":"Worker's Compensation Adm",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "resource"
     ]
 },
-  "bbox": [-106.78043,32.289659,-106.78043,32.289659],
+  "bbox": [
+    -106.78043,
+    32.289659,
+    -106.78043,
+    32.289659
+],
   "geometry": {"coordinates":[-106.78043,32.289659],"type":"Point"}
 }

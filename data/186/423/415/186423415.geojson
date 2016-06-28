@@ -2,13 +2,14 @@
   "id": 186423415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.61513,35.113957,-106.61513,35.113957",
     "geom:latitude":35.113957,
     "geom:longitude":-106.61513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2828 Vassar Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186423415,
-    "wof:lastmodified":1449050856,
+    "wof:lastmodified":1466699814,
     "wof:name":"Monolith Printing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "commercial"
     ]
 },
-  "bbox": [-106.61513,35.113957,-106.61513,35.113957],
-  "geometry": {"coordinates":[-106.61513,35.113957],"type":"Point"}
+  "bbox": [
+    -106.61513,
+    35.113957,
+    -106.61513,
+    35.113957
+],
+  "geometry": {"coordinates":[-106.61512999999999,35.113957],"type":"Point"}
 }

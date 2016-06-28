@@ -2,13 +2,14 @@
   "id": 202787567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.948399,35.674183,-105.948399,35.674183",
     "geom:latitude":35.674183,
     "geom:longitude":-105.948399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1037 Don Diego Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202787567,
-    "wof:lastmodified":1449061280,
+    "wof:lastmodified":1466699946,
     "wof:name":"Mai Ting MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-105.948399,35.674183,-105.948399,35.674183],
-  "geometry": {"coordinates":[-105.948399,35.674183],"type":"Point"}
+  "bbox": [
+    -105.948399,
+    35.674183,
+    -105.948399,
+    35.674183
+],
+  "geometry": {"coordinates":[-105.94839899999999,35.674183],"type":"Point"}
 }

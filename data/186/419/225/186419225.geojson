@@ -2,13 +2,14 @@
   "id": 186419225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.54113,35.299967,-106.54113,35.299967",
     "geom:latitude":35.299967,
     "geom:longitude":-106.54113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"884 S Hill Rd",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186419225,
-    "wof:lastmodified":1449052982,
+    "wof:lastmodified":1466699917,
     "wof:name":"Bernalillo Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-106.54113,35.299967,-106.54113,35.299967],
+  "bbox": [
+    -106.54113,
+    35.299967,
+    -106.54113,
+    35.299967
+],
   "geometry": {"coordinates":[-106.54113,35.299967],"type":"Point"}
 }

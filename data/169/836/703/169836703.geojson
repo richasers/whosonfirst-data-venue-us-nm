@@ -2,13 +2,14 @@
   "id": 169836703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.762886,34.702189,-106.762886,34.702189",
     "geom:latitude":34.702189,
     "geom:longitude":-106.762886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19499 State Hwy 314",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169836703,
-    "wof:lastmodified":1449034868,
+    "wof:lastmodified":1466698848,
     "wof:name":"Jane Rael",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-106.762886,34.702189,-106.762886,34.702189],
-  "geometry": {"coordinates":[-106.762886,34.702189],"type":"Point"}
+  "bbox": [
+    -106.762886,
+    34.702189,
+    -106.762886,
+    34.702189
+],
+  "geometry": {"coordinates":[-106.76288599999999,34.702189],"type":"Point"}
 }

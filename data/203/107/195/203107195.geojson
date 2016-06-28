@@ -2,13 +2,14 @@
   "id": 203107195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.58655,35.131524,-106.58655,35.131524",
     "geom:latitude":35.131524,
     "geom:longitude":-106.58655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4565 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203107195,
-    "wof:lastmodified":1449024948,
+    "wof:lastmodified":1466698805,
     "wof:name":"Goodman Reality Group",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.58655,35.131524,-106.58655,35.131524],
+  "bbox": [
+    -106.58655,
+    35.131524,
+    -106.58655,
+    35.131524
+],
   "geometry": {"coordinates":[-106.58655,35.131524],"type":"Point"}
 }

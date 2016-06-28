@@ -2,13 +2,14 @@
   "id": 186227193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.734472,34.801765,-106.734472,34.801765",
     "geom:latitude":34.801765,
     "geom:longitude":-106.734472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 Luna Ave SE",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186227193,
-    "wof:lastmodified":1449050981,
+    "wof:lastmodified":1466698360,
     "wof:name":"Metric Corp",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-106.734472,34.801765,-106.734472,34.801765],
+  "bbox": [
+    -106.734472,
+    34.801765,
+    -106.734472,
+    34.801765
+],
   "geometry": {"coordinates":[-106.734472,34.801765],"type":"Point"}
 }

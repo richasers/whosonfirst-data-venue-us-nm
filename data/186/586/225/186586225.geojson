@@ -2,13 +2,14 @@
   "id": 186586225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.507366,35.069427,-106.507366,35.069427",
     "geom:latitude":35.069427,
     "geom:longitude":-106.507366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12931 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186586225,
-    "wof:lastmodified":1449052713,
+    "wof:lastmodified":1466700711,
     "wof:name":"Assistive Technology",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-106.507366,35.069427,-106.507366,35.069427],
+  "bbox": [
+    -106.507366,
+    35.069427,
+    -106.507366,
+    35.069427
+],
   "geometry": {"coordinates":[-106.507366,35.069427],"type":"Point"}
 }

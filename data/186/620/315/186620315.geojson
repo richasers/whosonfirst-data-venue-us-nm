@@ -2,13 +2,14 @@
   "id": 186620315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.668776,35.122599,-106.668776,35.122599",
     "geom:latitude":35.122599,
     "geom:longitude":-106.668776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2825 Indian Farm Ln NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186620315,
-    "wof:lastmodified":1449052789,
+    "wof:lastmodified":1466700703,
     "wof:name":"Sunbelt Geophysics",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "geophysicist"
     ]
 },
-  "bbox": [-106.668776,35.122599,-106.668776,35.122599],
-  "geometry": {"coordinates":[-106.668776,35.122599],"type":"Point"}
+  "bbox": [
+    -106.668776,
+    35.122599,
+    -106.668776,
+    35.122599
+],
+  "geometry": {"coordinates":[-106.66877599999999,35.122599],"type":"Point"}
 }

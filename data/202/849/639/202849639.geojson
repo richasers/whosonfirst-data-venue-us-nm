@@ -2,13 +2,14 @@
   "id": 202849639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613139,35.094048,-106.613139,35.094048",
     "geom:latitude":35.094048,
     "geom:longitude":-106.613139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1137 Girard Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202849639,
-    "wof:lastmodified":1449060578,
+    "wof:lastmodified":1466700051,
     "wof:name":"Anastasia Nellos",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-106.613139,35.094048,-106.613139,35.094048],
+  "bbox": [
+    -106.613139,
+    35.094048,
+    -106.613139,
+    35.094048
+],
   "geometry": {"coordinates":[-106.613139,35.094048],"type":"Point"}
 }

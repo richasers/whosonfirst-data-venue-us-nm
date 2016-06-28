@@ -2,13 +2,14 @@
   "id": 169790965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.662019,35.029689,-106.662019,35.029689",
     "geom:latitude":35.029689,
     "geom:longitude":-106.662019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Rossmoor Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169790965,
-    "wof:lastmodified":1449035188,
+    "wof:lastmodified":1466698497,
     "wof:name":"Priester Supply Co Inc",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "building"
     ]
 },
-  "bbox": [-106.662019,35.029689,-106.662019,35.029689],
+  "bbox": [
+    -106.662019,
+    35.029689,
+    -106.662019,
+    35.029689
+],
   "geometry": {"coordinates":[-106.662019,35.029689],"type":"Point"}
 }

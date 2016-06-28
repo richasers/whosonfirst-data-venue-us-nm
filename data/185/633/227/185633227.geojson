@@ -2,13 +2,14 @@
   "id": 185633227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.64148,35.080338,-106.64148,35.080338",
     "geom:latitude":35.080338,
     "geom:longitude":-106.64148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Walter St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185633227,
-    "wof:lastmodified":1449008183,
+    "wof:lastmodified":1466697962,
     "wof:name":"Eileen M Garvin Editor",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "writer"
     ]
 },
-  "bbox": [-106.64148,35.080338,-106.64148,35.080338],
+  "bbox": [
+    -106.64148,
+    35.080338,
+    -106.64148,
+    35.080338
+],
   "geometry": {"coordinates":[-106.64148,35.080338],"type":"Point"}
 }

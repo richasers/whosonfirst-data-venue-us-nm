@@ -2,13 +2,14 @@
   "id": 169701475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.539344,35.074207,-106.539344,35.074207",
     "geom:latitude":35.074207,
     "geom:longitude":-106.539344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Altez St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169701475,
-    "wof:lastmodified":1449035271,
+    "wof:lastmodified":1466697611,
     "wof:name":"Mark & Son Mfg",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-106.539344,35.074207,-106.539344,35.074207],
+  "bbox": [
+    -106.539344,
+    35.074207,
+    -106.539344,
+    35.074207
+],
   "geometry": {"coordinates":[-106.539344,35.074207],"type":"Point"}
 }

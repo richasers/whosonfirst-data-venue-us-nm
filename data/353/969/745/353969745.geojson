@@ -2,13 +2,14 @@
   "id": 353969745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.820509,35.507415,-108.820509,35.507415",
     "geom:latitude":35.507415,
     "geom:longitude":-108.820509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 W Historic Highway 66",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353969745,
-    "wof:lastmodified":1449018871,
+    "wof:lastmodified":1466698992,
     "wof:name":"U-Haul Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "truck"
     ]
 },
-  "bbox": [-108.820509,35.507415,-108.820509,35.507415],
+  "bbox": [
+    -108.820509,
+    35.507415,
+    -108.820509,
+    35.507415
+],
   "geometry": {"coordinates":[-108.820509,35.507415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169824521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.63261,35.270272,-106.63261,35.270272",
     "geom:latitude":35.270272,
     "geom:longitude":-106.63261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Quantum Rd NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":169824521,
-    "wof:lastmodified":1449033867,
+    "wof:lastmodified":1466698765,
     "wof:name":"Masthead International Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.63261,35.270272,-106.63261,35.270272],
+  "bbox": [
+    -106.63261,
+    35.270272,
+    -106.63261,
+    35.270272
+],
   "geometry": {"coordinates":[-106.63261,35.270272],"type":"Point"}
 }

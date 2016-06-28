@@ -2,13 +2,14 @@
   "id": 202699021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.753249,32.267212,-107.753249,32.267212",
     "geom:latitude":32.267212,
     "geom:longitude":-107.753249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 S Ruby St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202699021,
-    "wof:lastmodified":1449060453,
+    "wof:lastmodified":1466699737,
     "wof:name":"Deming Pastry Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.753249,32.267212,-107.753249,32.267212],
+  "bbox": [
+    -107.753249,
+    32.267212,
+    -107.753249,
+    32.267212
+],
   "geometry": {"coordinates":[-107.753249,32.267212],"type":"Point"}
 }

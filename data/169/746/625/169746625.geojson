@@ -2,13 +2,14 @@
   "id": 169746625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.531226,35.148888,-106.531226,35.148888",
     "geom:latitude":35.148888,
     "geom:longitude":-106.531226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9812 Admiral Nimitz Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169746625,
-    "wof:lastmodified":1449032656,
+    "wof:lastmodified":1466698044,
     "wof:name":"Fresco Fine Art Publications",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-106.531226,35.148888,-106.531226,35.148888],
+  "bbox": [
+    -106.531226,
+    35.148888,
+    -106.531226,
+    35.148888
+],
   "geometry": {"coordinates":[-106.531226,35.148888],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185944343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.897231,35.653825,-105.897231,35.653825",
     "geom:latitude":35.653825,
     "geom:longitude":-105.897231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Wilderness Gate Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":185944343,
-    "wof:lastmodified":1449007434,
+    "wof:lastmodified":1466699133,
     "wof:name":"Golden Kathryn Designs Inc",
     "wof:parent_id":85880863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.897231,35.653825,-105.897231,35.653825],
+  "bbox": [
+    -105.897231,
+    35.653825,
+    -105.897231,
+    35.653825
+],
   "geometry": {"coordinates":[-105.897231,35.653825],"type":"Point"}
 }

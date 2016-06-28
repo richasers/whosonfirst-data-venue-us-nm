@@ -2,13 +2,14 @@
   "id": 202476129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.977308,35.662723,-105.977308,35.662723",
     "geom:latitude":35.662723,
     "geom:longitude":-105.977308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Osage Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202476129,
-    "wof:lastmodified":1449061139,
+    "wof:lastmodified":1466698900,
     "wof:name":"Little Flower Shop The",
     "wof:parent_id":85880779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.977308,35.662723,-105.977308,35.662723],
-  "geometry": {"coordinates":[-105.977308,35.662723],"type":"Point"}
+  "bbox": [
+    -105.977308,
+    35.662723,
+    -105.977308,
+    35.662723
+],
+  "geometry": {"coordinates":[-105.97730799999999,35.662723],"type":"Point"}
 }

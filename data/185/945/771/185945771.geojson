@@ -2,13 +2,14 @@
   "id": 185945771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.512292,35.11347,-106.512292,35.11347",
     "geom:latitude":35.11347,
     "geom:longitude":-106.512292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11504 Lexington Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185945771,
-    "wof:lastmodified":1449006741,
+    "wof:lastmodified":1466699154,
     "wof:name":"Out of Box Creative Educat",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "administrative"
     ]
 },
-  "bbox": [-106.512292,35.11347,-106.512292,35.11347],
+  "bbox": [
+    -106.512292,
+    35.11347,
+    -106.512292,
+    35.11347
+],
   "geometry": {"coordinates":[-106.512292,35.11347],"type":"Point"}
 }

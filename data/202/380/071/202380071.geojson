@@ -2,13 +2,14 @@
   "id": 202380071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.255952,32.787033,-108.255952,32.787033",
     "geom:latitude":32.787033,
     "geom:longitude":-108.255952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2441 US Hwy 180 E",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202380071,
-    "wof:lastmodified":1449061299,
+    "wof:lastmodified":1466697676,
     "wof:name":"Checker Auto Parts 1644",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-108.255952,32.787033,-108.255952,32.787033],
-  "geometry": {"coordinates":[-108.255952,32.787033],"type":"Point"}
+  "bbox": [
+    -108.255952,
+    32.787033,
+    -108.255952,
+    32.787033
+],
+  "geometry": {"coordinates":[-108.25595199999999,32.787033],"type":"Point"}
 }

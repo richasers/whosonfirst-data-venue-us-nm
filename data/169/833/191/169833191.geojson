@@ -2,13 +2,14 @@
   "id": 169833191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613718,35.113083,-106.613718,35.113083",
     "geom:latitude":35.113083,
     "geom:longitude":-106.613718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2712 Girard Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":169833191,
-    "wof:lastmodified":1449033107,
+    "wof:lastmodified":1466698813,
     "wof:name":"Wild Wilbur's Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "general"
     ]
 },
-  "bbox": [-106.613718,35.113083,-106.613718,35.113083],
-  "geometry": {"coordinates":[-106.613718,35.113083],"type":"Point"}
+  "bbox": [
+    -106.613718,
+    35.113083,
+    -106.613718,
+    35.113083
+],
+  "geometry": {"coordinates":[-106.61371800000001,35.113083],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202385497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.598973,35.257951,-106.598973,35.257951",
     "geom:latitude":35.257951,
     "geom:longitude":-106.598973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Cam Bajada",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202385497,
-    "wof:lastmodified":1449061622,
+    "wof:lastmodified":1466697754,
     "wof:name":"F&Y Enterprises Inc",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-106.598973,35.257951,-106.598973,35.257951],
+  "bbox": [
+    -106.598973,
+    35.257951,
+    -106.598973,
+    35.257951
+],
   "geometry": {"coordinates":[-106.598973,35.257951],"type":"Point"}
 }

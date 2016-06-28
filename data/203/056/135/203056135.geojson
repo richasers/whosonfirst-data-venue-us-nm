@@ -2,13 +2,14 @@
   "id": 203056135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.982863,35.670413,-105.982863,35.670413",
     "geom:latitude":35.670413,
     "geom:longitude":-105.982863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 Pla Chaco",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203056135,
-    "wof:lastmodified":1449025442,
+    "wof:lastmodified":1466698196,
     "wof:name":"Southwest Life & Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.982863,35.670413,-105.982863,35.670413],
-  "geometry": {"coordinates":[-105.982863,35.670413],"type":"Point"}
+  "bbox": [
+    -105.982863,
+    35.670413,
+    -105.982863,
+    35.670413
+],
+  "geometry": {"coordinates":[-105.98286299999999,35.670413],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202954937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.624657,35.181784,-106.624657,35.181784",
     "geom:latitude":35.181784,
     "geom:longitude":-106.624657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Ortega Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202954937,
-    "wof:lastmodified":1449062328,
+    "wof:lastmodified":1466700573,
     "wof:name":"J & B Svc Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "floor"
     ]
 },
-  "bbox": [-106.624657,35.181784,-106.624657,35.181784],
+  "bbox": [
+    -106.624657,
+    35.181784,
+    -106.624657,
+    35.181784
+],
   "geometry": {"coordinates":[-106.624657,35.181784],"type":"Point"}
 }

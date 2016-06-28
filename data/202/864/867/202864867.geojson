@@ -2,13 +2,14 @@
   "id": 202864867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.223367,34.422617,-103.223367,34.422617",
     "geom:latitude":34.422617,
     "geom:longitude":-103.223367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Sasser Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202864867,
-    "wof:lastmodified":1449062689,
+    "wof:lastmodified":1466700238,
     "wof:name":"Ridley Cattle Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-103.223367,34.422617,-103.223367,34.422617],
+  "bbox": [
+    -103.223367,
+    34.422617,
+    -103.223367,
+    34.422617
+],
   "geometry": {"coordinates":[-103.223367,34.422617],"type":"Point"}
 }

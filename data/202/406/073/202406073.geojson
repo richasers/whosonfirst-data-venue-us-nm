@@ -2,13 +2,14 @@
   "id": 202406073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.752332,34.804994,-106.752332,34.804994",
     "geom:latitude":34.804994,
     "geom:longitude":-106.752332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Canal Blvd SW",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202406073,
-    "wof:lastmodified":1449061472,
+    "wof:lastmodified":1466698008,
     "wof:name":"Mondel Apartments",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-106.752332,34.804994,-106.752332,34.804994],
+  "bbox": [
+    -106.752332,
+    34.804994,
+    -106.752332,
+    34.804994
+],
   "geometry": {"coordinates":[-106.752332,34.804994],"type":"Point"}
 }

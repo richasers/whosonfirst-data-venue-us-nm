@@ -2,13 +2,14 @@
   "id": 186100793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.12244,32.697968,-103.12244,32.697968",
     "geom:latitude":32.697968,
     "geom:longitude":-103.12244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 E Byers St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186100793,
-    "wof:lastmodified":1449052336,
+    "wof:lastmodified":1466698933,
     "wof:name":"Calderon Drywall Specialty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-103.12244,32.697968,-103.12244,32.697968],
+  "bbox": [
+    -103.12244,
+    32.697968,
+    -103.12244,
+    32.697968
+],
   "geometry": {"coordinates":[-103.12244,32.697968],"type":"Point"}
 }

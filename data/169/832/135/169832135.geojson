@@ -2,13 +2,14 @@
   "id": 169832135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.636655,35.157501,-106.636655,35.157501",
     "geom:latitude":35.157501,
     "geom:longitude":-106.636655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Enchanted Valley Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169832135,
-    "wof:lastmodified":1449032704,
+    "wof:lastmodified":1466698811,
     "wof:name":"Golf West Communications",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "booking"
     ]
 },
-  "bbox": [-106.636655,35.157501,-106.636655,35.157501],
+  "bbox": [
+    -106.636655,
+    35.157501,
+    -106.636655,
+    35.157501
+],
   "geometry": {"coordinates":[-106.636655,35.157501],"type":"Point"}
 }

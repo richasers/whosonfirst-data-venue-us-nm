@@ -2,13 +2,14 @@
   "id": 202886205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615852,35.113072,-106.615852,35.113072",
     "geom:latitude":35.113072,
     "geom:longitude":-106.615852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2416 Claremont Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -66,16 +67,22 @@
         }
     ],
     "wof:id":202886205,
-    "wof:lastmodified":1449061509,
+    "wof:lastmodified":1466700430,
     "wof:name":"Schultheis Dimensional Stone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-106.615852,35.113072,-106.615852,35.113072],
+  "bbox": [
+    -106.615852,
+    35.113072,
+    -106.615852,
+    35.113072
+],
   "geometry": {"coordinates":[-106.615852,35.113072],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186047821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604033,35.117834,-106.604033,35.117834",
     "geom:latitude":35.117834,
     "geom:longitude":-106.604033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3150 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186047821,
-    "wof:lastmodified":1449052103,
+    "wof:lastmodified":1466698225,
     "wof:name":"DRC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.604033,35.117834,-106.604033,35.117834],
+  "bbox": [
+    -106.604033,
+    35.117834,
+    -106.604033,
+    35.117834
+],
   "geometry": {"coordinates":[-106.604033,35.117834],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202779587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.999411,35.654441,-105.999411,35.654441",
     "geom:latitude":35.654441,
     "geom:longitude":-105.999411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3215 Rufina St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202779587,
-    "wof:lastmodified":1449060492,
+    "wof:lastmodified":1466699875,
     "wof:name":"Bio Shield Paint Co",
     "wof:parent_id":85880845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-105.999411,35.654441,-105.999411,35.654441],
-  "geometry": {"coordinates":[-105.999411,35.654441],"type":"Point"}
+  "bbox": [
+    -105.999411,
+    35.654441,
+    -105.999411,
+    35.654441
+],
+  "geometry": {"coordinates":[-105.99941099999999,35.654441],"type":"Point"}
 }

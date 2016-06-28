@@ -2,13 +2,14 @@
   "id": 185609829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.429086,32.859698,-104.429086,32.859698",
     "geom:latitude":32.859698,
     "geom:longitude":-104.429086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2505 Sierra Vista Rd",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185609829,
-    "wof:lastmodified":1449007207,
+    "wof:lastmodified":1466697688,
     "wof:name":"Archibald Assoc",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-104.429086,32.859698,-104.429086,32.859698],
+  "bbox": [
+    -104.429086,
+    32.859698,
+    -104.429086,
+    32.859698
+],
   "geometry": {"coordinates":[-104.429086,32.859698],"type":"Point"}
 }

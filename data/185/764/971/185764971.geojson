@@ -2,13 +2,14 @@
   "id": 185764971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.7596,35.52008,-108.7596,35.52008",
     "geom:latitude":35.52008,
     "geom:longitude":-108.7596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Viro Cir",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185764971,
-    "wof:lastmodified":1449008120,
+    "wof:lastmodified":1466699216,
     "wof:name":"Chimney Sweeps Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-108.7596,35.52008,-108.7596,35.52008],
-  "geometry": {"coordinates":[-108.7596,35.52008],"type":"Point"}
+  "bbox": [
+    -108.7596,
+    35.52008,
+    -108.7596,
+    35.52008
+],
+  "geometry": {"coordinates":[-108.75960000000001,35.52008],"type":"Point"}
 }

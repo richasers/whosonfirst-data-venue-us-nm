@@ -2,13 +2,14 @@
   "id": 186611995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.917864,36.510275,-104.917864,36.510275",
     "geom:latitude":36.510275,
     "geom:longitude":-104.917864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 10th St",
     "sg:city":"Cimarron",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186611995,
-    "wof:lastmodified":1449052442,
+    "wof:lastmodified":1466700561,
     "wof:name":"Cimarron Inn & Rv Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.917864,36.510275,-104.917864,36.510275],
-  "geometry": {"coordinates":[-104.917864,36.510275],"type":"Point"}
+  "bbox": [
+    -104.917864,
+    36.510275,
+    -104.917864,
+    36.510275
+],
+  "geometry": {"coordinates":[-104.91786399999999,36.510275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185612365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.154361,35.403708,-106.154361,35.403708",
     "geom:latitude":35.403708,
     "geom:longitude":-106.154361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Firehouse Ln",
     "sg:city":"Cerrillos",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185612365,
-    "wof:lastmodified":1449007318,
+    "wof:lastmodified":1466697725,
     "wof:name":"Mostly Madrid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.154361,35.403708,-106.154361,35.403708],
-  "geometry": {"coordinates":[-106.154361,35.403708],"type":"Point"}
+  "bbox": [
+    -106.154361,
+    35.403708,
+    -106.154361,
+    35.403708
+],
+  "geometry": {"coordinates":[-106.15436099999999,35.403708],"type":"Point"}
 }

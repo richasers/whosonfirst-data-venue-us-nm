@@ -2,13 +2,14 @@
   "id": 185669777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586352,35.139444,-106.586352,35.139444",
     "geom:latitude":35.139444,
     "geom:longitude":-106.586352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5220 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185669777,
-    "wof:lastmodified":1449006789,
+    "wof:lastmodified":1466698341,
     "wof:name":"American Self Storage",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-106.586352,35.139444,-106.586352,35.139444],
-  "geometry": {"coordinates":[-106.586352,35.139444],"type":"Point"}
+  "bbox": [
+    -106.586352,
+    35.139444,
+    -106.586352,
+    35.139444
+],
+  "geometry": {"coordinates":[-106.58635200000001,35.139444],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186102077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550177,35.302344,-106.550177,35.302344",
     "geom:latitude":35.302344,
     "geom:longitude":-106.550177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 Cam del Pueblo",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186102077,
-    "wof:lastmodified":1449052826,
+    "wof:lastmodified":1466698935,
     "wof:name":"Something Else",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.550177,35.302344,-106.550177,35.302344],
-  "geometry": {"coordinates":[-106.550177,35.302344],"type":"Point"}
+  "bbox": [
+    -106.550177,
+    35.302344,
+    -106.550177,
+    35.302344
+],
+  "geometry": {"coordinates":[-106.55017700000001,35.302344],"type":"Point"}
 }

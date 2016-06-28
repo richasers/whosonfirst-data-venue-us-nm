@@ -2,13 +2,14 @@
   "id": 186007421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.32944,33.107598,-104.32944,33.107598",
     "geom:latitude":33.107598,
     "geom:longitude":-104.32944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Linden St",
     "sg:city":"Hagerman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186007421,
-    "wof:lastmodified":1449052549,
+    "wof:lastmodified":1466697773,
     "wof:name":"Parts Is Parts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.32944,33.107598,-104.32944,33.107598],
-  "geometry": {"coordinates":[-104.32944,33.107598],"type":"Point"}
+  "bbox": [
+    -104.32944,
+    33.107598,
+    -104.32944,
+    33.107598
+],
+  "geometry": {"coordinates":[-104.32944000000001,33.107598],"type":"Point"}
 }

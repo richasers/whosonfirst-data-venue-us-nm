@@ -2,13 +2,14 @@
   "id": 202461439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960141,32.898623,-105.960141,32.898623",
     "geom:latitude":32.898623,
     "geom:longitude":-105.960141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"822 N White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202461439,
-    "wof:lastmodified":1449061065,
+    "wof:lastmodified":1466698622,
     "wof:name":"Sonoma Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "day"
     ]
 },
-  "bbox": [-105.960141,32.898623,-105.960141,32.898623],
-  "geometry": {"coordinates":[-105.960141,32.898623],"type":"Point"}
+  "bbox": [
+    -105.960141,
+    32.898623,
+    -105.960141,
+    32.898623
+],
+  "geometry": {"coordinates":[-105.96014099999999,32.898623],"type":"Point"}
 }

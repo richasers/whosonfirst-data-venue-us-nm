@@ -2,13 +2,14 @@
   "id": 202884355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.401114,32.828109,-104.401114,32.828109",
     "geom:latitude":32.828109,
     "geom:longitude":-104.401114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 W Hermosa Dr",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202884355,
-    "wof:lastmodified":1449062180,
+    "wof:lastmodified":1466700293,
     "wof:name":"Ruby Parker CPA",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-104.401114,32.828109,-104.401114,32.828109],
-  "geometry": {"coordinates":[-104.401114,32.828109],"type":"Point"}
+  "bbox": [
+    -104.401114,
+    32.828109,
+    -104.401114,
+    32.828109
+],
+  "geometry": {"coordinates":[-104.40111400000001,32.828109],"type":"Point"}
 }

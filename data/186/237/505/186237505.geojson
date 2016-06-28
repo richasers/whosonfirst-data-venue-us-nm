@@ -2,13 +2,14 @@
   "id": 186237505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.722737,34.7567,-106.722737,34.7567",
     "geom:latitude":34.7567,
     "geom:longitude":-106.722737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3072 State Hwy 47",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186237505,
-    "wof:lastmodified":1449050332,
+    "wof:lastmodified":1466699425,
     "wof:name":"Jerky Store The",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "prepared"
     ]
 },
-  "bbox": [-106.722737,34.7567,-106.722737,34.7567],
+  "bbox": [
+    -106.722737,
+    34.7567,
+    -106.722737,
+    34.7567
+],
   "geometry": {"coordinates":[-106.722737,34.7567],"type":"Point"}
 }

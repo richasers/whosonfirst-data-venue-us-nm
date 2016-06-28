@@ -2,13 +2,14 @@
   "id": 202949655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.592402,35.079484,-106.592402,35.079484",
     "geom:latitude":35.079484,
     "geom:longitude":-106.592402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Madison St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202949655,
-    "wof:lastmodified":1449061679,
+    "wof:lastmodified":1466700556,
     "wof:name":"Mac Management Inc",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-106.592402,35.079484,-106.592402,35.079484],
-  "geometry": {"coordinates":[-106.592402,35.079484],"type":"Point"}
+  "bbox": [
+    -106.592402,
+    35.079484,
+    -106.592402,
+    35.079484
+],
+  "geometry": {"coordinates":[-106.59240200000001,35.079484],"type":"Point"}
 }

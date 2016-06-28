@@ -2,13 +2,14 @@
   "id": 186331493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.789377,35.085595,-108.789377,35.085595",
     "geom:latitude":35.085595,
     "geom:longitude":-108.789377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 3rd Ave",
     "sg:city":"Zuni",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186331493,
-    "wof:lastmodified":1449051992,
+    "wof:lastmodified":1466699734,
     "wof:name":"Pueblo Of Zuni Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-108.789377,35.085595,-108.789377,35.085595],
+  "bbox": [
+    -108.789377,
+    35.085595,
+    -108.789377,
+    35.085595
+],
   "geometry": {"coordinates":[-108.789377,35.085595],"type":"Point"}
 }

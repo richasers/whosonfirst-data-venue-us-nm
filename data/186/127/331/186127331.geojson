@@ -2,13 +2,14 @@
   "id": 186127331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.064398,36.694934,-108.064398,36.694934",
     "geom:latitude":36.694934,
     "geom:longitude":-108.064398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Rd 5324",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186127331,
-    "wof:lastmodified":1449052807,
+    "wof:lastmodified":1466699141,
     "wof:name":"K & M Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-108.064398,36.694934,-108.064398,36.694934],
+  "bbox": [
+    -108.064398,
+    36.694934,
+    -108.064398,
+    36.694934
+],
   "geometry": {"coordinates":[-108.064398,36.694934],"type":"Point"}
 }

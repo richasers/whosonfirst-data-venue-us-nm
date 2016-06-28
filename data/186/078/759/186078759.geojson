@@ -2,13 +2,14 @@
   "id": 186078759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.646661,35.023783,-106.646661,35.023783",
     "geom:latitude":35.023783,
     "geom:longitude":-106.646661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4120 Broadway Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186078759,
-    "wof:lastmodified":1449052590,
+    "wof:lastmodified":1466698636,
     "wof:name":"AmeriGas",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "petroleum"
     ]
 },
-  "bbox": [-106.646661,35.023783,-106.646661,35.023783],
-  "geometry": {"coordinates":[-106.646661,35.023783],"type":"Point"}
+  "bbox": [
+    -106.646661,
+    35.023783,
+    -106.646661,
+    35.023783
+],
+  "geometry": {"coordinates":[-106.64666099999999,35.023783],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202761667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.653682,35.207299,-106.653682,35.207299",
     "geom:latitude":35.207299,
     "geom:longitude":-106.653682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Ellison Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202761667,
-    "wof:lastmodified":1449062054,
+    "wof:lastmodified":1466699837,
     "wof:name":"Quarters Discount Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.653682,35.207299,-106.653682,35.207299],
+  "bbox": [
+    -106.653682,
+    35.207299,
+    -106.653682,
+    35.207299
+],
   "geometry": {"coordinates":[-106.653682,35.207299],"type":"Point"}
 }

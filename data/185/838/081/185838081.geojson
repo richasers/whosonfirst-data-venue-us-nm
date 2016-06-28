@@ -2,13 +2,14 @@
   "id": 185838081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.952222,35.676979,-105.952222,35.676979",
     "geom:latitude":35.676979,
     "geom:longitude":-105.952222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 Early St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":185838081,
-    "wof:lastmodified":1449006796,
+    "wof:lastmodified":1466697878,
     "wof:name":"Human Performance Center",
     "wof:parent_id":85880771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "facility"
     ]
 },
-  "bbox": [-105.952222,35.676979,-105.952222,35.676979],
-  "geometry": {"coordinates":[-105.952222,35.676979],"type":"Point"}
+  "bbox": [
+    -105.952222,
+    35.676979,
+    -105.952222,
+    35.676979
+],
+  "geometry": {"coordinates":[-105.95222200000001,35.676979],"type":"Point"}
 }

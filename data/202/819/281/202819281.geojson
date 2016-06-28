@@ -2,13 +2,14 @@
   "id": 202819281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.925282,32.904787,-105.925282,32.904787",
     "geom:latitude":32.904787,
     "geom:longitude":-105.925282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1413 Granada",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202819281,
-    "wof:lastmodified":1449060714,
+    "wof:lastmodified":1466699940,
     "wof:name":"Training For Quality",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "training"
     ]
 },
-  "bbox": [-105.925282,32.904787,-105.925282,32.904787],
+  "bbox": [
+    -105.925282,
+    32.904787,
+    -105.925282,
+    32.904787
+],
   "geometry": {"coordinates":[-105.925282,32.904787],"type":"Point"}
 }

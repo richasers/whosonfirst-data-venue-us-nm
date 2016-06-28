@@ -2,13 +2,14 @@
   "id": 186095209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.339838,35.021071,-106.339838,35.021071",
     "geom:latitude":35.021071,
     "geom:longitude":-106.339838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Edelweiss",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186095209,
-    "wof:lastmodified":1449051734,
+    "wof:lastmodified":1466698828,
     "wof:name":"Lapaz Medication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.339838,35.021071,-106.339838,35.021071],
+  "bbox": [
+    -106.339838,
+    35.021071,
+    -106.339838,
+    35.021071
+],
   "geometry": {"coordinates":[-106.339838,35.021071],"type":"Point"}
 }

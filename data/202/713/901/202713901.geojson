@@ -2,13 +2,14 @@
   "id": 202713901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.503259,35.09899,-106.503259,35.09899",
     "geom:latitude":35.09899,
     "geom:longitude":-106.503259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12513 Iroquois Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202713901,
-    "wof:lastmodified":1449062413,
+    "wof:lastmodified":1466699659,
     "wof:name":"Matt Truelove Photographer",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-106.503259,35.09899,-106.503259,35.09899],
+  "bbox": [
+    -106.503259,
+    35.09899,
+    -106.503259,
+    35.09899
+],
   "geometry": {"coordinates":[-106.503259,35.09899],"type":"Point"}
 }

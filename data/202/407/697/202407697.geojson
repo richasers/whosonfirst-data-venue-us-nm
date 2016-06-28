@@ -2,13 +2,14 @@
   "id": 202407697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.362326,35.100365,-106.362326,35.100365",
     "geom:latitude":35.100365,
     "geom:longitude":-106.362326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 N Zamora Rd",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202407697,
-    "wof:lastmodified":1449061514,
+    "wof:lastmodified":1466698030,
     "wof:name":"Tijeras Congregation-Jehovahs",
     "wof:parent_id":85892613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.362326,35.100365,-106.362326,35.100365],
+  "bbox": [
+    -106.362326,
+    35.100365,
+    -106.362326,
+    35.100365
+],
   "geometry": {"coordinates":[-106.362326,35.100365],"type":"Point"}
 }

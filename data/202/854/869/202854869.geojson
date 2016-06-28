@@ -2,13 +2,14 @@
   "id": 202854869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.60396,35.27905,-106.60396,35.27905",
     "geom:latitude":35.27905,
     "geom:longitude":-106.60396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10704 Pso del Norte",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202854869,
-    "wof:lastmodified":1449062551,
+    "wof:lastmodified":1466700216,
     "wof:name":"Sandia Presbyterian Church",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "child"
     ]
 },
-  "bbox": [-106.60396,35.27905,-106.60396,35.27905],
+  "bbox": [
+    -106.60396,
+    35.27905,
+    -106.60396,
+    35.27905
+],
   "geometry": {"coordinates":[-106.60396,35.27905],"type":"Point"}
 }

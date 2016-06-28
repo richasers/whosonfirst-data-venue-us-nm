@@ -2,13 +2,14 @@
   "id": 186314411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.660947,34.945689,-104.660947,34.945689",
     "geom:latitude":34.945689,
     "geom:longitude":-104.660947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2866 Will Rogers Dr",
     "sg:city":"Santa Rosa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186314411,
-    "wof:lastmodified":1449052920,
+    "wof:lastmodified":1466699513,
     "wof:name":"Route 66 Auto Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.660947,34.945689,-104.660947,34.945689],
-  "geometry": {"coordinates":[-104.660947,34.945689],"type":"Point"}
+  "bbox": [
+    -104.660947,
+    34.945689,
+    -104.660947,
+    34.945689
+],
+  "geometry": {"coordinates":[-104.66094699999999,34.945689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186009613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.752293,32.308086,-106.752293,32.308086",
     "geom:latitude":32.308086,
     "geom:longitude":-106.752293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2355 Nevada Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186009613,
-    "wof:lastmodified":1449052980,
+    "wof:lastmodified":1466697801,
     "wof:name":"Sca Packaging",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "material"
     ]
 },
-  "bbox": [-106.752293,32.308086,-106.752293,32.308086],
-  "geometry": {"coordinates":[-106.752293,32.308086],"type":"Point"}
+  "bbox": [
+    -106.752293,
+    32.308086,
+    -106.752293,
+    32.308086
+],
+  "geometry": {"coordinates":[-106.75229299999999,32.308086],"type":"Point"}
 }

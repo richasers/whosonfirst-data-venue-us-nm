@@ -2,13 +2,14 @@
   "id": 202578715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.595919,36.361003,-104.595919,36.361003",
     "geom:latitude":36.361003,
     "geom:longitude":-104.595919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Maxwell Ave",
     "sg:city":"Springer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202578715,
-    "wof:lastmodified":1449060758,
+    "wof:lastmodified":1466698069,
     "wof:name":"Randalls Bookkeeping & Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-104.595919,36.361003,-104.595919,36.361003],
-  "geometry": {"coordinates":[-104.595919,36.361003],"type":"Point"}
+  "bbox": [
+    -104.595919,
+    36.361003,
+    -104.595919,
+    36.361003
+],
+  "geometry": {"coordinates":[-104.59591899999999,36.361003],"type":"Point"}
 }

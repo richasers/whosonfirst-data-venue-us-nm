@@ -2,13 +2,14 @@
   "id": 169792847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.540667,33.359409,-104.540667,33.359409",
     "geom:latitude":33.359409,
     "geom:longitude":-104.540667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Sunset Pl",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169792847,
-    "wof:lastmodified":1449033392,
+    "wof:lastmodified":1466698517,
     "wof:name":"Meredith Marketing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-104.540667,33.359409,-104.540667,33.359409],
+  "bbox": [
+    -104.540667,
+    33.359409,
+    -104.540667,
+    33.359409
+],
   "geometry": {"coordinates":[-104.540667,33.359409],"type":"Point"}
 }

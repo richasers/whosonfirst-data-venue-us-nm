@@ -2,13 +2,14 @@
   "id": 202766395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.622038,33.325996,-105.622038,33.325996",
     "geom:latitude":33.325996,
     "geom:longitude":-105.622038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2192 US Hwy 70",
     "sg:city":"Ruidoso Downs",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":202766395,
-    "wof:lastmodified":1449060076,
+    "wof:lastmodified":1466699841,
     "wof:name":"Becker's Mountain Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-105.622038,33.325996,-105.622038,33.325996],
+  "bbox": [
+    -105.622038,
+    33.325996,
+    -105.622038,
+    33.325996
+],
   "geometry": {"coordinates":[-105.622038,33.325996],"type":"Point"}
 }

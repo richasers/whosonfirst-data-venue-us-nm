@@ -2,13 +2,14 @@
   "id": 353962877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.722082,35.099286,-106.722082,35.099286",
     "geom:latitude":35.099286,
     "geom:longitude":-106.722082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 Mesa Wood Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353962877,
-    "wof:lastmodified":1449019770,
+    "wof:lastmodified":1466698823,
     "wof:name":"Sports Locker",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-106.722082,35.099286,-106.722082,35.099286],
+  "bbox": [
+    -106.722082,
+    35.099286,
+    -106.722082,
+    35.099286
+],
   "geometry": {"coordinates":[-106.722082,35.099286],"type":"Point"}
 }

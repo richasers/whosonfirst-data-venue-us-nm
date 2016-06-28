@@ -2,13 +2,14 @@
   "id": 186056357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.624457,35.148244,-106.624457,35.148244",
     "geom:latitude":35.148244,
     "geom:longitude":-106.624457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6204 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":186056357,
-    "wof:lastmodified":1449051142,
+    "wof:lastmodified":1466698327,
     "wof:name":"Canyon Cabinets LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-106.624457,35.148244,-106.624457,35.148244],
-  "geometry": {"coordinates":[-106.624457,35.148244],"type":"Point"}
+  "bbox": [
+    -106.624457,
+    35.148244,
+    -106.624457,
+    35.148244
+],
+  "geometry": {"coordinates":[-106.62445700000001,35.148244],"type":"Point"}
 }

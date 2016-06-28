@@ -2,13 +2,14 @@
   "id": 169829355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.485063,35.069096,-106.485063,35.069096",
     "geom:latitude":35.069096,
     "geom:longitude":-106.485063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6315 Sierra Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169829355,
-    "wof:lastmodified":1449035745,
+    "wof:lastmodified":1466698792,
     "wof:name":"ABQ Mortgage",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-106.485063,35.069096,-106.485063,35.069096],
+  "bbox": [
+    -106.485063,
+    35.069096,
+    -106.485063,
+    35.069096
+],
   "geometry": {"coordinates":[-106.485063,35.069096],"type":"Point"}
 }

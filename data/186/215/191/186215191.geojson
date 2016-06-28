@@ -2,13 +2,14 @@
   "id": 186215191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.57268,35.136354,-106.57268,35.136354",
     "geom:latitude":35.136354,
     "geom:longitude":-106.57268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 Andrew Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186215191,
-    "wof:lastmodified":1449052542,
+    "wof:lastmodified":1466698212,
     "wof:name":"Specialty Crafts",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.57268,35.136354,-106.57268,35.136354],
-  "geometry": {"coordinates":[-106.57268,35.136354],"type":"Point"}
+  "bbox": [
+    -106.57268,
+    35.136354,
+    -106.57268,
+    35.136354
+],
+  "geometry": {"coordinates":[-106.57268000000001,35.136354],"type":"Point"}
 }

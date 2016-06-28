@@ -2,13 +2,14 @@
   "id": 186339647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.725532,35.046941,-106.725532,35.046941",
     "geom:latitude":35.046941,
     "geom:longitude":-106.725532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 Summerfield Pl SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186339647,
-    "wof:lastmodified":1449051572,
+    "wof:lastmodified":1466699746,
     "wof:name":"Sosa Housekeeping",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-106.725532,35.046941,-106.725532,35.046941],
+  "bbox": [
+    -106.725532,
+    35.046941,
+    -106.725532,
+    35.046941
+],
   "geometry": {"coordinates":[-106.725532,35.046941],"type":"Point"}
 }

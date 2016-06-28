@@ -2,13 +2,14 @@
   "id": 186168341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.754323,32.304493,-106.754323,32.304493",
     "geom:latitude":32.304493,
     "geom:longitude":-106.754323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2045 Lester Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186168341,
-    "wof:lastmodified":1449051774,
+    "wof:lastmodified":1466697615,
     "wof:name":"Affordable Express Courier Svc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-106.754323,32.304493,-106.754323,32.304493],
+  "bbox": [
+    -106.754323,
+    32.304493,
+    -106.754323,
+    32.304493
+],
   "geometry": {"coordinates":[-106.754323,32.304493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202776803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.539429,35.177238,-106.539429,35.177238",
     "geom:latitude":35.177238,
     "geom:longitude":-106.539429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9330 Carmel Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202776803,
-    "wof:lastmodified":1449060680,
+    "wof:lastmodified":1466699862,
     "wof:name":"Enfuego",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-106.539429,35.177238,-106.539429,35.177238],
+  "bbox": [
+    -106.539429,
+    35.177238,
+    -106.539429,
+    35.177238
+],
   "geometry": {"coordinates":[-106.539429,35.177238],"type":"Point"}
 }

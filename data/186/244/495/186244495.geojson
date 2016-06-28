@@ -2,13 +2,14 @@
   "id": 186244495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.344622,36.738984,-108.344622,36.738984",
     "geom:latitude":36.738984,
     "geom:longitude":-108.344622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4284 US Hwy 64",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186244495,
-    "wof:lastmodified":1449051434,
+    "wof:lastmodified":1466698588,
     "wof:name":"Daylight Donuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.344622,36.738984,-108.344622,36.738984],
+  "bbox": [
+    -108.344622,
+    36.738984,
+    -108.344622,
+    36.738984
+],
   "geometry": {"coordinates":[-108.344622,36.738984],"type":"Point"}
 }

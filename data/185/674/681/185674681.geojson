@@ -2,13 +2,14 @@
   "id": 185674681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.773768,32.336147,-106.773768,32.336147",
     "geom:latitude":32.336147,
     "geom:longitude":-106.773768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 Desert Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185674681,
-    "wof:lastmodified":1449007806,
+    "wof:lastmodified":1466698404,
     "wof:name":"Strong Glass",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "replacement"
     ]
 },
-  "bbox": [-106.773768,32.336147,-106.773768,32.336147],
+  "bbox": [
+    -106.773768,
+    32.336147,
+    -106.773768,
+    32.336147
+],
   "geometry": {"coordinates":[-106.773768,32.336147],"type":"Point"}
 }

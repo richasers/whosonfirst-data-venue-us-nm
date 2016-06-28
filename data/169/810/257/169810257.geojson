@@ -2,13 +2,14 @@
   "id": 169810257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.540148,35.128602,-106.540148,35.128602",
     "geom:latitude":35.128602,
     "geom:longitude":-106.540148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9137 Hilton Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169810257,
-    "wof:lastmodified":1449033644,
+    "wof:lastmodified":1466698670,
     "wof:name":"Majestic Forms & Specialties",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-106.540148,35.128602,-106.540148,35.128602],
+  "bbox": [
+    -106.540148,
+    35.128602,
+    -106.540148,
+    35.128602
+],
   "geometry": {"coordinates":[-106.540148,35.128602],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202790603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.751128,32.350524,-106.751128,32.350524",
     "geom:latitude":32.350524,
     "geom:longitude":-106.751128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2919 Scenic Cir",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202790603,
-    "wof:lastmodified":1449062070,
+    "wof:lastmodified":1466699956,
     "wof:name":"Mid America II",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.751128,32.350524,-106.751128,32.350524],
-  "geometry": {"coordinates":[-106.751128,32.350524],"type":"Point"}
+  "bbox": [
+    -106.751128,
+    32.350524,
+    -106.751128,
+    32.350524
+],
+  "geometry": {"coordinates":[-106.75112799999999,32.350524],"type":"Point"}
 }

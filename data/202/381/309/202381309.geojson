@@ -2,13 +2,14 @@
   "id": 202381309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.803646,32.352036,-106.803646,32.352036",
     "geom:latitude":32.352036,
     "geom:longitude":-106.803646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3701 Dona Ana Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202381309,
-    "wof:lastmodified":1449060321,
+    "wof:lastmodified":1466697691,
     "wof:name":"B & H Mechanical Contractors",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.803646,32.352036,-106.803646,32.352036],
+  "bbox": [
+    -106.803646,
+    32.352036,
+    -106.803646,
+    32.352036
+],
   "geometry": {"coordinates":[-106.803646,32.352036],"type":"Point"}
 }

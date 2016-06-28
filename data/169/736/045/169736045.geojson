@@ -2,13 +2,14 @@
   "id": 169736045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.57637,35.110966,-106.57637,35.110966",
     "geom:latitude":35.110966,
     "geom:longitude":-106.57637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Arizona St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169736045,
-    "wof:lastmodified":1449035932,
+    "wof:lastmodified":1466697948,
     "wof:name":"Louie's Barber Shop",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.57637,35.110966,-106.57637,35.110966],
+  "bbox": [
+    -106.57637,
+    35.110966,
+    -106.57637,
+    35.110966
+],
   "geometry": {"coordinates":[-106.57637,35.110966],"type":"Point"}
 }

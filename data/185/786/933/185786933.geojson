@@ -2,13 +2,14 @@
   "id": 185786933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.007344,32.915942,-108.007344,32.915942",
     "geom:latitude":32.915942,
     "geom:longitude":-108.007344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3509 State Hwy 35",
     "sg:city":"Mimbres",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185786933,
-    "wof:lastmodified":1449006813,
+    "wof:lastmodified":1466699296,
     "wof:name":"Mimbres Welding & Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "welding"
     ]
 },
-  "bbox": [-108.007344,32.915942,-108.007344,32.915942],
+  "bbox": [
+    -108.007344,
+    32.915942,
+    -108.007344,
+    32.915942
+],
   "geometry": {"coordinates":[-108.007344,32.915942],"type":"Point"}
 }

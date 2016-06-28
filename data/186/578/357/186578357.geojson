@@ -2,13 +2,14 @@
   "id": 186578357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.278971,32.768428,-108.278971,32.768428",
     "geom:latitude":32.768428,
     "geom:longitude":-108.278971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S Pinos Altos St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186578357,
-    "wof:lastmodified":1449051071,
+    "wof:lastmodified":1466700555,
     "wof:name":"Glass Garden Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.278971,32.768428,-108.278971,32.768428],
+  "bbox": [
+    -108.278971,
+    32.768428,
+    -108.278971,
+    32.768428
+],
   "geometry": {"coordinates":[-108.278971,32.768428],"type":"Point"}
 }

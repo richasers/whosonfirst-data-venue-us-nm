@@ -2,13 +2,14 @@
   "id": 202735977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.733755,32.268699,-107.733755,32.268699",
     "geom:latitude":32.268699,
     "geom:longitude":-107.733755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 E Motel Dr",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202735977,
-    "wof:lastmodified":1449062575,
+    "wof:lastmodified":1466699836,
     "wof:name":"Country Club Rv Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.733755,32.268699,-107.733755,32.268699],
+  "bbox": [
+    -107.733755,
+    32.268699,
+    -107.733755,
+    32.268699
+],
   "geometry": {"coordinates":[-107.733755,32.268699],"type":"Point"}
 }

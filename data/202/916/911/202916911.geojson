@@ -2,13 +2,14 @@
   "id": 202916911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.27511,36.73862,-108.27511,36.73862",
     "geom:latitude":36.73862,
     "geom:longitude":-108.27511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Harper Hill Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202916911,
-    "wof:lastmodified":1449061502,
+    "wof:lastmodified":1466700419,
     "wof:name":"Interstate Recovery & Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-108.27511,36.73862,-108.27511,36.73862],
+  "bbox": [
+    -108.27511,
+    36.73862,
+    -108.27511,
+    36.73862
+],
   "geometry": {"coordinates":[-108.27511,36.73862],"type":"Point"}
 }

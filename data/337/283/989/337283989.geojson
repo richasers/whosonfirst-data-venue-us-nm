@@ -2,13 +2,14 @@
   "id": 337283989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.940852,35.686922,-105.940852,35.686922",
     "geom:latitude":35.686922,
     "geom:longitude":-105.940852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Galisteo St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337283989,
-    "wof:lastmodified":1449027184,
+    "wof:lastmodified":1466697687,
     "wof:name":"Fourth World Cottage Ind",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-105.940852,35.686922,-105.940852,35.686922],
-  "geometry": {"coordinates":[-105.940852,35.686922],"type":"Point"}
+  "bbox": [
+    -105.940852,
+    35.686922,
+    -105.940852,
+    35.686922
+],
+  "geometry": {"coordinates":[-105.94085200000001,35.686922],"type":"Point"}
 }

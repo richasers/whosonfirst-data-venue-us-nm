@@ -2,13 +2,14 @@
   "id": 186478303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.672614,33.352756,-105.672614,33.352756",
     "geom:latitude":33.352756,
     "geom:longitude":-105.672614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 Mechem Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186478303,
-    "wof:lastmodified":1449050353,
+    "wof:lastmodified":1466700146,
     "wof:name":"Barnett Carpets",
     "wof:parent_id":85842645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wallpaper"
     ]
 },
-  "bbox": [-105.672614,33.352756,-105.672614,33.352756],
+  "bbox": [
+    -105.672614,
+    33.352756,
+    -105.672614,
+    33.352756
+],
   "geometry": {"coordinates":[-105.672614,33.352756],"type":"Point"}
 }

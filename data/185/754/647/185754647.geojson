@@ -2,13 +2,14 @@
   "id": 185754647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.521811,35.091561,-106.521811,35.091561",
     "geom:latitude":35.091561,
     "geom:longitude":-106.521811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 Tomasita St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185754647,
-    "wof:lastmodified":1449007654,
+    "wof:lastmodified":1466699167,
     "wof:name":"Ed's Budget Repair Ctr",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-106.521811,35.091561,-106.521811,35.091561],
+  "bbox": [
+    -106.521811,
+    35.091561,
+    -106.521811,
+    35.091561
+],
   "geometry": {"coordinates":[-106.521811,35.091561],"type":"Point"}
 }

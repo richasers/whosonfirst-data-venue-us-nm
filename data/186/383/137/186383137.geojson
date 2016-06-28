@@ -2,13 +2,14 @@
   "id": 186383137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.595119,33.392901,-104.595119,33.392901",
     "geom:latitude":33.392901,
     "geom:longitude":-104.595119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 S Brown Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186383137,
-    "wof:lastmodified":1449051515,
+    "wof:lastmodified":1466699785,
     "wof:name":"Lee Garage Door",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.595119,33.392901,-104.595119,33.392901],
+  "bbox": [
+    -104.595119,
+    33.392901,
+    -104.595119,
+    33.392901
+],
   "geometry": {"coordinates":[-104.595119,33.392901],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202960759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.533314,35.125257,-106.533314,35.125257",
     "geom:latitude":35.125257,
     "geom:longitude":-106.533314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3733 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202960759,
-    "wof:lastmodified":1449061924,
+    "wof:lastmodified":1466700608,
     "wof:name":"Walter L Reardon Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.533314,35.125257,-106.533314,35.125257],
+  "bbox": [
+    -106.533314,
+    35.125257,
+    -106.533314,
+    35.125257
+],
   "geometry": {"coordinates":[-106.533314,35.125257],"type":"Point"}
 }

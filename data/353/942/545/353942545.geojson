@@ -2,13 +2,14 @@
   "id": 353942545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.59922,35.107574,-106.59922,35.107574",
     "geom:latitude":35.107574,
     "geom:longitude":-106.59922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2522 Morningside Dr NE Ste A",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":353942545,
-    "wof:lastmodified":1449019424,
+    "wof:lastmodified":1466698350,
     "wof:name":"Aaa Filter Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "filters-cleaning"
     ]
 },
-  "bbox": [-106.59922,35.107574,-106.59922,35.107574],
+  "bbox": [
+    -106.59922,
+    35.107574,
+    -106.59922,
+    35.107574
+],
   "geometry": {"coordinates":[-106.59922,35.107574],"type":"Point"}
 }

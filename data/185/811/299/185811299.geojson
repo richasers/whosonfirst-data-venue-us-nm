@@ -2,13 +2,14 @@
   "id": 185811299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.368089,35.098983,-106.368089,35.098983",
     "geom:latitude":35.098983,
     "geom:longitude":-106.368089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 N Zamora Rd",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185811299,
-    "wof:lastmodified":1449007396,
+    "wof:lastmodified":1466699374,
     "wof:name":"Animal Kingdom Healthcare",
     "wof:parent_id":85892613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-106.368089,35.098983,-106.368089,35.098983],
+  "bbox": [
+    -106.368089,
+    35.098983,
+    -106.368089,
+    35.098983
+],
   "geometry": {"coordinates":[-106.368089,35.098983],"type":"Point"}
 }

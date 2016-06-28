@@ -2,13 +2,14 @@
   "id": 186291839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.753816,32.262168,-107.753816,32.262168",
     "geom:latitude":32.262168,
     "geom:longitude":-107.753816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 S Diamond Ave",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186291839,
-    "wof:lastmodified":1449051204,
+    "wof:lastmodified":1466699225,
     "wof:name":"Delgados Abel Income Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-107.753816,32.262168,-107.753816,32.262168],
+  "bbox": [
+    -107.753816,
+    32.262168,
+    -107.753816,
+    32.262168
+],
   "geometry": {"coordinates":[-107.753816,32.262168],"type":"Point"}
 }

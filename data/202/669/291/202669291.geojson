@@ -2,13 +2,14 @@
   "id": 202669291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.620669,35.109253,-106.620669,35.109253",
     "geom:latitude":35.109253,
     "geom:longitude":-106.620669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2123 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202669291,
-    "wof:lastmodified":1449060397,
+    "wof:lastmodified":1466699486,
     "wof:name":"W W Reed Co Hvac",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.620669,35.109253,-106.620669,35.109253],
-  "geometry": {"coordinates":[-106.620669,35.109253],"type":"Point"}
+  "bbox": [
+    -106.620669,
+    35.109253,
+    -106.620669,
+    35.109253
+],
+  "geometry": {"coordinates":[-106.62066900000001,35.109253],"type":"Point"}
 }

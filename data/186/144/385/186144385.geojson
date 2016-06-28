@@ -2,13 +2,14 @@
   "id": 186144385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.241793,34.520285,-106.241793,34.520285",
     "geom:latitude":34.520285,
     "geom:longitude":-106.241793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Broadway",
     "sg:city":"Moriarty",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186144385,
-    "wof:lastmodified":1449052323,
+    "wof:lastmodified":1466699232,
     "wof:name":"Sandia Tobacco Mfg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.241793,34.520285,-106.241793,34.520285],
+  "bbox": [
+    -106.241793,
+    34.520285,
+    -106.241793,
+    34.520285
+],
   "geometry": {"coordinates":[-106.241793,34.520285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186328495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.583756,35.123311,-106.583756,35.123311",
     "geom:latitude":35.123311,
     "geom:longitude":-106.583756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 Comanche Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186328495,
-    "wof:lastmodified":1449051946,
+    "wof:lastmodified":1466699587,
     "wof:name":"Albuquerque Color Lab",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "film"
     ]
 },
-  "bbox": [-106.583756,35.123311,-106.583756,35.123311],
-  "geometry": {"coordinates":[-106.583756,35.123311],"type":"Point"}
+  "bbox": [
+    -106.583756,
+    35.123311,
+    -106.583756,
+    35.123311
+],
+  "geometry": {"coordinates":[-106.58375599999999,35.123311],"type":"Point"}
 }

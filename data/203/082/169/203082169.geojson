@@ -2,13 +2,14 @@
   "id": 203082169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.765926,32.912456,-105.765926,32.912456",
     "geom:latitude":32.912456,
     "geom:longitude":-105.765926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"271 Sunspot Hwy",
     "sg:city":"Cloudcroft",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203082169,
-    "wof:lastmodified":1449024998,
+    "wof:lastmodified":1466698478,
     "wof:name":"C K Outfitters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ranch"
     ]
 },
-  "bbox": [-105.765926,32.912456,-105.765926,32.912456],
-  "geometry": {"coordinates":[-105.765926,32.912456],"type":"Point"}
+  "bbox": [
+    -105.765926,
+    32.912456,
+    -105.765926,
+    32.912456
+],
+  "geometry": {"coordinates":[-105.76592599999999,32.912456],"type":"Point"}
 }

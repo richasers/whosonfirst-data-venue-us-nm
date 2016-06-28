@@ -2,13 +2,14 @@
   "id": 202488045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.019263,33.081331,-106.019263,33.081331",
     "geom:latitude":33.081331,
     "geom:longitude":-106.019263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 N Fairview Rd",
     "sg:city":"Tularosa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202488045,
-    "wof:lastmodified":1449062565,
+    "wof:lastmodified":1466699455,
     "wof:name":"Las Rosas I & II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "management"
     ]
 },
-  "bbox": [-106.019263,33.081331,-106.019263,33.081331],
+  "bbox": [
+    -106.019263,
+    33.081331,
+    -106.019263,
+    33.081331
+],
   "geometry": {"coordinates":[-106.019263,33.081331],"type":"Point"}
 }

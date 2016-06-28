@@ -2,13 +2,14 @@
   "id": 203117239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.977503,35.639621,-105.977503,35.639621",
     "geom:latitude":35.639621,
     "geom:longitude":-105.977503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2443 Ver de Encanto",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203117239,
-    "wof:lastmodified":1449026269,
+    "wof:lastmodified":1466698908,
     "wof:name":"Ortiz Engineering & Electric",
     "wof:parent_id":85880829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.977503,35.639621,-105.977503,35.639621],
+  "bbox": [
+    -105.977503,
+    35.639621,
+    -105.977503,
+    35.639621
+],
   "geometry": {"coordinates":[-105.977503,35.639621],"type":"Point"}
 }

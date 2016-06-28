@@ -2,13 +2,14 @@
   "id": 202933837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.78573,32.340634,-107.78573,32.340634",
     "geom:latitude":32.340634,
     "geom:longitude":-107.78573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5180 Keeler Rd NW",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202933837,
-    "wof:lastmodified":1449060630,
+    "wof:lastmodified":1466700343,
     "wof:name":"First Jerk Small Engine Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.78573,32.340634,-107.78573,32.340634],
+  "bbox": [
+    -107.78573,
+    32.340634,
+    -107.78573,
+    32.340634
+],
   "geometry": {"coordinates":[-107.78573,32.340634],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186126523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.580715,35.127145,-106.580715,35.127145",
     "geom:latitude":35.127145,
     "geom:longitude":-106.580715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3724 Alvarado Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186126523,
-    "wof:lastmodified":1449051374,
+    "wof:lastmodified":1466699146,
     "wof:name":"Get High On Life",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.580715,35.127145,-106.580715,35.127145],
+  "bbox": [
+    -106.580715,
+    35.127145,
+    -106.580715,
+    35.127145
+],
   "geometry": {"coordinates":[-106.580715,35.127145],"type":"Point"}
 }

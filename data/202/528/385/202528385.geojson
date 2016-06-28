@@ -2,13 +2,14 @@
   "id": 202528385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.286819,32.802237,-108.286819,32.802237",
     "geom:latitude":32.802237,
     "geom:longitude":-108.286819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3635 Pearce Rd",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202528385,
-    "wof:lastmodified":1449060805,
+    "wof:lastmodified":1466699279,
     "wof:name":"A & O Water Well Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "company"
     ]
 },
-  "bbox": [-108.286819,32.802237,-108.286819,32.802237],
-  "geometry": {"coordinates":[-108.286819,32.802237],"type":"Point"}
+  "bbox": [
+    -108.286819,
+    32.802237,
+    -108.286819,
+    32.802237
+],
+  "geometry": {"coordinates":[-108.28681899999999,32.802237],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169817057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.561,35.102875,-106.561,35.102875",
     "geom:latitude":35.102875,
     "geom:longitude":-106.561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7504 Morrow Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169817057,
-    "wof:lastmodified":1449035313,
+    "wof:lastmodified":1466698721,
     "wof:name":"Albuquerque Stripe A Lot",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.561,35.102875,-106.561,35.102875],
-  "geometry": {"coordinates":[-106.561,35.102875],"type":"Point"}
+  "bbox": [
+    -106.561,
+    35.102875,
+    -106.561,
+    35.102875
+],
+  "geometry": {"coordinates":[-106.56100000000001,35.102875],"type":"Point"}
 }

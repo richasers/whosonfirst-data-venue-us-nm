@@ -2,13 +2,14 @@
   "id": 186168419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.060843,35.987924,-106.060843,35.987924",
     "geom:latitude":35.987924,
     "geom:longitude":-106.060843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"734 N Riverside Dr",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186168419,
-    "wof:lastmodified":1449051774,
+    "wof:lastmodified":1466697617,
     "wof:name":"A & S Satellite Security Systs",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-106.060843,35.987924,-106.060843,35.987924],
-  "geometry": {"coordinates":[-106.060843,35.987924],"type":"Point"}
+  "bbox": [
+    -106.060843,
+    35.987924,
+    -106.060843,
+    35.987924
+],
+  "geometry": {"coordinates":[-106.06084300000001,35.987924],"type":"Point"}
 }

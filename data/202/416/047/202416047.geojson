@@ -2,13 +2,14 @@
   "id": 202416047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.962978,32.866848,-105.962978,32.866848",
     "geom:latitude":32.866848,
     "geom:longitude":-105.962978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Hamilton Rd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202416047,
-    "wof:lastmodified":1449061269,
+    "wof:lastmodified":1466698147,
     "wof:name":"Desert Hills Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.962978,32.866848,-105.962978,32.866848],
-  "geometry": {"coordinates":[-105.962978,32.866848],"type":"Point"}
+  "bbox": [
+    -105.962978,
+    32.866848,
+    -105.962978,
+    32.866848
+],
+  "geometry": {"coordinates":[-105.96297800000001,32.866848],"type":"Point"}
 }

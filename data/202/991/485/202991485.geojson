@@ -2,13 +2,14 @@
   "id": 202991485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.681392,35.188369,-106.681392,35.188369",
     "geom:latitude":35.188369,
     "geom:longitude":-106.681392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4640 Fairfax Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202991485,
-    "wof:lastmodified":1449060904,
+    "wof:lastmodified":1466700836,
     "wof:name":"Clark Hardgrave Case Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "management"
     ]
 },
-  "bbox": [-106.681392,35.188369,-106.681392,35.188369],
+  "bbox": [
+    -106.681392,
+    35.188369,
+    -106.681392,
+    35.188369
+],
   "geometry": {"coordinates":[-106.681392,35.188369],"type":"Point"}
 }

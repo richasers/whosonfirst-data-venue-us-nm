@@ -2,13 +2,14 @@
   "id": 185860947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.851807,32.301512,-106.851807,32.301512",
     "geom:latitude":32.301512,
     "geom:longitude":-106.851807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5100 W Picacho Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185860947,
-    "wof:lastmodified":1449007330,
+    "wof:lastmodified":1466698125,
     "wof:name":"Fairacres Baptist Church",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.851807,32.301512,-106.851807,32.301512],
-  "geometry": {"coordinates":[-106.851807,32.301512],"type":"Point"}
+  "bbox": [
+    -106.851807,
+    32.301512,
+    -106.851807,
+    32.301512
+],
+  "geometry": {"coordinates":[-106.85180699999999,32.301512],"type":"Point"}
 }

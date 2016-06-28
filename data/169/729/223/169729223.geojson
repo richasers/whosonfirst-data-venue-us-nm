@@ -2,13 +2,14 @@
   "id": 169729223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.680602,35.065245,-106.680602,35.065245",
     "geom:latitude":35.065245,
     "geom:longitude":-106.680602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1631 Bridge Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169729223,
-    "wof:lastmodified":1449034344,
+    "wof:lastmodified":1466697882,
     "wof:name":"Pollo Alas Brasas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.680602,35.065245,-106.680602,35.065245],
-  "geometry": {"coordinates":[-106.680602,35.065245],"type":"Point"}
+  "bbox": [
+    -106.680602,
+    35.065245,
+    -106.680602,
+    35.065245
+],
+  "geometry": {"coordinates":[-106.68060199999999,35.065245],"type":"Point"}
 }

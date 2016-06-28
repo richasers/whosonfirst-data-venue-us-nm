@@ -2,13 +2,14 @@
   "id": 185994989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.209219,32.783499,-108.209219,32.783499",
     "geom:latitude":32.783499,
     "geom:longitude":-108.209219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Kirkland Rd",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185994989,
-    "wof:lastmodified":1449006659,
+    "wof:lastmodified":1466699744,
     "wof:name":"Brewer Backhoe & Excavation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.209219,32.783499,-108.209219,32.783499],
+  "bbox": [
+    -108.209219,
+    32.783499,
+    -108.209219,
+    32.783499
+],
   "geometry": {"coordinates":[-108.209219,32.783499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186205195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.313603,35.125192,-106.313603,35.125192",
     "geom:latitude":35.125192,
     "geom:longitude":-106.313603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Cam de Avila",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186205195,
-    "wof:lastmodified":1449051981,
+    "wof:lastmodified":1466698093,
     "wof:name":"Greyhound Companions NM",
     "wof:parent_id":85892617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.313603,35.125192,-106.313603,35.125192],
+  "bbox": [
+    -106.313603,
+    35.125192,
+    -106.313603,
+    35.125192
+],
   "geometry": {"coordinates":[-106.313603,35.125192],"type":"Point"}
 }

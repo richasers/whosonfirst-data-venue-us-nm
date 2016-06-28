@@ -2,13 +2,14 @@
   "id": 203091233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.010351,35.588635,-106.010351,35.588635",
     "geom:latitude":35.588635,
     "geom:longitude":-106.010351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Pla Dalinda",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203091233,
-    "wof:lastmodified":1449025128,
+    "wof:lastmodified":1466698603,
     "wof:name":"Rocketman Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.010351,35.588635,-106.010351,35.588635],
+  "bbox": [
+    -106.010351,
+    35.588635,
+    -106.010351,
+    35.588635
+],
   "geometry": {"coordinates":[-106.010351,35.588635],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185626419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.63755,35.157488,-106.63755,35.157488",
     "geom:latitude":35.157488,
     "geom:longitude":-106.63755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6714 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":185626419,
-    "wof:lastmodified":1449008211,
+    "wof:lastmodified":1466697890,
     "wof:name":"Legends of The Rio Grande",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "performance"
     ]
 },
-  "bbox": [-106.63755,35.157488,-106.63755,35.157488],
+  "bbox": [
+    -106.63755,
+    35.157488,
+    -106.63755,
+    35.157488
+],
   "geometry": {"coordinates":[-106.63755,35.157488],"type":"Point"}
 }

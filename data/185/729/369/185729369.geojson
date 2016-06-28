@@ -2,13 +2,14 @@
   "id": 185729369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.011898,36.826845,-108.011898,36.826845",
     "geom:latitude":36.826845,
     "geom:longitude":-108.011898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1523 W Aztec Blvd",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185729369,
-    "wof:lastmodified":1449007445,
+    "wof:lastmodified":1466698966,
     "wof:name":"CQM Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "measurement"
     ]
 },
-  "bbox": [-108.011898,36.826845,-108.011898,36.826845],
+  "bbox": [
+    -108.011898,
+    36.826845,
+    -108.011898,
+    36.826845
+],
   "geometry": {"coordinates":[-108.011898,36.826845],"type":"Point"}
 }

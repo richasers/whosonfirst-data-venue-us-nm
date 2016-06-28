@@ -2,13 +2,14 @@
   "id": 353927261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.60578,35.080071,-106.60578,35.080071",
     "geom:latitude":35.080071,
     "geom:longitude":-106.60578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 1/2 Amherst Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":353927261,
-    "wof:lastmodified":1449020533,
+    "wof:lastmodified":1466697924,
     "wof:name":"A Few Of My Favorite Things",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "costumes-renting"
     ]
 },
-  "bbox": [-106.60578,35.080071,-106.60578,35.080071],
+  "bbox": [
+    -106.60578,
+    35.080071,
+    -106.60578,
+    35.080071
+],
   "geometry": {"coordinates":[-106.60578,35.080071],"type":"Point"}
 }

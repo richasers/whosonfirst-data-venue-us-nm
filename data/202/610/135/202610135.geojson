@@ -2,13 +2,14 @@
   "id": 202610135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.93196,35.6779,-105.93196,35.6779",
     "geom:latitude":35.6779,
     "geom:longitude":-105.93196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"569 E Garcia St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202610135,
-    "wof:lastmodified":1449062594,
+    "wof:lastmodified":1466698515,
     "wof:name":"Garcia Street Club Inc",
     "wof:parent_id":85880803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-105.93196,35.6779,-105.93196,35.6779],
+  "bbox": [
+    -105.93196,
+    35.6779,
+    -105.93196,
+    35.6779
+],
   "geometry": {"coordinates":[-105.93196,35.6779],"type":"Point"}
 }

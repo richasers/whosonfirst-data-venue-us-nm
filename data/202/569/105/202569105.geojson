@@ -2,13 +2,14 @@
   "id": 202569105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.768813,32.24689,-107.768813,32.24689",
     "geom:latitude":32.24689,
     "geom:longitude":-107.768813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 W Pear St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202569105,
-    "wof:lastmodified":1449062538,
+    "wof:lastmodified":1466697924,
     "wof:name":"Children Yuth Families NM Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "protective"
     ]
 },
-  "bbox": [-107.768813,32.24689,-107.768813,32.24689],
-  "geometry": {"coordinates":[-107.768813,32.24689],"type":"Point"}
+  "bbox": [
+    -107.768813,
+    32.24689,
+    -107.768813,
+    32.24689
+],
+  "geometry": {"coordinates":[-107.76881299999999,32.24689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203039367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.25029,33.140242,-107.25029,33.140242",
     "geom:latitude":33.140242,
     "geom:longitude":-107.25029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 N Date St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203039367,
-    "wof:lastmodified":1449026622,
+    "wof:lastmodified":1466698018,
     "wof:name":"Michele's Salon & Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-107.25029,33.140242,-107.25029,33.140242],
-  "geometry": {"coordinates":[-107.25029,33.140242],"type":"Point"}
+  "bbox": [
+    -107.25029,
+    33.140242,
+    -107.25029,
+    33.140242
+],
+  "geometry": {"coordinates":[-107.25029000000001,33.140242],"type":"Point"}
 }

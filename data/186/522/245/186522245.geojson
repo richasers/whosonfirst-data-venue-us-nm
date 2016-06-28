@@ -2,13 +2,14 @@
   "id": 186522245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.700946,35.256236,-106.700946,35.256236",
     "geom:latitude":35.256236,
     "geom:longitude":-106.700946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 Darlene Rd SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186522245,
-    "wof:lastmodified":1449051659,
+    "wof:lastmodified":1466700216,
     "wof:name":"Amen Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.700946,35.256236,-106.700946,35.256236],
+  "bbox": [
+    -106.700946,
+    35.256236,
+    -106.700946,
+    35.256236
+],
   "geometry": {"coordinates":[-106.700946,35.256236],"type":"Point"}
 }

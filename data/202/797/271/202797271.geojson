@@ -2,13 +2,14 @@
   "id": 202797271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.840654,32.281906,-106.840654,32.281906",
     "geom:latitude":32.281906,
     "geom:longitude":-106.840654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 S Fairacres Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202797271,
-    "wof:lastmodified":1449062398,
+    "wof:lastmodified":1466699972,
     "wof:name":"Fair Acres Auto Body Repair",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-106.840654,32.281906,-106.840654,32.281906],
+  "bbox": [
+    -106.840654,
+    32.281906,
+    -106.840654,
+    32.281906
+],
   "geometry": {"coordinates":[-106.840654,32.281906],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186377627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.228241,32.423793,-104.228241,32.423793",
     "geom:latitude":32.423793,
     "geom:longitude":-104.228241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 W McKay St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186377627,
-    "wof:lastmodified":1449051393,
+    "wof:lastmodified":1466699658,
     "wof:name":"Shahara Oil Corp",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "exploration"
     ]
 },
-  "bbox": [-104.228241,32.423793,-104.228241,32.423793],
+  "bbox": [
+    -104.228241,
+    32.423793,
+    -104.228241,
+    32.423793
+],
   "geometry": {"coordinates":[-104.228241,32.423793],"type":"Point"}
 }

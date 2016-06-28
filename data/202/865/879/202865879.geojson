@@ -2,13 +2,14 @@
   "id": 202865879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.940626,35.726302,-105.940626,35.726302",
     "geom:latitude":35.726302,
     "geom:longitude":-105.940626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Tano Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202865879,
-    "wof:lastmodified":1449062029,
+    "wof:lastmodified":1466700248,
     "wof:name":"Courtnerys Designs",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-105.940626,35.726302,-105.940626,35.726302],
-  "geometry": {"coordinates":[-105.940626,35.726302],"type":"Point"}
+  "bbox": [
+    -105.940626,
+    35.726302,
+    -105.940626,
+    35.726302
+],
+  "geometry": {"coordinates":[-105.94062599999999,35.726302],"type":"Point"}
 }

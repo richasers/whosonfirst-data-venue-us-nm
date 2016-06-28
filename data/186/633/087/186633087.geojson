@@ -2,13 +2,14 @@
   "id": 186633087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.145653,32.734273,-103.145653,32.734273",
     "geom:latitude":32.734273,
     "geom:longitude":-103.145653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 W Cochiti Ave",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186633087,
-    "wof:lastmodified":1449053012,
+    "wof:lastmodified":1466700849,
     "wof:name":"Hugo's Lease Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-103.145653,32.734273,-103.145653,32.734273],
+  "bbox": [
+    -103.145653,
+    32.734273,
+    -103.145653,
+    32.734273
+],
   "geometry": {"coordinates":[-103.145653,32.734273],"type":"Point"}
 }

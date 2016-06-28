@@ -2,13 +2,14 @@
   "id": 186106739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.568612,35.073837,-106.568612,35.073837",
     "geom:latitude":35.073837,
     "geom:longitude":-106.568612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Louisiana Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186106739,
-    "wof:lastmodified":1449050203,
+    "wof:lastmodified":1466698985,
     "wof:name":"Hiep Thanh Bida Billiards",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "billiard"
     ]
 },
-  "bbox": [-106.568612,35.073837,-106.568612,35.073837],
+  "bbox": [
+    -106.568612,
+    35.073837,
+    -106.568612,
+    35.073837
+],
   "geometry": {"coordinates":[-106.568612,35.073837],"type":"Point"}
 }

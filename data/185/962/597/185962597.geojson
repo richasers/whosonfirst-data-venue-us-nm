@@ -2,13 +2,14 @@
   "id": 185962597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.595563,36.371241,-105.595563,36.371241",
     "geom:latitude":36.371241,
     "geom:longitude":-105.595563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1422 State Rte 68",
     "sg:city":"Velarde",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185962597,
-    "wof:lastmodified":1449007562,
+    "wof:lastmodified":1466699404,
     "wof:name":"Auto Mobile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-105.595563,36.371241,-105.595563,36.371241],
+  "bbox": [
+    -105.595563,
+    36.371241,
+    -105.595563,
+    36.371241
+],
   "geometry": {"coordinates":[-105.595563,36.371241],"type":"Point"}
 }

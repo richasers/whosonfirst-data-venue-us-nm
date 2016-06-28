@@ -2,13 +2,14 @@
   "id": 185993113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.76016,32.276899,-107.76016,32.276899",
     "geom:latitude":32.276899,
     "geom:longitude":-107.76016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 N Gold Ave",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":185993113,
-    "wof:lastmodified":1449007326,
+    "wof:lastmodified":1466699608,
     "wof:name":"L & S Auto Collision Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "painting"
     ]
 },
-  "bbox": [-107.76016,32.276899,-107.76016,32.276899],
+  "bbox": [
+    -107.76016,
+    32.276899,
+    -107.76016,
+    32.276899
+],
   "geometry": {"coordinates":[-107.76016,32.276899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202490179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.098394,35.038633,-107.098394,35.038633",
     "geom:latitude":35.038633,
     "geom:longitude":-107.098394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Canyon Dr",
     "sg:city":"Laguna",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202490179,
-    "wof:lastmodified":1449062389,
+    "wof:lastmodified":1466699048,
     "wof:name":"Apache Canyon Ranch B & B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bed"
     ]
 },
-  "bbox": [-107.098394,35.038633,-107.098394,35.038633],
+  "bbox": [
+    -107.098394,
+    35.038633,
+    -107.098394,
+    35.038633
+],
   "geometry": {"coordinates":[-107.098394,35.038633],"type":"Point"}
 }

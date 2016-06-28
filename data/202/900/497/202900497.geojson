@@ -2,13 +2,14 @@
   "id": 202900497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.55839,35.074686,-106.55839,35.074686",
     "geom:latitude":35.074686,
     "geom:longitude":-106.55839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7918 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202900497,
-    "wof:lastmodified":1449061212,
+    "wof:lastmodified":1466700273,
     "wof:name":"Auto Services LTD Transmission",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-106.55839,35.074686,-106.55839,35.074686],
+  "bbox": [
+    -106.55839,
+    35.074686,
+    -106.55839,
+    35.074686
+],
   "geometry": {"coordinates":[-106.55839,35.074686],"type":"Point"}
 }

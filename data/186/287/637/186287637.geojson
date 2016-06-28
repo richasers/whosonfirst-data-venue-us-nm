@@ -2,13 +2,14 @@
   "id": 186287637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.521901,35.141087,-106.521901,35.141087",
     "geom:latitude":35.141087,
     "geom:longitude":-106.521901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5313 Purcell Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186287637,
-    "wof:lastmodified":1449050422,
+    "wof:lastmodified":1466699165,
     "wof:name":"Always Professionsal Lawn Svc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.521901,35.141087,-106.521901,35.141087],
+  "bbox": [
+    -106.521901,
+    35.141087,
+    -106.521901,
+    35.141087
+],
   "geometry": {"coordinates":[-106.521901,35.141087],"type":"Point"}
 }

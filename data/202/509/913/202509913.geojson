@@ -2,13 +2,14 @@
   "id": 202509913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.953797,35.610321,-105.953797,35.610321",
     "geom:latitude":35.610321,
     "geom:longitude":-105.953797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Jack Rabbit Ln",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202509913,
-    "wof:lastmodified":1449060198,
+    "wof:lastmodified":1466699203,
     "wof:name":"White Stone Farm",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.953797,35.610321,-105.953797,35.610321],
-  "geometry": {"coordinates":[-105.953797,35.610321],"type":"Point"}
+  "bbox": [
+    -105.953797,
+    35.610321,
+    -105.953797,
+    35.610321
+],
+  "geometry": {"coordinates":[-105.95379699999999,35.610321],"type":"Point"}
 }

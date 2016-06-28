@@ -2,13 +2,14 @@
   "id": 202866349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.707495,35.14257,-106.707495,35.14257",
     "geom:latitude":35.14257,
     "geom:longitude":-106.707495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5900 Azuelo Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202866349,
-    "wof:lastmodified":1449061330,
+    "wof:lastmodified":1466700250,
     "wof:name":"Gorilla Fence Co",
     "wof:parent_id":85865321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-106.707495,35.14257,-106.707495,35.14257],
-  "geometry": {"coordinates":[-106.707495,35.14257],"type":"Point"}
+  "bbox": [
+    -106.707495,
+    35.14257,
+    -106.707495,
+    35.14257
+],
+  "geometry": {"coordinates":[-106.70749499999999,35.14257],"type":"Point"}
 }

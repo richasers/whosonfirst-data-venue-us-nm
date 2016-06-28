@@ -2,13 +2,14 @@
   "id": 353971803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604756,32.014447,-106.604756,32.014447",
     "geom:latitude":32.014447,
     "geom:longitude":-106.604756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Anthony Dr",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353971803,
-    "wof:lastmodified":1449019563,
+    "wof:lastmodified":1466699018,
     "wof:name":"Express Cash Pawn 2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "check"
     ]
 },
-  "bbox": [-106.604756,32.014447,-106.604756,32.014447],
-  "geometry": {"coordinates":[-106.604756,32.014447],"type":"Point"}
+  "bbox": [
+    -106.604756,
+    32.014447,
+    -106.604756,
+    32.014447
+],
+  "geometry": {"coordinates":[-106.60475599999999,32.014447],"type":"Point"}
 }

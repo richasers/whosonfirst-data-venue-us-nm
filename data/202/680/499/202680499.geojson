@@ -2,13 +2,14 @@
   "id": 202680499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.187562,34.400598,-103.187562,34.400598",
     "geom:latitude":34.400598,
     "geom:longitude":-103.187562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Sycamore St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202680499,
-    "wof:lastmodified":1449061870,
+    "wof:lastmodified":1466699531,
     "wof:name":"Donald E Clifton CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-103.187562,34.400598,-103.187562,34.400598],
+  "bbox": [
+    -103.187562,
+    34.400598,
+    -103.187562,
+    34.400598
+],
   "geometry": {"coordinates":[-103.187562,34.400598],"type":"Point"}
 }

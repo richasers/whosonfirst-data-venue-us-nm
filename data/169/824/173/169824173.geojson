@@ -2,13 +2,14 @@
   "id": 169824173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.235166,35.600688,-105.235166,35.600688",
     "geom:latitude":35.600688,
     "geom:longitude":-105.235166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2707 Hot Springs Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169824173,
-    "wof:lastmodified":1449033865,
+    "wof:lastmodified":1466698761,
     "wof:name":"Loretta's Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-105.235166,35.600688,-105.235166,35.600688],
-  "geometry": {"coordinates":[-105.235166,35.600688],"type":"Point"}
+  "bbox": [
+    -105.235166,
+    35.600688,
+    -105.235166,
+    35.600688
+],
+  "geometry": {"coordinates":[-105.23516600000001,35.600688],"type":"Point"}
 }

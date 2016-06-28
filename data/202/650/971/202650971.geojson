@@ -2,13 +2,14 @@
   "id": 202650971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.891176,34.054524,-106.891176,34.054524",
     "geom:latitude":34.054524,
     "geom:longitude":-106.891176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 S California St",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202650971,
-    "wof:lastmodified":1449061668,
+    "wof:lastmodified":1466699146,
     "wof:name":"Water & Ice Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "eating"
     ]
 },
-  "bbox": [-106.891176,34.054524,-106.891176,34.054524],
+  "bbox": [
+    -106.891176,
+    34.054524,
+    -106.891176,
+    34.054524
+],
   "geometry": {"coordinates":[-106.891176,34.054524],"type":"Point"}
 }

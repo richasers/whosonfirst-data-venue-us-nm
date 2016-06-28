@@ -2,13 +2,14 @@
   "id": 353963377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.673556,35.172594,-106.673556,35.172594",
     "geom:latitude":35.172594,
     "geom:longitude":-106.673556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6644 Caminito Coors NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353963377,
-    "wof:lastmodified":1449018503,
+    "wof:lastmodified":1466698836,
     "wof:name":"A Touch Of Glass",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "glass-auto"
     ]
 },
-  "bbox": [-106.673556,35.172594,-106.673556,35.172594],
+  "bbox": [
+    -106.673556,
+    35.172594,
+    -106.673556,
+    35.172594
+],
   "geometry": {"coordinates":[-106.673556,35.172594],"type":"Point"}
 }

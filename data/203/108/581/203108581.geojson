@@ -2,13 +2,14 @@
   "id": 203108581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.484491,35.134041,-106.484491,35.134041",
     "geom:latitude":35.134041,
     "geom:longitude":-106.484491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13461 Desert Hills Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203108581,
-    "wof:lastmodified":1449024979,
+    "wof:lastmodified":1466698816,
     "wof:name":"Capital Planning Strategies LL",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-106.484491,35.134041,-106.484491,35.134041],
-  "geometry": {"coordinates":[-106.484491,35.134041],"type":"Point"}
+  "bbox": [
+    -106.484491,
+    35.134041,
+    -106.484491,
+    35.134041
+],
+  "geometry": {"coordinates":[-106.48449100000001,35.134041],"type":"Point"}
 }

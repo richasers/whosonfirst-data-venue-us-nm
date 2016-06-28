@@ -2,13 +2,14 @@
   "id": 186368547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.577441,35.112172,-106.577441,35.112172",
     "geom:latitude":35.112172,
     "geom:longitude":-106.577441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2730 San Pedro Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186368547,
-    "wof:lastmodified":1449051017,
+    "wof:lastmodified":1466699599,
     "wof:name":"GCS Automotive",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-106.577441,35.112172,-106.577441,35.112172],
-  "geometry": {"coordinates":[-106.577441,35.112172],"type":"Point"}
+  "bbox": [
+    -106.577441,
+    35.112172,
+    -106.577441,
+    35.112172
+],
+  "geometry": {"coordinates":[-106.57744099999999,35.112172],"type":"Point"}
 }

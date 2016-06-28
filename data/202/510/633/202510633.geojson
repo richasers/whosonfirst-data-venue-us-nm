@@ -2,13 +2,14 @@
   "id": 202510633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.594515,35.186188,-106.594515,35.186188",
     "geom:latitude":35.186188,
     "geom:longitude":-106.594515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8915 Adams St",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202510633,
-    "wof:lastmodified":1449061651,
+    "wof:lastmodified":1466699203,
     "wof:name":"Century Dry Wall & Constr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.594515,35.186188,-106.594515,35.186188],
+  "bbox": [
+    -106.594515,
+    35.186188,
+    -106.594515,
+    35.186188
+],
   "geometry": {"coordinates":[-106.594515,35.186188],"type":"Point"}
 }

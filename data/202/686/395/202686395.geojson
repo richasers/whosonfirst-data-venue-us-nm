@@ -2,13 +2,14 @@
   "id": 202686395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.56742,35.048893,-106.56742,35.048893",
     "geom:latitude":35.048893,
     "geom:longitude":-106.56742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1652 Perimeter Cir SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202686395,
-    "wof:lastmodified":1449062040,
+    "wof:lastmodified":1466699545,
     "wof:name":"Julia L Watson",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "marksmanship"
     ]
 },
-  "bbox": [-106.56742,35.048893,-106.56742,35.048893],
+  "bbox": [
+    -106.56742,
+    35.048893,
+    -106.56742,
+    35.048893
+],
   "geometry": {"coordinates":[-106.56742,35.048893],"type":"Point"}
 }

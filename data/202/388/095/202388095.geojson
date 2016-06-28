@@ -2,13 +2,14 @@
   "id": 202388095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.998991,35.647866,-105.998991,35.647866",
     "geom:latitude":35.647866,
     "geom:longitude":-105.998991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3232 Louraine St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202388095,
-    "wof:lastmodified":1449060191,
+    "wof:lastmodified":1466697780,
     "wof:name":"Bowles Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.998991,35.647866,-105.998991,35.647866],
+  "bbox": [
+    -105.998991,
+    35.647866,
+    -105.998991,
+    35.647866
+],
   "geometry": {"coordinates":[-105.998991,35.647866],"type":"Point"}
 }

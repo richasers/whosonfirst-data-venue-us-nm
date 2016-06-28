@@ -2,13 +2,14 @@
   "id": 185982131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.915735,35.670267,-105.915735,35.670267",
     "geom:latitude":35.670267,
     "geom:longitude":-105.915735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 Cll Romolo",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185982131,
-    "wof:lastmodified":1449006886,
+    "wof:lastmodified":1466699657,
     "wof:name":"Christopher Rote Music",
     "wof:parent_id":85880821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-105.915735,35.670267,-105.915735,35.670267],
+  "bbox": [
+    -105.915735,
+    35.670267,
+    -105.915735,
+    35.670267
+],
   "geometry": {"coordinates":[-105.915735,35.670267],"type":"Point"}
 }

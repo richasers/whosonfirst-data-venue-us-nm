@@ -2,13 +2,14 @@
   "id": 186273659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.951703,35.691048,-105.951703,35.691048",
     "geom:latitude":35.691048,
     "geom:longitude":-105.951703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Pso de Peralta",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186273659,
-    "wof:lastmodified":1449051759,
+    "wof:lastmodified":1466698967,
     "wof:name":"Cardrageous",
     "wof:parent_id":85880797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "greeting"
     ]
 },
-  "bbox": [-105.951703,35.691048,-105.951703,35.691048],
-  "geometry": {"coordinates":[-105.951703,35.691048],"type":"Point"}
+  "bbox": [
+    -105.951703,
+    35.691048,
+    -105.951703,
+    35.691048
+],
+  "geometry": {"coordinates":[-105.95170299999999,35.691048],"type":"Point"}
 }

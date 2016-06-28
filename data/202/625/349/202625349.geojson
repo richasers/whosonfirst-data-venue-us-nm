@@ -2,13 +2,14 @@
   "id": 202625349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.231407,32.432126,-104.231407,32.432126",
     "geom:latitude":32.432126,
     "geom:longitude":-104.231407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 N Alameda St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202625349,
-    "wof:lastmodified":1449062696,
+    "wof:lastmodified":1466698761,
     "wof:name":"Carlsbad Area Art Assoc Pottry",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-104.231407,32.432126,-104.231407,32.432126],
+  "bbox": [
+    -104.231407,
+    32.432126,
+    -104.231407,
+    32.432126
+],
   "geometry": {"coordinates":[-104.231407,32.432126],"type":"Point"}
 }

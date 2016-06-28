@@ -2,13 +2,14 @@
   "id": 203040163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.952941,35.692037,-105.952941,35.692037",
     "geom:latitude":35.692037,
     "geom:longitude":-105.952941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Fiesta St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203040163,
-    "wof:lastmodified":1449026826,
+    "wof:lastmodified":1466698033,
     "wof:name":"Bobby Palm Construction",
     "wof:parent_id":85880797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.952941,35.692037,-105.952941,35.692037],
+  "bbox": [
+    -105.952941,
+    35.692037,
+    -105.952941,
+    35.692037
+],
   "geometry": {"coordinates":[-105.952941,35.692037],"type":"Point"}
 }

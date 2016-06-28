@@ -2,13 +2,14 @@
   "id": 186567193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.551961,35.163942,-106.551961,35.163942",
     "geom:latitude":35.163942,
     "geom:longitude":-106.551961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8219 Mosquero Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186567193,
-    "wof:lastmodified":1449053044,
+    "wof:lastmodified":1466700651,
     "wof:name":"Star's Care",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.551961,35.163942,-106.551961,35.163942],
-  "geometry": {"coordinates":[-106.551961,35.163942],"type":"Point"}
+  "bbox": [
+    -106.551961,
+    35.163942,
+    -106.551961,
+    35.163942
+],
+  "geometry": {"coordinates":[-106.55196100000001,35.163942],"type":"Point"}
 }

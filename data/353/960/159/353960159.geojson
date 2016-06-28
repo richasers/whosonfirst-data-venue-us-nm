@@ -2,13 +2,14 @@
   "id": 353960159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.68293,35.197051,-106.68293,35.197051",
     "geom:latitude":35.197051,
     "geom:longitude":-106.68293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10035 Country Club Ln NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353960159,
-    "wof:lastmodified":1449020074,
+    "wof:lastmodified":1466698773,
     "wof:name":"The Inn At Paradise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "wedding"
     ]
 },
-  "bbox": [-106.68293,35.197051,-106.68293,35.197051],
+  "bbox": [
+    -106.68293,
+    35.197051,
+    -106.68293,
+    35.197051
+],
   "geometry": {"coordinates":[-106.68293,35.197051],"type":"Point"}
 }

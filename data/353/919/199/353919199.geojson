@@ -2,13 +2,14 @@
   "id": 353919199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638802,35.081871,-106.638802,35.081871",
     "geom:latitude":35.081871,
     "geom:longitude":-106.638802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Highland Park Cir SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353919199,
-    "wof:lastmodified":1449020184,
+    "wof:lastmodified":1466697703,
     "wof:name":"Albuquerque Press Club Inc",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "employer"
     ]
 },
-  "bbox": [-106.638802,35.081871,-106.638802,35.081871],
+  "bbox": [
+    -106.638802,
+    35.081871,
+    -106.638802,
+    35.081871
+],
   "geometry": {"coordinates":[-106.638802,35.081871],"type":"Point"}
 }

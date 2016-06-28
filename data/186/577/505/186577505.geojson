@@ -2,13 +2,14 @@
   "id": 186577505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.630068,35.111185,-106.630068,35.111185",
     "geom:latitude":35.111185,
     "geom:longitude":-106.630068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2715 Broadbent Pkwy NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186577505,
-    "wof:lastmodified":1449053102,
+    "wof:lastmodified":1466700560,
     "wof:name":"New Mexico Donor Program",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-106.630068,35.111185,-106.630068,35.111185],
-  "geometry": {"coordinates":[-106.630068,35.111185],"type":"Point"}
+  "bbox": [
+    -106.630068,
+    35.111185,
+    -106.630068,
+    35.111185
+],
+  "geometry": {"coordinates":[-106.63006799999999,35.111185],"type":"Point"}
 }

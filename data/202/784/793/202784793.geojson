@@ -2,13 +2,14 @@
   "id": 202784793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.78479,32.340733,-106.78479,32.340733",
     "geom:latitude":32.340733,
     "geom:longitude":-106.78479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"785 Creed Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202784793,
-    "wof:lastmodified":1449061781,
+    "wof:lastmodified":1466699924,
     "wof:name":"A Dino Ray Villani Law Office",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.78479,32.340733,-106.78479,32.340733],
+  "bbox": [
+    -106.78479,
+    32.340733,
+    -106.78479,
+    32.340733
+],
   "geometry": {"coordinates":[-106.78479,32.340733],"type":"Point"}
 }

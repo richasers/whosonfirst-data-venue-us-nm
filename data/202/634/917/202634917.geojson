@@ -2,13 +2,14 @@
   "id": 202634917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.535357,35.140832,-106.535357,35.140832",
     "geom:latitude":35.140832,
     "geom:longitude":-106.535357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9723 Lona Ln NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202634917,
-    "wof:lastmodified":1449061338,
+    "wof:lastmodified":1466698909,
     "wof:name":"Kool Heat Productions",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mail"
     ]
 },
-  "bbox": [-106.535357,35.140832,-106.535357,35.140832],
+  "bbox": [
+    -106.535357,
+    35.140832,
+    -106.535357,
+    35.140832
+],
   "geometry": {"coordinates":[-106.535357,35.140832],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353933877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.55262,35.074219,-106.55262,35.074219",
     "geom:latitude":35.074219,
     "geom:longitude":-106.55262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Virginia St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353933877,
-    "wof:lastmodified":1449018778,
+    "wof:lastmodified":1466698112,
     "wof:name":"A-Real Muffler Shop",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-106.55262,35.074219,-106.55262,35.074219],
+  "bbox": [
+    -106.55262,
+    35.074219,
+    -106.55262,
+    35.074219
+],
   "geometry": {"coordinates":[-106.55262,35.074219],"type":"Point"}
 }

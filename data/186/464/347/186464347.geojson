@@ -2,13 +2,14 @@
   "id": 186464347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.299132,35.884783,-106.299132,35.884783",
     "geom:latitude":35.884783,
     "geom:longitude":-106.299132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1675 16th St",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186464347,
-    "wof:lastmodified":1449051105,
+    "wof:lastmodified":1466700228,
     "wof:name":"Larranaga Drywall Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.299132,35.884783,-106.299132,35.884783],
+  "bbox": [
+    -106.299132,
+    35.884783,
+    -106.299132,
+    35.884783
+],
   "geometry": {"coordinates":[-106.299132,35.884783],"type":"Point"}
 }

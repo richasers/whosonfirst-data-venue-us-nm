@@ -2,13 +2,14 @@
   "id": 203068385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.187618,34.406811,-103.187618,34.406811",
     "geom:latitude":34.406811,
     "geom:longitude":-103.187618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Sycamore St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203068385,
-    "wof:lastmodified":1449025903,
+    "wof:lastmodified":1466698317,
     "wof:name":"Starlight Janitorial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-103.187618,34.406811,-103.187618,34.406811],
+  "bbox": [
+    -103.187618,
+    34.406811,
+    -103.187618,
+    34.406811
+],
   "geometry": {"coordinates":[-103.187618,34.406811],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169750115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.725192,35.524389,-108.725192,35.524389",
     "geom:latitude":35.524389,
     "geom:longitude":-108.725192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Idaho Cir",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169750115,
-    "wof:lastmodified":1449034673,
+    "wof:lastmodified":1466698070,
     "wof:name":"Gallup Security Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "patrol"
     ]
 },
-  "bbox": [-108.725192,35.524389,-108.725192,35.524389],
-  "geometry": {"coordinates":[-108.725192,35.524389],"type":"Point"}
+  "bbox": [
+    -108.725192,
+    35.524389,
+    -108.725192,
+    35.524389
+],
+  "geometry": {"coordinates":[-108.72519200000001,35.524389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186048151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.137336,32.707026,-103.137336,32.707026",
     "geom:latitude":32.707026,
     "geom:longitude":-103.137336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 W Clinton St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186048151,
-    "wof:lastmodified":1449051327,
+    "wof:lastmodified":1466698230,
     "wof:name":"515 Gym",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [-103.137336,32.707026,-103.137336,32.707026],
+  "bbox": [
+    -103.137336,
+    32.707026,
+    -103.137336,
+    32.707026
+],
   "geometry": {"coordinates":[-103.137336,32.707026],"type":"Point"}
 }

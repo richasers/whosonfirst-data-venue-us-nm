@@ -2,13 +2,14 @@
   "id": 202671977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.206744,36.727263,-108.206744,36.727263",
     "geom:latitude":36.727263,
     "geom:longitude":-108.206744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 W Animas St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202671977,
-    "wof:lastmodified":1449060692,
+    "wof:lastmodified":1466699495,
     "wof:name":"Jalu Fasteners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bolt"
     ]
 },
-  "bbox": [-108.206744,36.727263,-108.206744,36.727263],
+  "bbox": [
+    -108.206744,
+    36.727263,
+    -108.206744,
+    36.727263
+],
   "geometry": {"coordinates":[-108.206744,36.727263],"type":"Point"}
 }

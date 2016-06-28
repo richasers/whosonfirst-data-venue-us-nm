@@ -2,13 +2,14 @@
   "id": 202777255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.574705,35.168527,-106.574705,35.168527",
     "geom:latitude":35.168527,
     "geom:longitude":-106.574705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6501 Pino Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202777255,
-    "wof:lastmodified":1449061444,
+    "wof:lastmodified":1466699757,
     "wof:name":"A 1 State Wide Delivery",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-106.574705,35.168527,-106.574705,35.168527],
-  "geometry": {"coordinates":[-106.574705,35.168527],"type":"Point"}
+  "bbox": [
+    -106.574705,
+    35.168527,
+    -106.574705,
+    35.168527
+],
+  "geometry": {"coordinates":[-106.57470499999999,35.168527],"type":"Point"}
 }

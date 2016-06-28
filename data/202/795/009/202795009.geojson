@@ -2,13 +2,14 @@
   "id": 202795009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.886994,35.478525,-105.886994,35.478525",
     "geom:latitude":35.478525,
     "geom:longitude":-105.886994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Cerro Cir",
     "sg:city":"Lamy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202795009,
-    "wof:lastmodified":1449061613,
+    "wof:lastmodified":1466700061,
     "wof:name":"Collective Heritage Institute",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-105.886994,35.478525,-105.886994,35.478525],
+  "bbox": [
+    -105.886994,
+    35.478525,
+    -105.886994,
+    35.478525
+],
   "geometry": {"coordinates":[-105.886994,35.478525],"type":"Point"}
 }

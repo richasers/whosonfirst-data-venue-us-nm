@@ -2,13 +2,14 @@
   "id": 185897847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.640902,35.118907,-106.640902,35.118907",
     "geom:latitude":35.118907,
     "geom:longitude":-106.640902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Candelaria Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185897847,
-    "wof:lastmodified":1449007974,
+    "wof:lastmodified":1466698473,
     "wof:name":"Giant-Conoco Gasoline",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-106.640902,35.118907,-106.640902,35.118907],
+  "bbox": [
+    -106.640902,
+    35.118907,
+    -106.640902,
+    35.118907
+],
   "geometry": {"coordinates":[-106.640902,35.118907],"type":"Point"}
 }

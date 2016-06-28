@@ -2,13 +2,14 @@
   "id": 202744243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.572719,35.163241,-106.572719,35.163241",
     "geom:latitude":35.163241,
     "geom:longitude":-106.572719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Via de Timoteo NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202744243,
-    "wof:lastmodified":1449061024,
+    "wof:lastmodified":1466699865,
     "wof:name":"Major Appliance Repair",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-106.572719,35.163241,-106.572719,35.163241],
-  "geometry": {"coordinates":[-106.572719,35.163241],"type":"Point"}
+  "bbox": [
+    -106.572719,
+    35.163241,
+    -106.572719,
+    35.163241
+],
+  "geometry": {"coordinates":[-106.57271900000001,35.163241],"type":"Point"}
 }

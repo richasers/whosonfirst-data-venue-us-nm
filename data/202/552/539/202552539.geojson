@@ -2,13 +2,14 @@
   "id": 202552539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.74011,35.065897,-106.74011,35.065897",
     "geom:latitude":35.065897,
     "geom:longitude":-106.74011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9605 Tristani Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202552539,
-    "wof:lastmodified":1449061176,
+    "wof:lastmodified":1466697677,
     "wof:name":"Talking Tours",
     "wof:parent_id":85892581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-106.74011,35.065897,-106.74011,35.065897],
+  "bbox": [
+    -106.74011,
+    35.065897,
+    -106.74011,
+    35.065897
+],
   "geometry": {"coordinates":[-106.74011,35.065897],"type":"Point"}
 }

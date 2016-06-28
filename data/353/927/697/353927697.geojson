@@ -2,13 +2,14 @@
   "id": 353927697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.62193,35.056002,-106.62193,35.056002",
     "geom:latitude":35.056002,
     "geom:longitude":-106.62193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Yale Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353927697,
-    "wof:lastmodified":1449020535,
+    "wof:lastmodified":1466697937,
     "wof:name":"Comfort Inn Airport Albuquerque",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.62193,35.056002,-106.62193,35.056002],
-  "geometry": {"coordinates":[-106.62193,35.056002],"type":"Point"}
+  "bbox": [
+    -106.62193,
+    35.056002,
+    -106.62193,
+    35.056002
+],
+  "geometry": {"coordinates":[-106.62193000000001,35.056002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202674659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.973081,35.65928,-105.973081,35.65928",
     "geom:latitude":35.65928,
     "geom:longitude":-105.973081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1716 Saint Michaels Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202674659,
-    "wof:lastmodified":1449061998,
+    "wof:lastmodified":1466699493,
     "wof:name":"Cornerstone Books & Gifts",
     "wof:parent_id":85880809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-105.973081,35.65928,-105.973081,35.65928],
-  "geometry": {"coordinates":[-105.973081,35.65928],"type":"Point"}
+  "bbox": [
+    -105.973081,
+    35.65928,
+    -105.973081,
+    35.65928
+],
+  "geometry": {"coordinates":[-105.97308099999999,35.65928],"type":"Point"}
 }

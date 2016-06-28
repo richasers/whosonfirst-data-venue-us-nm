@@ -2,13 +2,14 @@
   "id": 202759043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.782448,32.31393,-106.782448,32.31393",
     "geom:latitude":32.31393,
     "geom:longitude":-106.782448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 W Mountain Ave",
     "sg:city":"Lordsburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202759043,
-    "wof:lastmodified":1449062693,
+    "wof:lastmodified":1466699956,
     "wof:name":"Border Line Convenience Store",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.782448,32.31393,-106.782448,32.31393],
+  "bbox": [
+    -106.782448,
+    32.31393,
+    -106.782448,
+    32.31393
+],
   "geometry": {"coordinates":[-106.782448,32.31393],"type":"Point"}
 }

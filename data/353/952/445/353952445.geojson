@@ -2,13 +2,14 @@
   "id": 353952445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.526837,35.087019,-106.526837,35.087019",
     "geom:latitude":35.087019,
     "geom:longitude":-106.526837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11140 Lomas Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353952445,
-    "wof:lastmodified":1449020080,
+    "wof:lastmodified":1466698646,
     "wof:name":"Michaels Arts & Crafts",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.526837,35.087019,-106.526837,35.087019],
+  "bbox": [
+    -106.526837,
+    35.087019,
+    -106.526837,
+    35.087019
+],
   "geometry": {"coordinates":[-106.526837,35.087019],"type":"Point"}
 }

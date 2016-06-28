@@ -2,13 +2,14 @@
   "id": 186204683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.931943,35.765774,-105.931943,35.765774",
     "geom:latitude":35.765774,
     "geom:longitude":-105.931943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Ranch House Rd",
     "sg:city":"Ranchos De Taos",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186204683,
-    "wof:lastmodified":1449053098,
+    "wof:lastmodified":1466698086,
     "wof:name":"Chimayo Trading Del Norte",
     "wof:parent_id":85880787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.931943,35.765774,-105.931943,35.765774],
+  "bbox": [
+    -105.931943,
+    35.765774,
+    -105.931943,
+    35.765774
+],
   "geometry": {"coordinates":[-105.931943,35.765774],"type":"Point"}
 }

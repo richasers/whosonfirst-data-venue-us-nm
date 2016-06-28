@@ -2,13 +2,14 @@
   "id": 186332595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.757418,32.310523,-106.757418,32.310523",
     "geom:latitude":32.310523,
     "geom:longitude":-106.757418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1980 E Lohman Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186332595,
-    "wof:lastmodified":1449051872,
+    "wof:lastmodified":1466699597,
     "wof:name":"Caelum Research Corp",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "referral"
     ]
 },
-  "bbox": [-106.757418,32.310523,-106.757418,32.310523],
+  "bbox": [
+    -106.757418,
+    32.310523,
+    -106.757418,
+    32.310523
+],
   "geometry": {"coordinates":[-106.757418,32.310523],"type":"Point"}
 }

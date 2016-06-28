@@ -2,13 +2,14 @@
   "id": 185763437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.248641,32.436627,-104.248641,32.436627",
     "geom:latitude":32.436627,
     "geom:longitude":-104.248641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 W Pierce St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":185763437,
-    "wof:lastmodified":1449008201,
+    "wof:lastmodified":1466699208,
     "wof:name":"Shade Tree",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-104.248641,32.436627,-104.248641,32.436627],
-  "geometry": {"coordinates":[-104.248641,32.436627],"type":"Point"}
+  "bbox": [
+    -104.248641,
+    32.436627,
+    -104.248641,
+    32.436627
+],
+  "geometry": {"coordinates":[-104.24864100000001,32.436627],"type":"Point"}
 }

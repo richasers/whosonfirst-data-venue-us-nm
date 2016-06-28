@@ -2,13 +2,14 @@
   "id": 169703689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.691035,34.849191,-106.691035,34.849191",
     "geom:latitude":34.849191,
     "geom:longitude":-106.691035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1857 Bosque Farms Blvd",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169703689,
-    "wof:lastmodified":1449033689,
+    "wof:lastmodified":1466697631,
     "wof:name":"Country Cleaners",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "plant"
     ]
 },
-  "bbox": [-106.691035,34.849191,-106.691035,34.849191],
+  "bbox": [
+    -106.691035,
+    34.849191,
+    -106.691035,
+    34.849191
+],
   "geometry": {"coordinates":[-106.691035,34.849191],"type":"Point"}
 }

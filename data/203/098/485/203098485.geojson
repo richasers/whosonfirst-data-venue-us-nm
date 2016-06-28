@@ -2,13 +2,14 @@
   "id": 203098485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.834106,35.14786,-107.834106,35.14786",
     "geom:latitude":35.14786,
     "geom:longitude":-107.834106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Nimitz Dr",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203098485,
-    "wof:lastmodified":1449026670,
+    "wof:lastmodified":1466698724,
     "wof:name":"Store All Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.834106,35.14786,-107.834106,35.14786],
-  "geometry": {"coordinates":[-107.834106,35.14786],"type":"Point"}
+  "bbox": [
+    -107.834106,
+    35.14786,
+    -107.834106,
+    35.14786
+],
+  "geometry": {"coordinates":[-107.83410600000001,35.14786],"type":"Point"}
 }

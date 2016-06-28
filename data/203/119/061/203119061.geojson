@@ -2,13 +2,14 @@
   "id": 203119061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960929,35.541476,-105.960929,35.541476",
     "geom:latitude":35.541476,
     "geom:longitude":-105.960929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2103 Ave Vista Grande",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203119061,
-    "wof:lastmodified":1449026321,
+    "wof:lastmodified":1466698936,
     "wof:name":"El Dorado Self Storage",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "special"
     ]
 },
-  "bbox": [-105.960929,35.541476,-105.960929,35.541476],
-  "geometry": {"coordinates":[-105.960929,35.541476],"type":"Point"}
+  "bbox": [
+    -105.960929,
+    35.541476,
+    -105.960929,
+    35.541476
+],
+  "geometry": {"coordinates":[-105.96092899999999,35.541476],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185702357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.082239,35.895563,-106.082239,35.895563",
     "geom:latitude":35.895563,
     "geom:longitude":-106.082239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Evergreen Ln",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185702357,
-    "wof:lastmodified":1449007432,
+    "wof:lastmodified":1466698655,
     "wof:name":"Mi Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.082239,35.895563,-106.082239,35.895563],
+  "bbox": [
+    -106.082239,
+    35.895563,
+    -106.082239,
+    35.895563
+],
   "geometry": {"coordinates":[-106.082239,35.895563],"type":"Point"}
 }

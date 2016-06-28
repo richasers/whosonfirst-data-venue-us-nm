@@ -2,13 +2,14 @@
   "id": 203027573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.129915,32.69964,-103.129915,32.69964",
     "geom:latitude":32.69964,
     "geom:longitude":-103.129915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 E Dunnam St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203027573,
-    "wof:lastmodified":1449025288,
+    "wof:lastmodified":1466697903,
     "wof:name":"Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.129915,32.69964,-103.129915,32.69964],
+  "bbox": [
+    -103.129915,
+    32.69964,
+    -103.129915,
+    32.69964
+],
   "geometry": {"coordinates":[-103.129915,32.69964],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185848707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.583538,35.296995,-106.583538,35.296995",
     "geom:latitude":35.296995,
     "geom:longitude":-106.583538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2428 Manzano Loop NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185848707,
-    "wof:lastmodified":1449006833,
+    "wof:lastmodified":1466697997,
     "wof:name":"Friends Rio Rancho Open Space",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restoration"
     ]
 },
-  "bbox": [-106.583538,35.296995,-106.583538,35.296995],
+  "bbox": [
+    -106.583538,
+    35.296995,
+    -106.583538,
+    35.296995
+],
   "geometry": {"coordinates":[-106.583538,35.296995],"type":"Point"}
 }

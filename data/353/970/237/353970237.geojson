@@ -2,13 +2,14 @@
   "id": 353970237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.06674,35.995417,-106.06674,35.995417",
     "geom:latitude":35.995417,
     "geom:longitude":-106.06674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Riverside Dr",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353970237,
-    "wof:lastmodified":1449020730,
+    "wof:lastmodified":1466699001,
     "wof:name":"Diaz Boutique",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "store"
     ]
 },
-  "bbox": [-106.06674,35.995417,-106.06674,35.995417],
+  "bbox": [
+    -106.06674,
+    35.995417,
+    -106.06674,
+    35.995417
+],
   "geometry": {"coordinates":[-106.06674,35.995417],"type":"Point"}
 }

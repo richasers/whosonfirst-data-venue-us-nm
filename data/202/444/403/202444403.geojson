@@ -2,13 +2,14 @@
   "id": 202444403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.944004,35.681171,-105.944004,35.681171",
     "geom:latitude":35.681171,
     "geom:longitude":-105.944004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 Pso de Peralta",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202444403,
-    "wof:lastmodified":1449062309,
+    "wof:lastmodified":1466698474,
     "wof:name":"Chamisa Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.944004,35.681171,-105.944004,35.681171],
-  "geometry": {"coordinates":[-105.944004,35.681171],"type":"Point"}
+  "bbox": [
+    -105.944004,
+    35.681171,
+    -105.944004,
+    35.681171
+],
+  "geometry": {"coordinates":[-105.94400400000001,35.681171],"type":"Point"}
 }

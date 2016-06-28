@@ -2,13 +2,14 @@
   "id": 185918793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.689993,34.827402,-106.689993,34.827402",
     "geom:latitude":34.827402,
     "geom:longitude":-106.689993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3621 State Hwy 47",
     "sg:city":"Peralta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185918793,
-    "wof:lastmodified":1449007680,
+    "wof:lastmodified":1466698785,
     "wof:name":"Wdc Exploration and Wells",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drilling"
     ]
 },
-  "bbox": [-106.689993,34.827402,-106.689993,34.827402],
+  "bbox": [
+    -106.689993,
+    34.827402,
+    -106.689993,
+    34.827402
+],
   "geometry": {"coordinates":[-106.689993,34.827402],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186009929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.639395,35.08546,-106.639395,35.08546",
     "geom:latitude":35.08546,
     "geom:longitude":-106.639395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Grand Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186009929,
-    "wof:lastmodified":1449052980,
+    "wof:lastmodified":1466697805,
     "wof:name":"Catholic Health Initiatives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.639395,35.08546,-106.639395,35.08546],
-  "geometry": {"coordinates":[-106.639395,35.08546],"type":"Point"}
+  "bbox": [
+    -106.639395,
+    35.08546,
+    -106.639395,
+    35.08546
+],
+  "geometry": {"coordinates":[-106.63939499999999,35.08546],"type":"Point"}
 }

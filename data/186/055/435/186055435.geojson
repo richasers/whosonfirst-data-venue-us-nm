@@ -2,13 +2,14 @@
   "id": 186055435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.19801,36.733839,-108.19801,36.733839",
     "geom:latitude":36.733839,
     "geom:longitude":-108.19801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 E Apache St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186055435,
-    "wof:lastmodified":1449051000,
+    "wof:lastmodified":1466698319,
     "wof:name":"Uni-Tel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "communication"
     ]
 },
-  "bbox": [-108.19801,36.733839,-108.19801,36.733839],
+  "bbox": [
+    -108.19801,
+    36.733839,
+    -108.19801,
+    36.733839
+],
   "geometry": {"coordinates":[-108.19801,36.733839],"type":"Point"}
 }

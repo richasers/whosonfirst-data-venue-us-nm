@@ -2,13 +2,14 @@
   "id": 203008403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.768825,32.257967,-107.768825,32.257967",
     "geom:latitude":32.257967,
     "geom:longitude":-107.768825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 S 8th St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203008403,
-    "wof:lastmodified":1449025511,
+    "wof:lastmodified":1466697678,
     "wof:name":"Rio Grand Pediatrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-107.768825,32.257967,-107.768825,32.257967],
-  "geometry": {"coordinates":[-107.768825,32.257967],"type":"Point"}
+  "bbox": [
+    -107.768825,
+    32.257967,
+    -107.768825,
+    32.257967
+],
+  "geometry": {"coordinates":[-107.76882500000001,32.257967],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203007299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.539932,35.130654,-106.539932,35.130654",
     "geom:latitude":35.130654,
     "geom:longitude":-106.539932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9101 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203007299,
-    "wof:lastmodified":1449026518,
+    "wof:lastmodified":1466697662,
     "wof:name":"Lovelace Health Systems",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.539932,35.130654,-106.539932,35.130654],
-  "geometry": {"coordinates":[-106.539932,35.130654],"type":"Point"}
+  "bbox": [
+    -106.539932,
+    35.130654,
+    -106.539932,
+    35.130654
+],
+  "geometry": {"coordinates":[-106.53993199999999,35.130654],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202754543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.499783,35.068417,-106.499783,35.068417",
     "geom:latitude":35.068417,
     "geom:longitude":-106.499783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13150 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202754543,
-    "wof:lastmodified":1449061745,
+    "wof:lastmodified":1466699695,
     "wof:name":"Raleys",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.499783,35.068417,-106.499783,35.068417],
-  "geometry": {"coordinates":[-106.499783,35.068417],"type":"Point"}
+  "bbox": [
+    -106.499783,
+    35.068417,
+    -106.499783,
+    35.068417
+],
+  "geometry": {"coordinates":[-106.49978299999999,35.068417],"type":"Point"}
 }

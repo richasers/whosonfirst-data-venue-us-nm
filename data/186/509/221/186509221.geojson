@@ -2,13 +2,14 @@
   "id": 186509221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.60737,35.150579,-106.60737,35.150579",
     "geom:latitude":35.150579,
     "geom:longitude":-106.60737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6101 Chappell Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186509221,
-    "wof:lastmodified":1449050383,
+    "wof:lastmodified":1466700249,
     "wof:name":"Lafarge North America Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-106.60737,35.150579,-106.60737,35.150579],
+  "bbox": [
+    -106.60737,
+    35.150579,
+    -106.60737,
+    35.150579
+],
   "geometry": {"coordinates":[-106.60737,35.150579],"type":"Point"}
 }

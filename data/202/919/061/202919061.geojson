@@ -2,13 +2,14 @@
   "id": 202919061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.618104,35.266938,-106.618104,35.266938",
     "geom:latitude":35.266938,
     "geom:longitude":-106.618104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Rio Vista Dr NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202919061,
-    "wof:lastmodified":1449062035,
+    "wof:lastmodified":1466700542,
     "wof:name":"WMD Associates",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-106.618104,35.266938,-106.618104,35.266938],
+  "bbox": [
+    -106.618104,
+    35.266938,
+    -106.618104,
+    35.266938
+],
   "geometry": {"coordinates":[-106.618104,35.266938],"type":"Point"}
 }

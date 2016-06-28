@@ -2,13 +2,14 @@
   "id": 202635075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.053768,35.560809,-106.053768,35.560809",
     "geom:latitude":35.560809,
     "geom:longitude":-106.053768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4311 State Hwy 14",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202635075,
-    "wof:lastmodified":1449061218,
+    "wof:lastmodified":1466698912,
     "wof:name":"Alice King Family Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.053768,35.560809,-106.053768,35.560809],
-  "geometry": {"coordinates":[-106.053768,35.560809],"type":"Point"}
+  "bbox": [
+    -106.053768,
+    35.560809,
+    -106.053768,
+    35.560809
+],
+  "geometry": {"coordinates":[-106.05376800000001,35.560809],"type":"Point"}
 }

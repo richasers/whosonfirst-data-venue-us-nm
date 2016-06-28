@@ -2,13 +2,14 @@
   "id": 186141097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960462,32.915138,-105.960462,32.915138",
     "geom:latitude":32.915138,
     "geom:longitude":-105.960462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 N White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186141097,
-    "wof:lastmodified":1449051333,
+    "wof:lastmodified":1466699205,
     "wof:name":"New Mexico School/Visually",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "secondary"
     ]
 },
-  "bbox": [-105.960462,32.915138,-105.960462,32.915138],
-  "geometry": {"coordinates":[-105.960462,32.915138],"type":"Point"}
+  "bbox": [
+    -105.960462,
+    32.915138,
+    -105.960462,
+    32.915138
+],
+  "geometry": {"coordinates":[-105.96046200000001,32.915138],"type":"Point"}
 }

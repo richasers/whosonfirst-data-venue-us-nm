@@ -2,13 +2,14 @@
   "id": 186305681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.193372,32.112609,-103.193372,32.112609",
     "geom:latitude":32.112609,
     "geom:longitude":-103.193372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Utah Ave",
     "sg:city":"Jal",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186305681,
-    "wof:lastmodified":1449050803,
+    "wof:lastmodified":1466699483,
     "wof:name":"Windmill Chiropractic Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.193372,32.112609,-103.193372,32.112609],
+  "bbox": [
+    -103.193372,
+    32.112609,
+    -103.193372,
+    32.112609
+],
   "geometry": {"coordinates":[-103.193372,32.112609],"type":"Point"}
 }

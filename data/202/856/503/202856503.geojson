@@ -2,13 +2,14 @@
   "id": 202856503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.622061,35.067687,-106.622061,35.067687",
     "geom:latitude":35.067687,
     "geom:longitude":-106.622061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Yale Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202856503,
-    "wof:lastmodified":1449060845,
+    "wof:lastmodified":1466700221,
     "wof:name":"TNT Car Care Center LLC",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-106.622061,35.067687,-106.622061,35.067687],
+  "bbox": [
+    -106.622061,
+    35.067687,
+    -106.622061,
+    35.067687
+],
   "geometry": {"coordinates":[-106.622061,35.067687],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186633307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.551712,35.320334,-106.551712,35.320334",
     "geom:latitude":35.320334,
     "geom:longitude":-106.551712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Cam Don Tomas",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186633307,
-    "wof:lastmodified":1449053011,
+    "wof:lastmodified":1466700767,
     "wof:name":"H2ose It",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.551712,35.320334,-106.551712,35.320334],
-  "geometry": {"coordinates":[-106.551712,35.320334],"type":"Point"}
+  "bbox": [
+    -106.551712,
+    35.320334,
+    -106.551712,
+    35.320334
+],
+  "geometry": {"coordinates":[-106.55171199999999,35.320334],"type":"Point"}
 }

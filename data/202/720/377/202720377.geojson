@@ -2,13 +2,14 @@
   "id": 202720377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.546024,35.139118,-106.546024,35.139118",
     "geom:latitude":35.139118,
     "geom:longitude":-106.546024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8504 Spain Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202720377,
-    "wof:lastmodified":1449060714,
+    "wof:lastmodified":1466699692,
     "wof:name":"Miguel Trujillo & Associate",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-106.546024,35.139118,-106.546024,35.139118],
+  "bbox": [
+    -106.546024,
+    35.139118,
+    -106.546024,
+    35.139118
+],
   "geometry": {"coordinates":[-106.546024,35.139118],"type":"Point"}
 }

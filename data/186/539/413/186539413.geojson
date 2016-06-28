@@ -2,13 +2,14 @@
   "id": 186539413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.551735,35.167756,-106.551735,35.167756",
     "geom:latitude":35.167756,
     "geom:longitude":-106.551735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8208 Janis Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186539413,
-    "wof:lastmodified":1449053073,
+    "wof:lastmodified":1466700352,
     "wof:name":"Debra H Jenkins",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-106.551735,35.167756,-106.551735,35.167756],
-  "geometry": {"coordinates":[-106.551735,35.167756],"type":"Point"}
+  "bbox": [
+    -106.551735,
+    35.167756,
+    -106.551735,
+    35.167756
+],
+  "geometry": {"coordinates":[-106.55173499999999,35.167756],"type":"Point"}
 }

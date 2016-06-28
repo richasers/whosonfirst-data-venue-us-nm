@@ -2,13 +2,14 @@
   "id": 202534233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.672201,35.192859,-106.672201,35.192859",
     "geom:latitude":35.192859,
     "geom:longitude":-106.672201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4401 Night Hawk Rd",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202534233,
-    "wof:lastmodified":1449060775,
+    "wof:lastmodified":1466699289,
     "wof:name":"Ketchy Web Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-106.672201,35.192859,-106.672201,35.192859],
+  "bbox": [
+    -106.672201,
+    35.192859,
+    -106.672201,
+    35.192859
+],
   "geometry": {"coordinates":[-106.672201,35.192859],"type":"Point"}
 }

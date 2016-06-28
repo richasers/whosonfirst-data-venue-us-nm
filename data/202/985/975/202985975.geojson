@@ -2,13 +2,14 @@
   "id": 202985975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.507881,33.344487,-104.507881,33.344487",
     "geom:latitude":33.344487,
     "geom:longitude":-104.507881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 SE Main St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202985975,
-    "wof:lastmodified":1449061381,
+    "wof:lastmodified":1466700630,
     "wof:name":"New Mexico Machinery LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-104.507881,33.344487,-104.507881,33.344487],
+  "bbox": [
+    -104.507881,
+    33.344487,
+    -104.507881,
+    33.344487
+],
   "geometry": {"coordinates":[-104.507881,33.344487],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186085231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.224808,35.615939,-105.224808,35.615939",
     "geom:latitude":35.615939,
     "geom:longitude":-105.224808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 7th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186085231,
-    "wof:lastmodified":1449051065,
+    "wof:lastmodified":1466698696,
     "wof:name":"Highlands Auto Plaza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.224808,35.615939,-105.224808,35.615939],
+  "bbox": [
+    -105.224808,
+    35.615939,
+    -105.224808,
+    35.615939
+],
   "geometry": {"coordinates":[-105.224808,35.615939],"type":"Point"}
 }

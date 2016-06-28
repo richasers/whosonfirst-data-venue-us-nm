@@ -2,13 +2,14 @@
   "id": 202651537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.656822,33.378287,-105.656822,33.378287",
     "geom:latitude":33.378287,
     "geom:longitude":-105.656822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Canyon Rd",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202651537,
-    "wof:lastmodified":1449060609,
+    "wof:lastmodified":1466699157,
     "wof:name":"Darn-It Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-105.656822,33.378287,-105.656822,33.378287],
-  "geometry": {"coordinates":[-105.656822,33.378287],"type":"Point"}
+  "bbox": [
+    -105.656822,
+    33.378287,
+    -105.656822,
+    33.378287
+],
+  "geometry": {"coordinates":[-105.65682200000001,33.378287],"type":"Point"}
 }

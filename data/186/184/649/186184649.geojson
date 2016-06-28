@@ -2,13 +2,14 @@
   "id": 186184649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.711238,35.528016,-108.711238,35.528016",
     "geom:latitude":35.528016,
     "geom:longitude":-108.711238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2030 E Aztec Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186184649,
-    "wof:lastmodified":1449050868,
+    "wof:lastmodified":1466697824,
     "wof:name":"New Mexico Heart Institute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-108.711238,35.528016,-108.711238,35.528016],
-  "geometry": {"coordinates":[-108.711238,35.528016],"type":"Point"}
+  "bbox": [
+    -108.711238,
+    35.528016,
+    -108.711238,
+    35.528016
+],
+  "geometry": {"coordinates":[-108.71123799999999,35.528016],"type":"Point"}
 }

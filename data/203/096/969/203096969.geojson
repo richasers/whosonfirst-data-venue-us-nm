@@ -2,13 +2,14 @@
   "id": 203096969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.592555,35.17811,-106.592555,35.17811",
     "geom:latitude":35.17811,
     "geom:longitude":-106.592555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8414 Jefferson St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203096969,
-    "wof:lastmodified":1449025532,
+    "wof:lastmodified":1466698710,
     "wof:name":"Cordova Printing",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "typesetting"
     ]
 },
-  "bbox": [-106.592555,35.17811,-106.592555,35.17811],
+  "bbox": [
+    -106.592555,
+    35.17811,
+    -106.592555,
+    35.17811
+],
   "geometry": {"coordinates":[-106.592555,35.17811],"type":"Point"}
 }

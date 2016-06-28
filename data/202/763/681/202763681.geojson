@@ -2,13 +2,14 @@
   "id": 202763681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.958149,32.859002,-105.958149,32.859002",
     "geom:latitude":32.859002,
     "geom:longitude":-105.958149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2483 Desert Hills Dr",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202763681,
-    "wof:lastmodified":1449062635,
+    "wof:lastmodified":1466699735,
     "wof:name":"Advanced Rv Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-105.958149,32.859002,-105.958149,32.859002],
-  "geometry": {"coordinates":[-105.958149,32.859002],"type":"Point"}
+  "bbox": [
+    -105.958149,
+    32.859002,
+    -105.958149,
+    32.859002
+],
+  "geometry": {"coordinates":[-105.95814900000001,32.859002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169857941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.396796,32.842419,-104.396796,32.842419",
     "geom:latitude":32.842419,
     "geom:longitude":-104.396796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 E Main St",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169857941,
-    "wof:lastmodified":1449034825,
+    "wof:lastmodified":1466698934,
     "wof:name":"AAGA True Value Hardware",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.396796,32.842419,-104.396796,32.842419],
-  "geometry": {"coordinates":[-104.396796,32.842419],"type":"Point"}
+  "bbox": [
+    -104.396796,
+    32.842419,
+    -104.396796,
+    32.842419
+],
+  "geometry": {"coordinates":[-104.39679599999999,32.842419],"type":"Point"}
 }

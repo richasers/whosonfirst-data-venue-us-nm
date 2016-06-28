@@ -2,13 +2,14 @@
   "id": 186135011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.211409,34.418438,-103.211409,34.418438",
     "geom:latitude":34.418438,
     "geom:longitude":-103.211409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 W 20th St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186135011,
-    "wof:lastmodified":1449051406,
+    "wof:lastmodified":1466699463,
     "wof:name":"Bussanmas & Bussanmas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.211409,34.418438,-103.211409,34.418438],
+  "bbox": [
+    -103.211409,
+    34.418438,
+    -103.211409,
+    34.418438
+],
   "geometry": {"coordinates":[-103.211409,34.418438],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203070953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.623368,31.999814,-106.623368,31.999814",
     "geom:latitude":31.999814,
     "geom:longitude":-106.623368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 Washington St",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203070953,
-    "wof:lastmodified":1449025835,
+    "wof:lastmodified":1466698355,
     "wof:name":"Gadsden School District Adm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.623368,31.999814,-106.623368,31.999814],
+  "bbox": [
+    -106.623368,
+    31.999814,
+    -106.623368,
+    31.999814
+],
   "geometry": {"coordinates":[-106.623368,31.999814],"type":"Point"}
 }

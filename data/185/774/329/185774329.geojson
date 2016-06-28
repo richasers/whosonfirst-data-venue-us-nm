@@ -2,13 +2,14 @@
   "id": 185774329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.175313,36.455095,-103.175313,36.455095",
     "geom:latitude":36.455095,
     "geom:longitude":-103.175313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 Main St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185774329,
-    "wof:lastmodified":1449007243,
+    "wof:lastmodified":1466699240,
     "wof:name":"Kiowa/Rita Blnca Nat Grsslands",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "national"
     ]
 },
-  "bbox": [-103.175313,36.455095,-103.175313,36.455095],
+  "bbox": [
+    -103.175313,
+    36.455095,
+    -103.175313,
+    36.455095
+],
   "geometry": {"coordinates":[-103.175313,36.455095],"type":"Point"}
 }

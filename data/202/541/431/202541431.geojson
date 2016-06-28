@@ -2,13 +2,14 @@
   "id": 202541431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.67272,35.193919,-103.67272,35.193919",
     "geom:latitude":35.193919,
     "geom:longitude":-103.67272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3705 Quay Road 64.5",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202541431,
-    "wof:lastmodified":1449060387,
+    "wof:lastmodified":1466699312,
     "wof:name":"Floeck's Country Ostrich Emu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ostrich"
     ]
 },
-  "bbox": [-103.67272,35.193919,-103.67272,35.193919],
+  "bbox": [
+    -103.67272,
+    35.193919,
+    -103.67272,
+    35.193919
+],
   "geometry": {"coordinates":[-103.67272,35.193919],"type":"Point"}
 }

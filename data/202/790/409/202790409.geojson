@@ -2,13 +2,14 @@
   "id": 202790409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.241606,34.520284,-106.241606,34.520284",
     "geom:latitude":34.520284,
     "geom:longitude":-106.241606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Broadway",
     "sg:city":"Mountainair",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202790409,
-    "wof:lastmodified":1449062071,
+    "wof:lastmodified":1466700048,
     "wof:name":"Natural Resource Conservation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.241606,34.520284,-106.241606,34.520284],
+  "bbox": [
+    -106.241606,
+    34.520284,
+    -106.241606,
+    34.520284
+],
   "geometry": {"coordinates":[-106.241606,34.520284],"type":"Point"}
 }

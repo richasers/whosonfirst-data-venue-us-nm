@@ -2,13 +2,14 @@
   "id": 186299949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.714383,32.259623,-106.714383,32.259623",
     "geom:latitude":32.259623,
     "geom:longitude":-106.714383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5260 Redman Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186299949,
-    "wof:lastmodified":1449051077,
+    "wof:lastmodified":1466699334,
     "wof:name":"So Much To Do Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "support"
     ]
 },
-  "bbox": [-106.714383,32.259623,-106.714383,32.259623],
+  "bbox": [
+    -106.714383,
+    32.259623,
+    -106.714383,
+    32.259623
+],
   "geometry": {"coordinates":[-106.714383,32.259623],"type":"Point"}
 }

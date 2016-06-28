@@ -2,13 +2,14 @@
   "id": 169728383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.251775,33.128612,-107.251775,33.128612",
     "geom:latitude":33.128612,
     "geom:longitude":-107.251775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 N Broadway St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169728383,
-    "wof:lastmodified":1449033459,
+    "wof:lastmodified":1466697873,
     "wof:name":"A & B Drive In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "out"
     ]
 },
-  "bbox": [-107.251775,33.128612,-107.251775,33.128612],
-  "geometry": {"coordinates":[-107.251775,33.128612],"type":"Point"}
+  "bbox": [
+    -107.251775,
+    33.128612,
+    -107.251775,
+    33.128612
+],
+  "geometry": {"coordinates":[-107.25177499999999,33.128612],"type":"Point"}
 }

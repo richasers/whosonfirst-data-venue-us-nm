@@ -2,13 +2,14 @@
   "id": 202997731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.691495,35.038358,-106.691495,35.038358",
     "geom:latitude":35.038358,
     "geom:longitude":-106.691495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2209 Michelle Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202997731,
-    "wof:lastmodified":1449062221,
+    "wof:lastmodified":1466700846,
     "wof:name":"Giraudo Lath & Plaster",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.691495,35.038358,-106.691495,35.038358],
+  "bbox": [
+    -106.691495,
+    35.038358,
+    -106.691495,
+    35.038358
+],
   "geometry": {"coordinates":[-106.691495,35.038358],"type":"Point"}
 }

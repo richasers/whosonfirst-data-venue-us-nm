@@ -2,13 +2,14 @@
   "id": 186571129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.496927,35.075149,-106.496927,35.075149",
     "geom:latitude":35.075149,
     "geom:longitude":-106.496927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"557 Tramway Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186571129,
-    "wof:lastmodified":1449052203,
+    "wof:lastmodified":1466700657,
     "wof:name":"Rn Cynthia BSN Skeen",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurse"
     ]
 },
-  "bbox": [-106.496927,35.075149,-106.496927,35.075149],
+  "bbox": [
+    -106.496927,
+    35.075149,
+    -106.496927,
+    35.075149
+],
   "geometry": {"coordinates":[-106.496927,35.075149],"type":"Point"}
 }

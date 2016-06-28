@@ -2,13 +2,14 @@
   "id": 185758937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.75392,34.656033,-106.75392,34.656033",
     "geom:latitude":34.656033,
     "geom:longitude":-106.75392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 E River Rd",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185758937,
-    "wof:lastmodified":1449007088,
+    "wof:lastmodified":1466699177,
     "wof:name":"Fiorellos Italian Restaurant",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.75392,34.656033,-106.75392,34.656033],
-  "geometry": {"coordinates":[-106.75392,34.656033],"type":"Point"}
+  "bbox": [
+    -106.75392,
+    34.656033,
+    -106.75392,
+    34.656033
+],
+  "geometry": {"coordinates":[-106.75391999999999,34.656033],"type":"Point"}
 }

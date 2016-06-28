@@ -2,13 +2,14 @@
   "id": 353923087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.670349,35.096289,-106.670349,35.096289",
     "geom:latitude":35.096289,
     "geom:longitude":-106.670349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Romero St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353923087,
-    "wof:lastmodified":1449020691,
+    "wof:lastmodified":1466697813,
     "wof:name":"New Mexico Arts & Crafts Fair",
     "wof:parent_id":85839415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.670349,35.096289,-106.670349,35.096289],
+  "bbox": [
+    -106.670349,
+    35.096289,
+    -106.670349,
+    35.096289
+],
   "geometry": {"coordinates":[-106.670349,35.096289],"type":"Point"}
 }

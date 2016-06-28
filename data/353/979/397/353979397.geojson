@@ -2,13 +2,14 @@
   "id": 353979397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.204037,34.411485,-103.204037,34.411485",
     "geom:latitude":34.411485,
     "geom:longitude":-103.204037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Pile St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353979397,
-    "wof:lastmodified":1449020049,
+    "wof:lastmodified":1466699083,
     "wof:name":"Seefeld, Larry R",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-103.204037,34.411485,-103.204037,34.411485],
+  "bbox": [
+    -103.204037,
+    34.411485,
+    -103.204037,
+    34.411485
+],
   "geometry": {"coordinates":[-103.204037,34.411485],"type":"Point"}
 }

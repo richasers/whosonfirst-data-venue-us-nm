@@ -2,13 +2,14 @@
   "id": 185793675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.73436,32.26869,-107.73436,32.26869",
     "geom:latitude":32.26869,
     "geom:longitude":-107.73436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 E Pine St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185793675,
-    "wof:lastmodified":1449007498,
+    "wof:lastmodified":1466699320,
     "wof:name":"Mills Cooper Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-107.73436,32.26869,-107.73436,32.26869],
+  "bbox": [
+    -107.73436,
+    32.26869,
+    -107.73436,
+    32.26869
+],
   "geometry": {"coordinates":[-107.73436,32.26869],"type":"Point"}
 }

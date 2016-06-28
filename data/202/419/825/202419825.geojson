@@ -2,13 +2,14 @@
   "id": 202419825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604144,35.130821,-106.604144,35.130821",
     "geom:latitude":35.130821,
     "geom:longitude":-106.604144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4325 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":202419825,
-    "wof:lastmodified":1449062584,
+    "wof:lastmodified":1466698195,
     "wof:name":"Sandia Lovelace Health Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.604144,35.130821,-106.604144,35.130821],
-  "geometry": {"coordinates":[-106.604144,35.130821],"type":"Point"}
+  "bbox": [
+    -106.604144,
+    35.130821,
+    -106.604144,
+    35.130821
+],
+  "geometry": {"coordinates":[-106.60414400000001,35.130821],"type":"Point"}
 }

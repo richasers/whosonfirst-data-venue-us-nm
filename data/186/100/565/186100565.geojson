@@ -2,13 +2,14 @@
   "id": 186100565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.950202,32.903377,-105.950202,32.903377",
     "geom:latitude":32.903377,
     "geom:longitude":-105.950202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 Hawaii Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186100565,
-    "wof:lastmodified":1449052338,
+    "wof:lastmodified":1466698931,
     "wof:name":"Alamogordo Special Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.950202,32.903377,-105.950202,32.903377],
+  "bbox": [
+    -105.950202,
+    32.903377,
+    -105.950202,
+    32.903377
+],
   "geometry": {"coordinates":[-105.950202,32.903377],"type":"Point"}
 }

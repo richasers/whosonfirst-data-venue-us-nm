@@ -2,13 +2,14 @@
   "id": 186128589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.604801,33.536667,-105.604801,33.536667",
     "geom:latitude":33.536667,
     "geom:longitude":-105.604801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 W Grand View Rd",
     "sg:city":"Capitan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186128589,
-    "wof:lastmodified":1449051411,
+    "wof:lastmodified":1466699146,
     "wof:name":"House Of Sewing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-105.604801,33.536667,-105.604801,33.536667],
-  "geometry": {"coordinates":[-105.604801,33.536667],"type":"Point"}
+  "bbox": [
+    -105.604801,
+    33.536667,
+    -105.604801,
+    33.536667
+],
+  "geometry": {"coordinates":[-105.60480099999999,33.536667],"type":"Point"}
 }

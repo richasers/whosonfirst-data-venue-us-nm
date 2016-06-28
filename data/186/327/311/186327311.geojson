@@ -2,13 +2,14 @@
   "id": 186327311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.536203,33.404386,-104.536203,33.404386",
     "geom:latitude":33.404386,
     "geom:longitude":-104.536203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 N Union Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186327311,
-    "wof:lastmodified":1449050446,
+    "wof:lastmodified":1466699578,
     "wof:name":"Little Angels Chrstn Pr-School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-104.536203,33.404386,-104.536203,33.404386],
+  "bbox": [
+    -104.536203,
+    33.404386,
+    -104.536203,
+    33.404386
+],
   "geometry": {"coordinates":[-104.536203,33.404386],"type":"Point"}
 }

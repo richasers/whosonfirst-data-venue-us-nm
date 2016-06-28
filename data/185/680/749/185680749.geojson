@@ -2,13 +2,14 @@
   "id": 185680749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.746511,32.299886,-106.746511,32.299886",
     "geom:latitude":32.299886,
     "geom:longitude":-106.746511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 Ralph Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185680749,
-    "wof:lastmodified":1449007720,
+    "wof:lastmodified":1466698436,
     "wof:name":"Chuparosas",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-106.746511,32.299886,-106.746511,32.299886],
+  "bbox": [
+    -106.746511,
+    32.299886,
+    -106.746511,
+    32.299886
+],
   "geometry": {"coordinates":[-106.746511,32.299886],"type":"Point"}
 }

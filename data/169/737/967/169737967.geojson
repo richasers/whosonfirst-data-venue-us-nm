@@ -2,13 +2,14 @@
   "id": 169737967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.571414,36.402775,-105.571414,36.402775",
     "geom:latitude":36.402775,
     "geom:longitude":-105.571414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Montoya St",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169737967,
-    "wof:lastmodified":1449033421,
+    "wof:lastmodified":1466697965,
     "wof:name":"Community Against Violence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.571414,36.402775,-105.571414,36.402775],
+  "bbox": [
+    -105.571414,
+    36.402775,
+    -105.571414,
+    36.402775
+],
   "geometry": {"coordinates":[-105.571414,36.402775],"type":"Point"}
 }

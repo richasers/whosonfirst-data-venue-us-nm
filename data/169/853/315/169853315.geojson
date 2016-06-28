@@ -2,13 +2,14 @@
   "id": 169853315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.705202,32.349321,-108.705202,32.349321",
     "geom:latitude":32.349321,
     "geom:longitude":-108.705202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 E Motel Dr",
     "sg:city":"Lordsburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169853315,
-    "wof:lastmodified":1449034013,
+    "wof:lastmodified":1466698892,
     "wof:name":"Quality Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-108.705202,32.349321,-108.705202,32.349321],
+  "bbox": [
+    -108.705202,
+    32.349321,
+    -108.705202,
+    32.349321
+],
   "geometry": {"coordinates":[-108.705202,32.349321],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353945291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.593086,35.10557,-106.593086,35.10557",
     "geom:latitude":35.10557,
     "geom:longitude":-106.593086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4610 Cutler Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -88,10 +89,11 @@
         }
     ],
     "wof:id":353945291,
-    "wof:lastmodified":1449018472,
+    "wof:lastmodified":1466698432,
     "wof:name":"AT&T Mobility",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -105,6 +107,11 @@
         "cellular"
     ]
 },
-  "bbox": [-106.593086,35.10557,-106.593086,35.10557],
+  "bbox": [
+    -106.593086,
+    35.10557,
+    -106.593086,
+    35.10557
+],
   "geometry": {"coordinates":[-106.593086,35.10557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186446983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.681789,35.05663,-106.681789,35.05663",
     "geom:latitude":35.05663,
     "geom:longitude":-106.681789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 Conita Real Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186446983,
-    "wof:lastmodified":1449052796,
+    "wof:lastmodified":1466700143,
     "wof:name":"William A Mobile",
     "wof:parent_id":85892585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-106.681789,35.05663,-106.681789,35.05663],
-  "geometry": {"coordinates":[-106.681789,35.05663],"type":"Point"}
+  "bbox": [
+    -106.681789,
+    35.05663,
+    -106.681789,
+    35.05663
+],
+  "geometry": {"coordinates":[-106.68178899999999,35.05663],"type":"Point"}
 }

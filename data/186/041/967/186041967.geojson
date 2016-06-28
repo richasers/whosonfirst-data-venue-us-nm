@@ -2,13 +2,14 @@
   "id": 186041967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.656235,35.051929,-106.656235,35.051929",
     "geom:latitude":35.051929,
     "geom:longitude":-106.656235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2802 2nd St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186041967,
-    "wof:lastmodified":1449051357,
+    "wof:lastmodified":1466698158,
     "wof:name":"Dream Builders Inc",
     "wof:parent_id":85846885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.656235,35.051929,-106.656235,35.051929],
+  "bbox": [
+    -106.656235,
+    35.051929,
+    -106.656235,
+    35.051929
+],
   "geometry": {"coordinates":[-106.656235,35.051929],"type":"Point"}
 }

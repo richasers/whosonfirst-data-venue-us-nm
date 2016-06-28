@@ -2,13 +2,14 @@
   "id": 203004647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.125634,36.77951,-108.125634,36.77951",
     "geom:latitude":36.77951,
     "geom:longitude":-108.125634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5511 Country Club Dr",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203004647,
-    "wof:lastmodified":1449025606,
+    "wof:lastmodified":1466697635,
     "wof:name":"Modern Bank Solutions LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-108.125634,36.77951,-108.125634,36.77951],
-  "geometry": {"coordinates":[-108.125634,36.77951],"type":"Point"}
+  "bbox": [
+    -108.125634,
+    36.77951,
+    -108.125634,
+    36.77951
+],
+  "geometry": {"coordinates":[-108.12563400000001,36.77951],"type":"Point"}
 }

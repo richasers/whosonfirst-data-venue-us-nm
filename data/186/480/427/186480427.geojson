@@ -2,13 +2,14 @@
   "id": 186480427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.043985,35.003475,-106.043985,35.003475",
     "geom:latitude":35.003475,
     "geom:longitude":-106.043985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Roosevelt Ave",
     "sg:city":"Moriarty",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186480427,
-    "wof:lastmodified":1449051266,
+    "wof:lastmodified":1466700162,
     "wof:name":"Moriarty Senior Citizens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-106.043985,35.003475,-106.043985,35.003475],
-  "geometry": {"coordinates":[-106.043985,35.003475],"type":"Point"}
+  "bbox": [
+    -106.043985,
+    35.003475,
+    -106.043985,
+    35.003475
+],
+  "geometry": {"coordinates":[-106.04398500000001,35.003475],"type":"Point"}
 }

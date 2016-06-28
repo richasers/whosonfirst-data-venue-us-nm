@@ -2,13 +2,14 @@
   "id": 353966693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.508708,35.076019,-106.508708,35.076019",
     "geom:latitude":35.076019,
     "geom:longitude":-106.508708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12501 Chico Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353966693,
-    "wof:lastmodified":1449018275,
+    "wof:lastmodified":1466698925,
     "wof:name":"Dorothy C Chavez",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sitting"
     ]
 },
-  "bbox": [-106.508708,35.076019,-106.508708,35.076019],
+  "bbox": [
+    -106.508708,
+    35.076019,
+    -106.508708,
+    35.076019
+],
   "geometry": {"coordinates":[-106.508708,35.076019],"type":"Point"}
 }

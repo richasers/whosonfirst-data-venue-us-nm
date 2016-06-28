@@ -2,13 +2,14 @@
   "id": 202957923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.724937,32.148184,-106.724937,32.148184",
     "geom:latitude":32.148184,
     "geom:longitude":-106.724937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18422 S Hwy 28",
     "sg:city":"San Miguel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202957923,
-    "wof:lastmodified":1449062280,
+    "wof:lastmodified":1466700592,
     "wof:name":"Quality Senior Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.724937,32.148184,-106.724937,32.148184],
+  "bbox": [
+    -106.724937,
+    32.148184,
+    -106.724937,
+    32.148184
+],
   "geometry": {"coordinates":[-106.724937,32.148184],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185737341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.202675,34.402696,-103.202675,34.402696",
     "geom:latitude":34.402696,
     "geom:longitude":-103.202675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 Gidding St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185737341,
-    "wof:lastmodified":1449006979,
+    "wof:lastmodified":1466699046,
     "wof:name":"US Internal Revenue Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [-103.202675,34.402696,-103.202675,34.402696],
+  "bbox": [
+    -103.202675,
+    34.402696,
+    -103.202675,
+    34.402696
+],
   "geometry": {"coordinates":[-103.202675,34.402696],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185716425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.936834,35.687421,-105.936834,35.687421",
     "geom:latitude":35.687421,
     "geom:longitude":-105.936834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 E Palace Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185716425,
-    "wof:lastmodified":1449006835,
+    "wof:lastmodified":1466698803,
     "wof:name":"Kapoun Bob Vintage Photography",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-105.936834,35.687421,-105.936834,35.687421],
+  "bbox": [
+    -105.936834,
+    35.687421,
+    -105.936834,
+    35.687421
+],
   "geometry": {"coordinates":[-105.936834,35.687421],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353914139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.375,35.104801,-106.375,35.104801",
     "geom:latitude":35.104801,
     "geom:longitude":-106.375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12028 State Highway 14 N",
     "sg:city":"Cedar Crest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353914139,
-    "wof:lastmodified":1449019234,
+    "wof:lastmodified":1466697615,
     "wof:name":"Holistic Habitats Inc",
     "wof:parent_id":85892613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.375,35.104801,-106.375,35.104801],
+  "bbox": [
+    -106.375,
+    35.104801,
+    -106.375,
+    35.104801
+],
   "geometry": {"coordinates":[-106.375,35.104801],"type":"Point"}
 }

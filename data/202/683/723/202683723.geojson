@@ -2,13 +2,14 @@
   "id": 202683723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.524399,33.372512,-104.524399,33.372512",
     "geom:latitude":33.372512,
     "geom:longitude":-104.524399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 W Hobbs St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202683723,
-    "wof:lastmodified":1449061043,
+    "wof:lastmodified":1466699546,
     "wof:name":"Los Ninos Mexican Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.524399,33.372512,-104.524399,33.372512],
+  "bbox": [
+    -104.524399,
+    33.372512,
+    -104.524399,
+    33.372512
+],
   "geometry": {"coordinates":[-104.524399,33.372512],"type":"Point"}
 }

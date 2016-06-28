@@ -2,13 +2,14 @@
   "id": 202547809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604303,35.099958,-106.604303,35.099958",
     "geom:latitude":35.099958,
     "geom:longitude":-106.604303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1821 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202547809,
-    "wof:lastmodified":1449060375,
+    "wof:lastmodified":1466697613,
     "wof:name":"Adam William Roberts Therapy",
     "wof:parent_id":85871899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-106.604303,35.099958,-106.604303,35.099958],
+  "bbox": [
+    -106.604303,
+    35.099958,
+    -106.604303,
+    35.099958
+],
   "geometry": {"coordinates":[-106.604303,35.099958],"type":"Point"}
 }

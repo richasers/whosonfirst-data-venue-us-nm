@@ -2,13 +2,14 @@
   "id": 353940567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.598339,35.156439,-106.598339,35.156439",
     "geom:latitude":35.156439,
     "geom:longitude":-106.598339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6815 Washington St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353940567,
-    "wof:lastmodified":1449018887,
+    "wof:lastmodified":1466698290,
     "wof:name":"Albuquerque Windustrial Co.",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-106.598339,35.156439,-106.598339,35.156439],
+  "bbox": [
+    -106.598339,
+    35.156439,
+    -106.598339,
+    35.156439
+],
   "geometry": {"coordinates":[-106.598339,35.156439],"type":"Point"}
 }

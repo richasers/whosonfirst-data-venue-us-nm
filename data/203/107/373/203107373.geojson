@@ -2,13 +2,14 @@
   "id": 203107373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.941221,35.680518,-105.941221,35.680518",
     "geom:latitude":35.680518,
     "geom:longitude":-105.941221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Don Gaspar Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203107373,
-    "wof:lastmodified":1449024947,
+    "wof:lastmodified":1466698808,
     "wof:name":"New Mexico Oil & Gas Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.941221,35.680518,-105.941221,35.680518],
+  "bbox": [
+    -105.941221,
+    35.680518,
+    -105.941221,
+    35.680518
+],
   "geometry": {"coordinates":[-105.941221,35.680518],"type":"Point"}
 }

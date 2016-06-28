@@ -2,13 +2,14 @@
   "id": 185833599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.608856,35.123852,-106.608856,35.123852",
     "geom:latitude":35.123852,
     "geom:longitude":-106.608856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3135 Comanche Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":185833599,
-    "wof:lastmodified":1449006806,
+    "wof:lastmodified":1466697830,
     "wof:name":"Akg Engery Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.608856,35.123852,-106.608856,35.123852],
+  "bbox": [
+    -106.608856,
+    35.123852,
+    -106.608856,
+    35.123852
+],
   "geometry": {"coordinates":[-106.608856,35.123852],"type":"Point"}
 }

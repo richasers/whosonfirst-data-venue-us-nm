@@ -2,13 +2,14 @@
   "id": 353934371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.58094,35.081759,-106.58094,35.081759",
     "geom:latitude":35.081759,
     "geom:longitude":-106.58094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Valencia Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353934371,
-    "wof:lastmodified":1449018372,
+    "wof:lastmodified":1466698124,
     "wof:name":"Defensive Solutions",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "self defense"
     ]
 },
-  "bbox": [-106.58094,35.081759,-106.58094,35.081759],
+  "bbox": [
+    -106.58094,
+    35.081759,
+    -106.58094,
+    35.081759
+],
   "geometry": {"coordinates":[-106.58094,35.081759],"type":"Point"}
 }

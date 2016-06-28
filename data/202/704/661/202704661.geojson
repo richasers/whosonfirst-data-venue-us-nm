@@ -2,13 +2,14 @@
   "id": 202704661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.54318,33.394264,-104.54318,33.394264",
     "geom:latitude":33.394264,
     "geom:longitude":-104.54318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 W 2nd St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202704661,
-    "wof:lastmodified":1449060779,
+    "wof:lastmodified":1466699624,
     "wof:name":"Quick Cash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-104.54318,33.394264,-104.54318,33.394264],
-  "geometry": {"coordinates":[-104.54318,33.394264],"type":"Point"}
+  "bbox": [
+    -104.54318,
+    33.394264,
+    -104.54318,
+    33.394264
+],
+  "geometry": {"coordinates":[-104.54318000000001,33.394264],"type":"Point"}
 }

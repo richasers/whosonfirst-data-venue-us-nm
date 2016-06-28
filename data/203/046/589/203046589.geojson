@@ -2,13 +2,14 @@
   "id": 203046589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.959293,32.897812,-105.959293,32.897812",
     "geom:latitude":32.897812,
     "geom:longitude":-105.959293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 New York Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203046589,
-    "wof:lastmodified":1449025998,
+    "wof:lastmodified":1466698098,
     "wof:name":"Father Hay Thrift Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.959293,32.897812,-105.959293,32.897812],
+  "bbox": [
+    -105.959293,
+    32.897812,
+    -105.959293,
+    32.897812
+],
   "geometry": {"coordinates":[-105.959293,32.897812],"type":"Point"}
 }

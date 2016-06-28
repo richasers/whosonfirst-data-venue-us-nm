@@ -2,13 +2,14 @@
   "id": 185656445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.135049,36.780488,-108.135049,36.780488",
     "geom:latitude":36.780488,
     "geom:longitude":-108.135049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5810 Cedarwood Dr",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185656445,
-    "wof:lastmodified":1449007645,
+    "wof:lastmodified":1466698200,
     "wof:name":"F&D Holdings LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "holding"
     ]
 },
-  "bbox": [-108.135049,36.780488,-108.135049,36.780488],
+  "bbox": [
+    -108.135049,
+    36.780488,
+    -108.135049,
+    36.780488
+],
   "geometry": {"coordinates":[-108.135049,36.780488],"type":"Point"}
 }

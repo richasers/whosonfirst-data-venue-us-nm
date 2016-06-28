@@ -2,13 +2,14 @@
   "id": 353964297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.755097,35.069917,-106.755097,35.069917",
     "geom:latitude":35.069917,
     "geom:longitude":-106.755097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10605 Central Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353964297,
-    "wof:lastmodified":1449020175,
+    "wof:lastmodified":1466698861,
     "wof:name":"Herrera Coaches",
     "wof:parent_id":85892581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "public"
     ]
 },
-  "bbox": [-106.755097,35.069917,-106.755097,35.069917],
-  "geometry": {"coordinates":[-106.755097,35.069917],"type":"Point"}
+  "bbox": [
+    -106.755097,
+    35.069917,
+    -106.755097,
+    35.069917
+],
+  "geometry": {"coordinates":[-106.75509700000001,35.069917],"type":"Point"}
 }

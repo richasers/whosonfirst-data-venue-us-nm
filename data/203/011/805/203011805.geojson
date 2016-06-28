@@ -2,13 +2,14 @@
   "id": 203011805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.715259,35.05386,-106.715259,35.05386",
     "geom:latitude":35.05386,
     "geom:longitude":-106.715259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7116 Dona Adelina Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203011805,
-    "wof:lastmodified":1449026488,
+    "wof:lastmodified":1466697725,
     "wof:name":"M & M Consulting LLP",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-106.715259,35.05386,-106.715259,35.05386],
+  "bbox": [
+    -106.715259,
+    35.05386,
+    -106.715259,
+    35.05386
+],
   "geometry": {"coordinates":[-106.715259,35.05386],"type":"Point"}
 }

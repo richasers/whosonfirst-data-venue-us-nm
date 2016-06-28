@@ -2,13 +2,14 @@
   "id": 203083409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.891919,32.983458,-105.891919,32.983458",
     "geom:latitude":32.983458,
     "geom:longitude":-105.891919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Zia Trl",
     "sg:city":"La Luz",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203083409,
-    "wof:lastmodified":1449025816,
+    "wof:lastmodified":1466698488,
     "wof:name":"Russell Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-105.891919,32.983458,-105.891919,32.983458],
+  "bbox": [
+    -105.891919,
+    32.983458,
+    -105.891919,
+    32.983458
+],
   "geometry": {"coordinates":[-105.891919,32.983458],"type":"Point"}
 }

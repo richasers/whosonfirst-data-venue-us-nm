@@ -2,13 +2,14 @@
   "id": 169824827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.938529,35.687045,-105.938529,35.687045",
     "geom:latitude":35.687045,
     "geom:longitude":-105.938529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 E San Francisco St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169824827,
-    "wof:lastmodified":1449033865,
+    "wof:lastmodified":1466698768,
     "wof:name":"Yippee Yi Yo  LLC",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "jewelry"
     ]
 },
-  "bbox": [-105.938529,35.687045,-105.938529,35.687045],
+  "bbox": [
+    -105.938529,
+    35.687045,
+    -105.938529,
+    35.687045
+],
   "geometry": {"coordinates":[-105.938529,35.687045],"type":"Point"}
 }

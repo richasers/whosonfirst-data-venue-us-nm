@@ -2,13 +2,14 @@
   "id": 353684345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.513207,31.794192,-106.513207,31.794192",
     "geom:latitude":31.794192,
     "geom:longitude":-106.513207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4157 Rio Bravo St",
     "sg:city":"El Paso",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353684345,
-    "wof:lastmodified":1449018899,
+    "wof:lastmodified":1466697607,
     "wof:name":"Franco and Brown LLP",
     "wof:parent_id":85828903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.513207,31.794192,-106.513207,31.794192],
-  "geometry": {"coordinates":[-106.513207,31.794192],"type":"Point"}
+  "bbox": [
+    -106.513207,
+    31.794192,
+    -106.513207,
+    31.794192
+],
+  "geometry": {"coordinates":[-106.51320699999999,31.794192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202712351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.468271,35.063154,-106.468271,35.063154",
     "geom:latitude":35.063154,
     "geom:longitude":-106.468271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 US Hwy 66",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202712351,
-    "wof:lastmodified":1449061204,
+    "wof:lastmodified":1466699759,
     "wof:name":"Billygoat Truck & Auto Repair",
     "wof:parent_id":85892573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-106.468271,35.063154,-106.468271,35.063154],
+  "bbox": [
+    -106.468271,
+    35.063154,
+    -106.468271,
+    35.063154
+],
   "geometry": {"coordinates":[-106.468271,35.063154],"type":"Point"}
 }

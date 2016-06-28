@@ -2,13 +2,14 @@
   "id": 169796653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.361099,36.743336,-108.361099,36.743336",
     "geom:latitude":36.743336,
     "geom:longitude":-108.361099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4183 US Hwy 64",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":169796653,
-    "wof:lastmodified":1449034233,
+    "wof:lastmodified":1466698558,
     "wof:name":"Just A Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-108.361099,36.743336,-108.361099,36.743336],
+  "bbox": [
+    -108.361099,
+    36.743336,
+    -108.361099,
+    36.743336
+],
   "geometry": {"coordinates":[-108.361099,36.743336],"type":"Point"}
 }

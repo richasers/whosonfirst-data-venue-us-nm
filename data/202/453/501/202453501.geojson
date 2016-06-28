@@ -2,13 +2,14 @@
   "id": 202453501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.757565,32.286835,-106.757565,32.286835",
     "geom:latitude":32.286835,
     "geom:longitude":-106.757565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Monte Vista Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202453501,
-    "wof:lastmodified":1449062016,
+    "wof:lastmodified":1466698575,
     "wof:name":"Family Unity & Citizenship",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "affairs"
     ]
 },
-  "bbox": [-106.757565,32.286835,-106.757565,32.286835],
+  "bbox": [
+    -106.757565,
+    32.286835,
+    -106.757565,
+    32.286835
+],
   "geometry": {"coordinates":[-106.757565,32.286835],"type":"Point"}
 }

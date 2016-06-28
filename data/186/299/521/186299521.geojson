@@ -2,13 +2,14 @@
   "id": 186299521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.616695,35.120174,-106.616695,35.120174",
     "geom:latitude":35.120174,
     "geom:longitude":-106.616695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 Aztec Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":186299521,
-    "wof:lastmodified":1449051078,
+    "wof:lastmodified":1466699328,
     "wof:name":"Public Service Company NM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.616695,35.120174,-106.616695,35.120174],
-  "geometry": {"coordinates":[-106.616695,35.120174],"type":"Point"}
+  "bbox": [
+    -106.616695,
+    35.120174,
+    -106.616695,
+    35.120174
+],
+  "geometry": {"coordinates":[-106.61669500000001,35.120174],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185631989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.664654,35.253863,-106.664654,35.253863",
     "geom:latitude":35.253863,
     "geom:longitude":-106.664654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 Newcastle Dr SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185631989,
-    "wof:lastmodified":1449007105,
+    "wof:lastmodified":1466697954,
     "wof:name":"L Mike Kelly Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-106.664654,35.253863,-106.664654,35.253863],
+  "bbox": [
+    -106.664654,
+    35.253863,
+    -106.664654,
+    35.253863
+],
   "geometry": {"coordinates":[-106.664654,35.253863],"type":"Point"}
 }

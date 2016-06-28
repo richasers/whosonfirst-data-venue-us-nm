@@ -2,13 +2,14 @@
   "id": 202828079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.222347,32.403735,-104.222347,32.403735",
     "geom:latitude":32.403735,
     "geom:longitude":-104.222347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Fiesta Dr",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202828079,
-    "wof:lastmodified":1449061410,
+    "wof:lastmodified":1466700095,
     "wof:name":"Palomino LLC",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-104.222347,32.403735,-104.222347,32.403735],
+  "bbox": [
+    -104.222347,
+    32.403735,
+    -104.222347,
+    32.403735
+],
   "geometry": {"coordinates":[-104.222347,32.403735],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186552959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.719481,35.150631,-106.719481,35.150631",
     "geom:latitude":35.150631,
     "geom:longitude":-106.719481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7115 Grange Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186552959,
-    "wof:lastmodified":1449051500,
+    "wof:lastmodified":1466700454,
     "wof:name":"School Specialty",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "school"
     ]
 },
-  "bbox": [-106.719481,35.150631,-106.719481,35.150631],
+  "bbox": [
+    -106.719481,
+    35.150631,
+    -106.719481,
+    35.150631
+],
   "geometry": {"coordinates":[-106.719481,35.150631],"type":"Point"}
 }

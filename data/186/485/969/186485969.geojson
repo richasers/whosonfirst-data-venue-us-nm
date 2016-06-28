@@ -2,13 +2,14 @@
   "id": 186485969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.753909,32.327472,-106.753909,32.327472",
     "geom:latitude":32.327472,
     "geom:longitude":-106.753909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2141 Hammerand Ct",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186485969,
-    "wof:lastmodified":1449051995,
+    "wof:lastmodified":1466700182,
     "wof:name":"Markham Stephen J DDS",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.753909,32.327472,-106.753909,32.327472],
-  "geometry": {"coordinates":[-106.753909,32.327472],"type":"Point"}
+  "bbox": [
+    -106.753909,
+    32.327472,
+    -106.753909,
+    32.327472
+],
+  "geometry": {"coordinates":[-106.75390899999999,32.327472],"type":"Point"}
 }

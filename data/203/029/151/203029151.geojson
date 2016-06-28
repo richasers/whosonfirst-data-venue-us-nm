@@ -2,13 +2,14 @@
   "id": 203029151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.683075,35.170573,-106.683075,35.170573",
     "geom:latitude":35.170573,
     "geom:longitude":-106.683075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4205 Rancho Bonito Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203029151,
-    "wof:lastmodified":1449025724,
+    "wof:lastmodified":1466697916,
     "wof:name":"ABQ Maids",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.683075,35.170573,-106.683075,35.170573],
+  "bbox": [
+    -106.683075,
+    35.170573,
+    -106.683075,
+    35.170573
+],
   "geometry": {"coordinates":[-106.683075,35.170573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186546615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.7195,35.115245,-106.7195,35.115245",
     "geom:latitude":35.115245,
     "geom:longitude":-106.7195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7304 Platero Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186546615,
-    "wof:lastmodified":1449050242,
+    "wof:lastmodified":1466700416,
     "wof:name":"Horizon Funding Inc",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-106.7195,35.115245,-106.7195,35.115245],
+  "bbox": [
+    -106.7195,
+    35.115245,
+    -106.7195,
+    35.115245
+],
   "geometry": {"coordinates":[-106.7195,35.115245],"type":"Point"}
 }

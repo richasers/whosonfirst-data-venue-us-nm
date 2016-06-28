@@ -2,13 +2,14 @@
   "id": 185618795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.24635,32.419422,-104.24635,32.419422",
     "geom:latitude":32.419422,
     "geom:longitude":-104.24635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 W Fox St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185618795,
-    "wof:lastmodified":1449007610,
+    "wof:lastmodified":1466697806,
     "wof:name":"Boys & Girls Club Of Carlsbad",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-104.24635,32.419422,-104.24635,32.419422],
-  "geometry": {"coordinates":[-104.24635,32.419422],"type":"Point"}
+  "bbox": [
+    -104.24635,
+    32.419422,
+    -104.24635,
+    32.419422
+],
+  "geometry": {"coordinates":[-104.24635000000001,32.419422],"type":"Point"}
 }

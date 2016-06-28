@@ -2,13 +2,14 @@
   "id": 202388029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.505363,35.069162,-106.505363,35.069162",
     "geom:latitude":35.069162,
     "geom:longitude":-106.505363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12815 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202388029,
-    "wof:lastmodified":1449060189,
+    "wof:lastmodified":1466697778,
     "wof:name":"Antique Connections",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-106.505363,35.069162,-106.505363,35.069162],
+  "bbox": [
+    -106.505363,
+    35.069162,
+    -106.505363,
+    35.069162
+],
   "geometry": {"coordinates":[-106.505363,35.069162],"type":"Point"}
 }

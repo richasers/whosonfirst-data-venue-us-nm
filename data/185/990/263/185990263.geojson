@@ -2,13 +2,14 @@
   "id": 185990263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.698585,35.153227,-106.698585,35.153227",
     "geom:latitude":35.153227,
     "geom:longitude":-106.698585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6015 Montano Pointe Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185990263,
-    "wof:lastmodified":1449007673,
+    "wof:lastmodified":1466699820,
     "wof:name":"Rock Construction",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.698585,35.153227,-106.698585,35.153227],
-  "geometry": {"coordinates":[-106.698585,35.153227],"type":"Point"}
+  "bbox": [
+    -106.698585,
+    35.153227,
+    -106.698585,
+    35.153227
+],
+  "geometry": {"coordinates":[-106.69858499999999,35.153227],"type":"Point"}
 }

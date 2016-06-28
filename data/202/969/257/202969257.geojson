@@ -2,13 +2,14 @@
   "id": 202969257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.505386,33.394053,-104.505386,33.394053",
     "geom:latitude":33.394053,
     "geom:longitude":-104.505386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Atkinson Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202969257,
-    "wof:lastmodified":1449060720,
+    "wof:lastmodified":1466700648,
     "wof:name":"Fenn Foods Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [-104.505386,33.394053,-104.505386,33.394053],
+  "bbox": [
+    -104.505386,
+    33.394053,
+    -104.505386,
+    33.394053
+],
   "geometry": {"coordinates":[-104.505386,33.394053],"type":"Point"}
 }

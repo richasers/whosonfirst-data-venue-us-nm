@@ -2,13 +2,14 @@
   "id": 202505365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586866,35.058543,-106.586866,35.058543",
     "geom:latitude":35.058543,
     "geom:longitude":-106.586866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2007 Ridgecrest Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202505365,
-    "wof:lastmodified":1449062239,
+    "wof:lastmodified":1466699180,
     "wof:name":"ADA",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-106.586866,35.058543,-106.586866,35.058543],
+  "bbox": [
+    -106.586866,
+    35.058543,
+    -106.586866,
+    35.058543
+],
   "geometry": {"coordinates":[-106.586866,35.058543],"type":"Point"}
 }

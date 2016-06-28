@@ -2,13 +2,14 @@
   "id": 202858115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.524256,33.393039,-104.524256,33.393039",
     "geom:latitude":33.393039,
     "geom:longitude":-104.524256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W 1st St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202858115,
-    "wof:lastmodified":1449060365,
+    "wof:lastmodified":1466700224,
     "wof:name":"Romero's Tattoos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-104.524256,33.393039,-104.524256,33.393039],
-  "geometry": {"coordinates":[-104.524256,33.393039],"type":"Point"}
+  "bbox": [
+    -104.524256,
+    33.393039,
+    -104.524256,
+    33.393039
+],
+  "geometry": {"coordinates":[-104.52425599999999,33.393039],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185647955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.950838,36.20428,-106.950838,36.20428",
     "geom:latitude":36.20428,
     "geom:longitude":-106.950838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Rincon Rd",
     "sg:city":"Regina",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185647955,
-    "wof:lastmodified":1449007383,
+    "wof:lastmodified":1466698104,
     "wof:name":"P Martinez Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.950838,36.20428,-106.950838,36.20428],
+  "bbox": [
+    -106.950838,
+    36.20428,
+    -106.950838,
+    36.20428
+],
   "geometry": {"coordinates":[-106.950838,36.20428],"type":"Point"}
 }

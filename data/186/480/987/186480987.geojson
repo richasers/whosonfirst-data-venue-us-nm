@@ -2,13 +2,14 @@
   "id": 186480987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.581229,35.138619,-106.581229,35.138619",
     "geom:latitude":35.138619,
     "geom:longitude":-106.581229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6136 McLeod Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186480987,
-    "wof:lastmodified":1449051264,
+    "wof:lastmodified":1466700165,
     "wof:name":"La Trishas Salon",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.581229,35.138619,-106.581229,35.138619],
-  "geometry": {"coordinates":[-106.581229,35.138619],"type":"Point"}
+  "bbox": [
+    -106.581229,
+    35.138619,
+    -106.581229,
+    35.138619
+],
+  "geometry": {"coordinates":[-106.58122899999999,35.138619],"type":"Point"}
 }

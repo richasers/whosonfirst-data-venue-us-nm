@@ -2,13 +2,14 @@
   "id": 202740555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.765656,34.645568,-106.765656,34.645568",
     "geom:latitude":34.645568,
     "geom:longitude":-106.765656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Tillie Rd",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202740555,
-    "wof:lastmodified":1449061280,
+    "wof:lastmodified":1466699748,
     "wof:name":"Silva Randy General Contractor",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "residential"
     ]
 },
-  "bbox": [-106.765656,34.645568,-106.765656,34.645568],
-  "geometry": {"coordinates":[-106.765656,34.645568],"type":"Point"}
+  "bbox": [
+    -106.765656,
+    34.645568,
+    -106.765656,
+    34.645568
+],
+  "geometry": {"coordinates":[-106.76565600000001,34.645568],"type":"Point"}
 }

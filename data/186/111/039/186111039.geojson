@@ -2,13 +2,14 @@
   "id": 186111039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.583737,35.17429,-106.583737,35.17429",
     "geom:latitude":35.17429,
     "geom:longitude":-106.583737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8212 Pan American Fwy",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186111039,
-    "wof:lastmodified":1449053108,
+    "wof:lastmodified":1466699453,
     "wof:name":"Western Trailer Sales",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-106.583737,35.17429,-106.583737,35.17429],
+  "bbox": [
+    -106.583737,
+    35.17429,
+    -106.583737,
+    35.17429
+],
   "geometry": {"coordinates":[-106.583737,35.17429],"type":"Point"}
 }

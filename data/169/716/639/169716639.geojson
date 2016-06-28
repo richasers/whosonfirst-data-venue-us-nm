@@ -2,13 +2,14 @@
   "id": 169716639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.35543,36.741951,-108.35543,36.741951",
     "geom:latitude":36.741951,
     "geom:longitude":-108.35543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4217 US Hwy 64",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169716639,
-    "wof:lastmodified":1449033159,
+    "wof:lastmodified":1466697736,
     "wof:name":"G & N Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-108.35543,36.741951,-108.35543,36.741951],
+  "bbox": [
+    -108.35543,
+    36.741951,
+    -108.35543,
+    36.741951
+],
   "geometry": {"coordinates":[-108.35543,36.741951],"type":"Point"}
 }

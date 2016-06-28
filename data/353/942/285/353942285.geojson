@@ -2,13 +2,14 @@
   "id": 353942285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604141,35.10199,-106.604141,35.10199",
     "geom:latitude":35.10199,
     "geom:longitude":-106.604141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -78,10 +79,11 @@
         }
     ],
     "wof:id":353942285,
-    "wof:lastmodified":1449019424,
+    "wof:lastmodified":1466698341,
     "wof:name":"Olan Mills",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -94,6 +96,11 @@
         "photographic"
     ]
 },
-  "bbox": [-106.604141,35.10199,-106.604141,35.10199],
+  "bbox": [
+    -106.604141,
+    35.10199,
+    -106.604141,
+    35.10199
+],
   "geometry": {"coordinates":[-106.604141,35.10199],"type":"Point"}
 }

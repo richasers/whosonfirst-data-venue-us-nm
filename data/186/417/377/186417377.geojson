@@ -2,13 +2,14 @@
   "id": 186417377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.705413,35.086086,-106.705413,35.086086",
     "geom:latitude":35.086086,
     "geom:longitude":-106.705413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"337 Estancia Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186417377,
-    "wof:lastmodified":1449051473,
+    "wof:lastmodified":1466699913,
     "wof:name":"Campbell Tile & Remodeling",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.705413,35.086086,-106.705413,35.086086],
-  "geometry": {"coordinates":[-106.705413,35.086086],"type":"Point"}
+  "bbox": [
+    -106.705413,
+    35.086086,
+    -106.705413,
+    35.086086
+],
+  "geometry": {"coordinates":[-106.70541299999999,35.086086],"type":"Point"}
 }

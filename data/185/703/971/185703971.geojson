@@ -2,13 +2,14 @@
   "id": 185703971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.926679,35.681165,-105.926679,35.681165",
     "geom:latitude":35.681165,
     "geom:longitude":-105.926679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 Canyon Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185703971,
-    "wof:lastmodified":1449007096,
+    "wof:lastmodified":1466698663,
     "wof:name":"Artisan/Santa Fe",
     "wof:parent_id":85880803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-105.926679,35.681165,-105.926679,35.681165],
-  "geometry": {"coordinates":[-105.926679,35.681165],"type":"Point"}
+  "bbox": [
+    -105.926679,
+    35.681165,
+    -105.926679,
+    35.681165
+],
+  "geometry": {"coordinates":[-105.92667899999999,35.681165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185943409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.667379,33.36839,-105.667379,33.36839",
     "geom:latitude":33.36839,
     "geom:longitude":-105.667379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 Mechem Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185943409,
-    "wof:lastmodified":1449007035,
+    "wof:lastmodified":1466699121,
     "wof:name":"Lincoln County Pregnancy Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-105.667379,33.36839,-105.667379,33.36839],
+  "bbox": [
+    -105.667379,
+    33.36839,
+    -105.667379,
+    33.36839
+],
   "geometry": {"coordinates":[-105.667379,33.36839],"type":"Point"}
 }

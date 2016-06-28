@@ -2,13 +2,14 @@
   "id": 185679343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.619134,35.109113,-106.619134,35.109113",
     "geom:latitude":35.109113,
     "geom:longitude":-106.619134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2432 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":185679343,
-    "wof:lastmodified":1449007635,
+    "wof:lastmodified":1466698430,
     "wof:name":"Hamilton Pacific",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "system"
     ]
 },
-  "bbox": [-106.619134,35.109113,-106.619134,35.109113],
+  "bbox": [
+    -106.619134,
+    35.109113,
+    -106.619134,
+    35.109113
+],
   "geometry": {"coordinates":[-106.619134,35.109113],"type":"Point"}
 }

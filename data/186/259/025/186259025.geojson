@@ -2,13 +2,14 @@
   "id": 186259025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.227749,32.415593,-104.227749,32.415593",
     "geom:latitude":32.415593,
     "geom:longitude":-104.227749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Canyon St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186259025,
-    "wof:lastmodified":1449051015,
+    "wof:lastmodified":1466698776,
     "wof:name":"Caveman Auto Repair",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-104.227749,32.415593,-104.227749,32.415593],
+  "bbox": [
+    -104.227749,
+    32.415593,
+    -104.227749,
+    32.415593
+],
   "geometry": {"coordinates":[-104.227749,32.415593],"type":"Point"}
 }

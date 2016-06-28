@@ -2,13 +2,14 @@
   "id": 202442275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.616666,35.233752,-106.616666,35.233752",
     "geom:latitude":35.233752,
     "geom:longitude":-106.616666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 Old Church Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202442275,
-    "wof:lastmodified":1449061235,
+    "wof:lastmodified":1466698445,
     "wof:name":"Corrales Historical Society",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "historical"
     ]
 },
-  "bbox": [-106.616666,35.233752,-106.616666,35.233752],
+  "bbox": [
+    -106.616666,
+    35.233752,
+    -106.616666,
+    35.233752
+],
   "geometry": {"coordinates":[-106.616666,35.233752],"type":"Point"}
 }

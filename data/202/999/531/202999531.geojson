@@ -2,13 +2,14 @@
   "id": 202999531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.743336,35.875426,-106.743336,35.875426",
     "geom:latitude":35.875426,
     "geom:longitude":-106.743336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 Fenton Lake Rd",
     "sg:city":"Jemez Springs",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202999531,
-    "wof:lastmodified":1449062340,
+    "wof:lastmodified":1466700760,
     "wof:name":"Fenton Lake State Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "program"
     ]
 },
-  "bbox": [-106.743336,35.875426,-106.743336,35.875426],
+  "bbox": [
+    -106.743336,
+    35.875426,
+    -106.743336,
+    35.875426
+],
   "geometry": {"coordinates":[-106.743336,35.875426],"type":"Point"}
 }

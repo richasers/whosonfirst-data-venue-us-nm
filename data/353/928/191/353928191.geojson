@@ -2,13 +2,14 @@
   "id": 353928191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.628593,35.040359,-106.628593,35.040359",
     "geom:latitude":35.040359,
     "geom:longitude":-106.628593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 University Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353928191,
-    "wof:lastmodified":1449020453,
+    "wof:lastmodified":1466697952,
     "wof:name":"Budget Rent-A-Car - Albuquerque Intl Airport",
     "wof:parent_id":85846885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "truck"
     ]
 },
-  "bbox": [-106.628593,35.040359,-106.628593,35.040359],
+  "bbox": [
+    -106.628593,
+    35.040359,
+    -106.628593,
+    35.040359
+],
   "geometry": {"coordinates":[-106.628593,35.040359],"type":"Point"}
 }

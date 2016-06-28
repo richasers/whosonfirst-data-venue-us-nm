@@ -2,13 +2,14 @@
   "id": 202696865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.218051,34.406583,-103.218051,34.406583",
     "geom:latitude":34.406583,
     "geom:longitude":-103.218051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 N Edwards St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202696865,
-    "wof:lastmodified":1449060302,
+    "wof:lastmodified":1466699613,
     "wof:name":"Marin Income Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-103.218051,34.406583,-103.218051,34.406583],
+  "bbox": [
+    -103.218051,
+    34.406583,
+    -103.218051,
+    34.406583
+],
   "geometry": {"coordinates":[-103.218051,34.406583],"type":"Point"}
 }

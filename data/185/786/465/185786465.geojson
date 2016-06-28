@@ -2,13 +2,14 @@
   "id": 185786465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.583441,36.388845,-105.583441,36.388845",
     "geom:latitude":36.388845,
     "geom:longitude":-105.583441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 Pso del Pueblo Norte",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185786465,
-    "wof:lastmodified":1449006814,
+    "wof:lastmodified":1466699289,
     "wof:name":"Keith E Lac Dom Christian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.583441,36.388845,-105.583441,36.388845],
-  "geometry": {"coordinates":[-105.583441,36.388845],"type":"Point"}
+  "bbox": [
+    -105.583441,
+    36.388845,
+    -105.583441,
+    36.388845
+],
+  "geometry": {"coordinates":[-105.58344099999999,36.388845],"type":"Point"}
 }

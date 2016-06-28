@@ -2,13 +2,14 @@
   "id": 186608947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.640683,35.060342,-106.640683,35.060342",
     "geom:latitude":35.060342,
     "geom:longitude":-106.640683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Gibson Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186608947,
-    "wof:lastmodified":1449051520,
+    "wof:lastmodified":1466700662,
     "wof:name":"Parking Co Of America",
     "wof:parent_id":85846885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-106.640683,35.060342,-106.640683,35.060342],
+  "bbox": [
+    -106.640683,
+    35.060342,
+    -106.640683,
+    35.060342
+],
   "geometry": {"coordinates":[-106.640683,35.060342],"type":"Point"}
 }

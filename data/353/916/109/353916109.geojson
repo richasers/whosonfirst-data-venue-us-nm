@@ -2,13 +2,14 @@
   "id": 353916109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.626575,35.240304,-106.626575,35.240304",
     "geom:latitude":35.240304,
     "geom:longitude":-106.626575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Camino Hermosa",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353916109,
-    "wof:lastmodified":1449019660,
+    "wof:lastmodified":1466697648,
     "wof:name":"Techedge Inc",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.626575,35.240304,-106.626575,35.240304],
+  "bbox": [
+    -106.626575,
+    35.240304,
+    -106.626575,
+    35.240304
+],
   "geometry": {"coordinates":[-106.626575,35.240304],"type":"Point"}
 }

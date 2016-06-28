@@ -2,13 +2,14 @@
   "id": 186639251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.511501,35.134839,-106.511501,35.134839",
     "geom:latitude":35.134839,
     "geom:longitude":-106.511501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11313 Baja Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186639251,
-    "wof:lastmodified":1449053013,
+    "wof:lastmodified":1466700780,
     "wof:name":"Jomar Janitorial Services",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-106.511501,35.134839,-106.511501,35.134839],
+  "bbox": [
+    -106.511501,
+    35.134839,
+    -106.511501,
+    35.134839
+],
   "geometry": {"coordinates":[-106.511501,35.134839],"type":"Point"}
 }

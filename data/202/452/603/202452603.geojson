@@ -2,13 +2,14 @@
   "id": 202452603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.968908,35.666309,-105.968908,35.666309",
     "geom:latitude":35.666309,
     "geom:longitude":-105.968908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 2nd St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202452603,
-    "wof:lastmodified":1449060706,
+    "wof:lastmodified":1466698568,
     "wof:name":"North Central System",
     "wof:parent_id":85880811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-105.968908,35.666309,-105.968908,35.666309],
+  "bbox": [
+    -105.968908,
+    35.666309,
+    -105.968908,
+    35.666309
+],
   "geometry": {"coordinates":[-105.968908,35.666309],"type":"Point"}
 }

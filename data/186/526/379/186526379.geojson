@@ -2,13 +2,14 @@
   "id": 186526379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.6167,35.118426,-106.6167,35.118426",
     "geom:latitude":35.118426,
     "geom:longitude":-106.6167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3428 Stanford Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186526379,
-    "wof:lastmodified":1449051197,
+    "wof:lastmodified":1466700232,
     "wof:name":"Fire Safety Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-106.6167,35.118426,-106.6167,35.118426],
-  "geometry": {"coordinates":[-106.6167,35.118426],"type":"Point"}
+  "bbox": [
+    -106.6167,
+    35.118426,
+    -106.6167,
+    35.118426
+],
+  "geometry": {"coordinates":[-106.61669999999999,35.118426],"type":"Point"}
 }

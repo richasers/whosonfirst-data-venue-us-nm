@@ -2,13 +2,14 @@
   "id": 185835691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.757587,32.261005,-107.757587,32.261005",
     "geom:latitude":32.261005,
     "geom:longitude":-107.757587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 S Gold Ave",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185835691,
-    "wof:lastmodified":1449006837,
+    "wof:lastmodified":1466697849,
     "wof:name":"New Mexico Granite & Marble Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-107.757587,32.261005,-107.757587,32.261005],
+  "bbox": [
+    -107.757587,
+    32.261005,
+    -107.757587,
+    32.261005
+],
   "geometry": {"coordinates":[-107.757587,32.261005],"type":"Point"}
 }

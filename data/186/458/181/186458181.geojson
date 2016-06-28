@@ -2,13 +2,14 @@
   "id": 186458181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.637919,35.193111,-106.637919,35.193111",
     "geom:latitude":35.193111,
     "geom:longitude":-106.637919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9521 Rio Grande Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186458181,
-    "wof:lastmodified":1449052265,
+    "wof:lastmodified":1466700209,
     "wof:name":"Acme Horseshoeing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "blacksmith"
     ]
 },
-  "bbox": [-106.637919,35.193111,-106.637919,35.193111],
+  "bbox": [
+    -106.637919,
+    35.193111,
+    -106.637919,
+    35.193111
+],
   "geometry": {"coordinates":[-106.637919,35.193111],"type":"Point"}
 }

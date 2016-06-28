@@ -2,13 +2,14 @@
   "id": 353966115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.558973,35.180432,-106.558973,35.180432",
     "geom:latitude":35.180432,
     "geom:longitude":-106.558973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7711 Rio Guadalupe Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353966115,
-    "wof:lastmodified":1449018274,
+    "wof:lastmodified":1466698910,
     "wof:name":"Camp Rising Sun",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camps-recreational"
     ]
 },
-  "bbox": [-106.558973,35.180432,-106.558973,35.180432],
-  "geometry": {"coordinates":[-106.558973,35.180432],"type":"Point"}
+  "bbox": [
+    -106.558973,
+    35.180432,
+    -106.558973,
+    35.180432
+],
+  "geometry": {"coordinates":[-106.55897299999999,35.180432],"type":"Point"}
 }

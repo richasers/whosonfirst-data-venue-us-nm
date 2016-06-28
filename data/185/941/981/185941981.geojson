@@ -2,13 +2,14 @@
   "id": 185941981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.723271,35.171819,-103.723271,35.171819",
     "geom:latitude":35.171819,
     "geom:longitude":-103.723271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 E Tucumcari Blvd",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185941981,
-    "wof:lastmodified":1449007572,
+    "wof:lastmodified":1466699106,
     "wof:name":"LA Cocina De Raul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.723271,35.171819,-103.723271,35.171819],
+  "bbox": [
+    -103.723271,
+    35.171819,
+    -103.723271,
+    35.171819
+],
   "geometry": {"coordinates":[-103.723271,35.171819],"type":"Point"}
 }

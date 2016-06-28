@@ -2,13 +2,14 @@
   "id": 185879793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.937737,32.922413,-105.937737,32.922413",
     "geom:latitude":32.922413,
     "geom:longitude":-105.937737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2509 Harvard Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185879793,
-    "wof:lastmodified":1449006614,
+    "wof:lastmodified":1466698311,
     "wof:name":"Seasons Change Jumping Balloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "planning"
     ]
 },
-  "bbox": [-105.937737,32.922413,-105.937737,32.922413],
+  "bbox": [
+    -105.937737,
+    32.922413,
+    -105.937737,
+    32.922413
+],
   "geometry": {"coordinates":[-105.937737,32.922413],"type":"Point"}
 }

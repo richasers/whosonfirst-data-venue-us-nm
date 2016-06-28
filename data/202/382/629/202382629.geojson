@@ -2,13 +2,14 @@
   "id": 202382629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.949841,35.694235,-105.949841,35.694235",
     "geom:latitude":35.694235,
     "geom:longitude":-105.949841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"542 N Guadalupe St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202382629,
-    "wof:lastmodified":1449060796,
+    "wof:lastmodified":1466697711,
     "wof:name":"Hastings Books Music & Video",
     "wof:parent_id":85880797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.949841,35.694235,-105.949841,35.694235],
-  "geometry": {"coordinates":[-105.949841,35.694235],"type":"Point"}
+  "bbox": [
+    -105.949841,
+    35.694235,
+    -105.949841,
+    35.694235
+],
+  "geometry": {"coordinates":[-105.94984100000001,35.694235],"type":"Point"}
 }

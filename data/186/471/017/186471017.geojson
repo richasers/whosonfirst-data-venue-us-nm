@@ -2,13 +2,14 @@
   "id": 186471017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.024935,35.637422,-106.024935,35.637422",
     "geom:latitude":35.637422,
     "geom:longitude":-106.024935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4363 Center Pl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186471017,
-    "wof:lastmodified":1449051448,
+    "wof:lastmodified":1466700253,
     "wof:name":"Nextgeneration Plumbing & Htg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.024935,35.637422,-106.024935,35.637422],
+  "bbox": [
+    -106.024935,
+    35.637422,
+    -106.024935,
+    35.637422
+],
   "geometry": {"coordinates":[-106.024935,35.637422],"type":"Point"}
 }

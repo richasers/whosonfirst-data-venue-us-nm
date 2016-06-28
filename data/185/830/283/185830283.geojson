@@ -2,13 +2,14 @@
   "id": 185830283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.561287,35.109262,-106.561287,35.109262",
     "geom:latitude":35.109262,
     "geom:longitude":-106.561287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7417 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185830283,
-    "wof:lastmodified":1449006958,
+    "wof:lastmodified":1466697794,
     "wof:name":"Microwaves Of New Mexico",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "electrical"
     ]
 },
-  "bbox": [-106.561287,35.109262,-106.561287,35.109262],
-  "geometry": {"coordinates":[-106.561287,35.109262],"type":"Point"}
+  "bbox": [
+    -106.561287,
+    35.109262,
+    -106.561287,
+    35.109262
+],
+  "geometry": {"coordinates":[-106.56128699999999,35.109262],"type":"Point"}
 }

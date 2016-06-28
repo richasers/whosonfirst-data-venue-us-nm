@@ -2,13 +2,14 @@
   "id": 202787417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.357506,32.954283,-103.357506,32.954283",
     "geom:latitude":32.954283,
     "geom:longitude":-103.357506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 W Jackson Ave",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202787417,
-    "wof:lastmodified":1449061275,
+    "wof:lastmodified":1466699946,
     "wof:name":"Medical Internet Billing Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-103.357506,32.954283,-103.357506,32.954283],
+  "bbox": [
+    -103.357506,
+    32.954283,
+    -103.357506,
+    32.954283
+],
   "geometry": {"coordinates":[-103.357506,32.954283],"type":"Point"}
 }

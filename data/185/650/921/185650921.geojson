@@ -2,13 +2,14 @@
   "id": 185650921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.744943,35.526213,-108.744943,35.526213",
     "geom:latitude":35.526213,
     "geom:longitude":-108.744943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 W Coal Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185650921,
-    "wof:lastmodified":1449007597,
+    "wof:lastmodified":1466698139,
     "wof:name":"Don Raney's Transmission Svc",
     "wof:parent_id":85802855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-108.744943,35.526213,-108.744943,35.526213],
-  "geometry": {"coordinates":[-108.744943,35.526213],"type":"Point"}
+  "bbox": [
+    -108.744943,
+    35.526213,
+    -108.744943,
+    35.526213
+],
+  "geometry": {"coordinates":[-108.74494300000001,35.526213],"type":"Point"}
 }

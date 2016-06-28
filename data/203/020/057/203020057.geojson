@@ -2,13 +2,14 @@
   "id": 203020057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615214,35.104019,-106.615214,35.104019",
     "geom:latitude":35.104019,
     "geom:longitude":-106.615214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2610 Schell Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":203020057,
-    "wof:lastmodified":1449025799,
+    "wof:lastmodified":1466697816,
     "wof:name":"Styles By Diana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.615214,35.104019,-106.615214,35.104019],
-  "geometry": {"coordinates":[-106.615214,35.104019],"type":"Point"}
+  "bbox": [
+    -106.615214,
+    35.104019,
+    -106.615214,
+    35.104019
+],
+  "geometry": {"coordinates":[-106.61521399999999,35.104019],"type":"Point"}
 }

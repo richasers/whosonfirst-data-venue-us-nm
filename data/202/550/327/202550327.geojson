@@ -2,13 +2,14 @@
   "id": 202550327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.630709,35.241906,-106.630709,35.241906",
     "geom:latitude":35.241906,
     "geom:longitude":-106.630709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 Cam Hermosa",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202550327,
-    "wof:lastmodified":1449061481,
+    "wof:lastmodified":1466697651,
     "wof:name":"Outside Ideas Co",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-106.630709,35.241906,-106.630709,35.241906],
+  "bbox": [
+    -106.630709,
+    35.241906,
+    -106.630709,
+    35.241906
+],
   "geometry": {"coordinates":[-106.630709,35.241906],"type":"Point"}
 }

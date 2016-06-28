@@ -2,13 +2,14 @@
   "id": 185767301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.227633,32.42505,-104.227633,32.42505",
     "geom:latitude":32.42505,
     "geom:longitude":-104.227633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Canyon St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185767301,
-    "wof:lastmodified":1449007077,
+    "wof:lastmodified":1466699218,
     "wof:name":"Continential Credit",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-104.227633,32.42505,-104.227633,32.42505],
+  "bbox": [
+    -104.227633,
+    32.42505,
+    -104.227633,
+    32.42505
+],
   "geometry": {"coordinates":[-104.227633,32.42505],"type":"Point"}
 }

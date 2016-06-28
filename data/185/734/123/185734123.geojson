@@ -2,13 +2,14 @@
   "id": 185734123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.282203,35.16273,-106.282203,35.16273",
     "geom:latitude":35.16273,
     "geom:longitude":-106.282203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Magic Valley Rd",
     "sg:city":"Sandia Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185734123,
-    "wof:lastmodified":1449008017,
+    "wof:lastmodified":1466699021,
     "wof:name":"Double O Laser Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engraver"
     ]
 },
-  "bbox": [-106.282203,35.16273,-106.282203,35.16273],
+  "bbox": [
+    -106.282203,
+    35.16273,
+    -106.282203,
+    35.16273
+],
   "geometry": {"coordinates":[-106.282203,35.16273],"type":"Point"}
 }

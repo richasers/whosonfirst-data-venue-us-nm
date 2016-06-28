@@ -2,13 +2,14 @@
   "id": 186171015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.166324,36.769088,-108.166324,36.769088",
     "geom:latitude":36.769088,
     "geom:longitude":-108.166324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 College Blvd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":186171015,
-    "wof:lastmodified":1449053041,
+    "wof:lastmodified":1466697650,
     "wof:name":"Health & Human Performance Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "physical"
     ]
 },
-  "bbox": [-108.166324,36.769088,-108.166324,36.769088],
+  "bbox": [
+    -108.166324,
+    36.769088,
+    -108.166324,
+    36.769088
+],
   "geometry": {"coordinates":[-108.166324,36.769088],"type":"Point"}
 }

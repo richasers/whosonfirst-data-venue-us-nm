@@ -2,13 +2,14 @@
   "id": 202575441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.342773,34.181361,-103.342773,34.181361",
     "geom:latitude":34.181361,
     "geom:longitude":-103.342773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 S Roosevelt Rd U 1/2",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202575441,
-    "wof:lastmodified":1449060853,
+    "wof:lastmodified":1466698018,
     "wof:name":"Short Timers Clock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.342773,34.181361,-103.342773,34.181361],
-  "geometry": {"coordinates":[-103.342773,34.181361],"type":"Point"}
+  "bbox": [
+    -103.342773,
+    34.181361,
+    -103.342773,
+    34.181361
+],
+  "geometry": {"coordinates":[-103.34277299999999,34.181361],"type":"Point"}
 }

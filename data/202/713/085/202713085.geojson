@@ -2,13 +2,14 @@
   "id": 202713085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649223,35.097063,-106.649223,35.097063",
     "geom:latitude":35.097063,
     "geom:longitude":-106.649223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202713085,
-    "wof:lastmodified":1449062413,
+    "wof:lastmodified":1466699649,
     "wof:name":"St Martins Hospitality Ctr",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.649223,35.097063,-106.649223,35.097063],
-  "geometry": {"coordinates":[-106.649223,35.097063],"type":"Point"}
+  "bbox": [
+    -106.649223,
+    35.097063,
+    -106.649223,
+    35.097063
+],
+  "geometry": {"coordinates":[-106.64922300000001,35.097063],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186069201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.633427,35.156065,-106.633427,35.156065",
     "geom:latitude":35.156065,
     "geom:longitude":-106.633427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6660 Edgewood Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186069201,
-    "wof:lastmodified":1449052069,
+    "wof:lastmodified":1466698524,
     "wof:name":"Vital Signs",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.633427,35.156065,-106.633427,35.156065],
+  "bbox": [
+    -106.633427,
+    35.156065,
+    -106.633427,
+    35.156065
+],
   "geometry": {"coordinates":[-106.633427,35.156065],"type":"Point"}
 }

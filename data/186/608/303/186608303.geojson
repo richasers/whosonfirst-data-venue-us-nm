@@ -2,13 +2,14 @@
   "id": 186608303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.568879,35.103854,-106.568879,35.103854",
     "geom:latitude":35.103854,
     "geom:longitude":-106.568879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6605 Uptown Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186608303,
-    "wof:lastmodified":1449051518,
+    "wof:lastmodified":1466700659,
     "wof:name":"Prominent Mortgage",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-106.568879,35.103854,-106.568879,35.103854],
+  "bbox": [
+    -106.568879,
+    35.103854,
+    -106.568879,
+    35.103854
+],
   "geometry": {"coordinates":[-106.568879,35.103854],"type":"Point"}
 }

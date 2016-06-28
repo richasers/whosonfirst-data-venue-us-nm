@@ -2,13 +2,14 @@
   "id": 185687051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.645322,35.205644,-106.645322,35.205644",
     "geom:latitude":35.205644,
     "geom:longitude":-106.645322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Cll Cuervo NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185687051,
-    "wof:lastmodified":1449007056,
+    "wof:lastmodified":1466698511,
     "wof:name":"Dlc Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.645322,35.205644,-106.645322,35.205644],
-  "geometry": {"coordinates":[-106.645322,35.205644],"type":"Point"}
+  "bbox": [
+    -106.645322,
+    35.205644,
+    -106.645322,
+    35.205644
+],
+  "geometry": {"coordinates":[-106.64532199999999,35.205644],"type":"Point"}
 }

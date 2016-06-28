@@ -2,13 +2,14 @@
   "id": 202676421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.943911,35.641876,-105.943911,35.641876",
     "geom:latitude":35.641876,
     "geom:longitude":-105.943911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Pso de la Serna",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202676421,
-    "wof:lastmodified":1449061717,
+    "wof:lastmodified":1466699501,
     "wof:name":"Qual Con Inc",
     "wof:parent_id":85880773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.943911,35.641876,-105.943911,35.641876],
+  "bbox": [
+    -105.943911,
+    35.641876,
+    -105.943911,
+    35.641876
+],
   "geometry": {"coordinates":[-105.943911,35.641876],"type":"Point"}
 }

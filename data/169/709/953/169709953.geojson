@@ -2,13 +2,14 @@
   "id": 169709953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613183,35.137394,-106.613183,35.137394",
     "geom:latitude":35.137394,
     "geom:longitude":-106.613183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 N Renaissance Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":169709953,
-    "wof:lastmodified":1449033351,
+    "wof:lastmodified":1466697674,
     "wof:name":"Costco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "general"
     ]
 },
-  "bbox": [-106.613183,35.137394,-106.613183,35.137394],
-  "geometry": {"coordinates":[-106.613183,35.137394],"type":"Point"}
+  "bbox": [
+    -106.613183,
+    35.137394,
+    -106.613183,
+    35.137394
+],
+  "geometry": {"coordinates":[-106.61318300000001,35.137394],"type":"Point"}
 }

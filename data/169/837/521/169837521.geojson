@@ -2,13 +2,14 @@
   "id": 169837521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.791803,32.371203,-106.791803,32.371203",
     "geom:latitude":32.371203,
     "geom:longitude":-106.791803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4555 Elks Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169837521,
-    "wof:lastmodified":1449033208,
+    "wof:lastmodified":1466698845,
     "wof:name":"Columbia Elementary",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.791803,32.371203,-106.791803,32.371203],
+  "bbox": [
+    -106.791803,
+    32.371203,
+    -106.791803,
+    32.371203
+],
   "geometry": {"coordinates":[-106.791803,32.371203],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202551257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.623979,35.22874,-106.623979,35.22874",
     "geom:latitude":35.22874,
     "geom:longitude":-106.623979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 W Ella Dr",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202551257,
-    "wof:lastmodified":1449060620,
+    "wof:lastmodified":1466697661,
     "wof:name":"Here and Beyond Industries LLC",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "model"
     ]
 },
-  "bbox": [-106.623979,35.22874,-106.623979,35.22874],
-  "geometry": {"coordinates":[-106.623979,35.22874],"type":"Point"}
+  "bbox": [
+    -106.623979,
+    35.22874,
+    -106.623979,
+    35.22874
+],
+  "geometry": {"coordinates":[-106.62397900000001,35.22874],"type":"Point"}
 }

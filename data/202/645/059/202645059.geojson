@@ -2,13 +2,14 @@
   "id": 202645059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.749813,32.338285,-106.749813,32.338285",
     "geom:latitude":32.338285,
     "geom:longitude":-106.749813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2263 Sunrise Point Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202645059,
-    "wof:lastmodified":1449060368,
+    "wof:lastmodified":1466699063,
     "wof:name":"Mares Technical Services",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.749813,32.338285,-106.749813,32.338285],
+  "bbox": [
+    -106.749813,
+    32.338285,
+    -106.749813,
+    32.338285
+],
   "geometry": {"coordinates":[-106.749813,32.338285],"type":"Point"}
 }

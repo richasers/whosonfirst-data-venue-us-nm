@@ -2,13 +2,14 @@
   "id": 202876273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.533252,35.131532,-106.533252,35.131532",
     "geom:latitude":35.131532,
     "geom:longitude":-106.533252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4610 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202876273,
-    "wof:lastmodified":1449060623,
+    "wof:lastmodified":1466700267,
     "wof:name":"Homart",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.533252,35.131532,-106.533252,35.131532],
+  "bbox": [
+    -106.533252,
+    35.131532,
+    -106.533252,
+    35.131532
+],
   "geometry": {"coordinates":[-106.533252,35.131532],"type":"Point"}
 }

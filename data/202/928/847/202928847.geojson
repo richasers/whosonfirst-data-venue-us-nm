@@ -2,13 +2,14 @@
   "id": 202928847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.730501,35.116391,-106.730501,35.116391",
     "geom:latitude":35.116391,
     "geom:longitude":-106.730501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8000 Basalt Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202928847,
-    "wof:lastmodified":1449062299,
+    "wof:lastmodified":1466700466,
     "wof:name":"Aabove & Beyond Signs LLC",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "complete"
     ]
 },
-  "bbox": [-106.730501,35.116391,-106.730501,35.116391],
+  "bbox": [
+    -106.730501,
+    35.116391,
+    -106.730501,
+    35.116391
+],
   "geometry": {"coordinates":[-106.730501,35.116391],"type":"Point"}
 }

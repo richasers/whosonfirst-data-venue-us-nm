@@ -2,13 +2,14 @@
   "id": 169831463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.642757,35.100594,-106.642757,35.100594",
     "geom:latitude":35.100594,
     "geom:longitude":-106.642757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 Commercial St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169831463,
-    "wof:lastmodified":1449034626,
+    "wof:lastmodified":1466698814,
     "wof:name":"Builders-Materials Inc",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "face"
     ]
 },
-  "bbox": [-106.642757,35.100594,-106.642757,35.100594],
+  "bbox": [
+    -106.642757,
+    35.100594,
+    -106.642757,
+    35.100594
+],
   "geometry": {"coordinates":[-106.642757,35.100594],"type":"Point"}
 }

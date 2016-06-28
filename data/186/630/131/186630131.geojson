@@ -2,13 +2,14 @@
   "id": 186630131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.491469,35.06301,-106.491469,35.06301",
     "geom:latitude":35.06301,
     "geom:longitude":-106.491469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 Poinsettia Pl SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186630131,
-    "wof:lastmodified":1449051349,
+    "wof:lastmodified":1466700749,
     "wof:name":"Pinecrest Estates Mobile Hm",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-106.491469,35.06301,-106.491469,35.06301],
+  "bbox": [
+    -106.491469,
+    35.06301,
+    -106.491469,
+    35.06301
+],
   "geometry": {"coordinates":[-106.491469,35.06301],"type":"Point"}
 }

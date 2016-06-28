@@ -2,13 +2,14 @@
   "id": 202597477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.942287,35.643247,-105.942287,35.643247",
     "geom:latitude":35.643247,
     "geom:longitude":-105.942287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Ridgecrest Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202597477,
-    "wof:lastmodified":1449062600,
+    "wof:lastmodified":1466698347,
     "wof:name":"Cokata Limited Co",
     "wof:parent_id":85880773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-105.942287,35.643247,-105.942287,35.643247],
-  "geometry": {"coordinates":[-105.942287,35.643247],"type":"Point"}
+  "bbox": [
+    -105.942287,
+    35.643247,
+    -105.942287,
+    35.643247
+],
+  "geometry": {"coordinates":[-105.94228699999999,35.643247],"type":"Point"}
 }

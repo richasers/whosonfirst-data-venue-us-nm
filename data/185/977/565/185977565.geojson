@@ -2,13 +2,14 @@
   "id": 185977565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.806453,32.305386,-106.806453,32.305386",
     "geom:latitude":32.305386,
     "geom:longitude":-106.806453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 Copper Loop",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185977565,
-    "wof:lastmodified":1449008263,
+    "wof:lastmodified":1466699612,
     "wof:name":"Fast Track Lending Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-106.806453,32.305386,-106.806453,32.305386],
+  "bbox": [
+    -106.806453,
+    32.305386,
+    -106.806453,
+    32.305386
+],
   "geometry": {"coordinates":[-106.806453,32.305386],"type":"Point"}
 }

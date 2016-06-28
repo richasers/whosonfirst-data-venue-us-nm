@@ -2,13 +2,14 @@
   "id": 186310029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.498082,35.099109,-106.498082,35.099109",
     "geom:latitude":35.099109,
     "geom:longitude":-106.498082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1724 Robert Dale Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186310029,
-    "wof:lastmodified":1449052016,
+    "wof:lastmodified":1466699662,
     "wof:name":"Yelys Bookkeeping Svc",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.498082,35.099109,-106.498082,35.099109],
+  "bbox": [
+    -106.498082,
+    35.099109,
+    -106.498082,
+    35.099109
+],
   "geometry": {"coordinates":[-106.498082,35.099109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202648531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.402078,32.842278,-104.402078,32.842278",
     "geom:latitude":32.842278,
     "geom:longitude":-104.402078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 W Main St",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202648531,
-    "wof:lastmodified":1449060813,
+    "wof:lastmodified":1466699116,
     "wof:name":"Bookkeeping & Business Svc",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-104.402078,32.842278,-104.402078,32.842278],
+  "bbox": [
+    -104.402078,
+    32.842278,
+    -104.402078,
+    32.842278
+],
   "geometry": {"coordinates":[-104.402078,32.842278],"type":"Point"}
 }

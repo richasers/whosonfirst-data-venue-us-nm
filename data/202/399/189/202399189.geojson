@@ -2,13 +2,14 @@
   "id": 202399189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.365603,32.942297,-103.365603,32.942297",
     "geom:latitude":32.942297,
     "geom:longitude":-103.365603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Yucca Dr",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202399189,
-    "wof:lastmodified":1449060551,
+    "wof:lastmodified":1466697920,
     "wof:name":"Ruston Hayes Insurance Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.365603,32.942297,-103.365603,32.942297],
-  "geometry": {"coordinates":[-103.365603,32.942297],"type":"Point"}
+  "bbox": [
+    -103.365603,
+    32.942297,
+    -103.365603,
+    32.942297
+],
+  "geometry": {"coordinates":[-103.36560299999999,32.942297],"type":"Point"}
 }

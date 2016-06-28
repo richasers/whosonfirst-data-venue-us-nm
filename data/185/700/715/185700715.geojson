@@ -2,13 +2,14 @@
   "id": 185700715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.94505,35.685534,-105.94505,35.685534",
     "geom:latitude":35.685534,
     "geom:longitude":-105.94505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Aztec St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185700715,
-    "wof:lastmodified":1449008079,
+    "wof:lastmodified":1466698653,
     "wof:name":"Regenesis",
     "wof:parent_id":85880805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.94505,35.685534,-105.94505,35.685534],
-  "geometry": {"coordinates":[-105.94505,35.685534],"type":"Point"}
+  "bbox": [
+    -105.94505,
+    35.685534,
+    -105.94505,
+    35.685534
+],
+  "geometry": {"coordinates":[-105.94504999999999,35.685534],"type":"Point"}
 }

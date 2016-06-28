@@ -2,13 +2,14 @@
   "id": 202661521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960098,32.893697,-105.960098,32.893697",
     "geom:latitude":32.893697,
     "geom:longitude":-105.960098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 N White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202661521,
-    "wof:lastmodified":1449062377,
+    "wof:lastmodified":1466699307,
     "wof:name":"Yanelli's Fashions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.960098,32.893697,-105.960098,32.893697],
+  "bbox": [
+    -105.960098,
+    32.893697,
+    -105.960098,
+    32.893697
+],
   "geometry": {"coordinates":[-105.960098,32.893697],"type":"Point"}
 }

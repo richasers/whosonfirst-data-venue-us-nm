@@ -2,13 +2,14 @@
   "id": 202779125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.540328,35.161693,-106.540328,35.161693",
     "geom:latitude":35.161693,
     "geom:longitude":-106.540328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7216 Lew Wallace Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202779125,
-    "wof:lastmodified":1449060494,
+    "wof:lastmodified":1466699873,
     "wof:name":"Carmen E De Pires Interpreter",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "interpreter"
     ]
 },
-  "bbox": [-106.540328,35.161693,-106.540328,35.161693],
+  "bbox": [
+    -106.540328,
+    35.161693,
+    -106.540328,
+    35.161693
+],
   "geometry": {"coordinates":[-106.540328,35.161693],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202928073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.74875,32.288569,-106.74875,32.288569",
     "geom:latitude":32.288569,
     "geom:longitude":-106.74875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 S Locust St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202928073,
-    "wof:lastmodified":1449062297,
+    "wof:lastmodified":1466700567,
     "wof:name":"University Laundry & Cleaners",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "coin"
     ]
 },
-  "bbox": [-106.74875,32.288569,-106.74875,32.288569],
+  "bbox": [
+    -106.74875,
+    32.288569,
+    -106.74875,
+    32.288569
+],
   "geometry": {"coordinates":[-106.74875,32.288569],"type":"Point"}
 }

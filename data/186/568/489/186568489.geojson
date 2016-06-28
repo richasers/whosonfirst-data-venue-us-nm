@@ -2,13 +2,14 @@
   "id": 186568489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.959006,32.900852,-105.959006,32.900852",
     "geom:latitude":32.900852,
     "geom:longitude":-105.959006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 New York Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186568489,
-    "wof:lastmodified":1449050176,
+    "wof:lastmodified":1466700654,
     "wof:name":"Otero County Indigent Claims",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.959006,32.900852,-105.959006,32.900852],
+  "bbox": [
+    -105.959006,
+    32.900852,
+    -105.959006,
+    32.900852
+],
   "geometry": {"coordinates":[-105.959006,32.900852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202759433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.522701,33.377896,-104.522701,33.377896",
     "geom:latitude":33.377896,
     "geom:longitude":-104.522701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 S Main St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202759433,
-    "wof:lastmodified":1449062692,
+    "wof:lastmodified":1466699831,
     "wof:name":"Quality Liquor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-104.522701,33.377896,-104.522701,33.377896],
+  "bbox": [
+    -104.522701,
+    33.377896,
+    -104.522701,
+    33.377896
+],
   "geometry": {"coordinates":[-104.522701,33.377896],"type":"Point"}
 }

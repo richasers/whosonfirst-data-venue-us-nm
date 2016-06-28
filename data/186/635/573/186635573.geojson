@@ -2,13 +2,14 @@
   "id": 186635573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.410175,36.710557,-105.410175,36.710557",
     "geom:latitude":36.710557,
     "geom:longitude":-105.410175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Main St",
     "sg:city":"Red River",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186635573,
-    "wof:lastmodified":1449051530,
+    "wof:lastmodified":1466700854,
     "wof:name":"Bobcat Gift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-105.410175,36.710557,-105.410175,36.710557],
+  "bbox": [
+    -105.410175,
+    36.710557,
+    -105.410175,
+    36.710557
+],
   "geometry": {"coordinates":[-105.410175,36.710557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202516243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.228512,32.453327,-104.228512,32.453327",
     "geom:latitude":32.453327,
     "geom:longitude":-104.228512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1716 N Canal St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202516243,
-    "wof:lastmodified":1449060597,
+    "wof:lastmodified":1466699232,
     "wof:name":"Town & Country Mobile Home Pk",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-104.228512,32.453327,-104.228512,32.453327],
-  "geometry": {"coordinates":[-104.228512,32.453327],"type":"Point"}
+  "bbox": [
+    -104.228512,
+    32.453327,
+    -104.228512,
+    32.453327
+],
+  "geometry": {"coordinates":[-104.22851199999999,32.453327],"type":"Point"}
 }

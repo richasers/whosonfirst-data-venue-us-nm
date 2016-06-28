@@ -2,13 +2,14 @@
   "id": 186441065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.1948,32.781522,-108.1948,32.781522",
     "geom:latitude":32.781522,
     "geom:longitude":-108.1948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11793 US Hwy 180 E",
     "sg:city":"Arenas Valley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186441065,
-    "wof:lastmodified":1449050454,
+    "wof:lastmodified":1466700099,
     "wof:name":"Sharpening Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.1948,32.781522,-108.1948,32.781522],
+  "bbox": [
+    -108.1948,
+    32.781522,
+    -108.1948,
+    32.781522
+],
   "geometry": {"coordinates":[-108.1948,32.781522],"type":"Point"}
 }

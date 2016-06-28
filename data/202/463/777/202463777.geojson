@@ -2,13 +2,14 @@
   "id": 202463777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.556379,35.090869,-106.556379,35.090869",
     "geom:latitude":35.090869,
     "geom:longitude":-106.556379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8010 Mountain Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202463777,
-    "wof:lastmodified":1449061854,
+    "wof:lastmodified":1466698685,
     "wof:name":"Paul E Hepner Jr MD",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "good"
     ]
 },
-  "bbox": [-106.556379,35.090869,-106.556379,35.090869],
-  "geometry": {"coordinates":[-106.556379,35.090869],"type":"Point"}
+  "bbox": [
+    -106.556379,
+    35.090869,
+    -106.556379,
+    35.090869
+],
+  "geometry": {"coordinates":[-106.55637900000001,35.090869],"type":"Point"}
 }

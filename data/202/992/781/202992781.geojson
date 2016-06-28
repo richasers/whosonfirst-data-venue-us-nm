@@ -2,13 +2,14 @@
   "id": 202992781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.730599,32.297814,-107.730599,32.297814",
     "geom:latitude":32.297814,
     "geom:longitude":-107.730599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1970 Arrowhead Dr NE",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202992781,
-    "wof:lastmodified":1449061316,
+    "wof:lastmodified":1466700757,
     "wof:name":"Sonnys Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-107.730599,32.297814,-107.730599,32.297814],
+  "bbox": [
+    -107.730599,
+    32.297814,
+    -107.730599,
+    32.297814
+],
   "geometry": {"coordinates":[-107.730599,32.297814],"type":"Point"}
 }

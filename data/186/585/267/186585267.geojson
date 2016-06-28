@@ -2,13 +2,14 @@
   "id": 186585267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.964879,35.680165,-105.964879,35.680165",
     "geom:latitude":35.680165,
     "geom:longitude":-105.964879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 Agua Fria St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186585267,
-    "wof:lastmodified":1449052155,
+    "wof:lastmodified":1466700489,
     "wof:name":"Santa Fe County Maternal",
     "wof:parent_id":85880841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.964879,35.680165,-105.964879,35.680165],
+  "bbox": [
+    -105.964879,
+    35.680165,
+    -105.964879,
+    35.680165
+],
   "geometry": {"coordinates":[-105.964879,35.680165],"type":"Point"}
 }

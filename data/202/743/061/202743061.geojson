@@ -2,13 +2,14 @@
   "id": 202743061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.559922,35.178627,-106.559922,35.178627",
     "geom:latitude":35.178627,
     "geom:longitude":-106.559922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7601 Anaheim Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202743061,
-    "wof:lastmodified":1449062628,
+    "wof:lastmodified":1466699864,
     "wof:name":"Moulton Rachel Dvm",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "animal"
     ]
 },
-  "bbox": [-106.559922,35.178627,-106.559922,35.178627],
+  "bbox": [
+    -106.559922,
+    35.178627,
+    -106.559922,
+    35.178627
+],
   "geometry": {"coordinates":[-106.559922,35.178627],"type":"Point"}
 }

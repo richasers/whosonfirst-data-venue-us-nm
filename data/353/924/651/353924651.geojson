@@ -2,13 +2,14 @@
   "id": 353924651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.691208,35.009778,-106.691208,35.009778",
     "geom:latitude":35.009778,
     "geom:longitude":-106.691208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2014 Gun Club Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353924651,
-    "wof:lastmodified":1449018976,
+    "wof:lastmodified":1466697857,
     "wof:name":"Dynamite Exterminating Co",
     "wof:parent_id":85892575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-106.691208,35.009778,-106.691208,35.009778],
+  "bbox": [
+    -106.691208,
+    35.009778,
+    -106.691208,
+    35.009778
+],
   "geometry": {"coordinates":[-106.691208,35.009778],"type":"Point"}
 }

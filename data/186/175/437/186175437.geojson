@@ -2,13 +2,14 @@
   "id": 186175437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.523147,33.35817,-104.523147,33.35817",
     "geom:latitude":33.35817,
     "geom:longitude":-104.523147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3102 S Main St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186175437,
-    "wof:lastmodified":1449052230,
+    "wof:lastmodified":1466697706,
     "wof:name":"C & S Auto Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-104.523147,33.35817,-104.523147,33.35817],
-  "geometry": {"coordinates":[-104.523147,33.35817],"type":"Point"}
+  "bbox": [
+    -104.523147,
+    33.35817,
+    -104.523147,
+    33.35817
+],
+  "geometry": {"coordinates":[-104.52314699999999,33.35817],"type":"Point"}
 }

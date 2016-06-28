@@ -2,13 +2,14 @@
   "id": 169825983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.220587,34.392802,-103.220587,34.392802",
     "geom:latitude":34.392802,
     "geom:longitude":-103.220587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 S Hull St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169825983,
-    "wof:lastmodified":1449032817,
+    "wof:lastmodified":1466698774,
     "wof:name":"Agriculture Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-103.220587,34.392802,-103.220587,34.392802],
-  "geometry": {"coordinates":[-103.220587,34.392802],"type":"Point"}
+  "bbox": [
+    -103.220587,
+    34.392802,
+    -103.220587,
+    34.392802
+],
+  "geometry": {"coordinates":[-103.22058699999999,34.392802],"type":"Point"}
 }

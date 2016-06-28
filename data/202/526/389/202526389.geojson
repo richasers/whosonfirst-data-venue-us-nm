@@ -2,13 +2,14 @@
   "id": 202526389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.479144,35.360068,-103.479144,35.360068",
     "geom:latitude":35.360068,
     "geom:longitude":-103.479144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Pueblo Dr",
     "sg:city":"Logan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202526389,
-    "wof:lastmodified":1449060895,
+    "wof:lastmodified":1466699275,
     "wof:name":"Burdick Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-103.479144,35.360068,-103.479144,35.360068],
-  "geometry": {"coordinates":[-103.479144,35.360068],"type":"Point"}
+  "bbox": [
+    -103.479144,
+    35.360068,
+    -103.479144,
+    35.360068
+],
+  "geometry": {"coordinates":[-103.47914400000001,35.360068],"type":"Point"}
 }

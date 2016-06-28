@@ -2,13 +2,14 @@
   "id": 186356405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.730454,35.508395,-108.730454,35.508395",
     "geom:latitude":35.508395,
     "geom:longitude":-108.730454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Nizhoni Blvd",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186356405,
-    "wof:lastmodified":1449052533,
+    "wof:lastmodified":1466699803,
     "wof:name":"Sk Cub Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.730454,35.508395,-108.730454,35.508395],
-  "geometry": {"coordinates":[-108.730454,35.508395],"type":"Point"}
+  "bbox": [
+    -108.730454,
+    35.508395,
+    -108.730454,
+    35.508395
+],
+  "geometry": {"coordinates":[-108.73045399999999,35.508395],"type":"Point"}
 }

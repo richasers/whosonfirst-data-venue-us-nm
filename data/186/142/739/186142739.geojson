@@ -2,13 +2,14 @@
   "id": 186142739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.565529,35.109134,-106.565529,35.109134",
     "geom:latitude":35.109134,
     "geom:longitude":-106.565529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7001 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186142739,
-    "wof:lastmodified":1449052474,
+    "wof:lastmodified":1466699220,
     "wof:name":"Kbs Computer Solutions Inc",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sales"
     ]
 },
-  "bbox": [-106.565529,35.109134,-106.565529,35.109134],
+  "bbox": [
+    -106.565529,
+    35.109134,
+    -106.565529,
+    35.109134
+],
   "geometry": {"coordinates":[-106.565529,35.109134],"type":"Point"}
 }

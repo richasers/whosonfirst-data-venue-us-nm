@@ -2,13 +2,14 @@
   "id": 353955621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.577592,35.177367,-106.577592,35.177367",
     "geom:latitude":35.177367,
     "geom:longitude":-106.577592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8311 San Pedro Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353955621,
-    "wof:lastmodified":1449020014,
+    "wof:lastmodified":1466698712,
     "wof:name":"Paris Spa Medical",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.577592,35.177367,-106.577592,35.177367],
+  "bbox": [
+    -106.577592,
+    35.177367,
+    -106.577592,
+    35.177367
+],
   "geometry": {"coordinates":[-106.577592,35.177367],"type":"Point"}
 }

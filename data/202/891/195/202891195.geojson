@@ -2,13 +2,14 @@
   "id": 202891195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.583289,33.338617,-105.583289,33.338617",
     "geom:latitude":33.338617,
     "geom:longitude":-105.583289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 River Ln",
     "sg:city":"Ruidoso Downs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202891195,
-    "wof:lastmodified":1449061657,
+    "wof:lastmodified":1466700436,
     "wof:name":"Street Angels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "community"
     ]
 },
-  "bbox": [-105.583289,33.338617,-105.583289,33.338617],
-  "geometry": {"coordinates":[-105.583289,33.338617],"type":"Point"}
+  "bbox": [
+    -105.583289,
+    33.338617,
+    -105.583289,
+    33.338617
+],
+  "geometry": {"coordinates":[-105.58328899999999,33.338617],"type":"Point"}
 }

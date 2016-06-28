@@ -2,13 +2,14 @@
   "id": 202686333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.79578,32.286659,-106.79578,32.286659",
     "geom:latitude":32.286659,
     "geom:longitude":-106.79578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"262 Happy Trl S",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202686333,
-    "wof:lastmodified":1449062041,
+    "wof:lastmodified":1466699543,
     "wof:name":"Runyon Larry",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.79578,32.286659,-106.79578,32.286659],
-  "geometry": {"coordinates":[-106.79578,32.286659],"type":"Point"}
+  "bbox": [
+    -106.79578,
+    32.286659,
+    -106.79578,
+    32.286659
+],
+  "geometry": {"coordinates":[-106.79577999999999,32.286659],"type":"Point"}
 }

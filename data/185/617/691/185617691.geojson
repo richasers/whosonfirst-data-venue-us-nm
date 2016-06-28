@@ -2,13 +2,14 @@
   "id": 185617691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.500542,35.060228,-106.500542,35.060228",
     "geom:latitude":35.060228,
     "geom:longitude":-106.500542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 Green Valley Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185617691,
-    "wof:lastmodified":1449006634,
+    "wof:lastmodified":1466697797,
     "wof:name":"Signal Detection Co",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exploration"
     ]
 },
-  "bbox": [-106.500542,35.060228,-106.500542,35.060228],
+  "bbox": [
+    -106.500542,
+    35.060228,
+    -106.500542,
+    35.060228
+],
   "geometry": {"coordinates":[-106.500542,35.060228],"type":"Point"}
 }

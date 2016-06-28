@@ -2,13 +2,14 @@
   "id": 186098911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.573518,35.321512,-106.573518,35.321512",
     "geom:latitude":35.321512,
     "geom:longitude":-106.573518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Montoya Rd",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186098911,
-    "wof:lastmodified":1449052740,
+    "wof:lastmodified":1466698924,
     "wof:name":"Sandoval County Detention Ctr",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "institution"
     ]
 },
-  "bbox": [-106.573518,35.321512,-106.573518,35.321512],
-  "geometry": {"coordinates":[-106.573518,35.321512],"type":"Point"}
+  "bbox": [
+    -106.573518,
+    35.321512,
+    -106.573518,
+    35.321512
+],
+  "geometry": {"coordinates":[-106.57351800000001,35.321512],"type":"Point"}
 }

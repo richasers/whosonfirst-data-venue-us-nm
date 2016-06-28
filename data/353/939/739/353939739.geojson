@@ -2,13 +2,14 @@
   "id": 353939739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.535599,35.172009,-106.535599,35.172009",
     "geom:latitude":35.172009,
     "geom:longitude":-106.535599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9604 Rosas Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353939739,
-    "wof:lastmodified":1449019018,
+    "wof:lastmodified":1466698268,
     "wof:name":"Nm Speech Language Services",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "speech-language"
     ]
 },
-  "bbox": [-106.535599,35.172009,-106.535599,35.172009],
+  "bbox": [
+    -106.535599,
+    35.172009,
+    -106.535599,
+    35.172009
+],
   "geometry": {"coordinates":[-106.535599,35.172009],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186579505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.521054,35.094713,-106.521054,35.094713",
     "geom:latitude":35.094713,
     "geom:longitude":-106.521054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11013 Constitution Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186579505,
-    "wof:lastmodified":1449051242,
+    "wof:lastmodified":1466700441,
     "wof:name":"Ryan Villa",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arbitration"
     ]
 },
-  "bbox": [-106.521054,35.094713,-106.521054,35.094713],
-  "geometry": {"coordinates":[-106.521054,35.094713],"type":"Point"}
+  "bbox": [
+    -106.521054,
+    35.094713,
+    -106.521054,
+    35.094713
+],
+  "geometry": {"coordinates":[-106.52105400000001,35.094713],"type":"Point"}
 }

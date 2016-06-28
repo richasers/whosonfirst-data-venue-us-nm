@@ -2,13 +2,14 @@
   "id": 353981479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.196487,34.428473,-103.196487,34.428473",
     "geom:latitude":34.428473,
     "geom:longitude":-103.196487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 N Prince St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":353981479,
-    "wof:lastmodified":1449020851,
+    "wof:lastmodified":1466699108,
     "wof:name":"Barnett Chiropractic Wellness Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "physical"
     ]
 },
-  "bbox": [-103.196487,34.428473,-103.196487,34.428473],
+  "bbox": [
+    -103.196487,
+    34.428473,
+    -103.196487,
+    34.428473
+],
   "geometry": {"coordinates":[-103.196487,34.428473],"type":"Point"}
 }

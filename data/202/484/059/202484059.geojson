@@ -2,13 +2,14 @@
   "id": 202484059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.647645,35.134805,-106.647645,35.134805",
     "geom:latitude":35.134805,
     "geom:longitude":-106.647645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"836 San Andres Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202484059,
-    "wof:lastmodified":1449062501,
+    "wof:lastmodified":1466699448,
     "wof:name":"Soma Unique",
     "wof:parent_id":85892593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.647645,35.134805,-106.647645,35.134805],
+  "bbox": [
+    -106.647645,
+    35.134805,
+    -106.647645,
+    35.134805
+],
   "geometry": {"coordinates":[-106.647645,35.134805],"type":"Point"}
 }

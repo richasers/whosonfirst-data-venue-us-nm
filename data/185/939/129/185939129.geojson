@@ -2,13 +2,14 @@
   "id": 185939129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.571265,34.214301,-103.571265,34.214301",
     "geom:latitude":34.214301,
     "geom:longitude":-103.571265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1561 State Hwy 267",
     "sg:city":"Floyd",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185939129,
-    "wof:lastmodified":1449007088,
+    "wof:lastmodified":1466699066,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.571265,34.214301,-103.571265,34.214301],
+  "bbox": [
+    -103.571265,
+    34.214301,
+    -103.571265,
+    34.214301
+],
   "geometry": {"coordinates":[-103.571265,34.214301],"type":"Point"}
 }

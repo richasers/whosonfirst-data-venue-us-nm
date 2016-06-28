@@ -2,13 +2,14 @@
   "id": 185949517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.950376,35.671389,-105.950376,35.671389",
     "geom:latitude":35.671389,
     "geom:longitude":-105.950376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 Luisa St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185949517,
-    "wof:lastmodified":1449007604,
+    "wof:lastmodified":1466699209,
     "wof:name":"Sun Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-105.950376,35.671389,-105.950376,35.671389],
-  "geometry": {"coordinates":[-105.950376,35.671389],"type":"Point"}
+  "bbox": [
+    -105.950376,
+    35.671389,
+    -105.950376,
+    35.671389
+],
+  "geometry": {"coordinates":[-105.95037600000001,35.671389],"type":"Point"}
 }

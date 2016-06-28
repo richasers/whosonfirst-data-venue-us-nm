@@ -2,13 +2,14 @@
   "id": 202765873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.877641,36.941073,-107.877641,36.941073",
     "geom:latitude":36.941073,
     "geom:longitude":-107.877641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Rd 2335",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202765873,
-    "wof:lastmodified":1449061571,
+    "wof:lastmodified":1466699847,
     "wof:name":"Country Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-107.877641,36.941073,-107.877641,36.941073],
+  "bbox": [
+    -107.877641,
+    36.941073,
+    -107.877641,
+    36.941073
+],
   "geometry": {"coordinates":[-107.877641,36.941073],"type":"Point"}
 }

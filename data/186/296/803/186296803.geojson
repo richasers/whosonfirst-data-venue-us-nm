@@ -2,13 +2,14 @@
   "id": 186296803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.717835,32.336347,-108.717835,32.336347",
     "geom:latitude":32.336347,
     "geom:longitude":-108.717835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Ave del Sol",
     "sg:city":"Lordsburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186296803,
-    "wof:lastmodified":1449052514,
+    "wof:lastmodified":1466699291,
     "wof:name":"Southwestern New Mexico Svc To",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.717835,32.336347,-108.717835,32.336347],
-  "geometry": {"coordinates":[-108.717835,32.336347],"type":"Point"}
+  "bbox": [
+    -108.717835,
+    32.336347,
+    -108.717835,
+    32.336347
+],
+  "geometry": {"coordinates":[-108.71783499999999,32.336347],"type":"Point"}
 }

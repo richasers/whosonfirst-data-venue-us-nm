@@ -2,13 +2,14 @@
   "id": 203110943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.277084,32.769713,-108.277084,32.769713",
     "geom:latitude":32.769713,
     "geom:longitude":-108.277084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N Texas St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203110943,
-    "wof:lastmodified":1449025541,
+    "wof:lastmodified":1466698882,
     "wof:name":"Discotechs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.277084,32.769713,-108.277084,32.769713],
+  "bbox": [
+    -108.277084,
+    32.769713,
+    -108.277084,
+    32.769713
+],
   "geometry": {"coordinates":[-108.277084,32.769713],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169702647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.639357,35.14859,-106.639357,35.14859",
     "geom:latitude":35.14859,
     "geom:longitude":-106.639357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169702647,
-    "wof:lastmodified":1449034337,
+    "wof:lastmodified":1466697622,
     "wof:name":"Alteration By Maxine",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "ball"
     ]
 },
-  "bbox": [-106.639357,35.14859,-106.639357,35.14859],
+  "bbox": [
+    -106.639357,
+    35.14859,
+    -106.639357,
+    35.14859
+],
   "geometry": {"coordinates":[-106.639357,35.14859],"type":"Point"}
 }

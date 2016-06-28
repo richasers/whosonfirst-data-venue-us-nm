@@ -2,13 +2,14 @@
   "id": 202839807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.688476,35.00848,-106.688476,35.00848",
     "geom:latitude":35.00848,
     "geom:longitude":-106.688476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4625 Isleta Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202839807,
-    "wof:lastmodified":1449061646,
+    "wof:lastmodified":1466700141,
     "wof:name":"Especially For You",
     "wof:parent_id":85892575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.688476,35.00848,-106.688476,35.00848],
-  "geometry": {"coordinates":[-106.688476,35.00848],"type":"Point"}
+  "bbox": [
+    -106.688476,
+    35.00848,
+    -106.688476,
+    35.00848
+],
+  "geometry": {"coordinates":[-106.68847599999999,35.00848],"type":"Point"}
 }

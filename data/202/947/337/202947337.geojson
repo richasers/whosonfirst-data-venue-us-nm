@@ -2,13 +2,14 @@
   "id": 202947337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.701698,35.116521,-106.701698,35.116521",
     "geom:latitude":35.116521,
     "geom:longitude":-106.701698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2929 Coors Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202947337,
-    "wof:lastmodified":1449061937,
+    "wof:lastmodified":1466700428,
     "wof:name":"Infiniti Mortgage LLC",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-106.701698,35.116521,-106.701698,35.116521],
-  "geometry": {"coordinates":[-106.701698,35.116521],"type":"Point"}
+  "bbox": [
+    -106.701698,
+    35.116521,
+    -106.701698,
+    35.116521
+],
+  "geometry": {"coordinates":[-106.70169799999999,35.116521],"type":"Point"}
 }

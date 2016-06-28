@@ -2,13 +2,14 @@
   "id": 203090439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.767216,32.308227,-106.767216,32.308227",
     "geom:latitude":32.308227,
     "geom:longitude":-106.767216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 E Lohman Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203090439,
-    "wof:lastmodified":1449026443,
+    "wof:lastmodified":1466698586,
     "wof:name":"Go Burger Drive-In",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.767216,32.308227,-106.767216,32.308227],
+  "bbox": [
+    -106.767216,
+    32.308227,
+    -106.767216,
+    32.308227
+],
   "geometry": {"coordinates":[-106.767216,32.308227],"type":"Point"}
 }

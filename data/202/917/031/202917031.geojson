@@ -2,13 +2,14 @@
   "id": 202917031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.525431,33.308318,-104.525431,33.308318",
     "geom:latitude":33.308318,
     "geom:longitude":-104.525431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 W Earl Cummings Loop",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202917031,
-    "wof:lastmodified":1449062322,
+    "wof:lastmodified":1466700529,
     "wof:name":"Host Ice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ice"
     ]
 },
-  "bbox": [-104.525431,33.308318,-104.525431,33.308318],
+  "bbox": [
+    -104.525431,
+    33.308318,
+    -104.525431,
+    33.308318
+],
   "geometry": {"coordinates":[-104.525431,33.308318],"type":"Point"}
 }

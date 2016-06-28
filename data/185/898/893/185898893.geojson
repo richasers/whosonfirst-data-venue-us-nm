@@ -2,13 +2,14 @@
   "id": 185898893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.986737,32.854513,-105.986737,32.854513",
     "geom:latitude":32.854513,
     "geom:longitude":-105.986737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 Brooks Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185898893,
-    "wof:lastmodified":1449006570,
+    "wof:lastmodified":1466698496,
     "wof:name":"Rafa's Lawn & Lanscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.986737,32.854513,-105.986737,32.854513],
-  "geometry": {"coordinates":[-105.986737,32.854513],"type":"Point"}
+  "bbox": [
+    -105.986737,
+    32.854513,
+    -105.986737,
+    32.854513
+],
+  "geometry": {"coordinates":[-105.98673700000001,32.854513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185711533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.136385,32.700876,-103.136385,32.700876",
     "geom:latitude":32.700876,
     "geom:longitude":-103.136385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 W Broadway St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185711533,
-    "wof:lastmodified":1449007929,
+    "wof:lastmodified":1466698769,
     "wof:name":"Trusty's Treasures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-103.136385,32.700876,-103.136385,32.700876],
+  "bbox": [
+    -103.136385,
+    32.700876,
+    -103.136385,
+    32.700876
+],
   "geometry": {"coordinates":[-103.136385,32.700876],"type":"Point"}
 }

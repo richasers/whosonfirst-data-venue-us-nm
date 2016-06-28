@@ -2,13 +2,14 @@
   "id": 353963083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.702498,35.112451,-106.702498,35.112451",
     "geom:latitude":35.112451,
     "geom:longitude":-106.702498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2621 Coors Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353963083,
-    "wof:lastmodified":1449018504,
+    "wof:lastmodified":1466698828,
     "wof:name":"Luxury Spa & Nails Nail Salon",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.702498,35.112451,-106.702498,35.112451],
-  "geometry": {"coordinates":[-106.702498,35.112451],"type":"Point"}
+  "bbox": [
+    -106.702498,
+    35.112451,
+    -106.702498,
+    35.112451
+],
+  "geometry": {"coordinates":[-106.70249800000001,35.112451],"type":"Point"}
 }

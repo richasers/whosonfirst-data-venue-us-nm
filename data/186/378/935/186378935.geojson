@@ -2,13 +2,14 @@
   "id": 186378935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.761368,32.296702,-106.761368,32.296702",
     "geom:latitude":32.296702,
     "geom:longitude":-106.761368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1233 Montana Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186378935,
-    "wof:lastmodified":1449052182,
+    "wof:lastmodified":1466699771,
     "wof:name":"Alexanders Upholstery",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-106.761368,32.296702,-106.761368,32.296702],
+  "bbox": [
+    -106.761368,
+    32.296702,
+    -106.761368,
+    32.296702
+],
   "geometry": {"coordinates":[-106.761368,32.296702],"type":"Point"}
 }

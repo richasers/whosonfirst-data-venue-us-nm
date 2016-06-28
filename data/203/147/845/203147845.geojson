@@ -2,13 +2,14 @@
   "id": 203147845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.572349,35.166117,-106.572349,35.166117",
     "geom:latitude":35.166117,
     "geom:longitude":-106.572349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6801 San Francisco Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203147845,
-    "wof:lastmodified":1449026660,
+    "wof:lastmodified":1466699135,
     "wof:name":"Hornblower Services",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auto"
     ]
 },
-  "bbox": [-106.572349,35.166117,-106.572349,35.166117],
+  "bbox": [
+    -106.572349,
+    35.166117,
+    -106.572349,
+    35.166117
+],
   "geometry": {"coordinates":[-106.572349,35.166117],"type":"Point"}
 }

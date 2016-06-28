@@ -2,13 +2,14 @@
   "id": 202616119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.620823,35.079176,-106.620823,35.079176",
     "geom:latitude":35.079176,
     "geom:longitude":-106.620823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2203 Silver Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202616119,
-    "wof:lastmodified":1449061962,
+    "wof:lastmodified":1466698615,
     "wof:name":"Sandia Budokan Inc",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "instruction"
     ]
 },
-  "bbox": [-106.620823,35.079176,-106.620823,35.079176],
+  "bbox": [
+    -106.620823,
+    35.079176,
+    -106.620823,
+    35.079176
+],
   "geometry": {"coordinates":[-106.620823,35.079176],"type":"Point"}
 }

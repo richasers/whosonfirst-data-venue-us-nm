@@ -2,13 +2,14 @@
   "id": 186475989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550748,35.098011,-106.550748,35.098011",
     "geom:latitude":35.098011,
     "geom:longitude":-106.550748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186475989,
-    "wof:lastmodified":1449051492,
+    "wof:lastmodified":1466700267,
     "wof:name":"Suzanna Nails & Hair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.550748,35.098011,-106.550748,35.098011],
+  "bbox": [
+    -106.550748,
+    35.098011,
+    -106.550748,
+    35.098011
+],
   "geometry": {"coordinates":[-106.550748,35.098011],"type":"Point"}
 }

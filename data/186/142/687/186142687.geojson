@@ -2,13 +2,14 @@
   "id": 186142687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.783332,32.30585,-106.783332,32.30585",
     "geom:latitude":32.30585,
     "geom:longitude":-106.783332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 W Amador Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186142687,
-    "wof:lastmodified":1449052475,
+    "wof:lastmodified":1466699220,
     "wof:name":"Graham's Mortuary",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-106.783332,32.30585,-106.783332,32.30585],
+  "bbox": [
+    -106.783332,
+    32.30585,
+    -106.783332,
+    32.30585
+],
   "geometry": {"coordinates":[-106.783332,32.30585],"type":"Point"}
 }

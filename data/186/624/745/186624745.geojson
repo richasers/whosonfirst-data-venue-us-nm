@@ -2,13 +2,14 @@
   "id": 186624745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.157494,32.444978,-103.157494,32.444978",
     "geom:latitude":32.444978,
     "geom:longitude":-103.157494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Ave Q",
     "sg:city":"Eunice",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186624745,
-    "wof:lastmodified":1449052213,
+    "wof:lastmodified":1466700730,
     "wof:name":"Eunice Girl Scouts Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-103.157494,32.444978,-103.157494,32.444978],
+  "bbox": [
+    -103.157494,
+    32.444978,
+    -103.157494,
+    32.444978
+],
   "geometry": {"coordinates":[-103.157494,32.444978],"type":"Point"}
 }

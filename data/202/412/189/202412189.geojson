@@ -2,13 +2,14 @@
   "id": 202412189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.566715,33.386885,-104.566715,33.386885",
     "geom:latitude":33.386885,
     "geom:longitude":-104.566715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3304 W Bland St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202412189,
-    "wof:lastmodified":1449060629,
+    "wof:lastmodified":1466698100,
     "wof:name":"Metcalf Concrete Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.566715,33.386885,-104.566715,33.386885],
+  "bbox": [
+    -104.566715,
+    33.386885,
+    -104.566715,
+    33.386885
+],
   "geometry": {"coordinates":[-104.566715,33.386885],"type":"Point"}
 }

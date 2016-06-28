@@ -2,13 +2,14 @@
   "id": 202406847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.313009,35.887028,-106.313009,35.887028",
     "geom:latitude":35.887028,
     "geom:longitude":-106.313009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3325 Orange St",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202406847,
-    "wof:lastmodified":1449061472,
+    "wof:lastmodified":1466698021,
     "wof:name":"Account & Tax Servies N",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-106.313009,35.887028,-106.313009,35.887028],
-  "geometry": {"coordinates":[-106.313009,35.887028],"type":"Point"}
+  "bbox": [
+    -106.313009,
+    35.887028,
+    -106.313009,
+    35.887028
+],
+  "geometry": {"coordinates":[-106.31300899999999,35.887028],"type":"Point"}
 }

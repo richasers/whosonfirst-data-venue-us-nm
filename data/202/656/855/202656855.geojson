@@ -2,13 +2,14 @@
   "id": 202656855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.335676,34.185148,-103.335676,34.185148",
     "geom:latitude":34.185148,
     "geom:longitude":-103.335676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S Main Ave",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202656855,
-    "wof:lastmodified":1449061739,
+    "wof:lastmodified":1466699239,
     "wof:name":"A Major Music Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.335676,34.185148,-103.335676,34.185148],
-  "geometry": {"coordinates":[-103.335676,34.185148],"type":"Point"}
+  "bbox": [
+    -103.335676,
+    34.185148,
+    -103.335676,
+    34.185148
+],
+  "geometry": {"coordinates":[-103.33567600000001,34.185148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353938211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.573749,35.131496,-106.573749,35.131496",
     "geom:latitude":35.131496,
     "geom:longitude":-106.573749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4143 Marla Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353938211,
-    "wof:lastmodified":1449020149,
+    "wof:lastmodified":1466698226,
     "wof:name":"Freeport Travel Unlimited",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-106.573749,35.131496,-106.573749,35.131496],
-  "geometry": {"coordinates":[-106.573749,35.131496],"type":"Point"}
+  "bbox": [
+    -106.573749,
+    35.131496,
+    -106.573749,
+    35.131496
+],
+  "geometry": {"coordinates":[-106.57374900000001,35.131496],"type":"Point"}
 }

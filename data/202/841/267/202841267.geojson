@@ -2,13 +2,14 @@
   "id": 202841267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.733958,34.803469,-106.733958,34.803469",
     "geom:latitude":34.803469,
     "geom:longitude":-106.733958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Cortez St SE",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202841267,
-    "wof:lastmodified":1449060651,
+    "wof:lastmodified":1466700150,
     "wof:name":"Heritage Title-Valencia County",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "title"
     ]
 },
-  "bbox": [-106.733958,34.803469,-106.733958,34.803469],
+  "bbox": [
+    -106.733958,
+    34.803469,
+    -106.733958,
+    34.803469
+],
   "geometry": {"coordinates":[-106.733958,34.803469],"type":"Point"}
 }

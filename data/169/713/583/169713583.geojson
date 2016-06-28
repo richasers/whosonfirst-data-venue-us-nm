@@ -2,13 +2,14 @@
   "id": 169713583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.597125,35.148472,-106.597125,35.148472",
     "geom:latitude":35.148472,
     "geom:longitude":-106.597125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4261 Balloon Park Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169713583,
-    "wof:lastmodified":1449035651,
+    "wof:lastmodified":1466697709,
     "wof:name":"ADELANTE ENTERPRISES",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "developmentally"
     ]
 },
-  "bbox": [-106.597125,35.148472,-106.597125,35.148472],
-  "geometry": {"coordinates":[-106.597125,35.148472],"type":"Point"}
+  "bbox": [
+    -106.597125,
+    35.148472,
+    -106.597125,
+    35.148472
+],
+  "geometry": {"coordinates":[-106.59712500000001,35.148472],"type":"Point"}
 }

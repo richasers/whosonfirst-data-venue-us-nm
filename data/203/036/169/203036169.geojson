@@ -2,13 +2,14 @@
   "id": 203036169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.609863,35.161698,-106.609863,35.161698",
     "geom:latitude":35.161698,
     "geom:longitude":-106.609863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1227 Casa Tomas Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203036169,
-    "wof:lastmodified":1449025346,
+    "wof:lastmodified":1466697980,
     "wof:name":"Primecore Systems Inc",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-106.609863,35.161698,-106.609863,35.161698],
+  "bbox": [
+    -106.609863,
+    35.161698,
+    -106.609863,
+    35.161698
+],
   "geometry": {"coordinates":[-106.609863,35.161698],"type":"Point"}
 }

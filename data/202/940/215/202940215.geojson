@@ -2,13 +2,14 @@
   "id": 202940215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.778291,34.435477,-106.778291,34.435477",
     "geom:latitude":34.435477,
     "geom:longitude":-106.778291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 State Rte 304",
     "sg:city":"Veguita",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202940215,
-    "wof:lastmodified":1449060741,
+    "wof:lastmodified":1466700519,
     "wof:name":"X Spear Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.778291,34.435477,-106.778291,34.435477],
+  "bbox": [
+    -106.778291,
+    34.435477,
+    -106.778291,
+    34.435477
+],
   "geometry": {"coordinates":[-106.778291,34.435477],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186471593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.213585,34.414473,-103.213585,34.414473",
     "geom:latitude":34.414473,
     "geom:longitude":-103.213585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 Brentwood Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186471593,
-    "wof:lastmodified":1449051450,
+    "wof:lastmodified":1466700122,
     "wof:name":"Good Fore It Power Wash Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-103.213585,34.414473,-103.213585,34.414473],
-  "geometry": {"coordinates":[-103.213585,34.414473],"type":"Point"}
+  "bbox": [
+    -103.213585,
+    34.414473,
+    -103.213585,
+    34.414473
+],
+  "geometry": {"coordinates":[-103.21358499999999,34.414473],"type":"Point"}
 }

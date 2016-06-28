@@ -2,13 +2,14 @@
   "id": 203136019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.120662,32.712384,-103.120662,32.712384",
     "geom:latitude":32.712384,
     "geom:longitude":-103.120662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 N Yucca Dr",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203136019,
-    "wof:lastmodified":1449026853,
+    "wof:lastmodified":1466699456,
     "wof:name":"Rene Ramirez Dump Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-103.120662,32.712384,-103.120662,32.712384],
+  "bbox": [
+    -103.120662,
+    32.712384,
+    -103.120662,
+    32.712384
+],
   "geometry": {"coordinates":[-103.120662,32.712384],"type":"Point"}
 }

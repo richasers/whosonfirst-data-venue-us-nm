@@ -2,13 +2,14 @@
   "id": 353944407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.593727,35.119091,-106.593727,35.119091",
     "geom:latitude":35.119091,
     "geom:longitude":-106.593727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 Aztec Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":353944407,
-    "wof:lastmodified":1449019540,
+    "wof:lastmodified":1466698404,
     "wof:name":"Bel-Air Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "listing"
     ]
 },
-  "bbox": [-106.593727,35.119091,-106.593727,35.119091],
+  "bbox": [
+    -106.593727,
+    35.119091,
+    -106.593727,
+    35.119091
+],
   "geometry": {"coordinates":[-106.593727,35.119091],"type":"Point"}
 }

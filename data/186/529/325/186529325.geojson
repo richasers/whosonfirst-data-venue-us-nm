@@ -2,13 +2,14 @@
   "id": 186529325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550952,35.135264,-106.550952,35.135264",
     "geom:latitude":35.135264,
     "geom:longitude":-106.550952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4802 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186529325,
-    "wof:lastmodified":1449051545,
+    "wof:lastmodified":1466700459,
     "wof:name":"Southwest Child Care Center",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-106.550952,35.135264,-106.550952,35.135264],
+  "bbox": [
+    -106.550952,
+    35.135264,
+    -106.550952,
+    35.135264
+],
   "geometry": {"coordinates":[-106.550952,35.135264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169739599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.715175,35.05165,-106.715175,35.05165",
     "geom:latitude":35.05165,
     "geom:longitude":-106.715175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7208 Luna Ladera Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169739599,
-    "wof:lastmodified":1449034063,
+    "wof:lastmodified":1466697985,
     "wof:name":"Metro Office Svc",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-106.715175,35.05165,-106.715175,35.05165],
+  "bbox": [
+    -106.715175,
+    35.05165,
+    -106.715175,
+    35.05165
+],
   "geometry": {"coordinates":[-106.715175,35.05165],"type":"Point"}
 }

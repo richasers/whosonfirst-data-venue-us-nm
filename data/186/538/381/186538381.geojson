@@ -2,13 +2,14 @@
   "id": 186538381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.688542,35.216575,-106.688542,35.216575",
     "geom:latitude":35.216575,
     "geom:longitude":-106.688542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5208 Ridge Rock Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186538381,
-    "wof:lastmodified":1449050631,
+    "wof:lastmodified":1466700351,
     "wof:name":"Sunset Food Beef Jerky Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.688542,35.216575,-106.688542,35.216575],
+  "bbox": [
+    -106.688542,
+    35.216575,
+    -106.688542,
+    35.216575
+],
   "geometry": {"coordinates":[-106.688542,35.216575],"type":"Point"}
 }

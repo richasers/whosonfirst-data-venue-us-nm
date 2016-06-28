@@ -2,13 +2,14 @@
   "id": 202484827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.708686,35.107614,-106.708686,35.107614",
     "geom:latitude":35.107614,
     "geom:longitude":-106.708686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2104 Summer Ray Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202484827,
-    "wof:lastmodified":1449062500,
+    "wof:lastmodified":1466699019,
     "wof:name":"Kongos Landscaping",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.708686,35.107614,-106.708686,35.107614],
+  "bbox": [
+    -106.708686,
+    35.107614,
+    -106.708686,
+    35.107614
+],
   "geometry": {"coordinates":[-106.708686,35.107614],"type":"Point"}
 }

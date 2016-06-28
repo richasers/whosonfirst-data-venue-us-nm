@@ -2,13 +2,14 @@
   "id": 186394489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.803415,32.351587,-106.803415,32.351587",
     "geom:latitude":32.351587,
     "geom:longitude":-106.803415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Dona Ana Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186394489,
-    "wof:lastmodified":1449050927,
+    "wof:lastmodified":1466699820,
     "wof:name":"Golden West Trading Co",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "notary"
     ]
 },
-  "bbox": [-106.803415,32.351587,-106.803415,32.351587],
+  "bbox": [
+    -106.803415,
+    32.351587,
+    -106.803415,
+    32.351587
+],
   "geometry": {"coordinates":[-106.803415,32.351587],"type":"Point"}
 }

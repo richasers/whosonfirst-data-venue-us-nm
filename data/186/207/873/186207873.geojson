@@ -2,13 +2,14 @@
   "id": 186207873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.520667,35.191503,-106.520667,35.191503",
     "geom:latitude":35.191503,
     "geom:longitude":-106.520667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10800 Florence Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186207873,
-    "wof:lastmodified":1449052233,
+    "wof:lastmodified":1466698124,
     "wof:name":"Enterprise School Photos Inc",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-106.520667,35.191503,-106.520667,35.191503],
+  "bbox": [
+    -106.520667,
+    35.191503,
+    -106.520667,
+    35.191503
+],
   "geometry": {"coordinates":[-106.520667,35.191503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186287237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.5835,35.105525,-106.5835,35.105525",
     "geom:latitude":35.105525,
     "geom:longitude":-106.5835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5400 Cutler Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186287237,
-    "wof:lastmodified":1449050424,
+    "wof:lastmodified":1466699159,
     "wof:name":"University - New Mexico Health",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "school"
     ]
 },
-  "bbox": [-106.5835,35.105525,-106.5835,35.105525],
+  "bbox": [
+    -106.5835,
+    35.105525,
+    -106.5835,
+    35.105525
+],
   "geometry": {"coordinates":[-106.5835,35.105525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202803553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.705415,35.123712,-106.705415,35.123712",
     "geom:latitude":35.123712,
     "geom:longitude":-106.705415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 Atrisco Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202803553,
-    "wof:lastmodified":1449062683,
+    "wof:lastmodified":1466699987,
     "wof:name":"Longbow Guitars",
     "wof:parent_id":85865321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.705415,35.123712,-106.705415,35.123712],
+  "bbox": [
+    -106.705415,
+    35.123712,
+    -106.705415,
+    35.123712
+],
   "geometry": {"coordinates":[-106.705415,35.123712],"type":"Point"}
 }

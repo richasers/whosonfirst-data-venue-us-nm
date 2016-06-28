@@ -2,13 +2,14 @@
   "id": 202939307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.53241,35.079324,-106.53241,35.079324",
     "geom:latitude":35.079324,
     "geom:longitude":-106.53241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202939307,
-    "wof:lastmodified":1449060863,
+    "wof:lastmodified":1466700389,
     "wof:name":"Yearwood Speed & Custom Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "general"
     ]
 },
-  "bbox": [-106.53241,35.079324,-106.53241,35.079324],
+  "bbox": [
+    -106.53241,
+    35.079324,
+    -106.53241,
+    35.079324
+],
   "geometry": {"coordinates":[-106.53241,35.079324],"type":"Point"}
 }

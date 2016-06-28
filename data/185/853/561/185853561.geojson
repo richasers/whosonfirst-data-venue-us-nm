@@ -2,13 +2,14 @@
   "id": 185853561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.543221,35.321995,-106.543221,35.321995",
     "geom:latitude":35.321995,
     "geom:longitude":-106.543221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 N Cam del Pueblo",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185853561,
-    "wof:lastmodified":1449007260,
+    "wof:lastmodified":1466698049,
     "wof:name":"Sandoval County Senior Volunte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.543221,35.321995,-106.543221,35.321995],
+  "bbox": [
+    -106.543221,
+    35.321995,
+    -106.543221,
+    35.321995
+],
   "geometry": {"coordinates":[-106.543221,35.321995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186339549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.188114,36.771255,-108.188114,36.771255",
     "geom:latitude":36.771255,
     "geom:longitude":-108.188114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4751 Sundance Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186339549,
-    "wof:lastmodified":1449051573,
+    "wof:lastmodified":1466699634,
     "wof:name":"Kevasi Counseling & Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.188114,36.771255,-108.188114,36.771255],
+  "bbox": [
+    -108.188114,
+    36.771255,
+    -108.188114,
+    36.771255
+],
   "geometry": {"coordinates":[-108.188114,36.771255],"type":"Point"}
 }

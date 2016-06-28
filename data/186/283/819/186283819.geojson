@@ -2,13 +2,14 @@
   "id": 186283819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.063869,35.892374,-106.063869,35.892374",
     "geom:latitude":35.892374,
     "geom:longitude":-106.063869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Arroyo Jaconita",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186283819,
-    "wof:lastmodified":1449051168,
+    "wof:lastmodified":1466699112,
     "wof:name":"Skyfire Productions Inc",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "firework"
     ]
 },
-  "bbox": [-106.063869,35.892374,-106.063869,35.892374],
+  "bbox": [
+    -106.063869,
+    35.892374,
+    -106.063869,
+    35.892374
+],
   "geometry": {"coordinates":[-106.063869,35.892374],"type":"Point"}
 }

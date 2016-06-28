@@ -2,13 +2,14 @@
   "id": 186020305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.616479,35.090991,-106.616479,35.090991",
     "geom:latitude":35.090991,
     "geom:longitude":-106.616479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2502 Marble Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186020305,
-    "wof:lastmodified":1449051630,
+    "wof:lastmodified":1466697911,
     "wof:name":"University of NM College Phrm",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.616479,35.090991,-106.616479,35.090991],
+  "bbox": [
+    -106.616479,
+    35.090991,
+    -106.616479,
+    35.090991
+],
   "geometry": {"coordinates":[-106.616479,35.090991],"type":"Point"}
 }

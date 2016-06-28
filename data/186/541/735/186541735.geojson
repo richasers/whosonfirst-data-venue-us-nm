@@ -2,13 +2,14 @@
   "id": 186541735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.136287,32.7069,-103.136287,32.7069",
     "geom:latitude":32.7069,
     "geom:longitude":-103.136287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 N Turner St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186541735,
-    "wof:lastmodified":1449050545,
+    "wof:lastmodified":1466700368,
     "wof:name":"Kykk-Am/Kzor-fm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fm"
     ]
 },
-  "bbox": [-103.136287,32.7069,-103.136287,32.7069],
+  "bbox": [
+    -103.136287,
+    32.7069,
+    -103.136287,
+    32.7069
+],
   "geometry": {"coordinates":[-103.136287,32.7069],"type":"Point"}
 }

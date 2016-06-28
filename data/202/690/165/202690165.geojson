@@ -2,13 +2,14 @@
   "id": 202690165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.801505,32.310274,-106.801505,32.310274",
     "geom:latitude":32.310274,
     "geom:longitude":-106.801505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 Buildtek Ct",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202690165,
-    "wof:lastmodified":1449061450,
+    "wof:lastmodified":1466699447,
     "wof:name":"International Gospel Ctr",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.801505,32.310274,-106.801505,32.310274],
-  "geometry": {"coordinates":[-106.801505,32.310274],"type":"Point"}
+  "bbox": [
+    -106.801505,
+    32.310274,
+    -106.801505,
+    32.310274
+],
+  "geometry": {"coordinates":[-106.80150500000001,32.310274],"type":"Point"}
 }

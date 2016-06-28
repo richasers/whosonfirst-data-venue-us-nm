@@ -2,13 +2,14 @@
   "id": 353948649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.52446,35.12352,-106.52446,35.12352",
     "geom:latitude":35.12352,
     "geom:longitude":-106.52446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Morris St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353948649,
-    "wof:lastmodified":1449020296,
+    "wof:lastmodified":1466698531,
     "wof:name":"American Diesel Service Llc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "transmissions-other"
     ]
 },
-  "bbox": [-106.52446,35.12352,-106.52446,35.12352],
+  "bbox": [
+    -106.52446,
+    35.12352,
+    -106.52446,
+    35.12352
+],
   "geometry": {"coordinates":[-106.52446,35.12352],"type":"Point"}
 }

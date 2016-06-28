@@ -2,13 +2,14 @@
   "id": 186155697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.886629,34.063821,-106.886629,34.063821",
     "geom:latitude":34.063821,
     "geom:longitude":-106.886629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 Ivy St",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186155697,
-    "wof:lastmodified":1449052538,
+    "wof:lastmodified":1466699344,
     "wof:name":"Statewide Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-106.886629,34.063821,-106.886629,34.063821],
+  "bbox": [
+    -106.886629,
+    34.063821,
+    -106.886629,
+    34.063821
+],
   "geometry": {"coordinates":[-106.886629,34.063821],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186572731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.660706,35.112577,-106.660706,35.112577",
     "geom:latitude":35.112577,
     "geom:longitude":-106.660706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 Menaul Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186572731,
-    "wof:lastmodified":1449052001,
+    "wof:lastmodified":1466700659,
     "wof:name":"4 H Program",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.660706,35.112577,-106.660706,35.112577],
+  "bbox": [
+    -106.660706,
+    35.112577,
+    -106.660706,
+    35.112577
+],
   "geometry": {"coordinates":[-106.660706,35.112577],"type":"Point"}
 }

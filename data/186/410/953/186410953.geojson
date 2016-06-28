@@ -2,13 +2,14 @@
   "id": 186410953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.505239,35.085145,-106.505239,35.085145",
     "geom:latitude":35.085145,
     "geom:longitude":-106.505239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 Georgene Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186410953,
-    "wof:lastmodified":1449050297,
+    "wof:lastmodified":1466699779,
     "wof:name":"Pro Quality Painting",
     "wof:parent_id":85828897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-106.505239,35.085145,-106.505239,35.085145],
+  "bbox": [
+    -106.505239,
+    35.085145,
+    -106.505239,
+    35.085145
+],
   "geometry": {"coordinates":[-106.505239,35.085145],"type":"Point"}
 }

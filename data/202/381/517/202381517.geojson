@@ -2,13 +2,14 @@
   "id": 202381517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.514124,35.073167,-106.514124,35.073167",
     "geom:latitude":35.073167,
     "geom:longitude":-106.514124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11915 Hopi Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202381517,
-    "wof:lastmodified":1449060324,
+    "wof:lastmodified":1466697696,
     "wof:name":"Sam E Ogle Inc",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-106.514124,35.073167,-106.514124,35.073167],
+  "bbox": [
+    -106.514124,
+    35.073167,
+    -106.514124,
+    35.073167
+],
   "geometry": {"coordinates":[-106.514124,35.073167],"type":"Point"}
 }

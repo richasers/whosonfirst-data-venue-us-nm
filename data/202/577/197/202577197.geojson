@@ -2,13 +2,14 @@
   "id": 202577197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.698909,35.076682,-106.698909,35.076682",
     "geom:latitude":35.076682,
     "geom:longitude":-106.698909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 57th St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202577197,
-    "wof:lastmodified":1449062749,
+    "wof:lastmodified":1466698048,
     "wof:name":"Red Line Construction",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-106.698909,35.076682,-106.698909,35.076682],
+  "bbox": [
+    -106.698909,
+    35.076682,
+    -106.698909,
+    35.076682
+],
   "geometry": {"coordinates":[-106.698909,35.076682],"type":"Point"}
 }

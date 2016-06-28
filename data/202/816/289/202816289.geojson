@@ -2,13 +2,14 @@
   "id": 202816289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.349338,34.19236,-103.349338,34.19236",
     "geom:latitude":34.19236,
     "geom:longitude":-103.349338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 N Ave M",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202816289,
-    "wof:lastmodified":1449061594,
+    "wof:lastmodified":1466699908,
     "wof:name":"Eastern New Mexico Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-103.349338,34.19236,-103.349338,34.19236],
+  "bbox": [
+    -103.349338,
+    34.19236,
+    -103.349338,
+    34.19236
+],
   "geometry": {"coordinates":[-103.349338,34.19236],"type":"Point"}
 }

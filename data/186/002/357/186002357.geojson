@@ -2,13 +2,14 @@
   "id": 186002357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.515567,35.108868,-106.515567,35.108868",
     "geom:latitude":35.108868,
     "geom:longitude":-106.515567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10900 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186002357,
-    "wof:lastmodified":1449052526,
+    "wof:lastmodified":1466697710,
     "wof:name":"Momentum Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-106.515567,35.108868,-106.515567,35.108868],
+  "bbox": [
+    -106.515567,
+    35.108868,
+    -106.515567,
+    35.108868
+],
   "geometry": {"coordinates":[-106.515567,35.108868],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202584975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960519,32.904986,-105.960519,32.904986",
     "geom:latitude":32.904986,
     "geom:longitude":-105.960519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 N White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202584975,
-    "wof:lastmodified":1449060385,
+    "wof:lastmodified":1466698165,
     "wof:name":"Alamogordo Chamber Of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-105.960519,32.904986,-105.960519,32.904986],
-  "geometry": {"coordinates":[-105.960519,32.904986],"type":"Point"}
+  "bbox": [
+    -105.960519,
+    32.904986,
+    -105.960519,
+    32.904986
+],
+  "geometry": {"coordinates":[-105.96051900000001,32.904986],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202821055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.426298,33.619255,-103.426298,33.619255",
     "geom:latitude":33.619255,
     "geom:longitude":-103.426298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4348 S Roosevelt Rd W",
     "sg:city":"Milnesand",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202821055,
-    "wof:lastmodified":1449061493,
+    "wof:lastmodified":1466699957,
     "wof:name":"Targa Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "producer"
     ]
 },
-  "bbox": [-103.426298,33.619255,-103.426298,33.619255],
+  "bbox": [
+    -103.426298,
+    33.619255,
+    -103.426298,
+    33.619255
+],
   "geometry": {"coordinates":[-103.426298,33.619255],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185987107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.628003,35.137612,-106.628003,35.137612",
     "geom:latitude":35.137612,
     "geom:longitude":-106.628003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5717 Edith Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185987107,
-    "wof:lastmodified":1449007504,
+    "wof:lastmodified":1466699694,
     "wof:name":"Kat's Kuts Hair Design",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.628003,35.137612,-106.628003,35.137612],
-  "geometry": {"coordinates":[-106.628003,35.137612],"type":"Point"}
+  "bbox": [
+    -106.628003,
+    35.137612,
+    -106.628003,
+    35.137612
+],
+  "geometry": {"coordinates":[-106.62800300000001,35.137612],"type":"Point"}
 }

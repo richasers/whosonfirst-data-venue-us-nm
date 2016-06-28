@@ -2,13 +2,14 @@
   "id": 185826709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.848864,35.151107,-107.848864,35.151107",
     "geom:latitude":35.151107,
     "geom:longitude":-107.848864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 1st St",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185826709,
-    "wof:lastmodified":1449007759,
+    "wof:lastmodified":1466697754,
     "wof:name":"Cibola Arts Council",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-107.848864,35.151107,-107.848864,35.151107],
-  "geometry": {"coordinates":[-107.848864,35.151107],"type":"Point"}
+  "bbox": [
+    -107.848864,
+    35.151107,
+    -107.848864,
+    35.151107
+],
+  "geometry": {"coordinates":[-107.84886400000001,35.151107],"type":"Point"}
 }

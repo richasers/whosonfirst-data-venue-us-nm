@@ -2,13 +2,14 @@
   "id": 202768973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.133925,32.731005,-103.133925,32.731005",
     "geom:latitude":32.731005,
     "geom:longitude":-103.133925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 E Wolfcamp Dr",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202768973,
-    "wof:lastmodified":1449061093,
+    "wof:lastmodified":1466699965,
     "wof:name":"Solomon Norma Courier Ser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-103.133925,32.731005,-103.133925,32.731005],
+  "bbox": [
+    -103.133925,
+    32.731005,
+    -103.133925,
+    32.731005
+],
   "geometry": {"coordinates":[-103.133925,32.731005],"type":"Point"}
 }

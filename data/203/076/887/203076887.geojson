@@ -2,13 +2,14 @@
   "id": 203076887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.553912,35.1078,-106.553912,35.1078",
     "geom:latitude":35.1078,
     "geom:longitude":-106.553912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2339 Inez Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203076887,
-    "wof:lastmodified":1449026433,
+    "wof:lastmodified":1466698448,
     "wof:name":"Ava Yetter",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "buyer"
     ]
 },
-  "bbox": [-106.553912,35.1078,-106.553912,35.1078],
+  "bbox": [
+    -106.553912,
+    35.1078,
+    -106.553912,
+    35.1078
+],
   "geometry": {"coordinates":[-106.553912,35.1078],"type":"Point"}
 }

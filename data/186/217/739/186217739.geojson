@@ -2,13 +2,14 @@
   "id": 186217739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.678572,35.065518,-106.678572,35.065518",
     "geom:latitude":35.065518,
     "geom:longitude":-106.678572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 Bridge Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186217739,
-    "wof:lastmodified":1449052871,
+    "wof:lastmodified":1466698245,
     "wof:name":"Sosa Law Firm PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-106.678572,35.065518,-106.678572,35.065518],
+  "bbox": [
+    -106.678572,
+    35.065518,
+    -106.678572,
+    35.065518
+],
   "geometry": {"coordinates":[-106.678572,35.065518],"type":"Point"}
 }

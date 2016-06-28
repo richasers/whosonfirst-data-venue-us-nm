@@ -2,13 +2,14 @@
   "id": 186052823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.47902,35.332509,-106.47902,35.332509",
     "geom:latitude":35.332509,
     "geom:longitude":-106.47902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Cll Cholla",
     "sg:city":"Placitas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186052823,
-    "wof:lastmodified":1449051586,
+    "wof:lastmodified":1466698280,
     "wof:name":"Jimenez Consulting & Svcs LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "technology"
     ]
 },
-  "bbox": [-106.47902,35.332509,-106.47902,35.332509],
-  "geometry": {"coordinates":[-106.47902,35.332509],"type":"Point"}
+  "bbox": [
+    -106.47902,
+    35.332509,
+    -106.47902,
+    35.332509
+],
+  "geometry": {"coordinates":[-106.47902000000001,35.332509],"type":"Point"}
 }

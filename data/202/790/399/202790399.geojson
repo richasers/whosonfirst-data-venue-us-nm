@@ -2,13 +2,14 @@
   "id": 202790399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.118853,32.703631,-103.118853,32.703631",
     "geom:latitude":32.703631,
     "geom:longitude":-103.118853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 N Marland Blvd",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202790399,
-    "wof:lastmodified":1449062068,
+    "wof:lastmodified":1466699955,
     "wof:name":"Allsup's Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.118853,32.703631,-103.118853,32.703631],
+  "bbox": [
+    -103.118853,
+    32.703631,
+    -103.118853,
+    32.703631
+],
   "geometry": {"coordinates":[-103.118853,32.703631],"type":"Point"}
 }

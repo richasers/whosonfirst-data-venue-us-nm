@@ -2,13 +2,14 @@
   "id": 185616587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.655698,35.126546,-106.655698,35.126546",
     "geom:latitude":35.126546,
     "geom:longitude":-106.655698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1331 Cherokee Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185616587,
-    "wof:lastmodified":1449007774,
+    "wof:lastmodified":1466697783,
     "wof:name":"Clear Connect Technologies",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.655698,35.126546,-106.655698,35.126546],
+  "bbox": [
+    -106.655698,
+    35.126546,
+    -106.655698,
+    35.126546
+],
   "geometry": {"coordinates":[-106.655698,35.126546],"type":"Point"}
 }

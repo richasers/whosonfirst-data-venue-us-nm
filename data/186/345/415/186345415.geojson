@@ -2,13 +2,14 @@
   "id": 186345415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.603345,35.067324,-106.603345,35.067324",
     "geom:latitude":35.067324,
     "geom:longitude":-106.603345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Parkland Cir SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186345415,
-    "wof:lastmodified":1449052816,
+    "wof:lastmodified":1466699666,
     "wof:name":"P R Brubaker",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.603345,35.067324,-106.603345,35.067324],
+  "bbox": [
+    -106.603345,
+    35.067324,
+    -106.603345,
+    35.067324
+],
   "geometry": {"coordinates":[-106.603345,35.067324],"type":"Point"}
 }

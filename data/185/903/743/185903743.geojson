@@ -2,13 +2,14 @@
   "id": 185903743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.771771,32.363761,-106.771771,32.363761",
     "geom:latitude":32.363761,
     "geom:longitude":-106.771771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2050 Pine Cone Way",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185903743,
-    "wof:lastmodified":1449006692,
+    "wof:lastmodified":1466698577,
     "wof:name":"C J Cornelius",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transcribe"
     ]
 },
-  "bbox": [-106.771771,32.363761,-106.771771,32.363761],
+  "bbox": [
+    -106.771771,
+    32.363761,
+    -106.771771,
+    32.363761
+],
   "geometry": {"coordinates":[-106.771771,32.363761],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202758071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781076,32.307872,-106.781076,32.307872",
     "geom:latitude":32.307872,
     "geom:longitude":-106.781076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 S Alameda Blvd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202758071,
-    "wof:lastmodified":1449060882,
+    "wof:lastmodified":1466699725,
     "wof:name":"Las Cruses Work Force Dev Ctr",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "government"
     ]
 },
-  "bbox": [-106.781076,32.307872,-106.781076,32.307872],
+  "bbox": [
+    -106.781076,
+    32.307872,
+    -106.781076,
+    32.307872
+],
   "geometry": {"coordinates":[-106.781076,32.307872],"type":"Point"}
 }

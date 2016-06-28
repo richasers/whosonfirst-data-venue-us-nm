@@ -2,13 +2,14 @@
   "id": 186555085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.557233,35.337627,-106.557233,35.337627",
     "geom:latitude":35.337627,
     "geom:longitude":-106.557233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"681 Juniper Hills Rd",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186555085,
-    "wof:lastmodified":1449052632,
+    "wof:lastmodified":1466700459,
     "wof:name":"Americans For Indian Oprtnty",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trust"
     ]
 },
-  "bbox": [-106.557233,35.337627,-106.557233,35.337627],
+  "bbox": [
+    -106.557233,
+    35.337627,
+    -106.557233,
+    35.337627
+],
   "geometry": {"coordinates":[-106.557233,35.337627],"type":"Point"}
 }

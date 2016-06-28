@@ -2,13 +2,14 @@
   "id": 186030773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.734962,32.291583,-106.734962,32.291583",
     "geom:latitude":32.291583,
     "geom:longitude":-106.734962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2407 S Telshor Blvd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186030773,
-    "wof:lastmodified":1449051366,
+    "wof:lastmodified":1466698024,
     "wof:name":"Endoscopy Center Of Las Cruces",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-106.734962,32.291583,-106.734962,32.291583],
+  "bbox": [
+    -106.734962,
+    32.291583,
+    -106.734962,
+    32.291583
+],
   "geometry": {"coordinates":[-106.734962,32.291583],"type":"Point"}
 }

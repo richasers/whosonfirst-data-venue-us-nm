@@ -2,13 +2,14 @@
   "id": 202929785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.564505,35.186621,-106.564505,35.186621",
     "geom:latitude":35.186621,
     "geom:longitude":-106.564505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9028 Sunny Brook St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202929785,
-    "wof:lastmodified":1449061088,
+    "wof:lastmodified":1466700329,
     "wof:name":"Randall Homes",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "operative"
     ]
 },
-  "bbox": [-106.564505,35.186621,-106.564505,35.186621],
+  "bbox": [
+    -106.564505,
+    35.186621,
+    -106.564505,
+    35.186621
+],
   "geometry": {"coordinates":[-106.564505,35.186621],"type":"Point"}
 }

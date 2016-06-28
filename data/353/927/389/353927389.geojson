@@ -2,13 +2,14 @@
   "id": 353927389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.617117,35.066127,-106.617117,35.066127",
     "geom:latitude":35.066127,
     "geom:longitude":-106.617117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Columbia Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353927389,
-    "wof:lastmodified":1449020537,
+    "wof:lastmodified":1466697930,
     "wof:name":"Mountainview Apartments",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "listing"
     ]
 },
-  "bbox": [-106.617117,35.066127,-106.617117,35.066127],
-  "geometry": {"coordinates":[-106.617117,35.066127],"type":"Point"}
+  "bbox": [
+    -106.617117,
+    35.066127,
+    -106.617117,
+    35.066127
+],
+  "geometry": {"coordinates":[-106.61711699999999,35.066127],"type":"Point"}
 }

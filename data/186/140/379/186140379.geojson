@@ -2,13 +2,14 @@
   "id": 186140379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.127669,32.689312,-103.127669,32.689312",
     "geom:latitude":32.689312,
     "geom:longitude":-103.127669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 S Dal Paso St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186140379,
-    "wof:lastmodified":1449050757,
+    "wof:lastmodified":1466699208,
     "wof:name":"Avila Nipa Hut Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-103.127669,32.689312,-103.127669,32.689312],
+  "bbox": [
+    -103.127669,
+    32.689312,
+    -103.127669,
+    32.689312
+],
   "geometry": {"coordinates":[-103.127669,32.689312],"type":"Point"}
 }

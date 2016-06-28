@@ -2,13 +2,14 @@
   "id": 203105027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.690929,34.850418,-106.690929,34.850418",
     "geom:latitude":34.850418,
     "geom:longitude":-106.690929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1670 Bosque Farms Blvd",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203105027,
-    "wof:lastmodified":1449025639,
+    "wof:lastmodified":1466699436,
     "wof:name":"Richard P Eisen CPA",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-106.690929,34.850418,-106.690929,34.850418],
+  "bbox": [
+    -106.690929,
+    34.850418,
+    -106.690929,
+    34.850418
+],
   "geometry": {"coordinates":[-106.690929,34.850418],"type":"Point"}
 }

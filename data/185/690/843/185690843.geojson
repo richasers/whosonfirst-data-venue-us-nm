@@ -2,13 +2,14 @@
   "id": 185690843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.545621,33.393049,-104.545621,33.393049",
     "geom:latitude":33.393049,
     "geom:longitude":-104.545621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S Wyoming Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185690843,
-    "wof:lastmodified":1449007475,
+    "wof:lastmodified":1466698556,
     "wof:name":"Ridge Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-104.545621,33.393049,-104.545621,33.393049],
+  "bbox": [
+    -104.545621,
+    33.393049,
+    -104.545621,
+    33.393049
+],
   "geometry": {"coordinates":[-104.545621,33.393049],"type":"Point"}
 }

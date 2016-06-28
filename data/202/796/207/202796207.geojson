@@ -2,13 +2,14 @@
   "id": 202796207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.407255,32.84001,-104.407255,32.84001",
     "geom:latitude":32.84001,
     "geom:longitude":-104.407255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 W Richardson Ave",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202796207,
-    "wof:lastmodified":1449061321,
+    "wof:lastmodified":1466699971,
     "wof:name":"801 LLC Lodging",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-104.407255,32.84001,-104.407255,32.84001],
-  "geometry": {"coordinates":[-104.407255,32.84001],"type":"Point"}
+  "bbox": [
+    -104.407255,
+    32.84001,
+    -104.407255,
+    32.84001
+],
+  "geometry": {"coordinates":[-104.40725500000001,32.84001],"type":"Point"}
 }

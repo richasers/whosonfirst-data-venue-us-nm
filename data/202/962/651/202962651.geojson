@@ -2,13 +2,14 @@
   "id": 202962651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.995539,36.822612,-107.995539,36.822612",
     "geom:latitude":36.822612,
     "geom:longitude":-107.995539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 W Chaco St",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202962651,
-    "wof:lastmodified":1449061606,
+    "wof:lastmodified":1466700604,
     "wof:name":"Muukui Ci Cultural & Envrnmntl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "archaeologist"
     ]
 },
-  "bbox": [-107.995539,36.822612,-107.995539,36.822612],
-  "geometry": {"coordinates":[-107.995539,36.822612],"type":"Point"}
+  "bbox": [
+    -107.995539,
+    36.822612,
+    -107.995539,
+    36.822612
+],
+  "geometry": {"coordinates":[-107.99553899999999,36.822612],"type":"Point"}
 }

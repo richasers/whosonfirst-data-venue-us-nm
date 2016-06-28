@@ -2,13 +2,14 @@
   "id": 202897203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.767778,32.303256,-107.767778,32.303256",
     "geom:latitude":32.303256,
     "geom:longitude":-107.767778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"672 Melody Ln",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202897203,
-    "wof:lastmodified":1449062250,
+    "wof:lastmodified":1466700491,
     "wof:name":"M V Land",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.767778,32.303256,-107.767778,32.303256],
-  "geometry": {"coordinates":[-107.767778,32.303256],"type":"Point"}
+  "bbox": [
+    -107.767778,
+    32.303256,
+    -107.767778,
+    32.303256
+],
+  "geometry": {"coordinates":[-107.76777800000001,32.303256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203066227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.637952,35.118456,-106.637952,35.118456",
     "geom:latitude":35.118456,
     "geom:longitude":-106.637952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3720 Commercial St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203066227,
-    "wof:lastmodified":1449025457,
+    "wof:lastmodified":1466698297,
     "wof:name":"BDC-Best Door Co",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-106.637952,35.118456,-106.637952,35.118456],
+  "bbox": [
+    -106.637952,
+    35.118456,
+    -106.637952,
+    35.118456
+],
   "geometry": {"coordinates":[-106.637952,35.118456],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203125621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.520016,33.372713,-104.520016,33.372713",
     "geom:latitude":33.372713,
     "geom:longitude":-104.520016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Virginia Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203125621,
-    "wof:lastmodified":1449026808,
+    "wof:lastmodified":1466698980,
     "wof:name":"Chaparral Bonding Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-104.520016,33.372713,-104.520016,33.372713],
+  "bbox": [
+    -104.520016,
+    33.372713,
+    -104.520016,
+    33.372713
+],
   "geometry": {"coordinates":[-104.520016,33.372713],"type":"Point"}
 }

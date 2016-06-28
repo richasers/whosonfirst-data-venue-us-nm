@@ -2,13 +2,14 @@
   "id": 203098583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.55824,35.075951,-106.55824,35.075951",
     "geom:latitude":35.075951,
     "geom:longitude":-106.55824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Rhode Island St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203098583,
-    "wof:lastmodified":1449026670,
+    "wof:lastmodified":1466698725,
     "wof:name":"Lon Caster Plumbing & Heating",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.55824,35.075951,-106.55824,35.075951],
+  "bbox": [
+    -106.55824,
+    35.075951,
+    -106.55824,
+    35.075951
+],
   "geometry": {"coordinates":[-106.55824,35.075951],"type":"Point"}
 }

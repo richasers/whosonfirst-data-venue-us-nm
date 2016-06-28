@@ -2,13 +2,14 @@
   "id": 186584591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.507982,35.063003,-106.507982,35.063003",
     "geom:latitude":35.063003,
     "geom:longitude":-106.507982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Tassy Ct SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186584591,
-    "wof:lastmodified":1449050539,
+    "wof:lastmodified":1466700480,
     "wof:name":"Starmega Corp",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "intellectual"
     ]
 },
-  "bbox": [-106.507982,35.063003,-106.507982,35.063003],
+  "bbox": [
+    -106.507982,
+    35.063003,
+    -106.507982,
+    35.063003
+],
   "geometry": {"coordinates":[-106.507982,35.063003],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202890911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.77301,32.267384,-107.77301,32.267384",
     "geom:latitude":32.267384,
     "geom:longitude":-107.77301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 W Pine St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202890911,
-    "wof:lastmodified":1449060684,
+    "wof:lastmodified":1466700305,
     "wof:name":"Chevron West Self-Serve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "petroleum"
     ]
 },
-  "bbox": [-107.77301,32.267384,-107.77301,32.267384],
+  "bbox": [
+    -107.77301,
+    32.267384,
+    -107.77301,
+    32.267384
+],
   "geometry": {"coordinates":[-107.77301,32.267384],"type":"Point"}
 }

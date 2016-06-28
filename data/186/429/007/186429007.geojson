@@ -2,13 +2,14 @@
   "id": 186429007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.176377,34.414448,-103.176377,34.414448",
     "geom:latitude":34.414448,
     "geom:longitude":-103.176377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2422 Howard Cowper Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186429007,
-    "wof:lastmodified":1449052895,
+    "wof:lastmodified":1466700053,
     "wof:name":"Lloyd Harrison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-103.176377,34.414448,-103.176377,34.414448],
+  "bbox": [
+    -103.176377,
+    34.414448,
+    -103.176377,
+    34.414448
+],
   "geometry": {"coordinates":[-103.176377,34.414448],"type":"Point"}
 }

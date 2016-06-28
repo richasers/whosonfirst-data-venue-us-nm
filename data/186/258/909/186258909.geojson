@@ -2,13 +2,14 @@
   "id": 186258909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.611961,35.151436,-106.611961,35.151436",
     "geom:latitude":35.151436,
     "geom:longitude":-106.611961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186258909,
-    "wof:lastmodified":1449052458,
+    "wof:lastmodified":1466698776,
     "wof:name":"Lively Equipment Co Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.611961,35.151436,-106.611961,35.151436],
-  "geometry": {"coordinates":[-106.611961,35.151436],"type":"Point"}
+  "bbox": [
+    -106.611961,
+    35.151436,
+    -106.611961,
+    35.151436
+],
+  "geometry": {"coordinates":[-106.61196099999999,35.151436],"type":"Point"}
 }

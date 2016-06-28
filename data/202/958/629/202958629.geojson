@@ -2,13 +2,14 @@
   "id": 202958629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.59469,33.535103,-105.59469,33.535103",
     "geom:latitude":33.535103,
     "geom:longitude":-105.59469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 Co Rd 48",
     "sg:city":"Capitan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202958629,
-    "wof:lastmodified":1449062099,
+    "wof:lastmodified":1466700506,
     "wof:name":"Capitan Headstart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-105.59469,33.535103,-105.59469,33.535103],
+  "bbox": [
+    -105.59469,
+    33.535103,
+    -105.59469,
+    33.535103
+],
   "geometry": {"coordinates":[-105.59469,33.535103],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203049023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.740403,35.503404,-108.740403,35.503404",
     "geom:latitude":35.503404,
     "geom:longitude":-108.740403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1991 State Hwy 602",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203049023,
-    "wof:lastmodified":1449025867,
+    "wof:lastmodified":1466698128,
     "wof:name":"Kawasaki Cycle City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.740403,35.503404,-108.740403,35.503404],
+  "bbox": [
+    -108.740403,
+    35.503404,
+    -108.740403,
+    35.503404
+],
   "geometry": {"coordinates":[-108.740403,35.503404],"type":"Point"}
 }

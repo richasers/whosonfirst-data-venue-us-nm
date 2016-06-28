@@ -2,13 +2,14 @@
   "id": 169722691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.243583,32.420383,-104.243583,32.420383",
     "geom:latitude":32.420383,
     "geom:longitude":-104.243583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 W Mermod St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169722691,
-    "wof:lastmodified":1449033843,
+    "wof:lastmodified":1466697812,
     "wof:name":"Dillard's Barber Shop",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.243583,32.420383,-104.243583,32.420383],
+  "bbox": [
+    -104.243583,
+    32.420383,
+    -104.243583,
+    32.420383
+],
   "geometry": {"coordinates":[-104.243583,32.420383],"type":"Point"}
 }

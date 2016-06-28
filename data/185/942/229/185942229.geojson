@@ -2,13 +2,14 @@
   "id": 185942229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.525892,33.425053,-104.525892,33.425053",
     "geom:latitude":33.425053,
     "geom:longitude":-104.525892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"342 Sherrill Ln",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185942229,
-    "wof:lastmodified":1449007356,
+    "wof:lastmodified":1466699108,
     "wof:name":"Roswell Ear Nose & Throat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-104.525892,33.425053,-104.525892,33.425053],
+  "bbox": [
+    -104.525892,
+    33.425053,
+    -104.525892,
+    33.425053
+],
   "geometry": {"coordinates":[-104.525892,33.425053],"type":"Point"}
 }

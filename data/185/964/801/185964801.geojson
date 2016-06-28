@@ -2,13 +2,14 @@
   "id": 185964801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550788,35.094156,-106.550788,35.094156",
     "geom:latitude":35.094156,
     "geom:longitude":-106.550788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185964801,
-    "wof:lastmodified":1449007824,
+    "wof:lastmodified":1466699522,
     "wof:name":"Tania Feierman",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.550788,35.094156,-106.550788,35.094156],
+  "bbox": [
+    -106.550788,
+    35.094156,
+    -106.550788,
+    35.094156
+],
   "geometry": {"coordinates":[-106.550788,35.094156],"type":"Point"}
 }

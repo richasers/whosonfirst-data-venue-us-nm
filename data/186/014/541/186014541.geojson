@@ -2,13 +2,14 @@
   "id": 186014541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.016575,35.040747,-106.016575,35.040747",
     "geom:latitude":35.040747,
     "geom:longitude":-106.016575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Charlie Breckenridge Rd",
     "sg:city":"Moriarty",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186014541,
-    "wof:lastmodified":1449051691,
+    "wof:lastmodified":1466697853,
     "wof:name":"GE Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-106.016575,35.040747,-106.016575,35.040747],
+  "bbox": [
+    -106.016575,
+    35.040747,
+    -106.016575,
+    35.040747
+],
   "geometry": {"coordinates":[-106.016575,35.040747],"type":"Point"}
 }

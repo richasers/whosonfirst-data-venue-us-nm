@@ -2,13 +2,14 @@
   "id": 202877931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604026,35.121585,-106.604026,35.121585",
     "geom:latitude":35.121585,
     "geom:longitude":-106.604026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3504 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202877931,
-    "wof:lastmodified":1449061884,
+    "wof:lastmodified":1466700162,
     "wof:name":"Glenns Installation Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "trade"
     ]
 },
-  "bbox": [-106.604026,35.121585,-106.604026,35.121585],
+  "bbox": [
+    -106.604026,
+    35.121585,
+    -106.604026,
+    35.121585
+],
   "geometry": {"coordinates":[-106.604026,35.121585],"type":"Point"}
 }

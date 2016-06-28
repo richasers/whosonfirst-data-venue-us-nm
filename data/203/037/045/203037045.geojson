@@ -2,13 +2,14 @@
   "id": 203037045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.981626,35.660299,-105.981626,35.660299",
     "geom:latitude":35.660299,
     "geom:longitude":-105.981626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2308 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203037045,
-    "wof:lastmodified":1449026892,
+    "wof:lastmodified":1466697991,
     "wof:name":"Smith's Food & Drug Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-105.981626,35.660299,-105.981626,35.660299],
-  "geometry": {"coordinates":[-105.981626,35.660299],"type":"Point"}
+  "bbox": [
+    -105.981626,
+    35.660299,
+    -105.981626,
+    35.660299
+],
+  "geometry": {"coordinates":[-105.98162600000001,35.660299],"type":"Point"}
 }

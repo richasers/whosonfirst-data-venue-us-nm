@@ -2,13 +2,14 @@
   "id": 202835971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.438821,36.900993,-104.438821,36.900993",
     "geom:latitude":36.900993,
     "geom:longitude":-104.438821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Cook Ave",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202835971,
-    "wof:lastmodified":1449060471,
+    "wof:lastmodified":1466700133,
     "wof:name":"Security Finance Corp NM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "institution"
     ]
 },
-  "bbox": [-104.438821,36.900993,-104.438821,36.900993],
+  "bbox": [
+    -104.438821,
+    36.900993,
+    -104.438821,
+    36.900993
+],
   "geometry": {"coordinates":[-104.438821,36.900993],"type":"Point"}
 }

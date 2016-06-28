@@ -2,13 +2,14 @@
   "id": 203049943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.016476,35.6731,-106.016476,35.6731",
     "geom:latitude":35.6731,
     "geom:longitude":-106.016476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Sierra Azul",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203049943,
-    "wof:lastmodified":1449025864,
+    "wof:lastmodified":1466698142,
     "wof:name":"Design Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "designer"
     ]
 },
-  "bbox": [-106.016476,35.6731,-106.016476,35.6731],
+  "bbox": [
+    -106.016476,
+    35.6731,
+    -106.016476,
+    35.6731
+],
   "geometry": {"coordinates":[-106.016476,35.6731],"type":"Point"}
 }

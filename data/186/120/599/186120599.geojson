@@ -2,13 +2,14 @@
   "id": 186120599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550801,35.096325,-106.550801,35.096325",
     "geom:latitude":35.096325,
     "geom:longitude":-106.550801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1437 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186120599,
-    "wof:lastmodified":1449052630,
+    "wof:lastmodified":1466699104,
     "wof:name":"Robert V Woodard Insurance",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.550801,35.096325,-106.550801,35.096325],
-  "geometry": {"coordinates":[-106.550801,35.096325],"type":"Point"}
+  "bbox": [
+    -106.550801,
+    35.096325,
+    -106.550801,
+    35.096325
+],
+  "geometry": {"coordinates":[-106.55080100000001,35.096325],"type":"Point"}
 }

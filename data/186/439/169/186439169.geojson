@@ -2,13 +2,14 @@
   "id": 186439169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.79266,32.3514,-106.79266,32.3514",
     "geom:latitude":32.3514,
     "geom:longitude":-106.79266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 Broadview Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186439169,
-    "wof:lastmodified":1449051128,
+    "wof:lastmodified":1466699994,
     "wof:name":"Demartino Construction",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.79266,32.3514,-106.79266,32.3514],
+  "bbox": [
+    -106.79266,
+    32.3514,
+    -106.79266,
+    32.3514
+],
   "geometry": {"coordinates":[-106.79266,32.3514],"type":"Point"}
 }

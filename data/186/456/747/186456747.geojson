@@ -2,13 +2,14 @@
   "id": 186456747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.721097,35.160903,-103.721097,35.160903",
     "geom:latitude":35.160903,
     "geom:longitude":-103.721097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 S Jackson St",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186456747,
-    "wof:lastmodified":1449051172,
+    "wof:lastmodified":1466700059,
     "wof:name":"Paradise Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.721097,35.160903,-103.721097,35.160903],
+  "bbox": [
+    -103.721097,
+    35.160903,
+    -103.721097,
+    35.160903
+],
   "geometry": {"coordinates":[-103.721097,35.160903],"type":"Point"}
 }

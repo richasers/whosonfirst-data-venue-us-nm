@@ -2,13 +2,14 @@
   "id": 186381593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.337621,34.185113,-103.337621,34.185113",
     "geom:latitude":34.185113,
     "geom:longitude":-103.337621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 W 2nd St",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186381593,
-    "wof:lastmodified":1449050468,
+    "wof:lastmodified":1466699790,
     "wof:name":"Book Nook",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-103.337621,34.185113,-103.337621,34.185113],
+  "bbox": [
+    -103.337621,
+    34.185113,
+    -103.337621,
+    34.185113
+],
   "geometry": {"coordinates":[-103.337621,34.185113],"type":"Point"}
 }

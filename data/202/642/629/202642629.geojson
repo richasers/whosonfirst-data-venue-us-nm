@@ -2,13 +2,14 @@
   "id": 202642629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.064029,36.028526,-106.064029,36.028526",
     "geom:latitude":36.028526,
     "geom:longitude":-106.064029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2421 N Riverside Dr",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202642629,
-    "wof:lastmodified":1449060257,
+    "wof:lastmodified":1466699024,
     "wof:name":"Rio Grande Styles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.064029,36.028526,-106.064029,36.028526],
+  "bbox": [
+    -106.064029,
+    36.028526,
+    -106.064029,
+    36.028526
+],
   "geometry": {"coordinates":[-106.064029,36.028526],"type":"Point"}
 }

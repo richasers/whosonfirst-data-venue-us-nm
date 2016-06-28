@@ -2,13 +2,14 @@
   "id": 186523311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.940132,36.022645,-106.940132,36.022645",
     "geom:latitude":36.022645,
     "geom:longitude":-106.940132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Martinez Dr",
     "sg:city":"Cuba",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186523311,
-    "wof:lastmodified":1449051929,
+    "wof:lastmodified":1466700309,
     "wof:name":"Cuba Area Chamber Of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commerce"
     ]
 },
-  "bbox": [-106.940132,36.022645,-106.940132,36.022645],
-  "geometry": {"coordinates":[-106.940132,36.022645],"type":"Point"}
+  "bbox": [
+    -106.940132,
+    36.022645,
+    -106.940132,
+    36.022645
+],
+  "geometry": {"coordinates":[-106.94013200000001,36.022645],"type":"Point"}
 }

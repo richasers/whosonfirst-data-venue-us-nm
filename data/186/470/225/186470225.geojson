@@ -2,13 +2,14 @@
   "id": 186470225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.565225,35.077937,-106.565225,35.077937",
     "geom:latitude":35.077937,
     "geom:longitude":-106.565225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Mesilla St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186470225,
-    "wof:lastmodified":1449051043,
+    "wof:lastmodified":1466700117,
     "wof:name":"Mr Hubcap Inc",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hub"
     ]
 },
-  "bbox": [-106.565225,35.077937,-106.565225,35.077937],
+  "bbox": [
+    -106.565225,
+    35.077937,
+    -106.565225,
+    35.077937
+],
   "geometry": {"coordinates":[-106.565225,35.077937],"type":"Point"}
 }

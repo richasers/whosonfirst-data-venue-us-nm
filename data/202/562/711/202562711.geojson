@@ -2,13 +2,14 @@
   "id": 202562711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.173036,36.748085,-108.173036,36.748085",
     "geom:latitude":36.748085,
     "geom:longitude":-108.173036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2609 E 20th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202562711,
-    "wof:lastmodified":1449061452,
+    "wof:lastmodified":1466697835,
     "wof:name":"Octopus Exterior Express Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-108.173036,36.748085,-108.173036,36.748085],
+  "bbox": [
+    -108.173036,
+    36.748085,
+    -108.173036,
+    36.748085
+],
   "geometry": {"coordinates":[-108.173036,36.748085],"type":"Point"}
 }

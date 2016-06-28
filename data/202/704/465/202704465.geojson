@@ -2,13 +2,14 @@
   "id": 202704465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.163015,36.746889,-108.163015,36.746889",
     "geom:latitude":36.746889,
     "geom:longitude":-108.163015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3041 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202704465,
-    "wof:lastmodified":1449060776,
+    "wof:lastmodified":1466699741,
     "wof:name":"Farmington Cnvntion Vstors Bur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.163015,36.746889,-108.163015,36.746889],
+  "bbox": [
+    -108.163015,
+    36.746889,
+    -108.163015,
+    36.746889
+],
   "geometry": {"coordinates":[-108.163015,36.746889],"type":"Point"}
 }

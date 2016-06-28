@@ -2,13 +2,14 @@
   "id": 185649485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.621665,35.118709,-106.621665,35.118709",
     "geom:latitude":35.118709,
     "geom:longitude":-106.621665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3322 Columbia Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":185649485,
-    "wof:lastmodified":1449007685,
+    "wof:lastmodified":1466698121,
     "wof:name":"Ccm Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.621665,35.118709,-106.621665,35.118709],
-  "geometry": {"coordinates":[-106.621665,35.118709],"type":"Point"}
+  "bbox": [
+    -106.621665,
+    35.118709,
+    -106.621665,
+    35.118709
+],
+  "geometry": {"coordinates":[-106.62166499999999,35.118709],"type":"Point"}
 }

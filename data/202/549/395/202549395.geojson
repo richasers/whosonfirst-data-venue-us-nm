@@ -2,13 +2,14 @@
   "id": 202549395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.297631,35.88123,-106.297631,35.88123",
     "geom:latitude":35.88123,
     "geom:longitude":-106.297631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 Central Ave",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202549395,
-    "wof:lastmodified":1449060819,
+    "wof:lastmodified":1466697633,
     "wof:name":"Shannon Corp Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-106.297631,35.88123,-106.297631,35.88123],
+  "bbox": [
+    -106.297631,
+    35.88123,
+    -106.297631,
+    35.88123
+],
   "geometry": {"coordinates":[-106.297631,35.88123],"type":"Point"}
 }

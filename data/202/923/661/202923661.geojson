@@ -2,13 +2,14 @@
   "id": 202923661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.534602,33.396345,-104.534602,33.396345",
     "geom:latitude":33.396345,
     "geom:longitude":-104.534602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 W 4th St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202923661,
-    "wof:lastmodified":1449062558,
+    "wof:lastmodified":1466700452,
     "wof:name":"Cozy Cowboy Furnished Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.534602,33.396345,-104.534602,33.396345],
-  "geometry": {"coordinates":[-104.534602,33.396345],"type":"Point"}
+  "bbox": [
+    -104.534602,
+    33.396345,
+    -104.534602,
+    33.396345
+],
+  "geometry": {"coordinates":[-104.53460200000001,33.396345],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169796477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.828442,35.162798,-107.828442,35.162798",
     "geom:latitude":35.162798,
     "geom:longitude":-107.828442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 Bonita Ave",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169796477,
-    "wof:lastmodified":1449034234,
+    "wof:lastmodified":1466698556,
     "wof:name":"Western Nm Medical Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-107.828442,35.162798,-107.828442,35.162798],
+  "bbox": [
+    -107.828442,
+    35.162798,
+    -107.828442,
+    35.162798
+],
   "geometry": {"coordinates":[-107.828442,35.162798],"type":"Point"}
 }

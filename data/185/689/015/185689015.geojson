@@ -2,13 +2,14 @@
   "id": 185689015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.946454,32.901892,-105.946454,32.901892",
     "geom:latitude":32.901892,
     "geom:longitude":-105.946454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 Cuba Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185689015,
-    "wof:lastmodified":1449007963,
+    "wof:lastmodified":1466698543,
     "wof:name":"Desert Door Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-105.946454,32.901892,-105.946454,32.901892],
+  "bbox": [
+    -105.946454,
+    32.901892,
+    -105.946454,
+    32.901892
+],
   "geometry": {"coordinates":[-105.946454,32.901892],"type":"Point"}
 }

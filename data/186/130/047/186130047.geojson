@@ -2,13 +2,14 @@
   "id": 186130047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.494145,35.111526,-106.494145,35.111526",
     "geom:latitude":35.111526,
     "geom:longitude":-106.494145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2721 Casa del Norte Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186130047,
-    "wof:lastmodified":1449051318,
+    "wof:lastmodified":1466699154,
     "wof:name":"Speech Language Pathologist",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "speech"
     ]
 },
-  "bbox": [-106.494145,35.111526,-106.494145,35.111526],
+  "bbox": [
+    -106.494145,
+    35.111526,
+    -106.494145,
+    35.111526
+],
   "geometry": {"coordinates":[-106.494145,35.111526],"type":"Point"}
 }

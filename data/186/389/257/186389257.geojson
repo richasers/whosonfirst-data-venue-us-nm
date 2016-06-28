@@ -2,13 +2,14 @@
   "id": 186389257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.605759,35.080841,-106.605759,35.080841",
     "geom:latitude":35.080841,
     "geom:longitude":-106.605759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Amherst Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186389257,
-    "wof:lastmodified":1449052460,
+    "wof:lastmodified":1466699802,
     "wof:name":"IL Vicino Wood Oven Pizza",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.605759,35.080841,-106.605759,35.080841],
-  "geometry": {"coordinates":[-106.605759,35.080841],"type":"Point"}
+  "bbox": [
+    -106.605759,
+    35.080841,
+    -106.605759,
+    35.080841
+],
+  "geometry": {"coordinates":[-106.60575900000001,35.080841],"type":"Point"}
 }

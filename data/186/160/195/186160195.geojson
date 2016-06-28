@@ -2,13 +2,14 @@
   "id": 186160195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.524884,33.435984,-104.524884,33.435984",
     "geom:latitude":33.435984,
     "geom:longitude":-104.524884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Linda Vista Blvd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186160195,
-    "wof:lastmodified":1449052579,
+    "wof:lastmodified":1466699351,
     "wof:name":"Lorch Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.524884,33.435984,-104.524884,33.435984],
+  "bbox": [
+    -104.524884,
+    33.435984,
+    -104.524884,
+    33.435984
+],
   "geometry": {"coordinates":[-104.524884,33.435984],"type":"Point"}
 }

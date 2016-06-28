@@ -2,13 +2,14 @@
   "id": 186219975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.717049,35.101872,-106.717049,35.101872",
     "geom:latitude":35.101872,
     "geom:longitude":-106.717049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Desert Bloom Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186219975,
-    "wof:lastmodified":1449052928,
+    "wof:lastmodified":1466698271,
     "wof:name":"Jeffrey J Cook Mac Tools",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tool"
     ]
 },
-  "bbox": [-106.717049,35.101872,-106.717049,35.101872],
+  "bbox": [
+    -106.717049,
+    35.101872,
+    -106.717049,
+    35.101872
+],
   "geometry": {"coordinates":[-106.717049,35.101872],"type":"Point"}
 }

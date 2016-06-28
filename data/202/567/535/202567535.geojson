@@ -2,13 +2,14 @@
   "id": 202567535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.361165,35.098496,-106.361165,35.098496",
     "geom:latitude":35.098496,
     "geom:longitude":-106.361165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"669 State Hwy 333",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202567535,
-    "wof:lastmodified":1449062665,
+    "wof:lastmodified":1466697902,
     "wof:name":"Route 66 Trailer Sales",
     "wof:parent_id":85892613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "utility"
     ]
 },
-  "bbox": [-106.361165,35.098496,-106.361165,35.098496],
+  "bbox": [
+    -106.361165,
+    35.098496,
+    -106.361165,
+    35.098496
+],
   "geometry": {"coordinates":[-106.361165,35.098496],"type":"Point"}
 }

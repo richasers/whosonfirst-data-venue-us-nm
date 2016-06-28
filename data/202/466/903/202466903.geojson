@@ -2,13 +2,14 @@
   "id": 202466903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.230476,34.400718,-103.230476,34.400718",
     "geom:latitude":34.400718,
     "geom:longitude":-103.230476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 W Grand Ave",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202466903,
-    "wof:lastmodified":1449060868,
+    "wof:lastmodified":1466698720,
     "wof:name":"Clovis Housing & Redevelopment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dev"
     ]
 },
-  "bbox": [-103.230476,34.400718,-103.230476,34.400718],
+  "bbox": [
+    -103.230476,
+    34.400718,
+    -103.230476,
+    34.400718
+],
   "geometry": {"coordinates":[-103.230476,34.400718],"type":"Point"}
 }

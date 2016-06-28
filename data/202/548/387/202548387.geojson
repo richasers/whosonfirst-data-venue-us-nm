@@ -2,13 +2,14 @@
   "id": 202548387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.668208,35.087988,-106.668208,35.087988",
     "geom:latitude":35.087988,
     "geom:longitude":-106.668208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1614 Los Alamos Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202548387,
-    "wof:lastmodified":1449061844,
+    "wof:lastmodified":1466697621,
     "wof:name":"Ellie Mac Design",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-106.668208,35.087988,-106.668208,35.087988],
-  "geometry": {"coordinates":[-106.668208,35.087988],"type":"Point"}
+  "bbox": [
+    -106.668208,
+    35.087988,
+    -106.668208,
+    35.087988
+],
+  "geometry": {"coordinates":[-106.66820800000001,35.087988],"type":"Point"}
 }

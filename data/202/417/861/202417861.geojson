@@ -2,13 +2,14 @@
   "id": 202417861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.543754,35.112447,-106.543754,35.112447",
     "geom:latitude":35.112447,
     "geom:longitude":-106.543754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8911 Fairbanks Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202417861,
-    "wof:lastmodified":1449061149,
+    "wof:lastmodified":1466698170,
     "wof:name":"Njm Trim Carpentry",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.543754,35.112447,-106.543754,35.112447],
-  "geometry": {"coordinates":[-106.543754,35.112447],"type":"Point"}
+  "bbox": [
+    -106.543754,
+    35.112447,
+    -106.543754,
+    35.112447
+],
+  "geometry": {"coordinates":[-106.54375400000001,35.112447],"type":"Point"}
 }

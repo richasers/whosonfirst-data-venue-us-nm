@@ -2,13 +2,14 @@
   "id": 169754673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.78195,32.23268,-106.78195,32.23268",
     "geom:latitude":32.23268,
     "geom:longitude":-106.78195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4915 Snow Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169754673,
-    "wof:lastmodified":1449034847,
+    "wof:lastmodified":1466698114,
     "wof:name":"Frank Salopek & Sons Farms",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pecan"
     ]
 },
-  "bbox": [-106.78195,32.23268,-106.78195,32.23268],
-  "geometry": {"coordinates":[-106.78195,32.23268],"type":"Point"}
+  "bbox": [
+    -106.78195,
+    32.23268,
+    -106.78195,
+    32.23268
+],
+  "geometry": {"coordinates":[-106.78194999999999,32.23268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169711307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.558777,35.116419,-106.558777,35.116419",
     "geom:latitude":35.116419,
     "geom:longitude":-106.558777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Rhode Island St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169711307,
-    "wof:lastmodified":1449035354,
+    "wof:lastmodified":1466697681,
     "wof:name":"Charlene Yturbe Jewelry",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-106.558777,35.116419,-106.558777,35.116419],
-  "geometry": {"coordinates":[-106.558777,35.116419],"type":"Point"}
+  "bbox": [
+    -106.558777,
+    35.116419,
+    -106.558777,
+    35.116419
+],
+  "geometry": {"coordinates":[-106.55877700000001,35.116419],"type":"Point"}
 }

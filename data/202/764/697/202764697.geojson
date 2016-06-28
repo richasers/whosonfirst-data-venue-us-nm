@@ -2,13 +2,14 @@
   "id": 202764697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.641732,35.091503,-106.641732,35.091503",
     "geom:latitude":35.091503,
     "geom:longitude":-106.641732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Arno St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202764697,
-    "wof:lastmodified":1449062530,
+    "wof:lastmodified":1466699841,
     "wof:name":"Miata Specialists",
     "wof:parent_id":85871877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.641732,35.091503,-106.641732,35.091503],
+  "bbox": [
+    -106.641732,
+    35.091503,
+    -106.641732,
+    35.091503
+],
   "geometry": {"coordinates":[-106.641732,35.091503],"type":"Point"}
 }

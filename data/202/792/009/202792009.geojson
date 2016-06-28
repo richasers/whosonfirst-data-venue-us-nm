@@ -2,13 +2,14 @@
   "id": 202792009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.040666,35.979029,-106.040666,35.979029",
     "geom:latitude":35.979029,
     "geom:longitude":-106.040666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Sombrillo Rd",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202792009,
-    "wof:lastmodified":1449060667,
+    "wof:lastmodified":1466700045,
     "wof:name":"Creative Woods By Fred Romero",
     "wof:parent_id":85880861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-106.040666,35.979029,-106.040666,35.979029],
+  "bbox": [
+    -106.040666,
+    35.979029,
+    -106.040666,
+    35.979029
+],
   "geometry": {"coordinates":[-106.040666,35.979029],"type":"Point"}
 }

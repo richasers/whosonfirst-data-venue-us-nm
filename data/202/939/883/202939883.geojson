@@ -2,13 +2,14 @@
   "id": 202939883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.802048,32.300833,-106.802048,32.300833",
     "geom:latitude":32.300833,
     "geom:longitude":-106.802048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 W Amador Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202939883,
-    "wof:lastmodified":1449060865,
+    "wof:lastmodified":1466700393,
     "wof:name":"Ewing Irrigation & Indus Pdts",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-106.802048,32.300833,-106.802048,32.300833],
+  "bbox": [
+    -106.802048,
+    32.300833,
+    -106.802048,
+    32.300833
+],
   "geometry": {"coordinates":[-106.802048,32.300833],"type":"Point"}
 }

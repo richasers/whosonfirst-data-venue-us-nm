@@ -2,13 +2,14 @@
   "id": 186115639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.998522,35.663702,-105.998522,35.663702",
     "geom:latitude":35.663702,
     "geom:longitude":-105.998522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2911 San Ysidro Ct",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186115639,
-    "wof:lastmodified":1449050231,
+    "wof:lastmodified":1466699062,
     "wof:name":"Solid Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hologram"
     ]
 },
-  "bbox": [-105.998522,35.663702,-105.998522,35.663702],
-  "geometry": {"coordinates":[-105.998522,35.663702],"type":"Point"}
+  "bbox": [
+    -105.998522,
+    35.663702,
+    -105.998522,
+    35.663702
+],
+  "geometry": {"coordinates":[-105.99852199999999,35.663702],"type":"Point"}
 }

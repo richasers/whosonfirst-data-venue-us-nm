@@ -2,13 +2,14 @@
   "id": 203019555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.721461,35.099613,-106.721461,35.099613",
     "geom:latitude":35.099613,
     "geom:longitude":-106.721461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Mesawood Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203019555,
-    "wof:lastmodified":1449026042,
+    "wof:lastmodified":1466697815,
     "wof:name":"Elite Delivery",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-106.721461,35.099613,-106.721461,35.099613],
-  "geometry": {"coordinates":[-106.721461,35.099613],"type":"Point"}
+  "bbox": [
+    -106.721461,
+    35.099613,
+    -106.721461,
+    35.099613
+],
+  "geometry": {"coordinates":[-106.72146100000001,35.099613],"type":"Point"}
 }

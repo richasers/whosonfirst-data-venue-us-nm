@@ -2,13 +2,14 @@
   "id": 185610593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.790028,32.299285,-106.790028,32.299285",
     "geom:latitude":32.299285,
     "geom:longitude":-106.790028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"580 S Valley Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185610593,
-    "wof:lastmodified":1449008166,
+    "wof:lastmodified":1466697699,
     "wof:name":"Indigo Tattoo",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-106.790028,32.299285,-106.790028,32.299285],
-  "geometry": {"coordinates":[-106.790028,32.299285],"type":"Point"}
+  "bbox": [
+    -106.790028,
+    32.299285,
+    -106.790028,
+    32.299285
+],
+  "geometry": {"coordinates":[-106.79002800000001,32.299285],"type":"Point"}
 }

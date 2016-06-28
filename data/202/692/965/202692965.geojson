@@ -2,13 +2,14 @@
   "id": 202692965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.940177,35.689929,-105.940177,35.689929",
     "geom:latitude":35.689929,
     "geom:longitude":-105.940177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Marcy Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202692965,
-    "wof:lastmodified":1449060791,
+    "wof:lastmodified":1466699458,
     "wof:name":"Rossi & Assoc",
     "wof:parent_id":85880833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-105.940177,35.689929,-105.940177,35.689929],
-  "geometry": {"coordinates":[-105.940177,35.689929],"type":"Point"}
+  "bbox": [
+    -105.940177,
+    35.689929,
+    -105.940177,
+    35.689929
+],
+  "geometry": {"coordinates":[-105.94017700000001,35.689929],"type":"Point"}
 }

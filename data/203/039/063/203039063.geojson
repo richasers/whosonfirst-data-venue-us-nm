@@ -2,13 +2,14 @@
   "id": 203039063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.810003,32.311014,-106.810003,32.311014",
     "geom:latitude":32.311014,
     "geom:longitude":-106.810003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2417 W Picacho Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203039063,
-    "wof:lastmodified":1449026624,
+    "wof:lastmodified":1466698014,
     "wof:name":"Ray's Auto Svc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-106.810003,32.311014,-106.810003,32.311014],
-  "geometry": {"coordinates":[-106.810003,32.311014],"type":"Point"}
+  "bbox": [
+    -106.810003,
+    32.311014,
+    -106.810003,
+    32.311014
+],
+  "geometry": {"coordinates":[-106.81000299999999,32.311014],"type":"Point"}
 }

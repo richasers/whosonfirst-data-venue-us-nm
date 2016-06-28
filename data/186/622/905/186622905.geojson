@@ -2,13 +2,14 @@
   "id": 186622905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.514541,33.38309,-104.514541,33.38309",
     "geom:latitude":33.38309,
     "geom:longitude":-104.514541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 S Garden Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186622905,
-    "wof:lastmodified":1449052528,
+    "wof:lastmodified":1466700599,
     "wof:name":"Psychosocial Rehabilitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-104.514541,33.38309,-104.514541,33.38309],
-  "geometry": {"coordinates":[-104.514541,33.38309],"type":"Point"}
+  "bbox": [
+    -104.514541,
+    33.38309,
+    -104.514541,
+    33.38309
+],
+  "geometry": {"coordinates":[-104.51454099999999,33.38309],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202477109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.645764,35.244495,-106.645764,35.244495",
     "geom:latitude":35.244495,
     "geom:longitude":-106.645764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4611 Los Reyes Rd SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202477109,
-    "wof:lastmodified":1449060534,
+    "wof:lastmodified":1466698910,
     "wof:name":"Tova Shifberg C P A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.645764,35.244495,-106.645764,35.244495],
+  "bbox": [
+    -106.645764,
+    35.244495,
+    -106.645764,
+    35.244495
+],
   "geometry": {"coordinates":[-106.645764,35.244495],"type":"Point"}
 }

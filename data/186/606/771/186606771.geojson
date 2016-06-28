@@ -2,13 +2,14 @@
   "id": 186606771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.256976,33.131566,-107.256976,33.131566",
     "geom:latitude":33.131566,
     "geom:longitude":-107.256976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Juniper St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186606771,
-    "wof:lastmodified":1449050810,
+    "wof:lastmodified":1466700531,
     "wof:name":"Elderlaw Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-107.256976,33.131566,-107.256976,33.131566],
-  "geometry": {"coordinates":[-107.256976,33.131566],"type":"Point"}
+  "bbox": [
+    -107.256976,
+    33.131566,
+    -107.256976,
+    33.131566
+],
+  "geometry": {"coordinates":[-107.25697599999999,33.131566],"type":"Point"}
 }

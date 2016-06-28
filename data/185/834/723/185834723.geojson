@@ -2,13 +2,14 @@
   "id": 185834723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.634681,35.137965,-106.634681,35.137965",
     "geom:latitude":35.137965,
     "geom:longitude":-106.634681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 Montano Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185834723,
-    "wof:lastmodified":1449006764,
+    "wof:lastmodified":1466697842,
     "wof:name":"Davidson Artie",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.634681,35.137965,-106.634681,35.137965],
+  "bbox": [
+    -106.634681,
+    35.137965,
+    -106.634681,
+    35.137965
+],
   "geometry": {"coordinates":[-106.634681,35.137965],"type":"Point"}
 }

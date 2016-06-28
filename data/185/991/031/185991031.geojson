@@ -2,13 +2,14 @@
   "id": 185991031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.72146,35.619484,-106.72146,35.619484",
     "geom:latitude":35.619484,
     "geom:longitude":-106.72146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Bear Head Canyon",
     "sg:city":"San Ysidro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185991031,
-    "wof:lastmodified":1449007108,
+    "wof:lastmodified":1466699582,
     "wof:name":"Pubelo Of Jemez Youth Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-106.72146,35.619484,-106.72146,35.619484],
-  "geometry": {"coordinates":[-106.72146,35.619484],"type":"Point"}
+  "bbox": [
+    -106.72146,
+    35.619484,
+    -106.72146,
+    35.619484
+],
+  "geometry": {"coordinates":[-106.72145999999999,35.619484],"type":"Point"}
 }

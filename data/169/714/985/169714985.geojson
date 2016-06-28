@@ -2,13 +2,14 @@
   "id": 169714985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.953965,32.900831,-105.953965,32.900831",
     "geom:latitude":32.900831,
     "geom:longitude":-105.953965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Vermont Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169714985,
-    "wof:lastmodified":1449034315,
+    "wof:lastmodified":1466697712,
     "wof:name":"Best Of Friends Pet Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.953965,32.900831,-105.953965,32.900831],
+  "bbox": [
+    -105.953965,
+    32.900831,
+    -105.953965,
+    32.900831
+],
   "geometry": {"coordinates":[-105.953965,32.900831],"type":"Point"}
 }

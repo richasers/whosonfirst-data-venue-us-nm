@@ -2,13 +2,14 @@
   "id": 203065037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.949014,35.67623,-105.949014,35.67623",
     "geom:latitude":35.67623,
     "geom:longitude":-105.949014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Cll Grillo",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203065037,
-    "wof:lastmodified":1449026859,
+    "wof:lastmodified":1466699417,
     "wof:name":"Get Type Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "datum"
     ]
 },
-  "bbox": [-105.949014,35.67623,-105.949014,35.67623],
-  "geometry": {"coordinates":[-105.949014,35.67623],"type":"Point"}
+  "bbox": [
+    -105.949014,
+    35.67623,
+    -105.949014,
+    35.67623
+],
+  "geometry": {"coordinates":[-105.94901400000001,35.67623],"type":"Point"}
 }

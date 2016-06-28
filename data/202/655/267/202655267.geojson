@@ -2,13 +2,14 @@
   "id": 202655267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960174,32.89387,-105.960174,32.89387",
     "geom:latitude":32.89387,
     "geom:longitude":-105.960174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 N White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202655267,
-    "wof:lastmodified":1449061562,
+    "wof:lastmodified":1466699212,
     "wof:name":"A A Water Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "treatment"
     ]
 },
-  "bbox": [-105.960174,32.89387,-105.960174,32.89387],
-  "geometry": {"coordinates":[-105.960174,32.89387],"type":"Point"}
+  "bbox": [
+    -105.960174,
+    32.89387,
+    -105.960174,
+    32.89387
+],
+  "geometry": {"coordinates":[-105.96017399999999,32.89387],"type":"Point"}
 }

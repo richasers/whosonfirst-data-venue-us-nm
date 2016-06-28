@@ -2,13 +2,14 @@
   "id": 202612107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.660255,35.082571,-106.660255,35.082571",
     "geom:latitude":35.082571,
     "geom:longitude":-106.660255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 Lead Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202612107,
-    "wof:lastmodified":1449061243,
+    "wof:lastmodified":1466698548,
     "wof:name":"Casa Marias Alzheimers Center",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "facility"
     ]
 },
-  "bbox": [-106.660255,35.082571,-106.660255,35.082571],
-  "geometry": {"coordinates":[-106.660255,35.082571],"type":"Point"}
+  "bbox": [
+    -106.660255,
+    35.082571,
+    -106.660255,
+    35.082571
+],
+  "geometry": {"coordinates":[-106.66025500000001,35.082571],"type":"Point"}
 }

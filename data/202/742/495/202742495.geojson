@@ -2,13 +2,14 @@
   "id": 202742495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.520989,33.441089,-104.520989,33.441089",
     "geom:latitude":33.441089,
     "geom:longitude":-104.520989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Twin Diamond Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202742495,
-    "wof:lastmodified":1449060276,
+    "wof:lastmodified":1466699753,
     "wof:name":"Cecilio's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-104.520989,33.441089,-104.520989,33.441089],
+  "bbox": [
+    -104.520989,
+    33.441089,
+    -104.520989,
+    33.441089
+],
   "geometry": {"coordinates":[-104.520989,33.441089],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169818487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.533309,35.069954,-106.533309,35.069954",
     "geom:latitude":35.069954,
     "geom:longitude":-106.533309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10200 Acoma Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169818487,
-    "wof:lastmodified":1449034285,
+    "wof:lastmodified":1466698728,
     "wof:name":"MRC Distributing",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.533309,35.069954,-106.533309,35.069954],
+  "bbox": [
+    -106.533309,
+    35.069954,
+    -106.533309,
+    35.069954
+],
   "geometry": {"coordinates":[-106.533309,35.069954],"type":"Point"}
 }

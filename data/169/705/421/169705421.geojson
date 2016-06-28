@@ -2,13 +2,14 @@
   "id": 169705421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.0181,33.075165,-106.0181,33.075165",
     "geom:latitude":33.075165,
     "geom:longitude":-106.0181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 3rd St",
     "sg:city":"Tularosa",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169705421,
-    "wof:lastmodified":1449035990,
+    "wof:lastmodified":1466697636,
     "wof:name":"St Francis De Paula School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.0181,33.075165,-106.0181,33.075165],
+  "bbox": [
+    -106.0181,
+    33.075165,
+    -106.0181,
+    33.075165
+],
   "geometry": {"coordinates":[-106.0181,33.075165],"type":"Point"}
 }

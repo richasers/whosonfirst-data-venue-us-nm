@@ -2,13 +2,14 @@
   "id": 186478701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.521176,35.31807,-106.521176,35.31807",
     "geom:latitude":35.31807,
     "geom:longitude":-106.521176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Placitas Trails Rd",
     "sg:city":"Placitas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186478701,
-    "wof:lastmodified":1449050356,
+    "wof:lastmodified":1466700149,
     "wof:name":"Tasty Treats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.521176,35.31807,-106.521176,35.31807],
+  "bbox": [
+    -106.521176,
+    35.31807,
+    -106.521176,
+    35.31807
+],
   "geometry": {"coordinates":[-106.521176,35.31807],"type":"Point"}
 }

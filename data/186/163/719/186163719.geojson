@@ -2,13 +2,14 @@
   "id": 186163719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.755766,35.523855,-108.755766,35.523855",
     "geom:latitude":35.523855,
     "geom:longitude":-108.755766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Hst US Hwy 66",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186163719,
-    "wof:lastmodified":1449052975,
+    "wof:lastmodified":1466699367,
     "wof:name":"Indian Den Traders",
     "wof:parent_id":85802855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "covering"
     ]
 },
-  "bbox": [-108.755766,35.523855,-108.755766,35.523855],
-  "geometry": {"coordinates":[-108.755766,35.523855],"type":"Point"}
+  "bbox": [
+    -108.755766,
+    35.523855,
+    -108.755766,
+    35.523855
+],
+  "geometry": {"coordinates":[-108.75576599999999,35.523855],"type":"Point"}
 }

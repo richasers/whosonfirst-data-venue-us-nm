@@ -2,13 +2,14 @@
   "id": 202651897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.707766,35.087847,-106.707766,35.087847",
     "geom:latitude":35.087847,
     "geom:longitude":-106.707766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"467 61st St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202651897,
-    "wof:lastmodified":1449060611,
+    "wof:lastmodified":1466699164,
     "wof:name":"Rodarte Pblo Schl Flmnco Spani",
     "wof:parent_id":85871867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.707766,35.087847,-106.707766,35.087847],
-  "geometry": {"coordinates":[-106.707766,35.087847],"type":"Point"}
+  "bbox": [
+    -106.707766,
+    35.087847,
+    -106.707766,
+    35.087847
+],
+  "geometry": {"coordinates":[-106.70776600000001,35.087847],"type":"Point"}
 }

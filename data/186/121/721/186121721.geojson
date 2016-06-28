@@ -2,13 +2,14 @@
   "id": 186121721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.658917,35.084458,-106.658917,35.084458",
     "geom:latitude":35.084458,
     "geom:longitude":-106.658917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Gold Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186121721,
-    "wof:lastmodified":1449052413,
+    "wof:lastmodified":1466699120,
     "wof:name":"Blasing Court Reporters Inc",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-106.658917,35.084458,-106.658917,35.084458],
+  "bbox": [
+    -106.658917,
+    35.084458,
+    -106.658917,
+    35.084458
+],
   "geometry": {"coordinates":[-106.658917,35.084458],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186514797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.284604,35.890264,-106.284604,35.890264",
     "geom:latitude":35.890264,
     "geom:longitude":-106.284604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 Tiffany Ct",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186514797,
-    "wof:lastmodified":1449051722,
+    "wof:lastmodified":1466700165,
     "wof:name":"Hamilton Management Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.284604,35.890264,-106.284604,35.890264],
+  "bbox": [
+    -106.284604,
+    35.890264,
+    -106.284604,
+    35.890264
+],
   "geometry": {"coordinates":[-106.284604,35.890264],"type":"Point"}
 }

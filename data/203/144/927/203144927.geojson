@@ -2,13 +2,14 @@
   "id": 203144927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.084617,36.702413,-108.084617,36.702413",
     "geom:latitude":36.702413,
     "geom:longitude":-108.084617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Rd 5479",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203144927,
-    "wof:lastmodified":1449026362,
+    "wof:lastmodified":1466699128,
     "wof:name":"Southwest Recyclers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-108.084617,36.702413,-108.084617,36.702413],
-  "geometry": {"coordinates":[-108.084617,36.702413],"type":"Point"}
+  "bbox": [
+    -108.084617,
+    36.702413,
+    -108.084617,
+    36.702413
+],
+  "geometry": {"coordinates":[-108.08461699999999,36.702413],"type":"Point"}
 }

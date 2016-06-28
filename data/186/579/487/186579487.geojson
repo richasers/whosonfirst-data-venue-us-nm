@@ -2,13 +2,14 @@
   "id": 186579487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.855065,35.15289,-107.855065,35.15289",
     "geom:latitude":35.15289,
     "geom:longitude":-107.855065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 W Santa Fe Ave",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186579487,
-    "wof:lastmodified":1449051240,
+    "wof:lastmodified":1466700557,
     "wof:name":"Adult Parole Probation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "probation"
     ]
 },
-  "bbox": [-107.855065,35.15289,-107.855065,35.15289],
+  "bbox": [
+    -107.855065,
+    35.15289,
+    -107.855065,
+    35.15289
+],
   "geometry": {"coordinates":[-107.855065,35.15289],"type":"Point"}
 }

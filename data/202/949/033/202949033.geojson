@@ -2,13 +2,14 @@
   "id": 202949033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.01219,33.079367,-106.01219,33.079367",
     "geom:latitude":33.079367,
     "geom:longitude":-106.01219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Central Ave",
     "sg:city":"Tularosa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202949033,
-    "wof:lastmodified":1449061679,
+    "wof:lastmodified":1466700550,
     "wof:name":"Walkers Auction Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-106.01219,33.079367,-106.01219,33.079367],
+  "bbox": [
+    -106.01219,
+    33.079367,
+    -106.01219,
+    33.079367
+],
   "geometry": {"coordinates":[-106.01219,33.079367],"type":"Point"}
 }

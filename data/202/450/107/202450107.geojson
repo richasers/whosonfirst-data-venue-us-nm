@@ -2,13 +2,14 @@
   "id": 202450107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.713042,34.996898,-106.713042,34.996898",
     "geom:latitude":34.996898,
     "geom:longitude":-106.713042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5621 Don Felipe Ct SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202450107,
-    "wof:lastmodified":1449062267,
+    "wof:lastmodified":1466698529,
     "wof:name":"Lloyd's Speaker Re Coning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stereophonic"
     ]
 },
-  "bbox": [-106.713042,34.996898,-106.713042,34.996898],
+  "bbox": [
+    -106.713042,
+    34.996898,
+    -106.713042,
+    34.996898
+],
   "geometry": {"coordinates":[-106.713042,34.996898],"type":"Point"}
 }

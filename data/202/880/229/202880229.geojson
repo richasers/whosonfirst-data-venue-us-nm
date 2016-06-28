@@ -2,13 +2,14 @@
   "id": 202880229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.681352,33.333801,-105.681352,33.333801",
     "geom:latitude":33.333801,
     "geom:longitude":-105.681352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2811 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202880229,
-    "wof:lastmodified":1449062676,
+    "wof:lastmodified":1466700280,
     "wof:name":"Viva New Mexico",
     "wof:parent_id":85842645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wine"
     ]
 },
-  "bbox": [-105.681352,33.333801,-105.681352,33.333801],
+  "bbox": [
+    -105.681352,
+    33.333801,
+    -105.681352,
+    33.333801
+],
   "geometry": {"coordinates":[-105.681352,33.333801],"type":"Point"}
 }

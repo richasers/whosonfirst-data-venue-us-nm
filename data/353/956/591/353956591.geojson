@@ -2,13 +2,14 @@
   "id": 353956591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649413,35.200636,-106.649413,35.200636",
     "geom:latitude":35.200636,
     "geom:longitude":-106.649413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10129 Coors Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":353956591,
-    "wof:lastmodified":1449018675,
+    "wof:lastmodified":1466698727,
     "wof:name":"Sears Auto Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-106.649413,35.200636,-106.649413,35.200636],
+  "bbox": [
+    -106.649413,
+    35.200636,
+    -106.649413,
+    35.200636
+],
   "geometry": {"coordinates":[-106.649413,35.200636],"type":"Point"}
 }

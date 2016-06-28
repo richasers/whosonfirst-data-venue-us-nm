@@ -2,13 +2,14 @@
   "id": 202785191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.718579,35.071716,-106.718579,35.071716",
     "geom:latitude":35.071716,
     "geom:longitude":-106.718579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7425 Aster Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202785191,
-    "wof:lastmodified":1449062227,
+    "wof:lastmodified":1466699802,
     "wof:name":"Albuquerque's Best Janitorial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-106.718579,35.071716,-106.718579,35.071716],
-  "geometry": {"coordinates":[-106.718579,35.071716],"type":"Point"}
+  "bbox": [
+    -106.718579,
+    35.071716,
+    -106.718579,
+    35.071716
+],
+  "geometry": {"coordinates":[-106.71857900000001,35.071716],"type":"Point"}
 }

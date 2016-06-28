@@ -2,13 +2,14 @@
   "id": 186280185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615683,35.113074,-106.615683,35.113074",
     "geom:latitude":35.113074,
     "geom:longitude":-106.615683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2404 Claremont Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186280185,
-    "wof:lastmodified":1449051696,
+    "wof:lastmodified":1466699062,
     "wof:name":"Mc Dade-Woodcock Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.615683,35.113074,-106.615683,35.113074],
+  "bbox": [
+    -106.615683,
+    35.113074,
+    -106.615683,
+    35.113074
+],
   "geometry": {"coordinates":[-106.615683,35.113074],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353962193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.679745,35.156848,-106.679745,35.156848",
     "geom:latitude":35.156848,
     "geom:longitude":-106.679745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6321 Riverside Plaza Ln NW Ste B",
     "sg:city":"Albuquerque",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":353962193,
-    "wof:lastmodified":1449019770,
+    "wof:lastmodified":1466698805,
     "wof:name":"Contact Lens Gallery & Designer Eyewear, Inc.",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.679745,35.156848,-106.679745,35.156848],
+  "bbox": [
+    -106.679745,
+    35.156848,
+    -106.679745,
+    35.156848
+],
   "geometry": {"coordinates":[-106.679745,35.156848],"type":"Point"}
 }

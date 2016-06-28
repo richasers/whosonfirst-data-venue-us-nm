@@ -2,13 +2,14 @@
   "id": 186443367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.230227,32.437071,-104.230227,32.437071",
     "geom:latitude":32.437071,
     "geom:longitude":-104.230227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1134 Tracy Pl",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186443367,
-    "wof:lastmodified":1449052516,
+    "wof:lastmodified":1466700010,
     "wof:name":"J & J Farm",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-104.230227,32.437071,-104.230227,32.437071],
+  "bbox": [
+    -104.230227,
+    32.437071,
+    -104.230227,
+    32.437071
+],
   "geometry": {"coordinates":[-104.230227,32.437071],"type":"Point"}
 }

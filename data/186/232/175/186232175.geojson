@@ -2,13 +2,14 @@
   "id": 186232175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.059592,35.637351,-106.059592,35.637351",
     "geom:latitude":35.637351,
     "geom:longitude":-106.059592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Ave Juliana",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186232175,
-    "wof:lastmodified":1449051253,
+    "wof:lastmodified":1466698426,
     "wof:name":"Carrera Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-106.059592,35.637351,-106.059592,35.637351],
-  "geometry": {"coordinates":[-106.059592,35.637351],"type":"Point"}
+  "bbox": [
+    -106.059592,
+    35.637351,
+    -106.059592,
+    35.637351
+],
+  "geometry": {"coordinates":[-106.05959199999999,35.637351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186495197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.090628,34.507776,-103.090628,34.507776",
     "geom:latitude":34.507776,
     "geom:longitude":-103.090628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1784 State Hwy 77",
     "sg:city":"Texico",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186495197,
-    "wof:lastmodified":1449051558,
+    "wof:lastmodified":1466700212,
     "wof:name":"Clark Cloud Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.090628,34.507776,-103.090628,34.507776],
+  "bbox": [
+    -103.090628,
+    34.507776,
+    -103.090628,
+    34.507776
+],
   "geometry": {"coordinates":[-103.090628,34.507776],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169862725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.745212,34.759625,-106.745212,34.759625",
     "geom:latitude":34.759625,
     "geom:longitude":-106.745212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4159 Elaine Dr",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169862725,
-    "wof:lastmodified":1449036044,
+    "wof:lastmodified":1466698957,
     "wof:name":"Hooey",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.745212,34.759625,-106.745212,34.759625],
+  "bbox": [
+    -106.745212,
+    34.759625,
+    -106.745212,
+    34.759625
+],
   "geometry": {"coordinates":[-106.745212,34.759625],"type":"Point"}
 }

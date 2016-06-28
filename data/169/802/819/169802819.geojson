@@ -2,13 +2,14 @@
   "id": 169802819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.200378,36.759649,-108.200378,36.759649",
     "geom:latitude":36.759649,
     "geom:longitude":-108.200378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3220 Crestridge Dr",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169802819,
-    "wof:lastmodified":1449035339,
+    "wof:lastmodified":1466698623,
     "wof:name":"Godfrey Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.200378,36.759649,-108.200378,36.759649],
+  "bbox": [
+    -108.200378,
+    36.759649,
+    -108.200378,
+    36.759649
+],
   "geometry": {"coordinates":[-108.200378,36.759649],"type":"Point"}
 }

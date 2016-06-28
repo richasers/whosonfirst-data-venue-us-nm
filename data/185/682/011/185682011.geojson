@@ -2,13 +2,14 @@
   "id": 185682011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.925091,36.713354,-107.925091,36.713354",
     "geom:latitude":36.713354,
     "geom:longitude":-107.925091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Rd 4860",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185682011,
-    "wof:lastmodified":1449006895,
+    "wof:lastmodified":1466699423,
     "wof:name":"Hair Unique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.925091,36.713354,-107.925091,36.713354],
-  "geometry": {"coordinates":[-107.925091,36.713354],"type":"Point"}
+  "bbox": [
+    -107.925091,
+    36.713354,
+    -107.925091,
+    36.713354
+],
+  "geometry": {"coordinates":[-107.92509099999999,36.713354],"type":"Point"}
 }

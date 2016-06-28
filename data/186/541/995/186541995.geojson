@@ -2,13 +2,14 @@
   "id": 186541995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.891906,34.060438,-106.891906,34.060438",
     "geom:latitude":34.060438,
     "geom:longitude":-106.891906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 San Miguel St",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186541995,
-    "wof:lastmodified":1449050544,
+    "wof:lastmodified":1466700508,
     "wof:name":"Ambercare Home Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-106.891906,34.060438,-106.891906,34.060438],
-  "geometry": {"coordinates":[-106.891906,34.060438],"type":"Point"}
+  "bbox": [
+    -106.891906,
+    34.060438,
+    -106.891906,
+    34.060438
+],
+  "geometry": {"coordinates":[-106.89190600000001,34.060438],"type":"Point"}
 }

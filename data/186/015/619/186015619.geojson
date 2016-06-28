@@ -2,13 +2,14 @@
   "id": 186015619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.226369,32.416414,-104.226369,32.416414",
     "geom:latitude":32.416414,
     "geom:longitude":-104.226369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 S Main St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186015619,
-    "wof:lastmodified":1449051009,
+    "wof:lastmodified":1466697856,
     "wof:name":"Adkins Supply Inc",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [-104.226369,32.416414,-104.226369,32.416414],
-  "geometry": {"coordinates":[-104.226369,32.416414],"type":"Point"}
+  "bbox": [
+    -104.226369,
+    32.416414,
+    -104.226369,
+    32.416414
+],
+  "geometry": {"coordinates":[-104.22636900000001,32.416414],"type":"Point"}
 }

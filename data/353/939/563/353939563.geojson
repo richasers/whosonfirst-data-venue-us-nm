@@ -2,13 +2,14 @@
   "id": 353939563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586195,35.153062,-106.586195,35.153062",
     "geom:latitude":35.153062,
     "geom:longitude":-106.586195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5757 Harper Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":353939563,
-    "wof:lastmodified":1449019016,
+    "wof:lastmodified":1466698263,
     "wof:name":"Eye Associates Of New Mexico",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "vision"
     ]
 },
-  "bbox": [-106.586195,35.153062,-106.586195,35.153062],
+  "bbox": [
+    -106.586195,
+    35.153062,
+    -106.586195,
+    35.153062
+],
   "geometry": {"coordinates":[-106.586195,35.153062],"type":"Point"}
 }

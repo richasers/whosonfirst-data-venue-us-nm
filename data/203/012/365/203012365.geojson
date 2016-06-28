@@ -2,13 +2,14 @@
   "id": 203012365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.563252,35.146314,-106.563252,35.146314",
     "geom:latitude":35.146314,
     "geom:longitude":-106.563252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7518 Bear Canyon Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203012365,
-    "wof:lastmodified":1449026677,
+    "wof:lastmodified":1466697728,
     "wof:name":"Patim Inc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "market"
     ]
 },
-  "bbox": [-106.563252,35.146314,-106.563252,35.146314],
-  "geometry": {"coordinates":[-106.563252,35.146314],"type":"Point"}
+  "bbox": [
+    -106.563252,
+    35.146314,
+    -106.563252,
+    35.146314
+],
+  "geometry": {"coordinates":[-106.56325200000001,35.146314],"type":"Point"}
 }

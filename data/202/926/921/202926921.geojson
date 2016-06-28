@@ -2,13 +2,14 @@
   "id": 202926921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.544494,33.435847,-104.544494,33.435847",
     "geom:latitude":33.435847,
     "geom:longitude":-104.544494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 Latigo Cir",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202926921,
-    "wof:lastmodified":1449060990,
+    "wof:lastmodified":1466700456,
     "wof:name":"Ksbl Enterprises LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-104.544494,33.435847,-104.544494,33.435847],
+  "bbox": [
+    -104.544494,
+    33.435847,
+    -104.544494,
+    33.435847
+],
   "geometry": {"coordinates":[-104.544494,33.435847],"type":"Point"}
 }

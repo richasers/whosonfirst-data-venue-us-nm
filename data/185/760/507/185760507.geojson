@@ -2,13 +2,14 @@
   "id": 185760507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.070489,34.942353,-106.070489,34.942353",
     "geom:latitude":34.942353,
     "geom:longitude":-106.070489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Consuelo Rd",
     "sg:city":"Moriarty",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185760507,
-    "wof:lastmodified":1449008130,
+    "wof:lastmodified":1466699182,
     "wof:name":"Armstrong Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.070489,34.942353,-106.070489,34.942353],
-  "geometry": {"coordinates":[-106.070489,34.942353],"type":"Point"}
+  "bbox": [
+    -106.070489,
+    34.942353,
+    -106.070489,
+    34.942353
+],
+  "geometry": {"coordinates":[-106.07048899999999,34.942353],"type":"Point"}
 }

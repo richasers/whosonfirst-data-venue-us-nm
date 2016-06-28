@@ -2,13 +2,14 @@
   "id": 202439373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.524441,35.13559,-106.524441,35.13559",
     "geom:latitude":35.13559,
     "geom:longitude":-106.524441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4700 Morris St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202439373,
-    "wof:lastmodified":1449060822,
+    "wof:lastmodified":1466698415,
     "wof:name":"TVI Bookstore",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-106.524441,35.13559,-106.524441,35.13559],
+  "bbox": [
+    -106.524441,
+    35.13559,
+    -106.524441,
+    35.13559
+],
   "geometry": {"coordinates":[-106.524441,35.13559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202944379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.971776,35.679754,-105.971776,35.679754",
     "geom:latitude":35.679754,
     "geom:longitude":-105.971776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1719 Callej\ufffd\ufffdn Cordelia",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202944379,
-    "wof:lastmodified":1449061389,
+    "wof:lastmodified":1466700528,
     "wof:name":"Jane Napier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-105.971776,35.679754,-105.971776,35.679754],
-  "geometry": {"coordinates":[-105.971776,35.679754],"type":"Point"}
+  "bbox": [
+    -105.971776,
+    35.679754,
+    -105.971776,
+    35.679754
+],
+  "geometry": {"coordinates":[-105.97177600000001,35.679754],"type":"Point"}
 }

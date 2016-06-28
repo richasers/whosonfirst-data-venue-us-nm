@@ -2,13 +2,14 @@
   "id": 203089517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.597826,36.368658,-105.597826,36.368658",
     "geom:latitude":36.368658,
     "geom:longitude":-105.597826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 State Rte 68",
     "sg:city":"Velarde",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203089517,
-    "wof:lastmodified":1449025317,
+    "wof:lastmodified":1466698569,
     "wof:name":"Black Mesa Winery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [-105.597826,36.368658,-105.597826,36.368658],
+  "bbox": [
+    -105.597826,
+    36.368658,
+    -105.597826,
+    36.368658
+],
   "geometry": {"coordinates":[-105.597826,36.368658],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186125353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.574262,36.404774,-105.574262,36.404774",
     "geom:latitude":36.404774,
     "geom:longitude":-105.574262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Pso del Pueblo Norte",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186125353,
-    "wof:lastmodified":1449052945,
+    "wof:lastmodified":1466699138,
     "wof:name":"Dimond Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-105.574262,36.404774,-105.574262,36.404774],
+  "bbox": [
+    -105.574262,
+    36.404774,
+    -105.574262,
+    36.404774
+],
   "geometry": {"coordinates":[-105.574262,36.404774],"type":"Point"}
 }

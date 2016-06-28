@@ -2,13 +2,14 @@
   "id": 202979479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.734738,32.318992,-106.734738,32.318992",
     "geom:latitude":32.318992,
     "geom:longitude":-106.734738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 E Lohman Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202979479,
-    "wof:lastmodified":1449061892,
+    "wof:lastmodified":1466700579,
     "wof:name":"Allergy & Asthma Clinic",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.734738,32.318992,-106.734738,32.318992],
-  "geometry": {"coordinates":[-106.734738,32.318992],"type":"Point"}
+  "bbox": [
+    -106.734738,
+    32.318992,
+    -106.734738,
+    32.318992
+],
+  "geometry": {"coordinates":[-106.73473799999999,32.318992],"type":"Point"}
 }

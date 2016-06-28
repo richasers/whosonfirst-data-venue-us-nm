@@ -2,13 +2,14 @@
   "id": 203118371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.228585,34.429971,-103.228585,34.429971",
     "geom:latitude":34.429971,
     "geom:longitude":-103.228585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Tucker Ave",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203118371,
-    "wof:lastmodified":1449026477,
+    "wof:lastmodified":1466698912,
     "wof:name":"Custom Cycles & Motorwerks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.228585,34.429971,-103.228585,34.429971],
+  "bbox": [
+    -103.228585,
+    34.429971,
+    -103.228585,
+    34.429971
+],
   "geometry": {"coordinates":[-103.228585,34.429971],"type":"Point"}
 }

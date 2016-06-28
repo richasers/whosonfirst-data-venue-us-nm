@@ -2,13 +2,14 @@
   "id": 202770663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.608895,35.235859,-106.608895,35.235859",
     "geom:latitude":35.235859,
     "geom:longitude":-106.608895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5403 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202770663,
-    "wof:lastmodified":1449062705,
+    "wof:lastmodified":1466699849,
     "wof:name":"Tracking Project",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "program"
     ]
 },
-  "bbox": [-106.608895,35.235859,-106.608895,35.235859],
+  "bbox": [
+    -106.608895,
+    35.235859,
+    -106.608895,
+    35.235859
+],
   "geometry": {"coordinates":[-106.608895,35.235859],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186490813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.186991,36.456318,-103.186991,36.456318",
     "geom:latitude":36.456318,
     "geom:longitude":-103.186991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 N 1st St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186490813,
-    "wof:lastmodified":1449052748,
+    "wof:lastmodified":1466700196,
     "wof:name":"Rabbit Ear Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-103.186991,36.456318,-103.186991,36.456318],
-  "geometry": {"coordinates":[-103.186991,36.456318],"type":"Point"}
+  "bbox": [
+    -103.186991,
+    36.456318,
+    -103.186991,
+    36.456318
+],
+  "geometry": {"coordinates":[-103.18699100000001,36.456318],"type":"Point"}
 }

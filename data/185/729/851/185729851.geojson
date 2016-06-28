@@ -2,13 +2,14 @@
   "id": 185729851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.043617,35.612491,-106.043617,35.612491",
     "geom:latitude":35.612491,
     "geom:longitude":-106.043617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Prince Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185729851,
-    "wof:lastmodified":1449007444,
+    "wof:lastmodified":1466698971,
     "wof:name":"Sierra Vista Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.043617,35.612491,-106.043617,35.612491],
+  "bbox": [
+    -106.043617,
+    35.612491,
+    -106.043617,
+    35.612491
+],
   "geometry": {"coordinates":[-106.043617,35.612491],"type":"Point"}
 }

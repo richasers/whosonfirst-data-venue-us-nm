@@ -2,13 +2,14 @@
   "id": 186115489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.960078,32.88924,-105.960078,32.88924",
     "geom:latitude":32.88924,
     "geom:longitude":-105.960078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 S White Sands Blvd",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186115489,
-    "wof:lastmodified":1449050230,
+    "wof:lastmodified":1466699060,
     "wof:name":"KWIK Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-105.960078,32.88924,-105.960078,32.88924],
+  "bbox": [
+    -105.960078,
+    32.88924,
+    -105.960078,
+    32.88924
+],
   "geometry": {"coordinates":[-105.960078,32.88924],"type":"Point"}
 }

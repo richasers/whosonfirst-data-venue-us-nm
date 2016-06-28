@@ -2,13 +2,14 @@
   "id": 202861517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.849935,34.794186,-103.849935,34.794186",
     "geom:latitude":34.794186,
     "geom:longitude":-103.849935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5608 State Hwy 156",
     "sg:city":"Mc Alister",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202861517,
-    "wof:lastmodified":1449062626,
+    "wof:lastmodified":1466700234,
     "wof:name":"Moon Bros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-103.849935,34.794186,-103.849935,34.794186],
+  "bbox": [
+    -103.849935,
+    34.794186,
+    -103.849935,
+    34.794186
+],
   "geometry": {"coordinates":[-103.849935,34.794186],"type":"Point"}
 }

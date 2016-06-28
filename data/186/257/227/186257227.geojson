@@ -2,13 +2,14 @@
   "id": 186257227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.956886,36.718486,-107.956886,36.718486",
     "geom:latitude":36.718486,
     "geom:longitude":-107.956886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 E Blanco Blvd",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186257227,
-    "wof:lastmodified":1449051163,
+    "wof:lastmodified":1466698754,
     "wof:name":"KOA Campgrounds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gas"
     ]
 },
-  "bbox": [-107.956886,36.718486,-107.956886,36.718486],
+  "bbox": [
+    -107.956886,
+    36.718486,
+    -107.956886,
+    36.718486
+],
   "geometry": {"coordinates":[-107.956886,36.718486],"type":"Point"}
 }

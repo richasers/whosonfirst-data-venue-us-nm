@@ -2,13 +2,14 @@
   "id": 186426671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.736013,35.24352,-106.736013,35.24352",
     "geom:latitude":35.24352,
     "geom:longitude":-106.736013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Corsica Dr SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186426671,
-    "wof:lastmodified":1449050973,
+    "wof:lastmodified":1466699951,
     "wof:name":"Charles E Minor CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-106.736013,35.24352,-106.736013,35.24352],
+  "bbox": [
+    -106.736013,
+    35.24352,
+    -106.736013,
+    35.24352
+],
   "geometry": {"coordinates":[-106.736013,35.24352],"type":"Point"}
 }

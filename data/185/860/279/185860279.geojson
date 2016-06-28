@@ -2,13 +2,14 @@
   "id": 185860279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.655401,35.017517,-106.655401,35.017517",
     "geom:latitude":35.017517,
     "geom:longitude":-106.655401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Rencher St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185860279,
-    "wof:lastmodified":1449007328,
+    "wof:lastmodified":1466698117,
     "wof:name":"Griegos Prtble Wldg Fbrication",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.655401,35.017517,-106.655401,35.017517],
+  "bbox": [
+    -106.655401,
+    35.017517,
+    -106.655401,
+    35.017517
+],
   "geometry": {"coordinates":[-106.655401,35.017517],"type":"Point"}
 }

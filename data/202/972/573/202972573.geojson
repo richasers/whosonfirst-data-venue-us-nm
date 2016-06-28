@@ -2,13 +2,14 @@
   "id": 202972573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.228453,32.458353,-104.228453,32.458353",
     "geom:latitude":32.458353,
     "geom:longitude":-104.228453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2030 N Canal St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202972573,
-    "wof:lastmodified":1449061394,
+    "wof:lastmodified":1466700667,
     "wof:name":"Boone Archaeological Svcs LLC",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.228453,32.458353,-104.228453,32.458353],
+  "bbox": [
+    -104.228453,
+    32.458353,
+    -104.228453,
+    32.458353
+],
   "geometry": {"coordinates":[-104.228453,32.458353],"type":"Point"}
 }

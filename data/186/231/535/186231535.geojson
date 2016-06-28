@@ -2,13 +2,14 @@
   "id": 186231535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.744945,35.213046,-103.744945,35.213046",
     "geom:latitude":35.213046,
     "geom:longitude":-103.744945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10344 State Rte 104",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186231535,
-    "wof:lastmodified":1449051737,
+    "wof:lastmodified":1466698416,
     "wof:name":"Kirk's Welding & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "welding"
     ]
 },
-  "bbox": [-103.744945,35.213046,-103.744945,35.213046],
+  "bbox": [
+    -103.744945,
+    35.213046,
+    -103.744945,
+    35.213046
+],
   "geometry": {"coordinates":[-103.744945,35.213046],"type":"Point"}
 }

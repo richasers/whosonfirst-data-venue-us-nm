@@ -2,13 +2,14 @@
   "id": 202470933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.757505,32.268575,-107.757505,32.268575",
     "geom:latitude":32.268575,
     "geom:longitude":-107.757505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 S Silver Ave",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202470933,
-    "wof:lastmodified":1449060724,
+    "wof:lastmodified":1466698805,
     "wof:name":"Deming News Journal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-107.757505,32.268575,-107.757505,32.268575],
-  "geometry": {"coordinates":[-107.757505,32.268575],"type":"Point"}
+  "bbox": [
+    -107.757505,
+    32.268575,
+    -107.757505,
+    32.268575
+],
+  "geometry": {"coordinates":[-107.75750499999999,32.268575],"type":"Point"}
 }

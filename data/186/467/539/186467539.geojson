@@ -2,13 +2,14 @@
   "id": 186467539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.551269,35.188877,-106.551269,35.188877",
     "geom:latitude":35.188877,
     "geom:longitude":-106.551269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7619 Modesto Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186467539,
-    "wof:lastmodified":1449052434,
+    "wof:lastmodified":1466700016,
     "wof:name":"Modesto LLC",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-106.551269,35.188877,-106.551269,35.188877],
+  "bbox": [
+    -106.551269,
+    35.188877,
+    -106.551269,
+    35.188877
+],
   "geometry": {"coordinates":[-106.551269,35.188877],"type":"Point"}
 }

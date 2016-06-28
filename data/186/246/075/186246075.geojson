@@ -2,13 +2,14 @@
   "id": 186246075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.601525,32.425917,-106.601525,32.425917",
     "geom:latitude":32.425917,
     "geom:longitude":-106.601525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5816 3rd St",
     "sg:city":"Organ",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186246075,
-    "wof:lastmodified":1449050436,
+    "wof:lastmodified":1466698610,
     "wof:name":"Organ Fire Dept Fire Station",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-106.601525,32.425917,-106.601525,32.425917],
+  "bbox": [
+    -106.601525,
+    32.425917,
+    -106.601525,
+    32.425917
+],
   "geometry": {"coordinates":[-106.601525,32.425917],"type":"Point"}
 }

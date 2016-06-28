@@ -2,13 +2,14 @@
   "id": 169823417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.134826,32.711965,-103.134826,32.711965",
     "geom:latitude":32.711965,
     "geom:longitude":-103.134826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 E Yucca Dr",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169823417,
-    "wof:lastmodified":1449035936,
+    "wof:lastmodified":1466698763,
     "wof:name":"Opportunity House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.134826,32.711965,-103.134826,32.711965],
+  "bbox": [
+    -103.134826,
+    32.711965,
+    -103.134826,
+    32.711965
+],
   "geometry": {"coordinates":[-103.134826,32.711965],"type":"Point"}
 }

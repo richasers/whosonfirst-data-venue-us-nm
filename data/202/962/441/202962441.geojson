@@ -2,13 +2,14 @@
   "id": 202962441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.801581,32.323426,-106.801581,32.323426",
     "geom:latitude":32.323426,
     "geom:longitude":-106.801581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1803 N Valley Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202962441,
-    "wof:lastmodified":1449061603,
+    "wof:lastmodified":1466700603,
     "wof:name":"Eugene Pakozdi DC",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.801581,32.323426,-106.801581,32.323426],
+  "bbox": [
+    -106.801581,
+    32.323426,
+    -106.801581,
+    32.323426
+],
   "geometry": {"coordinates":[-106.801581,32.323426],"type":"Point"}
 }

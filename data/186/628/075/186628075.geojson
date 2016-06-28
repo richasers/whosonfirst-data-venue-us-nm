@@ -2,13 +2,14 @@
   "id": 186628075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.975344,35.677544,-105.975344,35.677544",
     "geom:latitude":35.677544,
     "geom:longitude":-105.975344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1851 Pso de la Conquistadora",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186628075,
-    "wof:lastmodified":1449052503,
+    "wof:lastmodified":1466700813,
     "wof:name":"Adam Steinberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.975344,35.677544,-105.975344,35.677544],
-  "geometry": {"coordinates":[-105.975344,35.677544],"type":"Point"}
+  "bbox": [
+    -105.975344,
+    35.677544,
+    -105.975344,
+    35.677544
+],
+  "geometry": {"coordinates":[-105.97534400000001,35.677544],"type":"Point"}
 }

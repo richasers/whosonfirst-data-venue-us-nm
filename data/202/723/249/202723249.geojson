@@ -2,13 +2,14 @@
   "id": 202723249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.571162,35.154928,-106.571162,35.154928",
     "geom:latitude":35.154928,
     "geom:longitude":-106.571162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6800 Ave la Costa NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202723249,
-    "wof:lastmodified":1449061599,
+    "wof:lastmodified":1466699572,
     "wof:name":"CRS Cellular",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-106.571162,35.154928,-106.571162,35.154928],
+  "bbox": [
+    -106.571162,
+    35.154928,
+    -106.571162,
+    35.154928
+],
   "geometry": {"coordinates":[-106.571162,35.154928],"type":"Point"}
 }

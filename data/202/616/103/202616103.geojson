@@ -2,13 +2,14 @@
   "id": 202616103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.060946,35.987677,-106.060946,35.987677",
     "geom:latitude":35.987677,
     "geom:longitude":-106.060946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 N Riverside Dr",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202616103,
-    "wof:lastmodified":1449061963,
+    "wof:lastmodified":1466698615,
     "wof:name":"Affordable Transmission",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-106.060946,35.987677,-106.060946,35.987677],
+  "bbox": [
+    -106.060946,
+    35.987677,
+    -106.060946,
+    35.987677
+],
   "geometry": {"coordinates":[-106.060946,35.987677],"type":"Point"}
 }

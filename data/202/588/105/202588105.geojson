@@ -2,13 +2,14 @@
   "id": 202588105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.223182,34.404768,-103.223182,34.404768",
     "geom:latitude":34.404768,
     "geom:longitude":-103.223182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 W 7th St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202588105,
-    "wof:lastmodified":1449062166,
+    "wof:lastmodified":1466698210,
     "wof:name":"Colonial Storage Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-103.223182,34.404768,-103.223182,34.404768],
-  "geometry": {"coordinates":[-103.223182,34.404768],"type":"Point"}
+  "bbox": [
+    -103.223182,
+    34.404768,
+    -103.223182,
+    34.404768
+],
+  "geometry": {"coordinates":[-103.22318199999999,34.404768],"type":"Point"}
 }

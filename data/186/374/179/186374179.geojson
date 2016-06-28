@@ -2,13 +2,14 @@
   "id": 186374179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.865631,35.55437,-105.865631,35.55437",
     "geom:latitude":35.55437,
     "geom:longitude":-105.865631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Apache Ridge Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186374179,
-    "wof:lastmodified":1449051538,
+    "wof:lastmodified":1466699852,
     "wof:name":"Hockmuth Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-105.865631,35.55437,-105.865631,35.55437],
-  "geometry": {"coordinates":[-105.865631,35.55437],"type":"Point"}
+  "bbox": [
+    -105.865631,
+    35.55437,
+    -105.865631,
+    35.55437
+],
+  "geometry": {"coordinates":[-105.86563099999999,35.55437],"type":"Point"}
 }

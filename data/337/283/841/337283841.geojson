@@ -2,13 +2,14 @@
   "id": 337283841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604212,35.062154,-106.604212,35.062154",
     "geom:latitude":35.062154,
     "geom:longitude":-106.604212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 Carlisle Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337283841,
-    "wof:lastmodified":1449027181,
+    "wof:lastmodified":1466697684,
     "wof:name":"Inside Moves",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-106.604212,35.062154,-106.604212,35.062154],
+  "bbox": [
+    -106.604212,
+    35.062154,
+    -106.604212,
+    35.062154
+],
   "geometry": {"coordinates":[-106.604212,35.062154],"type":"Point"}
 }

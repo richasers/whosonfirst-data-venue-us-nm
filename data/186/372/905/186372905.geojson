@@ -2,13 +2,14 @@
   "id": 186372905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.926639,35.681148,-105.926639,35.681148",
     "geom:latitude":35.681148,
     "geom:longitude":-105.926639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Canyon Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186372905,
-    "wof:lastmodified":1449051989,
+    "wof:lastmodified":1466699745,
     "wof:name":"Brad Smith Gallery",
     "wof:parent_id":85880803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.926639,35.681148,-105.926639,35.681148],
-  "geometry": {"coordinates":[-105.926639,35.681148],"type":"Point"}
+  "bbox": [
+    -105.926639,
+    35.681148,
+    -105.926639,
+    35.681148
+],
+  "geometry": {"coordinates":[-105.92663899999999,35.681148],"type":"Point"}
 }

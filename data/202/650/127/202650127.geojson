@@ -2,13 +2,14 @@
   "id": 202650127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.750143,32.320806,-106.750143,32.320806",
     "geom:latitude":32.320806,
     "geom:longitude":-106.750143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"860 N Telshor Blvd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202650127,
-    "wof:lastmodified":1449061670,
+    "wof:lastmodified":1466699136,
     "wof:name":"Saturn Of Las Cruces",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.750143,32.320806,-106.750143,32.320806],
-  "geometry": {"coordinates":[-106.750143,32.320806],"type":"Point"}
+  "bbox": [
+    -106.750143,
+    32.320806,
+    -106.750143,
+    32.320806
+],
+  "geometry": {"coordinates":[-106.75014299999999,32.320806],"type":"Point"}
 }

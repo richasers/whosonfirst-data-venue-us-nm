@@ -2,13 +2,14 @@
   "id": 353973031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.642998,31.9562,-106.642998,31.9562",
     "geom:latitude":31.9562,
     "geom:longitude":-106.642998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"361 Vinton Rd",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353973031,
-    "wof:lastmodified":1449019805,
+    "wof:lastmodified":1466699577,
     "wof:name":"Desert Mountain Obstetrics & Gynecology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gynecologist"
     ]
 },
-  "bbox": [-106.642998,31.9562,-106.642998,31.9562],
-  "geometry": {"coordinates":[-106.642998,31.9562],"type":"Point"}
+  "bbox": [
+    -106.642998,
+    31.9562,
+    -106.642998,
+    31.9562
+],
+  "geometry": {"coordinates":[-106.64299800000001,31.9562],"type":"Point"}
 }

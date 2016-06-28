@@ -2,13 +2,14 @@
   "id": 185813905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.797218,32.308783,-106.797218,32.308783",
     "geom:latitude":32.308783,
     "geom:longitude":-106.797218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 N Archuleta Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185813905,
-    "wof:lastmodified":1449007021,
+    "wof:lastmodified":1466697610,
     "wof:name":"Enoch Mechanical LTD Co",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.797218,32.308783,-106.797218,32.308783],
+  "bbox": [
+    -106.797218,
+    32.308783,
+    -106.797218,
+    32.308783
+],
   "geometry": {"coordinates":[-106.797218,32.308783],"type":"Point"}
 }

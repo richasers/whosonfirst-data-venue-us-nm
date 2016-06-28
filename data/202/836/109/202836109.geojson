@@ -2,13 +2,14 @@
   "id": 202836109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.36311,35.100164,-106.36311,35.100164",
     "geom:latitude":35.100164,
     "geom:longitude":-106.36311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 N Zamora Rd",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202836109,
-    "wof:lastmodified":1449061760,
+    "wof:lastmodified":1466700121,
     "wof:name":"Mexico Dept Of Transportation",
     "wof:parent_id":85892613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.36311,35.100164,-106.36311,35.100164],
-  "geometry": {"coordinates":[-106.36311,35.100164],"type":"Point"}
+  "bbox": [
+    -106.36311,
+    35.100164,
+    -106.36311,
+    35.100164
+],
+  "geometry": {"coordinates":[-106.36311000000001,35.100164],"type":"Point"}
 }

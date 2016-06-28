@@ -2,13 +2,14 @@
   "id": 186112455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.553948,35.130663,-106.553948,35.130663",
     "geom:latitude":35.130663,
     "geom:longitude":-106.553948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8214 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186112455,
-    "wof:lastmodified":1449051608,
+    "wof:lastmodified":1466699033,
     "wof:name":"Chos Tae Kwon Do Center",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.553948,35.130663,-106.553948,35.130663],
-  "geometry": {"coordinates":[-106.553948,35.130663],"type":"Point"}
+  "bbox": [
+    -106.553948,
+    35.130663,
+    -106.553948,
+    35.130663
+],
+  "geometry": {"coordinates":[-106.55394800000001,35.130663],"type":"Point"}
 }

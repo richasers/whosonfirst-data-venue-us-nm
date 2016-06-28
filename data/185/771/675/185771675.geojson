@@ -2,13 +2,14 @@
   "id": 185771675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.645416,35.11656,-106.645416,35.11656",
     "geom:latitude":35.11656,
     "geom:longitude":-106.645416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3308 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":185771675,
-    "wof:lastmodified":1449007483,
+    "wof:lastmodified":1466699235,
     "wof:name":"Ace Furniture & Antiques",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.645416,35.11656,-106.645416,35.11656],
+  "bbox": [
+    -106.645416,
+    35.11656,
+    -106.645416,
+    35.11656
+],
   "geometry": {"coordinates":[-106.645416,35.11656],"type":"Point"}
 }

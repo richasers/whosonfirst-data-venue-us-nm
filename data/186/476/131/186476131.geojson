@@ -2,13 +2,14 @@
   "id": 186476131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613738,35.111554,-106.613738,35.111554",
     "geom:latitude":35.111554,
     "geom:longitude":-106.613738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2848 Girard Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186476131,
-    "wof:lastmodified":1449051457,
+    "wof:lastmodified":1466700028,
     "wof:name":"A-B Tire Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-106.613738,35.111554,-106.613738,35.111554],
+  "bbox": [
+    -106.613738,
+    35.111554,
+    -106.613738,
+    35.111554
+],
   "geometry": {"coordinates":[-106.613738,35.111554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202536839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.777321,32.223764,-107.777321,32.223764",
     "geom:latitude":32.223764,
     "geom:longitude":-107.777321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4185 Majestic View Rd",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202536839,
-    "wof:lastmodified":1449061629,
+    "wof:lastmodified":1466699306,
     "wof:name":"Nicoll Elida",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.777321,32.223764,-107.777321,32.223764],
+  "bbox": [
+    -107.777321,
+    32.223764,
+    -107.777321,
+    32.223764
+],
   "geometry": {"coordinates":[-107.777321,32.223764],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202907881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.143263,36.735786,-108.143263,36.735786",
     "geom:latitude":36.735786,
     "geom:longitude":-108.143263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Rd 3959",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202907881,
-    "wof:lastmodified":1449062456,
+    "wof:lastmodified":1466700387,
     "wof:name":"Skinsey Jetcraft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "boat"
     ]
 },
-  "bbox": [-108.143263,36.735786,-108.143263,36.735786],
+  "bbox": [
+    -108.143263,
+    36.735786,
+    -108.143263,
+    36.735786
+],
   "geometry": {"coordinates":[-108.143263,36.735786],"type":"Point"}
 }

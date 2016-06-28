@@ -2,13 +2,14 @@
   "id": 186537003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.495559,35.172823,-106.495559,35.172823",
     "geom:latitude":35.172823,
     "geom:longitude":-106.495559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8213 Indigo Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186537003,
-    "wof:lastmodified":1449051050,
+    "wof:lastmodified":1466700497,
     "wof:name":"Conrardy Commodities",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-106.495559,35.172823,-106.495559,35.172823],
+  "bbox": [
+    -106.495559,
+    35.172823,
+    -106.495559,
+    35.172823
+],
   "geometry": {"coordinates":[-106.495559,35.172823],"type":"Point"}
 }

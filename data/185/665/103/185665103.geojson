@@ -2,13 +2,14 @@
   "id": 185665103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.571073,35.087359,-106.571073,35.087359",
     "geom:latitude":35.087359,
     "geom:longitude":-106.571073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6825 Lomas Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":185665103,
-    "wof:lastmodified":1449007100,
+    "wof:lastmodified":1466698295,
     "wof:name":"Sunset Grille & Bar",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-106.571073,35.087359,-106.571073,35.087359],
+  "bbox": [
+    -106.571073,
+    35.087359,
+    -106.571073,
+    35.087359
+],
   "geometry": {"coordinates":[-106.571073,35.087359],"type":"Point"}
 }

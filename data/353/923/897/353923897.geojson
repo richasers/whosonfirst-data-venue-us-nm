@@ -2,13 +2,14 @@
   "id": 353923897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.689584,35.084584,-106.689584,35.084584",
     "geom:latitude":35.084584,
     "geom:longitude":-106.689584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4614 Central Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":353923897,
-    "wof:lastmodified":1449020696,
+    "wof:lastmodified":1466697835,
     "wof:name":"Sandia Peak Inn Motel",
     "wof:parent_id":85892605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.689584,35.084584,-106.689584,35.084584],
+  "bbox": [
+    -106.689584,
+    35.084584,
+    -106.689584,
+    35.084584
+],
   "geometry": {"coordinates":[-106.689584,35.084584],"type":"Point"}
 }

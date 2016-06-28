@@ -2,13 +2,14 @@
   "id": 185631099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.550528,35.069622,-106.550528,35.069622",
     "geom:latitude":35.069622,
     "geom:longitude":-106.550528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Wyoming Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185631099,
-    "wof:lastmodified":1449007104,
+    "wof:lastmodified":1466697946,
     "wof:name":"5 Star Auto Care",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-106.550528,35.069622,-106.550528,35.069622],
+  "bbox": [
+    -106.550528,
+    35.069622,
+    -106.550528,
+    35.069622
+],
   "geometry": {"coordinates":[-106.550528,35.069622],"type":"Point"}
 }

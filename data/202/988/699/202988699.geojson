@@ -2,13 +2,14 @@
   "id": 202988699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.745777,35.53441,-108.745777,35.53441",
     "geom:latitude":35.53441,
     "geom:longitude":-108.745777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W Adams Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202988699,
-    "wof:lastmodified":1449060981,
+    "wof:lastmodified":1466700823,
     "wof:name":"Sundance Care Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-108.745777,35.53441,-108.745777,35.53441],
+  "bbox": [
+    -108.745777,
+    35.53441,
+    -108.745777,
+    35.53441
+],
   "geometry": {"coordinates":[-108.745777,35.53441],"type":"Point"}
 }

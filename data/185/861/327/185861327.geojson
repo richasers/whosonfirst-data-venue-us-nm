@@ -2,13 +2,14 @@
   "id": 185861327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.478799,35.150729,-106.478799,35.150729",
     "geom:latitude":35.150729,
     "geom:longitude":-106.478799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13632 Canada del Oso Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185861327,
-    "wof:lastmodified":1449008188,
+    "wof:lastmodified":1466698128,
     "wof:name":"Dennis Bergman",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.478799,35.150729,-106.478799,35.150729],
+  "bbox": [
+    -106.478799,
+    35.150729,
+    -106.478799,
+    35.150729
+],
   "geometry": {"coordinates":[-106.478799,35.150729],"type":"Point"}
 }

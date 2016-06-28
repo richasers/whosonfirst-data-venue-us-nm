@@ -2,13 +2,14 @@
   "id": 186201649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.22931,35.59155,-105.22931,35.59155",
     "geom:latitude":35.59155,
     "geom:longitude":-105.22931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W National St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186201649,
-    "wof:lastmodified":1449052658,
+    "wof:lastmodified":1466698052,
     "wof:name":"San Miguel Solid Waste Collect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-105.22931,35.59155,-105.22931,35.59155],
+  "bbox": [
+    -105.22931,
+    35.59155,
+    -105.22931,
+    35.59155
+],
   "geometry": {"coordinates":[-105.22931,35.59155],"type":"Point"}
 }

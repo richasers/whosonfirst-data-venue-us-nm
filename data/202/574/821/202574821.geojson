@@ -2,13 +2,14 @@
   "id": 202574821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.555128,35.074497,-106.555128,35.074497",
     "geom:latitude":35.074497,
     "geom:longitude":-106.555128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8225 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202574821,
-    "wof:lastmodified":1449060095,
+    "wof:lastmodified":1466698009,
     "wof:name":"Central Trailer Supply Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-106.555128,35.074497,-106.555128,35.074497],
+  "bbox": [
+    -106.555128,
+    35.074497,
+    -106.555128,
+    35.074497
+],
   "geometry": {"coordinates":[-106.555128,35.074497],"type":"Point"}
 }

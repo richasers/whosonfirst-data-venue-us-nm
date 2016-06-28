@@ -2,13 +2,14 @@
   "id": 202967719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.610682,31.843211,-106.610682,31.843211",
     "geom:latitude":31.843211,
     "geom:longitude":-106.610682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5434 Santa Teresita Dr",
     "sg:city":"Santa Teresa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202967719,
-    "wof:lastmodified":1449062457,
+    "wof:lastmodified":1466700643,
     "wof:name":"Daves Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.610682,31.843211,-106.610682,31.843211],
+  "bbox": [
+    -106.610682,
+    31.843211,
+    -106.610682,
+    31.843211
+],
   "geometry": {"coordinates":[-106.610682,31.843211],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202400949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.97559,35.661874,-105.97559,35.661874",
     "geom:latitude":35.661874,
     "geom:longitude":-105.97559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 Pinon St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202400949,
-    "wof:lastmodified":1449060362,
+    "wof:lastmodified":1466697948,
     "wof:name":"Palace Landscapes",
     "wof:parent_id":85880779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.97559,35.661874,-105.97559,35.661874],
+  "bbox": [
+    -105.97559,
+    35.661874,
+    -105.97559,
+    35.661874
+],
   "geometry": {"coordinates":[-105.97559,35.661874],"type":"Point"}
 }

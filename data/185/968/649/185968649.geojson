@@ -2,13 +2,14 @@
   "id": 185968649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.56503,31.805088,-106.56503,31.805088",
     "geom:latitude":31.805088,
     "geom:longitude":-106.56503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1249 Futurity Dr",
     "sg:city":"Sunland Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185968649,
-    "wof:lastmodified":1449006698,
+    "wof:lastmodified":1466699436,
     "wof:name":"Western Playland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.56503,31.805088,-106.56503,31.805088],
-  "geometry": {"coordinates":[-106.56503,31.805088],"type":"Point"}
+  "bbox": [
+    -106.56503,
+    31.805088,
+    -106.56503,
+    31.805088
+],
+  "geometry": {"coordinates":[-106.56502999999999,31.805088],"type":"Point"}
 }

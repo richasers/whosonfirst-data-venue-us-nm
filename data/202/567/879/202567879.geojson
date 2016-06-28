@@ -2,13 +2,14 @@
   "id": 202567879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.97222,35.641156,-105.97222,35.641156",
     "geom:latitude":35.641156,
     "geom:longitude":-105.97222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2575 Cam San Patricio",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202567879,
-    "wof:lastmodified":1449062663,
+    "wof:lastmodified":1466697907,
     "wof:name":"Dorothy H Bracey",
     "wof:parent_id":85880775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.97222,35.641156,-105.97222,35.641156],
-  "geometry": {"coordinates":[-105.97222,35.641156],"type":"Point"}
+  "bbox": [
+    -105.97222,
+    35.641156,
+    -105.97222,
+    35.641156
+],
+  "geometry": {"coordinates":[-105.97221999999999,35.641156],"type":"Point"}
 }

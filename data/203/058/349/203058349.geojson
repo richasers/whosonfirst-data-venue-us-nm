@@ -2,13 +2,14 @@
   "id": 203058349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.842231,35.15972,-107.842231,35.15972",
     "geom:latitude":35.15972,
     "geom:longitude":-107.842231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 1st St",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203058349,
-    "wof:lastmodified":1449025214,
+    "wof:lastmodified":1466698216,
     "wof:name":"Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.842231,35.15972,-107.842231,35.15972],
+  "bbox": [
+    -107.842231,
+    35.15972,
+    -107.842231,
+    35.15972
+],
   "geometry": {"coordinates":[-107.842231,35.15972],"type":"Point"}
 }

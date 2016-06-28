@@ -2,13 +2,14 @@
   "id": 202947127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.319524,31.916802,-108.319524,31.916802",
     "geom:latitude":31.916802,
     "geom:longitude":-108.319524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Ave A",
     "sg:city":"Hachita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202947127,
-    "wof:lastmodified":1449061941,
+    "wof:lastmodified":1466700534,
     "wof:name":"Medical Lifting Devices Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "invalid"
     ]
 },
-  "bbox": [-108.319524,31.916802,-108.319524,31.916802],
+  "bbox": [
+    -108.319524,
+    31.916802,
+    -108.319524,
+    31.916802
+],
   "geometry": {"coordinates":[-108.319524,31.916802],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202464193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.206747,36.733797,-108.206747,36.733797",
     "geom:latitude":36.733797,
     "geom:longitude":-108.206747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 N Allen Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202464193,
-    "wof:lastmodified":1449060806,
+    "wof:lastmodified":1466698697,
     "wof:name":"Sacred Heart Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.206747,36.733797,-108.206747,36.733797],
-  "geometry": {"coordinates":[-108.206747,36.733797],"type":"Point"}
+  "bbox": [
+    -108.206747,
+    36.733797,
+    -108.206747,
+    36.733797
+],
+  "geometry": {"coordinates":[-108.20674699999999,36.733797],"type":"Point"}
 }

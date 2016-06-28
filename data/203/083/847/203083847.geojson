@@ -2,13 +2,14 @@
   "id": 203083847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.677587,35.030782,-106.677587,35.030782",
     "geom:latitude":35.030782,
     "geom:longitude":-106.677587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1473 Barcelona Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203083847,
-    "wof:lastmodified":1449025817,
+    "wof:lastmodified":1466698495,
     "wof:name":"Soria Roofing",
     "wof:parent_id":85871863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.677587,35.030782,-106.677587,35.030782],
+  "bbox": [
+    -106.677587,
+    35.030782,
+    -106.677587,
+    35.030782
+],
   "geometry": {"coordinates":[-106.677587,35.030782],"type":"Point"}
 }

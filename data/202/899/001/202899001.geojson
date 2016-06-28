@@ -2,13 +2,14 @@
   "id": 202899001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.74828,32.29873,-106.74828,32.29873",
     "geom:latitude":32.29873,
     "geom:longitude":-106.74828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Gladys Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202899001,
-    "wof:lastmodified":1449062516,
+    "wof:lastmodified":1466700499,
     "wof:name":"Poms and Props of NM",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.74828,32.29873,-106.74828,32.29873],
-  "geometry": {"coordinates":[-106.74828,32.29873],"type":"Point"}
+  "bbox": [
+    -106.74828,
+    32.29873,
+    -106.74828,
+    32.29873
+],
+  "geometry": {"coordinates":[-106.74827999999999,32.29873],"type":"Point"}
 }

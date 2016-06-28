@@ -2,13 +2,14 @@
   "id": 353942159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.573097,35.109217,-106.573097,35.109217",
     "geom:latitude":35.109217,
     "geom:longitude":-106.573097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2602 Florida St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":353942159,
-    "wof:lastmodified":1449019425,
+    "wof:lastmodified":1466698336,
     "wof:name":"St Francis Animal Clinic Ltd",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "kennel"
     ]
 },
-  "bbox": [-106.573097,35.109217,-106.573097,35.109217],
+  "bbox": [
+    -106.573097,
+    35.109217,
+    -106.573097,
+    35.109217
+],
   "geometry": {"coordinates":[-106.573097,35.109217],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186471067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.684178,34.943682,-104.684178,34.943682",
     "geom:latitude":34.943682,
     "geom:longitude":-104.684178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Parker Ave",
     "sg:city":"Santa Rosa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186471067,
-    "wof:lastmodified":1449051447,
+    "wof:lastmodified":1466700253,
     "wof:name":"Tower Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-104.684178,34.943682,-104.684178,34.943682],
+  "bbox": [
+    -104.684178,
+    34.943682,
+    -104.684178,
+    34.943682
+],
   "geometry": {"coordinates":[-104.684178,34.943682],"type":"Point"}
 }

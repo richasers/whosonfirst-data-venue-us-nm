@@ -2,13 +2,14 @@
   "id": 203014515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.630058,35.110877,-106.630058,35.110877",
     "geom:latitude":35.110877,
     "geom:longitude":-106.630058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Broadbent Pkwy NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203014515,
-    "wof:lastmodified":1449025848,
+    "wof:lastmodified":1466697759,
     "wof:name":"Gratings Inc",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "electronic"
     ]
 },
-  "bbox": [-106.630058,35.110877,-106.630058,35.110877],
-  "geometry": {"coordinates":[-106.630058,35.110877],"type":"Point"}
+  "bbox": [
+    -106.630058,
+    35.110877,
+    -106.630058,
+    35.110877
+],
+  "geometry": {"coordinates":[-106.63005800000001,35.110877],"type":"Point"}
 }

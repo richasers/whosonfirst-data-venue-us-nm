@@ -2,13 +2,14 @@
   "id": 202550785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.346931,32.948099,-103.346931,32.948099",
     "geom:latitude":32.948099,
     "geom:longitude":-103.346931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 E Central Ave",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202550785,
-    "wof:lastmodified":1449061484,
+    "wof:lastmodified":1466699387,
     "wof:name":"Lea County Detention Facility",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.346931,32.948099,-103.346931,32.948099],
+  "bbox": [
+    -103.346931,
+    32.948099,
+    -103.346931,
+    32.948099
+],
   "geometry": {"coordinates":[-103.346931,32.948099],"type":"Point"}
 }

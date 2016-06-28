@@ -2,13 +2,14 @@
   "id": 202950789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.182379,32.743954,-103.182379,32.743954",
     "geom:latitude":32.743954,
     "geom:longitude":-103.182379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3504 W Smith Ln",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202950789,
-    "wof:lastmodified":1449061106,
+    "wof:lastmodified":1466700668,
     "wof:name":"J Montoya Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-103.182379,32.743954,-103.182379,32.743954],
+  "bbox": [
+    -103.182379,
+    32.743954,
+    -103.182379,
+    32.743954
+],
   "geometry": {"coordinates":[-103.182379,32.743954],"type":"Point"}
 }

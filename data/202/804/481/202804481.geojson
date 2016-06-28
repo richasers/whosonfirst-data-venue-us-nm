@@ -2,13 +2,14 @@
   "id": 202804481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.505522,33.403475,-104.505522,33.403475",
     "geom:latitude":33.403475,
     "geom:longitude":-104.505522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 N Atkinson Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202804481,
-    "wof:lastmodified":1449061863,
+    "wof:lastmodified":1466699989,
     "wof:name":"Thunderbird Fence Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-104.505522,33.403475,-104.505522,33.403475],
+  "bbox": [
+    -104.505522,
+    33.403475,
+    -104.505522,
+    33.403475
+],
   "geometry": {"coordinates":[-104.505522,33.403475],"type":"Point"}
 }

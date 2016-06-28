@@ -2,13 +2,14 @@
   "id": 186599235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.854719,35.153871,-107.854719,35.153871",
     "geom:latitude":35.153871,
     "geom:longitude":-107.854719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 W High St",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186599235,
-    "wof:lastmodified":1449051622,
+    "wof:lastmodified":1466700627,
     "wof:name":"Mother Whiteside Memorial Lib",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.854719,35.153871,-107.854719,35.153871],
+  "bbox": [
+    -107.854719,
+    35.153871,
+    -107.854719,
+    35.153871
+],
   "geometry": {"coordinates":[-107.854719,35.153871],"type":"Point"}
 }

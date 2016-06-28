@@ -2,13 +2,14 @@
   "id": 353916433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.621101,35.219372,-106.621101,35.219372",
     "geom:latitude":35.219372,
     "geom:longitude":-106.621101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3923 Corrales Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353916433,
-    "wof:lastmodified":1449019660,
+    "wof:lastmodified":1466697654,
     "wof:name":"Quilts Ole",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.621101,35.219372,-106.621101,35.219372],
+  "bbox": [
+    -106.621101,
+    35.219372,
+    -106.621101,
+    35.219372
+],
   "geometry": {"coordinates":[-106.621101,35.219372],"type":"Point"}
 }

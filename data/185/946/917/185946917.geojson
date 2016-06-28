@@ -2,13 +2,14 @@
   "id": 185946917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.782727,32.29547,-106.782727,32.29547",
     "geom:latitude":32.29547,
     "geom:longitude":-106.782727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Ave de Mesilla",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185946917,
-    "wof:lastmodified":1449008031,
+    "wof:lastmodified":1466699172,
     "wof:name":"Soft Creations Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewing"
     ]
 },
-  "bbox": [-106.782727,32.29547,-106.782727,32.29547],
-  "geometry": {"coordinates":[-106.782727,32.29547],"type":"Point"}
+  "bbox": [
+    -106.782727,
+    32.29547,
+    -106.782727,
+    32.29547
+],
+  "geometry": {"coordinates":[-106.78272699999999,32.29547],"type":"Point"}
 }

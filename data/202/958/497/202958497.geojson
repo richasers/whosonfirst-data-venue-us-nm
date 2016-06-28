@@ -2,13 +2,14 @@
   "id": 202958497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.572625,33.545812,-105.572625,33.545812",
     "geom:latitude":33.545812,
     "geom:longitude":-105.572625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 State Hwy 246",
     "sg:city":"Capitan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202958497,
-    "wof:lastmodified":1449062101,
+    "wof:lastmodified":1466700597,
     "wof:name":"Stockman's Feed & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-105.572625,33.545812,-105.572625,33.545812],
+  "bbox": [
+    -105.572625,
+    33.545812,
+    -105.572625,
+    33.545812
+],
   "geometry": {"coordinates":[-105.572625,33.545812],"type":"Point"}
 }

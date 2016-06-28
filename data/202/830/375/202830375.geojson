@@ -2,13 +2,14 @@
   "id": 202830375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.559829,32.791669,-105.559829,32.791669",
     "geom:latitude":32.791669,
     "geom:longitude":-105.559829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Assembly Rd",
     "sg:city":"Sacramento",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202830375,
-    "wof:lastmodified":1449060656,
+    "wof:lastmodified":1466700250,
     "wof:name":"Crossroads Transportation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.559829,32.791669,-105.559829,32.791669],
-  "geometry": {"coordinates":[-105.559829,32.791669],"type":"Point"}
+  "bbox": [
+    -105.559829,
+    32.791669,
+    -105.559829,
+    32.791669
+],
+  "geometry": {"coordinates":[-105.55982899999999,32.791669],"type":"Point"}
 }

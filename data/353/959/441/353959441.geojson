@@ -2,13 +2,14 @@
   "id": 353959441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.654279,35.205717,-106.654279,35.205717",
     "geom:latitude":35.205717,
     "geom:longitude":-106.654279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10320 Cottonwood Park NW B",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353959441,
-    "wof:lastmodified":1449020548,
+    "wof:lastmodified":1466698764,
     "wof:name":"Pmi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "oils-petroleum"
     ]
 },
-  "bbox": [-106.654279,35.205717,-106.654279,35.205717],
+  "bbox": [
+    -106.654279,
+    35.205717,
+    -106.654279,
+    35.205717
+],
   "geometry": {"coordinates":[-106.654279,35.205717],"type":"Point"}
 }

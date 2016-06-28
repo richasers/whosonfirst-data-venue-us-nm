@@ -2,13 +2,14 @@
   "id": 202880319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.250441,33.131348,-107.250441,33.131348",
     "geom:latitude":33.131348,
     "geom:longitude":-107.250441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 N Date St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202880319,
-    "wof:lastmodified":1449062675,
+    "wof:lastmodified":1466700281,
     "wof:name":"Truth Or Consequences Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.250441,33.131348,-107.250441,33.131348],
+  "bbox": [
+    -107.250441,
+    33.131348,
+    -107.250441,
+    33.131348
+],
   "geometry": {"coordinates":[-107.250441,33.131348],"type":"Point"}
 }

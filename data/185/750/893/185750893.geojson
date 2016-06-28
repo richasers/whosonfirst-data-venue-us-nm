@@ -2,13 +2,14 @@
   "id": 185750893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.152207,32.738395,-103.152207,32.738395",
     "geom:latitude":32.738395,
     "geom:longitude":-103.152207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Fairmont Ct",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185750893,
-    "wof:lastmodified":1449007592,
+    "wof:lastmodified":1466699159,
     "wof:name":"Financial Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-103.152207,32.738395,-103.152207,32.738395],
+  "bbox": [
+    -103.152207,
+    32.738395,
+    -103.152207,
+    32.738395
+],
   "geometry": {"coordinates":[-103.152207,32.738395],"type":"Point"}
 }

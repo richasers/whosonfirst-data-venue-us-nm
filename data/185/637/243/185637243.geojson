@@ -2,13 +2,14 @@
   "id": 185637243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.82012,32.311521,-106.82012,32.311521",
     "geom:latitude":32.311521,
     "geom:longitude":-106.82012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2851 W Picacho Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185637243,
-    "wof:lastmodified":1449006594,
+    "wof:lastmodified":1466698005,
     "wof:name":"Axis Logistics",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-106.82012,32.311521,-106.82012,32.311521],
+  "bbox": [
+    -106.82012,
+    32.311521,
+    -106.82012,
+    32.311521
+],
   "geometry": {"coordinates":[-106.82012,32.311521],"type":"Point"}
 }

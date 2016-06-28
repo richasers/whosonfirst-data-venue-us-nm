@@ -2,13 +2,14 @@
   "id": 202653147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.603368,32.020221,-106.603368,32.020221",
     "geom:latitude":32.020221,
     "geom:longitude":-106.603368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 Anthony Dr",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202653147,
-    "wof:lastmodified":1449060295,
+    "wof:lastmodified":1466699181,
     "wof:name":"T & S Pilot Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-106.603368,32.020221,-106.603368,32.020221],
+  "bbox": [
+    -106.603368,
+    32.020221,
+    -106.603368,
+    32.020221
+],
   "geometry": {"coordinates":[-106.603368,32.020221],"type":"Point"}
 }

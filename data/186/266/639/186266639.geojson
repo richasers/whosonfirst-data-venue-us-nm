@@ -2,13 +2,14 @@
   "id": 186266639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.173046,32.752719,-103.173046,32.752719",
     "geom:latitude":32.752719,
     "geom:longitude":-103.173046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4640 N Lovington Hwy",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186266639,
-    "wof:lastmodified":1449050351,
+    "wof:lastmodified":1466698869,
     "wof:name":"Bulldog Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-103.173046,32.752719,-103.173046,32.752719],
+  "bbox": [
+    -103.173046,
+    32.752719,
+    -103.173046,
+    32.752719
+],
   "geometry": {"coordinates":[-103.173046,32.752719],"type":"Point"}
 }

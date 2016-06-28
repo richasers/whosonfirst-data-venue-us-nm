@@ -2,13 +2,14 @@
   "id": 202703529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.388491,35.077291,-106.388491,35.077291",
     "geom:latitude":35.077291,
     "geom:longitude":-106.388491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Pub School Rd",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202703529,
-    "wof:lastmodified":1449060883,
+    "wof:lastmodified":1466699741,
     "wof:name":"A Montoya Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.388491,35.077291,-106.388491,35.077291],
+  "bbox": [
+    -106.388491,
+    35.077291,
+    -106.388491,
+    35.077291
+],
   "geometry": {"coordinates":[-106.388491,35.077291],"type":"Point"}
 }

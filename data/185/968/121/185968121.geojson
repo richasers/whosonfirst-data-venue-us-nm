@@ -2,13 +2,14 @@
   "id": 185968121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.157912,36.721648,-108.157912,36.721648",
     "geom:latitude":36.721648,
     "geom:longitude":-108.157912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451 Browning Pkwy",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185968121,
-    "wof:lastmodified":1449006701,
+    "wof:lastmodified":1466699428,
     "wof:name":"Solitaire Homes Of Farmington",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.157912,36.721648,-108.157912,36.721648],
+  "bbox": [
+    -108.157912,
+    36.721648,
+    -108.157912,
+    36.721648
+],
   "geometry": {"coordinates":[-108.157912,36.721648],"type":"Point"}
 }

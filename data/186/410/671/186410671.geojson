@@ -2,13 +2,14 @@
   "id": 186410671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.34866,32.949532,-103.34866,32.949532",
     "geom:latitude":32.949532,
     "geom:longitude":-103.34866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 N Main Ave",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186410671,
-    "wof:lastmodified":1449050294,
+    "wof:lastmodified":1466699883,
     "wof:name":"Speight June Danglade",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.34866,32.949532,-103.34866,32.949532],
+  "bbox": [
+    -103.34866,
+    32.949532,
+    -103.34866,
+    32.949532
+],
   "geometry": {"coordinates":[-103.34866,32.949532],"type":"Point"}
 }

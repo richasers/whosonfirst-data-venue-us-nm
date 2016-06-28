@@ -2,13 +2,14 @@
   "id": 202739585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.228872,32.43424,-104.228872,32.43424",
     "geom:latitude":32.43424,
     "geom:longitude":-104.228872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1089 N Canal St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202739585,
-    "wof:lastmodified":1449061182,
+    "wof:lastmodified":1466699628,
     "wof:name":"West Star Escrow",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-104.228872,32.43424,-104.228872,32.43424],
+  "bbox": [
+    -104.228872,
+    32.43424,
+    -104.228872,
+    32.43424
+],
   "geometry": {"coordinates":[-104.228872,32.43424],"type":"Point"}
 }

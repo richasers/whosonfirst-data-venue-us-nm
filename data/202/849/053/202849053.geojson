@@ -2,13 +2,14 @@
   "id": 202849053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.925519,35.692028,-105.925519,35.692028",
     "geom:latitude":35.692028,
     "geom:longitude":-105.925519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1399 Hyde Park Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202849053,
-    "wof:lastmodified":1449060573,
+    "wof:lastmodified":1466700171,
     "wof:name":"Santa Fe Institute Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "interest"
     ]
 },
-  "bbox": [-105.925519,35.692028,-105.925519,35.692028],
-  "geometry": {"coordinates":[-105.925519,35.692028],"type":"Point"}
+  "bbox": [
+    -105.925519,
+    35.692028,
+    -105.925519,
+    35.692028
+],
+  "geometry": {"coordinates":[-105.92551899999999,35.692028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169859595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.92251,34.154927,-106.92251,34.154927",
     "geom:latitude":34.154927,
     "geom:longitude":-106.92251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Duke Ln",
     "sg:city":"Lemitar",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":169859595,
-    "wof:lastmodified":1449035046,
+    "wof:lastmodified":1466698936,
     "wof:name":"R and A Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "music"
     ]
 },
-  "bbox": [-106.92251,34.154927,-106.92251,34.154927],
+  "bbox": [
+    -106.92251,
+    34.154927,
+    -106.92251,
+    34.154927
+],
   "geometry": {"coordinates":[-106.92251,34.154927],"type":"Point"}
 }

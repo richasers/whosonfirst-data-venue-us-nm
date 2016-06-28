@@ -2,13 +2,14 @@
   "id": 353924375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.667835,35.058941,-106.667835,35.058941",
     "geom:latitude":35.058941,
     "geom:longitude":-106.667835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"728 Isleta Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353924375,
-    "wof:lastmodified":1449018974,
+    "wof:lastmodified":1466697849,
     "wof:name":"Viking Refrigeration",
     "wof:parent_id":85803573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-106.667835,35.058941,-106.667835,35.058941],
+  "bbox": [
+    -106.667835,
+    35.058941,
+    -106.667835,
+    35.058941
+],
   "geometry": {"coordinates":[-106.667835,35.058941],"type":"Point"}
 }

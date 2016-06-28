@@ -2,13 +2,14 @@
   "id": 202605227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.317714,34.248,-103.317714,34.248",
     "geom:latitude":34.248,
     "geom:longitude":-103.317714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"228 New Mexico 467",
     "sg:city":"Portales",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202605227,
-    "wof:lastmodified":1449061368,
+    "wof:lastmodified":1466698451,
     "wof:name":"Brooks Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-103.317714,34.248,-103.317714,34.248],
+  "bbox": [
+    -103.317714,
+    34.248,
+    -103.317714,
+    34.248
+],
   "geometry": {"coordinates":[-103.317714,34.248],"type":"Point"}
 }

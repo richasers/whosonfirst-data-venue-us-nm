@@ -2,13 +2,14 @@
   "id": 185973223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.167574,35.170882,-106.167574,35.170882",
     "geom:latitude":35.170882,
     "geom:longitude":-106.167574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"886 State Rd 344",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185973223,
-    "wof:lastmodified":1449007576,
+    "wof:lastmodified":1466699575,
     "wof:name":"Melanie McMurry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "animal"
     ]
 },
-  "bbox": [-106.167574,35.170882,-106.167574,35.170882],
+  "bbox": [
+    -106.167574,
+    35.170882,
+    -106.167574,
+    35.170882
+],
   "geometry": {"coordinates":[-106.167574,35.170882],"type":"Point"}
 }

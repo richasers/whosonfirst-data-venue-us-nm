@@ -2,13 +2,14 @@
   "id": 186160559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.949114,35.667326,-105.949114,35.667326",
     "geom:latitude":35.667326,
     "geom:longitude":-105.949114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 Mira-Cerros Ln S",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186160559,
-    "wof:lastmodified":1449052580,
+    "wof:lastmodified":1466699354,
     "wof:name":"Dennis R Cole",
     "wof:parent_id":85880837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-105.949114,35.667326,-105.949114,35.667326],
-  "geometry": {"coordinates":[-105.949114,35.667326],"type":"Point"}
+  "bbox": [
+    -105.949114,
+    35.667326,
+    -105.949114,
+    35.667326
+],
+  "geometry": {"coordinates":[-105.94911399999999,35.667326],"type":"Point"}
 }

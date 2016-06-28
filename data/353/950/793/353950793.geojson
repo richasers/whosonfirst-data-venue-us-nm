@@ -2,13 +2,14 @@
   "id": 353950793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.524513,35.130741,-106.524513,35.130741",
     "geom:latitude":35.130741,
     "geom:longitude":-106.524513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10401 Montgomery Pkwy NE #102",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353950793,
-    "wof:lastmodified":1449019265,
+    "wof:lastmodified":1466698595,
     "wof:name":"Spine Centers Of New Mexico",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-106.524513,35.130741,-106.524513,35.130741],
+  "bbox": [
+    -106.524513,
+    35.130741,
+    -106.524513,
+    35.130741
+],
   "geometry": {"coordinates":[-106.524513,35.130741],"type":"Point"}
 }

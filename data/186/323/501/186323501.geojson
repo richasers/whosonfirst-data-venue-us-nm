@@ -2,13 +2,14 @@
   "id": 186323501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.603451,35.147391,-106.603451,35.147391",
     "geom:latitude":35.147391,
     "geom:longitude":-106.603451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5840 Midway Park Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186323501,
-    "wof:lastmodified":1449050478,
+    "wof:lastmodified":1466699569,
     "wof:name":"Titan Corp",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-106.603451,35.147391,-106.603451,35.147391],
-  "geometry": {"coordinates":[-106.603451,35.147391],"type":"Point"}
+  "bbox": [
+    -106.603451,
+    35.147391,
+    -106.603451,
+    35.147391
+],
+  "geometry": {"coordinates":[-106.60345100000001,35.147391],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186453347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.650466,35.083309,-106.650466,35.083309",
     "geom:latitude":35.083309,
     "geom:longitude":-106.650466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Gold Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186453347,
-    "wof:lastmodified":1449052353,
+    "wof:lastmodified":1466699958,
     "wof:name":"National Institute-Flamenco",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-106.650466,35.083309,-106.650466,35.083309],
-  "geometry": {"coordinates":[-106.650466,35.083309],"type":"Point"}
+  "bbox": [
+    -106.650466,
+    35.083309,
+    -106.650466,
+    35.083309
+],
+  "geometry": {"coordinates":[-106.65046599999999,35.083309],"type":"Point"}
 }

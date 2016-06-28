@@ -2,13 +2,14 @@
   "id": 337285715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.625888,35.168412,-106.625888,35.168412",
     "geom:latitude":35.168412,
     "geom:longitude":-106.625888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Daniel Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337285715,
-    "wof:lastmodified":1449026958,
+    "wof:lastmodified":1466697730,
     "wof:name":"Root Down DJ Svc",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-106.625888,35.168412,-106.625888,35.168412],
+  "bbox": [
+    -106.625888,
+    35.168412,
+    -106.625888,
+    35.168412
+],
   "geometry": {"coordinates":[-106.625888,35.168412],"type":"Point"}
 }

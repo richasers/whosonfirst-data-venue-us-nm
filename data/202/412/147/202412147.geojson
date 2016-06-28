@@ -2,13 +2,14 @@
   "id": 202412147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.047807,34.390684,-103.047807,34.390684",
     "geom:latitude":34.390684,
     "geom:longitude":-103.047807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N Anderson St",
     "sg:city":"Texico",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202412147,
-    "wof:lastmodified":1449060629,
+    "wof:lastmodified":1466698100,
     "wof:name":"Texico Assembly Of God Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-103.047807,34.390684,-103.047807,34.390684],
-  "geometry": {"coordinates":[-103.047807,34.390684],"type":"Point"}
+  "bbox": [
+    -103.047807,
+    34.390684,
+    -103.047807,
+    34.390684
+],
+  "geometry": {"coordinates":[-103.04780700000001,34.390684],"type":"Point"}
 }

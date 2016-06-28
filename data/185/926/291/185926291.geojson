@@ -2,13 +2,14 @@
   "id": 185926291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.602269,32.961736,-108.602269,32.961736",
     "geom:latitude":32.961736,
     "geom:longitude":-108.602269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Goble Rd",
     "sg:city":"Cliff",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185926291,
-    "wof:lastmodified":1449007150,
+    "wof:lastmodified":1466698896,
     "wof:name":"Lighting Protection Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "lightning"
     ]
 },
-  "bbox": [-108.602269,32.961736,-108.602269,32.961736],
-  "geometry": {"coordinates":[-108.602269,32.961736],"type":"Point"}
+  "bbox": [
+    -108.602269,
+    32.961736,
+    -108.602269,
+    32.961736
+],
+  "geometry": {"coordinates":[-108.60226900000001,32.961736],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202630137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.301539,32.773875,-108.301539,32.773875",
     "geom:latitude":32.773875,
     "geom:longitude":-108.301539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Sandalwood Ave",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202630137,
-    "wof:lastmodified":1449061013,
+    "wof:lastmodified":1466698835,
     "wof:name":"Darlene Meza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-108.301539,32.773875,-108.301539,32.773875],
-  "geometry": {"coordinates":[-108.301539,32.773875],"type":"Point"}
+  "bbox": [
+    -108.301539,
+    32.773875,
+    -108.301539,
+    32.773875
+],
+  "geometry": {"coordinates":[-108.30153900000001,32.773875],"type":"Point"}
 }

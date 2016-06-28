@@ -2,13 +2,14 @@
   "id": 353930977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.620362,35.114736,-106.620362,35.114736",
     "geom:latitude":35.114736,
     "geom:longitude":-106.620362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3018 Princeton Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -78,10 +79,11 @@
         }
     ],
     "wof:id":353930977,
-    "wof:lastmodified":1449019081,
+    "wof:lastmodified":1466698032,
     "wof:name":"Precision Sharpening Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "saws-sharpen"
     ]
 },
-  "bbox": [-106.620362,35.114736,-106.620362,35.114736],
+  "bbox": [
+    -106.620362,
+    35.114736,
+    -106.620362,
+    35.114736
+],
   "geometry": {"coordinates":[-106.620362,35.114736],"type":"Point"}
 }

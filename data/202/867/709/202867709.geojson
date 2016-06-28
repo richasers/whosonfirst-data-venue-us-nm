@@ -2,13 +2,14 @@
   "id": 202867709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.0494,34.99151,-106.0494,34.99151",
     "geom:latitude":34.99151,
     "geom:longitude":-106.0494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 4th St",
     "sg:city":"Moriarty",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202867709,
-    "wof:lastmodified":1449061213,
+    "wof:lastmodified":1466700258,
     "wof:name":"All Around Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-106.0494,34.99151,-106.0494,34.99151],
-  "geometry": {"coordinates":[-106.0494,34.99151],"type":"Point"}
+  "bbox": [
+    -106.0494,
+    34.99151,
+    -106.0494,
+    34.99151
+],
+  "geometry": {"coordinates":[-106.04940000000001,34.99151],"type":"Point"}
 }

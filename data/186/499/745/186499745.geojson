@@ -2,13 +2,14 @@
   "id": 186499745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.64494,35.081743,-106.64494,35.081743",
     "geom:latitude":35.081743,
     "geom:longitude":-106.64494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Broadway Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186499745,
-    "wof:lastmodified":1449050916,
+    "wof:lastmodified":1466700223,
     "wof:name":"Mahlman & Miles Architects",
     "wof:parent_id":85871877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.64494,35.081743,-106.64494,35.081743],
-  "geometry": {"coordinates":[-106.64494,35.081743],"type":"Point"}
+  "bbox": [
+    -106.64494,
+    35.081743,
+    -106.64494,
+    35.081743
+],
+  "geometry": {"coordinates":[-106.64494000000001,35.081743],"type":"Point"}
 }

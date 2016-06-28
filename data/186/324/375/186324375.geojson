@@ -2,13 +2,14 @@
   "id": 186324375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.165894,36.758948,-108.165894,36.758948",
     "geom:latitude":36.758948,
     "geom:longitude":-108.165894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3012 Centenary Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186324375,
-    "wof:lastmodified":1449051935,
+    "wof:lastmodified":1466699569,
     "wof:name":"A Portable Welding Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-108.165894,36.758948,-108.165894,36.758948],
-  "geometry": {"coordinates":[-108.165894,36.758948],"type":"Point"}
+  "bbox": [
+    -108.165894,
+    36.758948,
+    -108.165894,
+    36.758948
+],
+  "geometry": {"coordinates":[-108.16589399999999,36.758948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203019605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.737455,32.304415,-106.737455,32.304415",
     "geom:latitude":32.304415,
     "geom:longitude":-106.737455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2919 Hillrise Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203019605,
-    "wof:lastmodified":1449026039,
+    "wof:lastmodified":1466697816,
     "wof:name":"Southwest Health Svc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.737455,32.304415,-106.737455,32.304415],
+  "bbox": [
+    -106.737455,
+    32.304415,
+    -106.737455,
+    32.304415
+],
   "geometry": {"coordinates":[-106.737455,32.304415],"type":"Point"}
 }

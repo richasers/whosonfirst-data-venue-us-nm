@@ -2,13 +2,14 @@
   "id": 186600041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.650552,35.090163,-106.650552,35.090163",
     "geom:latitude":35.090163,
     "geom:longitude":-106.650552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186600041,
-    "wof:lastmodified":1449050485,
+    "wof:lastmodified":1466700627,
     "wof:name":"Paul Baca Court Reporters",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "reporter"
     ]
 },
-  "bbox": [-106.650552,35.090163,-106.650552,35.090163],
+  "bbox": [
+    -106.650552,
+    35.090163,
+    -106.650552,
+    35.090163
+],
   "geometry": {"coordinates":[-106.650552,35.090163],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353980981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.183862,34.396662,-103.183862,34.396662",
     "geom:latitude":34.396662,
     "geom:longitude":-103.183862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 Mabry Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353980981,
-    "wof:lastmodified":1449018434,
+    "wof:lastmodified":1466699102,
     "wof:name":"Americas Best Value Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-103.183862,34.396662,-103.183862,34.396662],
+  "bbox": [
+    -103.183862,
+    34.396662,
+    -103.183862,
+    34.396662
+],
   "geometry": {"coordinates":[-103.183862,34.396662],"type":"Point"}
 }

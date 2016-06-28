@@ -2,13 +2,14 @@
   "id": 185645371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.750502,32.288022,-106.750502,32.288022",
     "geom:latitude":32.288022,
     "geom:longitude":-106.750502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 Jordan Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185645371,
-    "wof:lastmodified":1449006778,
+    "wof:lastmodified":1466698080,
     "wof:name":"Methodist Student Ctr-Wesley",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.750502,32.288022,-106.750502,32.288022],
+  "bbox": [
+    -106.750502,
+    32.288022,
+    -106.750502,
+    32.288022
+],
   "geometry": {"coordinates":[-106.750502,32.288022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186527003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.823751,32.320319,-106.823751,32.320319",
     "geom:latitude":32.320319,
     "geom:longitude":-106.823751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3304 Winterhaven Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186527003,
-    "wof:lastmodified":1449052455,
+    "wof:lastmodified":1466700454,
     "wof:name":"Crime & Death Scene Clean Up",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-106.823751,32.320319,-106.823751,32.320319],
+  "bbox": [
+    -106.823751,
+    32.320319,
+    -106.823751,
+    32.320319
+],
   "geometry": {"coordinates":[-106.823751,32.320319],"type":"Point"}
 }

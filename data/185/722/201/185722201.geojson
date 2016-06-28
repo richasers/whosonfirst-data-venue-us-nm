@@ -2,13 +2,14 @@
   "id": 185722201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.59354,35.051169,-106.59354,35.051169",
     "geom:latitude":35.051169,
     "geom:longitude":-106.59354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Randolph Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185722201,
-    "wof:lastmodified":1449007155,
+    "wof:lastmodified":1466699439,
     "wof:name":"Document Automation & Prod Svc",
     "wof:parent_id":85871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-106.59354,35.051169,-106.59354,35.051169],
+  "bbox": [
+    -106.59354,
+    35.051169,
+    -106.59354,
+    35.051169
+],
   "geometry": {"coordinates":[-106.59354,35.051169],"type":"Point"}
 }

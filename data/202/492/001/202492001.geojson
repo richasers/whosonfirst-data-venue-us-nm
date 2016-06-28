@@ -2,13 +2,14 @@
   "id": 202492001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.694076,35.210452,-106.694076,35.210452",
     "geom:latitude":35.210452,
     "geom:longitude":-106.694076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10609 Monte Rosso Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202492001,
-    "wof:lastmodified":1449060108,
+    "wof:lastmodified":1466699457,
     "wof:name":"Jaken Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.694076,35.210452,-106.694076,35.210452],
+  "bbox": [
+    -106.694076,
+    35.210452,
+    -106.694076,
+    35.210452
+],
   "geometry": {"coordinates":[-106.694076,35.210452],"type":"Point"}
 }

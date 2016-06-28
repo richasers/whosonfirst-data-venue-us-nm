@@ -2,13 +2,14 @@
   "id": 169787793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.140504,32.684135,-103.140504,32.684135",
     "geom:latitude":32.684135,
     "geom:longitude":-103.140504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 W Castle Ave",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169787793,
-    "wof:lastmodified":1449034164,
+    "wof:lastmodified":1466698413,
     "wof:name":"Ace Inspection Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "well"
     ]
 },
-  "bbox": [-103.140504,32.684135,-103.140504,32.684135],
-  "geometry": {"coordinates":[-103.140504,32.684135],"type":"Point"}
+  "bbox": [
+    -103.140504,
+    32.684135,
+    -103.140504,
+    32.684135
+],
+  "geometry": {"coordinates":[-103.14050400000001,32.684135],"type":"Point"}
 }

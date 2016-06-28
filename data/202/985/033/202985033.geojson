@@ -2,13 +2,14 @@
   "id": 202985033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638012,35.240298,-106.638012,35.240298",
     "geom:latitude":35.240298,
     "geom:longitude":-106.638012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"531 Valle Vista Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202985033,
-    "wof:lastmodified":1449061378,
+    "wof:lastmodified":1466700622,
     "wof:name":"Kenneth M Janis MD Inc",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-106.638012,35.240298,-106.638012,35.240298],
+  "bbox": [
+    -106.638012,
+    35.240298,
+    -106.638012,
+    35.240298
+],
   "geometry": {"coordinates":[-106.638012,35.240298],"type":"Point"}
 }

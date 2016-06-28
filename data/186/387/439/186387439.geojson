@@ -2,13 +2,14 @@
   "id": 186387439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.676951,33.336469,-105.676951,33.336469",
     "geom:latitude":33.336469,
     "geom:longitude":-105.676951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Mechem Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186387439,
-    "wof:lastmodified":1449052653,
+    "wof:lastmodified":1466699922,
     "wof:name":"Prime Source Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-105.676951,33.336469,-105.676951,33.336469],
+  "bbox": [
+    -105.676951,
+    33.336469,
+    -105.676951,
+    33.336469
+],
   "geometry": {"coordinates":[-105.676951,33.336469],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202396989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.533208,33.408061,-104.533208,33.408061",
     "geom:latitude":33.408061,
     "geom:longitude":-104.533208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 W 14th St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202396989,
-    "wof:lastmodified":1449061750,
+    "wof:lastmodified":1466697894,
     "wof:name":"Candelaria Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.533208,33.408061,-104.533208,33.408061],
+  "bbox": [
+    -104.533208,
+    33.408061,
+    -104.533208,
+    33.408061
+],
   "geometry": {"coordinates":[-104.533208,33.408061],"type":"Point"}
 }

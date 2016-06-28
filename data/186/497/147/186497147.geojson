@@ -2,13 +2,14 @@
   "id": 186497147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.993191,35.658899,-105.993191,35.658899",
     "geom:latitude":35.658899,
     "geom:longitude":-105.993191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1233 Siler Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186497147,
-    "wof:lastmodified":1449053001,
+    "wof:lastmodified":1466700305,
     "wof:name":"Roller Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-105.993191,35.658899,-105.993191,35.658899],
+  "bbox": [
+    -105.993191,
+    35.658899,
+    -105.993191,
+    35.658899
+],
   "geometry": {"coordinates":[-105.993191,35.658899],"type":"Point"}
 }

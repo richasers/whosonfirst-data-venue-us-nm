@@ -2,13 +2,14 @@
   "id": 186276009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.951588,35.667864,-105.951588,35.667864",
     "geom:latitude":35.667864,
     "geom:longitude":-105.951588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Luisa Ct",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186276009,
-    "wof:lastmodified":1449050373,
+    "wof:lastmodified":1466699003,
     "wof:name":"Computer Current",
     "wof:parent_id":85880837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.951588,35.667864,-105.951588,35.667864],
+  "bbox": [
+    -105.951588,
+    35.667864,
+    -105.951588,
+    35.667864
+],
   "geometry": {"coordinates":[-105.951588,35.667864],"type":"Point"}
 }

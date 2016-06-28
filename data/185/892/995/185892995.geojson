@@ -2,13 +2,14 @@
   "id": 185892995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.147242,32.730947,-103.147242,32.730947",
     "geom:latitude":32.730947,
     "geom:longitude":-103.147242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 W Gold Ave",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185892995,
-    "wof:lastmodified":1449006845,
+    "wof:lastmodified":1466698442,
     "wof:name":"Pruett Construction & Interior",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.147242,32.730947,-103.147242,32.730947],
-  "geometry": {"coordinates":[-103.147242,32.730947],"type":"Point"}
+  "bbox": [
+    -103.147242,
+    32.730947,
+    -103.147242,
+    32.730947
+],
+  "geometry": {"coordinates":[-103.14724200000001,32.730947],"type":"Point"}
 }

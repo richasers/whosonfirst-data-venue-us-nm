@@ -2,13 +2,14 @@
   "id": 202709947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.485789,35.176198,-106.485789,35.176198",
     "geom:latitude":35.176198,
     "geom:longitude":-106.485789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"332 White Oaks Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202709947,
-    "wof:lastmodified":1449060618,
+    "wof:lastmodified":1466699641,
     "wof:name":"Twining Drilling Corporation",
     "wof:parent_id":85868999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "drilling"
     ]
 },
-  "bbox": [-106.485789,35.176198,-106.485789,35.176198],
+  "bbox": [
+    -106.485789,
+    35.176198,
+    -106.485789,
+    35.176198
+],
   "geometry": {"coordinates":[-106.485789,35.176198],"type":"Point"}
 }

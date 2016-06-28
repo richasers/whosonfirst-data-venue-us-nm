@@ -2,13 +2,14 @@
   "id": 202842033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.773706,32.329858,-106.773706,32.329858",
     "geom:latitude":32.329858,
     "geom:longitude":-106.773706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 E Madrid Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202842033,
-    "wof:lastmodified":1449060299,
+    "wof:lastmodified":1466700148,
     "wof:name":"Burger Nook",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.773706,32.329858,-106.773706,32.329858],
+  "bbox": [
+    -106.773706,
+    32.329858,
+    -106.773706,
+    32.329858
+],
   "geometry": {"coordinates":[-106.773706,32.329858],"type":"Point"}
 }

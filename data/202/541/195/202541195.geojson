@@ -2,13 +2,14 @@
   "id": 202541195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.265371,33.139335,-107.265371,33.139335",
     "geom:latitude":33.139335,
     "geom:longitude":-107.265371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Sierra Vista Dr",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202541195,
-    "wof:lastmodified":1449060388,
+    "wof:lastmodified":1466699309,
     "wof:name":"Cafe Rio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.265371,33.139335,-107.265371,33.139335],
+  "bbox": [
+    -107.265371,
+    33.139335,
+    -107.265371,
+    33.139335
+],
   "geometry": {"coordinates":[-107.265371,33.139335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186182105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.617076,35.073595,-106.617076,35.073595",
     "geom:latitude":35.073595,
     "geom:longitude":-106.617076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2502 Garfield Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186182105,
-    "wof:lastmodified":1449052070,
+    "wof:lastmodified":1466697793,
     "wof:name":"Garfield Office Buildings",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parks"
     ]
 },
-  "bbox": [-106.617076,35.073595,-106.617076,35.073595],
+  "bbox": [
+    -106.617076,
+    35.073595,
+    -106.617076,
+    35.073595
+],
   "geometry": {"coordinates":[-106.617076,35.073595],"type":"Point"}
 }

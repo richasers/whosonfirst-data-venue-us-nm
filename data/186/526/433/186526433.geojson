@@ -2,13 +2,14 @@
   "id": 186526433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.054214,36.768259,-108.054214,36.768259",
     "geom:latitude":36.768259,
     "geom:longitude":-108.054214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"332 Rd 3100",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186526433,
-    "wof:lastmodified":1449051195,
+    "wof:lastmodified":1466700315,
     "wof:name":"Chevron Texaco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "producer"
     ]
 },
-  "bbox": [-108.054214,36.768259,-108.054214,36.768259],
+  "bbox": [
+    -108.054214,
+    36.768259,
+    -108.054214,
+    36.768259
+],
   "geometry": {"coordinates":[-108.054214,36.768259],"type":"Point"}
 }

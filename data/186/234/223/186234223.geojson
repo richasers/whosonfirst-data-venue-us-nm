@@ -2,13 +2,14 @@
   "id": 186234223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.258883,32.436126,-104.258883,32.436126",
     "geom:latitude":32.436126,
     "geom:longitude":-104.258883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 N 8th St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186234223,
-    "wof:lastmodified":1449052889,
+    "wof:lastmodified":1466698453,
     "wof:name":"Salcidos Stucco & Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.258883,32.436126,-104.258883,32.436126],
+  "bbox": [
+    -104.258883,
+    32.436126,
+    -104.258883,
+    32.436126
+],
   "geometry": {"coordinates":[-104.258883,32.436126],"type":"Point"}
 }

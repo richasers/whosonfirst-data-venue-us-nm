@@ -2,13 +2,14 @@
   "id": 202483905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.551917,36.392775,-105.551917,36.392775",
     "geom:latitude":36.392775,
     "geom:longitude":-105.551917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 Cam del Monte",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202483905,
-    "wof:lastmodified":1449062118,
+    "wof:lastmodified":1466699015,
     "wof:name":"Regulation & Licensing Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "inspection"
     ]
 },
-  "bbox": [-105.551917,36.392775,-105.551917,36.392775],
+  "bbox": [
+    -105.551917,
+    36.392775,
+    -105.551917,
+    36.392775
+],
   "geometry": {"coordinates":[-105.551917,36.392775],"type":"Point"}
 }

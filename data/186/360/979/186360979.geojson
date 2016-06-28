@@ -2,13 +2,14 @@
   "id": 186360979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.787839,34.670643,-106.787839,34.670643",
     "geom:latitude":34.670643,
     "geom:longitude":-106.787839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1623 Joan St",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186360979,
-    "wof:lastmodified":1449052392,
+    "wof:lastmodified":1466699585,
     "wof:name":"New Mexico Mobility Providers",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.787839,34.670643,-106.787839,34.670643],
-  "geometry": {"coordinates":[-106.787839,34.670643],"type":"Point"}
+  "bbox": [
+    -106.787839,
+    34.670643,
+    -106.787839,
+    34.670643
+],
+  "geometry": {"coordinates":[-106.78783900000001,34.670643],"type":"Point"}
 }

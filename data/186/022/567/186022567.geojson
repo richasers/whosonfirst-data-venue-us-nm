@@ -2,13 +2,14 @@
   "id": 186022567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.933539,35.68792,-105.933539,35.68792",
     "geom:latitude":35.68792,
     "geom:longitude":-105.933539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 Pso de Peralta",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186022567,
-    "wof:lastmodified":1449051284,
+    "wof:lastmodified":1466697940,
     "wof:name":"You Are Never Alone",
     "wof:parent_id":85880807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.933539,35.68792,-105.933539,35.68792],
+  "bbox": [
+    -105.933539,
+    35.68792,
+    -105.933539,
+    35.68792
+],
   "geometry": {"coordinates":[-105.933539,35.68792],"type":"Point"}
 }

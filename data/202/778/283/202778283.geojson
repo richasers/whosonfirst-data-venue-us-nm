@@ -2,13 +2,14 @@
   "id": 202778283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.964078,32.89952,-105.964078,32.89952",
     "geom:latitude":32.89952,
     "geom:longitude":-105.964078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W 10th St",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202778283,
-    "wof:lastmodified":1449060152,
+    "wof:lastmodified":1466699764,
     "wof:name":"Sign Art Commercial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.964078,32.89952,-105.964078,32.89952],
+  "bbox": [
+    -105.964078,
+    32.89952,
+    -105.964078,
+    32.89952
+],
   "geometry": {"coordinates":[-105.964078,32.89952],"type":"Point"}
 }

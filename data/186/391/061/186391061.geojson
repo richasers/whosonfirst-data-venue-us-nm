@@ -2,13 +2,14 @@
   "id": 186391061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.158896,36.758884,-108.158896,36.758884",
     "geom:latitude":36.758884,
     "geom:longitude":-108.158896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3535 E 30th St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186391061,
-    "wof:lastmodified":1449052097,
+    "wof:lastmodified":1466699805,
     "wof:name":"New Mexico Commission For The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resource"
     ]
 },
-  "bbox": [-108.158896,36.758884,-108.158896,36.758884],
+  "bbox": [
+    -108.158896,
+    36.758884,
+    -108.158896,
+    36.758884
+],
   "geometry": {"coordinates":[-108.158896,36.758884],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186583351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.976079,35.638209,-105.976079,35.638209",
     "geom:latitude":35.638209,
     "geom:longitude":-105.976079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2715 Ave del Sol",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186583351,
-    "wof:lastmodified":1449052447,
+    "wof:lastmodified":1466700464,
     "wof:name":"G C Cadd Services Inc",
     "wof:parent_id":85880829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drafting"
     ]
 },
-  "bbox": [-105.976079,35.638209,-105.976079,35.638209],
+  "bbox": [
+    -105.976079,
+    35.638209,
+    -105.976079,
+    35.638209
+],
   "geometry": {"coordinates":[-105.976079,35.638209],"type":"Point"}
 }

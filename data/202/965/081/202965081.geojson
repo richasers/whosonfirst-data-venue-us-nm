@@ -2,13 +2,14 @@
   "id": 202965081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.533372,35.127022,-106.533372,35.127022",
     "geom:latitude":35.127022,
     "geom:longitude":-106.533372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202965081,
-    "wof:lastmodified":1449061866,
+    "wof:lastmodified":1466700512,
     "wof:name":"Moore David T DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.533372,35.127022,-106.533372,35.127022],
+  "bbox": [
+    -106.533372,
+    35.127022,
+    -106.533372,
+    35.127022
+],
   "geometry": {"coordinates":[-106.533372,35.127022],"type":"Point"}
 }

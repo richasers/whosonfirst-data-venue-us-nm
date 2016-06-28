@@ -2,13 +2,14 @@
   "id": 186623501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.227249,35.591653,-105.227249,35.591653",
     "geom:latitude":35.591653,
     "geom:longitude":-105.227249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Moreno St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186623501,
-    "wof:lastmodified":1449052241,
+    "wof:lastmodified":1466700607,
     "wof:name":"Las Vegas Police Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "protection"
     ]
 },
-  "bbox": [-105.227249,35.591653,-105.227249,35.591653],
+  "bbox": [
+    -105.227249,
+    35.591653,
+    -105.227249,
+    35.591653
+],
   "geometry": {"coordinates":[-105.227249,35.591653],"type":"Point"}
 }

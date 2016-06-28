@@ -2,13 +2,14 @@
   "id": 186606445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.709423,35.211183,-106.709423,35.211183",
     "geom:latitude":35.211183,
     "geom:longitude":-106.709423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6104 Cyonus Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186606445,
-    "wof:lastmodified":1449050806,
+    "wof:lastmodified":1466700649,
     "wof:name":"Blanca A Pedigo Child Care Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.709423,35.211183,-106.709423,35.211183],
+  "bbox": [
+    -106.709423,
+    35.211183,
+    -106.709423,
+    35.211183
+],
   "geometry": {"coordinates":[-106.709423,35.211183],"type":"Point"}
 }

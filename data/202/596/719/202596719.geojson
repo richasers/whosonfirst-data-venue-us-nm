@@ -2,13 +2,14 @@
   "id": 202596719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.691215,34.868686,-106.691215,34.868686",
     "geom:latitude":34.868686,
     "geom:longitude":-106.691215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Bosque Farms Blvd",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202596719,
-    "wof:lastmodified":1449061415,
+    "wof:lastmodified":1466698337,
     "wof:name":"Jerky Store & Gift Shop",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parcel"
     ]
 },
-  "bbox": [-106.691215,34.868686,-106.691215,34.868686],
+  "bbox": [
+    -106.691215,
+    34.868686,
+    -106.691215,
+    34.868686
+],
   "geometry": {"coordinates":[-106.691215,34.868686],"type":"Point"}
 }

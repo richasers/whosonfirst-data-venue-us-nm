@@ -2,13 +2,14 @@
   "id": 203059545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.627391,35.122515,-106.627391,35.122515",
     "geom:latitude":35.122515,
     "geom:longitude":-106.627391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Rankin Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":203059545,
-    "wof:lastmodified":1449025425,
+    "wof:lastmodified":1466698233,
     "wof:name":"Relios Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.627391,35.122515,-106.627391,35.122515],
+  "bbox": [
+    -106.627391,
+    35.122515,
+    -106.627391,
+    35.122515
+],
   "geometry": {"coordinates":[-106.627391,35.122515],"type":"Point"}
 }

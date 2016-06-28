@@ -2,13 +2,14 @@
   "id": 202797681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.19642,34.431261,-103.19642,34.431261",
     "geom:latitude":34.431261,
     "geom:longitude":-103.19642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3211 N Prince St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202797681,
-    "wof:lastmodified":1449062399,
+    "wof:lastmodified":1466700072,
     "wof:name":"Pioneer Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-103.19642,34.431261,-103.19642,34.431261],
+  "bbox": [
+    -103.19642,
+    34.431261,
+    -103.19642,
+    34.431261
+],
   "geometry": {"coordinates":[-103.19642,34.431261],"type":"Point"}
 }

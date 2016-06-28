@@ -2,13 +2,14 @@
   "id": 202446561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.194196,36.761873,-108.194196,36.761873",
     "geom:latitude":36.761873,
     "geom:longitude":-108.194196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3804 San Medina Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202446561,
-    "wof:lastmodified":1449062439,
+    "wof:lastmodified":1466698503,
     "wof:name":"Creative Visions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "seminar"
     ]
 },
-  "bbox": [-108.194196,36.761873,-108.194196,36.761873],
-  "geometry": {"coordinates":[-108.194196,36.761873],"type":"Point"}
+  "bbox": [
+    -108.194196,
+    36.761873,
+    -108.194196,
+    36.761873
+],
+  "geometry": {"coordinates":[-108.19419600000001,36.761873],"type":"Point"}
 }

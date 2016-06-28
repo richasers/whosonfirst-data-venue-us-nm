@@ -2,13 +2,14 @@
   "id": 186563711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.33124,36.735246,-108.33124,36.735246",
     "geom:latitude":36.735246,
     "geom:longitude":-108.33124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4354 US Hwy 64",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186563711,
-    "wof:lastmodified":1449050299,
+    "wof:lastmodified":1466700515,
     "wof:name":"Wagon Wheel Pawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-108.33124,36.735246,-108.33124,36.735246],
-  "geometry": {"coordinates":[-108.33124,36.735246],"type":"Point"}
+  "bbox": [
+    -108.33124,
+    36.735246,
+    -108.33124,
+    36.735246
+],
+  "geometry": {"coordinates":[-108.33123999999999,36.735246],"type":"Point"}
 }

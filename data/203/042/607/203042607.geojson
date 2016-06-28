@@ -2,13 +2,14 @@
   "id": 203042607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.136213,32.707091,-103.136213,32.707091",
     "geom:latitude":32.707091,
     "geom:longitude":-103.136213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 N Turner St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203042607,
-    "wof:lastmodified":1449026381,
+    "wof:lastmodified":1466698063,
     "wof:name":"Audie's Copier Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "copying"
     ]
 },
-  "bbox": [-103.136213,32.707091,-103.136213,32.707091],
+  "bbox": [
+    -103.136213,
+    32.707091,
+    -103.136213,
+    32.707091
+],
   "geometry": {"coordinates":[-103.136213,32.707091],"type":"Point"}
 }

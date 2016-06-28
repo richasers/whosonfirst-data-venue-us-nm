@@ -2,13 +2,14 @@
   "id": 353916097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.614832,35.228713,-106.614832,35.228713",
     "geom:latitude":35.228713,
     "geom:longitude":-106.614832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Perea Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353916097,
-    "wof:lastmodified":1449019662,
+    "wof:lastmodified":1466697647,
     "wof:name":"Inn the Village",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-106.614832,35.228713,-106.614832,35.228713],
-  "geometry": {"coordinates":[-106.614832,35.228713],"type":"Point"}
+  "bbox": [
+    -106.614832,
+    35.228713,
+    -106.614832,
+    35.228713
+],
+  "geometry": {"coordinates":[-106.61483200000001,35.228713],"type":"Point"}
 }

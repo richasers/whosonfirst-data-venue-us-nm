@@ -2,13 +2,14 @@
   "id": 203062607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.530363,33.394235,-104.530363,33.394235",
     "geom:latitude":33.394235,
     "geom:longitude":-104.530363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Missouri Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203062607,
-    "wof:lastmodified":1449026732,
+    "wof:lastmodified":1466698262,
     "wof:name":"Stephen W Montgomery MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-104.530363,33.394235,-104.530363,33.394235],
-  "geometry": {"coordinates":[-104.530363,33.394235],"type":"Point"}
+  "bbox": [
+    -104.530363,
+    33.394235,
+    -104.530363,
+    33.394235
+],
+  "geometry": {"coordinates":[-104.53036299999999,33.394235],"type":"Point"}
 }

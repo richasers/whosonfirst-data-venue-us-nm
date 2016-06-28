@@ -2,13 +2,14 @@
   "id": 203067005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.936812,35.706498,-105.936812,35.706498",
     "geom:latitude":35.706498,
     "geom:longitude":-105.936812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Vistoso Pl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203067005,
-    "wof:lastmodified":1449025062,
+    "wof:lastmodified":1466699417,
     "wof:name":"Mr Posters & Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "poster"
     ]
 },
-  "bbox": [-105.936812,35.706498,-105.936812,35.706498],
+  "bbox": [
+    -105.936812,
+    35.706498,
+    -105.936812,
+    35.706498
+],
   "geometry": {"coordinates":[-105.936812,35.706498],"type":"Point"}
 }

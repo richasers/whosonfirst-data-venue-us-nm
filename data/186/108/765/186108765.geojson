@@ -2,13 +2,14 @@
   "id": 186108765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.534347,35.124911,-106.534347,35.124911",
     "geom:latitude":35.124911,
     "geom:longitude":-106.534347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 Westerfeld Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186108765,
-    "wof:lastmodified":1449050310,
+    "wof:lastmodified":1466699010,
     "wof:name":"A Troika Inc",
     "wof:parent_id":85825849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "management"
     ]
 },
-  "bbox": [-106.534347,35.124911,-106.534347,35.124911],
+  "bbox": [
+    -106.534347,
+    35.124911,
+    -106.534347,
+    35.124911
+],
   "geometry": {"coordinates":[-106.534347,35.124911],"type":"Point"}
 }

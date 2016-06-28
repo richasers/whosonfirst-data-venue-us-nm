@@ -2,13 +2,14 @@
   "id": 202516215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.667622,35.129254,-106.667622,35.129254",
     "geom:latitude":35.129254,
     "geom:longitude":-106.667622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1835 Tierra Vida Pl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202516215,
-    "wof:lastmodified":1449060599,
+    "wof:lastmodified":1466699232,
     "wof:name":"Melinda Smith Associates",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "conflict"
     ]
 },
-  "bbox": [-106.667622,35.129254,-106.667622,35.129254],
-  "geometry": {"coordinates":[-106.667622,35.129254],"type":"Point"}
+  "bbox": [
+    -106.667622,
+    35.129254,
+    -106.667622,
+    35.129254
+],
+  "geometry": {"coordinates":[-106.66762199999999,35.129254],"type":"Point"}
 }

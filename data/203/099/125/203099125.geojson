@@ -2,13 +2,14 @@
   "id": 203099125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.920071,32.908302,-105.920071,32.908302",
     "geom:latitude":32.908302,
     "geom:longitude":-105.920071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3106 Los Robles",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203099125,
-    "wof:lastmodified":1449026218,
+    "wof:lastmodified":1466698723,
     "wof:name":"Sundance Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.920071,32.908302,-105.920071,32.908302],
-  "geometry": {"coordinates":[-105.920071,32.908302],"type":"Point"}
+  "bbox": [
+    -105.920071,
+    32.908302,
+    -105.920071,
+    32.908302
+],
+  "geometry": {"coordinates":[-105.92007099999999,32.908302],"type":"Point"}
 }

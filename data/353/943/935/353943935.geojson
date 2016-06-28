@@ -2,13 +2,14 @@
   "id": 353943935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.585175,35.109089,-106.585175,35.109089",
     "geom:latitude":35.109089,
     "geom:longitude":-106.585175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5306 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353943935,
-    "wof:lastmodified":1449018940,
+    "wof:lastmodified":1466698389,
     "wof:name":"America's Mattress",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-106.585175,35.109089,-106.585175,35.109089],
-  "geometry": {"coordinates":[-106.585175,35.109089],"type":"Point"}
+  "bbox": [
+    -106.585175,
+    35.109089,
+    -106.585175,
+    35.109089
+],
+  "geometry": {"coordinates":[-106.58517500000001,35.109089],"type":"Point"}
 }

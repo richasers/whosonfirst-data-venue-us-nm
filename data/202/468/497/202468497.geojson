@@ -2,13 +2,14 @@
   "id": 202468497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.957649,32.989783,-105.957649,32.989783",
     "geom:latitude":32.989783,
     "geom:longitude":-105.957649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"177 Griffin Rd",
     "sg:city":"La Luz",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202468497,
-    "wof:lastmodified":1449061917,
+    "wof:lastmodified":1466698766,
     "wof:name":"Tommy Blankenship Sand & Gravl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gravel"
     ]
 },
-  "bbox": [-105.957649,32.989783,-105.957649,32.989783],
+  "bbox": [
+    -105.957649,
+    32.989783,
+    -105.957649,
+    32.989783
+],
   "geometry": {"coordinates":[-105.957649,32.989783],"type":"Point"}
 }

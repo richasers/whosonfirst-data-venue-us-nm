@@ -2,13 +2,14 @@
   "id": 202700341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.574592,36.409448,-105.574592,36.409448",
     "geom:latitude":36.409448,
     "geom:longitude":-105.574592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Cam de la Placita",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202700341,
-    "wof:lastmodified":1449062433,
+    "wof:lastmodified":1466699608,
     "wof:name":"Taos Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.574592,36.409448,-105.574592,36.409448],
+  "bbox": [
+    -105.574592,
+    36.409448,
+    -105.574592,
+    36.409448
+],
   "geometry": {"coordinates":[-105.574592,36.409448],"type":"Point"}
 }

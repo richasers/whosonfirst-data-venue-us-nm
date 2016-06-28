@@ -2,13 +2,14 @@
   "id": 186446257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.76177,32.293123,-106.76177,32.293123",
     "geom:latitude":32.293123,
     "geom:longitude":-106.76177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1802 S Espina St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186446257,
-    "wof:lastmodified":1449052794,
+    "wof:lastmodified":1466700026,
     "wof:name":"Fina Sandia Oil",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-106.76177,32.293123,-106.76177,32.293123],
+  "bbox": [
+    -106.76177,
+    32.293123,
+    -106.76177,
+    32.293123
+],
   "geometry": {"coordinates":[-106.76177,32.293123],"type":"Point"}
 }

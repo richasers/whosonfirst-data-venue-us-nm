@@ -2,13 +2,14 @@
   "id": 202818093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.577415,35.094829,-106.577415,35.094829",
     "geom:latitude":35.094829,
     "geom:longitude":-106.577415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1850 San Pedro Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202818093,
-    "wof:lastmodified":1449061366,
+    "wof:lastmodified":1466699932,
     "wof:name":"Mauldin's Flowers & Balloons",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.577415,35.094829,-106.577415,35.094829],
+  "bbox": [
+    -106.577415,
+    35.094829,
+    -106.577415,
+    35.094829
+],
   "geometry": {"coordinates":[-106.577415,35.094829],"type":"Point"}
 }

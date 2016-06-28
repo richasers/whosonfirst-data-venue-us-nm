@@ -2,13 +2,14 @@
   "id": 202620801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.910518,34.061197,-106.910518,34.061197",
     "geom:latitude":34.061197,
     "geom:longitude":-106.910518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1223 Apache Dr",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202620801,
-    "wof:lastmodified":1449062436,
+    "wof:lastmodified":1466698686,
     "wof:name":"Chen Her Yuan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.910518,34.061197,-106.910518,34.061197],
+  "bbox": [
+    -106.910518,
+    34.061197,
+    -106.910518,
+    34.061197
+],
   "geometry": {"coordinates":[-106.910518,34.061197],"type":"Point"}
 }

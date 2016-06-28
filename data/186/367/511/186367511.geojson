@@ -2,13 +2,14 @@
   "id": 186367511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.673154,33.331159,-105.673154,33.331159",
     "geom:latitude":33.331159,
     "geom:longitude":-105.673154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 W Texas St",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186367511,
-    "wof:lastmodified":1449051954,
+    "wof:lastmodified":1466699836,
     "wof:name":"Sierra Cleaners",
     "wof:parent_id":85842645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drycleaning"
     ]
 },
-  "bbox": [-105.673154,33.331159,-105.673154,33.331159],
+  "bbox": [
+    -105.673154,
+    33.331159,
+    -105.673154,
+    33.331159
+],
   "geometry": {"coordinates":[-105.673154,33.331159],"type":"Point"}
 }

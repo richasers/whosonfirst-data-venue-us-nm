@@ -2,13 +2,14 @@
   "id": 186381237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.213102,35.625179,-105.213102,35.625179",
     "geom:latitude":35.625179,
     "geom:longitude":-105.213102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Chico Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186381237,
-    "wof:lastmodified":1449050466,
+    "wof:lastmodified":1466699785,
     "wof:name":"L A Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.213102,35.625179,-105.213102,35.625179],
-  "geometry": {"coordinates":[-105.213102,35.625179],"type":"Point"}
+  "bbox": [
+    -105.213102,
+    35.625179,
+    -105.213102,
+    35.625179
+],
+  "geometry": {"coordinates":[-105.21310200000001,35.625179],"type":"Point"}
 }

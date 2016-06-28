@@ -2,13 +2,14 @@
   "id": 186513479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.222992,34.400555,-103.222992,34.400555",
     "geom:latitude":34.400555,
     "geom:longitude":-103.222992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Cameo St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186513479,
-    "wof:lastmodified":1449052141,
+    "wof:lastmodified":1466700272,
     "wof:name":"WIC Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resource"
     ]
 },
-  "bbox": [-103.222992,34.400555,-103.222992,34.400555],
+  "bbox": [
+    -103.222992,
+    34.400555,
+    -103.222992,
+    34.400555
+],
   "geometry": {"coordinates":[-103.222992,34.400555],"type":"Point"}
 }

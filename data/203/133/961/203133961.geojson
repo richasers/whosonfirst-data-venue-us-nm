@@ -2,13 +2,14 @@
   "id": 203133961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.535899,35.075688,-106.535899,35.075688",
     "geom:latitude":35.075688,
     "geom:longitude":-106.535899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Conchas St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203133961,
-    "wof:lastmodified":1449026518,
+    "wof:lastmodified":1466699046,
     "wof:name":"ACS Embroidery",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-106.535899,35.075688,-106.535899,35.075688],
+  "bbox": [
+    -106.535899,
+    35.075688,
+    -106.535899,
+    35.075688
+],
   "geometry": {"coordinates":[-106.535899,35.075688],"type":"Point"}
 }

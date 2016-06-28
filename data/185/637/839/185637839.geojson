@@ -2,13 +2,14 @@
   "id": 185637839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.757573,32.358188,-106.757573,32.358188",
     "geom:latitude":32.358188,
     "geom:longitude":-106.757573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3090 N Roadrunner Pkwy",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185637839,
-    "wof:lastmodified":1449006596,
+    "wof:lastmodified":1466698013,
     "wof:name":"First Community Bank",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.757573,32.358188,-106.757573,32.358188],
-  "geometry": {"coordinates":[-106.757573,32.358188],"type":"Point"}
+  "bbox": [
+    -106.757573,
+    32.358188,
+    -106.757573,
+    32.358188
+],
+  "geometry": {"coordinates":[-106.75757299999999,32.358188],"type":"Point"}
 }

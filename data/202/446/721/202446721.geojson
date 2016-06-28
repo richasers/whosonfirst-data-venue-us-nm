@@ -2,13 +2,14 @@
   "id": 202446721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.282627,32.785263,-108.282627,32.785263",
     "geom:latitude":32.785263,
     "geom:longitude":-108.282627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 N Alabama St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202446721,
-    "wof:lastmodified":1449062440,
+    "wof:lastmodified":1466698506,
     "wof:name":"South By Southwest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.282627,32.785263,-108.282627,32.785263],
-  "geometry": {"coordinates":[-108.282627,32.785263],"type":"Point"}
+  "bbox": [
+    -108.282627,
+    32.785263,
+    -108.282627,
+    32.785263
+],
+  "geometry": {"coordinates":[-108.28262700000001,32.785263],"type":"Point"}
 }

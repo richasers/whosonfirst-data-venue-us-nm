@@ -2,13 +2,14 @@
   "id": 185656231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.576724,35.174875,-106.576724,35.174875",
     "geom:latitude":35.174875,
     "geom:longitude":-106.576724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8320 Cll Avion NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185656231,
-    "wof:lastmodified":1449007647,
+    "wof:lastmodified":1466698198,
     "wof:name":"Novus Radiolgy",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.576724,35.174875,-106.576724,35.174875],
+  "bbox": [
+    -106.576724,
+    35.174875,
+    -106.576724,
+    35.174875
+],
   "geometry": {"coordinates":[-106.576724,35.174875],"type":"Point"}
 }

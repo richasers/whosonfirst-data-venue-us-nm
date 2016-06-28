@@ -2,13 +2,14 @@
   "id": 185970443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.744658,35.05949,-106.744658,35.05949",
     "geom:latitude":35.05949,
     "geom:longitude":-106.744658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 Malachite Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":185970443,
-    "wof:lastmodified":1449008162,
+    "wof:lastmodified":1466699700,
     "wof:name":"Arachnid Empire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.744658,35.05949,-106.744658,35.05949],
+  "bbox": [
+    -106.744658,
+    35.05949,
+    -106.744658,
+    35.05949
+],
   "geometry": {"coordinates":[-106.744658,35.05949],"type":"Point"}
 }

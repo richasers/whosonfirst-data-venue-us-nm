@@ -2,13 +2,14 @@
   "id": 186078055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.21369,35.592099,-105.21369,35.592099",
     "geom:latitude":35.592099,
     "geom:longitude":-105.21369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 Jackson St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186078055,
-    "wof:lastmodified":1449052586,
+    "wof:lastmodified":1466698625,
     "wof:name":"Noels Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.21369,35.592099,-105.21369,35.592099],
+  "bbox": [
+    -105.21369,
+    35.592099,
+    -105.21369,
+    35.592099
+],
   "geometry": {"coordinates":[-105.21369,35.592099],"type":"Point"}
 }

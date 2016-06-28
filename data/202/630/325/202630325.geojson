@@ -2,13 +2,14 @@
   "id": 202630325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.599459,33.330756,-105.599459,33.330756",
     "geom:latitude":33.330756,
     "geom:longitude":-105.599459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1463 US Hwy 70",
     "sg:city":"Ruidoso Downs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202630325,
-    "wof:lastmodified":1449061011,
+    "wof:lastmodified":1466698838,
     "wof:name":"New Mexico Horsemen's Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.599459,33.330756,-105.599459,33.330756],
+  "bbox": [
+    -105.599459,
+    33.330756,
+    -105.599459,
+    33.330756
+],
   "geometry": {"coordinates":[-105.599459,33.330756],"type":"Point"}
 }

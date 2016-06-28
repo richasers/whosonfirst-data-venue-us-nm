@@ -2,13 +2,14 @@
   "id": 186483227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.22608,32.400022,-104.22608,32.400022",
     "geom:latitude":32.400022,
     "geom:longitude":-104.22608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Wood Ave",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186483227,
-    "wof:lastmodified":1449052436,
+    "wof:lastmodified":1466700176,
     "wof:name":"R Florez Welding",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-104.22608,32.400022,-104.22608,32.400022],
+  "bbox": [
+    -104.22608,
+    32.400022,
+    -104.22608,
+    32.400022
+],
   "geometry": {"coordinates":[-104.22608,32.400022],"type":"Point"}
 }

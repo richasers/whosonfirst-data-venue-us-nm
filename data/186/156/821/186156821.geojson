@@ -2,13 +2,14 @@
   "id": 186156821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.648611,35.217716,-106.648611,35.217716",
     "geom:latitude":35.217716,
     "geom:longitude":-106.648611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 el Rey Dr",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186156821,
-    "wof:lastmodified":1449050941,
+    "wof:lastmodified":1466699345,
     "wof:name":"Chambri LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-106.648611,35.217716,-106.648611,35.217716],
+  "bbox": [
+    -106.648611,
+    35.217716,
+    -106.648611,
+    35.217716
+],
   "geometry": {"coordinates":[-106.648611,35.217716],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186551499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.634428,35.271097,-106.634428,35.271097",
     "geom:latitude":35.271097,
     "geom:longitude":-106.634428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 Saratoga Dr NE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186551499,
-    "wof:lastmodified":1449050943,
+    "wof:lastmodified":1466700447,
     "wof:name":"Tomcin Flooring Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.634428,35.271097,-106.634428,35.271097],
+  "bbox": [
+    -106.634428,
+    35.271097,
+    -106.634428,
+    35.271097
+],
   "geometry": {"coordinates":[-106.634428,35.271097],"type":"Point"}
 }

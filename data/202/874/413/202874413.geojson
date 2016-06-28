@@ -2,13 +2,14 @@
   "id": 202874413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.94135,36.193763,-106.94135,36.193763",
     "geom:latitude":36.193763,
     "geom:longitude":-106.94135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Ridge Runners Rd",
     "sg:city":"Milan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202874413,
-    "wof:lastmodified":1449062480,
+    "wof:lastmodified":1466700133,
     "wof:name":"New Mexico Reading & Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.94135,36.193763,-106.94135,36.193763],
+  "bbox": [
+    -106.94135,
+    36.193763,
+    -106.94135,
+    36.193763
+],
   "geometry": {"coordinates":[-106.94135,36.193763],"type":"Point"}
 }

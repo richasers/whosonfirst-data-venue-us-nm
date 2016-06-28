@@ -2,13 +2,14 @@
   "id": 202982673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.131253,32.70606,-103.131253,32.70606",
     "geom:latitude":32.70606,
     "geom:longitude":-103.131253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Park St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202982673,
-    "wof:lastmodified":1449060531,
+    "wof:lastmodified":1466700723,
     "wof:name":"Diamond S Hot Shot Trucking Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hauling"
     ]
 },
-  "bbox": [-103.131253,32.70606,-103.131253,32.70606],
+  "bbox": [
+    -103.131253,
+    32.70606,
+    -103.131253,
+    32.70606
+],
   "geometry": {"coordinates":[-103.131253,32.70606],"type":"Point"}
 }

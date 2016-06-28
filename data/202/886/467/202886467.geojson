@@ -2,13 +2,14 @@
   "id": 202886467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.612587,35.104961,-106.612587,35.104961",
     "geom:latitude":35.104961,
     "geom:longitude":-106.612587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 Dartmouth Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202886467,
-    "wof:lastmodified":1449061509,
+    "wof:lastmodified":1466700431,
     "wof:name":"Trunk Painting James F",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.612587,35.104961,-106.612587,35.104961],
+  "bbox": [
+    -106.612587,
+    35.104961,
+    -106.612587,
+    35.104961
+],
   "geometry": {"coordinates":[-106.612587,35.104961],"type":"Point"}
 }

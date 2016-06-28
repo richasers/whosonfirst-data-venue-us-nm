@@ -2,13 +2,14 @@
   "id": 185638055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.579726,35.089359,-106.579726,35.089359",
     "geom:latitude":35.089359,
     "geom:longitude":-106.579726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5905 Marble Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185638055,
-    "wof:lastmodified":1449006672,
+    "wof:lastmodified":1466698014,
     "wof:name":"Dynamic Enterprises",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-106.579726,35.089359,-106.579726,35.089359],
-  "geometry": {"coordinates":[-106.579726,35.089359],"type":"Point"}
+  "bbox": [
+    -106.579726,
+    35.089359,
+    -106.579726,
+    35.089359
+],
+  "geometry": {"coordinates":[-106.57972599999999,35.089359],"type":"Point"}
 }

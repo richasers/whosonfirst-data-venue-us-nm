@@ -2,13 +2,14 @@
   "id": 185942369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.583235,35.307526,-106.583235,35.307526",
     "geom:latitude":35.307526,
     "geom:longitude":-106.583235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1347 State Hwy 528 NE",
     "sg:city":"Bernalillo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185942369,
-    "wof:lastmodified":1449007356,
+    "wof:lastmodified":1466699110,
     "wof:name":"Trusmaster Inc",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truss"
     ]
 },
-  "bbox": [-106.583235,35.307526,-106.583235,35.307526],
+  "bbox": [
+    -106.583235,
+    35.307526,
+    -106.583235,
+    35.307526
+],
   "geometry": {"coordinates":[-106.583235,35.307526],"type":"Point"}
 }

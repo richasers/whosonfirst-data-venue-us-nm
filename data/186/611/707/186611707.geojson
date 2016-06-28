@@ -2,13 +2,14 @@
   "id": 186611707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.144921,32.713998,-103.144921,32.713998",
     "geom:latitude":32.713998,
     "geom:longitude":-103.144921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 N Grimes St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186611707,
-    "wof:lastmodified":1449052443,
+    "wof:lastmodified":1466700558,
     "wof:name":"Temple Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-103.144921,32.713998,-103.144921,32.713998],
+  "bbox": [
+    -103.144921,
+    32.713998,
+    -103.144921,
+    32.713998
+],
   "geometry": {"coordinates":[-103.144921,32.713998],"type":"Point"}
 }

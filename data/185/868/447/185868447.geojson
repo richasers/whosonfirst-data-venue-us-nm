@@ -2,13 +2,14 @@
   "id": 185868447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.968551,35.657945,-105.968551,35.657945",
     "geom:latitude":35.657945,
     "geom:longitude":-105.968551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1939 Warner St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185868447,
-    "wof:lastmodified":1449006649,
+    "wof:lastmodified":1466698198,
     "wof:name":"Rural Development",
     "wof:parent_id":85880809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rural"
     ]
 },
-  "bbox": [-105.968551,35.657945,-105.968551,35.657945],
-  "geometry": {"coordinates":[-105.968551,35.657945],"type":"Point"}
+  "bbox": [
+    -105.968551,
+    35.657945,
+    -105.968551,
+    35.657945
+],
+  "geometry": {"coordinates":[-105.96855100000001,35.657945],"type":"Point"}
 }

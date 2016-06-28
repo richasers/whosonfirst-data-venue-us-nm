@@ -2,13 +2,14 @@
   "id": 202536901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.753556,32.26815,-107.753556,32.26815",
     "geom:latitude":32.26815,
     "geom:longitude":-107.753556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S Ruby St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202536901,
-    "wof:lastmodified":1449061629,
+    "wof:lastmodified":1466699307,
     "wof:name":"Computer Audio Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-107.753556,32.26815,-107.753556,32.26815],
+  "bbox": [
+    -107.753556,
+    32.26815,
+    -107.753556,
+    32.26815
+],
   "geometry": {"coordinates":[-107.753556,32.26815],"type":"Point"}
 }

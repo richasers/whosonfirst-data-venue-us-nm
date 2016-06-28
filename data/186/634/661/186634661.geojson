@@ -2,13 +2,14 @@
   "id": 186634661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.984979,35.666854,-105.984979,35.666854",
     "geom:latitude":35.666854,
     "geom:longitude":-105.984979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"972 Cll Carmelita",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186634661,
-    "wof:lastmodified":1449051662,
+    "wof:lastmodified":1466700770,
     "wof:name":"Kent Kraus Studio",
     "wof:parent_id":85880779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-105.984979,35.666854,-105.984979,35.666854],
+  "bbox": [
+    -105.984979,
+    35.666854,
+    -105.984979,
+    35.666854
+],
   "geometry": {"coordinates":[-105.984979,35.666854],"type":"Point"}
 }

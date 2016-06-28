@@ -2,13 +2,14 @@
   "id": 185806769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.595399,36.371508,-105.595399,36.371508",
     "geom:latitude":36.371508,
     "geom:longitude":-105.595399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185806769,
-    "wof:lastmodified":1449006591,
+    "wof:lastmodified":1466699367,
     "wof:name":"Camino Real Imports 2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-105.595399,36.371508,-105.595399,36.371508],
+  "bbox": [
+    -105.595399,
+    36.371508,
+    -105.595399,
+    36.371508
+],
   "geometry": {"coordinates":[-105.595399,36.371508],"type":"Point"}
 }

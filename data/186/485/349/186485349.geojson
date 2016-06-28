@@ -2,13 +2,14 @@
   "id": 186485349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.813095,32.298117,-106.813095,32.298117",
     "geom:latitude":32.298117,
     "geom:longitude":-106.813095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"257 N Motel Blvd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":186485349,
-    "wof:lastmodified":1449051997,
+    "wof:lastmodified":1466700282,
     "wof:name":"Felipe's Upholstery Shop",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "upholsterer"
     ]
 },
-  "bbox": [-106.813095,32.298117,-106.813095,32.298117],
+  "bbox": [
+    -106.813095,
+    32.298117,
+    -106.813095,
+    32.298117
+],
   "geometry": {"coordinates":[-106.813095,32.298117],"type":"Point"}
 }

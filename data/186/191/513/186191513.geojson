@@ -2,13 +2,14 @@
   "id": 186191513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.318971,33.257903,-103.318971,33.257903",
     "geom:latitude":33.257903,
     "geom:longitude":-103.318971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 N Ave A",
     "sg:city":"Tatum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186191513,
-    "wof:lastmodified":1449051986,
+    "wof:lastmodified":1466697915,
     "wof:name":"Tatum Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-103.318971,33.257903,-103.318971,33.257903],
+  "bbox": [
+    -103.318971,
+    33.257903,
+    -103.318971,
+    33.257903
+],
   "geometry": {"coordinates":[-103.318971,33.257903],"type":"Point"}
 }

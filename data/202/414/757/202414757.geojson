@@ -2,13 +2,14 @@
   "id": 202414757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.715689,35.085733,-106.715689,35.085733",
     "geom:latitude":35.085733,
     "geom:longitude":-106.715689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Bluewater Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":202414757,
-    "wof:lastmodified":1449061309,
+    "wof:lastmodified":1466698128,
     "wof:name":"Sandoval Trinity",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.715689,35.085733,-106.715689,35.085733],
+  "bbox": [
+    -106.715689,
+    35.085733,
+    -106.715689,
+    35.085733
+],
   "geometry": {"coordinates":[-106.715689,35.085733],"type":"Point"}
 }

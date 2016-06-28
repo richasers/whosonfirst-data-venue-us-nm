@@ -2,13 +2,14 @@
   "id": 185948111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.62793,35.081534,-106.62793,35.081534",
     "geom:latitude":35.081534,
     "geom:longitude":-106.62793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185948111,
-    "wof:lastmodified":1449007894,
+    "wof:lastmodified":1466699187,
     "wof:name":"Unm High Performance",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "facility"
     ]
 },
-  "bbox": [-106.62793,35.081534,-106.62793,35.081534],
-  "geometry": {"coordinates":[-106.62793,35.081534],"type":"Point"}
+  "bbox": [
+    -106.62793,
+    35.081534,
+    -106.62793,
+    35.081534
+],
+  "geometry": {"coordinates":[-106.62793000000001,35.081534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185714219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.163727,32.738673,-103.163727,32.738673",
     "geom:latitude":32.738673,
     "geom:longitude":-103.163727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 NW County Rd",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185714219,
-    "wof:lastmodified":1449007421,
+    "wof:lastmodified":1466698772,
     "wof:name":"L & D Svc Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-103.163727,32.738673,-103.163727,32.738673],
-  "geometry": {"coordinates":[-103.163727,32.738673],"type":"Point"}
+  "bbox": [
+    -103.163727,
+    32.738673,
+    -103.163727,
+    32.738673
+],
+  "geometry": {"coordinates":[-103.16372699999999,32.738673],"type":"Point"}
 }

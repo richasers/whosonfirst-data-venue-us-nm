@@ -2,13 +2,14 @@
   "id": 185604905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.408411,32.857204,-104.408411,32.857204",
     "geom:latitude":32.857204,
     "geom:longitude":-104.408411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 W Richey Ave",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185604905,
-    "wof:lastmodified":1449008036,
+    "wof:lastmodified":1466697644,
     "wof:name":"Payne Packing Co",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "packer"
     ]
 },
-  "bbox": [-104.408411,32.857204,-104.408411,32.857204],
+  "bbox": [
+    -104.408411,
+    32.857204,
+    -104.408411,
+    32.857204
+],
   "geometry": {"coordinates":[-104.408411,32.857204],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186334753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.024145,35.636267,-106.024145,35.636267",
     "geom:latitude":35.636267,
     "geom:longitude":-106.024145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1570 Center Ct",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186334753,
-    "wof:lastmodified":1449051159,
+    "wof:lastmodified":1466699599,
     "wof:name":"Bob Ladd Auto Detail",
     "wof:parent_id":85880823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-106.024145,35.636267,-106.024145,35.636267],
+  "bbox": [
+    -106.024145,
+    35.636267,
+    -106.024145,
+    35.636267
+],
   "geometry": {"coordinates":[-106.024145,35.636267],"type":"Point"}
 }

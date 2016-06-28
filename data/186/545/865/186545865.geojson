@@ -2,13 +2,14 @@
   "id": 186545865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.532525,35.088231,-106.532525,35.088231",
     "geom:latitude":35.088231,
     "geom:longitude":-106.532525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"944 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186545865,
-    "wof:lastmodified":1449051040,
+    "wof:lastmodified":1466700406,
     "wof:name":"Family Insurance Center",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.532525,35.088231,-106.532525,35.088231],
-  "geometry": {"coordinates":[-106.532525,35.088231],"type":"Point"}
+  "bbox": [
+    -106.532525,
+    35.088231,
+    -106.532525,
+    35.088231
+],
+  "geometry": {"coordinates":[-106.53252500000001,35.088231],"type":"Point"}
 }

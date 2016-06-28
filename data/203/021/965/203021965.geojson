@@ -2,13 +2,14 @@
   "id": 203021965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.642275,32.293521,-106.642275,32.293521",
     "geom:latitude":32.293521,
     "geom:longitude":-106.642275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5125 Cueva Mine Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203021965,
-    "wof:lastmodified":1449026156,
+    "wof:lastmodified":1466697846,
     "wof:name":"Books Are Fun LTD",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-106.642275,32.293521,-106.642275,32.293521],
+  "bbox": [
+    -106.642275,
+    32.293521,
+    -106.642275,
+    32.293521
+],
   "geometry": {"coordinates":[-106.642275,32.293521],"type":"Point"}
 }

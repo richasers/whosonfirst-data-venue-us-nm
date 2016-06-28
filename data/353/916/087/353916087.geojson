@@ -2,13 +2,14 @@
   "id": 353916087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.313004,35.160301,-106.313004,35.160301",
     "geom:latitude":35.160301,
     "geom:longitude":-106.313004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Oakhill Dr",
     "sg:city":"Sandia Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353916087,
-    "wof:lastmodified":1449019662,
+    "wof:lastmodified":1466697646,
     "wof:name":"Desert Mtn Accounting & Business Consulting Inc",
     "wof:parent_id":85847015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-106.313004,35.160301,-106.313004,35.160301],
-  "geometry": {"coordinates":[-106.313004,35.160301],"type":"Point"}
+  "bbox": [
+    -106.313004,
+    35.160301,
+    -106.313004,
+    35.160301
+],
+  "geometry": {"coordinates":[-106.31300400000001,35.160301],"type":"Point"}
 }

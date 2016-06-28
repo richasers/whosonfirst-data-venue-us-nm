@@ -2,13 +2,14 @@
   "id": 202948401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.777208,34.659699,-106.777208,34.659699",
     "geom:latitude":34.659699,
     "geom:longitude":-106.777208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 S Main St",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202948401,
-    "wof:lastmodified":1449062140,
+    "wof:lastmodified":1466700548,
     "wof:name":"Ready Money",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-106.777208,34.659699,-106.777208,34.659699],
+  "bbox": [
+    -106.777208,
+    34.659699,
+    -106.777208,
+    34.659699
+],
   "geometry": {"coordinates":[-106.777208,34.659699],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186481895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.532524,35.088158,-106.532524,35.088158",
     "geom:latitude":35.088158,
     "geom:longitude":-106.532524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"948 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":186481895,
-    "wof:lastmodified":1449052669,
+    "wof:lastmodified":1466700174,
     "wof:name":"Sova Enterprises",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "internet"
     ]
 },
-  "bbox": [-106.532524,35.088158,-106.532524,35.088158],
+  "bbox": [
+    -106.532524,
+    35.088158,
+    -106.532524,
+    35.088158
+],
   "geometry": {"coordinates":[-106.532524,35.088158],"type":"Point"}
 }

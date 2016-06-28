@@ -2,13 +2,14 @@
   "id": 202580773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.625233,31.91515,-106.625233,31.91515",
     "geom:latitude":31.91515,
     "geom:longitude":-106.625233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Whittington Pl",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202580773,
-    "wof:lastmodified":1449061798,
+    "wof:lastmodified":1466698099,
     "wof:name":"Glaser Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.625233,31.91515,-106.625233,31.91515],
-  "geometry": {"coordinates":[-106.625233,31.91515],"type":"Point"}
+  "bbox": [
+    -106.625233,
+    31.91515,
+    -106.625233,
+    31.91515
+],
+  "geometry": {"coordinates":[-106.62523299999999,31.91515],"type":"Point"}
 }

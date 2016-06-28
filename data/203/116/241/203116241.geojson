@@ -2,13 +2,14 @@
   "id": 203116241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.184124,36.748537,-108.184124,36.748537",
     "geom:latitude":36.748537,
     "geom:longitude":-108.184124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 Sullivan Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203116241,
-    "wof:lastmodified":1449025212,
+    "wof:lastmodified":1466698902,
     "wof:name":"Southwest Soccer Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sport"
     ]
 },
-  "bbox": [-108.184124,36.748537,-108.184124,36.748537],
+  "bbox": [
+    -108.184124,
+    36.748537,
+    -108.184124,
+    36.748537
+],
   "geometry": {"coordinates":[-108.184124,36.748537],"type":"Point"}
 }

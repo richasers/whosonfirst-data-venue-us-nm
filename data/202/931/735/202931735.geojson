@@ -2,13 +2,14 @@
   "id": 202931735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.585738,35.1817,-106.585738,35.1817",
     "geom:latitude":35.1817,
     "geom:longitude":-106.585738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5321 Wilshire Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202931735,
-    "wof:lastmodified":1449062422,
+    "wof:lastmodified":1466700480,
     "wof:name":"Sennheiser New Mexico",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-106.585738,35.1817,-106.585738,35.1817],
-  "geometry": {"coordinates":[-106.585738,35.1817],"type":"Point"}
+  "bbox": [
+    -106.585738,
+    35.1817,
+    -106.585738,
+    35.1817
+],
+  "geometry": {"coordinates":[-106.58573800000001,35.1817],"type":"Point"}
 }

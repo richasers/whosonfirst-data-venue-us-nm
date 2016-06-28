@@ -2,13 +2,14 @@
   "id": 186349909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.938421,35.688487,-105.938421,35.688487",
     "geom:latitude":35.688487,
     "geom:longitude":-105.938421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Lincoln Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186349909,
-    "wof:lastmodified":1449051400,
+    "wof:lastmodified":1466699778,
     "wof:name":"Swedish Accents & More",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-105.938421,35.688487,-105.938421,35.688487],
-  "geometry": {"coordinates":[-105.938421,35.688487],"type":"Point"}
+  "bbox": [
+    -105.938421,
+    35.688487,
+    -105.938421,
+    35.688487
+],
+  "geometry": {"coordinates":[-105.93842100000001,35.688487],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203122427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.727239,35.039051,-106.727239,35.039051",
     "geom:latitude":35.039051,
     "geom:longitude":-106.727239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 Altos Way SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203122427,
-    "wof:lastmodified":1449026027,
+    "wof:lastmodified":1466698951,
     "wof:name":"Saldana Service Company",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.727239,35.039051,-106.727239,35.039051],
+  "bbox": [
+    -106.727239,
+    35.039051,
+    -106.727239,
+    35.039051
+],
   "geometry": {"coordinates":[-106.727239,35.039051],"type":"Point"}
 }

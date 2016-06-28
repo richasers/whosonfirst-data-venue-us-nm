@@ -2,13 +2,14 @@
   "id": 185984521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.216777,34.405515,-103.216777,34.405515",
     "geom:latitude":34.405515,
     "geom:longitude":-103.216777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 N Davis St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185984521,
-    "wof:lastmodified":1449007514,
+    "wof:lastmodified":1466699526,
     "wof:name":"Calvary Baptist Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-103.216777,34.405515,-103.216777,34.405515],
-  "geometry": {"coordinates":[-103.216777,34.405515],"type":"Point"}
+  "bbox": [
+    -103.216777,
+    34.405515,
+    -103.216777,
+    34.405515
+],
+  "geometry": {"coordinates":[-103.21677699999999,34.405515],"type":"Point"}
 }

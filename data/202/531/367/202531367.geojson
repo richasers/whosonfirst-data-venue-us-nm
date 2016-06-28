@@ -2,13 +2,14 @@
   "id": 202531367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.981652,36.711461,-107.981652,36.711461",
     "geom:latitude":36.711461,
     "geom:longitude":-107.981652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 W Broadway Ave",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202531367,
-    "wof:lastmodified":1449060708,
+    "wof:lastmodified":1466699284,
     "wof:name":"Helen's Kreative KURL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.981652,36.711461,-107.981652,36.711461],
+  "bbox": [
+    -107.981652,
+    36.711461,
+    -107.981652,
+    36.711461
+],
   "geometry": {"coordinates":[-107.981652,36.711461],"type":"Point"}
 }

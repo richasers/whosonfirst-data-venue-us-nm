@@ -2,13 +2,14 @@
   "id": 169720735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.69143,34.839254,-106.69143,34.839254",
     "geom:latitude":34.839254,
     "geom:longitude":-106.69143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2485 Bosque Farms Blvd",
     "sg:city":"Bosque Farms",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169720735,
-    "wof:lastmodified":1449033483,
+    "wof:lastmodified":1466697797,
     "wof:name":"Dec Donovan Enterprises",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "machinery"
     ]
 },
-  "bbox": [-106.69143,34.839254,-106.69143,34.839254],
+  "bbox": [
+    -106.69143,
+    34.839254,
+    -106.69143,
+    34.839254
+],
   "geometry": {"coordinates":[-106.69143,34.839254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186612799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.643664,35.140176,-106.643664,35.140176",
     "geom:latitude":35.140176,
     "geom:longitude":-106.643664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 Gene Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186612799,
-    "wof:lastmodified":1449051565,
+    "wof:lastmodified":1466700676,
     "wof:name":"Jay's Toys",
     "wof:parent_id":85892587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "classic"
     ]
 },
-  "bbox": [-106.643664,35.140176,-106.643664,35.140176],
+  "bbox": [
+    -106.643664,
+    35.140176,
+    -106.643664,
+    35.140176
+],
   "geometry": {"coordinates":[-106.643664,35.140176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186644147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.748154,32.297471,-106.748154,32.297471",
     "geom:latitude":32.297471,
     "geom:longitude":-106.748154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Missouri Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186644147,
-    "wof:lastmodified":1449051921,
+    "wof:lastmodified":1466700874,
     "wof:name":"Missouri Chevron",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-106.748154,32.297471,-106.748154,32.297471],
+  "bbox": [
+    -106.748154,
+    32.297471,
+    -106.748154,
+    32.297471
+],
   "geometry": {"coordinates":[-106.748154,32.297471],"type":"Point"}
 }

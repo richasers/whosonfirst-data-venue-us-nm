@@ -2,13 +2,14 @@
   "id": 185999115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.620453,35.110841,-106.620453,35.110841",
     "geom:latitude":35.110841,
     "geom:longitude":-106.620453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2515 Princeton Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":185999115,
-    "wof:lastmodified":1449008019,
+    "wof:lastmodified":1466699876,
     "wof:name":"Sun-Ray Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-106.620453,35.110841,-106.620453,35.110841],
+  "bbox": [
+    -106.620453,
+    35.110841,
+    -106.620453,
+    35.110841
+],
   "geometry": {"coordinates":[-106.620453,35.110841],"type":"Point"}
 }

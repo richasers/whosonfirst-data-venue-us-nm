@@ -2,13 +2,14 @@
   "id": 169801853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.324253,35.896337,-106.324253,35.896337",
     "geom:latitude":35.896337,
     "geom:longitude":-106.324253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2280 North Rd",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169801853,
-    "wof:lastmodified":1449035378,
+    "wof:lastmodified":1466698624,
     "wof:name":"Mountain Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.324253,35.896337,-106.324253,35.896337],
+  "bbox": [
+    -106.324253,
+    35.896337,
+    -106.324253,
+    35.896337
+],
   "geometry": {"coordinates":[-106.324253,35.896337],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185922587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.633841,35.059064,-106.633841,35.059064",
     "geom:latitude":35.059064,
     "geom:longitude":-106.633841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 Gibson Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185922587,
-    "wof:lastmodified":1449006756,
+    "wof:lastmodified":1466698842,
     "wof:name":"Roberts Oil Co",
     "wof:parent_id":85846885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-106.633841,35.059064,-106.633841,35.059064],
+  "bbox": [
+    -106.633841,
+    35.059064,
+    -106.633841,
+    35.059064
+],
   "geometry": {"coordinates":[-106.633841,35.059064],"type":"Point"}
 }

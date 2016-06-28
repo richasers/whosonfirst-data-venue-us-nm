@@ -2,13 +2,14 @@
   "id": 186105839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.622225,35.139064,-106.622225,35.139064",
     "geom:latitude":35.139064,
     "geom:longitude":-106.622225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"426 Muscatel Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186105839,
-    "wof:lastmodified":1449051403,
+    "wof:lastmodified":1466698989,
     "wof:name":"Animal Kingdom's Grooming",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-106.622225,35.139064,-106.622225,35.139064],
+  "bbox": [
+    -106.622225,
+    35.139064,
+    -106.622225,
+    35.139064
+],
   "geometry": {"coordinates":[-106.622225,35.139064],"type":"Point"}
 }

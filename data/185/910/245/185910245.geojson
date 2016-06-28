@@ -2,13 +2,14 @@
   "id": 185910245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.179369,36.736904,-108.179369,36.736904",
     "geom:latitude":36.736904,
     "geom:longitude":-108.179369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1930 San Juan Blvd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185910245,
-    "wof:lastmodified":1449007274,
+    "wof:lastmodified":1466698662,
     "wof:name":"Maria Dona",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-108.179369,36.736904,-108.179369,36.736904],
-  "geometry": {"coordinates":[-108.179369,36.736904],"type":"Point"}
+  "bbox": [
+    -108.179369,
+    36.736904,
+    -108.179369,
+    36.736904
+],
+  "geometry": {"coordinates":[-108.17936899999999,36.736904],"type":"Point"}
 }

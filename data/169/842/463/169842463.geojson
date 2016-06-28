@@ -2,13 +2,14 @@
   "id": 169842463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.477514,35.381736,-106.477514,35.381736",
     "geom:latitude":35.381736,
     "geom:longitude":-106.477514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1452 State Rte 313",
     "sg:city":"Algodones",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169842463,
-    "wof:lastmodified":1449032922,
+    "wof:lastmodified":1466698858,
     "wof:name":"Algodones Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-106.477514,35.381736,-106.477514,35.381736],
+  "bbox": [
+    -106.477514,
+    35.381736,
+    -106.477514,
+    35.381736
+],
   "geometry": {"coordinates":[-106.477514,35.381736],"type":"Point"}
 }

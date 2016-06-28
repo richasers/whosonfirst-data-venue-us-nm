@@ -2,13 +2,14 @@
   "id": 202921275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.486156,33.341369,-104.486156,33.341369",
     "geom:latitude":33.341369,
     "geom:longitude":-104.486156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4008 S Spring Loop",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202921275,
-    "wof:lastmodified":1449061718,
+    "wof:lastmodified":1466700440,
     "wof:name":"Robert H Gervais DO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-104.486156,33.341369,-104.486156,33.341369],
-  "geometry": {"coordinates":[-104.486156,33.341369],"type":"Point"}
+  "bbox": [
+    -104.486156,
+    33.341369,
+    -104.486156,
+    33.341369
+],
+  "geometry": {"coordinates":[-104.48615599999999,33.341369],"type":"Point"}
 }

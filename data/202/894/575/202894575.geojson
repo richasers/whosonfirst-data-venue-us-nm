@@ -2,13 +2,14 @@
   "id": 202894575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.73038,32.306326,-106.73038,32.306326",
     "geom:latitude":32.306326,
     "geom:longitude":-106.73038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3102 Risner St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202894575,
-    "wof:lastmodified":1449061157,
+    "wof:lastmodified":1466700326,
     "wof:name":"Ted Brannan Construction",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.73038,32.306326,-106.73038,32.306326],
+  "bbox": [
+    -106.73038,
+    32.306326,
+    -106.73038,
+    32.306326
+],
   "geometry": {"coordinates":[-106.73038,32.306326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186030493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.159352,32.439161,-103.159352,32.439161",
     "geom:latitude":32.439161,
     "geom:longitude":-103.159352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Main St",
     "sg:city":"Eunice",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186030493,
-    "wof:lastmodified":1449051367,
+    "wof:lastmodified":1466698018,
     "wof:name":"Attic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-103.159352,32.439161,-103.159352,32.439161],
+  "bbox": [
+    -103.159352,
+    32.439161,
+    -103.159352,
+    32.439161
+],
   "geometry": {"coordinates":[-103.159352,32.439161],"type":"Point"}
 }

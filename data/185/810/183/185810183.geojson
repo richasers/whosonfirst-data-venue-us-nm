@@ -2,13 +2,14 @@
   "id": 185810183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.1504,36.758717,-108.1504,36.758717",
     "geom:latitude":36.758717,
     "geom:longitude":-108.1504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4615 Gila St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185810183,
-    "wof:lastmodified":1449007081,
+    "wof:lastmodified":1466699371,
     "wof:name":"TLC Plumbing & Heating Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.1504,36.758717,-108.1504,36.758717],
+  "bbox": [
+    -108.1504,
+    36.758717,
+    -108.1504,
+    36.758717
+],
   "geometry": {"coordinates":[-108.1504,36.758717],"type":"Point"}
 }

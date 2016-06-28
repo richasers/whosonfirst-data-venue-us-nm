@@ -2,13 +2,14 @@
   "id": 186397019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.998573,35.651285,-105.998573,35.651285",
     "geom:latitude":35.651285,
     "geom:longitude":-105.998573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3251 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186397019,
-    "wof:lastmodified":1449051439,
+    "wof:lastmodified":1466699738,
     "wof:name":"H & R Block",
     "wof:parent_id":85880845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-105.998573,35.651285,-105.998573,35.651285],
-  "geometry": {"coordinates":[-105.998573,35.651285],"type":"Point"}
+  "bbox": [
+    -105.998573,
+    35.651285,
+    -105.998573,
+    35.651285
+],
+  "geometry": {"coordinates":[-105.99857299999999,35.651285],"type":"Point"}
 }

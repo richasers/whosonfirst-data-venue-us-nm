@@ -2,13 +2,14 @@
   "id": 202772405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.536203,33.404506,-104.536203,33.404506",
     "geom:latitude":33.404506,
     "geom:longitude":-104.536203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 N Union Ave",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202772405,
-    "wof:lastmodified":1449061264,
+    "wof:lastmodified":1466699850,
     "wof:name":"Immanuel Church of God Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.536203,33.404506,-104.536203,33.404506],
+  "bbox": [
+    -104.536203,
+    33.404506,
+    -104.536203,
+    33.404506
+],
   "geometry": {"coordinates":[-104.536203,33.404506],"type":"Point"}
 }

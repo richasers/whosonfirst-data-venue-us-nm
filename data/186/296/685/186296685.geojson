@@ -2,13 +2,14 @@
   "id": 186296685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.580643,35.144472,-106.580643,35.144472",
     "geom:latitude":35.144472,
     "geom:longitude":-106.580643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5848 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":186296685,
-    "wof:lastmodified":1449052515,
+    "wof:lastmodified":1466699289,
     "wof:name":"Gdr Property Management LLC",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-106.580643,35.144472,-106.580643,35.144472],
-  "geometry": {"coordinates":[-106.580643,35.144472],"type":"Point"}
+  "bbox": [
+    -106.580643,
+    35.144472,
+    -106.580643,
+    35.144472
+],
+  "geometry": {"coordinates":[-106.58064299999999,35.144472],"type":"Point"}
 }

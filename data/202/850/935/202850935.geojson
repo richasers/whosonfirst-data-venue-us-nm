@@ -2,13 +2,14 @@
   "id": 202850935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.559891,33.394152,-104.559891,33.394152",
     "geom:latitude":33.394152,
     "geom:longitude":-104.559891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 W 2nd St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202850935,
-    "wof:lastmodified":1449061581,
+    "wof:lastmodified":1466700059,
     "wof:name":"Town & Country Food Store 182",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.559891,33.394152,-104.559891,33.394152],
-  "geometry": {"coordinates":[-104.559891,33.394152],"type":"Point"}
+  "bbox": [
+    -104.559891,
+    33.394152,
+    -104.559891,
+    33.394152
+],
+  "geometry": {"coordinates":[-104.55989099999999,33.394152],"type":"Point"}
 }

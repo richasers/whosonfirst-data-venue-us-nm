@@ -2,13 +2,14 @@
   "id": 186517531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586312,35.134588,-106.586312,35.134588",
     "geom:latitude":35.134588,
     "geom:longitude":-106.586312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4710 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186517531,
-    "wof:lastmodified":1449051914,
+    "wof:lastmodified":1466700189,
     "wof:name":"Express Cash",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-106.586312,35.134588,-106.586312,35.134588],
-  "geometry": {"coordinates":[-106.586312,35.134588],"type":"Point"}
+  "bbox": [
+    -106.586312,
+    35.134588,
+    -106.586312,
+    35.134588
+],
+  "geometry": {"coordinates":[-106.58631200000001,35.134588],"type":"Point"}
 }

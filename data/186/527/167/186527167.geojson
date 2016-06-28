@@ -2,13 +2,14 @@
   "id": 186527167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.566328,35.161847,-106.566328,35.161847",
     "geom:latitude":35.161847,
     "geom:longitude":-106.566328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7120 Cindy Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186527167,
-    "wof:lastmodified":1449052453,
+    "wof:lastmodified":1466700455,
     "wof:name":"Hinman Construction",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gen"
     ]
 },
-  "bbox": [-106.566328,35.161847,-106.566328,35.161847],
+  "bbox": [
+    -106.566328,
+    35.161847,
+    -106.566328,
+    35.161847
+],
   "geometry": {"coordinates":[-106.566328,35.161847],"type":"Point"}
 }

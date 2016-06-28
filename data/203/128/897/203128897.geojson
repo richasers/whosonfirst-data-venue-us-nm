@@ -2,13 +2,14 @@
   "id": 203128897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.699012,34.940649,-104.699012,34.940649",
     "geom:latitude":34.940649,
     "geom:longitude":-104.699012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Coronado Ave",
     "sg:city":"Santa Rosa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203128897,
-    "wof:lastmodified":1449025649,
+    "wof:lastmodified":1466698997,
     "wof:name":"Chief Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-104.699012,34.940649,-104.699012,34.940649],
+  "bbox": [
+    -104.699012,
+    34.940649,
+    -104.699012,
+    34.940649
+],
   "geometry": {"coordinates":[-104.699012,34.940649],"type":"Point"}
 }

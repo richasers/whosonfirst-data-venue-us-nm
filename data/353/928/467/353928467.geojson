@@ -2,13 +2,14 @@
   "id": 353928467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.622002,35.060507,-106.622002,35.060507",
     "geom:latitude":35.060507,
     "geom:longitude":-106.622002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1921 Yale Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353928467,
-    "wof:lastmodified":1449020454,
+    "wof:lastmodified":1466697959,
     "wof:name":"Holiday Inn Express Hotel & Suites Albuquerque Airport",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "hall"
     ]
 },
-  "bbox": [-106.622002,35.060507,-106.622002,35.060507],
-  "geometry": {"coordinates":[-106.622002,35.060507],"type":"Point"}
+  "bbox": [
+    -106.622002,
+    35.060507,
+    -106.622002,
+    35.060507
+],
+  "geometry": {"coordinates":[-106.62200199999999,35.060507],"type":"Point"}
 }

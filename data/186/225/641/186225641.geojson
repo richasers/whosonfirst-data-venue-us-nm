@@ -2,13 +2,14 @@
   "id": 186225641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.331089,35.102272,-103.331089,35.102272",
     "geom:latitude":35.102272,
     "geom:longitude":-103.331089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2357 State Hwy 469",
     "sg:city":"San Jon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186225641,
-    "wof:lastmodified":1449051215,
+    "wof:lastmodified":1466698339,
     "wof:name":"San Jon Village Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-103.331089,35.102272,-103.331089,35.102272],
-  "geometry": {"coordinates":[-103.331089,35.102272],"type":"Point"}
+  "bbox": [
+    -103.331089,
+    35.102272,
+    -103.331089,
+    35.102272
+],
+  "geometry": {"coordinates":[-103.33108900000001,35.102272],"type":"Point"}
 }

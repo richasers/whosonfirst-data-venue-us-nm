@@ -2,13 +2,14 @@
   "id": 202692891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.576051,36.400788,-105.576051,36.400788",
     "geom:latitude":36.400788,
     "geom:longitude":-105.576051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Pso del Pueblo Sur",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202692891,
-    "wof:lastmodified":1449060792,
+    "wof:lastmodified":1466699585,
     "wof:name":"William R Kilgore MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-105.576051,36.400788,-105.576051,36.400788],
-  "geometry": {"coordinates":[-105.576051,36.400788],"type":"Point"}
+  "bbox": [
+    -105.576051,
+    36.400788,
+    -105.576051,
+    36.400788
+],
+  "geometry": {"coordinates":[-105.57605100000001,36.400788],"type":"Point"}
 }

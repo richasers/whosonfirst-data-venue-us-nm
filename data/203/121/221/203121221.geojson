@@ -2,13 +2,14 @@
   "id": 203121221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.787693,32.296311,-106.787693,32.296311",
     "geom:latitude":32.296311,
     "geom:longitude":-106.787693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 S Valley Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203121221,
-    "wof:lastmodified":1449026415,
+    "wof:lastmodified":1466698947,
     "wof:name":"VFW Post 10124",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "social"
     ]
 },
-  "bbox": [-106.787693,32.296311,-106.787693,32.296311],
+  "bbox": [
+    -106.787693,
+    32.296311,
+    -106.787693,
+    32.296311
+],
   "geometry": {"coordinates":[-106.787693,32.296311],"type":"Point"}
 }

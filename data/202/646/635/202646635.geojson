@@ -2,13 +2,14 @@
   "id": 202646635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.582302,35.144958,-106.582302,35.144958",
     "geom:latitude":35.144958,
     "geom:longitude":-106.582302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6027 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202646635,
-    "wof:lastmodified":1449060044,
+    "wof:lastmodified":1466699088,
     "wof:name":"Tribal Arts",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rug"
     ]
 },
-  "bbox": [-106.582302,35.144958,-106.582302,35.144958],
+  "bbox": [
+    -106.582302,
+    35.144958,
+    -106.582302,
+    35.144958
+],
   "geometry": {"coordinates":[-106.582302,35.144958],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185786713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.52311,33.423165,-104.52311,33.423165",
     "geom:latitude":33.423165,
     "geom:longitude":-104.52311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Country Club Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185786713,
-    "wof:lastmodified":1449006815,
+    "wof:lastmodified":1466699292,
     "wof:name":"Pecos Valley Sleep Ctr LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-104.52311,33.423165,-104.52311,33.423165],
+  "bbox": [
+    -104.52311,
+    33.423165,
+    -104.52311,
+    33.423165
+],
   "geometry": {"coordinates":[-104.52311,33.423165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202429231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.928199,35.681704,-105.928199,35.681704",
     "geom:latitude":35.681704,
     "geom:longitude":-105.928199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"653 Canyon Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202429231,
-    "wof:lastmodified":1449062509,
+    "wof:lastmodified":1466698301,
     "wof:name":"Bellas Artes LTD",
     "wof:parent_id":85880803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.928199,35.681704,-105.928199,35.681704],
-  "geometry": {"coordinates":[-105.928199,35.681704],"type":"Point"}
+  "bbox": [
+    -105.928199,
+    35.681704,
+    -105.928199,
+    35.681704
+],
+  "geometry": {"coordinates":[-105.92819900000001,35.681704],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186025865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.763918,32.357453,-106.763918,32.357453",
     "geom:latitude":32.357453,
     "geom:longitude":-106.763918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3239 Mercury Ln",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186025865,
-    "wof:lastmodified":1449052566,
+    "wof:lastmodified":1466697975,
     "wof:name":"Merlindas Gift Gallery",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.763918,32.357453,-106.763918,32.357453],
+  "bbox": [
+    -106.763918,
+    32.357453,
+    -106.763918,
+    32.357453
+],
   "geometry": {"coordinates":[-106.763918,32.357453],"type":"Point"}
 }

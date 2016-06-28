@@ -2,13 +2,14 @@
   "id": 202381411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.634906,35.171337,-106.634906,35.171337",
     "geom:latitude":35.171337,
     "geom:longitude":-106.634906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7702 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202381411,
-    "wof:lastmodified":1449060322,
+    "wof:lastmodified":1466697693,
     "wof:name":"Fachan Restoration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "restoration"
     ]
 },
-  "bbox": [-106.634906,35.171337,-106.634906,35.171337],
+  "bbox": [
+    -106.634906,
+    35.171337,
+    -106.634906,
+    35.171337
+],
   "geometry": {"coordinates":[-106.634906,35.171337],"type":"Point"}
 }

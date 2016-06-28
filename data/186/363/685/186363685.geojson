@@ -2,13 +2,14 @@
   "id": 186363685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.250462,33.133162,-107.250462,33.133162",
     "geom:latitude":33.133162,
     "geom:longitude":-107.250462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 N Date St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186363685,
-    "wof:lastmodified":1449052693,
+    "wof:lastmodified":1466699824,
     "wof:name":"Anderson Manufactured Home Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.250462,33.133162,-107.250462,33.133162],
+  "bbox": [
+    -107.250462,
+    33.133162,
+    -107.250462,
+    33.133162
+],
   "geometry": {"coordinates":[-107.250462,33.133162],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353975041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.194479,34.4428,-103.194479,34.4428",
     "geom:latitude":34.4428,
     "geom:longitude":-103.194479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Fairway Ter N",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353975041,
-    "wof:lastmodified":1449020455,
+    "wof:lastmodified":1466699031,
     "wof:name":"Giese Realty Investment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "broker"
     ]
 },
-  "bbox": [-103.194479,34.4428,-103.194479,34.4428],
+  "bbox": [
+    -103.194479,
+    34.4428,
+    -103.194479,
+    34.4428
+],
   "geometry": {"coordinates":[-103.194479,34.4428],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169741609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.505459,33.394152,-104.505459,33.394152",
     "geom:latitude":33.394152,
     "geom:longitude":-104.505459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 E 2nd St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169741609,
-    "wof:lastmodified":1449032861,
+    "wof:lastmodified":1466698007,
     "wof:name":"Jim's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-104.505459,33.394152,-104.505459,33.394152],
+  "bbox": [
+    -104.505459,
+    33.394152,
+    -104.505459,
+    33.394152
+],
   "geometry": {"coordinates":[-104.505459,33.394152],"type":"Point"}
 }

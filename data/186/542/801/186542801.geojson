@@ -2,13 +2,14 @@
   "id": 186542801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.764055,32.262715,-107.764055,32.262715",
     "geom:latitude":32.262715,
     "geom:longitude":-107.764055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 S Nickel St",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186542801,
-    "wof:lastmodified":1449052401,
+    "wof:lastmodified":1466700276,
     "wof:name":"Catalina Craft & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-107.764055,32.262715,-107.764055,32.262715],
+  "bbox": [
+    -107.764055,
+    32.262715,
+    -107.764055,
+    32.262715
+],
   "geometry": {"coordinates":[-107.764055,32.262715],"type":"Point"}
 }

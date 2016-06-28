@@ -2,13 +2,14 @@
   "id": 353936821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.597717,35.078079,-106.597717,35.078079",
     "geom:latitude":35.078079,
     "geom:longitude":-106.597717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 Silver Ave SE Suite D",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353936821,
-    "wof:lastmodified":1449019111,
+    "wof:lastmodified":1466698187,
     "wof:name":"Corner Post Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "rental"
     ]
 },
-  "bbox": [-106.597717,35.078079,-106.597717,35.078079],
+  "bbox": [
+    -106.597717,
+    35.078079,
+    -106.597717,
+    35.078079
+],
   "geometry": {"coordinates":[-106.597717,35.078079],"type":"Point"}
 }

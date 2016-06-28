@@ -2,13 +2,14 @@
   "id": 186565561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.734556,35.529443,-108.734556,35.529443",
     "geom:latitude":35.529443,
     "geom:longitude":-108.734556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Coal Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186565561,
-    "wof:lastmodified":1449052787,
+    "wof:lastmodified":1466700410,
     "wof:name":"Southwest Soda Blasting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandblasting"
     ]
 },
-  "bbox": [-108.734556,35.529443,-108.734556,35.529443],
+  "bbox": [
+    -108.734556,
+    35.529443,
+    -108.734556,
+    35.529443
+],
   "geometry": {"coordinates":[-108.734556,35.529443],"type":"Point"}
 }

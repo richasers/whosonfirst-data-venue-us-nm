@@ -2,13 +2,14 @@
   "id": 202452565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.727348,35.50637,-108.727348,35.50637",
     "geom:latitude":35.50637,
     "geom:longitude":-108.727348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Redrock Dr",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202452565,
-    "wof:lastmodified":1449060707,
+    "wof:lastmodified":1466698568,
     "wof:name":"Jane Macduffie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "midwife"
     ]
 },
-  "bbox": [-108.727348,35.50637,-108.727348,35.50637],
-  "geometry": {"coordinates":[-108.727348,35.50637],"type":"Point"}
+  "bbox": [
+    -108.727348,
+    35.50637,
+    -108.727348,
+    35.50637
+],
+  "geometry": {"coordinates":[-108.72734800000001,35.50637],"type":"Point"}
 }

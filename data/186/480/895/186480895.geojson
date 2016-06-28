@@ -2,13 +2,14 @@
   "id": 186480895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.733645,35.058285,-106.733645,35.058285",
     "geom:latitude":35.058285,
     "geom:longitude":-106.733645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9124 Suncrest Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186480895,
-    "wof:lastmodified":1449051264,
+    "wof:lastmodified":1466700040,
     "wof:name":"Construction Technology & Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "project"
     ]
 },
-  "bbox": [-106.733645,35.058285,-106.733645,35.058285],
+  "bbox": [
+    -106.733645,
+    35.058285,
+    -106.733645,
+    35.058285
+],
   "geometry": {"coordinates":[-106.733645,35.058285],"type":"Point"}
 }

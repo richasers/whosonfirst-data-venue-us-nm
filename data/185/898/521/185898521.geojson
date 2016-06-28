@@ -2,13 +2,14 @@
   "id": 185898521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.797395,32.312861,-106.797395,32.312861",
     "geom:latitude":32.312861,
     "geom:longitude":-106.797395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1545 W Picacho Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185898521,
-    "wof:lastmodified":1449006574,
+    "wof:lastmodified":1466698487,
     "wof:name":"Byrd's Towing",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-106.797395,32.312861,-106.797395,32.312861],
-  "geometry": {"coordinates":[-106.797395,32.312861],"type":"Point"}
+  "bbox": [
+    -106.797395,
+    32.312861,
+    -106.797395,
+    32.312861
+],
+  "geometry": {"coordinates":[-106.79739499999999,32.312861],"type":"Point"}
 }

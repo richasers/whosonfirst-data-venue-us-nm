@@ -2,13 +2,14 @@
   "id": 202938367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.361832,32.943862,-103.361832,32.943862",
     "geom:latitude":32.943862,
     "geom:longitude":-103.361832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 W Ave D",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202938367,
-    "wof:lastmodified":1449061997,
+    "wof:lastmodified":1466700377,
     "wof:name":"Sally's Hair Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.361832,32.943862,-103.361832,32.943862],
-  "geometry": {"coordinates":[-103.361832,32.943862],"type":"Point"}
+  "bbox": [
+    -103.361832,
+    32.943862,
+    -103.361832,
+    32.943862
+],
+  "geometry": {"coordinates":[-103.36183200000001,32.943862],"type":"Point"}
 }

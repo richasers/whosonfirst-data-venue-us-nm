@@ -2,13 +2,14 @@
   "id": 186043585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.673419,35.106159,-106.673419,35.106159",
     "geom:latitude":35.106159,
     "geom:longitude":-106.673419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2432 Rose Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186043585,
-    "wof:lastmodified":1449052350,
+    "wof:lastmodified":1466698172,
     "wof:name":"Second Wind Repair-Woodwinds",
     "wof:parent_id":85831447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "musical"
     ]
 },
-  "bbox": [-106.673419,35.106159,-106.673419,35.106159],
+  "bbox": [
+    -106.673419,
+    35.106159,
+    -106.673419,
+    35.106159
+],
   "geometry": {"coordinates":[-106.673419,35.106159],"type":"Point"}
 }

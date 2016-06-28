@@ -2,13 +2,14 @@
   "id": 202731087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.630971,35.068866,-106.630971,35.068866",
     "geom:latitude":35.068866,
     "geom:longitude":-106.630971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 University Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":202731087,
-    "wof:lastmodified":1449062362,
+    "wof:lastmodified":1466699722,
     "wof:name":"Lobo Store At The Pit Inc",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"
     ]
 },
-  "bbox": [-106.630971,35.068866,-106.630971,35.068866],
+  "bbox": [
+    -106.630971,
+    35.068866,
+    -106.630971,
+    35.068866
+],
   "geometry": {"coordinates":[-106.630971,35.068866],"type":"Point"}
 }

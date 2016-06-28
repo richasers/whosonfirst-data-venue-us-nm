@@ -2,13 +2,14 @@
   "id": 185730425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.96019,35.540991,-105.96019,35.540991",
     "geom:latitude":35.540991,
     "geom:longitude":-105.96019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Cerrado Loop",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185730425,
-    "wof:lastmodified":1449007977,
+    "wof:lastmodified":1466698973,
     "wof:name":"Night Sky Office",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "org"
     ]
 },
-  "bbox": [-105.96019,35.540991,-105.96019,35.540991],
+  "bbox": [
+    -105.96019,
+    35.540991,
+    -105.96019,
+    35.540991
+],
   "geometry": {"coordinates":[-105.96019,35.540991],"type":"Point"}
 }

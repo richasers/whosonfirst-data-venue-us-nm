@@ -2,13 +2,14 @@
   "id": 202913391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.717487,35.057962,-106.717487,35.057962",
     "geom:latitude":35.057962,
     "geom:longitude":-106.717487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1328 Secret Valley Dr SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202913391,
-    "wof:lastmodified":1449061094,
+    "wof:lastmodified":1466700417,
     "wof:name":"Daniel's Trucking",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-106.717487,35.057962,-106.717487,35.057962],
-  "geometry": {"coordinates":[-106.717487,35.057962],"type":"Point"}
+  "bbox": [
+    -106.717487,
+    35.057962,
+    -106.717487,
+    35.057962
+],
+  "geometry": {"coordinates":[-106.71748700000001,35.057962],"type":"Point"}
 }

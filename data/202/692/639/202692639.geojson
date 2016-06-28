@@ -2,13 +2,14 @@
   "id": 202692639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.506194,35.132382,-106.506194,35.132382",
     "geom:latitude":35.132382,
     "geom:longitude":-106.506194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4616 Banff Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202692639,
-    "wof:lastmodified":1449060791,
+    "wof:lastmodified":1466699582,
     "wof:name":"Proforma One Source Imaging",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-106.506194,35.132382,-106.506194,35.132382],
-  "geometry": {"coordinates":[-106.506194,35.132382],"type":"Point"}
+  "bbox": [
+    -106.506194,
+    35.132382,
+    -106.506194,
+    35.132382
+],
+  "geometry": {"coordinates":[-106.50619399999999,35.132382],"type":"Point"}
 }

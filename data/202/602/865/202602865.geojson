@@ -2,13 +2,14 @@
   "id": 202602865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.712015,32.386298,-106.712015,32.386298",
     "geom:latitude":32.386298,
     "geom:longitude":-106.712015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7125 N Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202602865,
-    "wof:lastmodified":1449061312,
+    "wof:lastmodified":1466698418,
     "wof:name":"Alba Welding & Fabrication",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-106.712015,32.386298,-106.712015,32.386298],
-  "geometry": {"coordinates":[-106.712015,32.386298],"type":"Point"}
+  "bbox": [
+    -106.712015,
+    32.386298,
+    -106.712015,
+    32.386298
+],
+  "geometry": {"coordinates":[-106.71201499999999,32.386298],"type":"Point"}
 }

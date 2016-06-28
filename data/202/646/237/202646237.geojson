@@ -2,13 +2,14 @@
   "id": 202646237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.933546,32.890184,-105.933546,32.890184",
     "geom:latitude":32.890184,
     "geom:longitude":-105.933546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 1st St",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202646237,
-    "wof:lastmodified":1449060041,
+    "wof:lastmodified":1466699083,
     "wof:name":"Sears Alamogordo Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-105.933546,32.890184,-105.933546,32.890184],
-  "geometry": {"coordinates":[-105.933546,32.890184],"type":"Point"}
+  "bbox": [
+    -105.933546,
+    32.890184,
+    -105.933546,
+    32.890184
+],
+  "geometry": {"coordinates":[-105.93354600000001,32.890184],"type":"Point"}
 }

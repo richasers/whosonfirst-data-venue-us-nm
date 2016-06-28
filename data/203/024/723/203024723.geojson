@@ -2,13 +2,14 @@
   "id": 203024723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.197875,36.730381,-108.197875,36.730381",
     "geom:latitude":36.730381,
     "geom:longitude":-108.197875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 E Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203024723,
-    "wof:lastmodified":1449025828,
+    "wof:lastmodified":1466697868,
     "wof:name":"Copper Penny Package Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "package"
     ]
 },
-  "bbox": [-108.197875,36.730381,-108.197875,36.730381],
+  "bbox": [
+    -108.197875,
+    36.730381,
+    -108.197875,
+    36.730381
+],
   "geometry": {"coordinates":[-108.197875,36.730381],"type":"Point"}
 }

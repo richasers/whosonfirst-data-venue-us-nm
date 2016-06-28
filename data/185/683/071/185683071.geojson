@@ -2,13 +2,14 @@
   "id": 185683071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.950835,35.669939,-105.950835,35.669939",
     "geom:latitude":35.669939,
     "geom:longitude":-105.950835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 Alta Vista St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185683071,
-    "wof:lastmodified":1449007194,
+    "wof:lastmodified":1466698459,
     "wof:name":"Ponce De Leon Retirement Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-105.950835,35.669939,-105.950835,35.669939],
+  "bbox": [
+    -105.950835,
+    35.669939,
+    -105.950835,
+    35.669939
+],
   "geometry": {"coordinates":[-105.950835,35.669939],"type":"Point"}
 }

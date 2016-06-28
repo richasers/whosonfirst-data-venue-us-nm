@@ -2,13 +2,14 @@
   "id": 186042423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.610441,35.256036,-106.610441,35.256036",
     "geom:latitude":35.256036,
     "geom:longitude":-106.610441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Carey Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186042423,
-    "wof:lastmodified":1449052362,
+    "wof:lastmodified":1466698163,
     "wof:name":"Lynne Sebastian",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.610441,35.256036,-106.610441,35.256036],
-  "geometry": {"coordinates":[-106.610441,35.256036],"type":"Point"}
+  "bbox": [
+    -106.610441,
+    35.256036,
+    -106.610441,
+    35.256036
+],
+  "geometry": {"coordinates":[-106.61044099999999,35.256036],"type":"Point"}
 }

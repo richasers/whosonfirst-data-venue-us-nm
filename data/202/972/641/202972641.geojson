@@ -2,13 +2,14 @@
   "id": 202972641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.741202,35.52751,-108.741202,35.52751",
     "geom:latitude":35.52751,
     "geom:longitude":-108.741202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 W Coal Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202972641,
-    "wof:lastmodified":1449061395,
+    "wof:lastmodified":1466700667,
     "wof:name":"Light Language Photo Studio",
     "wof:parent_id":85802855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-108.741202,35.52751,-108.741202,35.52751],
+  "bbox": [
+    -108.741202,
+    35.52751,
+    -108.741202,
+    35.52751
+],
   "geometry": {"coordinates":[-108.741202,35.52751],"type":"Point"}
 }

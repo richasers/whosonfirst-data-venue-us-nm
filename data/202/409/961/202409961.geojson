@@ -2,13 +2,14 @@
   "id": 202409961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.081259,35.938746,-106.081259,35.938746",
     "geom:latitude":35.938746,
     "geom:longitude":-106.081259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Tumbleweed",
     "sg:city":"Espanola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202409961,
-    "wof:lastmodified":1449061154,
+    "wof:lastmodified":1466698060,
     "wof:name":"Built Right Construction LLC",
     "wof:parent_id":85817671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.081259,35.938746,-106.081259,35.938746],
+  "bbox": [
+    -106.081259,
+    35.938746,
+    -106.081259,
+    35.938746
+],
   "geometry": {"coordinates":[-106.081259,35.938746],"type":"Point"}
 }

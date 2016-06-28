@@ -2,13 +2,14 @@
   "id": 202681499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.200157,34.407698,-103.200157,34.407698",
     "geom:latitude":34.407698,
     "geom:longitude":-103.200157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Wallace St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202681499,
-    "wof:lastmodified":1449061672,
+    "wof:lastmodified":1466699538,
     "wof:name":"John & Sons Custom Cabinets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-103.200157,34.407698,-103.200157,34.407698],
+  "bbox": [
+    -103.200157,
+    34.407698,
+    -103.200157,
+    34.407698
+],
   "geometry": {"coordinates":[-103.200157,34.407698],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186309631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.53644,35.168885,-106.53644,35.168885",
     "geom:latitude":35.168885,
     "geom:longitude":-106.53644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7704 Jacobo Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186309631,
-    "wof:lastmodified":1449050990,
+    "wof:lastmodified":1466699405,
     "wof:name":"Nick Bandame",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-106.53644,35.168885,-106.53644,35.168885],
+  "bbox": [
+    -106.53644,
+    35.168885,
+    -106.53644,
+    35.168885
+],
   "geometry": {"coordinates":[-106.53644,35.168885],"type":"Point"}
 }

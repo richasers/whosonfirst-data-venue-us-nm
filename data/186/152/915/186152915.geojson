@@ -2,13 +2,14 @@
   "id": 186152915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.682994,35.075987,-106.682994,35.075987",
     "geom:latitude":35.075987,
     "geom:longitude":-106.682994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1722 Sunset Gardens Rd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186152915,
-    "wof:lastmodified":1449052390,
+    "wof:lastmodified":1466699337,
     "wof:name":"Sunrise Fresh Juices",
     "wof:parent_id":85892605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.682994,35.075987,-106.682994,35.075987],
-  "geometry": {"coordinates":[-106.682994,35.075987],"type":"Point"}
+  "bbox": [
+    -106.682994,
+    35.075987,
+    -106.682994,
+    35.075987
+],
+  "geometry": {"coordinates":[-106.68299399999999,35.075987],"type":"Point"}
 }

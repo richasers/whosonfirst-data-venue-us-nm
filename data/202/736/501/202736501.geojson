@@ -2,13 +2,14 @@
   "id": 202736501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.983532,36.711421,-107.983532,36.711421",
     "geom:latitude":36.711421,
     "geom:longitude":-107.983532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 W Broadway Ave",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202736501,
-    "wof:lastmodified":1449062607,
+    "wof:lastmodified":1466699729,
     "wof:name":"D J's Pizza & Family Dining",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pizza"
     ]
 },
-  "bbox": [-107.983532,36.711421,-107.983532,36.711421],
+  "bbox": [
+    -107.983532,
+    36.711421,
+    -107.983532,
+    36.711421
+],
   "geometry": {"coordinates":[-107.983532,36.711421],"type":"Point"}
 }

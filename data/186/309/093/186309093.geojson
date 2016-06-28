@@ -2,13 +2,14 @@
   "id": 186309093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.923324,35.674878,-105.923324,35.674878",
     "geom:latitude":35.674878,
     "geom:longitude":-105.923324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Cam Santander",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186309093,
-    "wof:lastmodified":1449050987,
+    "wof:lastmodified":1466699404,
     "wof:name":"Streets Of Taos",
     "wof:parent_id":85880791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "indian"
     ]
 },
-  "bbox": [-105.923324,35.674878,-105.923324,35.674878],
-  "geometry": {"coordinates":[-105.923324,35.674878],"type":"Point"}
+  "bbox": [
+    -105.923324,
+    35.674878,
+    -105.923324,
+    35.674878
+],
+  "geometry": {"coordinates":[-105.92332399999999,35.674878],"type":"Point"}
 }

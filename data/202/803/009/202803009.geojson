@@ -2,13 +2,14 @@
   "id": 202803009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.517471,35.116011,-106.517471,35.116011",
     "geom:latitude":35.116011,
     "geom:longitude":-106.517471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2916 Maxine St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202803009,
-    "wof:lastmodified":1449062687,
+    "wof:lastmodified":1466700084,
     "wof:name":"Walker Ventures Inc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-106.517471,35.116011,-106.517471,35.116011],
+  "bbox": [
+    -106.517471,
+    35.116011,
+    -106.517471,
+    35.116011
+],
   "geometry": {"coordinates":[-106.517471,35.116011],"type":"Point"}
 }

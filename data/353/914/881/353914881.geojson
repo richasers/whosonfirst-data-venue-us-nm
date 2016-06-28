@@ -2,13 +2,14 @@
   "id": 353914881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.363998,35.122501,-106.363998,35.122501",
     "geom:latitude":35.122501,
     "geom:longitude":-106.363998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Vera Cruz",
     "sg:city":"Cedar Crest",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353914881,
-    "wof:lastmodified":1449019236,
+    "wof:lastmodified":1466697629,
     "wof:name":"Plumbing Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.363998,35.122501,-106.363998,35.122501],
+  "bbox": [
+    -106.363998,
+    35.122501,
+    -106.363998,
+    35.122501
+],
   "geometry": {"coordinates":[-106.363998,35.122501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185732835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.205766,34.429371,-103.205766,34.429371",
     "geom:latitude":34.429371,
     "geom:longitude":-103.205766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Acoma Dr",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185732835,
-    "wof:lastmodified":1449008275,
+    "wof:lastmodified":1466699005,
     "wof:name":"Church Of The Brethren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-103.205766,34.429371,-103.205766,34.429371],
+  "bbox": [
+    -103.205766,
+    34.429371,
+    -103.205766,
+    34.429371
+],
   "geometry": {"coordinates":[-103.205766,34.429371],"type":"Point"}
 }

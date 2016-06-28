@@ -2,13 +2,14 @@
   "id": 202433231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.630445,35.060937,-106.630445,35.060937",
     "geom:latitude":35.060937,
     "geom:longitude":-106.630445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1841 Ash Ct SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202433231,
-    "wof:lastmodified":1449060400,
+    "wof:lastmodified":1466698343,
     "wof:name":"Viatech Global",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.630445,35.060937,-106.630445,35.060937],
-  "geometry": {"coordinates":[-106.630445,35.060937],"type":"Point"}
+  "bbox": [
+    -106.630445,
+    35.060937,
+    -106.630445,
+    35.060937
+],
+  "geometry": {"coordinates":[-106.63044499999999,35.060937],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186567325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.959545,35.655295,-105.959545,35.655295",
     "geom:latitude":35.655295,
     "geom:longitude":-105.959545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2028 Pla de Vida",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186567325,
-    "wof:lastmodified":1449053045,
+    "wof:lastmodified":1466700533,
     "wof:name":"LP Roofing Inc",
     "wof:parent_id":85880859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.959545,35.655295,-105.959545,35.655295],
-  "geometry": {"coordinates":[-105.959545,35.655295],"type":"Point"}
+  "bbox": [
+    -105.959545,
+    35.655295,
+    -105.959545,
+    35.655295
+],
+  "geometry": {"coordinates":[-105.95954500000001,35.655295],"type":"Point"}
 }

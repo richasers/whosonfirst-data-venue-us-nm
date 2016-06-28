@@ -2,13 +2,14 @@
   "id": 185911557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.146028,32.710903,-103.146028,32.710903",
     "geom:latitude":32.710903,
     "geom:longitude":-103.146028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"824 N Burk St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185911557,
-    "wof:lastmodified":1449007970,
+    "wof:lastmodified":1466698679,
     "wof:name":"Vetco Gray Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-103.146028,32.710903,-103.146028,32.710903],
+  "bbox": [
+    -103.146028,
+    32.710903,
+    -103.146028,
+    32.710903
+],
   "geometry": {"coordinates":[-103.146028,32.710903],"type":"Point"}
 }

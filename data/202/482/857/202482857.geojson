@@ -2,13 +2,14 @@
   "id": 202482857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.796815,34.622898,-106.796815,34.622898",
     "geom:latitude":34.622898,
     "geom:longitude":-106.796815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Palomar Dr",
     "sg:city":"Belen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202482857,
-    "wof:lastmodified":1449061005,
+    "wof:lastmodified":1466699009,
     "wof:name":"Occlusal View Dental Svc",
     "wof:parent_id":85804151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-106.796815,34.622898,-106.796815,34.622898],
+  "bbox": [
+    -106.796815,
+    34.622898,
+    -106.796815,
+    34.622898
+],
   "geometry": {"coordinates":[-106.796815,34.622898],"type":"Point"}
 }

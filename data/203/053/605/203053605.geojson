@@ -2,13 +2,14 @@
   "id": 203053605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.726923,32.251574,-107.726923,32.251574",
     "geom:latitude":32.251574,
     "geom:longitude":-107.726923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Raymond Reed Blvd",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203053605,
-    "wof:lastmodified":1449025293,
+    "wof:lastmodified":1466698178,
     "wof:name":"Feiller Construction & Dev Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-107.726923,32.251574,-107.726923,32.251574],
+  "bbox": [
+    -107.726923,
+    32.251574,
+    -107.726923,
+    32.251574
+],
   "geometry": {"coordinates":[-107.726923,32.251574],"type":"Point"}
 }

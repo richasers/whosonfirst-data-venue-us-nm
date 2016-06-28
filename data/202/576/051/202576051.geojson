@@ -2,13 +2,14 @@
   "id": 202576051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.011956,36.690617,-108.011956,36.690617",
     "geom:latitude":36.690617,
     "geom:longitude":-108.011956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Rd 5025",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202576051,
-    "wof:lastmodified":1449062080,
+    "wof:lastmodified":1466698026,
     "wof:name":"Builders Plus Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.011956,36.690617,-108.011956,36.690617],
+  "bbox": [
+    -108.011956,
+    36.690617,
+    -108.011956,
+    36.690617
+],
   "geometry": {"coordinates":[-108.011956,36.690617],"type":"Point"}
 }

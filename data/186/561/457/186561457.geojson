@@ -2,13 +2,14 @@
   "id": 186561457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.226883,36.846902,-108.226883,36.846902",
     "geom:latitude":36.846902,
     "geom:longitude":-108.226883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"779 State Hwy 170",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186561457,
-    "wof:lastmodified":1449052259,
+    "wof:lastmodified":1466700508,
     "wof:name":"J Scott Fishburn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-108.226883,36.846902,-108.226883,36.846902],
+  "bbox": [
+    -108.226883,
+    36.846902,
+    -108.226883,
+    36.846902
+],
   "geometry": {"coordinates":[-108.226883,36.846902],"type":"Point"}
 }

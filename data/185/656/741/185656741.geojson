@@ -2,13 +2,14 @@
   "id": 185656741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.623128,35.067729,-106.623128,35.067729",
     "geom:latitude":35.067729,
     "geom:longitude":-106.623128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 Wilmoore Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185656741,
-    "wof:lastmodified":1449007645,
+    "wof:lastmodified":1466698205,
     "wof:name":"Klauschie Services",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.623128,35.067729,-106.623128,35.067729],
-  "geometry": {"coordinates":[-106.623128,35.067729],"type":"Point"}
+  "bbox": [
+    -106.623128,
+    35.067729,
+    -106.623128,
+    35.067729
+],
+  "geometry": {"coordinates":[-106.62312799999999,35.067729],"type":"Point"}
 }

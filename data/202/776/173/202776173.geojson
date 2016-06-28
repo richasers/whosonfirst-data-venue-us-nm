@@ -2,13 +2,14 @@
   "id": 202776173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.78467,32.39354,-106.78467,32.39354",
     "geom:latitude":32.39354,
     "geom:longitude":-106.78467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 Chiricahua Trl",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202776173,
-    "wof:lastmodified":1449060678,
+    "wof:lastmodified":1466699855,
     "wof:name":"Current Controls Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.78467,32.39354,-106.78467,32.39354],
-  "geometry": {"coordinates":[-106.78467,32.39354],"type":"Point"}
+  "bbox": [
+    -106.78467,
+    32.39354,
+    -106.78467,
+    32.39354
+],
+  "geometry": {"coordinates":[-106.78467000000001,32.39354],"type":"Point"}
 }

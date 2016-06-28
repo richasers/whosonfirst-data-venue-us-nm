@@ -2,13 +2,14 @@
   "id": 185714645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.026473,35.624326,-106.026473,35.624326",
     "geom:latitude":35.624326,
     "geom:longitude":-106.026473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6820 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185714645,
-    "wof:lastmodified":1449007417,
+    "wof:lastmodified":1466698776,
     "wof:name":"Job Site",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furnishing"
     ]
 },
-  "bbox": [-106.026473,35.624326,-106.026473,35.624326],
+  "bbox": [
+    -106.026473,
+    35.624326,
+    -106.026473,
+    35.624326
+],
   "geometry": {"coordinates":[-106.026473,35.624326],"type":"Point"}
 }

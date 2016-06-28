@@ -2,13 +2,14 @@
   "id": 186385659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.685469,32.118821,-106.685469,32.118821",
     "geom:latitude":32.118821,
     "geom:longitude":-106.685469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"775 Esslinger Rd",
     "sg:city":"La Mesa",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186385659,
-    "wof:lastmodified":1449051961,
+    "wof:lastmodified":1466699789,
     "wof:name":"Bigbee Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.685469,32.118821,-106.685469,32.118821],
+  "bbox": [
+    -106.685469,
+    32.118821,
+    -106.685469,
+    32.118821
+],
   "geometry": {"coordinates":[-106.685469,32.118821],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185667099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.222814,35.594099,-105.222814,35.594099",
     "geom:latitude":35.594099,
     "geom:longitude":-105.222814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 National Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185667099,
-    "wof:lastmodified":1449007650,
+    "wof:lastmodified":1466698312,
     "wof:name":"Las Vegas Community Arts Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "art"
     ]
 },
-  "bbox": [-105.222814,35.594099,-105.222814,35.594099],
+  "bbox": [
+    -105.222814,
+    35.594099,
+    -105.222814,
+    35.594099
+],
   "geometry": {"coordinates":[-105.222814,35.594099],"type":"Point"}
 }

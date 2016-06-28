@@ -2,13 +2,14 @@
   "id": 185745191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.345778,36.741395,-108.345778,36.741395",
     "geom:latitude":36.741395,
     "geom:longitude":-108.345778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Rd 6407",
     "sg:city":"Kirtland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185745191,
-    "wof:lastmodified":1449008124,
+    "wof:lastmodified":1466699106,
     "wof:name":"Taylor Made Taxes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-108.345778,36.741395,-108.345778,36.741395],
+  "bbox": [
+    -108.345778,
+    36.741395,
+    -108.345778,
+    36.741395
+],
   "geometry": {"coordinates":[-108.345778,36.741395],"type":"Point"}
 }

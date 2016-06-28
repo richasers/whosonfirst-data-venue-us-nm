@@ -2,13 +2,14 @@
   "id": 185905435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.177254,36.94162,-108.177254,36.94162",
     "geom:latitude":36.94162,
     "geom:longitude":-108.177254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Rd 1305",
     "sg:city":"La Plata",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185905435,
-    "wof:lastmodified":1449007255,
+    "wof:lastmodified":1466698598,
     "wof:name":"Custom Home Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.177254,36.94162,-108.177254,36.94162],
+  "bbox": [
+    -108.177254,
+    36.94162,
+    -108.177254,
+    36.94162
+],
   "geometry": {"coordinates":[-108.177254,36.94162],"type":"Point"}
 }

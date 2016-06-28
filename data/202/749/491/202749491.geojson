@@ -2,13 +2,14 @@
   "id": 202749491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.180694,36.445949,-103.180694,36.445949",
     "geom:latitude":36.445949,
     "geom:longitude":-103.180694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 S 1st St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202749491,
-    "wof:lastmodified":1449060845,
+    "wof:lastmodified":1466699677,
     "wof:name":"Love's Country Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "stops"
     ]
 },
-  "bbox": [-103.180694,36.445949,-103.180694,36.445949],
+  "bbox": [
+    -103.180694,
+    36.445949,
+    -103.180694,
+    36.445949
+],
   "geometry": {"coordinates":[-103.180694,36.445949],"type":"Point"}
 }

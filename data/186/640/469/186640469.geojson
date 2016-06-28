@@ -2,13 +2,14 @@
   "id": 186640469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.583301,35.166987,-106.583301,35.166987",
     "geom:latitude":35.166987,
     "geom:longitude":-106.583301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5610 San Francisco Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186640469,
-    "wof:lastmodified":1449051536,
+    "wof:lastmodified":1466700779,
     "wof:name":"Southwest Museum Svc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.583301,35.166987,-106.583301,35.166987],
-  "geometry": {"coordinates":[-106.583301,35.166987],"type":"Point"}
+  "bbox": [
+    -106.583301,
+    35.166987,
+    -106.583301,
+    35.166987
+],
+  "geometry": {"coordinates":[-106.58330100000001,35.166987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169798891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.991663,35.661493,-105.991663,35.661493",
     "geom:latitude":35.661493,
     "geom:longitude":-105.991663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2886 Trades West Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169798891,
-    "wof:lastmodified":1449033301,
+    "wof:lastmodified":1466698585,
     "wof:name":"Onsite Automotive LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-105.991663,35.661493,-105.991663,35.661493],
+  "bbox": [
+    -105.991663,
+    35.661493,
+    -105.991663,
+    35.661493
+],
   "geometry": {"coordinates":[-105.991663,35.661493],"type":"Point"}
 }

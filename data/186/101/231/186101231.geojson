@@ -2,13 +2,14 @@
   "id": 186101231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.965236,35.659366,-105.965236,35.659366",
     "geom:latitude":35.659366,
     "geom:longitude":-105.965236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"856 Saint Michaels Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186101231,
-    "wof:lastmodified":1449051784,
+    "wof:lastmodified":1466698927,
     "wof:name":"Sierra West Sales",
     "wof:parent_id":85880809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.965236,35.659366,-105.965236,35.659366],
+  "bbox": [
+    -105.965236,
+    35.659366,
+    -105.965236,
+    35.659366
+],
   "geometry": {"coordinates":[-105.965236,35.659366],"type":"Point"}
 }

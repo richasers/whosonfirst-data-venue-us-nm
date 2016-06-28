@@ -2,13 +2,14 @@
   "id": 202433101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.257823,35.875798,-106.257823,35.875798",
     "geom:latitude":35.875798,
     "geom:longitude":-106.257823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2470 East Rd",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202433101,
-    "wof:lastmodified":1449060399,
+    "wof:lastmodified":1466698340,
     "wof:name":"Jemez Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-106.257823,35.875798,-106.257823,35.875798],
+  "bbox": [
+    -106.257823,
+    35.875798,
+    -106.257823,
+    35.875798
+],
   "geometry": {"coordinates":[-106.257823,35.875798],"type":"Point"}
 }

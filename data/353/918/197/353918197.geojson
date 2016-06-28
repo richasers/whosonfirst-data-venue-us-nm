@@ -2,13 +2,14 @@
   "id": 353918197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.323997,35.1036,-106.323997,35.1036",
     "geom:latitude":35.1036,
     "geom:longitude":-106.323997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Venado Rd",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353918197,
-    "wof:lastmodified":1449019975,
+    "wof:lastmodified":1466697674,
     "wof:name":"Lone Rangers Gn & Pwn SE Ln Rngrs Gn & Pwn Lne Slr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"
     ]
 },
-  "bbox": [-106.323997,35.1036,-106.323997,35.1036],
-  "geometry": {"coordinates":[-106.323997,35.1036],"type":"Point"}
+  "bbox": [
+    -106.323997,
+    35.1036,
+    -106.323997,
+    35.1036
+],
+  "geometry": {"coordinates":[-106.32399700000001,35.1036],"type":"Point"}
 }

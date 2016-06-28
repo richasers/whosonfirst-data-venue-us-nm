@@ -2,13 +2,14 @@
   "id": 186189833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.99827,35.648574,-105.99827,35.648574",
     "geom:latitude":35.648574,
     "geom:longitude":-105.99827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3265 Louraine St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186189833,
-    "wof:lastmodified":1449052248,
+    "wof:lastmodified":1466697892,
     "wof:name":"Los Unidos Club",
     "wof:parent_id":85880845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "membership"
     ]
 },
-  "bbox": [-105.99827,35.648574,-105.99827,35.648574],
-  "geometry": {"coordinates":[-105.99827,35.648574],"type":"Point"}
+  "bbox": [
+    -105.99827,
+    35.648574,
+    -105.99827,
+    35.648574
+],
+  "geometry": {"coordinates":[-105.99827000000001,35.648574],"type":"Point"}
 }

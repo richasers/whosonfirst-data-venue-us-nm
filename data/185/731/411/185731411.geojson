@@ -2,13 +2,14 @@
   "id": 185731411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.95677,32.890291,-105.95677,32.890291",
     "geom:latitude":32.890291,
     "geom:longitude":-105.95677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 1st St",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185731411,
-    "wof:lastmodified":1449008038,
+    "wof:lastmodified":1466698981,
     "wof:name":"Atkins Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.95677,32.890291,-105.95677,32.890291],
-  "geometry": {"coordinates":[-105.95677,32.890291],"type":"Point"}
+  "bbox": [
+    -105.95677,
+    32.890291,
+    -105.95677,
+    32.890291
+],
+  "geometry": {"coordinates":[-105.95677000000001,32.890291],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202655275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.025326,35.637195,-106.025326,35.637195",
     "geom:latitude":35.637195,
     "geom:longitude":-106.025326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4384 Center Pl",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202655275,
-    "wof:lastmodified":1449061560,
+    "wof:lastmodified":1466699212,
     "wof:name":"Armijo Design Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.025326,35.637195,-106.025326,35.637195],
-  "geometry": {"coordinates":[-106.025326,35.637195],"type":"Point"}
+  "bbox": [
+    -106.025326,
+    35.637195,
+    -106.025326,
+    35.637195
+],
+  "geometry": {"coordinates":[-106.02532600000001,35.637195],"type":"Point"}
 }

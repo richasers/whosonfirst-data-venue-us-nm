@@ -2,13 +2,14 @@
   "id": 202388245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.505254,33.429632,-104.505254,33.429632",
     "geom:latitude":33.429632,
     "geom:longitude":-104.505254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 el Arco Iris Dr",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202388245,
-    "wof:lastmodified":1449060192,
+    "wof:lastmodified":1466697783,
     "wof:name":"Adobe Spine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-104.505254,33.429632,-104.505254,33.429632],
-  "geometry": {"coordinates":[-104.505254,33.429632],"type":"Point"}
+  "bbox": [
+    -104.505254,
+    33.429632,
+    -104.505254,
+    33.429632
+],
+  "geometry": {"coordinates":[-104.50525399999999,33.429632],"type":"Point"}
 }

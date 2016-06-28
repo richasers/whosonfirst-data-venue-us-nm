@@ -2,13 +2,14 @@
   "id": 185884493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.214885,36.725413,-108.214885,36.725413",
     "geom:latitude":36.725413,
     "geom:longitude":-108.214885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 S Schwartz Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":185884493,
-    "wof:lastmodified":1449007914,
+    "wof:lastmodified":1466698363,
     "wof:name":"San Juan Regional Rehab Phys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-108.214885,36.725413,-108.214885,36.725413],
+  "bbox": [
+    -108.214885,
+    36.725413,
+    -108.214885,
+    36.725413
+],
   "geometry": {"coordinates":[-108.214885,36.725413],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202591727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.218878,32.449706,-104.218878,32.449706",
     "geom:latitude":32.449706,
     "geom:longitude":-104.218878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 E Cherry Ln",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202591727,
-    "wof:lastmodified":1449061469,
+    "wof:lastmodified":1466698267,
     "wof:name":"Carlsbad Monument Co",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-104.218878,32.449706,-104.218878,32.449706],
+  "bbox": [
+    -104.218878,
+    32.449706,
+    -104.218878,
+    32.449706
+],
   "geometry": {"coordinates":[-104.218878,32.449706],"type":"Point"}
 }

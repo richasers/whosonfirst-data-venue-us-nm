@@ -2,13 +2,14 @@
   "id": 202947601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.586387,35.094588,-106.586387,35.094588",
     "geom:latitude":35.094588,
     "geom:longitude":-106.586387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5208 Constitution Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202947601,
-    "wof:lastmodified":1449061938,
+    "wof:lastmodified":1466700537,
     "wof:name":"Headliners Hair & Nail Studio",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.586387,35.094588,-106.586387,35.094588],
+  "bbox": [
+    -106.586387,
+    35.094588,
+    -106.586387,
+    35.094588
+],
   "geometry": {"coordinates":[-106.586387,35.094588],"type":"Point"}
 }

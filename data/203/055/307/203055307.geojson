@@ -2,13 +2,14 @@
   "id": 203055307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.565002,35.146837,-106.565002,35.146837",
     "geom:latitude":35.146837,
     "geom:longitude":-106.565002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7424 Brazos Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203055307,
-    "wof:lastmodified":1449025351,
+    "wof:lastmodified":1466698185,
     "wof:name":"Ernest C Young Interiors",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "decorator"
     ]
 },
-  "bbox": [-106.565002,35.146837,-106.565002,35.146837],
-  "geometry": {"coordinates":[-106.565002,35.146837],"type":"Point"}
+  "bbox": [
+    -106.565002,
+    35.146837,
+    -106.565002,
+    35.146837
+],
+  "geometry": {"coordinates":[-106.56500200000001,35.146837],"type":"Point"}
 }

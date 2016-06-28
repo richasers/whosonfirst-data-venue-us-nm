@@ -2,13 +2,14 @@
   "id": 202566497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.421411,32.842259,-104.421411,32.842259",
     "geom:latitude":32.842259,
     "geom:longitude":-104.421411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 W Main St",
     "sg:city":"Artesia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202566497,
-    "wof:lastmodified":1449060158,
+    "wof:lastmodified":1466697888,
     "wof:name":"Letcher Golden & Assoc Inc",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.421411,32.842259,-104.421411,32.842259],
-  "geometry": {"coordinates":[-104.421411,32.842259],"type":"Point"}
+  "bbox": [
+    -104.421411,
+    32.842259,
+    -104.421411,
+    32.842259
+],
+  "geometry": {"coordinates":[-104.42141100000001,32.842259],"type":"Point"}
 }

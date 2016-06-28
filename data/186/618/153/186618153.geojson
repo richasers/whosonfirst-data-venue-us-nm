@@ -2,13 +2,14 @@
   "id": 186618153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.247095,32.447344,-104.247095,32.447344",
     "geom:latitude":32.447344,
     "geom:longitude":-104.247095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1422 S Country Club Cir",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":186618153,
-    "wof:lastmodified":1449052034,
+    "wof:lastmodified":1466700696,
     "wof:name":"Nth Dimension Collectibles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.247095,32.447344,-104.247095,32.447344],
+  "bbox": [
+    -104.247095,
+    32.447344,
+    -104.247095,
+    32.447344
+],
   "geometry": {"coordinates":[-104.247095,32.447344],"type":"Point"}
 }

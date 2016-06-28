@@ -2,13 +2,14 @@
   "id": 186163277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.126956,35.565571,-106.126956,35.565571",
     "geom:latitude":35.565571,
     "geom:longitude":-106.126956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Cam Capilla Vieja",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186163277,
-    "wof:lastmodified":1449052976,
+    "wof:lastmodified":1466699361,
     "wof:name":"RJM Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.126956,35.565571,-106.126956,35.565571],
-  "geometry": {"coordinates":[-106.126956,35.565571],"type":"Point"}
+  "bbox": [
+    -106.126956,
+    35.565571,
+    -106.126956,
+    35.565571
+],
+  "geometry": {"coordinates":[-106.12695600000001,35.565571],"type":"Point"}
 }

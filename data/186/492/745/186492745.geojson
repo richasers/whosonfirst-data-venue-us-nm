@@ -2,13 +2,14 @@
   "id": 186492745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.79334,32.309804,-106.79334,32.309804",
     "geom:latitude":32.309804,
     "geom:longitude":-106.79334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 W Hadley Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186492745,
-    "wof:lastmodified":1449050251,
+    "wof:lastmodified":1466700294,
     "wof:name":"Avila Fence Co",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-106.79334,32.309804,-106.79334,32.309804],
+  "bbox": [
+    -106.79334,
+    32.309804,
+    -106.79334,
+    32.309804
+],
   "geometry": {"coordinates":[-106.79334,32.309804],"type":"Point"}
 }

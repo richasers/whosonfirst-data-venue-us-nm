@@ -2,13 +2,14 @@
   "id": 185960487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604039,35.124236,-106.604039,35.124236",
     "geom:latitude":35.124236,
     "geom:longitude":-106.604039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3816 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":185960487,
-    "wof:lastmodified":1449007747,
+    "wof:lastmodified":1466699385,
     "wof:name":"Acme Environmental Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.604039,35.124236,-106.604039,35.124236],
+  "bbox": [
+    -106.604039,
+    35.124236,
+    -106.604039,
+    35.124236
+],
   "geometry": {"coordinates":[-106.604039,35.124236],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353939243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.583553,35.144902,-106.583553,35.144902",
     "geom:latitude":35.144902,
     "geom:longitude":-106.583553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5741 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353939243,
-    "wof:lastmodified":1449019018,
+    "wof:lastmodified":1466698254,
     "wof:name":"Padilla Portraits",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "darkroom"
     ]
 },
-  "bbox": [-106.583553,35.144902,-106.583553,35.144902],
-  "geometry": {"coordinates":[-106.583553,35.144902],"type":"Point"}
+  "bbox": [
+    -106.583553,
+    35.144902,
+    -106.583553,
+    35.144902
+],
+  "geometry": {"coordinates":[-106.58355299999999,35.144902],"type":"Point"}
 }

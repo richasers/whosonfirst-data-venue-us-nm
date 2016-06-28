@@ -2,13 +2,14 @@
   "id": 186483983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.019799,35.646129,-106.019799,35.646129",
     "geom:latitude":35.646129,
     "geom:longitude":-106.019799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Cam de Jacobo",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186483983,
-    "wof:lastmodified":1449052440,
+    "wof:lastmodified":1466700184,
     "wof:name":"Santa Fe Cty Housing Authority",
     "wof:parent_id":85880815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "housing"
     ]
 },
-  "bbox": [-106.019799,35.646129,-106.019799,35.646129],
-  "geometry": {"coordinates":[-106.019799,35.646129],"type":"Point"}
+  "bbox": [
+    -106.019799,
+    35.646129,
+    -106.019799,
+    35.646129
+],
+  "geometry": {"coordinates":[-106.01979900000001,35.646129],"type":"Point"}
 }

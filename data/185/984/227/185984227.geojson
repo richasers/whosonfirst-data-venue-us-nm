@@ -2,13 +2,14 @@
   "id": 185984227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.705785,35.05582,-106.705785,35.05582",
     "geom:latitude":35.05582,
     "geom:longitude":-106.705785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1607 Coors Blvd SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185984227,
-    "wof:lastmodified":1449007513,
+    "wof:lastmodified":1466699521,
     "wof:name":"All Washed Up Laundry Mat",
     "wof:parent_id":85892601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.705785,35.05582,-106.705785,35.05582],
-  "geometry": {"coordinates":[-106.705785,35.05582],"type":"Point"}
+  "bbox": [
+    -106.705785,
+    35.05582,
+    -106.705785,
+    35.05582
+],
+  "geometry": {"coordinates":[-106.70578500000001,35.05582],"type":"Point"}
 }

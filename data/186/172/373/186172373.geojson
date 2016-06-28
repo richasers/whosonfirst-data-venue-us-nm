@@ -2,13 +2,14 @@
   "id": 186172373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.626445,35.112228,-106.626445,35.112228",
     "geom:latitude":35.112228,
     "geom:longitude":-106.626445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 Pan American Fwy",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186172373,
-    "wof:lastmodified":1449051452,
+    "wof:lastmodified":1466697667,
     "wof:name":"Bite Size Bakery",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-106.626445,35.112228,-106.626445,35.112228],
+  "bbox": [
+    -106.626445,
+    35.112228,
+    -106.626445,
+    35.112228
+],
   "geometry": {"coordinates":[-106.626445,35.112228],"type":"Point"}
 }

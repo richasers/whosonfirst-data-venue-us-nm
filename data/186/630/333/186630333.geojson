@@ -2,13 +2,14 @@
   "id": 186630333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.211529,36.721465,-108.211529,36.721465",
     "geom:latitude":36.721465,
     "geom:longitude":-108.211529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"955 S Auburn Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186630333,
-    "wof:lastmodified":1449051353,
+    "wof:lastmodified":1466700832,
     "wof:name":"Complete Mobile Home Parts Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parts"
     ]
 },
-  "bbox": [-108.211529,36.721465,-108.211529,36.721465],
+  "bbox": [
+    -108.211529,
+    36.721465,
+    -108.211529,
+    36.721465
+],
   "geometry": {"coordinates":[-108.211529,36.721465],"type":"Point"}
 }

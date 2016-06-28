@@ -2,13 +2,14 @@
   "id": 202796619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649085,35.084306,-106.649085,35.084306",
     "geom:latitude":35.084306,
     "geom:longitude":-106.649085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Central Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202796619,
-    "wof:lastmodified":1449061319,
+    "wof:lastmodified":1466699852,
     "wof:name":"Wingspread Guides Of NM Inc",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.649085,35.084306,-106.649085,35.084306],
+  "bbox": [
+    -106.649085,
+    35.084306,
+    -106.649085,
+    35.084306
+],
   "geometry": {"coordinates":[-106.649085,35.084306],"type":"Point"}
 }

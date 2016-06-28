@@ -2,13 +2,14 @@
   "id": 186048181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.252937,33.135949,-107.252937,33.135949",
     "geom:latitude":33.135949,
     "geom:longitude":-107.252937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Fir St",
     "sg:city":"Truth Or Consequences",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186048181,
-    "wof:lastmodified":1449051329,
+    "wof:lastmodified":1466698230,
     "wof:name":"Rocky S Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.252937,33.135949,-107.252937,33.135949],
+  "bbox": [
+    -107.252937,
+    33.135949,
+    -107.252937,
+    33.135949
+],
   "geometry": {"coordinates":[-107.252937,33.135949],"type":"Point"}
 }

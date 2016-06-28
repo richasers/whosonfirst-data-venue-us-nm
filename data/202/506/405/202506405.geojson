@@ -2,13 +2,14 @@
   "id": 202506405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.679951,35.171784,-103.679951,35.171784",
     "geom:latitude":35.171784,
     "geom:longitude":-103.679951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 E Tucumcari Blvd",
     "sg:city":"Tucumcari",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202506405,
-    "wof:lastmodified":1449060163,
+    "wof:lastmodified":1466699183,
     "wof:name":"Holiday Gas & Tire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-103.679951,35.171784,-103.679951,35.171784],
+  "bbox": [
+    -103.679951,
+    35.171784,
+    -103.679951,
+    35.171784
+],
   "geometry": {"coordinates":[-103.679951,35.171784],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186272741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.602274,33.535781,-105.602274,33.535781",
     "geom:latitude":33.535781,
     "geom:longitude":-105.602274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Crest View Rd",
     "sg:city":"Capitan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186272741,
-    "wof:lastmodified":1449052845,
+    "wof:lastmodified":1466698952,
     "wof:name":"Champion Building Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.602274,33.535781,-105.602274,33.535781],
-  "geometry": {"coordinates":[-105.602274,33.535781],"type":"Point"}
+  "bbox": [
+    -105.602274,
+    33.535781,
+    -105.602274,
+    33.535781
+],
+  "geometry": {"coordinates":[-105.60227399999999,33.535781],"type":"Point"}
 }

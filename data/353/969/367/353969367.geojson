@@ -2,13 +2,14 @@
   "id": 353969367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.760354,35.518199,-108.760354,35.518199",
     "geom:latitude":35.518199,
     "geom:longitude":-108.760354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"248 Viro Cir",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353969367,
-    "wof:lastmodified":1449018867,
+    "wof:lastmodified":1466698989,
     "wof:name":"Nick Bubany Metal Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-108.760354,35.518199,-108.760354,35.518199],
-  "geometry": {"coordinates":[-108.760354,35.518199],"type":"Point"}
+  "bbox": [
+    -108.760354,
+    35.518199,
+    -108.760354,
+    35.518199
+],
+  "geometry": {"coordinates":[-108.76035400000001,35.518199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185685871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.487701,35.131133,-106.487701,35.131133",
     "geom:latitude":35.131133,
     "geom:longitude":-106.487701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13301 Sunset Canyon Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185685871,
-    "wof:lastmodified":1449008142,
+    "wof:lastmodified":1466698493,
     "wof:name":"Grant Land LLC",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "policy"
     ]
 },
-  "bbox": [-106.487701,35.131133,-106.487701,35.131133],
+  "bbox": [
+    -106.487701,
+    35.131133,
+    -106.487701,
+    35.131133
+],
   "geometry": {"coordinates":[-106.487701,35.131133],"type":"Point"}
 }

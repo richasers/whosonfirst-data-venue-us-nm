@@ -2,13 +2,14 @@
   "id": 186455135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.378311,32.176311,-104.378311,32.176311",
     "geom:latitude":32.176311,
     "geom:longitude":-104.378311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Carlsbad Cavern Hwy",
     "sg:city":"Whites City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186455135,
-    "wof:lastmodified":1449052573,
+    "wof:lastmodified":1466700052,
     "wof:name":"US Post Office",
     "wof:parent_id":85846899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.378311,32.176311,-104.378311,32.176311],
+  "bbox": [
+    -104.378311,
+    32.176311,
+    -104.378311,
+    32.176311
+],
   "geometry": {"coordinates":[-104.378311,32.176311],"type":"Point"}
 }

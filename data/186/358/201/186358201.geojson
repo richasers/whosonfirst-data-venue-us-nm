@@ -2,13 +2,14 @@
   "id": 186358201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.661737,35.088129,-106.661737,35.088129",
     "geom:latitude":35.088129,
     "geom:longitude":-106.661737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 Central Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186358201,
-    "wof:lastmodified":1449051506,
+    "wof:lastmodified":1466699564,
     "wof:name":"Downtown Inn",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.661737,35.088129,-106.661737,35.088129],
+  "bbox": [
+    -106.661737,
+    35.088129,
+    -106.661737,
+    35.088129
+],
   "geometry": {"coordinates":[-106.661737,35.088129],"type":"Point"}
 }

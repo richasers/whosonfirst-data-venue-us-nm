@@ -2,13 +2,14 @@
   "id": 185818427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.569243,36.407144,-105.569243,36.407144",
     "geom:latitude":36.407144,
     "geom:longitude":-105.569243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Morada Ln",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185818427,
-    "wof:lastmodified":1449007409,
+    "wof:lastmodified":1466697665,
     "wof:name":"Gallery Elena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.569243,36.407144,-105.569243,36.407144],
+  "bbox": [
+    -105.569243,
+    36.407144,
+    -105.569243,
+    36.407144
+],
   "geometry": {"coordinates":[-105.569243,36.407144],"type":"Point"}
 }

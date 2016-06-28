@@ -2,13 +2,14 @@
   "id": 186071981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.737854,32.303786,-106.737854,32.303786",
     "geom:latitude":32.303786,
     "geom:longitude":-106.737854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 S Telshor Blvd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186071981,
-    "wof:lastmodified":1449052060,
+    "wof:lastmodified":1466698546,
     "wof:name":"Kathleen J Cordova DDS",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-106.737854,32.303786,-106.737854,32.303786],
+  "bbox": [
+    -106.737854,
+    32.303786,
+    -106.737854,
+    32.303786
+],
   "geometry": {"coordinates":[-106.737854,32.303786],"type":"Point"}
 }

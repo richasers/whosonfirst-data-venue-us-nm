@@ -2,13 +2,14 @@
   "id": 353944729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.557459,35.109261,-106.557459,35.109261",
     "geom:latitude":35.109261,
     "geom:longitude":-106.557459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7815 Menaul Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353944729,
-    "wof:lastmodified":1449019539,
+    "wof:lastmodified":1466698414,
     "wof:name":"Chet's Wheel Alignment",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "tire"
     ]
 },
-  "bbox": [-106.557459,35.109261,-106.557459,35.109261],
-  "geometry": {"coordinates":[-106.557459,35.109261],"type":"Point"}
+  "bbox": [
+    -106.557459,
+    35.109261,
+    -106.557459,
+    35.109261
+],
+  "geometry": {"coordinates":[-106.55745899999999,35.109261],"type":"Point"}
 }

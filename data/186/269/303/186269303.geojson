@@ -2,13 +2,14 @@
   "id": 186269303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.618859,35.055635,-106.618859,35.055635",
     "geom:latitude":35.055635,
     "geom:longitude":-106.618859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2410 Baylor Dr SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186269303,
-    "wof:lastmodified":1449052053,
+    "wof:lastmodified":1466698905,
     "wof:name":"Supreme Contracting",
     "wof:parent_id":85871873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.618859,35.055635,-106.618859,35.055635],
+  "bbox": [
+    -106.618859,
+    35.055635,
+    -106.618859,
+    35.055635
+],
   "geometry": {"coordinates":[-106.618859,35.055635],"type":"Point"}
 }

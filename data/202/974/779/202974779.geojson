@@ -2,13 +2,14 @@
   "id": 202974779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.538893,35.151916,-106.538893,35.151916",
     "geom:latitude":35.151916,
     "geom:longitude":-106.538893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9301 Ironshore NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202974779,
-    "wof:lastmodified":1449062323,
+    "wof:lastmodified":1466700684,
     "wof:name":"Hibbs Holiday Travel",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-106.538893,35.151916,-106.538893,35.151916],
+  "bbox": [
+    -106.538893,
+    35.151916,
+    -106.538893,
+    35.151916
+],
   "geometry": {"coordinates":[-106.538893,35.151916],"type":"Point"}
 }

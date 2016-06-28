@@ -2,13 +2,14 @@
   "id": 202642301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.765869,32.272825,-106.765869,32.272825",
     "geom:latitude":32.272825,
     "geom:longitude":-106.765869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3415 Harrelson St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202642301,
-    "wof:lastmodified":1449060255,
+    "wof:lastmodified":1466699020,
     "wof:name":"Bowlins Inc",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-106.765869,32.272825,-106.765869,32.272825],
+  "bbox": [
+    -106.765869,
+    32.272825,
+    -106.765869,
+    32.272825
+],
   "geometry": {"coordinates":[-106.765869,32.272825],"type":"Point"}
 }

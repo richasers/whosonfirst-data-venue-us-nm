@@ -2,13 +2,14 @@
   "id": 186470795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.243207,34.520296,-106.243207,34.520296",
     "geom:latitude":34.520296,
     "geom:longitude":-106.243207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Broadway",
     "sg:city":"Moriarty",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186470795,
-    "wof:lastmodified":1449051044,
+    "wof:lastmodified":1466700122,
     "wof:name":"Moriarty Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.243207,34.520296,-106.243207,34.520296],
+  "bbox": [
+    -106.243207,
+    34.520296,
+    -106.243207,
+    34.520296
+],
   "geometry": {"coordinates":[-106.243207,34.520296],"type":"Point"}
 }

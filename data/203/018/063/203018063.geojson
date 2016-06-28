@@ -2,13 +2,14 @@
   "id": 203018063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.555067,35.14746,-106.555067,35.14746",
     "geom:latitude":35.14746,
     "geom:longitude":-106.555067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5815 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203018063,
-    "wof:lastmodified":1449025871,
+    "wof:lastmodified":1466697799,
     "wof:name":"Whole Foods Market",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.555067,35.14746,-106.555067,35.14746],
-  "geometry": {"coordinates":[-106.555067,35.14746],"type":"Point"}
+  "bbox": [
+    -106.555067,
+    35.14746,
+    -106.555067,
+    35.14746
+],
+  "geometry": {"coordinates":[-106.55506699999999,35.14746],"type":"Point"}
 }

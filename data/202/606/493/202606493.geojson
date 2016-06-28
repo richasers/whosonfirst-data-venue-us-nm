@@ -2,13 +2,14 @@
   "id": 202606493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.159404,36.719065,-108.159404,36.719065",
     "geom:latitude":36.719065,
     "geom:longitude":-108.159404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 Bloomfield Hwy",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202606493,
-    "wof:lastmodified":1449060496,
+    "wof:lastmodified":1466698466,
     "wof:name":"B Square Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "cattle"
     ]
 },
-  "bbox": [-108.159404,36.719065,-108.159404,36.719065],
-  "geometry": {"coordinates":[-108.159404,36.719065],"type":"Point"}
+  "bbox": [
+    -108.159404,
+    36.719065,
+    -108.159404,
+    36.719065
+],
+  "geometry": {"coordinates":[-108.15940399999999,36.719065],"type":"Point"}
 }

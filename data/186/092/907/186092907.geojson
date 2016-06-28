@@ -2,13 +2,14 @@
   "id": 186092907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.217945,36.734051,-108.217945,36.734051",
     "geom:latitude":36.734051,
     "geom:longitude":-108.217945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 W Apache St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186092907,
-    "wof:lastmodified":1449052509,
+    "wof:lastmodified":1466698810,
     "wof:name":"Four Corners Radiological Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-108.217945,36.734051,-108.217945,36.734051],
+  "bbox": [
+    -108.217945,
+    36.734051,
+    -108.217945,
+    36.734051
+],
   "geometry": {"coordinates":[-108.217945,36.734051],"type":"Point"}
 }

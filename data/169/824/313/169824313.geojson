@@ -2,13 +2,14 @@
   "id": 169824313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.891315,34.054643,-106.891315,34.054643",
     "geom:latitude":34.054643,
     "geom:longitude":-106.891315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 S California St",
     "sg:city":"Socorro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169824313,
-    "wof:lastmodified":1449033863,
+    "wof:lastmodified":1466698763,
     "wof:name":"Tripp Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-106.891315,34.054643,-106.891315,34.054643],
-  "geometry": {"coordinates":[-106.891315,34.054643],"type":"Point"}
+  "bbox": [
+    -106.891315,
+    34.054643,
+    -106.891315,
+    34.054643
+],
+  "geometry": {"coordinates":[-106.89131500000001,34.054643],"type":"Point"}
 }

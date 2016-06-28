@@ -2,13 +2,14 @@
   "id": 185905181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.144764,32.697436,-103.144764,32.697436",
     "geom:latitude":32.697436,
     "geom:longitude":-103.144764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 S Grimes St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185905181,
-    "wof:lastmodified":1449007252,
+    "wof:lastmodified":1466698594,
     "wof:name":"Key Energy Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hauling"
     ]
 },
-  "bbox": [-103.144764,32.697436,-103.144764,32.697436],
+  "bbox": [
+    -103.144764,
+    32.697436,
+    -103.144764,
+    32.697436
+],
   "geometry": {"coordinates":[-103.144764,32.697436],"type":"Point"}
 }

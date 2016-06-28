@@ -2,13 +2,14 @@
   "id": 202429021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.922036,32.894128,-105.922036,32.894128",
     "geom:latitude":32.894128,
     "geom:longitude":-105.922036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Sunshine Ave",
     "sg:city":"Alamogordo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202429021,
-    "wof:lastmodified":1449062510,
+    "wof:lastmodified":1466698298,
     "wof:name":"Golden Years Living",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-105.922036,32.894128,-105.922036,32.894128],
-  "geometry": {"coordinates":[-105.922036,32.894128],"type":"Point"}
+  "bbox": [
+    -105.922036,
+    32.894128,
+    -105.922036,
+    32.894128
+],
+  "geometry": {"coordinates":[-105.92203600000001,32.894128],"type":"Point"}
 }

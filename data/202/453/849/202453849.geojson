@@ -2,13 +2,14 @@
   "id": 202453849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.785417,32.307104,-106.785417,32.307104",
     "geom:latitude":32.307104,
     "geom:longitude":-106.785417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"741 W May Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202453849,
-    "wof:lastmodified":1449062012,
+    "wof:lastmodified":1466698580,
     "wof:name":"Joe G Maloof & Co",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ale"
     ]
 },
-  "bbox": [-106.785417,32.307104,-106.785417,32.307104],
+  "bbox": [
+    -106.785417,
+    32.307104,
+    -106.785417,
+    32.307104
+],
   "geometry": {"coordinates":[-106.785417,32.307104],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186591359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.268689,32.798857,-108.268689,32.798857",
     "geom:latitude":32.798857,
     "geom:longitude":-108.268689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 E 36th St",
     "sg:city":"Silver City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186591359,
-    "wof:lastmodified":1449051809,
+    "wof:lastmodified":1466700608,
     "wof:name":"Sunny's Holiday Foods Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-108.268689,32.798857,-108.268689,32.798857],
-  "geometry": {"coordinates":[-108.268689,32.798857],"type":"Point"}
+  "bbox": [
+    -108.268689,
+    32.798857,
+    -108.268689,
+    32.798857
+],
+  "geometry": {"coordinates":[-108.26868899999999,32.798857],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202847281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.62356,32.405789,-106.62356,32.405789",
     "geom:latitude":32.405789,
     "geom:longitude":-106.62356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9975 Sallee Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202847281,
-    "wof:lastmodified":1449061031,
+    "wof:lastmodified":1466700171,
     "wof:name":"Shullas Mobile Home Set U",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.62356,32.405789,-106.62356,32.405789],
+  "bbox": [
+    -106.62356,
+    32.405789,
+    -106.62356,
+    32.405789
+],
   "geometry": {"coordinates":[-106.62356,32.405789],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202553399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.150045,36.773162,-108.150045,36.773162",
     "geom:latitude":36.773162,
     "geom:longitude":-108.150045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4605 Atlantic St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202553399,
-    "wof:lastmodified":1449060123,
+    "wof:lastmodified":1466697688,
     "wof:name":"Ahlgrim Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-108.150045,36.773162,-108.150045,36.773162],
-  "geometry": {"coordinates":[-108.150045,36.773162],"type":"Point"}
+  "bbox": [
+    -108.150045,
+    36.773162,
+    -108.150045,
+    36.773162
+],
+  "geometry": {"coordinates":[-108.15004500000001,36.773162],"type":"Point"}
 }

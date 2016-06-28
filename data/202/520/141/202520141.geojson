@@ -2,13 +2,14 @@
   "id": 202520141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.157014,32.735054,-103.157014,32.735054",
     "geom:latitude":32.735054,
     "geom:longitude":-103.157014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3229 Industrial Dr",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202520141,
-    "wof:lastmodified":1449060940,
+    "wof:lastmodified":1466699253,
     "wof:name":"Callaway Safety Equipment Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clothing"
     ]
 },
-  "bbox": [-103.157014,32.735054,-103.157014,32.735054],
+  "bbox": [
+    -103.157014,
+    32.735054,
+    -103.157014,
+    32.735054
+],
   "geometry": {"coordinates":[-103.157014,32.735054],"type":"Point"}
 }

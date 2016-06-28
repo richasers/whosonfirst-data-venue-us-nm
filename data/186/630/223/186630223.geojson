@@ -2,13 +2,14 @@
   "id": 186630223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.089922,36.81047,-108.089922,36.81047",
     "geom:latitude":36.81047,
     "geom:longitude":-108.089922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Rd 3535",
     "sg:city":"Flora Vista",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186630223,
-    "wof:lastmodified":1449051350,
+    "wof:lastmodified":1466700831,
     "wof:name":"Sunbelt Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.089922,36.81047,-108.089922,36.81047],
+  "bbox": [
+    -108.089922,
+    36.81047,
+    -108.089922,
+    36.81047
+],
   "geometry": {"coordinates":[-108.089922,36.81047],"type":"Point"}
 }

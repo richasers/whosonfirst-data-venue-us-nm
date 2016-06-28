@@ -2,13 +2,14 @@
   "id": 202746837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.762312,32.239574,-107.762312,32.239574",
     "geom:latitude":32.239574,
     "geom:longitude":-107.762312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Dona Ana Rd SW",
     "sg:city":"Deming",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202746837,
-    "wof:lastmodified":1449060086,
+    "wof:lastmodified":1466699654,
     "wof:name":"Diamond Dream Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "builder"
     ]
 },
-  "bbox": [-107.762312,32.239574,-107.762312,32.239574],
-  "geometry": {"coordinates":[-107.762312,32.239574],"type":"Point"}
+  "bbox": [
+    -107.762312,
+    32.239574,
+    -107.762312,
+    32.239574
+],
+  "geometry": {"coordinates":[-107.76231199999999,32.239574],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186525875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.568761,35.101869,-106.568761,35.101869",
     "geom:latitude":35.101869,
     "geom:longitude":-106.568761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Indian School Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186525875,
-    "wof:lastmodified":1449052451,
+    "wof:lastmodified":1466700458,
     "wof:name":"Stockton Frank Prof Choice",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-106.568761,35.101869,-106.568761,35.101869],
-  "geometry": {"coordinates":[-106.568761,35.101869],"type":"Point"}
+  "bbox": [
+    -106.568761,
+    35.101869,
+    -106.568761,
+    35.101869
+],
+  "geometry": {"coordinates":[-106.56876099999999,35.101869],"type":"Point"}
 }

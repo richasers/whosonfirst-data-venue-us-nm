@@ -2,13 +2,14 @@
   "id": 186409671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.834963,35.155369,-107.834963,35.155369",
     "geom:latitude":35.155369,
     "geom:longitude":-107.834963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"632 Flagstaff Ave",
     "sg:city":"Grants",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186409671,
-    "wof:lastmodified":1449051477,
+    "wof:lastmodified":1466699772,
     "wof:name":"Southwest Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "elevator"
     ]
 },
-  "bbox": [-107.834963,35.155369,-107.834963,35.155369],
+  "bbox": [
+    -107.834963,
+    35.155369,
+    -107.834963,
+    35.155369
+],
   "geometry": {"coordinates":[-107.834963,35.155369],"type":"Point"}
 }

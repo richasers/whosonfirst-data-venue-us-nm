@@ -2,13 +2,14 @@
   "id": 202761979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.987119,36.71515,-107.987119,36.71515",
     "geom:latitude":36.71515,
     "geom:longitude":-107.987119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N 7th St",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202761979,
-    "wof:lastmodified":1449062053,
+    "wof:lastmodified":1466699962,
     "wof:name":"Luther Alvin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "system"
     ]
 },
-  "bbox": [-107.987119,36.71515,-107.987119,36.71515],
-  "geometry": {"coordinates":[-107.987119,36.71515],"type":"Point"}
+  "bbox": [
+    -107.987119,
+    36.71515,
+    -107.987119,
+    36.71515
+],
+  "geometry": {"coordinates":[-107.98711900000001,36.71515],"type":"Point"}
 }

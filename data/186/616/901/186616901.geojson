@@ -2,13 +2,14 @@
   "id": 186616901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.506371,35.150409,-106.506371,35.150409",
     "geom:latitude":35.150409,
     "geom:longitude":-106.506371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6109 Peachtree Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186616901,
-    "wof:lastmodified":1449052328,
+    "wof:lastmodified":1466700574,
     "wof:name":"Sally Piscotty Consulting",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-106.506371,35.150409,-106.506371,35.150409],
+  "bbox": [
+    -106.506371,
+    35.150409,
+    -106.506371,
+    35.150409
+],
   "geometry": {"coordinates":[-106.506371,35.150409],"type":"Point"}
 }

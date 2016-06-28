@@ -2,13 +2,14 @@
   "id": 186403987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.946219,35.52908,-105.946219,35.52908",
     "geom:latitude":35.52908,
     "geom:longitude":-105.946219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Estambre Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186403987,
-    "wof:lastmodified":1449052643,
+    "wof:lastmodified":1466699868,
     "wof:name":"Raymond B Becich",
     "wof:parent_id":85880819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-105.946219,35.52908,-105.946219,35.52908],
+  "bbox": [
+    -105.946219,
+    35.52908,
+    -105.946219,
+    35.52908
+],
   "geometry": {"coordinates":[-105.946219,35.52908],"type":"Point"}
 }

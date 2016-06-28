@@ -2,13 +2,14 @@
   "id": 186010055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649323,35.085802,-106.649323,35.085802",
     "geom:latitude":35.085802,
     "geom:longitude":-106.649323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 First Plaza Center NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186010055,
-    "wof:lastmodified":1449052037,
+    "wof:lastmodified":1466697803,
     "wof:name":"Concetta D Gallery",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "restoring"
     ]
 },
-  "bbox": [-106.649323,35.085802,-106.649323,35.085802],
+  "bbox": [
+    -106.649323,
+    35.085802,
+    -106.649323,
+    35.085802
+],
   "geometry": {"coordinates":[-106.649323,35.085802],"type":"Point"}
 }

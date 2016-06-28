@@ -2,13 +2,14 @@
   "id": 185799749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.714819,35.080274,-106.714819,35.080274",
     "geom:latitude":35.080274,
     "geom:longitude":-106.714819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Airport Dr NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":185799749,
-    "wof:lastmodified":1449008214,
+    "wof:lastmodified":1466699341,
     "wof:name":"Zanios Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [-106.714819,35.080274,-106.714819,35.080274],
-  "geometry": {"coordinates":[-106.714819,35.080274],"type":"Point"}
+  "bbox": [
+    -106.714819,
+    35.080274,
+    -106.714819,
+    35.080274
+],
+  "geometry": {"coordinates":[-106.71481900000001,35.080274],"type":"Point"}
 }

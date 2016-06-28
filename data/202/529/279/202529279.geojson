@@ -2,13 +2,14 @@
   "id": 202529279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.207757,34.39961,-103.207757,34.39961",
     "geom:latitude":34.39961,
     "geom:longitude":-103.207757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 W 2nd St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202529279,
-    "wof:lastmodified":1449061232,
+    "wof:lastmodified":1466699278,
     "wof:name":"Plains Vending Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.207757,34.39961,-103.207757,34.39961],
+  "bbox": [
+    -103.207757,
+    34.39961,
+    -103.207757,
+    34.39961
+],
   "geometry": {"coordinates":[-103.207757,34.39961],"type":"Point"}
 }

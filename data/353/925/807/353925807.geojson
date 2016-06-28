@@ -2,13 +2,14 @@
   "id": 353925807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.624313,35.053699,-106.624313,35.053699",
     "geom:latitude":35.053699,
     "geom:longitude":-106.624313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Randolph Rd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353925807,
-    "wof:lastmodified":1449018280,
+    "wof:lastmodified":1466697883,
     "wof:name":"Luxury Limousine",
     "wof:parent_id":85846885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "limousine"
     ]
 },
-  "bbox": [-106.624313,35.053699,-106.624313,35.053699],
+  "bbox": [
+    -106.624313,
+    35.053699,
+    -106.624313,
+    35.053699
+],
   "geometry": {"coordinates":[-106.624313,35.053699],"type":"Point"}
 }

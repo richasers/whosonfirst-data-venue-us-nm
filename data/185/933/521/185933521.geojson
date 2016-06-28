@@ -2,13 +2,14 @@
   "id": 185933521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.521008,33.308239,-104.521008,33.308239",
     "geom:latitude":33.308239,
     "geom:longitude":-104.521008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 W Earl Cummings Loop",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185933521,
-    "wof:lastmodified":1449006945,
+    "wof:lastmodified":1466698987,
     "wof:name":"US Army National Guard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-104.521008,33.308239,-104.521008,33.308239],
-  "geometry": {"coordinates":[-104.521008,33.308239],"type":"Point"}
+  "bbox": [
+    -104.521008,
+    33.308239,
+    -104.521008,
+    33.308239
+],
+  "geometry": {"coordinates":[-104.52100799999999,33.308239],"type":"Point"}
 }

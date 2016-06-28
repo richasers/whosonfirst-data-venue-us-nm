@@ -2,13 +2,14 @@
   "id": 353922385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.648582,35.087891,-106.648582,35.087891",
     "geom:latitude":35.087891,
     "geom:longitude":-106.648582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Marquette Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":353922385,
-    "wof:lastmodified":1449018492,
+    "wof:lastmodified":1466697792,
     "wof:name":"Doubletree Hotel Albuquerque",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "banquet"
     ]
 },
-  "bbox": [-106.648582,35.087891,-106.648582,35.087891],
+  "bbox": [
+    -106.648582,
+    35.087891,
+    -106.648582,
+    35.087891
+],
   "geometry": {"coordinates":[-106.648582,35.087891],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203107885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.652096,35.075615,-106.652096,35.075615",
     "geom:latitude":35.075615,
     "geom:longitude":-106.652096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 3rd St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203107885,
-    "wof:lastmodified":1449024948,
+    "wof:lastmodified":1466698815,
     "wof:name":"Hundley Enterprises",
     "wof:parent_id":85804483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.652096,35.075615,-106.652096,35.075615],
+  "bbox": [
+    -106.652096,
+    35.075615,
+    -106.652096,
+    35.075615
+],
   "geometry": {"coordinates":[-106.652096,35.075615],"type":"Point"}
 }

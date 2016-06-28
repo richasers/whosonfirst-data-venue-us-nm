@@ -2,13 +2,14 @@
   "id": 186462031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.755038,34.825154,-106.755038,34.825154",
     "geom:latitude":34.825154,
     "geom:longitude":-106.755038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1061 Ave Esplendida",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186462031,
-    "wof:lastmodified":1449052936,
+    "wof:lastmodified":1466700079,
     "wof:name":"New Fellowship Church Of God",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.755038,34.825154,-106.755038,34.825154],
+  "bbox": [
+    -106.755038,
+    34.825154,
+    -106.755038,
+    34.825154
+],
   "geometry": {"coordinates":[-106.755038,34.825154],"type":"Point"}
 }

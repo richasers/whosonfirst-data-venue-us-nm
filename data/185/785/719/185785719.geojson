@@ -2,13 +2,14 @@
   "id": 185785719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.669357,34.728952,-106.669357,34.728952",
     "geom:latitude":34.728952,
     "geom:longitude":-106.669357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Chamisa Cove",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185785719,
-    "wof:lastmodified":1449007955,
+    "wof:lastmodified":1466699291,
     "wof:name":"Data Techniques",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-106.669357,34.728952,-106.669357,34.728952],
-  "geometry": {"coordinates":[-106.669357,34.728952],"type":"Point"}
+  "bbox": [
+    -106.669357,
+    34.728952,
+    -106.669357,
+    34.728952
+],
+  "geometry": {"coordinates":[-106.66935700000001,34.728952],"type":"Point"}
 }

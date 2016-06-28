@@ -2,13 +2,14 @@
   "id": 186396883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.562954,35.168124,-106.562954,35.168124",
     "geom:latitude":35.168124,
     "geom:longitude":-106.562954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7216 Gallinas Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186396883,
-    "wof:lastmodified":1449052128,
+    "wof:lastmodified":1466699736,
     "wof:name":"Joe Hook",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-106.562954,35.168124,-106.562954,35.168124],
+  "bbox": [
+    -106.562954,
+    35.168124,
+    -106.562954,
+    35.168124
+],
   "geometry": {"coordinates":[-106.562954,35.168124],"type":"Point"}
 }

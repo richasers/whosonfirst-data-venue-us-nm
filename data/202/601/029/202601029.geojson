@@ -2,13 +2,14 @@
   "id": 202601029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604651,35.25542,-106.604651,35.25542",
     "geom:latitude":35.25542,
     "geom:longitude":-106.604651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Richard Rd",
     "sg:city":"Corrales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202601029,
-    "wof:lastmodified":1449061259,
+    "wof:lastmodified":1466698392,
     "wof:name":"Nassif Enterprises Inc",
     "wof:parent_id":85892609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-106.604651,35.25542,-106.604651,35.25542],
+  "bbox": [
+    -106.604651,
+    35.25542,
+    -106.604651,
+    35.25542
+],
   "geometry": {"coordinates":[-106.604651,35.25542],"type":"Point"}
 }

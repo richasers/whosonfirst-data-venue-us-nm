@@ -2,13 +2,14 @@
   "id": 203149975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.565613,33.400897,-104.565613,33.400897",
     "geom:latitude":33.400897,
     "geom:longitude":-104.565613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2907 W 8th St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203149975,
-    "wof:lastmodified":1449024944,
+    "wof:lastmodified":1466699153,
     "wof:name":"William L Chancey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pharmacist"
     ]
 },
-  "bbox": [-104.565613,33.400897,-104.565613,33.400897],
+  "bbox": [
+    -104.565613,
+    33.400897,
+    -104.565613,
+    33.400897
+],
   "geometry": {"coordinates":[-104.565613,33.400897],"type":"Point"}
 }

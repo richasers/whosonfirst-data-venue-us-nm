@@ -2,13 +2,14 @@
   "id": 186241867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.166643,32.746162,-103.166643,32.746162",
     "geom:latitude":32.746162,
     "geom:longitude":-103.166643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 N Lovington Hwy",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186241867,
-    "wof:lastmodified":1449052967,
+    "wof:lastmodified":1466698553,
     "wof:name":"New Mexico Kutrite Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-103.166643,32.746162,-103.166643,32.746162],
-  "geometry": {"coordinates":[-103.166643,32.746162],"type":"Point"}
+  "bbox": [
+    -103.166643,
+    32.746162,
+    -103.166643,
+    32.746162
+],
+  "geometry": {"coordinates":[-103.16664299999999,32.746162],"type":"Point"}
 }

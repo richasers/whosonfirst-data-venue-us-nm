@@ -2,13 +2,14 @@
   "id": 203099657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.206851,34.414358,-103.206851,34.414358",
     "geom:latitude":34.414358,
     "geom:longitude":-103.206851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Sutter Pl",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203099657,
-    "wof:lastmodified":1449026212,
+    "wof:lastmodified":1466698729,
     "wof:name":"Clovis Special Education South",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.206851,34.414358,-103.206851,34.414358],
+  "bbox": [
+    -103.206851,
+    34.414358,
+    -103.206851,
+    34.414358
+],
   "geometry": {"coordinates":[-103.206851,34.414358],"type":"Point"}
 }

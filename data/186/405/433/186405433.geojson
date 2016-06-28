@@ -2,13 +2,14 @@
   "id": 186405433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.486402,35.099052,-106.486402,35.099052",
     "geom:latitude":35.099052,
     "geom:longitude":-106.486402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13604 Rebonito Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186405433,
-    "wof:lastmodified":1449052796,
+    "wof:lastmodified":1466699987,
     "wof:name":"Dorman & Breen Architect Inc",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "architectural"
     ]
 },
-  "bbox": [-106.486402,35.099052,-106.486402,35.099052],
+  "bbox": [
+    -106.486402,
+    35.099052,
+    -106.486402,
+    35.099052
+],
   "geometry": {"coordinates":[-106.486402,35.099052],"type":"Point"}
 }

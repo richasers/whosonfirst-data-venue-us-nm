@@ -2,13 +2,14 @@
   "id": 202831013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.98599,35.67501,-105.98599,35.67501",
     "geom:latitude":35.67501,
     "geom:longitude":-105.98599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 W Alameda St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202831013,
-    "wof:lastmodified":1449061602,
+    "wof:lastmodified":1466700015,
     "wof:name":"Academy For Love of Learning",
     "wof:parent_id":85880851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-105.98599,35.67501,-105.98599,35.67501],
+  "bbox": [
+    -105.98599,
+    35.67501,
+    -105.98599,
+    35.67501
+],
   "geometry": {"coordinates":[-105.98599,35.67501],"type":"Point"}
 }

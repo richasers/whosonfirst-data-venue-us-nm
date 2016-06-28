@@ -2,13 +2,14 @@
   "id": 202572845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.573225,35.101951,-106.573225,35.101951",
     "geom:latitude":35.101951,
     "geom:longitude":-106.573225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 Indian School Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202572845,
-    "wof:lastmodified":1449061676,
+    "wof:lastmodified":1466697980,
     "wof:name":"VIP Temporaries",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.573225,35.101951,-106.573225,35.101951],
-  "geometry": {"coordinates":[-106.573225,35.101951],"type":"Point"}
+  "bbox": [
+    -106.573225,
+    35.101951,
+    -106.573225,
+    35.101951
+],
+  "geometry": {"coordinates":[-106.57322499999999,35.101951],"type":"Point"}
 }

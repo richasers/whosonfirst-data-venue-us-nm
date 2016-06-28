@@ -2,13 +2,14 @@
   "id": 186112619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.594409,35.073139,-106.594409,35.073139",
     "geom:latitude":35.073139,
     "geom:longitude":-106.594409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 Adams St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":186112619,
-    "wof:lastmodified":1449051605,
+    "wof:lastmodified":1466699035,
     "wof:name":"Highland Conversions LLC",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "scooter"
     ]
 },
-  "bbox": [-106.594409,35.073139,-106.594409,35.073139],
+  "bbox": [
+    -106.594409,
+    35.073139,
+    -106.594409,
+    35.073139
+],
   "geometry": {"coordinates":[-106.594409,35.073139],"type":"Point"}
 }

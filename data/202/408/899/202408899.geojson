@@ -2,13 +2,14 @@
   "id": 202408899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.762366,32.297602,-106.762366,32.297602",
     "geom:latitude":32.297602,
     "geom:longitude":-106.762366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Chaparro St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202408899,
-    "wof:lastmodified":1449060415,
+    "wof:lastmodified":1466698048,
     "wof:name":"E & H Properties LLC",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.762366,32.297602,-106.762366,32.297602],
+  "bbox": [
+    -106.762366,
+    32.297602,
+    -106.762366,
+    32.297602
+],
   "geometry": {"coordinates":[-106.762366,32.297602],"type":"Point"}
 }

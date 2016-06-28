@@ -2,13 +2,14 @@
   "id": 202642681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.163222,32.7256,-103.163222,32.7256",
     "geom:latitude":32.7256,
     "geom:longitude":-103.163222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1923 W Bender Blvd",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202642681,
-    "wof:lastmodified":1449060256,
+    "wof:lastmodified":1466699026,
     "wof:name":"Travel Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-103.163222,32.7256,-103.163222,32.7256],
+  "bbox": [
+    -103.163222,
+    32.7256,
+    -103.163222,
+    32.7256
+],
   "geometry": {"coordinates":[-103.163222,32.7256],"type":"Point"}
 }

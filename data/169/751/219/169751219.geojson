@@ -2,13 +2,14 @@
   "id": 169751219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.217064,34.426201,-103.217064,34.426201",
     "geom:latitude":34.426201,
     "geom:longitude":-103.217064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Duckworth Ave",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169751219,
-    "wof:lastmodified":1449032872,
+    "wof:lastmodified":1466698078,
     "wof:name":"Perry Management Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.217064,34.426201,-103.217064,34.426201],
-  "geometry": {"coordinates":[-103.217064,34.426201],"type":"Point"}
+  "bbox": [
+    -103.217064,
+    34.426201,
+    -103.217064,
+    34.426201
+],
+  "geometry": {"coordinates":[-103.21706399999999,34.426201],"type":"Point"}
 }

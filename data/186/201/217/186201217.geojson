@@ -2,13 +2,14 @@
   "id": 186201217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.560877,35.075106,-106.560877,35.075106",
     "geom:latitude":35.075106,
     "geom:longitude":-106.560877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7715 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186201217,
-    "wof:lastmodified":1449052661,
+    "wof:lastmodified":1466698045,
     "wof:name":"Classic Jewelry & Loan",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-106.560877,35.075106,-106.560877,35.075106],
+  "bbox": [
+    -106.560877,
+    35.075106,
+    -106.560877,
+    35.075106
+],
   "geometry": {"coordinates":[-106.560877,35.075106],"type":"Point"}
 }

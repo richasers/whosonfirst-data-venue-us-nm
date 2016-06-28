@@ -2,13 +2,14 @@
   "id": 185640463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.532525,35.088339,-106.532525,35.088339",
     "geom:latitude":35.088339,
     "geom:longitude":-106.532525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"938 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185640463,
-    "wof:lastmodified":1449007317,
+    "wof:lastmodified":1466698038,
     "wof:name":"Burrito Lady",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-106.532525,35.088339,-106.532525,35.088339],
-  "geometry": {"coordinates":[-106.532525,35.088339],"type":"Point"}
+  "bbox": [
+    -106.532525,
+    35.088339,
+    -106.532525,
+    35.088339
+],
+  "geometry": {"coordinates":[-106.53252500000001,35.088339],"type":"Point"}
 }

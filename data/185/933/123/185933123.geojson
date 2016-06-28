@@ -2,13 +2,14 @@
   "id": 185933123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.577653,35.096354,-106.577653,35.096354",
     "geom:latitude":35.096354,
     "geom:longitude":-106.577653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5812 Bellamah Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185933123,
-    "wof:lastmodified":1449006944,
+    "wof:lastmodified":1466698983,
     "wof:name":"Jo Jo Pineau Entertainment",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-106.577653,35.096354,-106.577653,35.096354],
+  "bbox": [
+    -106.577653,
+    35.096354,
+    -106.577653,
+    35.096354
+],
   "geometry": {"coordinates":[-106.577653,35.096354],"type":"Point"}
 }

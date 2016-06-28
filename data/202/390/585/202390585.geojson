@@ -2,13 +2,14 @@
   "id": 202390585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.426559,36.884938,-104.426559,36.884938",
     "geom:latitude":36.884938,
     "geom:longitude":-104.426559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"848 Clayton Rd",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202390585,
-    "wof:lastmodified":1449062681,
+    "wof:lastmodified":1466697809,
     "wof:name":"Stolar Horizon Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-104.426559,36.884938,-104.426559,36.884938],
+  "bbox": [
+    -104.426559,
+    36.884938,
+    -104.426559,
+    36.884938
+],
   "geometry": {"coordinates":[-104.426559,36.884938],"type":"Point"}
 }

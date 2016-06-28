@@ -2,13 +2,14 @@
   "id": 203122825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.936677,35.689854,-105.936677,35.689854",
     "geom:latitude":35.689854,
     "geom:longitude":-105.936677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Washington Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203122825,
-    "wof:lastmodified":1449026022,
+    "wof:lastmodified":1466698956,
     "wof:name":"Territorial Inn",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-105.936677,35.689854,-105.936677,35.689854],
+  "bbox": [
+    -105.936677,
+    35.689854,
+    -105.936677,
+    35.689854
+],
   "geometry": {"coordinates":[-105.936677,35.689854],"type":"Point"}
 }

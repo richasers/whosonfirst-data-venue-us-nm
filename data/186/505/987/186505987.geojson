@@ -2,13 +2,14 @@
   "id": 186505987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.756449,32.311016,-106.756449,32.311016",
     "geom:latitude":32.311016,
     "geom:longitude":-106.756449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 E Lohman Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186505987,
-    "wof:lastmodified":1449052570,
+    "wof:lastmodified":1466700250,
     "wof:name":"Classic Credit Repair",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "counseling"
     ]
 },
-  "bbox": [-106.756449,32.311016,-106.756449,32.311016],
+  "bbox": [
+    -106.756449,
+    32.311016,
+    -106.756449,
+    32.311016
+],
   "geometry": {"coordinates":[-106.756449,32.311016],"type":"Point"}
 }

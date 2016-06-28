@@ -2,13 +2,14 @@
   "id": 186243879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.950054,35.673641,-105.950054,35.673641",
     "geom:latitude":35.673641,
     "geom:longitude":-105.950054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Cam de Los Marquez",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186243879,
-    "wof:lastmodified":1449051260,
+    "wof:lastmodified":1466698579,
     "wof:name":"Back Street Bistro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-105.950054,35.673641,-105.950054,35.673641],
-  "geometry": {"coordinates":[-105.950054,35.673641],"type":"Point"}
+  "bbox": [
+    -105.950054,
+    35.673641,
+    -105.950054,
+    35.673641
+],
+  "geometry": {"coordinates":[-105.95005399999999,35.673641],"type":"Point"}
 }

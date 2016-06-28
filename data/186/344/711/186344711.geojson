@@ -2,13 +2,14 @@
   "id": 186344711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.646931,35.141934,-106.646931,35.141934",
     "geom:latitude":35.141934,
     "geom:longitude":-106.646931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5713 Sandia Ct NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186344711,
-    "wof:lastmodified":1449050404,
+    "wof:lastmodified":1466699502,
     "wof:name":"Pogan's Hogan",
     "wof:parent_id":85892593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-106.646931,35.141934,-106.646931,35.141934],
+  "bbox": [
+    -106.646931,
+    35.141934,
+    -106.646931,
+    35.141934
+],
   "geometry": {"coordinates":[-106.646931,35.141934],"type":"Point"}
 }

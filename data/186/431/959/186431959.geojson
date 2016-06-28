@@ -2,13 +2,14 @@
   "id": 186431959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.77184,32.283839,-106.77184,32.283839",
     "geom:latitude":32.283839,
     "geom:longitude":-106.77184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 S Valley Dr",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186431959,
-    "wof:lastmodified":1449050697,
+    "wof:lastmodified":1466699858,
     "wof:name":"Teakwood Inn & Suites",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.77184,32.283839,-106.77184,32.283839],
+  "bbox": [
+    -106.77184,
+    32.283839,
+    -106.77184,
+    32.283839
+],
   "geometry": {"coordinates":[-106.77184,32.283839],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185907571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.646285,35.107262,-106.646285,35.107262",
     "geom:latitude":35.107262,
     "geom:longitude":-106.646285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Arvada Ave NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185907571,
-    "wof:lastmodified":1449008095,
+    "wof:lastmodified":1466698624,
     "wof:name":"Garcia's Tents & Events Inc",
     "wof:parent_id":85832737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-106.646285,35.107262,-106.646285,35.107262],
-  "geometry": {"coordinates":[-106.646285,35.107262],"type":"Point"}
+  "bbox": [
+    -106.646285,
+    35.107262,
+    -106.646285,
+    35.107262
+],
+  "geometry": {"coordinates":[-106.64628500000001,35.107262],"type":"Point"}
 }

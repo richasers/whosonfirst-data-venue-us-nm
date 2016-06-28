@@ -2,13 +2,14 @@
   "id": 185666119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.207266,35.826381,-106.207266,35.826381",
     "geom:latitude":35.826381,
     "geom:longitude":-106.207266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Longview Dr",
     "sg:city":"Los Alamos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185666119,
-    "wof:lastmodified":1449007189,
+    "wof:lastmodified":1466699417,
     "wof:name":"Pajarito Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.207266,35.826381,-106.207266,35.826381],
+  "bbox": [
+    -106.207266,
+    35.826381,
+    -106.207266,
+    35.826381
+],
   "geometry": {"coordinates":[-106.207266,35.826381],"type":"Point"}
 }

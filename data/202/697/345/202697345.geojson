@@ -2,13 +2,14 @@
   "id": 202697345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.137517,32.735124,-103.137517,32.735124",
     "geom:latitude":32.735124,
     "geom:longitude":-103.137517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Taos St",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202697345,
-    "wof:lastmodified":1449061696,
+    "wof:lastmodified":1466699605,
     "wof:name":"Wee Kids Kountry KLUB Of Hobbs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.137517,32.735124,-103.137517,32.735124],
+  "bbox": [
+    -103.137517,
+    32.735124,
+    -103.137517,
+    32.735124
+],
   "geometry": {"coordinates":[-103.137517,32.735124],"type":"Point"}
 }

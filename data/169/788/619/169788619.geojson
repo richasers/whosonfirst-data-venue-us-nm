@@ -2,13 +2,14 @@
   "id": 169788619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.674472,35.133837,-106.674472,35.133837",
     "geom:latitude":35.133837,
     "geom:longitude":-106.674472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2316 Don Onofre Trl NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169788619,
-    "wof:lastmodified":1449034382,
+    "wof:lastmodified":1466698434,
     "wof:name":"DAB Mechanical",
     "wof:parent_id":85831441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.674472,35.133837,-106.674472,35.133837],
-  "geometry": {"coordinates":[-106.674472,35.133837],"type":"Point"}
+  "bbox": [
+    -106.674472,
+    35.133837,
+    -106.674472,
+    35.133837
+],
+  "geometry": {"coordinates":[-106.67447199999999,35.133837],"type":"Point"}
 }

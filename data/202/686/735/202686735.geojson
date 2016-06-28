@@ -2,13 +2,14 @@
   "id": 202686735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.602949,35.124516,-106.602949,35.124516",
     "geom:latitude":35.124516,
     "geom:longitude":-106.602949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3609 Palo Duro Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202686735,
-    "wof:lastmodified":1449062041,
+    "wof:lastmodified":1466699550,
     "wof:name":"Carbon Southwest Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "building"
     ]
 },
-  "bbox": [-106.602949,35.124516,-106.602949,35.124516],
+  "bbox": [
+    -106.602949,
+    35.124516,
+    -106.602949,
+    35.124516
+],
   "geometry": {"coordinates":[-106.602949,35.124516],"type":"Point"}
 }

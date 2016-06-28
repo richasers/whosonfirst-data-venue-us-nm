@@ -2,13 +2,14 @@
   "id": 202536017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.672082,33.331673,-105.672082,33.331673",
     "geom:latitude":33.331673,
     "geom:longitude":-105.672082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2540 Sudderth Dr",
     "sg:city":"Ruidoso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202536017,
-    "wof:lastmodified":1449061630,
+    "wof:lastmodified":1466699468,
     "wof:name":"Pampered Lady Inc",
     "wof:parent_id":85842645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "personal"
     ]
 },
-  "bbox": [-105.672082,33.331673,-105.672082,33.331673],
+  "bbox": [
+    -105.672082,
+    33.331673,
+    -105.672082,
+    33.331673
+],
   "geometry": {"coordinates":[-105.672082,33.331673],"type":"Point"}
 }

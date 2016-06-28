@@ -2,13 +2,14 @@
   "id": 353934119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.577454,35.084969,-106.577454,35.084969",
     "geom:latitude":35.084969,
     "geom:longitude":-106.577454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 San Pedro Dr NE Ste 100",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":353934119,
-    "wof:lastmodified":1449018373,
+    "wof:lastmodified":1466698118,
     "wof:name":"Albuquerque Barber College",
     "wof:parent_id":85871881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "trade"
     ]
 },
-  "bbox": [-106.577454,35.084969,-106.577454,35.084969],
+  "bbox": [
+    -106.577454,
+    35.084969,
+    -106.577454,
+    35.084969
+],
   "geometry": {"coordinates":[-106.577454,35.084969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186089573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615849,35.139547,-106.615849,35.139547",
     "geom:latitude":35.139547,
     "geom:longitude":-106.615849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4921 Alexander Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186089573,
-    "wof:lastmodified":1449050952,
+    "wof:lastmodified":1466698755,
     "wof:name":"Intl Brotherhood Of Elec WRKS",
     "wof:parent_id":85892603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.615849,35.139547,-106.615849,35.139547],
+  "bbox": [
+    -106.615849,
+    35.139547,
+    -106.615849,
+    35.139547
+],
   "geometry": {"coordinates":[-106.615849,35.139547],"type":"Point"}
 }

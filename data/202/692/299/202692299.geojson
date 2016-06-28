@@ -2,13 +2,14 @@
   "id": 202692299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.601866,35.162668,-106.601866,35.162668",
     "geom:latitude":35.162668,
     "geom:longitude":-106.601866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3828 Hawkins St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202692299,
-    "wof:lastmodified":1449060789,
+    "wof:lastmodified":1466699581,
     "wof:name":"Santa Fe Tortilla Co",
     "wof:parent_id":85892599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-106.601866,35.162668,-106.601866,35.162668],
+  "bbox": [
+    -106.601866,
+    35.162668,
+    -106.601866,
+    35.162668
+],
   "geometry": {"coordinates":[-106.601866,35.162668],"type":"Point"}
 }

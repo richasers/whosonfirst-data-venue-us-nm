@@ -2,13 +2,14 @@
   "id": 186202209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.526025,33.393102,-104.526025,33.393102",
     "geom:latitude":33.393102,
     "geom:longitude":-104.526025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W 1st St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186202209,
-    "wof:lastmodified":1449052667,
+    "wof:lastmodified":1466698058,
     "wof:name":"Geo Science Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "business"
     ]
 },
-  "bbox": [-104.526025,33.393102,-104.526025,33.393102],
+  "bbox": [
+    -104.526025,
+    33.393102,
+    -104.526025,
+    33.393102
+],
   "geometry": {"coordinates":[-104.526025,33.393102],"type":"Point"}
 }

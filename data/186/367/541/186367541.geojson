@@ -2,13 +2,14 @@
   "id": 186367541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.613238,35.080943,-106.613238,35.080943",
     "geom:latitude":35.080943,
     "geom:longitude":-106.613238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2808 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186367541,
-    "wof:lastmodified":1449051952,
+    "wof:lastmodified":1466699738,
     "wof:name":"Sentencing Commission NM",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "criminal"
     ]
 },
-  "bbox": [-106.613238,35.080943,-106.613238,35.080943],
+  "bbox": [
+    -106.613238,
+    35.080943,
+    -106.613238,
+    35.080943
+],
   "geometry": {"coordinates":[-106.613238,35.080943],"type":"Point"}
 }

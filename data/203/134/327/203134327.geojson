@@ -2,13 +2,14 @@
   "id": 203134327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.661865,35.227221,-106.661865,35.227221",
     "geom:latitude":35.227221,
     "geom:longitude":-106.661865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1740 Grande Blvd SE",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203134327,
-    "wof:lastmodified":1449026762,
+    "wof:lastmodified":1466699052,
     "wof:name":"Baker Tech Resource Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-106.661865,35.227221,-106.661865,35.227221],
-  "geometry": {"coordinates":[-106.661865,35.227221],"type":"Point"}
+  "bbox": [
+    -106.661865,
+    35.227221,
+    -106.661865,
+    35.227221
+],
+  "geometry": {"coordinates":[-106.66186500000001,35.227221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202586423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.561207,35.135615,-106.561207,35.135615",
     "geom:latitude":35.135615,
     "geom:longitude":-106.561207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7520 Lantern Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202586423,
-    "wof:lastmodified":1449062353,
+    "wof:lastmodified":1466698189,
     "wof:name":"Benefit Administrators",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.561207,35.135615,-106.561207,35.135615],
+  "bbox": [
+    -106.561207,
+    35.135615,
+    -106.561207,
+    35.135615
+],
   "geometry": {"coordinates":[-106.561207,35.135615],"type":"Point"}
 }

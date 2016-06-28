@@ -2,13 +2,14 @@
   "id": 185822369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.597061,35.135339,-106.597061,35.135339",
     "geom:latitude":35.135339,
     "geom:longitude":-106.597061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 Bogan Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185822369,
-    "wof:lastmodified":1449008142,
+    "wof:lastmodified":1466697708,
     "wof:name":"Galvez Motors",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-106.597061,35.135339,-106.597061,35.135339],
+  "bbox": [
+    -106.597061,
+    35.135339,
+    -106.597061,
+    35.135339
+],
   "geometry": {"coordinates":[-106.597061,35.135339],"type":"Point"}
 }

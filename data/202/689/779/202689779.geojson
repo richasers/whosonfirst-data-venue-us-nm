@@ -2,13 +2,14 @@
   "id": 202689779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638869,35.08197,-106.638869,35.08197",
     "geom:latitude":35.08197,
     "geom:longitude":-106.638869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Elm St SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202689779,
-    "wof:lastmodified":1449062234,
+    "wof:lastmodified":1466699566,
     "wof:name":"Central Photographic Service",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "photographer"
     ]
 },
-  "bbox": [-106.638869,35.08197,-106.638869,35.08197],
+  "bbox": [
+    -106.638869,
+    35.08197,
+    -106.638869,
+    35.08197
+],
   "geometry": {"coordinates":[-106.638869,35.08197],"type":"Point"}
 }

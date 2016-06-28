@@ -2,13 +2,14 @@
   "id": 185647539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.523668,35.094798,-106.523668,35.094798",
     "geom:latitude":35.094798,
     "geom:longitude":-106.523668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11317 Constitution Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185647539,
-    "wof:lastmodified":1449007385,
+    "wof:lastmodified":1466698101,
     "wof:name":"Drt Painting",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.523668,35.094798,-106.523668,35.094798],
+  "bbox": [
+    -106.523668,
+    35.094798,
+    -106.523668,
+    35.094798
+],
   "geometry": {"coordinates":[-106.523668,35.094798],"type":"Point"}
 }

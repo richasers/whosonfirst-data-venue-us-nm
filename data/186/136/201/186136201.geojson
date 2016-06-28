@@ -2,13 +2,14 @@
   "id": 186136201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.237553,32.419313,-104.237553,32.419313",
     "geom:latitude":32.419313,
     "geom:longitude":-104.237553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 W Fox St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186136201,
-    "wof:lastmodified":1449052994,
+    "wof:lastmodified":1466699182,
     "wof:name":"Radiator Shop",
     "wof:parent_id":85823457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "radiator"
     ]
 },
-  "bbox": [-104.237553,32.419313,-104.237553,32.419313],
-  "geometry": {"coordinates":[-104.237553,32.419313],"type":"Point"}
+  "bbox": [
+    -104.237553,
+    32.419313,
+    -104.237553,
+    32.419313
+],
+  "geometry": {"coordinates":[-104.23755300000001,32.419313],"type":"Point"}
 }

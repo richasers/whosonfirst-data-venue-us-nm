@@ -2,13 +2,14 @@
   "id": 202705337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.801879,32.300937,-106.801879,32.300937",
     "geom:latitude":32.300937,
     "geom:longitude":-106.801879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1836 W Amador Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202705337,
-    "wof:lastmodified":1449062663,
+    "wof:lastmodified":1466699622,
     "wof:name":"Windows Specialties",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "wind"
     ]
 },
-  "bbox": [-106.801879,32.300937,-106.801879,32.300937],
+  "bbox": [
+    -106.801879,
+    32.300937,
+    -106.801879,
+    32.300937
+],
   "geometry": {"coordinates":[-106.801879,32.300937],"type":"Point"}
 }

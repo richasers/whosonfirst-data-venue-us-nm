@@ -2,13 +2,14 @@
   "id": 353922059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.650238,35.085411,-106.650238,35.085411",
     "geom:latitude":35.085411,
     "geom:longitude":-106.650238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Third Street NW, Suite 2200",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353922059,
-    "wof:lastmodified":1449018491,
+    "wof:lastmodified":1466697782,
     "wof:name":"David W. Bunting",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "negligence"
     ]
 },
-  "bbox": [-106.650238,35.085411,-106.650238,35.085411],
+  "bbox": [
+    -106.650238,
+    35.085411,
+    -106.650238,
+    35.085411
+],
   "geometry": {"coordinates":[-106.650238,35.085411],"type":"Point"}
 }

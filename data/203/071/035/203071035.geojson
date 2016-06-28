@@ -2,13 +2,14 @@
   "id": 203071035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.645318,35.064669,-106.645318,35.064669",
     "geom:latitude":35.064669,
     "geom:longitude":-106.645318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1926 Broadway Blvd SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203071035,
-    "wof:lastmodified":1449026156,
+    "wof:lastmodified":1466698355,
     "wof:name":"Casa Blanca Weavers",
     "wof:parent_id":85846885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mills"
     ]
 },
-  "bbox": [-106.645318,35.064669,-106.645318,35.064669],
+  "bbox": [
+    -106.645318,
+    35.064669,
+    -106.645318,
+    35.064669
+],
   "geometry": {"coordinates":[-106.645318,35.064669],"type":"Point"}
 }

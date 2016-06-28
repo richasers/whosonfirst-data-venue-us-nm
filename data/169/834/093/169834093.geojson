@@ -2,13 +2,14 @@
   "id": 169834093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.511879,35.333411,-106.511879,35.333411",
     "geom:latitude":35.333411,
     "geom:longitude":-106.511879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Dustin Ct",
     "sg:city":"Placitas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169834093,
-    "wof:lastmodified":1449032972,
+    "wof:lastmodified":1466699437,
     "wof:name":"Timothy Trujillo Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.511879,35.333411,-106.511879,35.333411],
-  "geometry": {"coordinates":[-106.511879,35.333411],"type":"Point"}
+  "bbox": [
+    -106.511879,
+    35.333411,
+    -106.511879,
+    35.333411
+],
+  "geometry": {"coordinates":[-106.51187899999999,35.333411],"type":"Point"}
 }

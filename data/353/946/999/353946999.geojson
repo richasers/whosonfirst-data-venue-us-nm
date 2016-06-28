@@ -2,13 +2,14 @@
   "id": 353946999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.587439,35.113101,-106.587439,35.113101",
     "geom:latitude":35.113101,
     "geom:longitude":-106.587439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2817 Truman St NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353946999,
-    "wof:lastmodified":1449020499,
+    "wof:lastmodified":1466698481,
     "wof:name":"Alta Vista Lath & Plaster",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.587439,35.113101,-106.587439,35.113101],
+  "bbox": [
+    -106.587439,
+    35.113101,
+    -106.587439,
+    35.113101
+],
   "geometry": {"coordinates":[-106.587439,35.113101],"type":"Point"}
 }

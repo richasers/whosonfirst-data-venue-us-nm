@@ -2,13 +2,14 @@
   "id": 185958715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.737527,35.240232,-106.737527,35.240232",
     "geom:latitude":35.240232,
     "geom:longitude":-106.737527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 Sunflower Dr SW",
     "sg:city":"Rio Rancho",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185958715,
-    "wof:lastmodified":1449007882,
+    "wof:lastmodified":1466699360,
     "wof:name":"Whistle Stop Svc & Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.737527,35.240232,-106.737527,35.240232],
+  "bbox": [
+    -106.737527,
+    35.240232,
+    -106.737527,
+    35.240232
+],
   "geometry": {"coordinates":[-106.737527,35.240232],"type":"Point"}
 }

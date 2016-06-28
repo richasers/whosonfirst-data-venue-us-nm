@@ -2,13 +2,14 @@
   "id": 186603125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.553817,35.178272,-106.553817,35.178272",
     "geom:latitude":35.178272,
     "geom:longitude":-106.553817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8329 Wilson Hurley Ct NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186603125,
-    "wof:lastmodified":1449052594,
+    "wof:lastmodified":1466700637,
     "wof:name":"Jonathon Book Design",
     "wof:parent_id":85892597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-106.553817,35.178272,-106.553817,35.178272],
+  "bbox": [
+    -106.553817,
+    35.178272,
+    -106.553817,
+    35.178272
+],
   "geometry": {"coordinates":[-106.553817,35.178272],"type":"Point"}
 }

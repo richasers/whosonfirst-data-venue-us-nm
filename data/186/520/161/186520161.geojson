@@ -2,13 +2,14 @@
   "id": 186520161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.594566,35.119581,-106.594566,35.119581",
     "geom:latitude":35.119581,
     "geom:longitude":-106.594566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4515 Shepard Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186520161,
-    "wof:lastmodified":1449051279,
+    "wof:lastmodified":1466700204,
     "wof:name":"Pulp Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "tape"
     ]
 },
-  "bbox": [-106.594566,35.119581,-106.594566,35.119581],
+  "bbox": [
+    -106.594566,
+    35.119581,
+    -106.594566,
+    35.119581
+],
   "geometry": {"coordinates":[-106.594566,35.119581],"type":"Point"}
 }

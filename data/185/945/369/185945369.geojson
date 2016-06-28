@@ -2,13 +2,14 @@
   "id": 185945369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.360298,35.100079,-106.360298,35.100079",
     "geom:latitude":35.100079,
     "geom:longitude":-106.360298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 US Hwy 66",
     "sg:city":"Tijeras",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185945369,
-    "wof:lastmodified":1449006745,
+    "wof:lastmodified":1466699150,
     "wof:name":"Bernalillo County Public Works",
     "wof:parent_id":85892613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.360298,35.100079,-106.360298,35.100079],
+  "bbox": [
+    -106.360298,
+    35.100079,
+    -106.360298,
+    35.100079
+],
   "geometry": {"coordinates":[-106.360298,35.100079],"type":"Point"}
 }
