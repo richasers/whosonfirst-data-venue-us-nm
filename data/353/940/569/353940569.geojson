@@ -2,9 +2,14 @@
   "id": 353940569,
   "type": "Feature",
   "properties": {
+    "addr:full":"4272 Balloon Park Rd NE Albuquerque NM 87109",
+    "addr:housenumber":"",
+    "addr:postcode":"4272;87109",
+    "addr:street":"Balloon Park Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.597384,35.14894,-106.597384,35.14894",
     "geom:latitude":35.14894,
     "geom:longitude":-106.597384,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"18d91006baa556ef6a4d3ecf94609dc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353940569,
-    "wof:lastmodified":1466698291,
+    "wof:lastmodified":1491930781,
     "wof:name":"Oncology Division",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

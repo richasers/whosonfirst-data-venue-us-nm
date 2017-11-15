@@ -2,9 +2,14 @@
   "id": 185925547,
   "type": "Feature",
   "properties": {
+    "addr:full":"6301 Central Ave NW Albuquerque NM 87105",
+    "addr:housenumber":"6301",
+    "addr:postcode":"87105",
+    "addr:street":"Central Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.707758,35.080588,-106.707758,35.080588",
     "geom:latitude":35.080588,
     "geom:longitude":-106.707758,
@@ -30,10 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
-        85892581
+        85892581,
+        85871867,
+        85892577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,37 @@
     "wof:geomhash":"24af7641a886f90b9519dbfb04172663",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
             "neighbourhood_id":85892581,
             "region_id":85688493,
             "venue_id":185925547
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081199,
+            "locality_id":85976715,
+            "neighbourhood_id":85871867,
+            "region_id":85688493,
+            "venue_id":185925547
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081199,
+            "locality_id":85976715,
+            "neighbourhood_id":85892577,
+            "region_id":85688493,
+            "venue_id":185925547
         }
     ],
     "wof:id":185925547,
-    "wof:lastmodified":1466698885,
+    "wof:lastmodified":1491919020,
     "wof:name":"Youth Development Inc",
-    "wof:parent_id":85892581,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

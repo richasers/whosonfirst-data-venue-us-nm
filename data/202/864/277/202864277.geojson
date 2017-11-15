@@ -2,9 +2,14 @@
   "id": 202864277,
   "type": "Feature",
   "properties": {
+    "addr:full":"5800 Central Ave SW Albuquerque NM 87105",
+    "addr:housenumber":"5800",
+    "addr:postcode":"87105",
+    "addr:street":"Central Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.702516,35.081765,-106.702516,35.081765",
     "geom:latitude":35.081765,
     "geom:longitude":-106.702516,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"8bd0405c2199711597b2c0ffcb585ea5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":202864277,
-    "wof:lastmodified":1466700102,
+    "wof:lastmodified":1491919014,
     "wof:name":"Leon's Auto Svc",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",

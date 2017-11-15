@@ -2,9 +2,14 @@
   "id": 185961029,
   "type": "Feature",
   "properties": {
+    "addr:full":"4610 McLeod Rd NE Albuquerque NM 87109",
+    "addr:housenumber":"4610",
+    "addr:postcode":"87109",
+    "addr:street":"Mcleod Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.590225,35.137529,-106.590225,35.137529",
     "geom:latitude":35.137529,
     "geom:longitude":-106.590225,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -45,7 +51,7 @@
     "wof:geomhash":"56f574c77879290ba2cfccc713c8e93f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":185961029,
-    "wof:lastmodified":1466699390,
+    "wof:lastmodified":1491930704,
     "wof:name":"Integrated Machining Company",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

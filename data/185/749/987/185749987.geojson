@@ -2,9 +2,14 @@
   "id": 185749987,
   "type": "Feature",
   "properties": {
+    "addr:full":"8401 Spain Rd NE Albuquerque NM 87111",
+    "addr:housenumber":"8401",
+    "addr:postcode":"87111",
+    "addr:street":"Spain Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.548475,35.13998,-106.548475,35.13998",
     "geom:latitude":35.13998,
     "geom:longitude":-106.548475,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"43a6a9c2b5ffd37fb3f7d28509d9685b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":185749987,
-    "wof:lastmodified":1466699159,
+    "wof:lastmodified":1491894174,
     "wof:name":"Academy Development Co",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 202846505,
   "type": "Feature",
   "properties": {
+    "addr:full":"7424 Chaco Rd NE Albuquerque NM 87109",
+    "addr:housenumber":"",
+    "addr:postcode":"7424;87109",
+    "addr:street":"Chaco Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.563036,35.150132,-106.563036,35.150132",
     "geom:latitude":35.150132,
     "geom:longitude":-106.563036,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"700a33860f7b2954880f600f2bf3ceec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":202846505,
-    "wof:lastmodified":1466700040,
+    "wof:lastmodified":1491894190,
     "wof:name":"LP Obrien Dvm",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

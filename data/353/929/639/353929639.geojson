@@ -2,9 +2,14 @@
   "id": 353929639,
   "type": "Feature",
   "properties": {
+    "addr:full":"3525 Girard Blvd NE Albuquerque NM 87107",
+    "addr:housenumber":"3525",
+    "addr:postcode":"87107",
+    "addr:street":"Girard Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.612942,35.120728,-106.612942,35.120728",
     "geom:latitude":35.120728,
     "geom:longitude":-106.612942,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -48,7 +54,7 @@
     "wof:geomhash":"7947079c1eeaa7b3ae55ec522253f83b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -57,7 +63,7 @@
             "venue_id":353929639
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -67,9 +73,9 @@
         }
     ],
     "wof:id":353929639,
-    "wof:lastmodified":1466697993,
+    "wof:lastmodified":1491930809,
     "wof:name":"Accent Landscape Contractors Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

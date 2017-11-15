@@ -2,14 +2,20 @@
   "id": 874228497,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 Main St NE Los Lunas NM 87031",
+    "addr:housenumber":"314",
+    "addr:postcode":"87031",
+    "addr:street":"Main St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.733242,34.806489,-106.733242,34.806489",
     "geom:latitude":34.806489,
     "geom:longitude":-106.733242,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"314 Main St NE",
     "sg:city":"Los Lunas",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081561,
         85831451
     ],
+    "wof:brand_id":1125156043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ohmS6PoWPZMyjf48pL5q4_34.806489_-106.733242@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464313146,
-    "wof:geomhash":"8fd7556f4c72a718dcfb84e278155fde",
+    "wof:geomhash":"3ca0df102fac46d1a187fa7470b6948a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":874228497,
-    "wof:lastmodified":1466701382,
+    "wof:lastmodified":1510695019,
     "wof:name":"Blake's Lotaburger",
     "wof:parent_id":85831451,
     "wof:placetype":"venue",

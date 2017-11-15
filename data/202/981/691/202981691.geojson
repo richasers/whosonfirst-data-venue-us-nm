@@ -2,9 +2,14 @@
   "id": 202981691,
   "type": "Feature",
   "properties": {
+    "addr:full":"3916 Carlisle Blvd NE Albuquerque NM 87107",
+    "addr:housenumber":"3916",
+    "addr:postcode":"87107",
+    "addr:street":"Carlisle Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.604052,35.125899,-106.604052,35.125899",
     "geom:latitude":35.125899,
     "geom:longitude":-106.604052,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -44,7 +50,7 @@
     "wof:geomhash":"fbf622536427b797843b4856d5d82ffd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
             "venue_id":202981691
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -63,9 +69,9 @@
         }
     ],
     "wof:id":202981691,
-    "wof:lastmodified":1466700591,
+    "wof:lastmodified":1491930618,
     "wof:name":"Cruise Where-House",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

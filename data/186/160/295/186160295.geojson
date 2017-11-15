@@ -2,9 +2,14 @@
   "id": 186160295,
   "type": "Feature",
   "properties": {
+    "addr:full":"3721 Aztec Rd NE Albuquerque NM 87110",
+    "addr:housenumber":"3721",
+    "addr:postcode":"87110",
+    "addr:street":"Aztec Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.602113,35.120488,-106.602113,35.120488",
     "geom:latitude":35.120488,
     "geom:longitude":-106.602113,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"5eb1a8e6b9ce110848f3dad8abe42696",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
             "venue_id":186160295
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -62,9 +68,9 @@
         }
     ],
     "wof:id":186160295,
-    "wof:lastmodified":1466699352,
+    "wof:lastmodified":1491930724,
     "wof:name":"Lukens & Lukens Computer/Solut",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 186233317,
   "type": "Feature",
   "properties": {
+    "addr:full":"6801 Washington St NE Albuquerque NM 87109",
+    "addr:housenumber":"6801",
+    "addr:postcode":"87109",
+    "addr:street":"Washington St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.598483,35.156902,-106.598483,35.156902",
     "geom:latitude":35.156902,
     "geom:longitude":-106.598483,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"64c650085e59cb802596b0f859776e7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":186233317,
-    "wof:lastmodified":1466698443,
+    "wof:lastmodified":1491930681,
     "wof:name":"LSI Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

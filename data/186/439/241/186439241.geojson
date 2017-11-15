@@ -2,9 +2,14 @@
   "id": 186439241,
   "type": "Feature",
   "properties": {
+    "addr:full":"5425 Wyoming Blvd NE Albuquerque NM 87109",
+    "addr:housenumber":"5425",
+    "addr:postcode":"87109",
+    "addr:street":"Wyoming;Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.551684,35.142644,-106.551684,35.142644",
     "geom:latitude":35.142644,
     "geom:longitude":-106.551684,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"52665cb100afed8c9bb7757c70c6e75a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":186439241,
-    "wof:lastmodified":1466699994,
+    "wof:lastmodified":1491894199,
     "wof:name":"Hiroshi Inc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

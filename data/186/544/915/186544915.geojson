@@ -2,9 +2,14 @@
   "id": 186544915,
   "type": "Feature",
   "properties": {
+    "addr:full":"8400 Osuna Rd NE Albuquerque NM 87111",
+    "addr:housenumber":"8400",
+    "addr:postcode":"87111",
+    "addr:street":"Osuna Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.549163,35.137467,-106.549163,35.137467",
     "geom:latitude":35.137467,
     "geom:longitude":-106.549163,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
-        102081199
+        102081199,
+        85871865,
+        85871897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,28 @@
     "wof:geomhash":"0373cfbd15245cc72f576d36add9d40e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85871865,
+            "region_id":85688493,
+            "venue_id":186544915
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081199,
+            "locality_id":85976715,
+            "neighbourhood_id":85871897,
             "region_id":85688493,
             "venue_id":186544915
         }
     ],
     "wof:id":186544915,
-    "wof:lastmodified":1466700287,
+    "wof:lastmodified":1491894176,
     "wof:name":"Carroll Hand Therapy",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 185853169,
   "type": "Feature",
   "properties": {
+    "addr:full":"3208 Monte Vista Blvd NE Albuquerque NM 87106",
+    "addr:housenumber":"3208",
+    "addr:postcode":"87106",
+    "addr:street":"Monte Vista Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.609182,35.082439,-106.609182,35.082439",
     "geom:latitude":35.082439,
     "geom:longitude":-106.609182,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"01d09abc9d9a73ef99202ab7aa4520b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":185853169,
-    "wof:lastmodified":1466698046,
+    "wof:lastmodified":1491912861,
     "wof:name":"Monte Vista Day Nursery",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",

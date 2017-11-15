@@ -2,9 +2,14 @@
   "id": 185940431,
   "type": "Feature",
   "properties": {
+    "addr:full":"6421 Concordia Rd NE Albuquerque NM 87111",
+    "addr:housenumber":"6421",
+    "addr:postcode":"87111",
+    "addr:street":"Concordia Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.533789,35.153424,-106.533789,35.153424",
     "geom:latitude":35.153424,
     "geom:longitude":-106.533789,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"2acdd28b7da01e661e29c8086da147ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":185940431,
-    "wof:lastmodified":1466699083,
+    "wof:lastmodified":1491894209,
     "wof:name":"Sukohl",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

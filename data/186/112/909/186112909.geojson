@@ -2,9 +2,14 @@
   "id": 186112909,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 Utah St NE Albuquerque NM 87108",
+    "addr:housenumber":"124",
+    "addr:postcode":"87108",
+    "addr:street":"Utah St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.554815,35.075888,-106.554815,35.075888",
     "geom:latitude":35.075888,
     "geom:longitude":-106.554815,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"65956da0406212001db08ac62ad02e12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":186112909
         }
     ],
     "wof:id":186112909,
-    "wof:lastmodified":1466699039,
+    "wof:lastmodified":1491930449,
     "wof:name":"Luusauto Sales",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

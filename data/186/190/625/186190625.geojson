@@ -2,9 +2,14 @@
   "id": 186190625,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 Eubank Blvd NE Albuquerque NM 87123",
+    "addr:housenumber":"405",
+    "addr:postcode":"87123",
+    "addr:street":"Eubank Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.532405,35.078142,-106.532405,35.078142",
     "geom:latitude":35.078142,
     "geom:longitude":-106.532405,
@@ -38,8 +43,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +54,15 @@
     "wof:geomhash":"ea61ef7739c25373c370d03ce936d633",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":186190625
         }
     ],
     "wof:id":186190625,
-    "wof:lastmodified":1466697903,
+    "wof:lastmodified":1491930426,
     "wof:name":"I 40 Computers Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

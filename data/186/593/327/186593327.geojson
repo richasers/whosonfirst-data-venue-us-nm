@@ -2,14 +2,20 @@
   "id": 186593327,
   "type": "Feature",
   "properties": {
+    "addr:full":"3900 Vassar Dr NE Albuquerque NM 87107",
+    "addr:housenumber":"3900",
+    "addr:postcode":"87107",
+    "addr:street":"Vassar Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.615062,35.125463,-106.615062,35.125463",
     "geom:latitude":35.125463,
     "geom:longitude":-106.615062,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3900 Vassar Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -30,21 +36,23 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
         85871893,
         85871895
     ],
+    "wof:brand_id":1125153359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jx2O5obVc97UCZmeABE4h_35.125463_-106.615062@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"18ae24535a01fd943c162943198a4dd4",
+    "wof:geomhash":"25f8b773b69573fae25a99a4e563dd59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +61,7 @@
             "venue_id":186593327
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -63,9 +71,9 @@
         }
     ],
     "wof:id":186593327,
-    "wof:lastmodified":1466700613,
+    "wof:lastmodified":1510695787,
     "wof:name":"CB Richard Ellis Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

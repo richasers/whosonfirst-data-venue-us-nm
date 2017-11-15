@@ -2,14 +2,20 @@
   "id": 874232741,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 E San Francisco St Santa Fe NM 87501",
+    "addr:housenumber":"56",
+    "addr:postcode":"87501",
+    "addr:street":"E San Francisco St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.938513,35.687073,-105.938513,35.687073",
     "geom:latitude":35.687073,
     "geom:longitude":-105.938513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"56 E San Francisco St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081571,
         85880795
     ],
+    "wof:brand_id":1125151181,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73Vs5vlHkDLVeIWBjA3QWI_35.687073_-105.938513@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464313196,
-    "wof:geomhash":"ff8513c0e4a85c0a8758ebf527ef685c",
+    "wof:geomhash":"d074b4634f8fb847115acf0d053b1ce9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":874232741,
-    "wof:lastmodified":1466701447,
+    "wof:lastmodified":1510697192,
     "wof:name":"Haagen Dazs",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",

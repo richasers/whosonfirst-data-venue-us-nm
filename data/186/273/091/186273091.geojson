@@ -2,9 +2,14 @@
   "id": 186273091,
   "type": "Feature",
   "properties": {
+    "addr:full":"9706 Cam del Sol NE Albuquerque NM 87111",
+    "addr:housenumber":"9706",
+    "addr:postcode":"87111",
+    "addr:street":"Cam Del Sol Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.532977,35.143769,-106.532977,35.143769",
     "geom:latitude":35.143769,
     "geom:longitude":-106.532977,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"b158dc4a7004879c6b23ed29b3c61ef8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":186273091,
-    "wof:lastmodified":1466698957,
+    "wof:lastmodified":1491894210,
     "wof:name":"Jon L Davis Consultant",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

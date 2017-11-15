@@ -2,9 +2,14 @@
   "id": 202860869,
   "type": "Feature",
   "properties": {
+    "addr:full":"7413 Chaco Rd NE Albuquerque NM 87109",
+    "addr:housenumber":"",
+    "addr:postcode":"7413;87109",
+    "addr:street":"Chaco Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.562724,35.150337,-106.562724,35.150337",
     "geom:latitude":35.150337,
     "geom:longitude":-106.562724,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"400b89c69658b70b8e60980d6557ee87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":202860869,
-    "wof:lastmodified":1466700236,
+    "wof:lastmodified":1491894199,
     "wof:name":"U S Pipe",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

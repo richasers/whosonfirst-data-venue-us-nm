@@ -2,9 +2,14 @@
   "id": 169769433,
   "type": "Feature",
   "properties": {
+    "addr:full":"6401 Signal Ave NE Albuquerque NM 87113",
+    "addr:housenumber":"6401",
+    "addr:postcode":"87113",
+    "addr:street":"Signal Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.569204,35.183076,-106.569204,35.183076",
     "geom:latitude":35.183076,
     "geom:longitude":-106.569204,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -48,7 +54,7 @@
     "wof:geomhash":"80010ba2b4f7ad988b2d9dc5c904e3e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":169769433,
-    "wof:lastmodified":1466698249,
+    "wof:lastmodified":1491930700,
     "wof:name":"Nebark Courier Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

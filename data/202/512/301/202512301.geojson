@@ -2,9 +2,14 @@
   "id": 202512301,
   "type": "Feature",
   "properties": {
+    "addr:full":"118 Dartmouth Dr SE Albuquerque NM 87106",
+    "addr:housenumber":"118",
+    "addr:postcode":"87106",
+    "addr:street":"Dartmouth Dr Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.612043,35.079093,-106.612043,35.079093",
     "geom:latitude":35.079093,
     "geom:longitude":-106.612043,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -44,7 +50,7 @@
     "wof:geomhash":"11e592da9604bcfc14b171ffca865630",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":202512301,
-    "wof:lastmodified":1466699209,
+    "wof:lastmodified":1491912858,
     "wof:name":"Youth Development Inc",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",

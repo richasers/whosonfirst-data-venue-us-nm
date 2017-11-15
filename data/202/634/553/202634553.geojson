@@ -2,9 +2,14 @@
   "id": 202634553,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Utah St NE Albuquerque NM 87108",
+    "addr:housenumber":"115",
+    "addr:postcode":"87108",
+    "addr:street":"Utah St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.554962,35.076092,-106.554962,35.076092",
     "geom:latitude":35.076092,
     "geom:longitude":-106.554962,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"7c854a5d1d3c0342d39919c178e271b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":202634553
         }
     ],
     "wof:id":202634553,
-    "wof:lastmodified":1466698902,
+    "wof:lastmodified":1491930386,
     "wof:name":"A Home Auto Repair",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

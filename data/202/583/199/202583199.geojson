@@ -2,9 +2,14 @@
   "id": 202583199,
   "type": "Feature",
   "properties": {
+    "addr:full":"4701 Morris St NE Albuquerque NM 87111",
+    "addr:housenumber":"4701",
+    "addr:postcode":"87111",
+    "addr:street":"Morris St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.524589,35.135569,-106.524589,35.135569",
     "geom:latitude":35.135569,
     "geom:longitude":-106.524589,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -44,7 +50,7 @@
     "wof:geomhash":"6bed113753e2ee0a8e65acde9f67ac31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":202583199,
-    "wof:lastmodified":1466698139,
+    "wof:lastmodified":1491894151,
     "wof:name":"Erickson Chem Dry",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

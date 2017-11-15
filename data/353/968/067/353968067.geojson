@@ -2,9 +2,14 @@
   "id": 353968067,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Wyoming Blvd NE Albuquerque NM 87123",
+    "addr:housenumber":"701",
+    "addr:postcode":"87123",
+    "addr:street":"Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.550484,35.083698,-106.550484,35.083698",
     "geom:latitude":35.083698,
     "geom:longitude":-106.550484,
@@ -22,8 +27,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,17 +38,15 @@
     "wof:geomhash":"339afc5e0624c9e1d86651aa347f342c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":353968067
         }
     ],
     "wof:id":353968067,
-    "wof:lastmodified":1466698968,
+    "wof:lastmodified":1491930416,
     "wof:name":"That Car Place Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

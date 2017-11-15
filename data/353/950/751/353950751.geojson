@@ -2,9 +2,14 @@
   "id": 353950751,
   "type": "Feature",
   "properties": {
+    "addr:full":"9804 Lona Ln NE Albuquerque NM 87111",
+    "addr:housenumber":"9804",
+    "addr:postcode":"87111",
+    "addr:street":"Lona Ln Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.533609,35.141327,-106.533609,35.141327",
     "geom:latitude":35.141327,
     "geom:longitude":-106.533609,
@@ -37,6 +42,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -50,7 +56,7 @@
     "wof:geomhash":"43799688ac2c21555687fc3f34aeb25c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":353950751,
-    "wof:lastmodified":1466698593,
+    "wof:lastmodified":1491894237,
     "wof:name":"SDS Electric",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186180357,
   "type": "Feature",
   "properties": {
+    "addr:full":"3012 Central Ave SE Albuquerque NM 87106",
+    "addr:housenumber":"3012",
+    "addr:postcode":"87106",
+    "addr:street":"Central Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.610953,35.080574,-106.610953,35.080574",
     "geom:latitude":35.080574,
     "geom:longitude":-106.610953,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"07492bab4426d12bd2b3be91c662faab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":186180357,
-    "wof:lastmodified":1466697770,
+    "wof:lastmodified":1491912847,
     "wof:name":"Sky-Way Trading Co",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",

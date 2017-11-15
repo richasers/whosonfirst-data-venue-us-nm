@@ -2,9 +2,14 @@
   "id": 203005905,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 General Chennault St SE Albuquerque NM 87123",
+    "addr:housenumber":"502",
+    "addr:postcode":"87123",
+    "addr:street":"General Chennault St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.544412,35.067762,-106.544412,35.067762",
     "geom:latitude":35.067762,
     "geom:longitude":-106.544412,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"cb320e22b6f0f22b89447e8d578b7276",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":203005905
         }
     ],
     "wof:id":203005905,
-    "wof:lastmodified":1466697645,
+    "wof:lastmodified":1491930408,
     "wof:name":"Halbert Custom Cabinet Mfg Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

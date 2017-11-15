@@ -2,9 +2,14 @@
   "id": 202713139,
   "type": "Feature",
   "properties": {
+    "addr:full":"4512 Goodrich Ave NE Albuquerque NM 87110",
+    "addr:housenumber":"4512",
+    "addr:postcode":"87110",
+    "addr:street":"Goodrich Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.591488,35.127759,-106.591488,35.127759",
     "geom:latitude":35.127759,
     "geom:longitude":-106.591488,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"e8804b668606bbf8defd05fb379b78e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
             "venue_id":202713139
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -62,9 +68,9 @@
         }
     ],
     "wof:id":202713139,
-    "wof:lastmodified":1466699650,
+    "wof:lastmodified":1491930675,
     "wof:name":"Colors Unique",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

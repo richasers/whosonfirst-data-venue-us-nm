@@ -2,9 +2,14 @@
   "id": 185720637,
   "type": "Feature",
   "properties": {
+    "addr:full":"9112 Onate St NE Albuquerque NM 87109",
+    "addr:housenumber":"9112",
+    "addr:postcode":"87109",
+    "addr:street":"Onate St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.540995,35.162619,-106.540995,35.162619",
     "geom:latitude":35.162619,
     "geom:longitude":-106.540995,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"49d863517a1d72a6a7a3d7ba13a2675a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":185720637,
-    "wof:lastmodified":1466698869,
+    "wof:lastmodified":1491894218,
     "wof:name":"Kea Statistical Consulting",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

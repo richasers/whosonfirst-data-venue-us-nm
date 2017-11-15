@@ -2,9 +2,14 @@
   "id": 874127369,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 Candelaria Rd NE Albuquerque NM 87107",
+    "addr:housenumber":"3401",
+    "addr:postcode":"87107",
+    "addr:street":"Candelaria Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.60522,35.11653,-106.60522,35.11653",
     "geom:latitude":35.11653,
     "geom:longitude":-106.60522,
@@ -34,7 +39,8 @@
         85976715,
         102081199,
         85871893,
-        85871883
+        85871883,
+        85871895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,12 +67,21 @@
             "neighbourhood_id":85871883,
             "region_id":85688493,
             "venue_id":874127369
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081199,
+            "locality_id":85976715,
+            "neighbourhood_id":85871895,
+            "region_id":85688493,
+            "venue_id":874127369
         }
     ],
     "wof:id":874127369,
-    "wof:lastmodified":1466700828,
+    "wof:lastmodified":1491930709,
     "wof:name":"Allen-Bradley",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

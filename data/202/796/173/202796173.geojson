@@ -2,9 +2,14 @@
   "id": 202796173,
   "type": "Feature",
   "properties": {
+    "addr:full":"11800 Joshua Tree Pl SE Albuquerque NM 87123",
+    "addr:housenumber":"11800",
+    "addr:postcode":"87123",
+    "addr:street":"Joshua Tree Pl Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.515815,35.060491,-106.515815,35.060491",
     "geom:latitude":35.060491,
     "geom:longitude":-106.515815,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"1b8dc4ee462b82ed4dbc3adfeeb2d2f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":202796173
         }
     ],
     "wof:id":202796173,
-    "wof:lastmodified":1466699970,
+    "wof:lastmodified":1491930427,
     "wof:name":"Elna Stowe Legal Svc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

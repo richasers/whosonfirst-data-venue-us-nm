@@ -2,9 +2,14 @@
   "id": 185989145,
   "type": "Feature",
   "properties": {
+    "addr:full":"6557 Monte Serrano NE Albuquerque NM 87111",
+    "addr:housenumber":"6557",
+    "addr:postcode":"87111",
+    "addr:street":"Monte Serrano Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.525188,35.153476,-106.525188,35.153476",
     "geom:latitude":35.153476,
     "geom:longitude":-106.525188,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ff86600b034bdd1e64bea3cd0d028b49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":185989145,
-    "wof:lastmodified":1466699572,
+    "wof:lastmodified":1491894203,
     "wof:name":"Computer Angel",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

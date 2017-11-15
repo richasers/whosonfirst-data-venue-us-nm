@@ -2,9 +2,14 @@
   "id": 186278205,
   "type": "Feature",
   "properties": {
+    "addr:full":"11608 Woodmar Ln NE Albuquerque NM 87111",
+    "addr:housenumber":"11608",
+    "addr:postcode":"87111",
+    "addr:street":"Woodmar Ln Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.510841,35.152073,-106.510841,35.152073",
     "geom:latitude":35.152073,
     "geom:longitude":-106.510841,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"cfe3ac64270d681228e29174cd698bdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":186278205,
-    "wof:lastmodified":1466699033,
+    "wof:lastmodified":1491894204,
     "wof:name":"Karsh & Hagan Inc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

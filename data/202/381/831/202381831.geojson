@@ -2,9 +2,14 @@
   "id": 202381831,
   "type": "Feature",
   "properties": {
+    "addr:full":"5344 Pan American Fwy Albuquerque NM 87109",
+    "addr:housenumber":"5344",
+    "addr:postcode":"87109",
+    "addr:street":"Pan American Fwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.595535,35.14109,-106.595535,35.14109",
     "geom:latitude":35.14109,
     "geom:longitude":-106.595535,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"c5f3cd4c1ee1e3571ea393ac5d574cf8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":202381831,
-    "wof:lastmodified":1466697701,
+    "wof:lastmodified":1491930705,
     "wof:name":"Mediq Prn",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

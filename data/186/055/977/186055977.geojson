@@ -2,9 +2,14 @@
   "id": 186055977,
   "type": "Feature",
   "properties": {
+    "addr:full":"4628 Sherwood St NE Albuquerque NM 87109",
+    "addr:housenumber":"4628",
+    "addr:postcode":"87109",
+    "addr:street":"Sherwood St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.574988,35.141115,-106.574988,35.141115",
     "geom:latitude":35.141115,
     "geom:longitude":-106.574988,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"db9bf5603d3030140c8de880cc61b0df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":186055977,
-    "wof:lastmodified":1466698330,
+    "wof:lastmodified":1491930730,
     "wof:name":"Donna D Schmidt",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

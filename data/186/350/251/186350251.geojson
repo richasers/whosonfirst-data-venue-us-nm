@@ -2,9 +2,14 @@
   "id": 186350251,
   "type": "Feature",
   "properties": {
+    "addr:full":"2518 Coors Blvd SW Albuquerque NM 87121",
+    "addr:housenumber":"2518",
+    "addr:postcode":"87121",
+    "addr:street":"Coors Blvd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.710902,35.041454,-106.710902,35.041454",
     "geom:latitude":35.041454,
     "geom:longitude":-106.710902,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -44,7 +50,7 @@
     "wof:geomhash":"a1920b029fc68234fa19987061389635",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,19 +59,17 @@
             "venue_id":186350251
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85892591,
             "region_id":85688493,
             "venue_id":186350251
         }
     ],
     "wof:id":186350251,
-    "wof:lastmodified":1466699772,
+    "wof:lastmodified":1491927331,
     "wof:name":"Double Eagle Sand & Gravel",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

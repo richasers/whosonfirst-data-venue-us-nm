@@ -2,9 +2,14 @@
   "id": 186298735,
   "type": "Feature",
   "properties": {
+    "addr:full":"7124 Jefferson St NE Albuquerque NM 87109",
+    "addr:housenumber":"7124",
+    "addr:postcode":"87109",
+    "addr:street":"Jefferson St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.593166,35.16111,-106.593166,35.16111",
     "geom:latitude":35.16111,
     "geom:longitude":-106.593166,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"e1c0eee9984351538923b5a229a29b20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":186298735,
-    "wof:lastmodified":1466699318,
+    "wof:lastmodified":1491930746,
     "wof:name":"Rafa's Roofing Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

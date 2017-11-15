@@ -2,9 +2,14 @@
   "id": 186041777,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 Dallas St NE Albuquerque NM 87108",
+    "addr:housenumber":"315",
+    "addr:postcode":"87108",
+    "addr:street":"Dallas St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.559878,35.079805,-106.559878,35.079805",
     "geom:latitude":35.079805,
     "geom:longitude":-106.559878,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"a05633b858a89b54015722f2f43d704d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":186041777
         }
     ],
     "wof:id":186041777,
-    "wof:lastmodified":1466698152,
+    "wof:lastmodified":1491930395,
     "wof:name":"Rice Tandy Painting & Drywall",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

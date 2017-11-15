@@ -2,14 +2,20 @@
   "id": 874214641,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Central Ave SE Albuquerque NM 87102",
+    "addr:housenumber":"300",
+    "addr:postcode":"87102",
+    "addr:street":"Central Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.642184,35.083345,-106.642184,35.083345",
     "geom:latitude":35.083345,
     "geom:longitude":-106.642184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081199,
         85871877
     ],
+    "wof:brand_id":1125150757,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NmnhHNJSa52twkGQ3T9HV_35.083345_-106.642184@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464313001,
-    "wof:geomhash":"2e008115c25a12a37966fa7417832cdb",
+    "wof:geomhash":"29a2a3a9a2af320721b338600a776658",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":874214641,
-    "wof:lastmodified":1466701319,
+    "wof:lastmodified":1510697588,
     "wof:name":"American Homepatient",
     "wof:parent_id":85871877,
     "wof:placetype":"venue",

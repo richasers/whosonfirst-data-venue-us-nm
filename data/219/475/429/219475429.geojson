@@ -2,9 +2,14 @@
   "id": 219475429,
   "type": "Feature",
   "properties": {
+    "addr:full":"4141 Pinnacle St El Paso TX 79902",
+    "addr:housenumber":"4141",
+    "addr:postcode":"79902",
+    "addr:street":"Pinnacle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.51444,31.794468,-106.51444,31.794468",
     "geom:latitude":31.794468,
     "geom:longitude":-106.51444,
@@ -32,10 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688493,
+        85688753,
+        102191575,
         85633793,
-        85976629,
-        102081557,
+        101724863,
+        102085989,
         85828903
     ],
     "wof:breaches":[],
@@ -46,17 +52,17 @@
     "wof:geomhash":"9621151aa0a33f5285f0845bef3cd530",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081557,
-            "locality_id":85976629,
+            "county_id":102085989,
+            "locality_id":101724863,
             "neighbourhood_id":85828903,
-            "region_id":85688493,
+            "region_id":85688753,
             "venue_id":219475429
         }
     ],
     "wof:id":219475429,
-    "wof:lastmodified":1466699039,
+    "wof:lastmodified":1491895445,
     "wof:name":"Zaboroski & Zaboroski",
     "wof:parent_id":85828903,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 203062551,
   "type": "Feature",
   "properties": {
+    "addr:full":"3904 Morningside Dr NE Albuquerque NM 87110",
+    "addr:housenumber":"3904",
+    "addr:postcode":"87110",
+    "addr:street":"Morningside Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.599608,35.126772,-106.599608,35.126772",
     "geom:latitude":35.126772,
     "geom:longitude":-106.599608,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -40,7 +46,7 @@
     "wof:geomhash":"93380df0f64762c5e50e30bee2991e3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
             "venue_id":203062551
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -59,9 +65,9 @@
         }
     ],
     "wof:id":203062551,
-    "wof:lastmodified":1466698261,
+    "wof:lastmodified":1491930656,
     "wof:name":"Taylor Sherrah Massage",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

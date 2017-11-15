@@ -2,9 +2,14 @@
   "id": 202887703,
   "type": "Feature",
   "properties": {
+    "addr:full":"11300 Linn Ave NE Albuquerque NM 87123",
+    "addr:housenumber":"11300",
+    "addr:postcode":"87123",
+    "addr:street":"Linn Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.519503,35.071602,-106.519503,35.071602",
     "geom:latitude":35.071602,
     "geom:longitude":-106.519503,
@@ -27,8 +32,11 @@
     "wof:belongsto":[
         85688493,
         85633793,
+        85808363,
+        102081199,
+        102191575,
         85976715,
-        102081199
+        85847019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,26 @@
     "wof:geomhash":"acd4ae0bcad28e45721f61517534ee2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081199,
+            "neighbourhood_id":85808363,
+            "region_id":85688493,
+            "venue_id":202887703
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85847019,
             "region_id":85688493,
             "venue_id":202887703
         }
     ],
     "wof:id":202887703,
-    "wof:lastmodified":1466700302,
+    "wof:lastmodified":1491930412,
     "wof:name":"All Around Signs & Graphics",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

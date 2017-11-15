@@ -2,14 +2,20 @@
   "id": 202788421,
   "type": "Feature",
   "properties": {
+    "addr:full":"5700 Harper Dr NE Albuquerque NM 87109",
+    "addr:housenumber":"5700",
+    "addr:postcode":"87109",
+    "addr:street":"Harper Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.583557,35.152963,-106.583557,35.152963",
     "geom:latitude":35.152963,
     "geom:longitude":-106.583557,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5700 Harper Dr NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -31,20 +37,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
         85871895
     ],
+    "wof:brand_id":1125156377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pCEJnSC4ZThiHwZR3Hhce_35.152963_-106.583557@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"88e4300843044c4684e9bfe2ba2003ab",
+    "wof:geomhash":"3c0c0a58b13a62a38e193326a5031536",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":202788421,
-    "wof:lastmodified":1466699949,
+    "wof:lastmodified":1510699358,
     "wof:name":"Concentra Medical Ctr",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

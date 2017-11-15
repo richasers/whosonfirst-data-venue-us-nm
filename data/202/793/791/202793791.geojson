@@ -2,9 +2,14 @@
   "id": 202793791,
   "type": "Feature",
   "properties": {
+    "addr:full":"8444 Spain Rd NE Albuquerque NM 87111",
+    "addr:housenumber":"8444",
+    "addr:postcode":"87111",
+    "addr:street":"Spain Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.547068,35.139698,-106.547068,35.139698",
     "geom:latitude":35.139698,
     "geom:longitude":-106.547068,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"fd0db3a55cd137285e867f5cee92435f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":202793791,
-    "wof:lastmodified":1466699961,
+    "wof:lastmodified":1491894197,
     "wof:name":"A & J Landscaping",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874217657,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 Lomas Blvd NW Albuquerque NM 87102",
+    "addr:housenumber":"333",
+    "addr:postcode":"87102",
+    "addr:street":"Lomas Blvd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.650022,35.091217,-106.650022,35.091217",
     "geom:latitude":35.091217,
     "geom:longitude":-106.650022,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"333 Lomas Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081199,
         85871885
     ],
+    "wof:brand_id":1125156499,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_502KfmZLbbeLghZ8FaYTDv_35.091217_-106.650022@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464313028,
-    "wof:geomhash":"87e0ba648ae239bbddce62f24bda1c6d",
+    "wof:geomhash":"0cd97057ebb1b3051407433a158b0566",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":874217657,
-    "wof:lastmodified":1466701320,
+    "wof:lastmodified":1510693942,
     "wof:name":"US Probation & Parole Office",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",

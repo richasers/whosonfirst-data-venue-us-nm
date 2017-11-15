@@ -2,9 +2,14 @@
   "id": 202612435,
   "type": "Feature",
   "properties": {
+    "addr:full":"7505 Kathryn Ave SE Albuquerque NM 87108",
+    "addr:housenumber":"7505",
+    "addr:postcode":"87108",
+    "addr:street":"Kathryn Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.564423,35.065928,-106.564423,35.065928",
     "geom:latitude":35.065928,
     "geom:longitude":-106.564423,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"a62b8c580204324773af428a967dccf6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":202612435
         }
     ],
     "wof:id":202612435,
-    "wof:lastmodified":1466698553,
+    "wof:lastmodified":1491930431,
     "wof:name":"Senior Citizen Meal Sites",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 202804879,
   "type": "Feature",
   "properties": {
+    "addr:full":"6404 Oak Hill NE Albuquerque NM 87111",
+    "addr:housenumber":"6404",
+    "addr:postcode":"87111",
+    "addr:street":"Oak Hill Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.516822,35.15159,-106.516822,35.15159",
     "geom:latitude":35.15159,
     "geom:longitude":-106.516822,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -44,7 +50,7 @@
     "wof:geomhash":"aaa2db443500a429f0da217116c401b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":202804879,
-    "wof:lastmodified":1466699993,
+    "wof:lastmodified":1491894158,
     "wof:name":"First National Merchant Sltns",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 185803097,
   "type": "Feature",
   "properties": {
+    "addr:full":"5911 Jefferson St NE Albuquerque NM 87109",
+    "addr:housenumber":"5911",
+    "addr:postcode":"87109",
+    "addr:street":"Jefferson St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.59597,35.14606,-106.59597,35.14606",
     "geom:latitude":35.14606,
     "geom:longitude":-106.59597,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -46,7 +52,7 @@
     "wof:geomhash":"2b42998ed6b00dd05d588be4bd0034a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":185803097,
-    "wof:lastmodified":1466699471,
+    "wof:lastmodified":1491930799,
     "wof:name":"Sagebrush Technology Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

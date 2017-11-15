@@ -2,14 +2,20 @@
   "id": 353925187,
   "type": "Feature",
   "properties": {
+    "addr:full":"5401 Central Ave NW Ste C Albuquerque NM 87105",
+    "addr:housenumber":"5401",
+    "addr:postcode":"87105",
+    "addr:street":"Central Ave Nw Ste C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.697937,35.08284,-106.697937,35.08284",
     "geom:latitude":35.08284,
     "geom:longitude":-106.697937,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5401 Central Ave NW Ste C",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -46,20 +52,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
         85892577
     ],
+    "wof:brand_id":1125156149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24EAIpQlXot8TO4AuzoKkr_35.082840_-106.697937@1303263129"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbf3ece5633300940d1ee1bf7711070e",
+    "wof:geomhash":"ef41086c75f43a664e56b5afacd9451b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -69,7 +77,7 @@
         }
     ],
     "wof:id":353925187,
-    "wof:lastmodified":1466697869,
+    "wof:lastmodified":1510694178,
     "wof:name":"Titan Auto Insurance",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",

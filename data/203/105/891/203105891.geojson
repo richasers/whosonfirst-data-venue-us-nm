@@ -2,9 +2,14 @@
   "id": 203105891,
   "type": "Feature",
   "properties": {
+    "addr:full":"7408 Gila Rd NE Albuquerque NM 87109",
+    "addr:housenumber":"7408",
+    "addr:postcode":"87109",
+    "addr:street":"Gila Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.561883,35.149537,-106.561883,35.149537",
     "geom:latitude":35.149537,
     "geom:longitude":-106.561883,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"5a91a6c0ffde9d4c6666e08ff0621e42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":203105891,
-    "wof:lastmodified":1466698801,
+    "wof:lastmodified":1491894157,
     "wof:name":"Martin J Molloy & Associates",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

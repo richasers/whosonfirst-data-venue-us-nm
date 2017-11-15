@@ -2,14 +2,20 @@
   "id": 185696943,
   "type": "Feature",
   "properties": {
+    "addr:full":"9600 Central Ave SE Albuquerque NM 87123",
+    "addr:housenumber":"9600",
+    "addr:postcode":"87123",
+    "addr:street":"Central Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.54037,35.072821,-106.54037,35.072821",
     "geom:latitude":35.072821,
     "geom:longitude":-106.54037,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9600 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -30,28 +36,27 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
+    "wof:brand_id":1125154531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JL4gJ9kuOVZrH4AXPFKNj_35.072821_-106.540370@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec9b220b5cf0cb235d8d14456bfdc0fa",
+    "wof:geomhash":"926fe811973a08f5f55108aff465d4b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":185696943
         }
     ],
     "wof:id":185696943,
-    "wof:lastmodified":1466698616,
+    "wof:lastmodified":1510693202,
     "wof:name":"Faith Bible Church",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

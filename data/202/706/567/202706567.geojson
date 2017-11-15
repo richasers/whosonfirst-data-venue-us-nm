@@ -2,14 +2,20 @@
   "id": 202706567,
   "type": "Feature",
   "properties": {
+    "addr:full":"8602 Central Ave SE Albuquerque NM 87108",
+    "addr:housenumber":"8602",
+    "addr:postcode":"87108",
+    "addr:street":"Central Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.550472,35.073799,-106.550472,35.073799",
     "geom:latitude":35.073799,
     "geom:longitude":-106.550472,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8602 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -32,28 +38,27 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
+    "wof:brand_id":1125159953,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tb9OxeDGnv6qTNoGVVGtG_35.073799_-106.550472@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"588b744138ba4f1d40de94c31ab49296",
+    "wof:geomhash":"94e28054964b1382e0e7a5d6715a76a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":202706567
         }
     ],
     "wof:id":202706567,
-    "wof:lastmodified":1466699626,
+    "wof:lastmodified":1510693741,
     "wof:name":"New Earl Scheib Paint & Body",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

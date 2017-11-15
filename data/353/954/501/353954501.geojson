@@ -2,9 +2,14 @@
   "id": 353954501,
   "type": "Feature",
   "properties": {
+    "addr:full":"8428 Creek St NE Albuquerque NM 87113",
+    "addr:housenumber":"8428",
+    "addr:postcode":"87113",
+    "addr:street":"Creek St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.589267,35.178701,-106.589267,35.178701",
     "geom:latitude":35.178701,
     "geom:longitude":-106.589267,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"7cc89efce8f6a7bcb468c567fa43fe12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":353954501,
-    "wof:lastmodified":1466698697,
+    "wof:lastmodified":1491930805,
     "wof:name":"Nails By Amy",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

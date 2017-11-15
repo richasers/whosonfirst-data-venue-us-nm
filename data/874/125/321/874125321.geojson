@@ -2,9 +2,14 @@
   "id": 874125321,
   "type": "Feature",
   "properties": {
+    "addr:full":"2106 Coors Blvd SW Albuquerque NM 87121",
+    "addr:housenumber":"2106",
+    "addr:postcode":"87121",
+    "addr:street":"Coors Blvd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.709105,35.046574,-106.709105,35.046574",
     "geom:latitude":35.046574,
     "geom:longitude":-106.709105,
@@ -37,12 +42,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
-        85633793,
-        85892591,
-        102081199,
         102191575,
+        85633793,
         85976715,
-        85892601
+        102081199,
+        85892601,
+        85892591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +58,6 @@
     "wof:geomhash":"03e969efda6b15a61fabad5a25e26e5f",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102081199,
-            "neighbourhood_id":85892591,
-            "region_id":85688493,
-            "venue_id":874125321
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
@@ -67,12 +65,19 @@
             "neighbourhood_id":85892601,
             "region_id":85688493,
             "venue_id":874125321
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081199,
+            "neighbourhood_id":85892591,
+            "region_id":85688493,
+            "venue_id":874125321
         }
     ],
     "wof:id":874125321,
-    "wof:lastmodified":1466700828,
+    "wof:lastmodified":1491927338,
     "wof:name":"Town & Country Cabinets Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

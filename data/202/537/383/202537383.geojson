@@ -2,9 +2,14 @@
   "id": 202537383,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Altez St SE Albuquerque NM 87123",
+    "addr:housenumber":"110",
+    "addr:postcode":"87123",
+    "addr:street":"Altez St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.539361,35.071675,-106.539361,35.071675",
     "geom:latitude":35.071675,
     "geom:longitude":-106.539361,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,15 @@
     "wof:geomhash":"71fa9c4b7976bdf4f707a371edade564",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":202537383
         }
     ],
     "wof:id":202537383,
-    "wof:lastmodified":1466699469,
+    "wof:lastmodified":1491930429,
     "wof:name":"All American Auto Glass Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

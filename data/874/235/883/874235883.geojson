@@ -2,14 +2,20 @@
   "id": 874235883,
   "type": "Feature",
   "properties": {
+    "addr:full":"4401 Wyoming Blvd NE Albuquerque NM 87111",
+    "addr:housenumber":"4401",
+    "addr:postcode":"87111",
+    "addr:street":"Wyoming;Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.551104,35.12963,-106.551104,35.12963",
     "geom:latitude":35.12963,
     "geom:longitude":-106.551104,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4401 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102081199,
         85871897
     ],
+    "wof:brand_id":1125154029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fyPUmGJzrBdxv66XBSvr3_35.129494_-106.551073@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464313259,
-    "wof:geomhash":"bd9aa6f2849362e82993fb9f856261c3",
+    "wof:geomhash":"c0df857707c91e757f5a5130c4d24c52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":874235883,
-    "wof:lastmodified":1466701397,
+    "wof:lastmodified":1510697400,
     "wof:name":"Carrows",
     "wof:parent_id":85871897,
     "wof:placetype":"venue",

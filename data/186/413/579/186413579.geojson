@@ -2,9 +2,14 @@
   "id": 186413579,
   "type": "Feature",
   "properties": {
+    "addr:full":"5101 San Mateo Blvd NE Albuquerque NM 87109",
+    "addr:housenumber":"5101",
+    "addr:postcode":"87109",
+    "addr:street":"San Mateo Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.58652,35.140818,-106.58652,35.140818",
     "geom:latitude":35.140818,
     "geom:longitude":-106.58652,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"271e4de6487e742f0e71d5d5c816712d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":186413579,
-    "wof:lastmodified":1466699894,
+    "wof:lastmodified":1491930672,
     "wof:name":"Circle K",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

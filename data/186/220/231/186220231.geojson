@@ -2,9 +2,14 @@
   "id": 186220231,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Atlantic Ave SW Albuquerque NM 87102",
+    "addr:housenumber":"900",
+    "addr:postcode":"87102",
+    "addr:street":"Atlantic Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.65976,35.07703,-106.65976,35.07703",
     "geom:latitude":35.07703,
     "geom:longitude":-106.65976,
@@ -26,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
-        102081199
+        102081199,
+        85804483,
+        85864291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,28 @@
     "wof:geomhash":"641b5bbc48d00fa126c08acfc324a959",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85804483,
+            "region_id":85688493,
+            "venue_id":186220231
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081199,
+            "locality_id":85976715,
+            "neighbourhood_id":85864291,
             "region_id":85688493,
             "venue_id":186220231
         }
     ],
     "wof:id":186220231,
-    "wof:lastmodified":1466698274,
+    "wof:lastmodified":1491930595,
     "wof:name":"Albuquerque Pub Sch Cafeteria",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

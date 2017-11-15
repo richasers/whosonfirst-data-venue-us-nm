@@ -2,9 +2,14 @@
   "id": 185873201,
   "type": "Feature",
   "properties": {
+    "addr:full":"9701 Central Ave SE Albuquerque NM 87123",
+    "addr:housenumber":"9701",
+    "addr:postcode":"87123",
+    "addr:street":"Central Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.53944,35.072716,-106.53944,35.072716",
     "geom:latitude":35.072716,
     "geom:longitude":-106.53944,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,15 @@
     "wof:geomhash":"7267d55a65503e3bedac5821f4aac055",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":185873201
         }
     ],
     "wof:id":185873201,
-    "wof:lastmodified":1466698243,
+    "wof:lastmodified":1491930420,
     "wof:name":"Sundance Motors",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

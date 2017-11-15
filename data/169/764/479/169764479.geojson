@@ -2,9 +2,14 @@
   "id": 169764479,
   "type": "Feature",
   "properties": {
+    "addr:full":"4931 Pan American Fwy Albuquerque NM 87109",
+    "addr:housenumber":"4931",
+    "addr:postcode":"87109",
+    "addr:street":"Pan American Fwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.60407,35.136337,-106.60407,35.136337",
     "geom:latitude":35.136337,
     "geom:longitude":-106.60407,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -41,7 +47,7 @@
     "wof:geomhash":"388223c5dbeb88427b741876dd753e40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -50,7 +56,7 @@
             "venue_id":169764479
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -60,9 +66,9 @@
         }
     ],
     "wof:id":169764479,
-    "wof:lastmodified":1466698210,
+    "wof:lastmodified":1491930675,
     "wof:name":"Blue Corn Cafe & Brewery",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

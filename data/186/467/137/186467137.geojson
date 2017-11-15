@@ -2,9 +2,14 @@
   "id": 186467137,
   "type": "Feature",
   "properties": {
+    "addr:full":"7701 Lomas Blvd NE Albuquerque NM 87110",
+    "addr:housenumber":"7701",
+    "addr:postcode":"87110",
+    "addr:street":"Lomas Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.561205,35.087264,-106.561205,35.087264",
     "geom:latitude":35.087264,
     "geom:longitude":-106.561205,
@@ -32,8 +37,12 @@
     "wof:belongsto":[
         85688493,
         85633793,
+        85808363,
+        102081199,
+        102191575,
         85976715,
-        102081199
+        85871881,
+        85871883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +52,35 @@
     "wof:geomhash":"bc15bf6b55291bb26f89fb1d742aeb0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081199,
+            "neighbourhood_id":85808363,
+            "region_id":85688493,
+            "venue_id":186467137
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85871881,
+            "region_id":85688493,
+            "venue_id":186467137
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081199,
+            "locality_id":85976715,
+            "neighbourhood_id":85871883,
             "region_id":85688493,
             "venue_id":186467137
         }
     ],
     "wof:id":186467137,
-    "wof:lastmodified":1466700011,
+    "wof:lastmodified":1491930395,
     "wof:name":"Melloy Nissan Jaguar",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

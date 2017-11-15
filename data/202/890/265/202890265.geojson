@@ -2,9 +2,14 @@
   "id": 202890265,
   "type": "Feature",
   "properties": {
+    "addr:full":"2950 Central Ave SE Albuquerque NM 87106",
+    "addr:housenumber":"2950",
+    "addr:postcode":"87106",
+    "addr:street":"Central Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.612532,35.080842,-106.612532,35.080842",
     "geom:latitude":35.080842,
     "geom:longitude":-106.612532,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"067be50d6ca758918cfa33e73c9d8aa9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":202890265,
-    "wof:lastmodified":1466700303,
+    "wof:lastmodified":1491912854,
     "wof:name":"Dahn Center",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",

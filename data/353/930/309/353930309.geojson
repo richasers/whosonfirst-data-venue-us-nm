@@ -2,9 +2,14 @@
   "id": 353930309,
   "type": "Feature",
   "properties": {
+    "addr:full":"4333 Pan American Fwy NE Albuquerque NM 87107",
+    "addr:housenumber":"4333",
+    "addr:postcode":"87107",
+    "addr:street":"Pan American Fwy Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.613171,35.131058,-106.613171,35.131058",
     "geom:latitude":35.131058,
     "geom:longitude":-106.613171,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -49,7 +55,7 @@
     "wof:geomhash":"3f939c9702b05f2403491fe22474487b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -58,7 +64,7 @@
             "venue_id":353930309
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -68,9 +74,9 @@
         }
     ],
     "wof:id":353930309,
-    "wof:lastmodified":1466698013,
+    "wof:lastmodified":1491930799,
     "wof:name":"Lovato Eyewear",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

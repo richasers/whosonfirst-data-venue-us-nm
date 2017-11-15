@@ -2,9 +2,14 @@
   "id": 185841775,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 General Hodges St NE Albuquerque NM 87123",
+    "addr:housenumber":"400",
+    "addr:postcode":"87123",
+    "addr:street":"General Hodges St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.545308,35.080082,-106.545308,35.080082",
     "geom:latitude":35.080082,
     "geom:longitude":-106.545308,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"0a08467c861c544aaab5f6cf41a05b1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":185841775
         }
     ],
     "wof:id":185841775,
-    "wof:lastmodified":1466697918,
+    "wof:lastmodified":1491930392,
     "wof:name":"Alliance Pest Management",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

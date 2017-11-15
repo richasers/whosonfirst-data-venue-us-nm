@@ -2,9 +2,14 @@
   "id": 236731355,
   "type": "Feature",
   "properties": {
+    "addr:full":"3901 N Mesa St El Paso TX 79902",
+    "addr:housenumber":"3901",
+    "addr:postcode":"79902",
+    "addr:street":"N Mesa St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.507496,31.78942,-106.507496,31.78942",
     "geom:latitude":31.78942,
     "geom:longitude":-106.507496,
@@ -34,10 +39,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688493,
+        85688753,
+        102191575,
         85633793,
-        85976629,
-        102081557,
+        101724863,
+        102085989,
         85828903
     ],
     "wof:breaches":[],
@@ -48,17 +54,17 @@
     "wof:geomhash":"dd6fa21ae970926c2bc24aa1dee58451",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081557,
-            "locality_id":85976629,
+            "county_id":102085989,
+            "locality_id":101724863,
             "neighbourhood_id":85828903,
-            "region_id":85688493,
+            "region_id":85688753,
             "venue_id":236731355
         }
     ],
     "wof:id":236731355,
-    "wof:lastmodified":1466699453,
+    "wof:lastmodified":1491895451,
     "wof:name":"Database Access",
     "wof:parent_id":85828903,
     "wof:placetype":"venue",

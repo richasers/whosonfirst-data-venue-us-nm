@@ -2,14 +2,20 @@
   "id": 202889611,
   "type": "Feature",
   "properties": {
+    "addr:full":"5004 San Mateo Blvd NE Albuquerque NM 87109",
+    "addr:housenumber":"5004",
+    "addr:postcode":"87109",
+    "addr:street":"San Mateo Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.586384,35.141923,-106.586384,35.141923",
     "geom:latitude":35.141923,
     "geom:longitude":-106.586384,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5004 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -27,20 +33,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
         85871895
     ],
+    "wof:brand_id":1125152047,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_266qBu6hpyeFpccgfNhAzF_35.141923_-106.586384@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"2685e76c3a0f749537c2af40de28d3ba",
+    "wof:geomhash":"133f388c32896b81185b4db0fdb79842",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":202889611,
-    "wof:lastmodified":1466700299,
+    "wof:lastmodified":1510694905,
     "wof:name":"La-Z-Boy Furniture Galleries",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

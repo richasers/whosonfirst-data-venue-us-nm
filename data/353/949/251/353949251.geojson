@@ -2,9 +2,14 @@
   "id": 353949251,
   "type": "Feature",
   "properties": {
+    "addr:full":"8337 Cherry Hills Dr NE Albuquerque NM 87111",
+    "addr:housenumber":"8337",
+    "addr:postcode":"87111",
+    "addr:street":"Cherry Hills Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.551461,35.157922,-106.551461,35.157922",
     "geom:latitude":35.157922,
     "geom:longitude":-106.551461,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"1556af153ae1b7e81033fb84c5f43149",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353949251,
-    "wof:lastmodified":1466698549,
+    "wof:lastmodified":1491894219,
     "wof:name":"Unity Of North Albuquerque",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

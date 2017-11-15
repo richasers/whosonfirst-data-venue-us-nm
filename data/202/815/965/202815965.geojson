@@ -2,14 +2,20 @@
   "id": 202815965,
   "type": "Feature",
   "properties": {
+    "addr:full":"6001 Unser Blvd NW Albuquerque NM 87120",
+    "addr:housenumber":"6001",
+    "addr:postcode":"87120",
+    "addr:street":"Unser Blvd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.717825,35.153099,-106.717825,35.153099",
     "geom:latitude":35.153099,
     "geom:longitude":-106.717825,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6001 Unser Blvd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102081199,
         85892579
     ],
+    "wof:brand_id":1125155405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45CxPUjkqtorBj4D9VJpmk_35.153099_-106.717825@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff3296e38d26943d3d0ae746baf81907",
+    "wof:geomhash":"5cb1803dd1f40d8176af4f3798055057",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":202815965,
-    "wof:lastmodified":1466700019,
+    "wof:lastmodified":1510695073,
     "wof:name":"National Park Svc",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",

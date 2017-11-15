@@ -2,14 +2,20 @@
   "id": 353940835,
   "type": "Feature",
   "properties": {
+    "addr:full":"6700 Jefferson St NE Ste. E Albuquerque NM 87109",
+    "addr:housenumber":"6700",
+    "addr:postcode":"87109",
+    "addr:street":"Jefferson St Ne Ste. E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.593536,35.156261,-106.593536,35.156261",
     "geom:latitude":35.156261,
     "geom:longitude":-106.593536,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6700 Jefferson St NE Ste. E",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -33,20 +39,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
         85871895
     ],
+    "wof:brand_id":1125150655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Uejnx7zx8965KCyKFNR5N_35.156261_-106.593536@1303263129"
     },
     "wof:country":"US",
-    "wof:geomhash":"a6308f1948baac9d52c126361c663669",
+    "wof:geomhash":"0322dcf66f6fc63920dd5cf8c200ccd8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -56,7 +64,7 @@
         }
     ],
     "wof:id":353940835,
-    "wof:lastmodified":1466698297,
+    "wof:lastmodified":1510695185,
     "wof:name":"Aerotek",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

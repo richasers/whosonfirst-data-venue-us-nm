@@ -2,9 +2,14 @@
   "id": 202722517,
   "type": "Feature",
   "properties": {
+    "addr:full":"3900 Vassar Dr NE Albuquerque NM 87107",
+    "addr:housenumber":"3900",
+    "addr:postcode":"87107",
+    "addr:street":"Vassar Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.615062,35.125463,-106.615062,35.125463",
     "geom:latitude":35.125463,
     "geom:longitude":-106.615062,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -44,7 +50,7 @@
     "wof:geomhash":"18ae24535a01fd943c162943198a4dd4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
             "venue_id":202722517
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -63,9 +69,9 @@
         }
     ],
     "wof:id":202722517,
-    "wof:lastmodified":1466699813,
+    "wof:lastmodified":1491930757,
     "wof:name":"Bank of Albuquerque N A",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 202974531,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 55th St SW Albuquerque NM 87121",
+    "addr:housenumber":"209",
+    "addr:postcode":"87121",
+    "addr:street":"55Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.698323,35.079524,-106.698323,35.079524",
     "geom:latitude":35.079524,
     "geom:longitude":-106.698323,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -44,7 +50,7 @@
     "wof:geomhash":"8566399a25c9da4eb88001af01eb76b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":202974531,
-    "wof:lastmodified":1466700682,
+    "wof:lastmodified":1491919011,
     "wof:name":"Glass Crafters",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 202828493,
   "type": "Feature",
   "properties": {
+    "addr:full":"3424 Campus Blvd NE Albuquerque NM 87106",
+    "addr:housenumber":"3424",
+    "addr:postcode":"87106",
+    "addr:street":"Campus Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.608019,35.081899,-106.608019,35.081899",
     "geom:latitude":35.081899,
     "geom:longitude":-106.608019,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"eade6460a9cb1a7fce535c334eb852d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":202828493,
-    "wof:lastmodified":1466700001,
+    "wof:lastmodified":1491912845,
     "wof:name":"Benevant",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353942797,
   "type": "Feature",
   "properties": {
+    "addr:full":"4725 Goodrich Ave NE Albuquerque NM 87110",
+    "addr:housenumber":"4725",
+    "addr:postcode":"87110",
+    "addr:street":"Goodrich Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.5923,35.128092,-106.5923,35.128092",
     "geom:latitude":35.128092,
     "geom:longitude":-106.5923,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -45,7 +51,7 @@
     "wof:geomhash":"861d952e0d554364619acff594a1f1f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -54,7 +60,7 @@
             "venue_id":353942797
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -64,9 +70,9 @@
         }
     ],
     "wof:id":353942797,
-    "wof:lastmodified":1466698355,
+    "wof:lastmodified":1491930663,
     "wof:name":"Begeal Consulting Service Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

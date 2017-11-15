@@ -2,9 +2,14 @@
   "id": 202615037,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 59th St SW Albuquerque NM 87121",
+    "addr:housenumber":"501",
+    "addr:postcode":"87121",
+    "addr:street":"59Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.700721,35.075799,-106.700721,35.075799",
     "geom:latitude":35.075799,
     "geom:longitude":-106.700721,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"be7766f1784df69391e4f68d334e1c73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":202615037,
-    "wof:lastmodified":1466698597,
+    "wof:lastmodified":1491919011,
     "wof:name":"Jasso Heating & Refrigeration",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",

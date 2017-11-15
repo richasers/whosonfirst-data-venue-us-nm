@@ -2,14 +2,20 @@
   "id": 874229469,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 San Mateo Blvd NE Albuquerque NM 87108",
+    "addr:housenumber":"600",
+    "addr:postcode":"87108",
+    "addr:street":"San Mateo Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.586093,35.082979,-106.586093,35.082979",
     "geom:latitude":35.082979,
     "geom:longitude":-106.586093,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102081199,
         85871875
     ],
+    "wof:brand_id":1125154029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Dr2r5QxwZIMLbNCaoLOpO_35.082979_-106.586093@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464313155,
-    "wof:geomhash":"398e1b33de44940c399de35e64c17900",
+    "wof:geomhash":"12f41b4d57011d7033103422de1e4d9f",
     "wof:hierarchy":[
         {
             "campus_id":102524725,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":874229469,
-    "wof:lastmodified":1466701409,
+    "wof:lastmodified":1510697399,
     "wof:name":"Carrows",
     "wof:parent_id":102524725,
     "wof:placetype":"venue",

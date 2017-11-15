@@ -2,14 +2,20 @@
   "id": 874115399,
   "type": "Feature",
   "properties": {
+    "addr:full":"9901 Central Ave SE Albuquerque NM 87123",
+    "addr:housenumber":"9901",
+    "addr:postcode":"87123",
+    "addr:street":"Central Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.536987,35.072458,-106.536987,35.072458",
     "geom:latitude":35.072458,
     "geom:longitude":-106.536987,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9901 Central Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85808363,
         102081199
     ],
+    "wof:brand_id":1125158977,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GRKGh56jXz7kujZifVYG1_35.072458_-106.536987@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464311990,
-    "wof:geomhash":"97ee11ba35e149625cff42903fbad6f3",
+    "wof:geomhash":"fd401b44cc57394203372b08cb5a3fc7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874115399,
-    "wof:lastmodified":1466700798,
+    "wof:lastmodified":1510696033,
     "wof:name":"El Tapatio",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

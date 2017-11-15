@@ -2,9 +2,14 @@
   "id": 353953761,
   "type": "Feature",
   "properties": {
+    "addr:full":"5701 Carmel Ave NE Albuquerque NM 87113",
+    "addr:housenumber":"5701",
+    "addr:postcode":"87113",
+    "addr:street":"Carmel Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.58147,35.177191,-106.58147,35.177191",
     "geom:latitude":35.177191,
     "geom:longitude":-106.58147,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -45,7 +51,7 @@
     "wof:geomhash":"baa1cf055ac1936003e080dab7b04b18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":353953761,
-    "wof:lastmodified":1466698684,
+    "wof:lastmodified":1491930626,
     "wof:name":"Albuquerque Sound & Vac Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

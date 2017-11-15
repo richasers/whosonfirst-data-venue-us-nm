@@ -2,14 +2,20 @@
   "id": 203041885,
   "type": "Feature",
   "properties": {
+    "addr:full":"166 Hospital Dr Raton NM 87740",
+    "addr:housenumber":"166",
+    "addr:postcode":"87740",
+    "addr:street":"Hospital Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.443215,36.863193,-104.443215,36.863193",
     "geom:latitude":36.863193,
     "geom:longitude":-104.443215,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"166 Hospital Dr",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102081193,
         85814535
     ],
+    "wof:brand_id":1125151735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6z80GfKz4TMTYRH4MtSyZ1_36.863193_-104.443215@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"e6f08cb5f97d75b8989faa5adeec7a77",
+    "wof:geomhash":"593dc2d09a360f080e2f7e0cfae7e4eb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":203041885,
-    "wof:lastmodified":1466698057,
+    "wof:lastmodified":1510698805,
     "wof:name":"Internal Medicine Assoc",
     "wof:parent_id":85814535,
     "wof:placetype":"venue",

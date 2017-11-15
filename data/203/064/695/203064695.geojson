@@ -2,9 +2,14 @@
   "id": 203064695,
   "type": "Feature",
   "properties": {
+    "addr:full":"7915 Zuni Rd SE Albuquerque NM 87108",
+    "addr:housenumber":"7915",
+    "addr:postcode":"87108",
+    "addr:street":"Zuni Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.559393,35.07287,-106.559393,35.07287",
     "geom:latitude":35.07287,
     "geom:longitude":-106.559393,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,15 @@
     "wof:geomhash":"fa7358459533497bc5522e1655e42ef6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":203064695
         }
     ],
     "wof:id":203064695,
-    "wof:lastmodified":1466698289,
+    "wof:lastmodified":1491930382,
     "wof:name":"Mike's Car Wash",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

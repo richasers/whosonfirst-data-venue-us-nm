@@ -2,9 +2,14 @@
   "id": 186568777,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 Wyoming Blvd NE Albuquerque NM 87123",
+    "addr:housenumber":"505",
+    "addr:postcode":"87123",
+    "addr:street":"Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.550465,35.083594,-106.550465,35.083594",
     "geom:latitude":35.083594,
     "geom:longitude":-106.550465,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"eb3cf156e11887a5acc374b4a0a8e15f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":186568777
         }
     ],
     "wof:id":186568777,
-    "wof:lastmodified":1466700656,
+    "wof:lastmodified":1491930449,
     "wof:name":"Tino's Hair Designs",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

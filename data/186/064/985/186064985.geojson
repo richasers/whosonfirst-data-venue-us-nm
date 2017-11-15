@@ -2,9 +2,14 @@
   "id": 186064985,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 Carlisle Blvd NE Albuquerque NM 87110",
+    "addr:housenumber":"3000",
+    "addr:postcode":"87110",
+    "addr:street":"Carlisle Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.604098,35.119166,-106.604098,35.119166",
     "geom:latitude":35.119166,
     "geom:longitude":-106.604098,
@@ -31,10 +36,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
-        85871893
+        85871893,
+        85871883,
+        85871895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,37 @@
     "wof:geomhash":"3d67acda01e5e83f21faaafffe17c929",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
             "neighbourhood_id":85871893,
             "region_id":85688493,
             "venue_id":186064985
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081199,
+            "locality_id":85976715,
+            "neighbourhood_id":85871883,
+            "region_id":85688493,
+            "venue_id":186064985
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081199,
+            "locality_id":85976715,
+            "neighbourhood_id":85871895,
+            "region_id":85688493,
+            "venue_id":186064985
         }
     ],
     "wof:id":186064985,
-    "wof:lastmodified":1466698461,
+    "wof:lastmodified":1491930782,
     "wof:name":"Tint Masters Inc",
-    "wof:parent_id":85871893,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

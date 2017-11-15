@@ -2,9 +2,14 @@
   "id": 202942383,
   "type": "Feature",
   "properties": {
+    "addr:full":"10001 Southern Blvd SE Albuquerque NM 87123",
+    "addr:housenumber":"10001",
+    "addr:postcode":"87123",
+    "addr:street":"Southern Blvd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.536966,35.067463,-106.536966,35.067463",
     "geom:latitude":35.067463,
     "geom:longitude":-106.536966,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"906737fcb50b4ef51d9e399450bf3074",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":202942383
         }
     ],
     "wof:id":202942383,
-    "wof:lastmodified":1466700528,
+    "wof:lastmodified":1491930403,
     "wof:name":"Ramblin Wood Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 202614721,
   "type": "Feature",
   "properties": {
+    "addr:full":"521 Virginia St SE Albuquerque NM 87108",
+    "addr:housenumber":"521",
+    "addr:postcode":"87108",
+    "addr:street":"Virginia St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.552769,35.066959,-106.552769,35.066959",
     "geom:latitude":35.066959,
     "geom:longitude":-106.552769,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"af6087a11eac919c97981acfaf807c2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":202614721
         }
     ],
     "wof:id":202614721,
-    "wof:lastmodified":1466698594,
+    "wof:lastmodified":1491930431,
     "wof:name":"Cosmodyne Manufacturing Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

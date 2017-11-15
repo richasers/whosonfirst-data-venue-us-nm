@@ -2,9 +2,14 @@
   "id": 203100043,
   "type": "Feature",
   "properties": {
+    "addr:full":"7018 Starshine St NE Albuquerque NM 87111",
+    "addr:housenumber":"7018",
+    "addr:postcode":"87111",
+    "addr:street":"Starshine St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.523757,35.158483,-106.523757,35.158483",
     "geom:latitude":35.158483,
     "geom:longitude":-106.523757,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"2761886571cf31f4d8d8f641ef1960c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":203100043,
-    "wof:lastmodified":1466698737,
+    "wof:lastmodified":1491894214,
     "wof:name":"Wild Things For The Home",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

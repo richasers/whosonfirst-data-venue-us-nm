@@ -2,9 +2,14 @@
   "id": 186059685,
   "type": "Feature",
   "properties": {
+    "addr:full":"8610 Copper Ave NE Albuquerque NM 87108",
+    "addr:housenumber":"8610",
+    "addr:postcode":"87108",
+    "addr:street":"Copper Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.550455,35.079848,-106.550455,35.079848",
     "geom:latitude":35.079848,
     "geom:longitude":-106.550455,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,15 @@
     "wof:geomhash":"09e438a5f898f6e2d16b35168eed267f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":186059685
         }
     ],
     "wof:id":186059685,
-    "wof:lastmodified":1466698373,
+    "wof:lastmodified":1491930398,
     "wof:name":"J & E Body Shop Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

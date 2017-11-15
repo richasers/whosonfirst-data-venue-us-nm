@@ -2,9 +2,14 @@
   "id": 353924823,
   "type": "Feature",
   "properties": {
+    "addr:full":"907 Foothill Dr SW Albuquerque NM 87105",
+    "addr:housenumber":"907",
+    "addr:postcode":"87105",
+    "addr:street":"Foothill Dr Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.698013,35.068041,-106.698013,35.068041",
     "geom:latitude":35.068041,
     "geom:longitude":-106.698013,
@@ -38,6 +43,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -51,7 +57,7 @@
     "wof:geomhash":"c2cfeddbdc2f31dc75bded4257554a33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":353924823,
-    "wof:lastmodified":1466697861,
+    "wof:lastmodified":1491919009,
     "wof:name":"Montoya's Painting LLC",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",

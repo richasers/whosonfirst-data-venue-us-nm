@@ -2,9 +2,14 @@
   "id": 353949743,
   "type": "Feature",
   "properties": {
+    "addr:full":"9577 Osuna Rd NE Ste E Albuquerque NM 87111",
+    "addr:housenumber":"9577",
+    "addr:postcode":"87111",
+    "addr:street":"Osuna Rd Ne Ste E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.535694,35.136551,-106.535694,35.136551",
     "geom:latitude":35.136551,
     "geom:longitude":-106.535694,
@@ -40,6 +45,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -53,7 +59,7 @@
     "wof:geomhash":"115488fd14e74a32ccac07d3405765f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":353949743,
-    "wof:lastmodified":1466698562,
+    "wof:lastmodified":1491894176,
     "wof:name":"Osuna",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186517747,
   "type": "Feature",
   "properties": {
+    "addr:full":"370 Eubank Blvd NE Albuquerque NM 87123",
+    "addr:housenumber":"370",
+    "addr:postcode":"87123",
+    "addr:street":"Eubank Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.532258,35.078771,-106.532258,35.078771",
     "geom:latitude":35.078771,
     "geom:longitude":-106.532258,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:brand_id":420574197,
     "wof:breaches":[],
@@ -39,17 +44,15 @@
     "wof:geomhash":"c4b56f32a882a089c57b8a4feaf12325",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":186517747
         }
     ],
     "wof:id":186517747,
-    "wof:lastmodified":1466700191,
+    "wof:lastmodified":1491930393,
     "wof:name":"Fashion Bug",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

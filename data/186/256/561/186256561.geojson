@@ -2,9 +2,14 @@
   "id": 186256561,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Hospital Loop NE Albuquerque NM 87109",
+    "addr:housenumber":"101",
+    "addr:postcode":"87109",
+    "addr:street":"Hospital Loop Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.59097,35.134313,-106.59097,35.134313",
     "geom:latitude":35.134313,
     "geom:longitude":-106.59097,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"e0ed090bf917759a24c0464bbc6df335",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":186256561,
-    "wof:lastmodified":1466698744,
+    "wof:lastmodified":1491930742,
     "wof:name":"Sandia Health Systems",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

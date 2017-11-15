@@ -2,14 +2,20 @@
   "id": 874235353,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Gold Ave SW Albuquerque NM 87102",
+    "addr:housenumber":"101",
+    "addr:postcode":"87102",
+    "addr:street":"Gold Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.648333,35.083084,-106.648333,35.083084",
     "geom:latitude":35.083084,
     "geom:longitude":-106.648333,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 Gold Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         102081199,
         85871877
     ],
+    "wof:brand_id":420575303,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FuaUJ7MYvgRrCncmeqKBQ_35.083484_-106.648167@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464313248,
-    "wof:geomhash":"d74cd49af644ac8f716afe5f4d3bce15",
+    "wof:geomhash":"19527384bb40f29c2746b578789b10a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":874235353,
-    "wof:lastmodified":1466701440,
+    "wof:lastmodified":1510601935,
     "wof:name":"Cold Stone Creamery",
     "wof:parent_id":85871877,
     "wof:placetype":"venue",

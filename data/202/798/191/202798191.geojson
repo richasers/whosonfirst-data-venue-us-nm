@@ -2,14 +2,20 @@
   "id": 202798191,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Airport Rd Las Vegas NM 87701",
+    "addr:housenumber":"900",
+    "addr:postcode":"87701",
+    "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.14774,35.65219,-105.14774,35.65219",
     "geom:latitude":35.65219,
     "geom:longitude":-105.14774,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 Airport Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         85633793,
         85688493
     ],
+    "wof:brand_id":1125150645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pACK0lX9YvGjLxwe282S0_35.652190_-105.147740@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"9bab05d3ddfacff5c60b92c19b8ae4f4",
+    "wof:geomhash":"92af5feb09ffce120a4ac99abacc7e93",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":202798191,
-    "wof:lastmodified":1466699974,
+    "wof:lastmodified":1510613316,
     "wof:name":"Us Faa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

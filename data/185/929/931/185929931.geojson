@@ -2,9 +2,14 @@
   "id": 185929931,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Eubank Blvd SE Albuquerque NM 87123",
+    "addr:housenumber":"500",
+    "addr:postcode":"87123",
+    "addr:street":"Eubank Blvd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.53254,35.067341,-106.53254,35.067341",
     "geom:latitude":35.067341,
     "geom:longitude":-106.53254,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,15 @@
     "wof:geomhash":"6a24aad16a8e5377ddf649a8cca9ff85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":185929931
         }
     ],
     "wof:id":185929931,
-    "wof:lastmodified":1466698940,
+    "wof:lastmodified":1491930420,
     "wof:name":"Costco",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353966801,
   "type": "Feature",
   "properties": {
+    "addr:full":"332 Mankin St NE Albuquerque NM 87123",
+    "addr:housenumber":"332",
+    "addr:postcode":"87123",
+    "addr:street":"Mankin St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.53531,35.077251,-106.53531,35.077251",
     "geom:latitude":35.077251,
     "geom:longitude":-106.53531,
@@ -38,8 +43,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +54,15 @@
     "wof:geomhash":"e2f3fd25e8bfc83d58d5916870b38452",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":353966801
         }
     ],
     "wof:id":353966801,
-    "wof:lastmodified":1466698930,
+    "wof:lastmodified":1491930393,
     "wof:name":"Crafts By Becky",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

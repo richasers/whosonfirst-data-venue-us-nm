@@ -2,9 +2,14 @@
   "id": 337300413,
   "type": "Feature",
   "properties": {
+    "addr:full":"4130 Rio Bravo St El Paso TX 79902",
+    "addr:housenumber":"4130",
+    "addr:postcode":"79902",
+    "addr:street":"Rio Bravo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.512945,31.794855,-106.512945,31.794855",
     "geom:latitude":31.794855,
     "geom:longitude":-106.512945,
@@ -30,10 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688493,
+        85688753,
+        102191575,
         85633793,
-        85976629,
-        102081557,
+        101724863,
+        102085989,
         85828903
     ],
     "wof:breaches":[],
@@ -44,17 +50,17 @@
     "wof:geomhash":"163d392f788ca9ac069c52f6d763d458",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081557,
-            "locality_id":85976629,
+            "county_id":102085989,
+            "locality_id":101724863,
             "neighbourhood_id":85828903,
-            "region_id":85688493,
+            "region_id":85688753,
             "venue_id":337300413
         }
     ],
     "wof:id":337300413,
-    "wof:lastmodified":1466697788,
+    "wof:lastmodified":1491895444,
     "wof:name":"Tenet",
     "wof:parent_id":85828903,
     "wof:placetype":"venue",

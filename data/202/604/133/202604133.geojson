@@ -2,14 +2,20 @@
   "id": 202604133,
   "type": "Feature",
   "properties": {
+    "addr:full":"513 Sandia St Santa Fe NM 87501",
+    "addr:housenumber":"513",
+    "addr:postcode":"87501",
+    "addr:street":"Sandia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.945485,35.692952,-105.945485,35.692952",
     "geom:latitude":35.692952,
     "geom:longitude":-105.945485,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"513 Sandia St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102081571,
         85880833
     ],
+    "wof:brand_id":1125155159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wpdzf9yxXUfvZmFsBbn1w_35.692952_-105.945485@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b37d1595d6121963f9a79b0dd23efe9",
+    "wof:geomhash":"2315da0edf88d94b89f4a01c54c30b03",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":202604133,
-    "wof:lastmodified":1466698436,
+    "wof:lastmodified":1510697624,
     "wof:name":"Master Cleaners",
     "wof:parent_id":85880833,
     "wof:placetype":"venue",

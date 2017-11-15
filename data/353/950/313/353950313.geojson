@@ -2,9 +2,14 @@
   "id": 353950313,
   "type": "Feature",
   "properties": {
+    "addr:full":"8421 Osuna Rd NE Ste E Albuquerque NM 87111",
+    "addr:housenumber":"8421",
+    "addr:postcode":"87111",
+    "addr:street":"Osuna Rd Ne Ste E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.550664,35.137489,-106.550664,35.137489",
     "geom:latitude":35.137489,
     "geom:longitude":-106.550664,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"974c165e4b4eccab4d6903f977637b2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353950313,
-    "wof:lastmodified":1466698580,
+    "wof:lastmodified":1491894216,
     "wof:name":"Hoffert Chiropractic",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353968279,
   "type": "Feature",
   "properties": {
+    "addr:full":"11128 Miravista Pl SE Albuquerque NM 87123",
+    "addr:housenumber":"11128",
+    "addr:postcode":"87123",
+    "addr:street":"Miravista Pl Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.522258,35.06842,-106.522258,35.06842",
     "geom:latitude":35.06842,
     "geom:longitude":-106.522258,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"8bd101653034fad3dda4458be0fd9289",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":353968279
         }
     ],
     "wof:id":353968279,
-    "wof:lastmodified":1466698972,
+    "wof:lastmodified":1491930408,
     "wof:name":"Passion Parties By Louann",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

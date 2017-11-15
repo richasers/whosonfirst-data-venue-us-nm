@@ -2,9 +2,14 @@
   "id": 874117535,
   "type": "Feature",
   "properties": {
+    "addr:full":"3426 Blake Rd SW Albuquerque NM 87105",
+    "addr:housenumber":"3426",
+    "addr:postcode":"87105",
+    "addr:street":"Blake Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.712372,35.036445,-106.712372,35.036445",
     "geom:latitude":35.036445,
     "geom:longitude":-106.712372,
@@ -27,12 +32,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
-        85633793,
-        85892591,
-        102081199,
         102191575,
+        85633793,
         85977397,
-        420527813
+        102081199,
+        420527813,
+        85892591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,13 +48,6 @@
     "wof:geomhash":"b8402556b2452f9eb094c90748ddbeae",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102081199,
-            "neighbourhood_id":85892591,
-            "region_id":85688493,
-            "venue_id":874117535
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
@@ -57,12 +55,19 @@
             "neighbourhood_id":420527813,
             "region_id":85688493,
             "venue_id":874117535
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081199,
+            "neighbourhood_id":85892591,
+            "region_id":85688493,
+            "venue_id":874117535
         }
     ],
     "wof:id":874117535,
-    "wof:lastmodified":1466700639,
+    "wof:lastmodified":1491927338,
     "wof:name":"South Valley Academy",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

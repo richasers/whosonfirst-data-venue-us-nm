@@ -2,9 +2,14 @@
   "id": 353948519,
   "type": "Feature",
   "properties": {
+    "addr:full":"8401 Osuna Rd NE Ste C Albuquerque NM 87111",
+    "addr:housenumber":"8401",
+    "addr:postcode":"87111",
+    "addr:street":"Osuna Rd Ne Ste C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.550941,35.137489,-106.550941,35.137489",
     "geom:latitude":35.137489,
     "geom:longitude":-106.550941,
@@ -39,6 +44,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -52,7 +58,7 @@
     "wof:geomhash":"9853f4a6b56b8e621fae5fc3e6def88c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":353948519,
-    "wof:lastmodified":1466698526,
+    "wof:lastmodified":1491894176,
     "wof:name":"Robert C Supple Dmd",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

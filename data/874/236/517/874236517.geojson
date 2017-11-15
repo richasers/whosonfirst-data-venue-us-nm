@@ -2,14 +2,20 @@
   "id": 874236517,
   "type": "Feature",
   "properties": {
+    "addr:full":"1773 E University Ave Las Cruces NM 88001",
+    "addr:housenumber":"1773",
+    "addr:postcode":"88001",
+    "addr:street":"E University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.744464,32.286176,-106.744464,32.286176",
     "geom:latitude":32.286176,
     "geom:longitude":-106.744464,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1773 E University Ave",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102081557,
         85823411
     ],
+    "wof:brand_id":420573901,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qpsU7BqhX0lVjyWNBYcaT_32.286229_-106.743857@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464313272,
-    "wof:geomhash":"5a499f5f123b7adc187fe30abd5d7bde",
+    "wof:geomhash":"da437dfbc0b4a67aa5b124c93d94a00a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":874236517,
-    "wof:lastmodified":1466701322,
+    "wof:lastmodified":1510603345,
     "wof:name":"Dairy Queen",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 202772725,
   "type": "Feature",
   "properties": {
+    "addr:full":"9420 Tasco Dr NE Albuquerque NM 87111",
+    "addr:housenumber":"",
+    "addr:postcode":"9420;87111",
+    "addr:street":"Tasco Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.537632,35.137857,-106.537632,35.137857",
     "geom:latitude":35.137857,
     "geom:longitude":-106.537632,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"44a77611f3dcf1bc8b0571ab61a91890",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":202772725,
-    "wof:lastmodified":1466699972,
+    "wof:lastmodified":1491894184,
     "wof:name":"Classic Saint Nick",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

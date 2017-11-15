@@ -2,9 +2,14 @@
   "id": 185702101,
   "type": "Feature",
   "properties": {
+    "addr:full":"10110 Acoma Rd SE Albuquerque NM 87123",
+    "addr:housenumber":"10110",
+    "addr:postcode":"87123",
+    "addr:street":"Acoma Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.53258,35.069858,-106.53258,35.069858",
     "geom:latitude":35.069858,
     "geom:longitude":-106.53258,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"73ded4bdd43228c6e4619bbb23a792e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":185702101
         }
     ],
     "wof:id":185702101,
-    "wof:lastmodified":1466698651,
+    "wof:lastmodified":1491930427,
     "wof:name":"Graphic Illusions",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

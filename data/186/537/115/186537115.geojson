@@ -2,9 +2,14 @@
   "id": 186537115,
   "type": "Feature",
   "properties": {
+    "addr:full":"9211 Cascajo Dr NE Albuquerque NM 87111",
+    "addr:housenumber":"9211",
+    "addr:postcode":"87111",
+    "addr:street":"Cascajo Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.541161,35.137998,-106.541161,35.137998",
     "geom:latitude":35.137998,
     "geom:longitude":-106.541161,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"729ff0a40a1507aeedaa6d625a3098ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":186537115,
-    "wof:lastmodified":1466700347,
+    "wof:lastmodified":1491894176,
     "wof:name":"Rockin Company",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169849835,
   "type": "Feature",
   "properties": {
+    "addr:full":"5314 Central Ave SW Albuquerque NM 87105",
+    "addr:housenumber":"5314",
+    "addr:postcode":"87105",
+    "addr:street":"Central Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.697796,35.08276,-106.697796,35.08276",
     "geom:latitude":35.08276,
     "geom:longitude":-106.697796,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -44,7 +50,7 @@
     "wof:geomhash":"60d26f76fd44457ec068b22f18b73cb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":169849835,
-    "wof:lastmodified":1466698891,
+    "wof:lastmodified":1491919011,
     "wof:name":"Samon's Electric & Plbg Supply",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",

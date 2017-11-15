@@ -2,9 +2,14 @@
   "id": 185971477,
   "type": "Feature",
   "properties": {
+    "addr:full":"3025 Central Ave SE Albuquerque NM 87106",
+    "addr:housenumber":"3025",
+    "addr:postcode":"87106",
+    "addr:street":"Central Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.611052,35.080742,-106.611052,35.080742",
     "geom:latitude":35.080742,
     "geom:longitude":-106.611052,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"87845f2494c98fd6ca1b938ef723b64e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":185971477,
-    "wof:lastmodified":1466699566,
+    "wof:lastmodified":1491912844,
     "wof:name":"Abode",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",

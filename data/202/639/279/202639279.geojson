@@ -2,9 +2,14 @@
   "id": 202639279,
   "type": "Feature",
   "properties": {
+    "addr:full":"5341 Wyoming Blvd NE Albuquerque NM 87109",
+    "addr:housenumber":"5341",
+    "addr:postcode":"87109",
+    "addr:street":"Wyoming;Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.551147,35.140725,-106.551147,35.140725",
     "geom:latitude":35.140725,
     "geom:longitude":-106.551147,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"7e33352f34ab93c3da6f107514ee4061",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":202639279,
-    "wof:lastmodified":1466698980,
+    "wof:lastmodified":1491894225,
     "wof:name":"Gorder Agency LLC",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

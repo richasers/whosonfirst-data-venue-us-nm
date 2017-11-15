@@ -2,9 +2,14 @@
   "id": 874097227,
   "type": "Feature",
   "properties": {
+    "addr:full":"4201 Blake Rd SW Albuquerque NM 87121",
+    "addr:housenumber":"4201",
+    "addr:postcode":"87121",
+    "addr:street":"Blake Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.720159,35.037717,-106.720159,35.037717",
     "geom:latitude":35.037717,
     "geom:longitude":-106.720159,
@@ -26,12 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
-        85633793,
-        85892591,
-        102081199,
         102191575,
+        85633793,
         85976715,
-        85892601
+        102081199,
+        85892601,
+        85892591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,13 +47,6 @@
     "wof:geomhash":"75c51cda0be7fb5e8069f647976ed7cd",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102081199,
-            "neighbourhood_id":85892591,
-            "region_id":85688493,
-            "venue_id":874097227
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
@@ -56,12 +54,19 @@
             "neighbourhood_id":85892601,
             "region_id":85688493,
             "venue_id":874097227
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081199,
+            "neighbourhood_id":85892591,
+            "region_id":85688493,
+            "venue_id":874097227
         }
     ],
     "wof:id":874097227,
-    "wof:lastmodified":1466700631,
+    "wof:lastmodified":1491927338,
     "wof:name":"Trlr Spot 24",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 203146747,
   "type": "Feature",
   "properties": {
+    "addr:full":"170 Juan Tabo Blvd NE Albuquerque NM 87123",
+    "addr:housenumber":"170",
+    "addr:postcode":"87123",
+    "addr:street":"Juan Tabo Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.515101,35.070385,-106.515101,35.070385",
     "geom:latitude":35.070385,
     "geom:longitude":-106.515101,
@@ -34,8 +39,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +50,15 @@
     "wof:geomhash":"4059d9564f790166e31401d97e7c3e0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":203146747
         }
     ],
     "wof:id":203146747,
-    "wof:lastmodified":1466699125,
+    "wof:lastmodified":1491930422,
     "wof:name":"Silver Nugget",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

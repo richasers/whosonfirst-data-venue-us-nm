@@ -2,9 +2,14 @@
   "id": 169721239,
   "type": "Feature",
   "properties": {
+    "addr:full":"7610 Ned St NE Albuquerque NM 87109",
+    "addr:housenumber":"7610",
+    "addr:postcode":"87109",
+    "addr:street":"Ned St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.57463,35.168454,-106.57463,35.168454",
     "geom:latitude":35.168454,
     "geom:longitude":-106.57463,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"450ad606618ed526357e44040d88eb62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":169721239,
-    "wof:lastmodified":1466697803,
+    "wof:lastmodified":1491930708,
     "wof:name":"A & T Unlimited Music",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

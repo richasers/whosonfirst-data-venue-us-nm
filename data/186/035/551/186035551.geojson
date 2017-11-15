@@ -2,9 +2,14 @@
   "id": 186035551,
   "type": "Feature",
   "properties": {
+    "addr:full":"3710 Campus Blvd NE Albuquerque NM 87106",
+    "addr:housenumber":"3710",
+    "addr:postcode":"87106",
+    "addr:street":"Campus Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.604522,35.08032,-106.604522,35.08032",
     "geom:latitude":35.08032,
     "geom:longitude":-106.604522,
@@ -31,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
-        102081199
+        102081199,
+        85871899,
+        85871879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,28 @@
     "wof:geomhash":"d4293861a2fa4c06f19f7a51f60c5383",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85871899,
+            "region_id":85688493,
+            "venue_id":186035551
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081199,
+            "locality_id":85976715,
+            "neighbourhood_id":85871879,
             "region_id":85688493,
             "venue_id":186035551
         }
     ],
     "wof:id":186035551,
-    "wof:lastmodified":1466698087,
+    "wof:lastmodified":1491912856,
     "wof:name":"Birthing From Within",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

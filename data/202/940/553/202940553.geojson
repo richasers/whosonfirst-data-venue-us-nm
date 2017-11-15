@@ -2,9 +2,14 @@
   "id": 202940553,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Sun Ave NE Albuquerque NM 87109",
+    "addr:housenumber":"100",
+    "addr:postcode":"87109",
+    "addr:street":"Sun Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.588726,35.169359,-106.588726,35.169359",
     "geom:latitude":35.169359,
     "geom:longitude":-106.588726,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -46,7 +52,7 @@
     "wof:geomhash":"76834fcbf8b79cacc0814193387eec99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":202940553,
-    "wof:lastmodified":1466700520,
+    "wof:lastmodified":1491930625,
     "wof:name":"Ameriprise Financial",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

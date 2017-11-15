@@ -2,9 +2,14 @@
   "id": 185667073,
   "type": "Feature",
   "properties": {
+    "addr:full":"7501 Tiburon St NE Albuquerque NM 87109",
+    "addr:housenumber":"7501",
+    "addr:postcode":"87109",
+    "addr:street":"Tiburon St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.594356,35.165807,-106.594356,35.165807",
     "geom:latitude":35.165807,
     "geom:longitude":-106.594356,
@@ -26,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
-        102081199
+        102081199,
+        85871895,
+        85892599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,28 @@
     "wof:geomhash":"a9ca62d1d99632727e5ccab651df6b98",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85871895,
+            "region_id":85688493,
+            "venue_id":185667073
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081199,
+            "locality_id":85976715,
+            "neighbourhood_id":85892599,
             "region_id":85688493,
             "venue_id":185667073
         }
     ],
     "wof:id":185667073,
-    "wof:lastmodified":1466698312,
+    "wof:lastmodified":1491930710,
     "wof:name":"Tiburon Investment LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

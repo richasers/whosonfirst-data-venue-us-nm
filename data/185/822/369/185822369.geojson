@@ -2,9 +2,14 @@
   "id": 185822369,
   "type": "Feature",
   "properties": {
+    "addr:full":"4301 Bogan Ave NE Albuquerque NM 87109",
+    "addr:housenumber":"4301",
+    "addr:postcode":"87109",
+    "addr:street":"Bogan Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.597061,35.135339,-106.597061,35.135339",
     "geom:latitude":35.135339,
     "geom:longitude":-106.597061,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ab0a76392ad3d167076494f869928796",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":185822369,
-    "wof:lastmodified":1466697708,
+    "wof:lastmodified":1491930742,
     "wof:name":"Galvez Motors",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

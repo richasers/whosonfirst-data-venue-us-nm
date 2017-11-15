@@ -2,9 +2,14 @@
   "id": 185970953,
   "type": "Feature",
   "properties": {
+    "addr:full":"5901 Wyoming Blvd NE Albuquerque NM 87109",
+    "addr:housenumber":"5901",
+    "addr:postcode":"87109",
+    "addr:street":"Wyoming;Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.554578,35.146839,-106.554578,35.146839",
     "geom:latitude":35.146839,
     "geom:longitude":-106.554578,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"415465d42a961b5ad0e0f588968161ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":185970953,
-    "wof:lastmodified":1466699570,
+    "wof:lastmodified":1491894202,
     "wof:name":"Noble",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353938031,
   "type": "Feature",
   "properties": {
+    "addr:full":"5808 Mcleod Rd NE Albuquerque NM 87109",
+    "addr:housenumber":"5808",
+    "addr:postcode":"87109",
+    "addr:street":"Mcleod Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.583592,35.138606,-106.583592,35.138606",
     "geom:latitude":35.138606,
     "geom:longitude":-106.583592,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -45,7 +51,7 @@
     "wof:geomhash":"2a61507b3f2d1cb73e15b743ff9f8553",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":353938031,
-    "wof:lastmodified":1466698221,
+    "wof:lastmodified":1491930671,
     "wof:name":"Sullivan Robert Md",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

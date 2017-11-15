@@ -2,14 +2,20 @@
   "id": 874081067,
   "type": "Feature",
   "properties": {
+    "addr:full":"3411 Candelaria Rd NE Albuquerque NM 87107",
+    "addr:housenumber":"3411",
+    "addr:postcode":"87107",
+    "addr:street":"Candelaria Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.605364,35.116604,-106.605364,35.116604",
     "geom:latitude":35.116604,
     "geom:longitude":-106.605364,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3411 Candelaria Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85871893,
         85871895
     ],
+    "wof:brand_id":1125155631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kFEVh6iDynkdylF1onoZO_35.116604_-106.605364@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464311564,
-    "wof:geomhash":"15765f6a80c88131846b4bfd68cb41cd",
+    "wof:geomhash":"849bcc4e95f0c1689dc24075735efbeb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,9 +69,9 @@
         }
     ],
     "wof:id":874081067,
-    "wof:lastmodified":1466700324,
+    "wof:lastmodified":1510699709,
     "wof:name":"Leukemia & Lymphoma Society",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

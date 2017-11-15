@@ -2,9 +2,14 @@
   "id": 203123145,
   "type": "Feature",
   "properties": {
+    "addr:full":"4700 San Mateo Blvd NE Albuquerque NM 87109",
+    "addr:housenumber":"4700",
+    "addr:postcode":"87109",
+    "addr:street":"San Mateo Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.586314,35.134659,-106.586314,35.134659",
     "geom:latitude":35.134659,
     "geom:longitude":-106.586314,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"581d6952dc13819b54d2069a93f22ccc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":203123145,
-    "wof:lastmodified":1466698949,
+    "wof:lastmodified":1491930660,
     "wof:name":"Southwest Cash and Carry",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186509221,
   "type": "Feature",
   "properties": {
+    "addr:full":"6101 Chappell Rd NE Albuquerque NM 87113",
+    "addr:housenumber":"6101",
+    "addr:postcode":"87113",
+    "addr:street":"Chappell Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.60737,35.150579,-106.60737,35.150579",
     "geom:latitude":35.150579,
     "geom:longitude":-106.60737,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"a68ef72a714d3cdbd3dcaee985b65ef4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":186509221,
-    "wof:lastmodified":1466700249,
+    "wof:lastmodified":1491930762,
     "wof:name":"Lafarge North America Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

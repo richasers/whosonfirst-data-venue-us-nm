@@ -2,9 +2,14 @@
   "id": 202521937,
   "type": "Feature",
   "properties": {
+    "addr:full":"5640 Venice Ave NE Albuquerque NM 87113",
+    "addr:housenumber":"5640",
+    "addr:postcode":"87113",
+    "addr:street":"Venice Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.583008,35.195997,-106.583008,35.195997",
     "geom:latitude":35.195997,
     "geom:longitude":-106.583008,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -45,7 +51,7 @@
     "wof:geomhash":"61d1d130782c505217ddcc3503afbf47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":202521937,
-    "wof:lastmodified":1466699269,
+    "wof:lastmodified":1491930670,
     "wof:name":"Modern Security Systems Corp",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

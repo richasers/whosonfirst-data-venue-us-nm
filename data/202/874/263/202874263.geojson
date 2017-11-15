@@ -2,9 +2,14 @@
   "id": 202874263,
   "type": "Feature",
   "properties": {
+    "addr:full":"3010 Monte Vista Blvd NE Albuquerque NM 87106",
+    "addr:housenumber":"3010",
+    "addr:postcode":"87106",
+    "addr:street":"Monte Vista Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.611086,35.081747,-106.611086,35.081747",
     "geom:latitude":35.081747,
     "geom:longitude":-106.611086,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"510b32c18671d4d49872be278542b2ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":202874263,
-    "wof:lastmodified":1466700262,
+    "wof:lastmodified":1491912848,
     "wof:name":"District 2 Hearing Office",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",

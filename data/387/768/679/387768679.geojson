@@ -2,9 +2,14 @@
   "id": 387768679,
   "type": "Feature",
   "properties": {
+    "addr:full":"1730 W Paisano Dr El Paso TX 79922",
+    "addr:housenumber":"1730",
+    "addr:postcode":"79922",
+    "addr:street":"W Paisano Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.512004,31.769144,-106.512004,31.769144",
     "geom:latitude":31.769144,
     "geom:longitude":-106.512004,
@@ -25,10 +30,11 @@
     "sg:province":"TX",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688493,
+        85688753,
+        102191575,
         85633793,
-        85976629,
-        102081557,
+        101724863,
+        102085989,
         85828903
     ],
     "wof:breaches":[],
@@ -39,17 +45,17 @@
     "wof:geomhash":"46266d29974a7fd270067ff4f32715a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081557,
-            "locality_id":85976629,
+            "county_id":102085989,
+            "locality_id":101724863,
             "neighbourhood_id":85828903,
-            "region_id":85688493,
+            "region_id":85688753,
             "venue_id":387768679
         }
     ],
     "wof:id":387768679,
-    "wof:lastmodified":1466697635,
+    "wof:lastmodified":1491895445,
     "wof:name":"C J Johns",
     "wof:parent_id":85828903,
     "wof:placetype":"venue",

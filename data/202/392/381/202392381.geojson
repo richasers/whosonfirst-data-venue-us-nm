@@ -2,9 +2,14 @@
   "id": 202392381,
   "type": "Feature",
   "properties": {
+    "addr:full":"5100 Mesa del Oso Rd NE Albuquerque NM 87111",
+    "addr:housenumber":"5100",
+    "addr:postcode":"87111",
+    "addr:street":"Mesa Del Oso Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.527134,35.137564,-106.527134,35.137564",
     "geom:latitude":35.137564,
     "geom:longitude":-106.527134,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"8dab5b8ebde1418d782c67dcd13b7350",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":202392381,
-    "wof:lastmodified":1466697844,
+    "wof:lastmodified":1491894167,
     "wof:name":"Mesa Del Oso",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 202487015,
   "type": "Feature",
   "properties": {
+    "addr:full":"11218 Spyglass Hill Ln NE Albuquerque NM 87111",
+    "addr:housenumber":"11218",
+    "addr:postcode":"87111",
+    "addr:street":"Spyglass Hill Ln Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.514422,35.155644,-106.514422,35.155644",
     "geom:latitude":35.155644,
     "geom:longitude":-106.514422,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"3111b35569f78c7b890fcafa10dad19e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":202487015,
-    "wof:lastmodified":1466699454,
+    "wof:lastmodified":1491894232,
     "wof:name":"Neal & Assoc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

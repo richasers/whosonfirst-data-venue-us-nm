@@ -2,9 +2,14 @@
   "id": 186376895,
   "type": "Feature",
   "properties": {
+    "addr:full":"443 Texas St SE Albuquerque NM 87108",
+    "addr:housenumber":"443",
+    "addr:postcode":"87108",
+    "addr:street":"Texas St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.556194,35.069794,-106.556194,35.069794",
     "geom:latitude":35.069794,
     "geom:longitude":-106.556194,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"a32e3e0d70cb6d724973ccf5129501b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":186376895
         }
     ],
     "wof:id":186376895,
-    "wof:lastmodified":1466699650,
+    "wof:lastmodified":1491930388,
     "wof:name":"Ron Markey Drywall",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353939149,
   "type": "Feature",
   "properties": {
+    "addr:full":"5651 Jefferson St NE Albuquerque NM 87109",
+    "addr:housenumber":"5651",
+    "addr:postcode":"87109",
+    "addr:street":"Jefferson St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.596746,35.145202,-106.596746,35.145202",
     "geom:latitude":35.145202,
     "geom:longitude":-106.596746,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -45,7 +51,7 @@
     "wof:geomhash":"a5a6ecfeb02755241e3a677d52e834b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":353939149,
-    "wof:lastmodified":1466698252,
+    "wof:lastmodified":1491930787,
     "wof:name":"Pathways Academy",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 202851547,
   "type": "Feature",
   "properties": {
+    "addr:full":"7500 Pan American Fwy Albuquerque NM 87109",
+    "addr:housenumber":"7500",
+    "addr:postcode":"87109",
+    "addr:street":"Pan American Fwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.585274,35.167058,-106.585274,35.167058",
     "geom:latitude":35.167058,
     "geom:longitude":-106.585274,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -44,7 +50,7 @@
     "wof:geomhash":"a90f12709539890edaf869e56f5ba017",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":202851547,
-    "wof:lastmodified":1466700293,
+    "wof:lastmodified":1491930695,
     "wof:name":"Highway Dept",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

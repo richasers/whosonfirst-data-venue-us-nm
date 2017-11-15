@@ -2,9 +2,14 @@
   "id": 186621091,
   "type": "Feature",
   "properties": {
+    "addr:full":"339 Pennsylvania St NE Albuquerque NM 87108",
+    "addr:housenumber":"339",
+    "addr:postcode":"87108",
+    "addr:street":"Pennsylvania St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.559262,35.077542,-106.559262,35.077542",
     "geom:latitude":35.077542,
     "geom:longitude":-106.559262,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"19373d4b3d976ae6da821610ea0a06dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":186621091
         }
     ],
     "wof:id":186621091,
-    "wof:lastmodified":1466700708,
+    "wof:lastmodified":1491930393,
     "wof:name":"Grace Tmple Missionry Bltst Ch",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

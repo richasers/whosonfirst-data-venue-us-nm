@@ -2,14 +2,20 @@
   "id": 874232327,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 W Lincoln Ave Gallup NM 87301",
+    "addr:housenumber":"1111",
+    "addr:postcode":"87301",
+    "addr:street":"W Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.757164,35.532241,-108.757164,35.532241",
     "geom:latitude":35.532241,
     "geom:longitude":-108.757164,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1111 W Lincoln Ave",
     "sg:city":"Gallup",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081579,
         85802855
     ],
+    "wof:brand_id":1125156043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zmSw3Hra8ZISGluR376jD_35.532241_-108.757164@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464313191,
-    "wof:geomhash":"815bd63b0aec106574e1c5d9927ce5dc",
+    "wof:geomhash":"2ea469ee09ad213fa11807dca31f25a2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":874232327,
-    "wof:lastmodified":1466701429,
+    "wof:lastmodified":1510695019,
     "wof:name":"Blake's Lotaburger",
     "wof:parent_id":85802855,
     "wof:placetype":"venue",

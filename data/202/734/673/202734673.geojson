@@ -2,9 +2,14 @@
   "id": 202734673,
   "type": "Feature",
   "properties": {
+    "addr:full":"9205 Ironshore NE Albuquerque NM 87111",
+    "addr:housenumber":"9205",
+    "addr:postcode":"87111",
+    "addr:street":"Ironshore Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.539546,35.151694,-106.539546,35.151694",
     "geom:latitude":35.151694,
     "geom:longitude":-106.539546,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"ff7a82207ff27d2821c570859949074a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":202734673,
-    "wof:lastmodified":1466699832,
+    "wof:lastmodified":1491894211,
     "wof:name":"BDF Management Inc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

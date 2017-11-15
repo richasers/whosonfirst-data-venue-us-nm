@@ -2,9 +2,14 @@
   "id": 185962663,
   "type": "Feature",
   "properties": {
+    "addr:full":"3812 Monroe St NE Albuquerque NM 87110",
+    "addr:housenumber":"3812",
+    "addr:postcode":"87110",
+    "addr:street":"Monroe St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.590643,35.125923,-106.590643,35.125923",
     "geom:latitude":35.125923,
     "geom:longitude":-106.590643,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -40,7 +46,7 @@
     "wof:geomhash":"814fab1633ec93bd0c49bc9569be3ffd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
             "venue_id":185962663
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -59,9 +65,9 @@
         }
     ],
     "wof:id":185962663,
-    "wof:lastmodified":1466699405,
+    "wof:lastmodified":1491930688,
     "wof:name":"Southwestern Automated Payment",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

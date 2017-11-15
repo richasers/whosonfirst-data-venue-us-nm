@@ -2,9 +2,14 @@
   "id": 186586307,
   "type": "Feature",
   "properties": {
+    "addr:full":"328 Wisconsin St NE Albuquerque NM 87108",
+    "addr:housenumber":"328",
+    "addr:postcode":"87108",
+    "addr:street":"Wisconsin St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.551455,35.077595,-106.551455,35.077595",
     "geom:latitude":35.077595,
     "geom:longitude":-106.551455,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"0407a6a1c27c0f1b52281bfcc09a4e40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":186586307
         }
     ],
     "wof:id":186586307,
-    "wof:lastmodified":1466700588,
+    "wof:lastmodified":1491930400,
     "wof:name":"Asian Motors",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

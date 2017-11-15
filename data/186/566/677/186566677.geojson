@@ -2,9 +2,14 @@
   "id": 186566677,
   "type": "Feature",
   "properties": {
+    "addr:full":"4100 Palo Duro Ave NE Albuquerque NM 87110",
+    "addr:housenumber":"4100",
+    "addr:postcode":"87110",
+    "addr:street":"Palo Duro Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.596185,35.124063,-106.596185,35.124063",
     "geom:latitude":35.124063,
     "geom:longitude":-106.596185,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -46,7 +52,7 @@
     "wof:geomhash":"eadf9145631eaee79bc5e270b801865d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -55,7 +61,7 @@
             "venue_id":186566677
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -65,9 +71,9 @@
         }
     ],
     "wof:id":186566677,
-    "wof:lastmodified":1466700531,
+    "wof:lastmodified":1491930685,
     "wof:name":"Casias Louise Typeset & Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

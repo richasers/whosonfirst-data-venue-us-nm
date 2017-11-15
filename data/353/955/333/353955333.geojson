@@ -2,9 +2,14 @@
   "id": 353955333,
   "type": "Feature",
   "properties": {
+    "addr:full":"6115 Paseo del Norte NE Albuquerque NM 87113",
+    "addr:housenumber":"6115",
+    "addr:postcode":"87113",
+    "addr:street":"Paseo Del Norte Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.579097,35.174228,-106.579097,35.174228",
     "geom:latitude":35.174228,
     "geom:longitude":-106.579097,
@@ -38,6 +43,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -52,7 +58,7 @@
     "wof:geomhash":"09b9d4d49918fe93f1ebce0bc9004126",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":353955333,
-    "wof:lastmodified":1466698706,
+    "wof:lastmodified":1491930707,
     "wof:name":"Discount Tire",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186585449,
   "type": "Feature",
   "properties": {
+    "addr:full":"8800 Central Ave SE Albuquerque NM 87123",
+    "addr:housenumber":"8800",
+    "addr:postcode":"87123",
+    "addr:street":"Central Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.548443,35.073684,-106.548443,35.073684",
     "geom:latitude":35.073684,
     "geom:longitude":-106.548443,
@@ -33,8 +38,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +49,15 @@
     "wof:geomhash":"d5f3b69171096e9abeffb74910ff9512",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":186585449
         }
     ],
     "wof:id":186585449,
-    "wof:lastmodified":1466700584,
+    "wof:lastmodified":1491930449,
     "wof:name":"Hillson's Western Wear",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

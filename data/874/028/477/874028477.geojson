@@ -2,14 +2,20 @@
   "id": 874028477,
   "type": "Feature",
   "properties": {
+    "addr:full":"518 W Cordova Rd Santa Fe NM 87505",
+    "addr:housenumber":"518",
+    "addr:postcode":"87505",
+    "addr:street":"W Cordova Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.94805,35.672045,-105.94805,35.672045",
     "geom:latitude":35.672045,
     "geom:longitude":-105.94805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"518 W Cordova Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102081571,
         420527941
     ],
+    "wof:brand_id":420575665,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BuwiCSld9oCLZAOtCe2l8_35.672045_-105.948050@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464311029,
-    "wof:geomhash":"5a00abb8bb9820e0663f03553fe2b0bd",
+    "wof:geomhash":"f97ec18de5a6114d52dace7976b25990",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":874028477,
-    "wof:lastmodified":1466699135,
+    "wof:lastmodified":1510602704,
     "wof:name":"Wild Birds Unlimited",
     "wof:parent_id":420527941,
     "wof:placetype":"venue",

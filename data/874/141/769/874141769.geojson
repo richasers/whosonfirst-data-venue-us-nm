@@ -2,14 +2,20 @@
   "id": 874141769,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 N Main St Las Cruces NM 88001",
+    "addr:housenumber":"1000",
+    "addr:postcode":"88001",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.78112,32.31845,-106.78112,32.31845",
     "geom:latitude":32.31845,
     "geom:longitude":-106.78112,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 N Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081557,
         85823411
     ],
+    "wof:brand_id":1125151161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ugdJJDncdqHXbrzbAZ3GA_32.318450_-106.781120@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464312250,
-    "wof:geomhash":"60ce1009d8f7b8e9031685651b8d4c8d",
+    "wof:geomhash":"9dd15b1552f86456bb9e653aa86ba0ca",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874141769,
-    "wof:lastmodified":1466700929,
+    "wof:lastmodified":1510698757,
     "wof:name":"Allied Cash Advance",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",

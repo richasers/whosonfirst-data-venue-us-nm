@@ -2,14 +2,20 @@
   "id": 873979415,
   "type": "Feature",
   "properties": {
+    "addr:full":"11200 Montgomery Blvd NE Albuquerque NM 87111",
+    "addr:housenumber":"11200",
+    "addr:postcode":"87111",
+    "addr:street":"Montgomery Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.512543,35.130677,-106.512543,35.130677",
     "geom:latitude":35.130677,
     "geom:longitude":-106.512543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11200 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081199,
         85871887
     ],
+    "wof:brand_id":420575865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_634BPN8NdGB8jGq0PwqoqQ_35.130677_-106.512543@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464310572,
-    "wof:geomhash":"4d2eb27e3b46e67a555322cd8edebf07",
+    "wof:geomhash":"75fa035e43086a8429e69d4644d52ac6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873979415,
-    "wof:lastmodified":1466699421,
+    "wof:lastmodified":1510602525,
     "wof:name":"US Air Force Recruiting",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 202976887,
   "type": "Feature",
   "properties": {
+    "addr:full":"5632 Moon St NE Albuquerque NM 87111",
+    "addr:housenumber":"5632",
+    "addr:postcode":"87111",
+    "addr:street":"Moon St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.54382,35.142671,-106.54382,35.142671",
     "geom:latitude":35.142671,
     "geom:longitude":-106.54382,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"9a13365d0e429539731dca846369ee12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":202976887,
-    "wof:lastmodified":1466700777,
+    "wof:lastmodified":1491894211,
     "wof:name":"Jackson & Assoc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

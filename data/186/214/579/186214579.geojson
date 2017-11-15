@@ -2,9 +2,14 @@
   "id": 186214579,
   "type": "Feature",
   "properties": {
+    "addr:full":"9613 Trumbull Ave SE Albuquerque NM 87123",
+    "addr:housenumber":"9613",
+    "addr:postcode":"87123",
+    "addr:street":"Trumbull Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.539562,35.068998,-106.539562,35.068998",
     "geom:latitude":35.068998,
     "geom:longitude":-106.539562,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"42e6be1db4e04c0a0235b88ce4557d09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":186214579
         }
     ],
     "wof:id":186214579,
-    "wof:lastmodified":1466698207,
+    "wof:lastmodified":1491930424,
     "wof:name":"A Quality Machining",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

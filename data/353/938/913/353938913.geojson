@@ -2,9 +2,14 @@
   "id": 353938913,
   "type": "Feature",
   "properties": {
+    "addr:full":"4820 Hardware Dr NE Albuquerque NM 87109",
+    "addr:housenumber":"4820",
+    "addr:postcode":"87109",
+    "addr:street":"Hardware Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.589957,35.136152,-106.589957,35.136152",
     "geom:latitude":35.136152,
     "geom:longitude":-106.589957,
@@ -53,6 +58,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -66,7 +72,7 @@
     "wof:geomhash":"3257a385d129e24e3ff8a4855e23e3dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":353938913,
-    "wof:lastmodified":1466698245,
+    "wof:lastmodified":1491930783,
     "wof:name":"Ferguson Bath, Kitchen & Lighting Gallery",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

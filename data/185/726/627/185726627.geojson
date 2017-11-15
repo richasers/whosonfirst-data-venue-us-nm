@@ -2,9 +2,14 @@
   "id": 185726627,
   "type": "Feature",
   "properties": {
+    "addr:full":"5200 Eubank Blvd NE Albuquerque NM 87111",
+    "addr:housenumber":"5200",
+    "addr:postcode":"87111",
+    "addr:street":"Eubank Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.533363,35.138894,-106.533363,35.138894",
     "geom:latitude":35.138894,
     "geom:longitude":-106.533363,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -40,7 +46,7 @@
     "wof:geomhash":"1761bf3dabc239ca24f9c89421f06544",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":185726627,
-    "wof:lastmodified":1466698932,
+    "wof:lastmodified":1491894147,
     "wof:name":"Barley Room",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

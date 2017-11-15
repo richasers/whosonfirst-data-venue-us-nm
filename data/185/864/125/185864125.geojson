@@ -2,9 +2,14 @@
   "id": 185864125,
   "type": "Feature",
   "properties": {
+    "addr:full":"9747 Village Green Dr NE Albuquerque NM 87111",
+    "addr:housenumber":"9747",
+    "addr:postcode":"87111",
+    "addr:street":"Village Green Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.531937,35.155708,-106.531937,35.155708",
     "geom:latitude":35.155708,
     "geom:longitude":-106.531937,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"6d30546c72779849bc71bcdbdf170020",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":185864125,
-    "wof:lastmodified":1466698155,
+    "wof:lastmodified":1491894219,
     "wof:name":"Professional Recovery Svc Inc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

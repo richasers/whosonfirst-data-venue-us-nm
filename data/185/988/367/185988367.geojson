@@ -2,9 +2,14 @@
   "id": 185988367,
   "type": "Feature",
   "properties": {
+    "addr:full":"4108 Arlolane Ave SW Albuquerque NM 87121",
+    "addr:housenumber":"4108",
+    "addr:postcode":"87121",
+    "addr:street":"Arlolane Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.71995,35.026021,-106.71995,35.026021",
     "geom:latitude":35.026021,
     "geom:longitude":-106.71995,
@@ -29,8 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
+        85977397,
         102081199,
+        420527813,
         85892591
     ],
     "wof:breaches":[],
@@ -41,19 +49,26 @@
     "wof:geomhash":"2e8789c0b1876704eb9cf05f4f20bf5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
+            "locality_id":85977397,
+            "neighbourhood_id":420527813,
+            "region_id":85688493,
+            "venue_id":185988367
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081199,
             "neighbourhood_id":85892591,
             "region_id":85688493,
             "venue_id":185988367
         }
     ],
     "wof:id":185988367,
-    "wof:lastmodified":1466699702,
+    "wof:lastmodified":1491927337,
     "wof:name":"Lightning Roofing",
-    "wof:parent_id":85892591,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 202777255,
   "type": "Feature",
   "properties": {
+    "addr:full":"6501 Pino Ave NE Albuquerque NM 87109",
+    "addr:housenumber":"6501",
+    "addr:postcode":"87109",
+    "addr:street":"Pino Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.574705,35.168527,-106.574705,35.168527",
     "geom:latitude":35.168527,
     "geom:longitude":-106.574705,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"b7b8b9bc56245efc617a3c7dceb5cd86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":202777255,
-    "wof:lastmodified":1466699757,
+    "wof:lastmodified":1491930784,
     "wof:name":"A 1 State Wide Delivery",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

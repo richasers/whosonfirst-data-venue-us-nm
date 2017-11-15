@@ -2,9 +2,14 @@
   "id": 186441631,
   "type": "Feature",
   "properties": {
+    "addr:full":"5801 Osuna Rd NE Albuquerque NM 87109",
+    "addr:housenumber":"5801",
+    "addr:postcode":"87109",
+    "addr:street":"Osuna Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.580271,35.144335,-106.580271,35.144335",
     "geom:latitude":35.144335,
     "geom:longitude":-106.580271,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"470de977a22e1e13604c6d3118b82396",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":186441631,
-    "wof:lastmodified":1466700006,
+    "wof:lastmodified":1491930623,
     "wof:name":"Adamas",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

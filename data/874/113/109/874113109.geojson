@@ -2,9 +2,14 @@
   "id": 874113109,
   "type": "Feature",
   "properties": {
+    "addr:full":"6700 Jefferson St NE Albuquerque NM 87109",
+    "addr:housenumber":"6700",
+    "addr:postcode":"87109",
+    "addr:street":"Jefferson St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.593254,35.159355,-106.593254,35.159355",
     "geom:latitude":35.159355,
     "geom:longitude":-106.593254,
@@ -33,7 +38,8 @@
         85633793,
         85976715,
         102081199,
-        85871895
+        85871895,
+        85892599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +57,21 @@
             "neighbourhood_id":85871895,
             "region_id":85688493,
             "venue_id":874113109
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081199,
+            "locality_id":85976715,
+            "neighbourhood_id":85892599,
+            "region_id":85688493,
+            "venue_id":874113109
         }
     ],
     "wof:id":874113109,
-    "wof:lastmodified":1466700709,
+    "wof:lastmodified":1491930640,
     "wof:name":"Mays & Fain",
-    "wof:parent_id":85871895,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

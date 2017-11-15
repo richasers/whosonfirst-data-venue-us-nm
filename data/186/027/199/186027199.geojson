@@ -2,9 +2,14 @@
   "id": 186027199,
   "type": "Feature",
   "properties": {
+    "addr:full":"5911 Office Blvd NE Albuquerque NM 87109",
+    "addr:housenumber":"5911",
+    "addr:postcode":"87109",
+    "addr:street":"Office Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.601081,35.147413,-106.601081,35.147413",
     "geom:latitude":35.147413,
     "geom:longitude":-106.601081,
@@ -39,6 +44,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -52,7 +58,7 @@
     "wof:geomhash":"a0f37bb531ad773869f535a501f1af04",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":186027199,
-    "wof:lastmodified":1466697989,
+    "wof:lastmodified":1491930664,
     "wof:name":"Farmers Brothers Coffee",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

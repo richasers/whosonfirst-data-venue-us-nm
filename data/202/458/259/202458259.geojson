@@ -2,9 +2,14 @@
   "id": 202458259,
   "type": "Feature",
   "properties": {
+    "addr:full":"840 Bridge Blvd SW Albuquerque NM 87105",
+    "addr:housenumber":"840",
+    "addr:postcode":"87105",
+    "addr:street":"Bridge Blvd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.665396,35.068756,-106.665396,35.068756",
     "geom:latitude":35.068756,
     "geom:longitude":-106.665396,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -49,7 +55,7 @@
     "wof:geomhash":"f475531131c3654ba89f027eaa9a6120",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":202458259,
-    "wof:lastmodified":1466698611,
+    "wof:lastmodified":1491930595,
     "wof:name":"Durango Electronics",
     "wof:parent_id":85864291,
     "wof:placetype":"venue",

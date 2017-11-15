@@ -2,9 +2,14 @@
   "id": 203144379,
   "type": "Feature",
   "properties": {
+    "addr:full":"11127 Jordan Ave NE Albuquerque NM 87122",
+    "addr:housenumber":"11127",
+    "addr:postcode":"87122",
+    "addr:street":"Jordan Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.528474,35.161816,-106.528474,35.161816",
     "geom:latitude":35.161816,
     "geom:longitude":-106.528474,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"861fe491155db23c96dd118cc3e9ac6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":203144379,
-    "wof:lastmodified":1466699122,
+    "wof:lastmodified":1491894234,
     "wof:name":"Optenso USA",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

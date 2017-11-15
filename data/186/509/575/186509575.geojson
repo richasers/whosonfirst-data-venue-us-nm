@@ -2,9 +2,14 @@
   "id": 186509575,
   "type": "Feature",
   "properties": {
+    "addr:full":"10117 Masters Dr NE Albuquerque NM 87111",
+    "addr:housenumber":"10117",
+    "addr:postcode":"87111",
+    "addr:street":"Masters Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.527582,35.158439,-106.527582,35.158439",
     "geom:latitude":35.158439,
     "geom:longitude":-106.527582,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"acf9bd39447f04b3fd264dc52afb476c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":186509575,
-    "wof:lastmodified":1466700115,
+    "wof:lastmodified":1491894154,
     "wof:name":"Is2e Inc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

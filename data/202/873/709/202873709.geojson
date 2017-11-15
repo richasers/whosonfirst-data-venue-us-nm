@@ -2,9 +2,14 @@
   "id": 202873709,
   "type": "Feature",
   "properties": {
+    "addr:full":"2400 Comanche Rd NE Albuquerque NM 87107",
+    "addr:housenumber":"2400",
+    "addr:postcode":"87107",
+    "addr:street":"Comanche Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.615052,35.123804,-106.615052,35.123804",
     "geom:latitude":35.123804,
     "geom:longitude":-106.615052,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -45,7 +51,7 @@
     "wof:geomhash":"947e905023a3d5d3e8d1ad0c2dbed1b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -54,7 +60,7 @@
             "venue_id":202873709
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -64,9 +70,9 @@
         }
     ],
     "wof:id":202873709,
-    "wof:lastmodified":1466700341,
+    "wof:lastmodified":1491930632,
     "wof:name":"ICSS",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

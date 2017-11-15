@@ -2,9 +2,14 @@
   "id": 202568603,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 Carlos Rey Dr SW Albuquerque NM 87121",
+    "addr:housenumber":"1234",
+    "addr:postcode":"87121",
+    "addr:street":"Carlos Rey Dr Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.703379,35.069981,-106.703379,35.069981",
     "geom:latitude":35.069981,
     "geom:longitude":-106.703379,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -44,7 +50,7 @@
     "wof:geomhash":"5077a430b8b5db47e00fb49cd760cdfc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":202568603,
-    "wof:lastmodified":1466697918,
+    "wof:lastmodified":1491919008,
     "wof:name":"Armijo Trucking",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",

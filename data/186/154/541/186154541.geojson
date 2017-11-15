@@ -2,9 +2,14 @@
   "id": 186154541,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 General Somervell St NE Albuquerque NM 87123",
+    "addr:housenumber":"107",
+    "addr:postcode":"87123",
+    "addr:street":"General Somervell St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.542498,35.074475,-106.542498,35.074475",
     "geom:latitude":35.074475,
     "geom:longitude":-106.542498,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"259186b7aa15f4f997fb382686a94271",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":186154541
         }
     ],
     "wof:id":186154541,
-    "wof:lastmodified":1466699346,
+    "wof:lastmodified":1491930385,
     "wof:name":"Orion Auto Sales",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

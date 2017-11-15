@@ -2,9 +2,14 @@
   "id": 353937229,
   "type": "Feature",
   "properties": {
+    "addr:full":"4700 Jefferson St NE Ste 700 Albuquerque NM 87109",
+    "addr:housenumber":"4700",
+    "addr:postcode":"87109",
+    "addr:street":"Jefferson St Ne Ste 700",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.593452,35.134209,-106.593452,35.134209",
     "geom:latitude":35.134209,
     "geom:longitude":-106.593452,
@@ -39,6 +44,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -52,7 +58,7 @@
     "wof:geomhash":"37db7d33cc2e0e1cd05e748532359417",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":353937229,
-    "wof:lastmodified":1466698200,
+    "wof:lastmodified":1491930650,
     "wof:name":"Southwest Interventional Pain",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 185999793,
   "type": "Feature",
   "properties": {
+    "addr:full":"313 63rd St NW Albuquerque NM 87105",
+    "addr:housenumber":"313",
+    "addr:postcode":"87105",
+    "addr:street":"63Rd St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.709214,35.086191,-106.709214,35.086191",
     "geom:latitude":35.086191,
     "geom:longitude":-106.709214,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"e9f67cb6e2d08ccfa7a4b5f5790199bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":185999793,
-    "wof:lastmodified":1466699881,
+    "wof:lastmodified":1491919016,
     "wof:name":"Dee's Hair Design",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186569747,
   "type": "Feature",
   "properties": {
+    "addr:full":"3606 Barcelona Rd SW Albuquerque NM 87105",
+    "addr:housenumber":"3606",
+    "addr:postcode":"87105",
+    "addr:street":"Barcelona Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.712138,35.030442,-106.712138,35.030442",
     "geom:latitude":35.030442,
     "geom:longitude":-106.712138,
@@ -30,8 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
+        85977397,
         102081199,
+        420527813,
         85892591
     ],
     "wof:breaches":[],
@@ -42,19 +50,26 @@
     "wof:geomhash":"f33b0a45b95d7c9d65dabc776f3126d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
+            "locality_id":85977397,
+            "neighbourhood_id":420527813,
+            "region_id":85688493,
+            "venue_id":186569747
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081199,
             "neighbourhood_id":85892591,
             "region_id":85688493,
             "venue_id":186569747
         }
     ],
     "wof:id":186569747,
-    "wof:lastmodified":1466700542,
+    "wof:lastmodified":1491927334,
     "wof:name":"Pat's Phac Svc",
-    "wof:parent_id":85892591,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

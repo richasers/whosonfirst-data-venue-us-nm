@@ -2,9 +2,14 @@
   "id": 186006243,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Altez St SE Albuquerque NM 87123",
+    "addr:housenumber":"200",
+    "addr:postcode":"87123",
+    "addr:street":"Altez St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.539465,35.070674,-106.539465,35.070674",
     "geom:latitude":35.070674,
     "geom:longitude":-106.539465,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"50bb070ce29bfc60885b095c60c4e4f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":186006243
         }
     ],
     "wof:id":186006243,
-    "wof:lastmodified":1466697762,
+    "wof:lastmodified":1491930447,
     "wof:name":"Scientific Sales & Products",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

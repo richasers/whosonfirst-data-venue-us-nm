@@ -2,9 +2,14 @@
   "id": 185945795,
   "type": "Feature",
   "properties": {
+    "addr:full":"2500 Comanche Rd NE Albuquerque NM 87107",
+    "addr:housenumber":"2500",
+    "addr:postcode":"87107",
+    "addr:street":"Comanche Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.615677,35.123738,-106.615677,35.123738",
     "geom:latitude":35.123738,
     "geom:longitude":-106.615677,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -40,7 +46,7 @@
     "wof:geomhash":"04d432e7aa78eca78b4700f847b10411",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
             "venue_id":185945795
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -59,9 +65,9 @@
         }
     ],
     "wof:id":185945795,
-    "wof:lastmodified":1466699155,
+    "wof:lastmodified":1491930813,
     "wof:name":"Morey's Seafood Intl",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

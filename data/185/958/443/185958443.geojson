@@ -2,9 +2,14 @@
   "id": 185958443,
   "type": "Feature",
   "properties": {
+    "addr:full":"11609 Penfield Ln NE Albuquerque NM 87111",
+    "addr:housenumber":"11609",
+    "addr:postcode":"87111",
+    "addr:street":"Penfield Ln Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.509451,35.154918,-106.509451,35.154918",
     "geom:latitude":35.154918,
     "geom:longitude":-106.509451,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"9a6628be53913d2cd7e75f461474c685",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":185958443,
-    "wof:lastmodified":1466699355,
+    "wof:lastmodified":1491894214,
     "wof:name":"Centex",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

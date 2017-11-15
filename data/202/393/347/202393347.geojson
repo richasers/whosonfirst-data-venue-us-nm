@@ -2,9 +2,14 @@
   "id": 202393347,
   "type": "Feature",
   "properties": {
+    "addr:full":"7710 Lomas Blvd NE Albuquerque NM 87110",
+    "addr:housenumber":"7710",
+    "addr:postcode":"87110",
+    "addr:street":"Lomas Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.561268,35.087189,-106.561268,35.087189",
     "geom:latitude":35.087189,
     "geom:longitude":-106.561268,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,15 @@
     "wof:geomhash":"25cc7a55e7c12478c15aeec697c4f39e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":202393347
         }
     ],
     "wof:id":202393347,
-    "wof:lastmodified":1466697858,
+    "wof:lastmodified":1491930404,
     "wof:name":"Thrifty Car Sales Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

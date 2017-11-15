@@ -2,9 +2,14 @@
   "id": 403946051,
   "type": "Feature",
   "properties": {
+    "addr:full":"414 Executive Center Blvd El Paso TX 79902",
+    "addr:housenumber":"414",
+    "addr:postcode":"79902",
+    "addr:street":"Executive Center Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.513435,31.795305,-106.513435,31.795305",
     "geom:latitude":31.795305,
     "geom:longitude":-106.513435,
@@ -29,10 +34,11 @@
     "sg:website":"www.cleasing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688493,
+        85688753,
+        102191575,
         85633793,
-        85976629,
-        102081557,
+        101724863,
+        102085989,
         85828903
     ],
     "wof:breaches":[],
@@ -43,17 +49,17 @@
     "wof:geomhash":"bdb87fb7ac2959486c3caa4a7051c358",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081557,
-            "locality_id":85976629,
+            "county_id":102085989,
+            "locality_id":101724863,
             "neighbourhood_id":85828903,
-            "region_id":85688493,
+            "region_id":85688753,
             "venue_id":403946051
         }
     ],
     "wof:id":403946051,
-    "wof:lastmodified":1466699476,
+    "wof:lastmodified":1491895449,
     "wof:name":"Prime Funding",
     "wof:parent_id":85828903,
     "wof:placetype":"venue",

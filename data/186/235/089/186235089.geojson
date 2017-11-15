@@ -2,9 +2,14 @@
   "id": 186235089,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Osuna Rd NE Albuquerque NM 87107",
+    "addr:housenumber":"301",
+    "addr:postcode":"87107",
+    "addr:street":"Osuna Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.623294,35.151404,-106.623294,35.151404",
     "geom:latitude":35.151404,
     "geom:longitude":-106.623294,
@@ -29,8 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688493,
+        102191575,
         85633793,
-        85688493
+        85977395,
+        102081199,
+        420527809,
+        85976715,
+        85871895,
+        85892599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +52,37 @@
     "wof:geomhash":"bd8fbf6b44de7fc3ebcd3139d10f63b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081199,
+            "locality_id":85977395,
+            "neighbourhood_id":420527809,
+            "region_id":85688493,
+            "venue_id":186235089
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081199,
+            "locality_id":85976715,
+            "neighbourhood_id":85871895,
+            "region_id":85688493,
+            "venue_id":186235089
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081199,
+            "locality_id":85976715,
+            "neighbourhood_id":85892599,
             "region_id":85688493,
             "venue_id":186235089
         }
     ],
     "wof:id":186235089,
-    "wof:lastmodified":1466698463,
+    "wof:lastmodified":1491930751,
     "wof:name":"Milo's Automotive",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

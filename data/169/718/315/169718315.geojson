@@ -2,9 +2,14 @@
   "id": 169718315,
   "type": "Feature",
   "properties": {
+    "addr:full":"8600 Academy Rd NE Albuquerque NM 87111",
+    "addr:housenumber":"8600",
+    "addr:postcode":"87111",
+    "addr:street":"Academy Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.547086,35.148862,-106.547086,35.148862",
     "geom:latitude":35.148862,
     "geom:longitude":-106.547086,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"be6de07b4e7855f83990396dfbd8bb71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":169718315,
-    "wof:lastmodified":1466697755,
+    "wof:lastmodified":1491894172,
     "wof:name":"Heights Cumberland Prsbytrn",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

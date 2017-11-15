@@ -2,9 +2,14 @@
   "id": 202988687,
   "type": "Feature",
   "properties": {
+    "addr:full":"705 Osuna Rd NE Albuquerque NM 87113",
+    "addr:housenumber":"705",
+    "addr:postcode":"87113",
+    "addr:street":"Osuna Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.620547,35.15113,-106.620547,35.15113",
     "geom:latitude":35.15113,
     "geom:longitude":-106.620547,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -40,7 +46,7 @@
     "wof:geomhash":"a90ea9db7ed182f6492032463910d031",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":202988687,
-    "wof:lastmodified":1466700823,
+    "wof:lastmodified":1491930647,
     "wof:name":"Desert Springs Church",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

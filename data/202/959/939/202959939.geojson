@@ -2,9 +2,14 @@
   "id": 202959939,
   "type": "Feature",
   "properties": {
+    "addr:full":"5110 San Francisco Rd NE Albuquerque NM 87109",
+    "addr:housenumber":"5110",
+    "addr:postcode":"87109",
+    "addr:street":"San Francisco Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.587989,35.167109,-106.587989,35.167109",
     "geom:latitude":35.167109,
     "geom:longitude":-106.587989,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"9bd3d2a316f36d31acb3f7881f574647",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":202959939,
-    "wof:lastmodified":1466700609,
+    "wof:lastmodified":1491930745,
     "wof:name":"Irc Aquatic Rehab",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

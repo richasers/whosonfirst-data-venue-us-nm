@@ -2,9 +2,14 @@
   "id": 169739783,
   "type": "Feature",
   "properties": {
+    "addr:full":"10821 Malaguena Ln NE Albuquerque NM 87111",
+    "addr:housenumber":"10821",
+    "addr:postcode":"87111",
+    "addr:street":"Malaguena Ln Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.518725,35.150986,-106.518725,35.150986",
     "geom:latitude":35.150986,
     "geom:longitude":-106.518725,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"1c37b4315d17b5f199909887e37682e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":169739783,
-    "wof:lastmodified":1466697989,
+    "wof:lastmodified":1491894228,
     "wof:name":"Sew Beautiful",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

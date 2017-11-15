@@ -2,9 +2,14 @@
   "id": 186431117,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Girard Blvd SE Albuquerque NM 87106",
+    "addr:housenumber":"120",
+    "addr:postcode":"87106",
+    "addr:street":"Girard Blvd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.613217,35.079295,-106.613217,35.079295",
     "geom:latitude":35.079295,
     "geom:longitude":-106.613217,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"690059bd7c21a10ceb2b8c9c4ee0826c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":186431117,
-    "wof:lastmodified":1466699849,
+    "wof:lastmodified":1491912848,
     "wof:name":"Brad Hall Law Office",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186226685,
   "type": "Feature",
   "properties": {
+    "addr:full":"3500 Comanche Rd NE Albuquerque NM 87107",
+    "addr:housenumber":"3500",
+    "addr:postcode":"87107",
+    "addr:street":"Comanche Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.605183,35.12368,-106.605183,35.12368",
     "geom:latitude":35.12368,
     "geom:longitude":-106.605183,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -47,7 +53,7 @@
     "wof:geomhash":"2d07937694d9799322e46311eb4bb320",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -56,7 +62,7 @@
             "venue_id":186226685
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -66,9 +72,9 @@
         }
     ],
     "wof:id":186226685,
-    "wof:lastmodified":1466698352,
+    "wof:lastmodified":1491930782,
     "wof:name":"Onenic",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

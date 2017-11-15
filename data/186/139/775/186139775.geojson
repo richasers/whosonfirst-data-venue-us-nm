@@ -2,9 +2,14 @@
   "id": 186139775,
   "type": "Feature",
   "properties": {
+    "addr:full":"10016 Cochiti Rd SE Albuquerque NM 87123",
+    "addr:housenumber":"",
+    "addr:postcode":"10016;87123",
+    "addr:street":"Cochiti Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.538107,35.07136,-106.538107,35.07136",
     "geom:latitude":35.07136,
     "geom:longitude":-106.538107,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"bb3f1f5f2bd52b066efaea47e08aae97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":186139775
         }
     ],
     "wof:id":186139775,
-    "wof:lastmodified":1466699211,
+    "wof:lastmodified":1491930422,
     "wof:name":"G & S Jewelry Mfg",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

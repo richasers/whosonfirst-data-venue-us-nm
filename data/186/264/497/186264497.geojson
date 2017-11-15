@@ -2,14 +2,20 @@
   "id": 186264497,
   "type": "Feature",
   "properties": {
+    "addr:full":"7620 Pan American Fwy Albuquerque NM 87109",
+    "addr:housenumber":"7620",
+    "addr:postcode":"87109",
+    "addr:street":"Pan American Fwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.584487,35.170592,-106.584487,35.170592",
     "geom:latitude":35.170592,
     "geom:longitude":-106.584487,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7620 Pan American Fwy",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -27,20 +33,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
         85871895
     ],
+    "wof:brand_id":1125150099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XB4TQDCkmEVlEhjPT4Jjf_35.170592_-106.584487@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"525851759b909311a37efd2760c9e491",
+    "wof:geomhash":"a19a5ae75929934d3e00d4c47e4ac7f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":186264497,
-    "wof:lastmodified":1466698849,
+    "wof:lastmodified":1510695714,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

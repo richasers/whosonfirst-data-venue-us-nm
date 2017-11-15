@@ -2,9 +2,14 @@
   "id": 186501639,
   "type": "Feature",
   "properties": {
+    "addr:full":"6501 Wyoming Blvd NE Albuquerque NM 87109",
+    "addr:housenumber":"6501",
+    "addr:postcode":"87109",
+    "addr:street":"Wyoming;Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.55787,35.149539,-106.55787,35.149539",
     "geom:latitude":35.149539,
     "geom:longitude":-106.55787,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"794bca9d4e67321b6ae58048d02d1b24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":186501639,
-    "wof:lastmodified":1466700314,
+    "wof:lastmodified":1491894189,
     "wof:name":"New Home Realty Of New Mexico",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

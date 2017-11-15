@@ -2,9 +2,14 @@
   "id": 202780821,
   "type": "Feature",
   "properties": {
+    "addr:full":"5941 Jefferson St NE Albuquerque NM 87109",
+    "addr:housenumber":"5941",
+    "addr:postcode":"87109",
+    "addr:street":"Jefferson St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.596112,35.145769,-106.596112,35.145769",
     "geom:latitude":35.145769,
     "geom:longitude":-106.596112,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -47,7 +53,7 @@
     "wof:geomhash":"e6defc00973828fb4181b0a7a20edeec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":202780821,
-    "wof:lastmodified":1466699880,
+    "wof:lastmodified":1491930666,
     "wof:name":"Dyron Murphy Architects PC",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

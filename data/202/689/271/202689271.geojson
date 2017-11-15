@@ -2,9 +2,14 @@
   "id": 202689271,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Conchas St SE Albuquerque NM 87123",
+    "addr:housenumber":"201",
+    "addr:postcode":"87123",
+    "addr:street":"Conchas St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.535437,35.070254,-106.535437,35.070254",
     "geom:latitude":35.070254,
     "geom:longitude":-106.535437,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,15 @@
     "wof:geomhash":"724920d052f6b031b21c361af59aeba9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":202689271
         }
     ],
     "wof:id":202689271,
-    "wof:lastmodified":1466699563,
+    "wof:lastmodified":1491930425,
     "wof:name":"Specialty Communications",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

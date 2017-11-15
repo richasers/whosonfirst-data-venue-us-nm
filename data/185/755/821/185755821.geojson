@@ -2,9 +2,14 @@
   "id": 185755821,
   "type": "Feature",
   "properties": {
+    "addr:full":"126 Pennsylvania St NE Albuquerque NM 87108",
+    "addr:housenumber":"126",
+    "addr:postcode":"87108",
+    "addr:street":"Pennsylvania St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.559173,35.076398,-106.559173,35.076398",
     "geom:latitude":35.076398,
     "geom:longitude":-106.559173,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"2783b5929f11c94e63f18979dba7b1d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":185755821
         }
     ],
     "wof:id":185755821,
-    "wof:lastmodified":1466699171,
+    "wof:lastmodified":1491930418,
     "wof:name":"Philadelphia Ministries",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

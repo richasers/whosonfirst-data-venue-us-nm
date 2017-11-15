@@ -2,9 +2,14 @@
   "id": 202716859,
   "type": "Feature",
   "properties": {
+    "addr:full":"8201 Marquette Ave NE Albuquerque NM 87108",
+    "addr:housenumber":"8201",
+    "addr:postcode":"87108",
+    "addr:street":"Marquette Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.554638,35.083647,-106.554638,35.083647",
     "geom:latitude":35.083647,
     "geom:longitude":-106.554638,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"7a47858df165d6de338ed508197149d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":202716859
         }
     ],
     "wof:id":202716859,
-    "wof:lastmodified":1466699521,
+    "wof:lastmodified":1491930410,
     "wof:name":"Pine Park Apartments",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

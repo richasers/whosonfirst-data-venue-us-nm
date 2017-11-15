@@ -2,14 +2,20 @@
   "id": 873981157,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 W San Francisco St Santa Fe NM 87501",
+    "addr:housenumber":"135",
+    "addr:postcode":"87501",
+    "addr:street":"W San Francisco St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.941704,35.687911,-105.941704,35.687911",
     "geom:latitude":35.687911,
     "geom:longitude":-105.941704,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"135 W San Francisco St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081571,
         85880795
     ],
+    "wof:brand_id":1125159969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KuWks6RN8kQ6U75BN6RJQ_35.687911_-105.941704@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464310604,
-    "wof:geomhash":"81a270d881be5eb9332ffd625d174ee8",
+    "wof:geomhash":"59c63a3d84af29bacf7ece84a08bb6cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873981157,
-    "wof:lastmodified":1466697793,
+    "wof:lastmodified":1510693851,
     "wof:name":"Origins",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874094951,
   "type": "Feature",
   "properties": {
+    "addr:full":"1155 N Main St Las Cruces NM 88001",
+    "addr:housenumber":"1155",
+    "addr:postcode":"88001",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.781308,32.318812,-106.781308,32.318812",
     "geom:latitude":32.318812,
     "geom:longitude":-106.781308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1155 N Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081557,
         85823411
     ],
+    "wof:brand_id":1125153145,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ezFnV5TVxiYlbi5ftc08l_32.318812_-106.781308@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464311712,
-    "wof:geomhash":"a89d39c5bc8db59a77bdec87ed9533f5",
+    "wof:geomhash":"db69daa3794206cddbd4b7cd43ad71e3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874094951,
-    "wof:lastmodified":1466700587,
+    "wof:lastmodified":1510613261,
     "wof:name":"FBI",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",

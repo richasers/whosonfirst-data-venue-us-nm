@@ -2,14 +2,20 @@
   "id": 202489529,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 Silver Ave SW Albuquerque NM 87102",
+    "addr:housenumber":"625",
+    "addr:postcode":"87102",
+    "addr:street":"Silver Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.655293,35.083076,-106.655293,35.083076",
     "geom:latitude":35.083076,
     "geom:longitude":-106.655293,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"625 Silver Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102081199,
         85871885
     ],
+    "wof:brand_id":1125150769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DfhRZpMZ1P6FHtB5NzoIx_35.083076_-106.655293@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c3e38388ce713a5b01d25fd2153a67f",
+    "wof:geomhash":"ce4c77fd9c7d8f48b208f339aadf3f1b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":202489529,
-    "wof:lastmodified":1466699050,
+    "wof:lastmodified":1510697653,
     "wof:name":"Child Support Enforcement",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",

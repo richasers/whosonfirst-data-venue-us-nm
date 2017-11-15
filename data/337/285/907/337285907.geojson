@@ -2,9 +2,14 @@
   "id": 337285907,
   "type": "Feature",
   "properties": {
+    "addr:full":"3316 Lafayette Dr NE Albuquerque NM 87107",
+    "addr:housenumber":"3316",
+    "addr:postcode":"87107",
+    "addr:street":"Lafayette Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.60847,35.119713,-106.60847,35.119713",
     "geom:latitude":35.119713,
     "geom:longitude":-106.60847,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -44,7 +50,7 @@
     "wof:geomhash":"d99bd75b43c832ad00ae772e8618de61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
             "venue_id":337285907
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -63,9 +69,9 @@
         }
     ],
     "wof:id":337285907,
-    "wof:lastmodified":1466697737,
+    "wof:lastmodified":1491930718,
     "wof:name":"Pimentel Guitar",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

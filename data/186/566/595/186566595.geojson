@@ -2,9 +2,14 @@
   "id": 186566595,
   "type": "Feature",
   "properties": {
+    "addr:full":"5201 Venice Ave NE Albuquerque NM 87113",
+    "addr:housenumber":"5201",
+    "addr:postcode":"87113",
+    "addr:street":"Venice Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.579286,35.196047,-106.579286,35.196047",
     "geom:latitude":35.196047,
     "geom:longitude":-106.579286,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
-        102081199
+        102081199,
+        85871895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,19 @@
     "wof:geomhash":"c5453ebe7a9f713bc250867ff16b4264",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85871895,
             "region_id":85688493,
             "venue_id":186566595
         }
     ],
     "wof:id":186566595,
-    "wof:lastmodified":1466700531,
+    "wof:lastmodified":1491930632,
     "wof:name":"Data Print",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

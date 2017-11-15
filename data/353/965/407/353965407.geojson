@@ -2,9 +2,14 @@
   "id": 353965407,
   "type": "Feature",
   "properties": {
+    "addr:full":"2106 Coors Blvd SW Albuquerque NM 87121",
+    "addr:housenumber":"2106",
+    "addr:postcode":"87121",
+    "addr:street":"Coors Blvd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.708941,35.047039,-106.708941,35.047039",
     "geom:latitude":35.047039,
     "geom:longitude":-106.708941,
@@ -49,6 +54,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -63,7 +69,7 @@
     "wof:geomhash":"43f26fe852b4f78eb9b4b069be1508ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -72,19 +78,17 @@
             "venue_id":353965407
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85892591,
             "region_id":85688493,
             "venue_id":353965407
         }
     ],
     "wof:id":353965407,
-    "wof:lastmodified":1466698889,
+    "wof:lastmodified":1491927332,
     "wof:name":"Allstate Insurance Company - Dean Chaney",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

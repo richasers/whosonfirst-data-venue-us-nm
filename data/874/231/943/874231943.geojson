@@ -2,14 +2,20 @@
   "id": 874231943,
   "type": "Feature",
   "properties": {
+    "addr:full":"12345 Central Ave NE Albuquerque NM 87123",
+    "addr:housenumber":"12345",
+    "addr:postcode":"87123",
+    "addr:street":"Central Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.510408,35.069909,-106.510408,35.069909",
     "geom:latitude":35.069909,
     "geom:longitude":-106.510408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12345 Central Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85808363,
         102081199
     ],
+    "wof:brand_id":1125156043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jNIr3klWhITZ8JXfYaxP5_35.069909_-106.510408@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464313186,
-    "wof:geomhash":"0aa6a3b5eb7fbdc210ea4ec33ec6074d",
+    "wof:geomhash":"938f7fcfb74be57cb57751c022fbb1f4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874231943,
-    "wof:lastmodified":1466701426,
+    "wof:lastmodified":1510695019,
     "wof:name":"Blake's Lotaburger",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

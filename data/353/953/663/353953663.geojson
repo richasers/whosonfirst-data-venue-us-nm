@@ -2,9 +2,14 @@
   "id": 353953663,
   "type": "Feature",
   "properties": {
+    "addr:full":"5101 Wilshire Ave NE Albuquerque NM 87113",
+    "addr:housenumber":"5101",
+    "addr:postcode":"87113",
+    "addr:street":"Wilshire Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.587982,35.18157,-106.587982,35.18157",
     "geom:latitude":35.18157,
     "geom:longitude":-106.587982,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -45,7 +51,7 @@
     "wof:geomhash":"42c103f065661583775b4c8c4808fc42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":353953663,
-    "wof:lastmodified":1466698682,
+    "wof:lastmodified":1491930805,
     "wof:name":"G&K Services, Inc.",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

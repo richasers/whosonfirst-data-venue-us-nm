@@ -2,9 +2,14 @@
   "id": 202556203,
   "type": "Feature",
   "properties": {
+    "addr:full":"3001 Aztec Rd NE Albuquerque NM 87107",
+    "addr:housenumber":"3001",
+    "addr:postcode":"87107",
+    "addr:street":"Aztec Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.609691,35.120155,-106.609691,35.120155",
     "geom:latitude":35.120155,
     "geom:longitude":-106.609691,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -44,7 +50,7 @@
     "wof:geomhash":"02ba9c1d08c61f3fe41abd3537dec8e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
             "venue_id":202556203
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -63,9 +69,9 @@
         }
     ],
     "wof:id":202556203,
-    "wof:lastmodified":1466697732,
+    "wof:lastmodified":1491930629,
     "wof:name":"TUBS-The Unique Bath Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 186423463,
   "type": "Feature",
   "properties": {
+    "addr:full":"3351 Candelaria Rd NE Albuquerque NM 87107",
+    "addr:housenumber":"3351",
+    "addr:postcode":"87107",
+    "addr:street":"Candelaria Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.609441,35.116619,-106.609441,35.116619",
     "geom:latitude":35.116619,
     "geom:longitude":-106.609441,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -45,7 +51,7 @@
     "wof:geomhash":"13a5ebe8606e2d122c053986fe455539",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -54,7 +60,7 @@
             "venue_id":186423463
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -64,9 +70,9 @@
         }
     ],
     "wof:id":186423463,
-    "wof:lastmodified":1466699815,
+    "wof:lastmodified":1491930708,
     "wof:name":"Protection One Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

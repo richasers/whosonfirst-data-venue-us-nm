@@ -2,9 +2,14 @@
   "id": 353965759,
   "type": "Feature",
   "properties": {
+    "addr:full":"659 Old Coors Dr SW Albuquerque NM 87121",
+    "addr:housenumber":"659",
+    "addr:postcode":"87121",
+    "addr:street":"Old Coors Dr Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.698325,35.074834,-106.698325,35.074834",
     "geom:latitude":35.074834,
     "geom:longitude":-106.698325,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -46,7 +52,7 @@
     "wof:geomhash":"3ca5321f1aa38686d44910e35bd89406",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":353965759,
-    "wof:lastmodified":1466698900,
+    "wof:lastmodified":1491919021,
     "wof:name":"Kid Auto Sales",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",

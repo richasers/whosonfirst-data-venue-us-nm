@@ -2,9 +2,14 @@
   "id": 202933119,
   "type": "Feature",
   "properties": {
+    "addr:full":"5811 Carmel Ave NE Albuquerque NM 87113",
+    "addr:housenumber":"5811",
+    "addr:postcode":"87113",
+    "addr:street":"Carmel Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.580251,35.177286,-106.580251,35.177286",
     "geom:latitude":35.177286,
     "geom:longitude":-106.580251,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"0611e29b30df8b6a553ce8cb7fa8eedb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":202933119,
-    "wof:lastmodified":1466700340,
+    "wof:lastmodified":1491930633,
     "wof:name":"Gallipoli Radiant",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

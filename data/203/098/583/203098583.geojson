@@ -2,9 +2,14 @@
   "id": 203098583,
   "type": "Feature",
   "properties": {
+    "addr:full":"129 Rhode Island St NE Albuquerque NM 87108",
+    "addr:housenumber":"129",
+    "addr:postcode":"87108",
+    "addr:street":"Rhode Island St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.55824,35.075951,-106.55824,35.075951",
     "geom:latitude":35.075951,
     "geom:longitude":-106.55824,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"671384b62345c35c561f6ee185fa8449",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":203098583
         }
     ],
     "wof:id":203098583,
-    "wof:lastmodified":1466698725,
+    "wof:lastmodified":1491930382,
     "wof:name":"Lon Caster Plumbing & Heating",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 203119781,
   "type": "Feature",
   "properties": {
+    "addr:full":"4159 Montgomery Blvd NE Albuquerque NM 87109",
+    "addr:housenumber":"4159",
+    "addr:postcode":"87109",
+    "addr:street":"Montgomery Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.603678,35.131003,-106.603678,35.131003",
     "geom:latitude":35.131003,
     "geom:longitude":-106.603678,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -44,7 +50,7 @@
     "wof:geomhash":"db20bfd3d8451430f5c749580fe8b769",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
             "venue_id":203119781
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -63,9 +69,9 @@
         }
     ],
     "wof:id":203119781,
-    "wof:lastmodified":1466698946,
+    "wof:lastmodified":1491930684,
     "wof:name":"Bosque Hunting Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

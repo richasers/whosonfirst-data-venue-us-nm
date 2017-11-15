@@ -2,9 +2,14 @@
   "id": 185714809,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 Dartmouth Dr NE Albuquerque NM 87106",
+    "addr:housenumber":"207",
+    "addr:postcode":"87106",
+    "addr:street":"Dartmouth Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.612126,35.082889,-106.612126,35.082889",
     "geom:latitude":35.082889,
     "geom:longitude":-106.612126,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"6d040ed33e5e32b7a60c4c9c55dbd231",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":185714809,
-    "wof:lastmodified":1466698778,
+    "wof:lastmodified":1491912846,
     "wof:name":"Hernandez Fine Art",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",

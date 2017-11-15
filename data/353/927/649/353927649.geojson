@@ -2,9 +2,14 @@
   "id": 353927649,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Tulane Dr SE Albuquerque NM 87106",
+    "addr:housenumber":"201",
+    "addr:postcode":"87106",
+    "addr:street":"Tulane Dr Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.607033,35.07906,-106.607033,35.07906",
     "geom:latitude":35.07906,
     "geom:longitude":-106.607033,
@@ -31,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102524725,
         85688493,
         85633793,
-        85976715,
         102081199,
-        85871879
+        85871875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,18 @@
     "wof:geomhash":"f2f0b156001052b54ba5f6c5336fb87d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102524725,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":85976715,
-            "neighbourhood_id":85871879,
+            "neighbourhood_id":85871875,
             "region_id":85688493,
             "venue_id":353927649
         }
     ],
     "wof:id":353927649,
-    "wof:lastmodified":1466697936,
+    "wof:lastmodified":1491912854,
     "wof:name":"Roll, Samuel Phd",
-    "wof:parent_id":85871879,
+    "wof:parent_id":102524725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

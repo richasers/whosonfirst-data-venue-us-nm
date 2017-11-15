@@ -2,9 +2,14 @@
   "id": 186601359,
   "type": "Feature",
   "properties": {
+    "addr:full":"2124 Eucariz Ave SW Albuquerque NM 87105",
+    "addr:housenumber":"2124",
+    "addr:postcode":"87105",
+    "addr:street":"Eucariz Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.688864,35.072542,-106.688864,35.072542",
     "geom:latitude":35.072542,
     "geom:longitude":-106.688864,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"fdc01b08de19fa3e1b134df8eb421a94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":186601359,
-    "wof:lastmodified":1466700638,
+    "wof:lastmodified":1491919021,
     "wof:name":"Rick's Hauling",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",

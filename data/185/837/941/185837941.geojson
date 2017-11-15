@@ -2,9 +2,14 @@
   "id": 185837941,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Bryn Mawr Dr SE Albuquerque NM 87106",
+    "addr:housenumber":"105",
+    "addr:postcode":"87106",
+    "addr:street":"Bryn Mawr Dr Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.609583,35.079126,-106.609583,35.079126",
     "geom:latitude":35.079126,
     "geom:longitude":-106.609583,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"2a1c995e22937b358c1683ab30d610e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":185837941,
-    "wof:lastmodified":1466697876,
+    "wof:lastmodified":1491912845,
     "wof:name":"Enchantment Films Inc",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",

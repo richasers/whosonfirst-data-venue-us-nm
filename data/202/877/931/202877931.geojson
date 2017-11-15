@@ -2,9 +2,14 @@
   "id": 202877931,
   "type": "Feature",
   "properties": {
+    "addr:full":"3504 Carlisle Blvd NE Albuquerque NM 87110",
+    "addr:housenumber":"3504",
+    "addr:postcode":"87110",
+    "addr:street":"Carlisle Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.604026,35.121585,-106.604026,35.121585",
     "geom:latitude":35.121585,
     "geom:longitude":-106.604026,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -44,7 +50,7 @@
     "wof:geomhash":"78d4b966e42ba888cdd9a1dc07ebdbc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
             "venue_id":202877931
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -63,9 +69,9 @@
         }
     ],
     "wof:id":202877931,
-    "wof:lastmodified":1466700162,
+    "wof:lastmodified":1491930798,
     "wof:name":"Glenns Installation Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

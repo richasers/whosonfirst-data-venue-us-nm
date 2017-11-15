@@ -2,14 +2,20 @@
   "id": 202459027,
   "type": "Feature",
   "properties": {
+    "addr:full":"10408 Delicado Pl NE Albuquerque NM 87111",
+    "addr:housenumber":"",
+    "addr:postcode":"10408;87111",
+    "addr:street":"Delicado Pl Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.520413,35.145208,-106.520413,35.145208",
     "geom:latitude":35.145208,
     "geom:longitude":-106.520413,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10408 Delicado Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -27,20 +33,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
         85871865
     ],
+    "wof:brand_id":1125151223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Qe8pL3FdcyzZgJFfqQcPi_35.145208_-106.520413@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"4f5aa54e8f107ad501e0e6739fbd758f",
+    "wof:geomhash":"08d63137d1f817259ca0bb193810a89a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":202459027,
-    "wof:lastmodified":1466698607,
+    "wof:lastmodified":1510697269,
     "wof:name":"Indoff Inc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

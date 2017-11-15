@@ -2,9 +2,14 @@
   "id": 203127089,
   "type": "Feature",
   "properties": {
+    "addr:full":"627 Old Coors Dr SW Albuquerque NM 87121",
+    "addr:housenumber":"627",
+    "addr:postcode":"87121",
+    "addr:street":"Old Coors Dr Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.698561,35.074718,-106.698561,35.074718",
     "geom:latitude":35.074718,
     "geom:longitude":-106.698561,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"74a2e424105d9e6c9ab2ca3f7530442a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":203127089,
-    "wof:lastmodified":1466699445,
+    "wof:lastmodified":1491919020,
     "wof:name":"A&M Body Shop",
     "wof:parent_id":85892577,
     "wof:placetype":"venue",

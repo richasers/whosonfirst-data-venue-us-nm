@@ -2,9 +2,14 @@
   "id": 169709577,
   "type": "Feature",
   "properties": {
+    "addr:full":"809 Tony Sanchez Dr SE Albuquerque NM 87123",
+    "addr:housenumber":"809",
+    "addr:postcode":"87123",
+    "addr:street":"Tony Sanchez Dr Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.521016,35.061654,-106.521016,35.061654",
     "geom:latitude":35.061654,
     "geom:longitude":-106.521016,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"83c4881add3fe16905ff51d6cc867513",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":169709577
         }
     ],
     "wof:id":169709577,
-    "wof:lastmodified":1466697669,
+    "wof:lastmodified":1491930405,
     "wof:name":"T & T Property Management",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

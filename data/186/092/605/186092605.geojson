@@ -2,9 +2,14 @@
   "id": 186092605,
   "type": "Feature",
   "properties": {
+    "addr:full":"3821 Goodrich Ave NE Albuquerque NM 87110",
+    "addr:housenumber":"3821",
+    "addr:postcode":"87110",
+    "addr:street":"Goodrich Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.599911,35.128629,-106.599911,35.128629",
     "geom:latitude":35.128629,
     "geom:longitude":-106.599911,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -40,7 +46,7 @@
     "wof:geomhash":"5e31983d1b342e3bd5cfa9815a4bbf7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
             "venue_id":186092605
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -59,9 +65,9 @@
         }
     ],
     "wof:id":186092605,
-    "wof:lastmodified":1466698804,
+    "wof:lastmodified":1491930766,
     "wof:name":"Sandra Tolman Consultant",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

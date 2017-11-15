@@ -2,14 +2,20 @@
   "id": 874116899,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 S Main St Las Cruces NM 88001",
+    "addr:housenumber":"311",
+    "addr:postcode":"88001",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.777857,32.307174,-106.777857,32.307174",
     "geom:latitude":32.307174,
     "geom:longitude":-106.777857,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 S Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081557,
         85823411
     ],
+    "wof:brand_id":1125158979,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IxSC2icF8uW7TzQO57oae_32.307174_-106.777857@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464312005,
-    "wof:geomhash":"b025e43d848c8effed587c08211bfd79",
+    "wof:geomhash":"abd8b957ab19a04fdaacf59e333780be",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874116899,
-    "wof:lastmodified":1466700610,
+    "wof:lastmodified":1510696035,
     "wof:name":"Expert Tire",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",

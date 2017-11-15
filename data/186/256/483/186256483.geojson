@@ -2,9 +2,14 @@
   "id": 186256483,
   "type": "Feature",
   "properties": {
+    "addr:full":"114 Pennsylvania St NE Albuquerque NM 87108",
+    "addr:housenumber":"114",
+    "addr:postcode":"87108",
+    "addr:street":"Pennsylvania St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.559208,35.075186,-106.559208,35.075186",
     "geom:latitude":35.075186,
     "geom:longitude":-106.559208,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"7bcc065015593092334f0249afb26488",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":186256483
         }
     ],
     "wof:id":186256483,
-    "wof:lastmodified":1466698744,
+    "wof:lastmodified":1491930389,
     "wof:name":"Estilistas La Roca Unisex",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

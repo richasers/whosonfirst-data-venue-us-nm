@@ -2,9 +2,14 @@
   "id": 370258343,
   "type": "Feature",
   "properties": {
+    "addr:full":"444 Executive Center Blvd El Paso TX 79902",
+    "addr:housenumber":"444",
+    "addr:postcode":"79902",
+    "addr:street":"Executive Center Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.515817,31.795348,-106.515817,31.795348",
     "geom:latitude":31.795348,
     "geom:longitude":-106.515817,
@@ -37,10 +42,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688493,
+        85688753,
+        102191575,
         85633793,
-        85976629,
-        102081557,
+        101724863,
+        102085989,
         85828903
     ],
     "wof:breaches":[],
@@ -51,17 +57,17 @@
     "wof:geomhash":"b05e260c4f67e7f5d71af93370952465",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081557,
-            "locality_id":85976629,
+            "county_id":102085989,
+            "locality_id":101724863,
             "neighbourhood_id":85828903,
-            "region_id":85688493,
+            "region_id":85688753,
             "venue_id":370258343
         }
     ],
     "wof:id":370258343,
-    "wof:lastmodified":1466697611,
+    "wof:lastmodified":1491895451,
     "wof:name":"Argus Services Corp",
     "wof:parent_id":85828903,
     "wof:placetype":"venue",

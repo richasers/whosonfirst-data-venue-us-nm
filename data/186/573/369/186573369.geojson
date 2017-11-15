@@ -2,14 +2,20 @@
   "id": 186573369,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 W Brown Rd Las Cruces NM 88005",
+    "addr:housenumber":"1300",
+    "addr:postcode":"88005",
+    "addr:street":"W Brown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.786994,32.298844,-106.786994,32.298844",
     "geom:latitude":32.298844,
     "geom:longitude":-106.786994,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1300 W Brown Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102081557,
         85823411
     ],
+    "wof:brand_id":1125157087,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NDT3n3kXmF02zF0fxgw9h_32.298844_-106.786994@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"991b191cf15fc8ba63eb9faa90d68a30",
+    "wof:geomhash":"4e41f3608eb79eede8dfb9e0fc940298",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":186573369,
-    "wof:lastmodified":1466700545,
+    "wof:lastmodified":1510693785,
     "wof:name":"US Army Reserve Ctr",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",

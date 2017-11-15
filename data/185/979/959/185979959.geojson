@@ -2,9 +2,14 @@
   "id": 185979959,
   "type": "Feature",
   "properties": {
+    "addr:full":"5916 Torreon Dr NE Albuquerque NM 87109",
+    "addr:housenumber":"5916",
+    "addr:postcode":"87109",
+    "addr:street":"Torreon Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.559347,35.147183,-106.559347,35.147183",
     "geom:latitude":35.147183,
     "geom:longitude":-106.559347,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"017e2e9d021bb65f7616541a2c52bf65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":185979959,
-    "wof:lastmodified":1466699752,
+    "wof:lastmodified":1491894201,
     "wof:name":"Nancy L Stratton",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

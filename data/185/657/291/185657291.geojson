@@ -2,9 +2,14 @@
   "id": 185657291,
   "type": "Feature",
   "properties": {
+    "addr:full":"6001 Osuna Rd NE Albuquerque NM 87109",
+    "addr:housenumber":"6001",
+    "addr:postcode":"87109",
+    "addr:street":"Osuna Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.582092,35.144947,-106.582092,35.144947",
     "geom:latitude":35.144947,
     "geom:longitude":-106.582092,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"843b39b2005fa7df3b4fc7fb175dbeab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":185657291,
-    "wof:lastmodified":1466698212,
+    "wof:lastmodified":1491930696,
     "wof:name":"Hagemeyer John L",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

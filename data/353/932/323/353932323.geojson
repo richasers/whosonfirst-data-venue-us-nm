@@ -2,9 +2,14 @@
   "id": 353932323,
   "type": "Feature",
   "properties": {
+    "addr:full":"3400 Candelaria Rd NE Albuquerque NM 87107",
+    "addr:housenumber":"",
+    "addr:postcode":"3400;87107",
+    "addr:street":"Candelaria Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.60823,35.116524,-106.60823,35.116524",
     "geom:latitude":35.116524,
     "geom:longitude":-106.60823,
@@ -48,6 +53,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -62,7 +68,7 @@
     "wof:geomhash":"3a6e4d39a7ef833985ed8a9fa6ecd6e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -71,7 +77,7 @@
             "venue_id":353932323
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -81,9 +87,9 @@
         }
     ],
     "wof:id":353932323,
-    "wof:lastmodified":1466698071,
+    "wof:lastmodified":1491930628,
     "wof:name":"Contractors Heating & Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

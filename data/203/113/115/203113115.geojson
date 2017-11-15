@@ -2,9 +2,14 @@
   "id": 203113115,
   "type": "Feature",
   "properties": {
+    "addr:full":"6715 Eagle Rock Ave NE Albuquerque NM 87113",
+    "addr:housenumber":"6715",
+    "addr:postcode":"87113",
+    "addr:street":"Eagle Rock Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.570565,35.187357,-106.570565,35.187357",
     "geom:latitude":35.187357,
     "geom:longitude":-106.570565,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
-        102081199
+        102081199,
+        85892597,
+        85871895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,28 @@
     "wof:geomhash":"883ff7499b999e0ee0c126e412beef00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892597,
+            "region_id":85688493,
+            "venue_id":203113115
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081199,
+            "locality_id":85976715,
+            "neighbourhood_id":85871895,
             "region_id":85688493,
             "venue_id":203113115
         }
     ],
     "wof:id":203113115,
-    "wof:lastmodified":1466698895,
+    "wof:lastmodified":1491930652,
     "wof:name":"Cheap Fitness Exercise Equip",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

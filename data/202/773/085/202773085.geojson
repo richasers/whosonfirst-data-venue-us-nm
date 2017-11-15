@@ -2,9 +2,14 @@
   "id": 202773085,
   "type": "Feature",
   "properties": {
+    "addr:full":"9201 Trumbull Ave SE Albuquerque NM 87123",
+    "addr:housenumber":"9201",
+    "addr:postcode":"87123",
+    "addr:street":"Trumbull Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.544491,35.069199,-106.544491,35.069199",
     "geom:latitude":35.069199,
     "geom:longitude":-106.544491,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"b4294e4a9531dafa2123aa5cd2260f59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":202773085
         }
     ],
     "wof:id":202773085,
-    "wof:lastmodified":1466699849,
+    "wof:lastmodified":1491930390,
     "wof:name":"Van Cleave Place",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186026275,
   "type": "Feature",
   "properties": {
+    "addr:full":"9808 Central Ave SE Albuquerque NM 87123",
+    "addr:housenumber":"9808",
+    "addr:postcode":"87123",
+    "addr:street":"Central Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.538258,35.072509,-106.538258,35.072509",
     "geom:latitude":35.072509,
     "geom:longitude":-106.538258,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,15 @@
     "wof:geomhash":"17831022b9f3671ec8536ddf1bf28670",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":186026275
         }
     ],
     "wof:id":186026275,
-    "wof:lastmodified":1466697982,
+    "wof:lastmodified":1491930407,
     "wof:name":"Paint-Ball Action Inc",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

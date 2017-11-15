@@ -2,9 +2,14 @@
   "id": 186367981,
   "type": "Feature",
   "properties": {
+    "addr:full":"6500 Sunset Gardens Rd SW Albuquerque NM 87121",
+    "addr:housenumber":"6500",
+    "addr:postcode":"87121",
+    "addr:street":"Sunset Gardens Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.707585,35.072069,-106.707585,35.072069",
     "geom:latitude":35.072069,
     "geom:longitude":-106.707585,
@@ -26,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
-        102081199
+        102081199,
+        85871867,
+        85892577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,28 @@
     "wof:geomhash":"23a28e18ba0ff6f1b1f2a401af6b8bb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85871867,
+            "region_id":85688493,
+            "venue_id":186367981
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081199,
+            "locality_id":85976715,
+            "neighbourhood_id":85892577,
             "region_id":85688493,
             "venue_id":186367981
         }
     ],
     "wof:id":186367981,
-    "wof:lastmodified":1466699741,
+    "wof:lastmodified":1491919012,
     "wof:name":"Schools APS Even Start",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

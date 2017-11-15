@@ -2,9 +2,14 @@
   "id": 202507305,
   "type": "Feature",
   "properties": {
+    "addr:full":"10101 Central Ave SE Albuquerque NM 87123",
+    "addr:housenumber":"10101",
+    "addr:postcode":"87123",
+    "addr:street":"Central Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.535429,35.072281,-106.535429,35.072281",
     "geom:latitude":35.072281,
     "geom:longitude":-106.535429,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"a74a03c0cee953e3603100f4e5bd8a7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":202507305
         }
     ],
     "wof:id":202507305,
-    "wof:lastmodified":1466699193,
+    "wof:lastmodified":1491930429,
     "wof:name":"Golden Pride Bbq Chicken",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

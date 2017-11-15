@@ -2,9 +2,14 @@
   "id": 202945153,
   "type": "Feature",
   "properties": {
+    "addr:full":"12316 Cougar Ln SE Albuquerque NM 87123",
+    "addr:housenumber":"12316",
+    "addr:postcode":"87123",
+    "addr:street":"Cougar Ln Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.511489,35.060895,-106.511489,35.060895",
     "geom:latitude":35.060895,
     "geom:longitude":-106.511489,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,15 @@
     "wof:geomhash":"6f5edd7d6b0f660636b9cd97bfde92c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":202945153
         }
     ],
     "wof:id":202945153,
-    "wof:lastmodified":1466700419,
+    "wof:lastmodified":1491930431,
     "wof:name":"Sarge Trucking",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

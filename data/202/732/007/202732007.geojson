@@ -2,9 +2,14 @@
   "id": 202732007,
   "type": "Feature",
   "properties": {
+    "addr:full":"2627 Coors Blvd SW Albuquerque NM 87121",
+    "addr:housenumber":"2627",
+    "addr:postcode":"87121",
+    "addr:street":"Coors Blvd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.712357,35.036928,-106.712357,35.036928",
     "geom:latitude":35.036928,
     "geom:longitude":-106.712357,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -45,7 +51,7 @@
     "wof:geomhash":"4bdd2c0e198d7a61f5794be1858cf334",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -54,19 +60,17 @@
             "venue_id":202732007
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85892591,
             "region_id":85688493,
             "venue_id":202732007
         }
     ],
     "wof:id":202732007,
-    "wof:lastmodified":1466699825,
+    "wof:lastmodified":1491927334,
     "wof:name":"L H Woodard & Sons Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 202716985,
   "type": "Feature",
   "properties": {
+    "addr:full":"5805 Torreon Dr NE Albuquerque NM 87109",
+    "addr:housenumber":"5805",
+    "addr:postcode":"87109",
+    "addr:street":"Torreon Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.559496,35.146449,-106.559496,35.146449",
     "geom:latitude":35.146449,
     "geom:longitude":-106.559496,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"50c54d97b346b3e927d6ae9f5b9e9053",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":202716985,
-    "wof:lastmodified":1466699523,
+    "wof:lastmodified":1491894239,
     "wof:name":"Ventures In Progress Inc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

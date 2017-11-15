@@ -2,9 +2,14 @@
   "id": 202464581,
   "type": "Feature",
   "properties": {
+    "addr:full":"3904 Carlisle Blvd NE Albuquerque NM 87107",
+    "addr:housenumber":"3904",
+    "addr:postcode":"87107",
+    "addr:street":"Carlisle Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.604053,35.126127,-106.604053,35.126127",
     "geom:latitude":35.126127,
     "geom:longitude":-106.604053,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"642477ba43bfc8f50f4aa64bdd3a5b90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
             "venue_id":202464581
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -62,9 +68,9 @@
         }
     ],
     "wof:id":202464581,
-    "wof:lastmodified":1466698701,
+    "wof:lastmodified":1491930630,
     "wof:name":"William A Robison",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

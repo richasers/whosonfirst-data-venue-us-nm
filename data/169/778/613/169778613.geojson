@@ -2,9 +2,14 @@
   "id": 169778613,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 Charleston St NE Albuquerque NM 87108",
+    "addr:housenumber":"525",
+    "addr:postcode":"87108",
+    "addr:street":"Charleston St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.560944,35.083588,-106.560944,35.083588",
     "geom:latitude":35.083588,
     "geom:longitude":-106.560944,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"69e308df736834ca199b0c4b27b172f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":169778613
         }
     ],
     "wof:id":169778613,
-    "wof:lastmodified":1466698353,
+    "wof:lastmodified":1491930445,
     "wof:name":"Creeping Vine Designs",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

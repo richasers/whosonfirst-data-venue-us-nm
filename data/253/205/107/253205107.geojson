@@ -2,9 +2,14 @@
   "id": 253205107,
   "type": "Feature",
   "properties": {
+    "addr:full":"4110 Rio Bravo St El Paso TX 79902",
+    "addr:housenumber":"4110",
+    "addr:postcode":"79902",
+    "addr:street":"Rio Bravo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.516395,31.795201,-106.516395,31.795201",
     "geom:latitude":31.795201,
     "geom:longitude":-106.516395,
@@ -28,10 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688493,
+        85688753,
+        102191575,
         85633793,
-        85976629,
-        102081557,
+        101724863,
+        102085989,
         85828903
     ],
     "wof:breaches":[],
@@ -42,17 +48,17 @@
     "wof:geomhash":"6b2e6449fe7715626dfd92ba6b7bcfed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081557,
-            "locality_id":85976629,
+            "county_id":102085989,
+            "locality_id":101724863,
             "neighbourhood_id":85828903,
-            "region_id":85688493,
+            "region_id":85688753,
             "venue_id":253205107
         }
     ],
     "wof:id":253205107,
-    "wof:lastmodified":1466699454,
+    "wof:lastmodified":1491895444,
     "wof:name":"Accountemps",
     "wof:parent_id":85828903,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353955351,
   "type": "Feature",
   "properties": {
+    "addr:full":"5604 Wilshire Ave NE Albuquerque NM 87113",
+    "addr:housenumber":"5604",
+    "addr:postcode":"87113",
+    "addr:street":"Wilshire Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.579915,35.181514,-106.579915,35.181514",
     "geom:latitude":35.181514,
     "geom:longitude":-106.579915,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -45,7 +51,7 @@
     "wof:geomhash":"b3cd9776976d15a375a306bb82cbc22b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":353955351,
-    "wof:lastmodified":1466698709,
+    "wof:lastmodified":1491930619,
     "wof:name":"Lee Landscapes Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353937571,
   "type": "Feature",
   "properties": {
+    "addr:full":"7820 Pan American East Fwy NE Albuquerque NM 87109",
+    "addr:housenumber":"7820",
+    "addr:postcode":"87109",
+    "addr:street":"Pan American East Fwy Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.584745,35.168732,-106.584745,35.168732",
     "geom:latitude":35.168732,
     "geom:longitude":-106.584745,
@@ -57,6 +62,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -70,7 +76,7 @@
     "wof:geomhash":"8cf664d8f29f067bbe6a882c4ff1b0ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":353937571,
-    "wof:lastmodified":1466698208,
+    "wof:lastmodified":1491930624,
     "wof:name":"Wayne Taylor - Farmers Insurance",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

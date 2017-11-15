@@ -2,9 +2,14 @@
   "id": 202729697,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 Rock Creek Park Ave NE Albuquerque NM 87123",
+    "addr:housenumber":"345",
+    "addr:postcode":"87123",
+    "addr:street":"Rock Creek Park Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.531889,35.073735,-106.531889,35.073735",
     "geom:latitude":35.073735,
     "geom:longitude":-106.531889,
@@ -34,8 +39,8 @@
     "wof:belongsto":[
         85688493,
         85633793,
-        102081199,
-        85808363
+        85808363,
+        102081199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +50,15 @@
     "wof:geomhash":"3e3521ec87a3b3a2a9b4a72ff9fbfa86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081199,
-            "locality_id":-1,
             "neighbourhood_id":85808363,
             "region_id":85688493,
             "venue_id":202729697
         }
     ],
     "wof:id":202729697,
-    "wof:lastmodified":1466699724,
+    "wof:lastmodified":1491930425,
     "wof:name":"M & S Mortgage Solutions LLC",
     "wof:parent_id":85808363,
     "wof:placetype":"venue",

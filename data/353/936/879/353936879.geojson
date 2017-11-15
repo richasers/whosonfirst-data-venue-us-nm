@@ -2,9 +2,14 @@
   "id": 353936879,
   "type": "Feature",
   "properties": {
+    "addr:full":"4545 Mcleod Rd NE Ste C Albuquerque NM 87109",
+    "addr:housenumber":"4545",
+    "addr:postcode":"87109",
+    "addr:street":"Mcleod Rd Ne Ste C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.59556,35.137502,-106.59556,35.137502",
     "geom:latitude":35.137502,
     "geom:longitude":-106.59556,
@@ -45,6 +50,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -58,7 +64,7 @@
     "wof:geomhash":"4e26070d62ba514fb6ef7b2c4a0cd895",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":353936879,
-    "wof:lastmodified":1466698190,
+    "wof:lastmodified":1491930675,
     "wof:name":"Telebeeper Of New Mexico Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

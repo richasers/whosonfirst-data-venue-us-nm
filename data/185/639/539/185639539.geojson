@@ -2,9 +2,14 @@
   "id": 185639539,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Osuna Rd NE Albuquerque NM 87113",
+    "addr:housenumber":"701",
+    "addr:postcode":"87113",
+    "addr:street":"Osuna Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.620453,35.151113,-106.620453,35.151113",
     "geom:latitude":35.151113,
     "geom:longitude":-106.620453,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"c6e1a7f8060167794a37c4e4355d569a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":185639539,
-    "wof:lastmodified":1466698038,
+    "wof:lastmodified":1491930667,
     "wof:name":"Image Resources Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

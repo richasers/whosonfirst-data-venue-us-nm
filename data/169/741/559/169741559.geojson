@@ -2,9 +2,14 @@
   "id": 169741559,
   "type": "Feature",
   "properties": {
+    "addr:full":"3206 Alta Monte Ave NE Albuquerque NM 87107",
+    "addr:housenumber":"3206",
+    "addr:postcode":"87107",
+    "addr:street":"Alta Monte Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.606431,35.118245,-106.606431,35.118245",
     "geom:latitude":35.118245,
     "geom:longitude":-106.606431,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -46,7 +52,7 @@
     "wof:geomhash":"79b279e7b8300abf6cae578e0cd78d90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -55,7 +61,7 @@
             "venue_id":169741559
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -65,9 +71,9 @@
         }
     ],
     "wof:id":169741559,
-    "wof:lastmodified":1466698006,
+    "wof:lastmodified":1491930684,
     "wof:name":"Service Master Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

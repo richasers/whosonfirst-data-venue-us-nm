@@ -2,9 +2,14 @@
   "id": 185985363,
   "type": "Feature",
   "properties": {
+    "addr:full":"5901 Office Blvd NE Albuquerque NM 87109",
+    "addr:housenumber":"5901",
+    "addr:postcode":"87109",
+    "addr:street":"Office Blvd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.60108,35.147145,-106.60108,35.147145",
     "geom:latitude":35.147145,
     "geom:longitude":-106.60108,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -39,7 +45,7 @@
     "wof:geomhash":"e77be8fa82ac1ed3b82e9c3e2389666a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":185985363,
-    "wof:lastmodified":1466699688,
+    "wof:lastmodified":1491930730,
     "wof:name":"Aer Mfg Co",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

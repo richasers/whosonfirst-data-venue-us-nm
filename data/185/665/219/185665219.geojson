@@ -2,9 +2,14 @@
   "id": 185665219,
   "type": "Feature",
   "properties": {
+    "addr:full":"5904 Florence Ave NE Albuquerque NM 87113",
+    "addr:housenumber":"5904",
+    "addr:postcode":"87113",
+    "addr:street":"Florence Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.578653,35.191639,-106.578653,35.191639",
     "geom:latitude":35.191639,
     "geom:longitude":-106.578653,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -44,7 +50,7 @@
     "wof:geomhash":"57141ececbc26d721b2e7893923971a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":185665219,
-    "wof:lastmodified":1466698296,
+    "wof:lastmodified":1491930764,
     "wof:name":"Keers Remediation",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",

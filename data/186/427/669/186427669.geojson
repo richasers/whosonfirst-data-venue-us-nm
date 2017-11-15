@@ -2,9 +2,14 @@
   "id": 186427669,
   "type": "Feature",
   "properties": {
+    "addr:full":"9500 Seabrook Dr NE Albuquerque NM 87111",
+    "addr:housenumber":"9500",
+    "addr:postcode":"87111",
+    "addr:street":"Seabrook Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.537426,35.157652,-106.537426,35.157652",
     "geom:latitude":35.157652,
     "geom:longitude":-106.537426,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -42,7 +48,7 @@
     "wof:geomhash":"000fcfeb438b5fddc6625522f16a99ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":186427669,
-    "wof:lastmodified":1466699825,
+    "wof:lastmodified":1491894173,
     "wof:name":"Eurobridge Inc Consulting",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",

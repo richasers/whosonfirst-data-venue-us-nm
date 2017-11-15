@@ -2,9 +2,14 @@
   "id": 203080217,
   "type": "Feature",
   "properties": {
+    "addr:full":"2621 Comanche Rd NE Albuquerque NM 87107",
+    "addr:housenumber":"2621",
+    "addr:postcode":"87107",
+    "addr:street":"Comanche Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.616423,35.123898,-106.616423,35.123898",
     "geom:latitude":35.123898,
     "geom:longitude":-106.616423,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -40,7 +46,7 @@
     "wof:geomhash":"d923fba7895f45e1ec5167b17eae45b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -49,7 +55,7 @@
             "venue_id":203080217
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -59,9 +65,9 @@
         }
     ],
     "wof:id":203080217,
-    "wof:lastmodified":1466698473,
+    "wof:lastmodified":1491930781,
     "wof:name":"P P G Industries Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 186226993,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Richmond Dr NE Albuquerque NM 87106",
+    "addr:housenumber":"115",
+    "addr:postcode":"87106",
+    "addr:street":"Richmond Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.611042,35.081657,-106.611042,35.081657",
     "geom:latitude":35.081657,
     "geom:longitude":-106.611042,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -45,7 +51,7 @@
     "wof:geomhash":"20518e66e8a949a1cd8b8dbfd578ae6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":186226993,
-    "wof:lastmodified":1466698356,
+    "wof:lastmodified":1491912862,
     "wof:name":"House Of Covers",
     "wof:parent_id":85871879,
     "wof:placetype":"venue",

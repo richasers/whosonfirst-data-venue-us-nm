@@ -2,9 +2,14 @@
   "id": 185696103,
   "type": "Feature",
   "properties": {
+    "addr:full":"7925 Charger Trl NE Albuquerque NM 87109",
+    "addr:housenumber":"7925",
+    "addr:postcode":"87109",
+    "addr:street":"Charger Trl Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.555135,35.14349,-106.555135,35.14349",
     "geom:latitude":35.14349,
     "geom:longitude":-106.555135,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688493,
+        102191575,
         85633793,
         85976715,
         102081199,
@@ -43,7 +49,7 @@
     "wof:geomhash":"c3571cbc5ccfd2cfd81b50f4844f2bb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081199,
             "locality_id":85976715,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":185696103,
-    "wof:lastmodified":1466698605,
+    "wof:lastmodified":1491894174,
     "wof:name":"Edward L McCausland Contractor",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
