@@ -7,13 +7,16 @@
     "addr:postcode":"88220",
     "addr:street":"W Pierce St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.254093,32.438661,-104.254093,32.438661",
     "geom:latitude":32.438661,
     "geom:longitude":-104.254093,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2311 W Pierce St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_2M51NuTTggOs2Uh0jfIbMB_32.438661_-104.254093@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"973dc3f0c0c7e0948641a4631b818ed4",
+    "wof:geomhash":"2913cb1c15033df7d6233247637ba4e9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -67,12 +70,14 @@
         }
     ],
     "wof:id":186025741,
-    "wof:lastmodified":1472636478,
+    "wof:lastmodified":1510942919,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874234777
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

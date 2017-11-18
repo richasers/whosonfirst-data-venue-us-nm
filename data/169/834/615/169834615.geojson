@@ -7,6 +7,7 @@
     "addr:postcode":"87111",
     "addr:street":"Eubank Blvd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-106.533363,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5200 Eubank Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_3oaPrTBw9ViwHo0hQe8lq8_35.138894_-106.533363@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"1761bf3dabc239ca24f9c89421f06544",
+    "wof:geomhash":"711caafd44e0a1563285084a6e06fa28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":169834615,
-    "wof:lastmodified":1491894169,
+    "wof:lastmodified":1510943700,
     "wof:name":"H & R Block",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353950693
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "return"

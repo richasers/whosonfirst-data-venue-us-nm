@@ -7,13 +7,16 @@
     "addr:postcode":"87120",
     "addr:street":"Montano Rd Nw Ste B",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.693893,35.15258,-106.693893,35.15258",
     "geom:latitude":35.15258,
     "geom:longitude":-106.693893,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4801 Montano Rd NW Ste B",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -58,7 +61,7 @@
         "sg:id":"SG_322GL5dIW1oy4OVwPQEpSr_35.152580_-106.693893@1303263130"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e8bb8aaf6648cb243c976638827e34c",
+    "wof:geomhash":"3296784b2d64bfca339ddaf12de389c2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -71,12 +74,14 @@
         }
     ],
     "wof:id":353962067,
-    "wof:lastmodified":1472636486,
+    "wof:lastmodified":1510943816,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85892579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874231635
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery",

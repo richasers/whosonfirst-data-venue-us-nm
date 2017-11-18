@@ -7,13 +7,16 @@
     "addr:postcode":"88101",
     "addr:street":"E 22Nd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.204018,34.420689,-103.204018,34.420689",
     "geom:latitude":34.420689,
     "geom:longitude":-103.204018,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 E 22nd St",
     "sg:city":"Clovis",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_4iYXb717NnVMDmcuKlQaKk_34.420689_-103.204018@1303263130"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d34bdccc85b4b7f799d4d3d203964f8",
+    "wof:geomhash":"278ecb183760fb45699d60c7d5366612",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":353975663,
-    "wof:lastmodified":1472636509,
+    "wof:lastmodified":1510941775,
     "wof:name":"Furr's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874234471
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

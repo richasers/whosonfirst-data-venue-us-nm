@@ -7,6 +7,7 @@
     "addr:postcode":"87109",
     "addr:street":"Lumber Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-106.590076,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4725 Lumber Ave NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
         "sg:id":"SG_3IkdD6Ka3LqcKvqi1LHbJS_35.134955_-106.590076@1303263129"
     },
     "wof:country":"US",
-    "wof:geomhash":"737e8fa97b72f4979e7c18518765109a",
+    "wof:geomhash":"8f4f6936a8aabe3b148865cde9577d41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":353941329,
-    "wof:lastmodified":1491930683,
+    "wof:lastmodified":1510942399,
     "wof:name":"Something Special With Flowers",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185925569
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

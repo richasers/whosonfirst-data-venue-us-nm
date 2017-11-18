@@ -7,13 +7,16 @@
     "addr:postcode":"87111",
     "addr:street":"Juan Tabo Blvd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.515732,35.132389,-106.515732,35.132389",
     "geom:latitude":35.132389,
     "geom:longitude":-106.515732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4501 Juan Tabo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_02C0QuzlzfNqrQtZLKpMQm_35.132389_-106.515732@1303263129"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb94bfbdd006c73749ae12471ca7212b",
+    "wof:geomhash":"6e73bc526e1e6e5e3e9ba73e699da8fd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":353948011,
-    "wof:lastmodified":1472636478,
+    "wof:lastmodified":1510943443,
     "wof:name":"Flying Star Cafe",
     "wof:parent_id":85871887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874111591
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

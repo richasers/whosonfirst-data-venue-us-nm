@@ -7,13 +7,16 @@
     "addr:postcode":"87501",
     "addr:street":"Lincoln Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.938342,35.688719,-105.938342,35.688719",
     "geom:latitude":35.688719,
     "geom:longitude":-105.938342,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"125 Lincoln Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_3nZvrWdDnIUWxxwlErl3mc_35.688719_-105.938342@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"31ad84ebd95d823e3e9148b23b21c3c8",
+    "wof:geomhash":"c7bff8d2bf2ae75c55b0693247c0f853",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":186000195,
-    "wof:lastmodified":1472636448,
+    "wof:lastmodified":1510943109,
     "wof:name":"Plaza II Executive Center Inc",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186424177
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "suite",

@@ -7,13 +7,16 @@
     "addr:postcode":"87106",
     "addr:street":"Lomas Blvd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.615796,35.087558,-106.615796,35.087558",
     "geom:latitude":35.087558,
     "geom:longitude":-106.615796,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2211 Lomas Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
         "sg:id":"SG_7WQDSQHqMcd93liRONGfbF_35.087558_-106.615796@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"619fcb0f5dc5586a70a6cff600df55f5",
+    "wof:geomhash":"ff3b505681023232ba7c7333e14aa14b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":202440461,
-    "wof:lastmodified":1472636522,
+    "wof:lastmodified":1510942882,
     "wof:name":"University Of New Mexico Ctr",
     "wof:parent_id":85871901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874138395
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

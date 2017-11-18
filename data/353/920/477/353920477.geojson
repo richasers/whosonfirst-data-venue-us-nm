@@ -7,13 +7,16 @@
     "addr:postcode":"87102",
     "addr:street":"Lead Ave Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.651188,35.081476,-106.651188,35.081476",
     "geom:latitude":35.081476,
     "geom:longitude":-106.651188,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"314 Lead Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
         "sg:id":"SG_6v6SLXcG5yQMK6z3zezOlz_35.081476_-106.651188@1303263128"
     },
     "wof:country":"US",
-    "wof:geomhash":"035e4341e0930718cd9d6008a398ff5b",
+    "wof:geomhash":"ec9464d3b7f4763a07aa80024525b34a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":353920477,
-    "wof:lastmodified":1472636455,
+    "wof:lastmodified":1510941669,
     "wof:name":"First United Methodist Church",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186105607
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

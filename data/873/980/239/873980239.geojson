@@ -7,13 +7,16 @@
     "addr:postcode":"88220",
     "addr:street":"W Pierce St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.257609,32.440999,-104.257609,32.440999",
     "geom:latitude":32.440999,
     "geom:longitude":-104.257609,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2402 W Pierce St",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464310588,
-    "wof:geomhash":"428cebfe6dc35d7d9ed5954e9a7cf10d",
+    "wof:geomhash":"37cdd5be307e4a797544da1b1f1b7a95",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -68,12 +71,14 @@
         }
     ],
     "wof:id":873980239,
-    "wof:lastmodified":1472636481,
+    "wof:lastmodified":1510943844,
     "wof:name":"S Ramasamy MD PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874188409
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

@@ -7,13 +7,16 @@
     "addr:postcode":"87108",
     "addr:street":"Lead Ave Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.596222,35.075485,-106.596222,35.075485",
     "geom:latitude":35.075485,
     "geom:longitude":-106.596222,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4401 Lead Ave SE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_1ptwdtQghCpQmJtTeFPVO7_35.075485_-106.596222@1303263129"
     },
     "wof:country":"US",
-    "wof:geomhash":"92cfd493c3f1195d8333c044632de21a",
+    "wof:geomhash":"304aaf637d1a65826b41bc4c361c7193",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":353934579,
-    "wof:lastmodified":1472636463,
+    "wof:lastmodified":1510943683,
     "wof:name":"Jim's Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203102305
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

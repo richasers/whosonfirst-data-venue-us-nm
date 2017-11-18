@@ -7,6 +7,7 @@
     "addr:postcode":"87111",
     "addr:street":"Osuna Rd Ne Ste 2C",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-106.550941,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8400 Osuna Rd NE Ste 2C",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -59,7 +61,7 @@
         "sg:id":"SG_6Lv72zxKm6xw9tCDV54OjC_35.137489_-106.550941@1303263129"
     },
     "wof:country":"US",
-    "wof:geomhash":"9853f4a6b56b8e621fae5fc3e6def88c",
+    "wof:geomhash":"c4b293b2f9dd598bd4eef6e1c239696b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,12 +74,14 @@
         }
     ],
     "wof:id":353949815,
-    "wof:lastmodified":1491894158,
+    "wof:lastmodified":1510941397,
     "wof:name":"Gilbert, Ray Dmd Ms",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874156813
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-oral",

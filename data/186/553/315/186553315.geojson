@@ -7,13 +7,16 @@
     "addr:postcode":"87112",
     "addr:street":"Lomas Blvd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.515315,35.086708,-106.515315,35.086708",
     "geom:latitude":35.086708,
     "geom:longitude":-106.515315,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"11824 Lomas Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -41,10 +44,11 @@
     "wof:brand_id":420573827,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2099074642,
         "sg:id":"SG_35KRbECZ6b5IcbqeBWf9Uw_35.086708_-106.515315@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"7566b3f13839fc3367409f0fb760abef",
+    "wof:geomhash":"7c2bbebbaa7fb7c1ab84718f1a392fa8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +61,17 @@
         }
     ],
     "wof:id":186553315,
-    "wof:lastmodified":1472636685,
+    "wof:lastmodified":1510942591,
     "wof:name":"McDonalds",
     "wof:parent_id":85847019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        874230827
+    ],
+    "wof:supersedes":[
+        874230827
+    ],
     "wof:tags":[
         "eating"
     ]

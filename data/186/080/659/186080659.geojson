@@ -7,13 +7,16 @@
     "addr:postcode":"87110",
     "addr:street":"San Mateo Blvd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.586423,35.128507,-106.586423,35.128507",
     "geom:latitude":35.128507,
     "geom:longitude":-106.586423,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4100 San Mateo Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_6vAtxrhvpk1ygy4HnFHtW2_35.128507_-106.586423@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"52deb1d5bbfe75ffa1f679fb6de85f84",
+    "wof:geomhash":"e04c88c5e9c5471136c094b56d91310b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":186080659,
-    "wof:lastmodified":1472636557,
+    "wof:lastmodified":1510941676,
     "wof:name":"Sneakerz",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353942893
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
