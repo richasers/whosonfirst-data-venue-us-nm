@@ -7,6 +7,7 @@
     "addr:postcode":"88005",
     "addr:street":"W Boutz Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.781853,32.288148,-106.781853,32.288148",
@@ -14,6 +15,7 @@
     "geom:longitude":-106.781853,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"205 W Boutz Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_5pfqqSXdoJpeWN9V0UKcKa_32.288148_-106.781853@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"3279caef05d2f478c0e6096faa78e1c2",
+    "wof:geomhash":"ef3c6ce593fd9a3f8c21bd2e506c1c1d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":186066575,
-    "wof:lastmodified":1472636536,
+    "wof:lastmodified":1534439167,
     "wof:name":"Medical Billing Practice Mgmt",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202531369
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

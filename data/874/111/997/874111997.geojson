@@ -2,18 +2,24 @@
   "id": 874111997,
   "type": "Feature",
   "properties": {
-    "addr:full":"808 Park Ave SW Albuquerque NM 87102",
+    "addr:city":"Albuquerque",
+    "addr:full":"808 Park Ave Sw Albuquerque, Nm 87102-3017",
+    "addr:house_number":"808",
     "addr:housenumber":"808",
-    "addr:postcode":"87102",
+    "addr:phone":"+1 505-247-1172",
+    "addr:postcode":"87102-3017",
+    "addr:road":"Park Ave Sw",
+    "addr:state":"NM",
     "addr:street":"Park Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-106.65751,35.08523,-106.65751,35.08523",
-    "geom:latitude":35.08523,
-    "geom:longitude":-106.65751,
+    "geom:bbox":"-106.6566,35.08514,-106.6566,35.08514",
+    "geom:latitude":35.08514,
+    "geom:longitude":-106.6566,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"808 Park Ave SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529173
+    ],
     "wof:belongsto":[
         85688493,
         102191575,
@@ -41,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403500277,
         "sg:id":"SG_2jc7YDDLXfT0r14xMked5W_35.085230_-106.657510@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464311957,
-    "wof:geomhash":"1caf3d74a536af60c2d14714bdd781ac",
+    "wof:geomhash":"9ef8867ca726982dc7d6aac3394e82f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":874111997,
-    "wof:lastmodified":1472636748,
-    "wof:name":"Offcenter Community Art",
+    "wof:lastmodified":1534439169,
+    "wof:name":"Offcenter Community Arts Project",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
@@ -70,10 +80,10 @@
     ]
 },
   "bbox": [
-    -106.65751,
-    35.08523,
-    -106.65751,
-    35.08523
+    -106.6566,
+    35.08514,
+    -106.6566,
+    35.08514
 ],
-  "geometry": {"coordinates":[-106.65751,35.08523],"type":"Point"}
+  "geometry": {"coordinates":[-106.6566,35.08514],"type":"Point"}
 }

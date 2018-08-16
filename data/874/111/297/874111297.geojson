@@ -2,18 +2,24 @@
   "id": 874111297,
   "type": "Feature",
   "properties": {
-    "addr:full":"727 Grand Ave Las Vegas NM 87701",
+    "addr:city":"Las Vegas",
+    "addr:full":"727 Grand Avenue Las Vegas, Nm 87701-4731",
+    "addr:house_number":"727",
     "addr:housenumber":"727",
-    "addr:postcode":"87701",
+    "addr:phone":"+1 505-454-1401",
+    "addr:postcode":"87701-4731",
+    "addr:road":"Grand Avenue",
+    "addr:state":"NM",
     "addr:street":"Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-105.213808,35.596877,-105.213808,35.596877",
-    "geom:latitude":35.596877,
-    "geom:longitude":-105.213808,
+    "geom:bbox":"-105.23231,35.5885,-105.23231,35.5885",
+    "geom:latitude":35.5885,
+    "geom:longitude":-105.23231,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"727 Grand Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -27,19 +33,23 @@
     "sg:phone":"+1 505 454 1401",
     "sg:postcode":"87701",
     "sg:province":"NM",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525999
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403500282,
         "sg:id":"SG_3NMVOaIo978Kul8nlfz702_35.596877_-105.213808@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464311945,
-    "wof:geomhash":"d63e90e85e33f60d0c9499a53bc39b8b",
+    "wof:geomhash":"d9d96f18de002fb93577c3fbf11f4c79",
     "wof:hierarchy":[],
     "wof:id":874111297,
-    "wof:lastmodified":1472636725,
-    "wof:name":"Las Vegas Museum",
+    "wof:lastmodified":1534439169,
+    "wof:name":"Las Vegas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
@@ -48,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -105.213808,
-    35.596877,
-    -105.213808,
-    35.596877
+    -105.23231,
+    35.5885,
+    -105.23231,
+    35.5885
 ],
-  "geometry": {"coordinates":[-105.213808,35.596877],"type":"Point"}
+  "geometry": {"coordinates":[-105.23231,35.5885],"type":"Point"}
 }

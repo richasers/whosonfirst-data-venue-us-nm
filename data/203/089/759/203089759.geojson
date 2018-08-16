@@ -7,6 +7,7 @@
     "addr:postcode":"87110",
     "addr:street":"Carlisle Blvd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604205,35.116158,-106.604205,35.116158",
@@ -14,6 +15,7 @@
     "geom:longitude":-106.604205,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2921 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_5W2u8pxDzG6x8MGJ0TGJaS_35.116158_-106.604205@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"6e600e9a62ba3fdff49fd4d4f63b4b21",
+    "wof:geomhash":"114fc7b290e39f4e12a98b744c38d950",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -67,12 +69,14 @@
         }
     ],
     "wof:id":203089759,
-    "wof:lastmodified":1472636503,
+    "wof:lastmodified":1534439167,
     "wof:name":"Johnny's Income Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186107363
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "return",

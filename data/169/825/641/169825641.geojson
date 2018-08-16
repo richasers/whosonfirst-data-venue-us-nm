@@ -7,6 +7,7 @@
     "addr:postcode":"87109",
     "addr:street":"Wyoming;Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-106.551147,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5345 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_7EtV66LoJ6elfu4efKQuXX_35.140675_-106.551147@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"c5e5702585ef07243516efe3f8d7cc1a",
+    "wof:geomhash":"eccf83de404dffc44bf6e3d022e0dcbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":169825641,
-    "wof:lastmodified":1491894153,
+    "wof:lastmodified":1534439167,
     "wof:name":"Ken Goldberg & Assoc",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202555475
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

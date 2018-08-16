@@ -2,18 +2,24 @@
   "id": 202756463,
   "type": "Feature",
   "properties": {
-    "addr:full":"216 S 1st St Raton NM 87740",
+    "addr:city":"Raton",
+    "addr:full":"216 S 1St St Raton, Nm 87740-3904",
+    "addr:house_number":"216",
     "addr:housenumber":"216",
-    "addr:postcode":"87740",
+    "addr:phone":"+1 505-445-8979",
+    "addr:postcode":"87740-3904",
+    "addr:road":"S 1St St",
+    "addr:state":"NM",
     "addr:street":"S 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-104.43845,36.900833,-104.43845,36.900833",
-    "geom:latitude":36.900833,
-    "geom:longitude":-104.43845,
+    "geom:bbox":"-104.43972,36.9016,-104.43972,36.9016",
+    "geom:latitude":36.9016,
+    "geom:longitude":-104.43972,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"216 S 1st St",
     "sg:city":"Raton",
     "sg:classifiers":[
@@ -34,7 +40,8 @@
         "local",
         "operates"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688493,
         85633793,
@@ -43,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403500193,
         "sg:id":"SG_2hk5kff74pnpOTPEjXNK2g_36.900833_-104.438450@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"c935e8bf47f525fb8c2bc287987cd5ce",
+    "wof:geomhash":"da3b0374845fcaf68c05ac55103f6f1c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":202756463,
-    "wof:lastmodified":1472636628,
+    "wof:lastmodified":1534439169,
     "wof:name":"Raton Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -75,10 +83,10 @@
     ]
 },
   "bbox": [
-    -104.43845,
-    36.900833,
-    -104.43845,
-    36.900833
+    -104.43972,
+    36.9016,
+    -104.43972,
+    36.9016
 ],
-  "geometry": {"coordinates":[-104.43845,36.900833],"type":"Point"}
+  "geometry": {"coordinates":[-104.43971999999999,36.9016],"type":"Point"}
 }

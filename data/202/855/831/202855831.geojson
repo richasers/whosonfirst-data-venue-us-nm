@@ -2,18 +2,24 @@
   "id": 202855831,
   "type": "Feature",
   "properties": {
-    "addr:full":"4100 Dripping Springs Rd Las Cruces NM 88011",
+    "addr:city":"Las Cruces",
+    "addr:full":"4100 Dripping Springs Rd Las Cruces, Nm 88011-5067",
+    "addr:house_number":"4100",
     "addr:housenumber":"4100",
-    "addr:postcode":"88011",
+    "addr:phone":"+1 575-522-4100",
+    "addr:postcode":"88011-5067",
+    "addr:road":"Dripping Springs Rd",
+    "addr:state":"NM",
     "addr:street":"Dripping Springs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-106.71785,32.296389,-106.71785,32.296389",
-    "geom:latitude":32.296389,
-    "geom:longitude":-106.71785,
+    "geom:bbox":"-106.719,32.29578,-106.719,32.29578",
+    "geom:latitude":32.29578,
+    "geom:longitude":-106.719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4100 Dripping Springs Rd",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:postcode":"88011",
     "sg:province":"NM",
     "sg:website":"www.frhm.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526085
+    ],
     "wof:belongsto":[
         85688493,
         85633793,
@@ -38,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403500129,
         "sg:id":"SG_6IZ74qyYq5yjdaDvqOsc6X_32.296389_-106.717850@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"c4dbc44f2761e011e02cb1f291f388c8",
+    "wof:geomhash":"f0aeaada92bf3b7d6e78a5e193a5c2f5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,8 +64,8 @@
         }
     ],
     "wof:id":202855831,
-    "wof:lastmodified":1472636644,
-    "wof:name":"New Mexico Farm & Ranch",
+    "wof:lastmodified":1534439166,
+    "wof:name":"New Mexico Farm And Ranch Heritage Museum",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -106.71785,
-    32.296389,
-    -106.71785,
-    32.296389
+    -106.719,
+    32.29578,
+    -106.719,
+    32.29578
 ],
-  "geometry": {"coordinates":[-106.71785,32.296389],"type":"Point"}
+  "geometry": {"coordinates":[-106.71899999999999,32.29578],"type":"Point"}
 }

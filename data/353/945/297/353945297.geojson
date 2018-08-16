@@ -7,6 +7,7 @@
     "addr:postcode":"87110",
     "addr:street":"Carlisle Blvd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.604103,35.107422,-106.604103,35.107422",
@@ -14,6 +15,7 @@
     "geom:longitude":-106.604103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2500 Carlisle Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
         "sg:id":"SG_30PwhH64MJI3n3soBo8ZnJ_35.107422_-106.604103@1303263129"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b51c79bfd82fdd182abe38a4013f0a6",
+    "wof:geomhash":"022e62d59fd253bcf57a2e9eea6574cc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":353945297,
-    "wof:lastmodified":1472636479,
+    "wof:lastmodified":1534439166,
     "wof:name":"Radisson Hotel Albuquerque",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185965935
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

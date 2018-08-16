@@ -7,6 +7,7 @@
     "addr:postcode":"88021",
     "addr:street":"Koogle Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.65953,31.909721,-106.65953,31.909721",
@@ -14,6 +15,7 @@
     "geom:longitude":-106.65953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"113 Koogle Rd",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_0VTrXMnS9CxCsYx59RFUZI_31.909721_-106.659530@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"04f3a4e0d6a76d36be0cbb342ce43c76",
+    "wof:geomhash":"7b25020f7630679cc2eda03c6762ae73",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":202750697,
-    "wof:lastmodified":1472636630,
+    "wof:lastmodified":1534439166,
     "wof:name":"Three Feathers Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353973277
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electric",

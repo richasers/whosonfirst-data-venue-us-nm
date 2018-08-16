@@ -7,6 +7,7 @@
     "addr:postcode":"87109",
     "addr:street":"Osuna Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-106.604037,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3600 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_5XkI2mUvjQ71uUMC23INw6_35.153707_-106.604037@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"991594b0640e0cbcf97be7ce5a6d6845",
+    "wof:geomhash":"de49cf933978992beca1ccd204b1618d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":185631005,
-    "wof:lastmodified":1491930662,
+    "wof:lastmodified":1534439167,
     "wof:name":"Integrated Comm Svcs Inc",
     "wof:parent_id":85871895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185840049
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic"

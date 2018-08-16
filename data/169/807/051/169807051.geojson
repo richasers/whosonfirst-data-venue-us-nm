@@ -7,6 +7,7 @@
     "addr:postcode":"87102",
     "addr:street":"Encino Pl Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.63225,35.088116,-106.63225,35.088116",
@@ -14,6 +15,7 @@
     "geom:longitude":-106.63225,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"717 Encino Pl NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_7im9UH9FfIXpl58UDBvz8H_35.088116_-106.632250@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b9f44cfdf9dca03090401260cc0adef",
+    "wof:geomhash":"64f9be0c1029267273fe2f1497073196",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":169807051,
-    "wof:lastmodified":1472636515,
+    "wof:lastmodified":1534439166,
     "wof:name":"Diabetes Center",
     "wof:parent_id":85871869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186352675
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

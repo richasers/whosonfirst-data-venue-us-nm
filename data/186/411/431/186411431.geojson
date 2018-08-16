@@ -7,6 +7,7 @@
     "addr:postcode":"88240",
     "addr:street":"N Lovington Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.181469,32.761203,-103.181469,32.761203",
@@ -14,6 +15,7 @@
     "geom:longitude":-103.181469,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5419 N Lovington Hwy",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_4uovLS2uQ9A5YnrsPNQgCT_32.761203_-103.181469@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"2398a55bd43245af4a9237546caf456b",
+    "wof:geomhash":"4b65f7896e33554d121f9e95c80cd1bb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":186411431,
-    "wof:lastmodified":1472636669,
+    "wof:lastmodified":1534439166,
     "wof:name":"Lea Regional Rehab Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874043663
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"

@@ -7,6 +7,7 @@
     "addr:postcode":"87410",
     "addr:street":"S Oliver Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.02081,36.825242,-108.02081,36.825242",
@@ -14,6 +15,7 @@
     "geom:longitude":-108.02081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"305 S Oliver Dr",
     "sg:city":"Aztec",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
         "sg:id":"SG_0J5k0Nw6L3oZ7zElHrhWNL_36.825242_-108.020810@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e7dd1a72ef5c4965efd35199f2bd02c",
+    "wof:geomhash":"fb99a33065e6813eb9d8e7860ea6e930",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":186037365,
-    "wof:lastmodified":1472636512,
+    "wof:lastmodified":1534439167,
     "wof:name":"San Juan County Human Resource",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185753771
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

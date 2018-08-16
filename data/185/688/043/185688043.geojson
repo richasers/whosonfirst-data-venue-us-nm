@@ -7,6 +7,7 @@
     "addr:postcode":"87507",
     "addr:street":"Cerrillos Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.031951,35.615438,-106.031951,35.615438",
@@ -14,6 +15,7 @@
     "geom:longitude":-106.031951,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8380 Cerrillos Rd",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
         "sg:id":"SG_3Zg2vE8BLErGsHQN8zLa7d_35.615438_-106.031951@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"90c781a3293b1510c7ac7801360413aa",
+    "wof:geomhash":"9bdbe564e22226ccd2ab0719cce3bfe0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":185688043,
-    "wof:lastmodified":1472636527,
+    "wof:lastmodified":1534439168,
     "wof:name":"G H Bass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874111951
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

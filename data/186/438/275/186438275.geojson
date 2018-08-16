@@ -2,18 +2,24 @@
   "id": 186438275,
   "type": "Feature",
   "properties": {
-    "addr:full":"107 W Palace Ave Santa Fe NM 87501",
+    "addr:city":"Santa Fe",
+    "addr:full":"107 W Palace Ave Santa Fe, Nm 87501",
+    "addr:house_number":"107",
     "addr:housenumber":"107",
+    "addr:phone":"+1 505-476-5072",
     "addr:postcode":"87501",
+    "addr:road":"W Palace Ave",
+    "addr:state":"NM",
     "addr:street":"W Palace Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-105.939213,35.688027,-105.939213,35.688027",
-    "geom:latitude":35.688027,
-    "geom:longitude":-105.939213,
+    "geom:bbox":"-105.93925,35.68806,-105.93925,35.68806",
+    "geom:latitude":35.68806,
+    "geom:longitude":-105.93925,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"107 W Palace Ave",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 505 827 4468",
     "sg:postcode":"87501",
     "sg:province":"NM",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527349
+    ],
     "wof:belongsto":[
         85688493,
         85633793,
@@ -37,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403500037,
         "sg:id":"SG_3ro58BRhr7mBaLq1TWBBA9_35.688027_-105.939213@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc447ab2aa0695d278e72a35818efc36",
+    "wof:geomhash":"24f33b1341c76ca4422c63f9e27f1aa1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,8 +63,8 @@
         }
     ],
     "wof:id":186438275,
-    "wof:lastmodified":1472636671,
-    "wof:name":"Museum Of New Mexico",
+    "wof:lastmodified":1534439169,
+    "wof:name":"New Mexico Museum Of Art",
     "wof:parent_id":85880795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -105.939213,
-    35.688027,
-    -105.939213,
-    35.688027
+    -105.93925,
+    35.68806,
+    -105.93925,
+    35.68806
 ],
-  "geometry": {"coordinates":[-105.939213,35.688027],"type":"Point"}
+  "geometry": {"coordinates":[-105.93925,35.68806],"type":"Point"}
 }

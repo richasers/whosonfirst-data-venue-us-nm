@@ -7,6 +7,7 @@
     "addr:postcode":"87114",
     "addr:street":"Ellison Rd Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.653788,35.207412,-106.653788,35.207412",
@@ -14,6 +15,7 @@
     "geom:longitude":-106.653788,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3703 Ellison Rd NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_1v8IzXvyiyESNnI0TWerLY_35.207412_-106.653788@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"c8f36be257aa8ec7336ac14aa9bd06dc",
+    "wof:geomhash":"c0ec7b74f9c66b520e21ea50354f0673",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":202775523,
-    "wof:lastmodified":1472636621,
+    "wof:lastmodified":1534439169,
     "wof:name":"Cold Stone Creamery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874231257
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "parlor",

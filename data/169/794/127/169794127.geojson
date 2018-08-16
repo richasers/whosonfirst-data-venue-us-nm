@@ -7,6 +7,7 @@
     "addr:postcode":"88005",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.778631,32.300044,-106.778631,32.300044",
@@ -14,6 +15,7 @@
     "geom:longitude":-106.778631,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1065 S Main St",
     "sg:city":"Las Cruces",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_3foIbzs4Pn79QvXqcHH1n7_32.300044_-106.778631@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"fcae36448ad0c897fa6f10ce191d88e9",
+    "wof:geomhash":"17fd77c5ac239763f160b4015bcd3a14",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":169794127,
-    "wof:lastmodified":1472636504,
+    "wof:lastmodified":1534439166,
     "wof:name":"Nava Tech",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202679735
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"

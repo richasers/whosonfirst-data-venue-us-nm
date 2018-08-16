@@ -7,6 +7,7 @@
     "addr:postcode":"87109",
     "addr:street":"Wyoming;Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-106.55787,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6501 Wyoming Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_55KvkZ694RV3vYkINffx4M_35.149539_-106.557870@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"794bca9d4e67321b6ae58048d02d1b24",
+    "wof:geomhash":"7313b575046adefdde13dfcea1922e75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":202815363,
-    "wof:lastmodified":1491894224,
+    "wof:lastmodified":1534439167,
     "wof:name":"Steven Schroeder Associates",
     "wof:parent_id":85871865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186072947
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

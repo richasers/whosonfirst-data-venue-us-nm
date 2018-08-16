@@ -7,6 +7,7 @@
     "addr:postcode":"87701",
     "addr:street":"Douglas Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.21865,35.59379,-105.21865,35.59379",
@@ -14,6 +15,7 @@
     "geom:longitude":-105.21865,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"901 Douglas Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_7iO398u7UiIIxF9Ah16Ke7_35.593790_-105.218650@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"263bbd1026c121f8af7b75efba83906e",
+    "wof:geomhash":"494d7fe8bc3764f70ad04868b9fb907e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":186538249,
-    "wof:lastmodified":1472636682,
+    "wof:lastmodified":1534439166,
     "wof:name":"Las Vegas City School District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202973163
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "business",

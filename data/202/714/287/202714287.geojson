@@ -7,6 +7,7 @@
     "addr:postcode":"87401",
     "addr:street":"W Maple St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.211813,36.724399,-108.211813,36.724399",
@@ -14,6 +15,7 @@
     "geom:longitude":-108.211813,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"622 W Maple St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_4IDXYkiLHDn6HhQP2NRKbl_36.724399_-108.211813@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"a657c4a8c30642e9884cbee1678183f9",
+    "wof:geomhash":"4a63e0828cadcadd7d54b2c288c1324b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":202714287,
-    "wof:lastmodified":1472636622,
+    "wof:lastmodified":1534439166,
     "wof:name":"Farmington Drug",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169768185
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drug",

@@ -2,18 +2,24 @@
   "id": 873980007,
   "type": "Feature",
   "properties": {
-    "addr:full":"222 Ledoux St Taos NM 87571",
+    "addr:city":"Taos",
+    "addr:full":"222 Ledoux St Taos, Nm 87571-5944",
+    "addr:house_number":"222",
     "addr:housenumber":"222",
-    "addr:postcode":"87571",
+    "addr:phone":"+1 505-758-0505",
+    "addr:postcode":"87571-5944",
+    "addr:road":"Ledoux St",
+    "addr:state":"NM",
     "addr:street":"Ledoux St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-105.575287,36.406285,-105.575287,36.406285",
-    "geom:latitude":36.406285,
-    "geom:longitude":-105.575287,
+    "geom:bbox":"-105.57676,36.40603,-105.57676,36.40603",
+    "geom:latitude":36.40603,
+    "geom:longitude":-105.57676,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"222 Ledoux St",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 505 758 0505",
     "sg:postcode":"87571",
     "sg:province":"NM",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403500173,
         "sg:id":"SG_3kESAefnEjuStI1luFtPZi_36.406285_-105.575287@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464310583,
-    "wof:geomhash":"491fbf599ea13477adb81630b6cd4315",
+    "wof:geomhash":"15c6361d3b7143810911726d4dd9f897",
     "wof:hierarchy":[],
     "wof:id":873980007,
-    "wof:lastmodified":1472636451,
+    "wof:lastmodified":1534439169,
     "wof:name":"Taos Historic Museums",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -105.575287,
-    36.406285,
-    -105.575287,
-    36.406285
+    -105.57676,
+    36.40603,
+    -105.57676,
+    36.40603
 ],
-  "geometry": {"coordinates":[-105.575287,36.406285],"type":"Point"}
+  "geometry": {"coordinates":[-105.57675999999999,36.40603],"type":"Point"}
 }

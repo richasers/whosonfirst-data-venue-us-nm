@@ -7,6 +7,7 @@
     "addr:postcode":"87109",
     "addr:street":"Montgomery Blvd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.563225,35.130745,-106.563225,35.130745",
@@ -14,6 +15,7 @@
     "geom:longitude":-106.563225,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7400 Montgomery Blvd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_3dqfmxDLkg8MUNTaP5Abvz_35.130745_-106.563225@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"662a4f73be4df5c7f29ebd5f2e6b0ab0",
+    "wof:geomhash":"a832bc93e171dcc68558742665344c5a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":186100121,
-    "wof:lastmodified":1472636579,
+    "wof:lastmodified":1534439168,
     "wof:name":"Dkmarketing  LLC",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874103951
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "firm",

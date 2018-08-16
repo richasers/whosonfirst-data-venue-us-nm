@@ -2,17 +2,22 @@
   "id": 874107205,
   "type": "Feature",
   "properties": {
-    "addr:full":"334 Los Pinos Rd Santa Fe NM 87507",
+    "addr:city":"Santa Fe",
+    "addr:full":"334 Los Pinos Rd Santa Fe, Nm 87507",
+    "addr:house_number":"334",
     "addr:housenumber":"334",
+    "addr:phone":"+1 505-471-2261",
     "addr:postcode":"87507",
+    "addr:road":"Los Pinos Rd",
+    "addr:state":"NM",
     "addr:street":"Los Pinos Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-106.112755,35.574339,-106.112755,35.574339",
-    "geom:latitude":35.574339,
-    "geom:longitude":-106.112755,
+    "geom:bbox":"-106.11634,35.57062,-106.11634,35.57062",
+    "geom:latitude":35.57062,
+    "geom:longitude":-106.11634,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -33,19 +38,25 @@
         "gallery"
     ],
     "sg:website":"www.golondrinas.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527349
+    ],
+    "wof:belongsto":[
+        420527933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403500065,
         "osm:node":4708774236,
         "sg:id":"SG_3KoDrUkN1iUJP1n5f6qswY_35.574339_-106.112755@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464311884,
-    "wof:geomhash":"0749f0aac7ef4a59f883d4f267b4b802",
+    "wof:geomhash":"7ef91ff13236534ece5aa3e2c85fe6e8",
     "wof:hierarchy":[],
     "wof:id":874107205,
-    "wof:lastmodified":1510942499,
+    "wof:lastmodified":1534439169,
     "wof:name":"El Rancho De Las Golondrinas",
     "wof:parent_id":420527933,
     "wof:placetype":"venue",
@@ -57,10 +68,10 @@
     ]
 },
   "bbox": [
-    -106.112755,
-    35.574339,
-    -106.112755,
-    35.574339
+    -106.11634,
+    35.57062,
+    -106.11634,
+    35.57062
 ],
-  "geometry": {"coordinates":[-106.11275500000001,35.574339],"type":"Point"}
+  "geometry": {"coordinates":[-106.11633999999999,35.57062],"type":"Point"}
 }

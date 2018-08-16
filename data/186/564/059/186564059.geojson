@@ -7,6 +7,7 @@
     "addr:postcode":"87102",
     "addr:street":"2Nd St Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.649342,35.083348,-106.649342,35.083348",
@@ -14,6 +15,7 @@
     "geom:longitude":-106.649342,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"110 2nd St SW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_78QgFyCJImpAA9JeIHPScS_35.083348_-106.649342@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"e9ae140a923a77b18dfc4fcca72794d1",
+    "wof:geomhash":"ce97fd2a9dfd562d0b7b578b3922e210",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":186564059,
-    "wof:lastmodified":1472636682,
+    "wof:lastmodified":1534439167,
     "wof:name":"David J Alderete Atty At Law",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202503973
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

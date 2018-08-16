@@ -2,18 +2,24 @@
   "id": 203111665,
   "type": "Feature",
   "properties": {
-    "addr:full":"103 S Love St Lovington NM 88260",
+    "addr:city":"Lovington",
+    "addr:full":"103 S Love St Lovington, Nm 88260-4218",
+    "addr:house_number":"103",
     "addr:housenumber":"103",
-    "addr:postcode":"88260",
+    "addr:phone":"+1 575-396-4805",
+    "addr:postcode":"88260-4218",
+    "addr:road":"S Love St",
+    "addr:state":"NM",
     "addr:street":"S Love St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-103.347314,32.948075,-103.347314,32.948075",
-    "geom:latitude":32.948075,
-    "geom:longitude":-103.347314,
+    "geom:bbox":"-103.34693,32.95299,-103.34693,32.95299",
+    "geom:latitude":32.95299,
+    "geom:longitude":-103.34693,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"103 S Love St",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 505 396 4805",
     "sg:postcode":"88260",
     "sg:province":"NM",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688493,
         85633793,
@@ -36,10 +43,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403500160,
         "sg:id":"SG_1eZvrhJa5cJWfle5fxincY_32.948075_-103.347314@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"a5b4a66fef257f80f1f1e297c984621a",
+    "wof:geomhash":"47f2a07323b8f0f0f879a9f89beafe12",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":203111665,
-    "wof:lastmodified":1472636511,
+    "wof:lastmodified":1534439165,
     "wof:name":"Lea County Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -103.347314,
-    32.948075,
-    -103.347314,
-    32.948075
+    -103.34693,
+    32.95299,
+    -103.34693,
+    32.95299
 ],
-  "geometry": {"coordinates":[-103.347314,32.948075],"type":"Point"}
+  "geometry": {"coordinates":[-103.34693,32.95299],"type":"Point"}
 }

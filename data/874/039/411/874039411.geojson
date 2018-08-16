@@ -7,6 +7,7 @@
     "addr:postcode":"87111",
     "addr:street":"Osuna Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-106.549163,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8400 Osuna Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464311138,
-    "wof:geomhash":"0373cfbd15245cc72f576d36add9d40e",
+    "wof:geomhash":"988451103d4b6bbb5767e8019d23f834",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":874039411,
-    "wof:lastmodified":1491894236,
+    "wof:lastmodified":1534439165,
     "wof:name":"Gary D Muscarella DDS",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185862251
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

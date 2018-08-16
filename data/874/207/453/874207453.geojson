@@ -2,18 +2,24 @@
   "id": 874207453,
   "type": "Feature",
   "properties": {
-    "addr:full":"110 4th St NW Albuquerque NM 87102",
+    "addr:city":"Albuquerque",
+    "addr:full":"110 4Th St Nw Albuquerque, Nm 87102",
+    "addr:house_number":"110",
     "addr:housenumber":"110",
+    "addr:phone":"+1 810-639-6644",
     "addr:postcode":"87102",
+    "addr:road":"4Th St Nw",
+    "addr:state":"NM",
     "addr:street":"4Th St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-106.651358,35.08545,-106.651358,35.08545",
-    "geom:latitude":35.08545,
-    "geom:longitude":-106.651358,
+    "geom:bbox":"-106.64813,35.08442,-106.64813,35.08442",
+    "geom:latitude":35.08442,
+    "geom:longitude":-106.64813,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"110 4th St NW",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
         "gallery"
     ],
     "sg:website":"www.nmculture.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529173
+    ],
     "wof:belongsto":[
         85688493,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403500006,
         "sg:id":"SG_30BTQGc0yelK4SrVMyTqzf_35.085450_-106.651358@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464312924,
-    "wof:geomhash":"60f61a22a8e4c890516d14c7e0b6b2be",
+    "wof:geomhash":"2e09fc145aa120c70c0f4cec7781c23a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":874207453,
-    "wof:lastmodified":1472636770,
-    "wof:name":"Telephone Pioneer Museum NM",
+    "wof:lastmodified":1534439168,
+    "wof:name":"Telephone Pioneer Museum",
     "wof:parent_id":85871885,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
@@ -71,10 +81,10 @@
     ]
 },
   "bbox": [
-    -106.651358,
-    35.08545,
-    -106.651358,
-    35.08545
+    -106.64813,
+    35.08442,
+    -106.64813,
+    35.08442
 ],
-  "geometry": {"coordinates":[-106.651358,35.08545],"type":"Point"}
+  "geometry": {"coordinates":[-106.64812999999999,35.08442],"type":"Point"}
 }

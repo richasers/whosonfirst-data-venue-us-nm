@@ -7,6 +7,7 @@
     "addr:postcode":"87505",
     "addr:street":"Aspen Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.970689,35.655309,-105.970689,35.655309",
@@ -14,6 +15,7 @@
     "geom:longitude":-105.970689,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1925 Aspen Dr",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_2N75PKZlvXyTTe4rjF0PhM_35.655309_-105.970689@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"b51e34dc1b55f967aa5343c0a526d50b",
+    "wof:geomhash":"57132865ac2845cc3684fad082a423de",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":202933033,
-    "wof:lastmodified":1472636665,
+    "wof:lastmodified":1534439169,
     "wof:name":"Thomas A Rogowsky DC Dibak",
     "wof:parent_id":85880809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874209859
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

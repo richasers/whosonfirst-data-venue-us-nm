@@ -2,18 +2,24 @@
   "id": 203118531,
   "type": "Feature",
   "properties": {
-    "addr:full":"417 Schepps Blvd Clovis NM 88101",
+    "addr:city":"Clovis",
+    "addr:full":"417 Schepps Blvd Clovis, Nm 88101",
+    "addr:house_number":"417",
     "addr:housenumber":"417",
+    "addr:phone":"+1 575-769-2811",
     "addr:postcode":"88101",
+    "addr:road":"Schepps Blvd",
+    "addr:state":"NM",
     "addr:street":"Schepps Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-103.168305,34.401445,-103.168305,34.401445",
-    "geom:latitude":34.401445,
-    "geom:longitude":-103.168305,
+    "geom:bbox":"-103.16828,34.40145,-103.16828,34.40145",
+    "geom:latitude":34.40145,
+    "geom:longitude":-103.16828,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"417 Schepps Blvd",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 505 769 4115",
     "sg:postcode":"88101",
     "sg:province":"NM",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525523,
+        102526481
+    ],
     "wof:belongsto":[
         85688493,
         85633793,
@@ -36,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409503140,
         "sg:id":"SG_5Syh3qBAyqYiaFh0KQYKbH_34.401445_-103.168305@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"280af4244a6e985211b31b734a207021",
+    "wof:geomhash":"b51d6c8b8a2968eaaf332c3a5197fed3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,8 +63,8 @@
         }
     ],
     "wof:id":203118531,
-    "wof:lastmodified":1472636500,
-    "wof:name":"Eula Mae Edwards Museum Art",
+    "wof:lastmodified":1534439165,
+    "wof:name":"Eula Mae Edwards Museum And Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
@@ -62,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -103.168305,
-    34.401445,
-    -103.168305,
-    34.401445
+    -103.16828,
+    34.40145,
+    -103.16828,
+    34.40145
 ],
-  "geometry": {"coordinates":[-103.168305,34.401445],"type":"Point"}
+  "geometry": {"coordinates":[-103.16828,34.40145],"type":"Point"}
 }

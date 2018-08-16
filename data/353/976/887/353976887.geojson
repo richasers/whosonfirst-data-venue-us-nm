@@ -7,6 +7,7 @@
     "addr:postcode":"88101",
     "addr:street":"E 22Nd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.20526,34.420603,-103.20526,34.420603",
@@ -14,6 +15,7 @@
     "geom:longitude":-103.20526,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"124 E 22nd St",
     "sg:city":"Clovis",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_5LYEMCPw2ny1kf5KB9P4nn_34.420603_-103.205260@1303263130"
     },
     "wof:country":"US",
-    "wof:geomhash":"81e61d0175951d5be5650231121c12f7",
+    "wof:geomhash":"9a54d0bbebbc4e680972efb6d149ff40",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":353976887,
-    "wof:lastmodified":1472636510,
+    "wof:lastmodified":1534439166,
     "wof:name":"Smith Chiropractic Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202668963
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"

@@ -7,6 +7,7 @@
     "addr:postcode":"2500;87102",
     "addr:street":"Central Ave Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.644577,35.08363,-106.644577,35.08363",
@@ -14,6 +15,7 @@
     "geom:longitude":-106.644577,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 Central Ave SW 2500",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_6wKRu8b6Jkx3OcxYlHgpev_35.083630_-106.644577@1303263128"
     },
     "wof:country":"US",
-    "wof:geomhash":"f35bad54db9683f4d768d8a8b0968727",
+    "wof:geomhash":"d5992b3a1defb9d92d0f415931e4b14a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":353918633,
-    "wof:lastmodified":1472636458,
+    "wof:lastmodified":1534439168,
     "wof:name":"Leavell, Julita",
     "wof:parent_id":85871877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874116211
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney",

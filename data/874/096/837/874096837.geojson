@@ -2,18 +2,24 @@
   "id": 874096837,
   "type": "Feature",
   "properties": {
-    "addr:full":"238 Ledoux St Taos NM 87571",
+    "addr:city":"Taos",
+    "addr:full":"238 Ledoux Taos, Nm 87571",
+    "addr:house_number":"238",
     "addr:housenumber":"238",
+    "addr:phone":"+1 575-758-9826",
     "addr:postcode":"87571",
+    "addr:road":"Ledoux",
+    "addr:state":"NM",
     "addr:street":"Ledoux St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-105.575287,36.406285,-105.575287,36.406285",
-    "geom:latitude":36.406285,
-    "geom:longitude":-105.575287,
+    "geom:bbox":"-105.57698,36.40602,-105.57698,36.40602",
+    "geom:latitude":36.40602,
+    "geom:longitude":-105.57698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"238 Ledoux St",
     "sg:city":"Taos",
     "sg:classifiers":[
@@ -30,19 +36,21 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403500241,
         "sg:id":"SG_39kYccWTTKGcBtELYsDpnR_36.406285_-105.575287@1294173222"
     },
     "wof:country":"US",
     "wof:created":1464311741,
-    "wof:geomhash":"491fbf599ea13477adb81630b6cd4315",
+    "wof:geomhash":"97b53d34a16434fc662427882f9d4c5c",
     "wof:hierarchy":[],
     "wof:id":874096837,
-    "wof:lastmodified":1472636714,
-    "wof:name":"Harwood Foundation",
+    "wof:lastmodified":1534439169,
+    "wof:name":"Harwood Museum Alliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -105.575287,
-    36.406285,
-    -105.575287,
-    36.406285
+    -105.57698,
+    36.40602,
+    -105.57698,
+    36.40602
 ],
-  "geometry": {"coordinates":[-105.575287,36.406285],"type":"Point"}
+  "geometry": {"coordinates":[-105.57698000000001,36.40602],"type":"Point"}
 }

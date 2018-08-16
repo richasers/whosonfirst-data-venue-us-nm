@@ -2,18 +2,24 @@
   "id": 186568181,
   "type": "Feature",
   "properties": {
-    "addr:full":"211 Main St Truth Or Cnsqncs NM 87901",
+    "addr:city":"Truth Or Consequences",
+    "addr:full":"211 Main St Truth Or Consequences, Nm 87901-2838",
+    "addr:house_number":"211",
     "addr:housenumber":"211",
-    "addr:postcode":"87901",
+    "addr:phone":"+1 575-894-6600",
+    "addr:postcode":"87901-2838",
+    "addr:road":"Main St",
+    "addr:state":"NM",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-107.25248,33.129853,-107.25248,33.129853",
-    "geom:latitude":33.129853,
-    "geom:longitude":-107.25248,
+    "geom:bbox":"-107.25204,33.12972,-107.25204,33.12972",
+    "geom:latitude":33.12972,
+    "geom:longitude":-107.25204,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"211 Main St",
     "sg:city":"Truth Or Cnsqncs",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527819
+    ],
     "wof:belongsto":[
         85688493,
         85633793,
@@ -39,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403500177,
         "sg:id":"SG_4WYRRAWTaYhl2FrOQvbCzn_33.129853_-107.252480@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"4290ee5705e611766b3620c82d5c4b86",
+    "wof:geomhash":"50fee98c24b45bf1bd7095757b423bf3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":186568181,
-    "wof:lastmodified":1472636683,
+    "wof:lastmodified":1534439169,
     "wof:name":"Geronimo Springs Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -67,10 +77,10 @@
     ]
 },
   "bbox": [
-    -107.25248,
-    33.129853,
-    -107.25248,
-    33.129853
+    -107.25204,
+    33.12972,
+    -107.25204,
+    33.12972
 ],
-  "geometry": {"coordinates":[-107.25248000000001,33.129853],"type":"Point"}
+  "geometry": {"coordinates":[-107.25203999999999,33.12972],"type":"Point"}
 }

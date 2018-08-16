@@ -2,18 +2,24 @@
   "id": 202912513,
   "type": "Feature",
   "properties": {
-    "addr:full":"5317 N Lovington Hwy Hobbs NM 88240",
+    "addr:city":"Hobbs",
+    "addr:full":"5317 N Lovington Hwy Hobbs, Nm 88240-9121",
+    "addr:house_number":"5317",
     "addr:housenumber":"5317",
-    "addr:postcode":"88240",
+    "addr:phone":"+1 575-492-2678",
+    "addr:postcode":"88240-9121",
+    "addr:road":"N Lovington Hwy",
+    "addr:state":"NM",
     "addr:street":"N Lovington Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-103.17999,32.759698,-103.17999,32.759698",
-    "geom:latitude":32.759698,
-    "geom:longitude":-103.17999,
+    "geom:bbox":"-103.1798,32.75952,-103.1798,32.75952",
+    "geom:latitude":32.75952,
+    "geom:longitude":-103.1798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"5317 N Lovington Hwy",
     "sg:city":"Hobbs",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 505 392 1275",
     "sg:postcode":"88240",
     "sg:province":"NM",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526037
+    ],
     "wof:belongsto":[
         85688493,
         85633793,
@@ -36,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403500189,
         "sg:id":"SG_2fsdmqH7q29kBoWsmD2m6Q_32.759698_-103.179990@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"ed504157f15f831ddb5d16fe5799b5ba",
+    "wof:geomhash":"124a96fef73ef7433307fc5897408538",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,8 +62,8 @@
         }
     ],
     "wof:id":202912513,
-    "wof:lastmodified":1472636642,
-    "wof:name":"Lea County Cowboy Hall Of Fame",
+    "wof:lastmodified":1534439169,
+    "wof:name":"Western Heritage Museum And Lea County Cowboy Hall Of Fame",
     "wof:parent_id":85802515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -103.17999,
-    32.759698,
-    -103.17999,
-    32.759698
+    -103.1798,
+    32.75952,
+    -103.1798,
+    32.75952
 ],
-  "geometry": {"coordinates":[-103.17999,32.759698],"type":"Point"}
+  "geometry": {"coordinates":[-103.1798,32.75952],"type":"Point"}
 }

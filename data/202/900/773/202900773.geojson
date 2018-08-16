@@ -2,18 +2,24 @@
   "id": 202900773,
   "type": "Feature",
   "properties": {
-    "addr:full":"1280 Fort Selden Rd Radium Springs NM 88007",
+    "addr:city":"Las Cruces",
+    "addr:full":"1280 Fort Selden Rd Las Cruces, Nm 88054",
+    "addr:house_number":"1280",
     "addr:housenumber":"1280",
-    "addr:postcode":"88007",
+    "addr:phone":"+1 575-526-8911",
+    "addr:postcode":"88054",
+    "addr:road":"Fort Selden Rd",
+    "addr:state":"NM",
     "addr:street":"Fort Selden Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-106.914269,32.487051,-106.914269,32.487051",
-    "geom:latitude":32.487051,
-    "geom:longitude":-106.914269,
+    "geom:bbox":"-106.91447,32.4869,-106.91447,32.4869",
+    "geom:latitude":32.4869,
+    "geom:longitude":-106.91447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1280 Fort Selden Rd",
     "sg:city":"Radium Springs",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 505 526 8911",
     "sg:postcode":"88007",
     "sg:province":"NM",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526085
+    ],
     "wof:belongsto":[
         85688493,
         85633793,
@@ -37,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403500063,
         "sg:id":"SG_3aZdtRysklK68UEYdVdbJE_32.487051_-106.914269@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c65133133ae7ac40ff59a3bce895a01",
+    "wof:geomhash":"31e92b2c1ef55a9605602db8a3191775",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,8 +63,8 @@
         }
     ],
     "wof:id":202900773,
-    "wof:lastmodified":1472636651,
-    "wof:name":"Fort Seldon State Monument",
+    "wof:lastmodified":1534439169,
+    "wof:name":"Fort Selden State Monument",
     "wof:parent_id":85823411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -106.914269,
-    32.487051,
-    -106.914269,
-    32.487051
+    -106.91447,
+    32.4869,
+    -106.91447,
+    32.4869
 ],
-  "geometry": {"coordinates":[-106.914269,32.487051],"type":"Point"}
+  "geometry": {"coordinates":[-106.91446999999999,32.4869],"type":"Point"}
 }

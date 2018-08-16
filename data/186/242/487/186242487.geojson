@@ -7,6 +7,7 @@
     "addr:postcode":"87505",
     "addr:street":"2Nd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.964757,35.662333,-105.964757,35.662333",
@@ -14,6 +15,7 @@
     "geom:longitude":-105.964757,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1807 2nd St",
     "sg:city":"Santa Fe",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_5CVENsTUhvyZEQVTssLDSf_35.662333_-105.964757@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"a1c5d550aaef0f6876e1fd4b94a05382",
+    "wof:geomhash":"4aba5925e8f77f968b754dea1de4cd4f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,13 +60,17 @@
         }
     ],
     "wof:id":186242487,
-    "wof:lastmodified":1472636628,
+    "wof:lastmodified":1534439167,
     "wof:name":"Astilli Inc",
     "wof:parent_id":85880783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        202693285
+    ],
+    "wof:supersedes":[
+        169851997
+    ],
     "wof:tags":[
         "organization",
         "arts",

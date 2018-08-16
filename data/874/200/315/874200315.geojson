@@ -7,6 +7,7 @@
     "addr:postcode":"87112",
     "addr:street":"Candelaria Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.538634,35.116332,-106.538634,35.116332",
@@ -14,6 +15,7 @@
     "geom:longitude":-106.538634,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9301 Candelaria Rd NE",
     "sg:city":"Albuquerque",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312847,
-    "wof:geomhash":"ab9961c9dc8af1a75e3f3d366e3736c7",
+    "wof:geomhash":"6f8bf3f0e0c6a03cd079f554dd7d876f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":874200315,
-    "wof:lastmodified":1472636766,
+    "wof:lastmodified":1534439168,
     "wof:name":"Dulin Loyce C MST",
     "wof:parent_id":85825849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874216615
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

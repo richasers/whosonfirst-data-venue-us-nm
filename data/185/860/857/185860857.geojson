@@ -2,18 +2,23 @@
   "id": 185860857,
   "type": "Feature",
   "properties": {
-    "addr:full":"135 Capitol Square Dr San Ysidro NM 87053",
+    "addr:city":"Zia Pueblo",
+    "addr:full":"135 Capitol Square Drive Zia Pueblo, Nm 87053-6013",
+    "addr:house_number":"135",
     "addr:housenumber":"135",
-    "addr:postcode":"87053",
+    "addr:postcode":"87053-6013",
+    "addr:road":"Capitol Square Drive",
+    "addr:state":"NM",
     "addr:street":"Capitol Square Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-106.72849,35.4992,-106.72849,35.4992",
-    "geom:latitude":35.4992,
-    "geom:longitude":-106.72849,
+    "geom:bbox":"-106.72875,35.49898,-106.72875,35.49898",
+    "geom:latitude":35.49898,
+    "geom:longitude":-106.72875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"135 Capitol Square Dr",
     "sg:city":"San Ysidro",
     "sg:classifiers":[
@@ -30,7 +35,8 @@
     "sg:tags":[
         "tribal"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688493,
         85633793,
@@ -39,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403500023,
         "sg:id":"SG_4U2nuc6FsWsAtbMVWKDppR_35.499200_-106.728490@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"ecd5acc07ec54f48a32c5333c6818700",
+    "wof:geomhash":"98f2dd58627f959cfb5ac619d5ec1b18",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,8 +62,8 @@
         }
     ],
     "wof:id":185860857,
-    "wof:lastmodified":1472636555,
-    "wof:name":"Pueblo of Zia",
+    "wof:lastmodified":1534439169,
+    "wof:name":"Pueblo Of Zia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
@@ -67,10 +74,10 @@
     ]
 },
   "bbox": [
-    -106.72849,
-    35.4992,
-    -106.72849,
-    35.4992
+    -106.72875,
+    35.49898,
+    -106.72875,
+    35.49898
 ],
-  "geometry": {"coordinates":[-106.72848999999999,35.4992],"type":"Point"}
+  "geometry": {"coordinates":[-106.72875000000001,35.49898],"type":"Point"}
 }

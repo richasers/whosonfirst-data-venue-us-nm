@@ -7,6 +7,7 @@
     "addr:postcode":"88435",
     "addr:street":"Parker Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.686521,34.942257,-104.686521,34.942257",
@@ -14,6 +15,7 @@
     "geom:longitude":-104.686521,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"420 Parker Ave",
     "sg:city":"Santa Rosa",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
         "sg:id":"SG_5eMsP0zsOgVCcOCqSWbOwN_34.942257_-104.686521@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"3ae8f8dca25192eef38c4fa55c54f198",
+    "wof:geomhash":"17cf5ecd063896dcd710590894c7fccf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":202771351,
-    "wof:lastmodified":1472636629,
+    "wof:lastmodified":1534439168,
     "wof:name":"Guadalupe County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874209445
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
